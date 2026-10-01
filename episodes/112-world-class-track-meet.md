@@ -1,0 +1,40 @@
+# 112 - World Class Track Meet
+
+- RUN, JUMP, AND RACE TO YOUR HEART’S CONTENT
+- Introductions
+- World Class Track Meet
+  - Repurposed Stadium Events now sold by Nintendo to promote the Power Pad
+  - Not a real problem, but could you have bought this game twice?
+  - Nintendo Play Station is at Auction
+  - EGL
+- Accessories
+  - NES Advantage - June 87
+  - NES MAX - 1988
+  - ROB and defunct hardware (Think Rockband)
+- State of Gaming in 1988
+  - Arcade
+    - 16 bit is now available
+    - Where are the ports of?
+      - Pac-Man
+      - Street Fighter 1
+      - Sid Meier's Pirates!
+      - R-Type https://www.youtube.com/watch?v=i180SFOH4sQ
+    - Zelda II, Castlevania II, Final Fantasy, and Dragon Quest are out in Japan
+    - Sega Master System
+      - Fantasy Zone
+      - Alex Kidd
+      - Space Harrier
+      - Wonder Boy
+      - OutRun
+      - AfterBurner
+    - PC-Engine is out there
+      - Despite being known as the Turbo-Grafx 16 it used an 8-bit CPU
+- What Are you looking forward to next?
+  - RPGs
+  - The next SHMUP king
+  - Platformers that try to mimic Super Mario Bros.
+- 25:43 - SONG
+- 29:47 - Break
+- 33:53 - Sean Resets
+- 36:05 - Back in
+- 38:15

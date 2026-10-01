@@ -1,0 +1,38 @@
+# 235 - Tetris
+
+- The Soviet Game Sensation
+- NES Longplay
+- Introductions
+  - Nintendo, a company that is very careful, chooses what does and doesn’t get localized. Rejects several NES versions of Tetris for being unlicensed and such…and yet the version they PUBLISH has the words SOVIET SENSATION on the back. Kinda makes the whole thing silly right?
+  - Also worth mentioning that I LOVE Tetris. Not necessarily NES Tetris that we’re talking about today, but Modern Tetris is something I both play a lot of and fancy myself to be a pretty good player.
+- Overview
+  - Different shaped blocks fall down from the top of the screen, it’s your job to stack those blocks on top of each other by rotating and guiding them into the proper position. In order to remove the blocks from the screen you have to fill up the entire line with blocks, take caution though, as only the lines you completely fill disappear. The rest remain and continue to inch closer to the top until it’s game over.
+- Gameplay
+  - The speed of Tetris
+  - Distribution of each type of block
+  - The inability to HOLD pieces
+  - Your strategy
+  - The most satisfying game since Pac-Man?
+  - A certain stickiness to the pieces
+  - B-Type game is where you see how high you can score with 25 lines.
+    - This is now referred to as sprint, but there’s noticeably no timer here. It’s just about points not speed.
+- In the marketing materials for Nintendo’s release they keep referring to things as Tetris-ized and getting your Tetris Shot. Just checking to see if I’m missing something here, these words seem random.
+  - https://www.youtube.com/watch?time_continue=28&v=NYgxzOKEKgo&feature=emb_logo
+- Sequels and Spinoffs
+  - Let’s not talk about the 1000+ Tetris games and just keep focused on the other versions that technically came to the NES that we can’t formally review.
+    - Tetris (Tengen)
+      - Unlicensed Atari version
+      - Blocks don’t have little squares between them to make them look more blocky. Kinda like long liquidy lines.
+      - Has a cooperative mode where both players stack blocks together in a t-shaped field
+      - And a verus mode against friends or computer
+      - It shows the distribution of what type of blocks you’ve been getting. Maybe to help you look at what might be coming based on what you haven’t received.
+      - Can have a handicap which indicates how many unfilled lines you will start with
+      - Somewhat Different music tracks.
+    - Tetris (Bulletproof)
+      - Japan only
+      - The A button is now the drop button and you rotate blocks by pushing down on the d-pad. You cannot move blocks down faster other than a hard drop. It’s insane.
+      - You can select a “round” which basically just gives you random blocks on the screen at varying difficulties to make it more puzzle like
+- EGL
+  - Original Tetris is a lot like Pong. You have to respect it and understand the art. Without Tetris there are no tetris variants. But that doesn’t mean that being first is equivalent to being best. I think many other versions of Tetris have built better using the blocks found in this game.
+- Next week - TO THE EARTH
+- NEStalgia Byte - Pac-Land

@@ -1,0 +1,26 @@
+# 186 - Desert Commander
+
+- The enemy has been sighted. Your challenge has been accepted. The future of the free world now awaits your brave and steady command.
+- NES Longplay - https://www.youtube.com/watch?v=WWXnQlrG8JM
+- Introductions
+  - turn-based strategy video games
+- Overview
+  - In the original Japanese release you choose between playing as the Allies or Axis led by either Patton or Rommel. In this North American version WWII titles have been stripped.
+  - The main gameplay objective is to either occupy the enemy headquarters or destroy all opposing forces on the playfield and the player that does so first wins
+- Gameplay
+  - Five Different Scenarios
+    - Mostly made harder by you having less units than the CPU
+      - YOU CAN CHANGE THIS with player 2 controller
+  - Changing your loadout before scenario start
+  - Units and Balance
+    - Good mix of counter units (think rock-paper-scissors)
+    - Infantry units not well suited for the map size?
+  - Map size vs number of units
+  - Terrain advantages
+  - Strong favor to those who attack
+  - You really wanna lay back in war. Spreading out and engaging first is a losing strategy
+- Kemco
+  - Joe they already brought us Spy vs Spy...but also Superman
+  - North and South - Civil War
+- EGL
+- Next week - Guerilla War

@@ -1,0 +1,32 @@
+# 149 - Rampage
+
+- Are you ready for the real thing?
+- Introductions
+  - ANGRY
+- Gameplay
+  - The NES version excludes Ralph, reducing the number of monsters to two. And they don’t do anything different
+  - Being the monster
+  - The army is pretty relentless, but they don’t do much damage
+  - Destroying buildings is awkward
+  - Can you die?
+  - The luxury of home console gaming. Unlimited Continues
+- Arcade
+  - After 768 days, the game resets back to Day 1. As game developer Brian F Colin stated "the hardware couldn't support that much art and we never figured anyone would get through 768 levels"
+- Small Trivia
+  - Walt Disney Animation Studios named their film character Wreck-It Ralph after Ralph the wolf, since as the bad guy in his game "Fix-It Felix Jr.", his job was to smash an apartment building so the hero Felix could repair the damage.
+  - The Atari Lynx version adds a special fourth character named Larry, a giant rat.
+  - In 2017, Basic Fun released a mini arcade port of the NES version of the game with Ralph added.
+- Sequels and Spinoffs
+  - Rampage World Tour
+    - developed for Midway by the original designers, Brian Colin and Jeff Nauman.
+  - Rampage 2: Universal Tour
+  - Rampage Through Time
+  - Rampage Puzzle Attack.
+  - Rampage: Total Destruction.
+  - 2018 Movie
+    - A theatrical film adaptation based on the game was developed by Warner Bros and New Line Cinema, directed by Brad Peyton and starring Dwayne Johnson with John Rickard and Beau Flynn as producers. The film was released on April 13, 2018
+- EGL
+- Next week - Rampage
+- Spy hunter film
+- Tetris trilogy
+- War of the monsters

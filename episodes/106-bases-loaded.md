@@ -1,0 +1,31 @@
+# 106 - Bases Loaded
+
+- Back of the Box
+- Manual
+- Introductions
+- Overview
+  - Sean explains Baseball
+- Gameplay
+  - Much more realistic looking take
+    - A television-style depiction of the pitcher-batter matchup
+    - All made up teams and players
+  - FULL SEASON available
+    - Choose from 12 teams
+  - Batting
+    - Control where you swing
+  - Running
+    - You have less time than you think
+  - Pitching
+    - Can pitch in 9 different zones
+    - pitcher can provoke a batter to charge the mound. Each team has only one batter (usually the team's best hitter) who can be provoked in this manner, however; it is up to the player to discover who it is.
+  - Fielding
+    - Is everyone just really slow? No, you’re just better off not controlling them
+  - Sluggish feel to the game. Even between batters.
+- Sequels and Spinoffs
+  - Bases Loaded II: Second Season
+  - Bases Loaded 3
+  - Bases Loaded 4.
+  - There was also a Game Boy version of Bases Loaded
+  - The series continued onto the SNES platform with Super Bases Loaded, Super Bases Loaded 2, and Super Bases Loaded 3
+  - The final entry to the series was Bases Loaded '96: Double Header, released for the Sega Saturn and PlayStation.
+- EGL

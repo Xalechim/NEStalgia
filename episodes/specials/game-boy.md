@@ -1,0 +1,49 @@
+# Game Boy
+
+- Introductions
+  - Did we all own a GAME BOY growing up? OG, Pocket, Light, Color?
+    - Well color is a whole different system
+  - In BEST OF 89 we talked about how Nintendo was taking the back seat on the NES, but it was probably because of the GAME BOY.
+- Development
+  - First off, this isn’t the GAMING HISTORIAN podcast so we’re not trying to cover ground that is well covered on YouTube, books, and podcasts elsewhere.
+  - But it’s worth mentioning a few things
+    - designed by Nintendo's chief engineer Gunpei Yokoi
+      - Worth mentioning he was also the designer of the Game and Watch so easy to see why the trust him
+    - The internal name was Dot Matrix Game which lives on in the model number DMG-01
+    - Shigesato Itoi (of MOTHER series fame) visited Nintendo and conceived the name "Game Boy"
+    - There were many purists at Nintendo who thought the Game Boy would be a failure and the NES was where real game developers worked.
+    - It’s 160 (w) × 144 (h) compared to
+    - Supports four shades from light to very dark olive gree
+  - Is it weird that the Game Boy is just for GAMES and doesn’t build upon the WATCH with other PDA like functions?
+- Game Boy competes with Atari Lynx which also came out in 1989, but the way Lynx kills your batteries is INSANE
+- Mike’s Adventure with the Game Boy
+  - Getting used to the screen
+    - Playing with contrast
+    - Eyes do adjust over time
+  - Playing on the subway
+    - Nearly impossible with the lighting
+  - The “portability”
+    - Def. not something that fit in your pocket, had to be stored in a backpack or similar. And most likely only carrying the game that’s in it so better be a good one.
+- Super Mario Land
+  - This is not the Mario we’re used to
+    - He’s got a weird shape
+    - Unfamiliar enemies
+    - Different land - Sarasaland
+    - Different Princess - DAISY
+    - Different rules
+    - SHMUP sections?!
+  - Miyamoto did not work on SML
+  - Compared to Super Mario Bros., which contains 32 levels subdivided into 8 "worlds" with 4 levels each, Super Mario Land is smaller, with 12 levels subdivided into 4 "worlds" with 3 levels each.
+- Baseball and Tennis
+  - Mostly the NES ports including the same issues we had with each game
+  - I still feel like Tennis is the more “responsive” game. Maybe it’s pacing
+- Alleyway
+  - After Stage 2 they just stop with the new designs?
+  - It’s a satisfaction kinda game, not much meat to it
+- The bundled game - TETRIS
+  - Again it’s mostly the NES port, but obviously this is the game that lends itself to the portable nature. The 1 MORE GAME factor
+- All of these games except SML supported the Link Cable feature built into the system
+- There are 2 other big hardware release in 1989 that we didn’t cover
+  - TurboGrafx-16
+  - The Sega Genesis!
+  - 16 bit games are here and where is Nintendo?

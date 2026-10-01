@@ -1,0 +1,42 @@
+# 124 - Ghostbusters
+
+- When there’s something strange in your earbuds, who ya gonna call? NEStalgia!
+- Introductions
+  - The actual back of the box is really weird
+    - Paranormal activity.
+    - Ghostbusters Headquarters.
+    - One Marshmallow Man.
+    - Ghost-catching gear.
+    - One hit song.
+    - Slime.
+    - Laser Stream Throwers.
+    - One ectomobile.
+    - One street map.
+    - One Temple of Zuul.
+    - And a zillion ghosts.
+- Ghostbusters
+  - The Movie
+  - The Fanbase and extended cannon
+- Overview
+  - Welcome to the Ghostbusters Business simulator! Travel around NYC in the Ectomobile, purchase necessary equipment, visit haunted places, capture ghosts, make more money.
+- Was this the way you imagined a Ghostbusters game?
+- The Hub
+  - Gas Station
+  - Ghostbusters cursor icon
+  - GhostBusters HQ
+- What did you buy?
+- Catching the Ghosts
+- Zuuls Stage
+- CONGLATURATION
+- Development
+  - “Here’s a tip for game designers I like to call: ‘How to deal with a tight deadline.’ Complete a full game as quickly as possible, and then go back and enhance until they pry the code from your hands. After that, STOP adding features and only fix bugs, or you’ll simply fall victim to ‘creeping elegance’. Give your game a beginning, middle, and an end. If the code-release deadline comes and all you have is a fully playable and beautifully tweaked main game, all of your work is commercially worthless! That game can’t be released. Implement the complete game flow, from the time the player boots up until the final congratulations screen. Do this first, even if the fun part – the main gameplay sequence – is nothing but a placeholder. Second, make the game really fun but leave out neat little enhancements that might take a day or two to code. Then in the last weeks of a project, revisit each part of the sequence based on greatest need and add the cool little ideas that have been percolating in your brain. The result is that near the end of the allocated time you have an average, but complete game that has at least some commercial value even before it has all the coolest tweaks. But since everybody knows that a great game sells better than an average game, you have the leverage to show your publisher that you can improve the game with each subsequent day they can give you.
+- Sequels and Spinoffs
+  - Ghostbusters II - NES
+  - THE REAL GHOSTBUSTERS - Arcade 1987
+  - Extreme Ghostbusters
+  - Ghostbusters - 2009 360/PS3
+  - Ghostbusters - 2016 PS4/XBONE (terrible)
+- EGL
+  - A very interesting approach to a Ghostbusters game, but I can’t help feel like an action platformer where you start in the library and work your way to a fight against Stay Puft would’ve been more appreciated.
+- Next week - Joust
+  - Will it be able to replace Balloon Fight

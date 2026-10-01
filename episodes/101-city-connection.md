@@ -1,0 +1,28 @@
+# 101 - City Connection
+
+- Back of the Box is downloaded
+- Manual
+- Introductions
+- Jaleco
+  - Founded in 1974, this is their first game on the NES. They are also known for Bases Loaded and probably more as a Publisher than a Developer
+  - Possibly developed by Axes Art Amuse. The Arcade developer was the Japanese Company Hect.
+  - Jaleco mainly worked with TOSE
+  - Jaleco’s parent company filed for Bankruptcy in 2014 and Jaleco was purchased by City Connection, an indie Japanese studio that specializes in Soundtrack releases.
+- Overview
+  - The player takes control of Clarice, a blue-haired teen in her Honda City hatchback, in her efforts to travel the world in order to find herself the perfect man.
+  - To clear each stage, the player must paint over all the roads by driving across them, changing the pavement color from white to green.
+- Gameplay
+  - Turning the car
+  - Shooting the police
+  - That cat thing
+  - Miles system
+- Music
+  - The song used when Clarice hits one of the flag-waving cats is “Flohwalzer”, known in Japan as “Neko Funjatta” (lit. “I Stepped on the Cat”). The game is one of the first to use a new music track for each stage rather than reusing a single song. One stage features a remix of the song “Highway Star” by Deep Purple.
+- 1985 Honda City Hatchback Auction
+- City Connection Commercial
+- Sequels and Spinoffs
+  - Released in December 85 for Arcade as Cruisin’
+  - City Connection Rocket
+    - developed by Studio Runba and released for Japanese mobile phones in 2004, available from Jaleco through i-mode.
+    - The game places Clarice as a spy for a secret organization to capture criminal leaders from around the world. Rather than painting sections of the road, Clarice must now collect briefcases placed in each stage whilst avoiding police cars and other types of enemies
+- EGL

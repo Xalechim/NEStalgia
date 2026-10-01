@@ -1,0 +1,29 @@
+# 178 - Mappy Land
+
+- MAPPY HAS DYNAMIC PLANS FOR HIMSELF AND HIS GIRLFRIEND, MAPICO
+- NES Longplay - https://www.youtube.com/watch?v=lbaefzok-J8
+- Introductions
+  - The Ultimate Cat and Mouse Game
+  - If Q-Bert is B-Tier...what tier is MAPPY
+- Overview
+  - Arcade Platformer where you have to dodge the cats while collecting the cheese to bring back to your girlfriend Mapico
+- Gameplay
+  - Trampolines
+  - Are the layouts interesting?
+  - Should there have been more cat/mouse chase related hijynx?
+  - The Weapons
+  - Bonus Level
+    - The bonus round is rather difficult to access. It appears in certain stages, and is unlocked by jumping on a specific trampoline three times without any distraction items. Normally this would kill Mappy, but here it will send him into the clouds, with various extra items to collect
+  - STORY
+    - Story 1: It is Mapico's birthday, and the task is to collect cheese as her present.
+    - Story 2: Mappy wishes to marry Mapico, and must collect wedding rings.
+    - Story 3: Mappy and Mapico are having a Christmas party, and Christmas trees must be collected.
+    - Story 4: It is Mappy Jr.'s birthday, and the task is to collect baseballs for his present.
+- Sequels and Spinoffs
+  - MAPPY - the original arcade game
+  - Hopping Mappy (Arcade Sequel)
+    - the Micro Police mouse, Mappy, as he bounces on a pogo stick to run circles around pink cats, called Meowkies
+  - Mappy Kids (Famicom)
+    - Mostly the same game but with a slot machine
+- EGL
+- Next week - MysteryQuest

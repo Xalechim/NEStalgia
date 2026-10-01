@@ -1,0 +1,31 @@
+# 190 - Mega Man 2
+
+- He’s back!
+- NES Longplay - https://www.youtube.com/watch?v=KvkHhpz2FrY
+- Introductions
+  - Mega Man
+  - Sequels
+    - Although sales for the original Mega Man were unimpressive, Capcom allowed the team to create a sequel.
+- Overview
+  - In the year 200X, a super robot named Mega Man was created. Dr. Light created Mega Man to stop the evil desires of Dr. Wily. However, after his defeat, Dr. Wily created eight of his own robots to counter Mega Man.
+- Gameplay
+  - Improvements
+    - Difficulty Modes
+    - 8 robot masters instead of 6
+    - Energy Tank
+    - The platform additions
+  - If it ain’t broke don’t fix it
+    - Why is this game not following the sequel NES formula
+  - Metal Man, Air Man, Bubble Man, Quick Man, Crash Man, Flash Man, Heat Man, and Wood Man
+  - Movement
+    - It ain't there
+  - The longer 2nd half
+  - Did the game do anything worse than Mega Man 1?
+  - The creative Password System
+- Development
+  - The game had to be made on developers own time
+  - The developers allowed input from the public by including boss designs created by fans. Capcom received 8,370 boss submissions for the game
+- Sequels and Spinoffs
+  - Mega Man 2 - Game Boy
+- EGL
+- Next week - Monster Party

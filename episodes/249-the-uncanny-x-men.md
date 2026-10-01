@@ -1,0 +1,34 @@
+# 249 - The Uncanny X-Men
+
+- It’ll take all of your mutant powers to defeat Magneto
+- NES Longplay
+- Introductions
+- AND WELCOME TO THE NESTALGIA BLACK FRIDAY SPECIAL! FOR AN UNLIMITED TIME ONLY (ticking clock) WE’RE BRINGING YOU THE BIGGEST SAVINGS IN PODCAST HISTORY. OVER 250 EPISODES OF OUR SHOW COMPLETELY FREE (cash register). AND AS A SPECIAL DOORBUSTER (DOORBUSTER!!!) FOR OUR PATREON SUBSCRIBERS THEY ARE GETTING THIS EPISODE ON THANKSGIVING (RED THURSDAY). YOU TOO CAN SAVE, NOT YOUR MONEY BUT YOUR TIME WHEN YOU JOIN OUR PATREON (PATREON.COM/NESTALGIA) AND GET ACCESS TO CERTAIN EPISODES HOURS EARLIER. SO STAMPEDE OVER NOW AND PAY FOR YOUR DISCOUNT. AND LISTEN TO THIS EPISODE AGAIN ON CYBER MONDAY FOR DOUBLE THE SAVINGS
+  - X-Men
+    - Kinda confusing ever since the beginning because even issue #1 had Marvel Girl
+  - Fav X-Man?
+- Overview
+  - Choose your X-Men Sueprhero and an AI/2nd Player Superhero to enter any stage of your choosing. Clear the area of constantly spawning enemies as you try to get closer to the Supervillain at the end of each stage. All levels are played Top-Down
+- Gameplay
+  - The most interesting part of the X-men are their unique powers. How unique does each character feel?
+    - Wolverine - Melee combat
+    - Colossus - Melee combat
+    - Nightcrawler - Melee but can walk through walls (loses health)
+    - Cyclops - Projectile combat
+    - Storm - Projectile combat and can fly
+    - Iceman - Projectile combat and can fly
+  - 2 player because the X-Men are always a team, how did the concept pan out?
+    - You can easily be screwed if your teammate isn’t nightcrawler because AI can get stuck.
+    - AI feels like a liability, maybe they should’ve taken note from TMNT and made it so you could cycle through the X-Men characters by pausing
+  - if you can kill one type of enemy you can kill them all
+  - According to the back of the box It’s up to you to defeat Magneto of course that’s if you can even find him
+    - Hidden code after beating each level plus needing the box
+- Sequels and Spinoffs
+  - Wolverine - NES 1991
+    - side-scrolling action game
+  - X-Men arcade game 1992
+    - Probably the most famous X-Men game. And lets as many as 6 people be the X-Men at once
+  - There are 52 X-Men Video Games
+- EGL
+  - very simple and repetitive. I don’t feel like I’m the X-Men while playing this game. Which is the bare minimum they should’ve hoped to accomplish.
+- NEStalgia Byte - Kid Dracula

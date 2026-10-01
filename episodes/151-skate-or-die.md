@@ -1,0 +1,46 @@
+# 151 - Skate or Die
+
+- Psych up for 5 of the raddest skating events ever
+- Introductions
+  - Skate or Die! was Electronic Arts' first in-house game, i.e. the first developed by full-time employees. All prior EA titles had been done by independent contractors.
+  - But Konami does the porting here so do we judge EA or Konami or both?
+- Overview/Plot
+- Gameplay
+  - The Shop idea is cool and registering your name upfront is a neat way to handle scores
+  - As soon as you leave that shop we get NES Jank right away
+    - UP TO ACCELERATE?!
+    - Doesn’t help that the controls change for each event. So you have to relearn each event.
+  - Practice Mode is useless.
+  - Events
+    - freestyle ramp
+      - 10 passes to score as many points as possible
+    - high jump
+    - downhill race (in a park setting)
+    - downhill jam (in a street setting)
+    - pool joust
+      - In this event, you are in an empty pool with an opponent.  The objective is to knock your opponent down with the bopper, and score the most points.
+  - Technically an 8 player game
+  - Switching from Regular to Goofy Foot changes the direction you turn when pushing the control pad.
+  - What’s it feel like to skate compared to Wacky Water Rage
+- Musings
+  - This game is commonly confused with the Atari coin-op 720º. The confusion stems from the spoken "Skate or die!" yelled in the coin-op.
+  - "If you like Skate or Die, drop us a line and we'll see that the nurses read it to (the developers)."
+- Development
+  - EA vs Epyx vs Atari
+    - Electronic Arts founder Trip Hawkins was looking for a way to capitalize off of the success of the Epyx sports games
+    - Right around the same time, several Epyx programmers and graphic artists quit over Epyx' decision to bring Atari Corporation in to market and manufacture their console project (later known as the Atari Lynx).
+    - Trip Hawkins found out about these programmers leaving Epyx and reached out to hire these programmers for the purpose of producing a sports series of games.
+    - The idea for a skateboarding style game came from Producer Don Traeger, who had been inspired by a coin-operated skateboarding game from Atari called 720°.
+- Sequels and Spinoffs
+  - Ski or Die - winter versions of this game
+  - Skate or Die 2 - Adventure style game
+  - Skate or Die: Bad 'N Rad - GB Game
+    - The player controls an unnamed skateboarder, whose quest is to rescue Miss Aerial from the antagonist, ElRad the Evil One.
+    - It’s a weird action platformer
+  - Skate or Die: Tour de Thrash - Second GB Game
+    - More like Skate or Die
+    - Sponsored by Santa Cruz Skateboards...possibly
+  - Cancelled Reboot in 2002
+    - https://www.unseen64.net/2017/06/20/skate-die-reboot-xbox-ps2-cancelled/
+- EGL
+- Next week - Skate or Die!

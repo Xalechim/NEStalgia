@@ -1,0 +1,36 @@
+# 163 - Q*Bert
+
+- This game is so mind boggling - it will knock you out!
+- Introductions
+  - The *
+  - What is a QBERT?!
+    - Why is not QWERT
+- Overview
+- Gameplay
+  - Is it satisfying?
+  - The challenge is the isometric nature right?
+    - Described as an axonometric third-person perspective to convey a three-dimensional look
+- Development
+  - Warren Davis, asked if he could use them to practice programming randomness and gravity as game mechanics.
+  - Davis also believed games with complex control schemes were frustrating and wanted something that could be played with one hand. To accomplish this, Davis removed the shooting and changed the objective of saving the protagonist from danger.
+  - The original title was @!#?@!
+  - Davis expressed regret for the asterisk, because it prevented the name from becoming a common crossword term
+- Qbert Quazy
+  - In 1983, Q*bert was adapted into an animated cartoon as part of Saturday Supercade on CBS
+  - Over 125 licensed QBert Merch. Frisbees, sleeping bags, bedsheets. They made it
+  - The video game crash of 1983 depressed the market, and the game's popularity began to decline by 1984.
+  - Q*bert characters appear in Disney's Wreck-It Ralph and Pixels.
+- Sequels and Spinoffs
+  - Q*Bert's Qubes
+  - mSimilar gameplay, but is now in three dimensions...except not really? It’s just like cubes are more spaced out.
+  - QBert 3 - SNES
+    - This game better be called QBert CUBED
+    - Where is 2?
+    - And it’s really just Qbert 1 with some new layouts.
+  - Qbert - Sega Dreamcast
+    - 3D puzzle adventure
+  - Qbert Rebooted (2014)
+    - The Rebooted 3D game mode changes the tiles from squares to hexagons, offering six points of directions to move instead of the classic four.
+- EGL
+  - Qbert is fun, but I can’t recommend anything here other than some insight into platforming arcade games.
+- Next week - Tecmo Bowl!

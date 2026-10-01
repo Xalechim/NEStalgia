@@ -1,0 +1,44 @@
+# 099 - Ikari Warriors II: Victory Road
+
+- Back of the Box
+- Manual
+- Introductions
+- Top 5 Games of 2010s
+  - Breath of the Wild
+  - Witcher 3
+  - Batman Arkham City
+  - Pac Man Championship Edition DX
+  - Super Mario 3D World
+- Trends of the 2010s
+  - MTX
+  - Mobile Gaming
+  - Online Play
+  - fear of Multiplayer taking over Single Player games
+  - Start of streaming
+- Overview
+  - Vertical Run and Gun game where you have to destroy the enemy aliens as they enter the screen.
+- Story
+  - READ THE MANUAL
+- Gameplay
+  - NO INTRO!
+    - Even Ikari Warriors 1 had the plane crash?
+  - Controls
+    - Fever dream levels of failure
+  - Level One
+    - Enemy design sucks
+    - Where the hell am I?
+  - Weapons
+  - Barshop
+    - Fight Bounty Hunters for Heart
+  - Power Ups
+    - Bonus Score - Flashing Scores (means the number on the flash)
+    - Arrow Power - You can use this power only once?
+- Arcade
+  - RIDICULOUS INTRO
+  - "You have fighted well to the last stage. Thanks. All devils have gone to the world where they should stay."
+- Sequels and Spinoffs
+  - Ikari III: The Rescue
+    - Arcade Games, NES, Commodore 64, PC, PSP
+    - It's the end of the 20th century. A worldwide economic recession wreaks havoc with the nation and the planet. The impending threat of anarchy has given rise to a secret vice organization called "Crime Ghost."
+- EGL
+  - I couldn’t stand it

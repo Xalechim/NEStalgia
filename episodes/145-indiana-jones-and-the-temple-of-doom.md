@@ -1,0 +1,43 @@
+# 145 - Indiana Jones and the Temple of Doom
+
+- Feel what it's like to be Indiana Jones!
+- Introductions
+  - Another one of those Unlicensed THEN licensed Tengen games
+  - It takes a lot to get to this version of the game
+    - The film comes out in 84
+    - The Arcade game is made by Atari in 85
+    - Unlicensed game comes out in early 88
+    - Nintendo wins Lawsuit
+    - Mindscape releases the licensed version of Temple of Doom in December 88
+- Let’s talk about THE MOVIES
+- THE GAME SAYS PRESS START BUT YOU PUSH SELECT
+- Gameplay
+  - OVERVIEW
+    - Indiana Jones and the Temple of Doom gives the player control of Indiana Jones as he makes his way through the temple in a series of 12 levels or "waves."
+  - The very start of the game made me trip out
+  - Rescue kids, then rescue the sword, then rescue the gun, like come on
+  - This game reminds me of Super Pitfall in many ways
+    - Worst jump since that game
+  - The level layouts always make the game a chore. It’s actually not fun to do anything they set out to do
+  - A two handed maneuver to select weapons in an action game filled with enemies/conveyor belts
+  - It’s a very confusing perspective
+  - Secret doors
+    - It seems simple, but the levels are too large and your ammo is too scarce for you to just throw them around aimlessly.
+  - The first 9 waves
+    - In these stages, the player may restart the game with all items intact in the last area reached. Afterwards, if the player dies, they must return to the Chamber of Kali (Wave 9) and finish the game from that point.
+  - Building the dragon lava bridge
+- Arcade Differences
+  - In the original arcade version, the Sankara Stones were not all found in one location at the end of a wave. Instead, Jones had to travel through a temple every two rounds.
+  - More weapons and items for Jones to collect from the slave children he frees.
+  - Jones was also unable to jump
+- This game fits two different NES criteria. Based on a successful licensed property AND a successful arcade game ported to NES.
+- Sequels and Spinoffs
+  - Raiders of the Lost Ark is the first Indiana Video Game. Very popular but let’s recap some weird ones
+  - The Young Indiana Jones Chronicle - Made by Juh-leh-co
+    - We will play this on the NES. Follows the short lived TV show
+  - Indiana Jones and his Desktop Adventures
+    - The game is set in mid-1930s Mexico. Indy and Marcus Brody have set up headquarters in the small town of Lucasio from which to conduct excavations at Site R, whereupon they are immediately confronted with a series of mysteries, emergencies and adventures.
+  - Indiana Jones and the Staff of Kings for Wii and PS2
+    - The game takes place in 1939, and involves Indiana Jones searching for his former mentor Charles Kingston while competing with rival archaeologist Magnus Völler for the Staff of Moses.
+- EGL
+- Next week - Othello

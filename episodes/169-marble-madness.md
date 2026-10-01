@@ -1,0 +1,27 @@
+# 169 - Marble Madness
+
+- Roll to the goal in a race against time
+- Introductions
+- Overview
+  - A platform game in which the player must guide a marble through courses, populated with obstacles and enemies, within a time limit.
+- Gameplay
+  - Movement
+  - Layout
+  - Obstacles and Enemies
+  - What if no time limit?
+  - More tricks?
+- Development
+  - Mark Cerny
+    - The list of credits is underappreciated.
+- Sequels and Spinoffs
+  - Arcade Version first
+    - Trackball
+  - Tons of Ports
+  - An arcade sequel titled Marble Man: Marble Madness II was planned for release in 1991, though Cerny was uninvolved in the development
+    - Up to three players
+    - Pinball Minigame
+    - Power Ups
+    - It didn’t perform well enough for a full release
+  - Marble Madness has a few spiritual successors though right? Super Monkey Ball?
+- EGL
+- Next week - Marble Madness

@@ -1,0 +1,31 @@
+# 225 - Casino Kid
+
+- Outwit and outplay your rivals for a chance to become the King of the Casino
+- NES Longplay
+- Introductions
+  - Nothing like Kids, Casinos, and gambling!
+  - Gambling is actually more accepted than ever now though
+- Overview
+  - The player challenges 8 poker and 8 blackjack opponents. The goal is to grow your cash up to $1,000,000 and take on the mystery opponent in a winner takes all game.
+- Gameplay
+  - Why can’t I find my freakin’ opponent
+  - Final Fantasy / Dragon Warrior vibe to walking around the casino
+  - Blackjack
+    - Feels like the odds are better than real life? Did they actually find a way to make it easier early on?
+  - Poker
+    - The tells: The face, the words, the betting
+    - The game crafted a moment between me and the old timer Joseph (all in hand and it gave me a full house)
+  - The final battle against KING
+    - Takes place in a separate Mansiomn.
+    - Both have $1,000,000, and it is a test of pure Poker skills with the bet range at $10,000-$100,000!!!
+  - Casino Kid JAPAN - The real version of the game
+    - The Japanese version has a kid imagining himself to be the casino champion
+    - possible to travel to other casinos like New York City and Japan for a substantial airfare cost.
+    - Choose your own name
+    - Also includes Slot Machines and Roulette
+- Sequels and Spinoffs
+  - Casino Kid 2
+  - Are there gambling games you guys enjoy?
+- EGL
+- Next week - Casino Kid
+- NEStalgia Byte - Tower of Druaga

@@ -1,0 +1,28 @@
+# 191 - Monster Party
+
+- IT’S A SCREAM!
+- NES Longplay - https://www.youtube.com/watch?v=RFkTCoeJNMs
+- Introductions
+  - Just in time for Halloween
+- Overview
+  - Mark, on his way home from a baseball game, is approached by a winged, griffin-like alien named Bert, who seeks assistance in ridding "evil monsters" from his realm, "Dark World".
+  - Mark is reluctant to help, but Bert explains that anyone will do, and that Mark's baseball bat will be as good a weapon as any. Bert quickly whisks him away, and on the way to Dark World magically fuses himself to Mark so that they are one being (with Mark able to transform into Bert for a limited time).
+- Gameplay
+  - Welcome to hell
+    - WATCH OUT FOR THE BEATLES
+    - Everything has a face
+    - This is a game you almost need to just play and talk out loud
+  - Bosses
+    - Could you imagine if modern bosses behaved like this
+    - MM2 bosses felt alive
+  - Platforming
+  - You can crawl like a worm in this game
+  - Playing as Bert
+  - Doors of nothing
+  - a giant, hopping fried shrimp. Defeating this form turns the monster into an onion ring, which in turn becomes shish kebab.
+  - Universal Monster influence
+- Development
+  - The darker prototype
+    - The pumpkin ghost with the spinning head was originally an ape from Planet of the Apes, while the giant cat inside of the box seems to have originally been one of the Gremlins, and finally the grim reaper was originally an alien from the Alien franchise.
+- EGL
+- Next week - Nobunga’s Ambition

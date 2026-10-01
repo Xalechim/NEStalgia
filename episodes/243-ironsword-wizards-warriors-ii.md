@@ -1,0 +1,39 @@
+# 243 - Ironsword: Wizards & Warriors II
+
+- THE SAGA OF WIZARDS & WARRIORS™ CONTINUES...
+- NES Longplay
+- Introductions
+  - So do we all remember Wizards and Warriors 1 from 154 episodes ago?
+  - Italian model Fabio portrays the protagonist Kuros on the game’s cover, but he does not make an in-game appearance.
+- Manual
+  - Malkil went mad with AGE instead of rage. I like the wordplay
+  - Manual acts more like a strategy guide
+    - Lists out everything and even tells you which spells to use against the elementals
+  - Weird note about the Inn.
+    - You’ll know when you’re there because there will be armor on the walls and cups on the shelves. Might not sound silly, but imagine if that’s how they described every level. You’ll know you’re in the cloud level because you’ll be surrounded by clouds.
+- Plot
+  - Malkil IS BACK and this time has taken the form of the four "Elementals", Earth, Wind, Fire, and Water. The objective is to assemble the legendary "IronSword" – the only weapon that can defeat Malkil – and defeat the evil wizard who lies at the peak of IceFire Mountain.
+    - Malkil is like Bowser. Pretty sure he died, but SOMEHOW HE RETURNED.
+- Gameplay
+  - The four domains
+    - In each domain, Kuros must find a golden artifact that belongs to the domain's "Animal King" and return it to him.
+    - Upon doing so, the path to the second part of the domain will appear. In the second part, Kuros must find the magic spell necessary to defeat the boss – the domain's Elemental.
+    - Without the spell, it is impossible to damage the boss, or even remain in the room with him.
+    - Once the elemental in each stage has been destroyed, Kuros obtains a piece of the IronSword, which is needed for the final battle on Icefire Mountain.
+  - Money
+    - Buying equipment and spells
+  - Spells
+    - "The Familiar Spell," which turns enemies into money and helps retrieve golden objects
+    - the "Dragon Tooth Spell," which turns enemies into food
+    - the "Veil of Slumber Spell," which slows down enemies
+    - the "Silver Fleece Spell," which makes Kuros temporarily invincible
+    - and the "Water Spout Spell," which creates an upward column of water that allows Kuros to reach high places.
+    - Each spell has a limited number of uses before it vanishes from the player's inventory.
+- Development
+  - According to Ste Pickford: "The NES seemed primitive by comparison, sub-Commodore 64. But the games were ten times better than everything being released for home computers, which we appreciated, and we wanted to try to make games as good as that." Rare decided to hire Zippo Games to develop this Wizards & Warriors sequel
+  - They were heavily influenced by Ghosts N Goblins trying to make the game
+- Sequels and Spinoffs
+  - Wizards and Warriors 3, who is excited to complete the trilogy?
+- EGL
+- Next week - Knight Rider
+- NEStalgia Byte - Star Luster

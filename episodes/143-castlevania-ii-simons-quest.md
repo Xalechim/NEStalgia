@@ -1,0 +1,51 @@
+# 143 - Castlevania II: Simon's Quest
+
+- Castlevania was a cake walk compared to this bloody curse.
+- Introductions
+  - Dracula special guest
+- Overview
+  - In Simon's Quest, you may spend as much time exploring as you do fighting. You must travel around the world in search of the five mansions where Dracula's body parts are kept. Along the way you will pass through several towns where you can buy new weapons or items, and get clues from the villagers.
+- 7 years later
+- Gameplay
+  - Did anyone try to kill the guy at the start of the game? You talk to him!
+  - How can you trust villagers?
+    - Some do tell the truth!
+    - In the Japanese version it was more clear everyone was lying, but that you could use those rumors to find real Clue Books.
+    - But we need to really think about this...is this okay?
+  - Leveling
+    - Unlike most RPGs, you do not gain experience by killing monsters, but rather by collecting the hearts which some of the defeated monsters drop. You earn one less experience point than the number of hearts you collect. Once you have enough experience points, you gain a level and become stronger.
+    - However, once you gain a level, easier enemies no longer give you experience, forcing you to forge ahead to more challenging areas in order to continue improving.
+  - THE GRIND
+    - Enemies right away when jumping to new screen
+  - Day/Night mechanic
+    - Did it before Pokemon!
+    - As time goes by, the game will toggle between day and night.
+    - The game will pause to inform you of each transition before the cycle changes.
+    - The land itself does not change, but enemies become stronger.
+    - Generally speaking, the game is more difficult at night.
+    - At night, all shops and churches are closed, and no villagers are on the streets. Towns are no longer safe from monsters as ravens and zombies roam about.
+    - Enemies take twice as many hits to die at night.
+  - the Magic Weapons
+  - The Mansions
+    - Where are the boss fights?
+      - You can just leave Death alone
+  - Multiple Endings ALA Metroid
+    - Simmon Belmont
+- This game was NOT poorly recieved
+  - In 1990, Nintendo Power's NES retrospective Pak Source gave Simon's Quest ratings of 4.5/5 for Graphic and Sound, 4/5 for Play Control, 4/5 for Challenge, and 4/5 for Theme Fun.
+  - I feel like AVGN is the one who started the criticism
+  - Symphony of the Night's assistant director, Koji Igarashi, said the critical reaction to Simon's Quest and its gameplay allowed them to pitch Symphony of the Night to Konami.
+- This is PEAK NES music
+- Sequels and Spinoffs
+  - The Maze of Galious
+    - Given the “exploration action” nature of Simon’s Quest, I asked Akamatsu whether Metroid was an influence on the development. He told me, “If I had to say, I was thinking more of Konami’s own Maze of Galious.”
+  - FDS Version
+    - The FDS version features a progress saving feature
+    - But the legendary music is awful
+  - World of Power
+    - It departs from the original plot and introduces characters not seen in the game, including junior high school student Timothy Bradley, a video gamer who crosses over into the world of Simon's Quest and assists Simon in looking for Dracula's body parts.
+  - In 1988, Tiger Electronics released a handheld game and an LCD wristwatch based on Simon's Quest.
+  - Simon’s Quest Romhack
+    - https://www.romhacking.net/hacks/1032/
+- EGL
+- Next week - Indiana Jones and the Temple of the Doom

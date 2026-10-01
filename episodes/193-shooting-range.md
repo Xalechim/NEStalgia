@@ -1,0 +1,29 @@
+# 193 - Shooting Range
+
+- The Game that Seperates the Hot Shots from the Pot Shots
+- NES Longplay
+- Introductions
+  - Shooting range
+    - Targets
+    - Carnival Games
+    - Axe Throwing
+- Overview
+  - But how often do you think of shooting real people as a shooting range?
+  - Shoot the red and white targets on the character's heads and watch your health bar
+- Gameplay
+  - Normal Game
+    - Wild West
+    - Haunted House
+    - Moon
+      - This video game involves mini-games resembling the Old West; with the exception being the moon level because people did not land on the moon until the 1960s.
+  - Party Game
+  - Comparison to Hogan’s Alley
+    - The surprise is lost in this game
+    - The carnival and presentation is stronger in the 85 game
+- Zapper Review
+  - Duck Hunt/Hogan’s Alley/Wild Gunman
+  - Gumshoe
+  - Gotcha
+  - Freedom Force/Operation Wolf
+- EGL
+- Next week - Nobunga’s Ambition

@@ -1,0 +1,29 @@
+# 229 - Romance of the Three Kingdoms
+
+- LIVE SECOND CENTURY CHINA
+- NES Longplay
+- Introductions
+  - It’s Nobunaga’s Ambition but in CHINA
+- Overview
+  - Top-down political map strategy-type gameplay
+  - Player control provinces and their natural resources; managing armies and their generals; conducting plots and schemes between the player between or with rival kingdoms.
+  - The game's main objective is to become the supreme ruler of the remnants of the falling Han Dynasty.
+- Gameplay
+  - This game is made by the same team as Nobunaga and uses the same systems. So instead of covering all the various intricacies, I’d rather refer listeners back to that episode. I think for this episode we should focus on elements that were either improved or unique to R3K
+  - you can choose to play with zero human players. Sort of a tutorial mode
+  - My main gripe with the Koei strategy games at this point is the amount of check in required on all neighbors and understanding the various ways THEY are playing the game. Some are building giant armies, some are focusing on development and growth. It’s probably intended, but it’s not easy enough to keep referring.
+  - The kind of game that you probably wanna learn through constant saving/loading since it takes a while to find out if the actions you’re taking each turn are paying off compared to the other leaders
+  - But ultimately this is a WAR game. This is about managing your generals, recruiting the best generals, killing the weak leaders, and increasing your troops. This isn’t a diplomacy game.
+    - Certain generals can be advisors
+  - What I think is exciting in this kind of game is the stories that CAN play out, especially because they also give you historical time periods so there is the chance for both historical events and the chance to rewrite history.
+  - Should combat have also been some form of menuing. I suppose in a way it is, but does the switch to turn based tile combat change the flow of the game too much.
+    - That said, the combat improvements in this game do make it better than Nobunaga. Movement through direction arrows, simultaneous attacks with adjacent troops
+- Sequels and Spinoffs
+  - We will play Romance of the 3 kingdoms 2 on the NES
+    - Hopes for improvements?
+  - There’s an impossible amount of sequels
+    - Romance 11
+      - Romance Of The Three Kingdoms XI was released in 2006 and was made available on the PC for the first time in 12 years. It was also released on the Wii and the PlayStation 2.
+- EGL
+- Next week - Romance of the Three Kingdoms
+- NEStalgia Byte - Tower of Druaga

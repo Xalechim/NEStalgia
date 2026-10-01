@@ -1,0 +1,22 @@
+# 172 - The Adventures of Lolo
+
+- Overcome the challenges of each room in the Great Devil's castle.
+- Introductions
+  - Quite possibly the first feel good game of the NES?
+- Overview
+  - Adventures of Lolo is a Top down puzzle game. The goal in each room is to collect all the hearts, then collect the chest to make the exit appear. To collect the hearts, Lolo can move blocks and turn enemies into eggs to move of freeze them
+- Gameplay
+  - All levels occur on just one screen
+  - The Gameplay loop
+  - Puzzle Difficulty
+  - What would’ve been the twist on the format?
+  - Washington Post - Fanning the Flames of Nintendo Fever
+    - A Nintendo representative commented that Nintendo was "trying to stretch the kids' imaginations" with Lolo.
+- Sequels and Spinoffs
+  - Adventures of Lolo is a combination of games from the Eggerland series
+  - Adventures of Lolo 2 and 3 are coming
+  - Lolo and Lala continued to make appearances in HAL other series KIRBY
+  - Eggerland series continued with Eggerland for Windows 95
+    - The game allows players to create their own "Eggerland" maps with a level creation program known as "Construct Mode".
+- EGL
+- Next week - Amagon

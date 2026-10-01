@@ -1,0 +1,24 @@
+# 241 - Cybernoid: The Fighting Machine
+
+- The Fighting Machine
+- NES Longplay
+- Introductions
+  - Regardless of what this game is Cybernoid: The Fighting Machine is a very 80s title. Could’ve been a movie, could’ve been a comic. They landed on this video game
+- Gameplay
+  - Action Puzzle game
+    - You traverse 3 different areas with your ship carefully navigating around obstacles and enemies to get to the exit.
+  - The precise timing required to avoid obstacles
+  - The cool power ups
+  - Should it have been more SHMUP and less claustrophobic?
+  - Really cool powerups for a short amount of time
+- Sequels and Spinoffs
+  - Cybernoid II: The Revenge
+    - Was enough damage done to justify any revenge?
+    - It’s the same gameplay with updated graphics
+- Development
+  - You know how we joke about Vic Tokai being one guy? This game really was one guy. Rafael Cecco programmed the whole game…just not the NES version. This time Studio 12 productions handled the port and Acclaim handled the distribution.
+  - What does that feel like when you program an entire game for the ZX Spectrum and then they bring in a whole team to put it on the NES
+- EGL
+  - The idea is really fun and kind of reminds me of Air Fortress, except it’s way too tough and way too short.
+- Next week - Dig Dug II: Trouble in Paradise
+- NEStalgia Byte - Don’t forget to check out Dig Dug. Patreon.com/NEStalgia

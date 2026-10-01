@@ -1,0 +1,23 @@
+# 181 - Taboo: The Sixth Sense
+
+- Your personal look into the future, your window onto the unknown
+- NES Longplay - https://www.youtube.com/watch?v=vOiaYTA82us
+- Introductions
+  - WELL IT’S NOT THAT BOARD GAME
+  - I can’t wait for the NES Ouji Board
+- Overview
+  - This is a Tarot card simulator
+- Gameplay
+  - The game requires input of the player's name, birth date, and gender.
+  - What was your question
+  - Choose a state to get Lotto numbers
+  - The game uses the whole 78-card tarot deck, which consists of the Minor Arcana and Major Arcana.
+  - Nudity and religious images
+  - The booklet also lists the arcana and cards, and goes into further detail of the layout, including what each position on the Celtic cross means.
+  - No mystical or magical claims are GUARANTEED or INFERRED
+- Urban legend
+  - An urban legend surrounding Taboo states that the game had accurately predicted the deaths of some of its young players
+- Sequels and Spinoffs
+  - TAROT MYSTERY - SFC
+- EGL
+- Next week - Taboo: Sixth Sense

@@ -1,0 +1,34 @@
+# 155 - Bomberman
+
+- Bomberman is a robot engaged in the production of bombs. Like his fellow robots, he had been put to work in an underground compound at the center of the Earth.
+- Introductions
+  - Is Bomberman an IP you associate with the upper levels of gaming? Is he as familiar as Mario/Pikachu/Sonic/Crash/Spyro/Master Chief/Lara Croft
+- Overview/Plot
+  - Bomberman, is a robot that must find his way through a maze while avoiding enemies. Doors leading to further maze rooms are found under rocks, which Bomberman must destroy with bombs.
+  - The game is played top down and bombs explode in a 4 way cross direction at all times
+- Development
+  - Bomberman was written in 1980 to serve as a tech demo for Hudson Soft's BASIC compiler.[4]
+  - This very basic version of the game was given a small-scale release for Japanese PCs in 1983 and the European PCs the following year.[4]
+  - The Famicom version was developed (ported) by Shinichi Nakamoto,[5] who reputedly completed the task alone over a 72 hour period.[6]
+- Gameplay
+  - Your strategy for beating a level?
+  - Power-ups that really make you POWERED UP
+    - Controlling the bombs
+      - This and puzzles would’ve made a more interesting game
+  - What could’ve made the game more complex
+  - Spamming bombs
+    - Enemies appear BIG TIME if you break too many blocks
+  - BOMBER GOD
+    - Flamepass + Bombpass makes you near indestructible
+- Sequels and Spinoffs
+  - Bomberman is a huge franchise so we’re not gonna cover it all until we get to BOMBERMAN II on the NES in 1993! Who is excited?
+  - I’d like to talk about some of the games I played as well
+    - Bomberman Special - MSX - it’s top down but there is this weird rounding corners when walking like you’re not in a grid you are kinda floating along a tight space. Bombs drop slow and take forever to explode
+    - Bomberman ‘93 - TG16
+      - Starting to feel more fun and colorful like I expect my bomberman
+    - Bomberman ‘94 - TG16
+      - Just as good...actually better than 93, now you can ride around in animals and destroy more than blocks
+    - Super Bomberman 2
+      - I did play 1, but 2 is the one worth talking about. Finally you’re feeling good. Tons of power ups and often with neat new designs and layouts and bombable items and patterns
+- EGL
+- Next week - Sesame Street 1-2-3

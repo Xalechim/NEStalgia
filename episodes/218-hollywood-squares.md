@@ -1,0 +1,61 @@
+# 218 - Hollywood Squares
+
+- It’s time to go Hollywood! Hollywood Squares that is!
+- NES Longplay
+- Introductions
+  - AND WELCOME TO HOLLYWOOD SQUARES, let’s meet our celebrity guests, Michael Esposito x9
+  - And today’s contestants, hailing from the great city of Buffalo, NY topping off at 200 Sean
+  - And his opponent, barreling in from Niagara Falls, NY Joe
+  - And let’s give it up for our host Michael Esposito!
+- What better way to cover Hollywood Squares on the NES than playing a game of Hollywood Squares
+- Overview
+  - two contestants compete in a game of tic-tac-toe to win cash and prizes. In each “box” on the tic-tac-toe board there is a celebrity guest who tells you the answer and the player must then assess if they are telling the truth or not.
+- Questions
+  - The celebrities that are featured in this NES game are also
+    - Joke: My Inner demons
+    - Right: Not real
+    - Wrong: Nintendo Employees
+    - Talk about how the biggest draw of the game is absent from. This is just  Tic-Tac-Toe Trivia. Or worse, SQUARES
+  - This developer is better known for bears and apes, but they are also the developer of this game?
+    - Joke: Freddy Fazbear’s Pizzeria
+    - Right: Rare
+    - Wrong: Activision
+    - Talk about Rare
+  - Hollywood Squares has had several spinoff shows: Storybook Squares, The West Virginia Squares, Nashville Squares, And this music focused one known as BLANK
+    - Joke: Hip to be Square
+    - Right: Hip Hop Squares
+    - Wrong: Square Dancing
+    - Talk about the video game version trivia questions and the generality of the questions being asked
+  - This popular paper-and-pencil game can be tracked all the way back to the ancient Egyptians in 1300 BC
+    - Joke: Assassin’s Creed
+    - Right: Tic-Tac-Toe
+    - Wrong: Dots and Boxes
+    - Talk about traditional games and their impact on video gaming
+  - In NES Hollywood Squares you can win a fake brand new car by picking the right key to match the right car, in this other game show you answer questions IN a car:
+    - Joke: Cops
+    - Right: Cash Cab
+    - Wrong: Carpool Karaoke
+    - Talk about the inconsequentiality final prize
+  - Hollywood Squares is our 3rd Game Show Video Game, what was our first?
+    - Joke: 10-Yard Fight
+    - Right: Jeopardy!
+    - Wrong: Wheel of Fortune
+    - Talk about the Game Show Genre and how trivia adapts to video games
+  - Bob Barker, Alex Trebek, Michael Eposito what do these names have in common?
+    - Joke: They are all past their prime
+    - Right: They are all hosts
+    - Wrong: They are all in the top 10 boy’s first names
+    - Talk about the lack of a host in these video games
+  - Is it ever a good idea to put vodka on your eyeglasses?
+    - Joke: I think it works faster up your butt
+    - Right: Yes, for cleaning
+    - Wrong: No
+      - Randomness of the questions and how there doesn’t seem to be any consistency
+  - Hollywood Squares would take a long time to expand on the brilliance of the NES version, but after many years we finally got a sequel on this console
+    - Joke: N-Gage
+    - Right: The Wii, just like every other shovelware game known to man
+    - Wrong: Xbox 360, as a follow up to the popular 1vs100
+- EGL
+  - For the car we have this important question: IS IT ESSENTIAL
+- NEStalgia Byte - Dig Dug
+- Next week - King’s Knight

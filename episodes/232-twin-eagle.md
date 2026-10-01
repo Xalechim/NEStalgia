@@ -1,0 +1,70 @@
+# 232 - Twin Eagle
+
+- Engage in the most challenging shoot-em-up action packed game yet for the Nintendo Entertainment System
+- NES Longplay
+- Introductions
+  - For folks familiar with the box art, there’s only 1 eagle on the cover.
+  - There’s a hidden subtitle on this game, it’s not on the box art, but is on the menu.
+  - Should be Avenge Joe’s Brother, right?
+- Overview
+  - Vertical Helicopter SHMUP, certainly not our first go around.
+- Gameplay
+  - The Twin Eagle controls
+    - Movement - Rather slow, hard to really circle around
+    - No enemy collision
+    - The coloring of the enemy bullets read well
+    - Fire bullets and drop bombs. We’ve seen it all before
+      - Bomb has an interesting quirk. On top of destroying every enemy on screen, it also destroys enemy bullets. A good way to get in a last second dodge.
+    - The Power-Ups can be shot at to rotate through a number of different Power-Ups. Thus collecting multiple of the same power up, levels up that particular upgrade. But collecting a new power up doesn’t reset the level up, just the type of power up. If you’re on level 3 Black S and collect Black P, it is now level 3 Black P
+  - The mission map - Tells you enemies you defeated and hostages you saved
+    - Hostages - Just points
+  - No bosses
+  - There is 2 player - but the 2nd player is not Joe’s Brother. Just an unnamed pilot. Or maybe his name is Buddy. They say You and a Buddy can avenge Joe’s death
+  - The claim that this is the most challenging
+    - Obvious Ad Speak
+    - We’ve had good challenging and we’ve had Nintendo Hard challenging beyond this
+  - This is the team that brought us Space Invaders. A classic, but is the appeal of that game just that they were first to do it? It doesn’t seem like they are innovating much here.
+- Australia Unlicensed Version
+  - Home Entertainment Supplies in Australia would publish it there as an unlicensed NES game. This would end up in a dispute between HES and Nintendo
+- Sequels and Spinoffs
+  - ARCADE GAME
+    - ​​It was one of the first arcade to use extensive digital sampling, from digitized photos to a digitized soundtrack.
+      - And let me tell you, none of it holds up because of that. Looks and sounds like mush
+  - The arcade sequel
+    - Players can rotate their choppers 360 degrees, so they can fire at an angle or even downwards.
+    - Players can destroy nearly everything on screen, even buildings
+    - At the end there are cut scenes including a news anchor of the fictional SBC News Network, and army generals commenting on your progress.
+- EGL
+- Next week -
+- NEStalgia Byte - Battle City
+- POWER UPS
+- Black S - The first P-Up will result in your three shots going right-left-right
+- at a 45 degree angle from each other, as opposed to going straight
+- through. Once you obtain a second Power-Up, you will be able to fire
+- two bullets at once (six in one rotation) one to the left, one to the
+- right. The third time, you will fire three at a time, one each in the
+- left, center, and right.
+- Gold S - To a maximum of two, picking this up will allow your aircraft to move
+- a lot faster. Compatible with weapon upgrades.
+- Black P - For some reason, this is the exact same Power-Up as Black S, to the
+- point where the two are even compatible with each other. So if you
+- can't get a Black S from a Power-Up, use a Black P (or vice versa)
+- Green W - While the first upgrade only allows you to shoot one bullet at a time
+- going straight forward, the second upgrade allows you to shoot them in
+- pairs. #3 will space out the pair of bullets, while #4 will allow you
+- to shoot three bullets out, one straight and the other at 45 degree
+- angles.
+- Rocket - While the first upgrade only allows you to shoot one bullet at a time
+- going straight forward, the second upgrade allows you to shoot them in
+- pairs. #3 will space out the pair of bullets, while the fourth one will
+- let you fire three at a time, one to the left, center, and right. To
+- boot, it is with rockets, which easily outclass most of the other
+- weapons, and can slaughter anything except for the final boss in one
+- hit.
+- Arrow -  Obtaining the first Power-Up will allow you to shoot a pea-sized bullet
+- upwards. However, the second upgrade will let you shoot a bullet behind
+- and ahead of you at the same time, attacking any enemies that might get
+- around you. The third upgrade is where it really gets into the heat, as
+- you can shoot two bullets up and one bullet down. Unfortunately, it
+- cannot go any higher than that (and being able to fire three bullets
+- behind and in front would probably be too much of godmoding).

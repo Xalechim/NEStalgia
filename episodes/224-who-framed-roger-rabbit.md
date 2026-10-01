@@ -1,0 +1,45 @@
+# 224 - Who Framed Roger Rabbit?
+
+- You’ve Seen the Movie. You Know the Story.
+- NES Longplay
+- Introductions
+  - The back of the box assumes we’ve all seen the movie. So have we?
+  - Bugs Bunny and Mickey Mouse together
+  - One of the masters Robert Zemeckis
+- Overview
+  - Based on the movie, this Action-Adventure game has the player control private detective Eddie Valiant. Accompanied by Roger Rabbit, you must find clues and items that help progress the story and find out…WHO framed Roger Rabbit.
+- Gameplay
+  - Did you wanna play as Roger Rabbit?
+  - As a detective how do you find these clues? This aint Rockstar’s LA NOIRE
+    - The items are random every time​​
+    - When talking to people, be sure to press the A BUTTON only once.  If you press it while talking to them, it will cancel out the conversation.
+    - If you hit a person then talk to them, you can sometimes get funny responses like "Go away you horrid man!"
+  - While walking along the streets, stay on the sidewalk as not to get hit. If Roger gets hit, he will be fine.  Remember, he is a 'toon.
+    - While on the map screen, beware of birds.  If they pick Roger up and carry him off, it causes you to die.
+  - The Weasels and their jokes
+  - The strange UI and inputs.
+    - SELECT and buttons just to put in commands?
+    - The choice of text, lives, power, strength meter.
+  - So the points of progression
+    - Find the password and the rose to get to the ink and paint club
+    - Talk to Jessica Rabbit to get clues where the will is
+    - Locate the pieces of the will
+    - Take will to Judge Doom for the final fight
+  - Cheat
+    - Final battle with the Judge, At the code entry screen, simply enter all Z's
+- Sequels and Spinoffs
+  - Who Censored Roger Rabbit is the novel written in 1981 and the basis for the film
+    - Who P-P-P-PLUGGED ROGER RABBIT in 1991
+      - Soft reboot about Roger Rabbit starring in the cartoon adaptation of Gone With the Wind
+    - Who Wacked Roger Rabbit? In 2013
+  - Who Framed Roger Rabbit for Computers
+    - Released in 88
+    - You actually play as Roger Rabbit
+    - Mostly driving levels with the Cab
+  - Who Framed Roger Rabbit on GameBoy
+    - This is an action game with puzzle solving elements. Roger Rabbit can move freely within Toontown (and some of its buildings) and the main gameplay consists of talking to people who give Roger clues about where to go next. He also has to collect and use a variety of items in order to progress. However, when walking around town he is attacked by enemies who reduce Roger's life bar if they hit him; there are also a few boss battles. A few (sparse) items can be used to dispatch enemies.
+  - Hare Raising Havoc (1991) for DOS and Amiga
+    - You need to help Roger Rabbit get out of each room he is stuck in so he can capture Baby Herman before Mommy returns home.
+- EGL
+- Next week - Casino Kid
+- NEStalgia Byte - Tower of Druaga

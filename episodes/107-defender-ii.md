@@ -1,0 +1,33 @@
+# 107 - Defender II
+
+- Back of the Box
+- Manual
+- Introductions
+- Originally released in 1981 as STARGATE. It comes just 7 months after Defender.
+- Defender doesn’t have the clout that other Arcade games do
+  - Made by Williams who brought us Joust, Robotron,
+- Overview
+  - The player flies a small spaceship above a scrolling, mountainous landscape which wraps around. You try to save humans from being captured by enemy ships.
+  - The goal is to destroy the enemies to prevent the humans from being captured. You are armed with ammo and smart bombs.
+- Gameplay
+  - Wrap Around Feature
+  - At the top of the screen is a mini-map, which displays the positions of all aliens and humans on the landscape.
+  - Saving the Humans
+    - At low height Humanoids can survive the drop on their own, but if the Lander is killed at too high an altitude, the player must catch the Humanoid with their ship and return him to the ground, otherwise he will not survive the drop.
+    - The Stargate
+  - The player's ship flies in front of the landscape and does not contact it.
+  - If all Humanoids are killed, the entire planet explodes, leaving the player in empty space. This also has the unfortunate effect of turning every Lander into a Mutant, making the player's job very difficult.
+- Is there enough here to be entertained?
+  - Say compared to other Arcade NES ports?
+- The alien race that is fought is known as the "Irata", being the name of Williams competitor Atari spelled backwards
+- The Joy of Difficult Games - Defender
+- Eugene Jarvis on Defender
+  - "In that era, I was making the game for myself. That’s the easiest thing to do. That’s the natural thing to do, really. You have your dream. What’s your ultimate game, in your head? You play games. You go, oh, I really like this game, but they kill you off too quick, wave three’s impossible. In this game, the player is too weak. How am I going to make this game better?."
+- Sequels and Spinoffs
+  - Defender 2000 - Atari Jaguar in 1995
+    - Mostly a 3D version of the original Defender
+  - Defender - Sixth Generation Consoles in 2002.
+    - Brings Defender plot to the SHMUP world
+  - Strike Force - Arcade in 1991
+    - Re-imagining of Defender with Two Player simul gameplay
+- EGL

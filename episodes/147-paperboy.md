@@ -1,0 +1,23 @@
+# 147 - Paperboy
+
+- Hop on your bike for a free-wheeling ride up the avenues of not-so typical Suburbia.
+- Introductions
+  - This is one of those old school jobs that doesn’t really exist anymore...or am I out of touch?
+- Gameplay
+  - Overview
+  - The creative world
+  - The massive hitbox
+  - The obstacle course
+  - But it’s just points so it doesn’t hold up for long or repeated playthroughs for most players
+- Arcade
+  - The joystick are BIKE HANDLEBARS
+    - One button on each side, used to throw papers. The handlebars can be pushed forward to accelerate and pulled back to brake.
+  - STEAL THIS CODE AND YOU DIE.. ATARI 1985 J.F.S.
+  - GDC on Paperboy development by the co-creator
+- Sequels and Spinoffs
+  - Paperboy 2
+  - Paperboy 64
+  - The paperboy makes a cameo appearance in the 2012 Disney animated film Wreck-It Ralph. The paperboy also makes an appearance in the 2015 film Pixels.
+- EGL
+  - A great fun game with an OK port, but this exists in the Arcade for a reason and it’s much better there.
+- Next week - Platoon

@@ -1,0 +1,44 @@
+# 254 - Chessmaster
+
+- The most powerful chess program in the world today! And the friendliest!
+- NES Longplay
+- Introductions
+  - Many ways you can expect a chess game to start, but not with an 8-bit rendition of TAKE FIVE by Dave Brubeck
+- Overview
+- Gameplay
+  - Chess Features
+    - Computer Level
+      - The numbers after the level indicate how many moves the Chessmaster will make in a certain time. For example level 1 is 60 moves in 5 minutes, while level 7 is 30 moves in 45 minutes. On the level infinite the Chessmaster will think until he has decided upon his best move or until you force him to move.
+    - Deep Thinking
+      - allows the Chessmaster to think during your turn
+    - Opening Book
+    - Move Assist
+    - Taking Back moves
+  - SETUP MODE
+    - Both from initial positions and however you like
+  - Solve for Mate
+    - A neat little feature good to solve mate in as many as 3 turns
+  - Watch Mode
+    - Would be better if it could explain why. It's tough to understand the rationale for computers that can visualize many moves ahead and thus make moves that a human most likely would not.
+  - Missing features
+    - No timer controls for Blitz Chess
+    - No Puzzles or Lessons
+    - No suggested best move
+    - No analysis mode where you can play the moves of both sides to see if your play will pay off. You’ll have to picture it in your head
+  - Views of Board vs War Room
+    - No ability to change cosmetic pieces or boards
+    - It is cool to see a little under the hood in the War Room
+- Development
+  - The first Chess Master engine was MyChess II, developed by David Kittinger. Unclear though if the NES is using the same engine.
+  - In 1989, Computer Gaming World found Chessmaster 2100's features "the clear winners" over Sargon 4,
+  - Chessmaster would be absolutely obliterated by engines like Stockfish and AlphaZero. There is, if you can believe it, an entire competitive computer chess engine scene.
+- Sequels and Spinoffs
+  - 1986: The Chessmaster 2000
+    - Not called 2000 for reasons like Sim City 2000. It’s because the computer’s ELO was capable of 2000 level play
+  - 1988: The Fidelity Chessmaster 2100
+  - Afterwards they started naming these things like GFX cards with yearly releases
+    - 4000 Turbo
+    - 5500
+- EGL
+  - There’s MANY ways to learn how to play chess and Chess engines have and will continue to offer much more than what is offered here on the NES. I will admit that playing this convinced me that Archon is way more exciting in video game form than Chessmaster can hope to be.
+- NEStalgia Byte - All Night Nippon Super Mario Bros. (a look at MANY SMB games)

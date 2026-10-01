@@ -1,0 +1,22 @@
+# 194 - Street Cop
+
+- Life on the Beat
+- NES Longplay
+- Introductions
+  - With a back of the box like that, this was our chance for DDR Police game
+- Overview
+  - a game where the player has to chase after criminals while jumping over things and using the club to apprehend the foes.
+  - The player has to step on the buttons corresponding to each of the cop's actions, such as moving, jumping and clubbing.
+- Story
+  - In the HOW TO PLAY section as if you can’t play without this motivation
+  - "LITTLE BEN" is a rookie cop fresh out of the Police Academy.  He grew up on the crime-ridden streets of this city.  As a young boy he dreamed of one day becoming a great detective so he could clean up the streets of his neighborhood and give them back to the decent people who live there.  His success is up to you.
+- Gameplay
+  - Movement
+  - Clubbing as a Power Pad input
+  - Variety
+- Marketing from Bandai
+  - It takes your entire body to operate the POWER PAD, just like a sport.  With our STREET COP, you can exercise both your brain and body while you enjoy yourself playing!
+- Released as Manhattan Police in Japan
+- Console Accessories age poorly, but controllers not so much
+- EGL
+- Next week - TMNT

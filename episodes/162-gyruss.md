@@ -1,0 +1,36 @@
+# 162 - Gyruss
+
+- 300 Billion People Are Counting On You – So Don’t Choke!
+- Introductions
+  - Legendary NES Shump developer Konami is back with a new SHMUP
+  - How to say this: https://forums.arcade-museum.com/threads/how-to-pronounce-gyruss.145359/
+- Overview
+  - It’s A.D. 2500 and mankind has penetrated the galaxy’s fringes, establishing colonies of peace from Mercury to Pluto.
+  - Suddenly, the tranquility of the Milky Way erupts into a frothing fury as armadas of alien deathships swarm into our solar system like killer bees preying on an innocent bystander. No one is spared. Even beloved Mother Earth is stung.
+  - These vicious cosmic Visigoths are war starved Gyrusians. And, led by the immortal Genghis Khan (whom they recruited from Mongolia centuries ago), they’re out to trash civilization.
+  - With our galactic fleet flattened, you’re the lone space cowboy who escaped the Gyruss shroud of doom.
+- Gameplay
+  - The decision to only control your ship in a circle.
+    - Enemies fly in mostly from the outside and then attack from the center
+    - Very much like Tempest, but with visual flair
+  - Control A or B
+    - How would you design a controller for this kind of game?
+  - Toccata and Fugue in D Minor
+    - ACTUALLY ALL THE MUSIC
+  - Enemy variety
+  - Super Blaster
+  - Lack of Power Up. Does the dual even feel more powerful?
+  - Saving OUR solar system
+    - Neptune before Pluto?
+  - Boss battles
+    - Arcade version didn’t have these! Or the Super Blaster
+  - No ending so this really is arcade like. Is there enough here to keep you going for additional loops?
+- Development
+  - Gyruss is the second and last game Yoshiki Okamoto designed for Konami, after Time Pilot. Due to pay disputes, he was fired after the release of this game, and he soon joined Capcom, where he wrote 1942 and produced Street Fighter II.
+- Sequels and Spinoffs
+  - Many Ports, no true successor!
+    - PSX - Hidden in Contra Legacy of War
+    - GBA - If you input the Konami Code, you play a retrofitted version that includes three new levels at the beginning
+    - Xbox 360 Arcade - Updated GFX
+- EGL
+- Next week - Qbert!

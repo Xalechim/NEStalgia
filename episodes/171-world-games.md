@@ -1,0 +1,33 @@
+# 171 - World Games
+
+- TAKE ON THE WORLD!
+- Introductions
+  - Welcome to the offbeat Olympics
+- It feels like I’m playing this on a computer. You guys know what I mean?
+- Gameplay
+  - Weightlifting (Russia)
+    - No buttons, just d-pads
+  - Slalom skiing (France)
+    - Rare only published so it’s not quite the Slalom we want
+  - Log rolling (Canada)
+    - Lack of sound during the game
+    - Computer significantly stronger than other modes
+    - The Shark
+  - Cliff diving (Mexico)
+    - Too easy? Again a lack of buttons
+  - Caber toss (Scotland)
+    - I don’t want to offend any Scotts but is this the best they got?
+    - It feels like I’m doing nothing helpful
+  - Bull riding (United States)
+    - I could try to explain what you need to do but I’m the least qualified
+    - The gfx of the bull and the movement of the bull are not the easiest tells
+  - Barrel jumping (Germany)
+    - The rhythm of the skate is harder but landing is much easier than figure skating in winter games
+  - Sumo Wrestling (Japan)
+- Are these the best games they could’ve picked?
+- The small amount of controls
+- Sequels and Spinoffs
+  - The last of the games releases, but not the last for us
+    - We played Winter Games, but we still have to play California Games
+- EGLm
+- Next week - WORLD GAMES

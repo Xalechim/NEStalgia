@@ -1,0 +1,43 @@
+# 157 - Star Soldier
+
+- A strange and evil presence is lurking in space. Crushing everything in its path, destroying spaceships full of innocent people, the brutal Starbrain is threatening the entire Galactic Empire.
+- Introductions
+  - RETURN OF THE SHMUP
+- Overview
+  - The player pilots the starship "Caesar", travelling through space stations occupied by powerful supercomputers known as "Starbrains" who threaten the galactic empire.
+    - Vic Viper Gradius
+  - Remember Star Force...this is like Star Force...with Power Ups
+- Gameplay
+  - Power-Ups
+    - Different colors different powers, but they reset if you accidentally collect a different color
+      - Dodging enemies is one thing, dodging powerups
+  - Unique mechanic where you can fly underneath certain parts of the scenery. You can't be killed, but you can't attack either.
+  - There are only two boss types - a ship called a Star Brain, and an even bigger ship called the Super Star Brain. You need to kill them within a time limit, or you need to restart the level.
+  - How fair should a shmup be?
+  - Improvement or not from Star Force
+- Development
+  - Insight from Takahashi Meijin a former Hudson Exectuive
+  - On calling SHMUPS, Dodging Games
+    - Takahashi: Yeah, it seems strange to just call them all shooting games. They probably want to say that, “oh, its easy to dodge since the hitbox is so small”, but I think that to the average person it looks impossible. And that has led to a great decline in the number of STG players, I think.
+  - On Scoring
+    - To make Lazaro appear in Star Soldier you had to be able to tap 16 times in one second. So we had scoring tricks too, but they weren’t essential to the game… it was just “if you want to score high, you’ll need to do this.” You shouldn’t have to pay attention to scoring to enjoy a game. Just surviving and progressing through the stage, enjoying that feeling of “ah, I’m doing good, I’m shooting them all down.” STG doesn’t have to mean aiming for a high score.
+  - On Players
+    - That was because the basics were still all there. STGs are the simplest kind of game to make, so its not as if they’ll ever completely vanish, but unfortunately its no longer a genre that the masses care much about. The impression most people have is that this is a genre of games only people with skill can play.
+- Sequels and Spinoffs
+  - Apparently there is one more NES entry in the loosely connected series. Starship Hector in 1990
+  - Super Star Soldier - TurboGrafx 16 (1990)
+    - The first official sequel to Star Soldier
+  - Final Soldier - PC-Engine (1991)
+    - There are still the usual four weapon capsules, but you can designate different attacks to each of them, creating a total of twelve different weapons.
+  - Soldier Blade - TurboGrafx 16 (1992)
+    - You get a little robot buddy that always hangs around to help you out
+  - Star Parodier - PC Engine Super CD (1992)
+    - There are three playable ships - the silly version of the usual star fighter, Bomberman, and a gigantic PC Engine (with a copy of Super Star Soldier in the card slot.)
+  - Star Soldier: Vanishing Earth - N64 (1998)
+    - Star Soldier goes 3D. The view has changed to an overhead angled perspective
+  - Star Solider GC, PS2, PSP (2003)
+    - Hudson developed 3D remakes of its old games on the PlayStation 2 and Gamecube
+  - Star Soldier R
+    - Hudson and Konami merge together to make an homage to the beginning of Star Soldier
+- EGL
+- Next week - Tecmo Baseball

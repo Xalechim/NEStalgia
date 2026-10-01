@@ -1,0 +1,25 @@
+# Nuts and Milk
+
+- Part of a complete breakfast
+- JP Longplay
+- Introductions
+  - First Ever Bytes. The first third-party video game to be released on a Nintendo console
+  - Recap of the idea
+  - Part of the early Famicom release games with many of the black box games. So why wasn’t this selected?
+- Overview
+  - Very similar to the adventures of lolo
+  - A puzzle platformer where you play as the blob, Milk. Collect all the fruit in each stage to unlock the door and rescue Princess Yogurt
+- Gameplay
+  - Controlling Milk
+  - The puzzles
+  - Similarity to Donkey Kong
+  - 50 individual levels exist on the Famicom version, and each one can be skipped freely by pressing the select button
+  - Level Editor Mode
+- Differences in versions
+  - The Famicom version is played from a sideways angle typical of 2D sidescrollers with the player walking and jumping from one area to another horizontally. Conversely, the computer version is presented in a top-down fashion with all platforming elements removed, with the player instead moving in four directions.
+  - "Hot Pop" -- Commodore 64 title
+- An arcade game that never went to the arcade
+- How playable without Japanese knowledge?
+- Sequels and Spinoffs
+- What We’re playing
+- Next time - Devil World

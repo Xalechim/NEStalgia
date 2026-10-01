@@ -1,0 +1,30 @@
+# 144 - Blades of Steel
+
+- Fight for victory in the hottest hockey game on ice.
+- Introductions
+  - Second Hockey Game
+  - Hockey just ended - Lightning (Rangers Part 2) are champions
+- Gameplay
+  - All teams are fictional but based out of real Canadian and American cities.
+  - "Exhibition" or "Tournament"
+    - Nice Zamboni driving around
+    - Tournament is NHL Playoff style
+  - General Observations
+    - Press start AGAIN to confirm what you’ve already confirmed
+    - Voice FX are cool!
+    - Pretty easy against any computer
+    - Ice Hockey had more flair (choose types of player for team, slippery, cute style) BUT Blades of Steel feels like it controls better for the purposes of playing hockey.
+  - Hockey Fights
+    - The loser, the first person to get hit five times, is given a penalty and sent to the penalty box (the winner is not punished)
+      - no offside rule
+    - Should a fight break out in front of one team's net, then the player on offense gets a penalty shot. The penalty shot is administered in the style of a soccer penalty shot, in that the shooting player must stand on the blue line, instead of moving towards the goaltender.
+  - GRADIUS
+    - In the NES version, between the second and third period of a hockey game, a quick mini game of Gradius is sometimes playable in which the player has a few seconds to try to blow up an enemy ship. There are also ads for other Konami games of that era displayed after the mini game is over.
+  - Ties
+    - If the score is tied at the end of the game, a shoot out (similar to a penalty shot) is used to determine the winner. Each team gets five shots. The team with the most goals after five shots is the winner. If, after that, the game is still tied, each team keeps getting one more shot until a winner is determined.
+- Konami Sports games
+  - Double Dribble
+  - Track and Field
+  - Blades of Steel
+- EGL
+- Next week -

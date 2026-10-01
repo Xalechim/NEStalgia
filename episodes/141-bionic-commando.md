@@ -1,0 +1,41 @@
+# 141 - Bionic Commando
+
+- A NEW BREED OF HERO!
+- Introductions
+  - Is this the sequel to Commando? They are both Capcom Games (SAME SUPER JOE)
+  - How do you feel about these games?
+- Gameplay
+  - OVERVIEW
+    - Action-platformer
+    - Super Joe is equipped with a mechanical arm featuring a grappling gun, allowing him to pull himself forward or swing from the ceiling.
+  - A platform game in which the player cannot jump
+    - The game is more notable as an NES title because of this feature
+    - Flaws of the claw
+      - Platform differences (ala Bubble Bobble)
+      - Climb vs Swing
+    - It would still be a long/difficult/detailed game without the claw
+    - Bonus features? Grab enemies, pulley system, Strength or claw upgrades
+  - The importance of exploration/communication/power ups
+  - Overworld Tactics
+    - Go wherever you want, but enemies advance as well
+    - Why are they not numbered?
+    - Commando style fight with enemies
+  - Our first game fighting Nazis? Usually Russian allegories
+    - HITLER EXPLOSION
+- Story
+  - SUPER JOE
+  - There’s a lot of story here. Kind of reminds me Metal Gear. Anyone got the gist?
+- Localization
+  - All references to Nazism in text and imagery were removed for the English localization. The Empire in the Japanese version was actually a neo-Nazi nation and the Imperial Army's insignia was a Nazi Swastika with a thunderbolt behind it.
+- Sequels and Spinoffs
+  - A portable adaptation of Bionic Commando was released for the Game Boy in 1992.
+    - The Game Boy version is based on the NES game, featuring the same gameplay and stages, as well as a similar plot, but changes the present day setting of the NES version into a futuristic one.
+  - Bionic Commando: Elite Forces 1999 GBC
+    - Adds teammates and a Sniper Rifle
+  - A second remake, titled Bionic Commando Rearmed came out in 2008 for PS3/360
+    - Enhanced remake
+  - Bionic Commando (2009, PS3/360)
+    - Sequel to the NES game, Third Person Shooter
+  - This game has so much story that WORLD OF POWER scholastic had to skip most of it
+- EGL
+- Next week - BLADES OF STEEL

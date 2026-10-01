@@ -1,0 +1,27 @@
+# 132 - Spy vs Spy
+
+- Developed from the popular cartoon series, Spy vs Spy, is Mad Magazine’s first official computer game
+- Introductions
+  - Is it wrong to call this a computer game?
+  - Mad Magazine
+  - Spy vs Spy
+- Overview
+  - The object of the game is to collect various secret items in a briefcase and exit the building through a door to the airport, either before the opposing player exits or before the timer runs out. While searching for the items, traps can be laid to take out the opponent (or the player himself, if careless). Each spy has a personal countdown timer which depletes by 30 seconds upon each death.
+- Gameplay
+  - Simulplay
+  - Traps and Finding items
+    - Trap em up
+  - Difficulty
+  - Escape the Room
+  - Combat
+- Development
+  - Kemco brings this 1984 port mover. We never heard from them before, but it’s probably not a coincidence people are jumping on porting old games.
+- Sequels and Spinoffs
+  - Spy vs. Spy II: The Island Caper
+    - adds a side-scrolling play area. Spies no longer start with a fixed number of traps but must collect the raw materials to build them
+  - Spy vs. Spy III: Arctic Antics
+    - switches the location from a tropical island to the arctic. The spies fight by throwing snowballs at each other and setting traps, which decreases their body heat bar. Tools include a saw to cut holes in the ice for the second player to fall into. Lost body heat can be restored by moving into a heated igloo.
+  - Spy vs Spy (2005)
+    - Finally a story mode
+- EGL
+- Next week - SUPER MARIO BROS 2

@@ -1,0 +1,55 @@
+# 164 - Tecmo Bowl
+
+- Now strap on your helmet and go for it!
+- Introductions
+  - I feel like it’s the first time in a while I don’t have any qualms with the title
+  - Sean, No Bills in this game...but weren’t they good during this time?
+- Overview
+- Gameplay
+  - Talk your game
+  - Picking Plays
+    - only four offensive plays
+  - Rushing
+  - Special Teams
+  - Passing
+    - Choose with A and throw with B
+    - Really makes you realize the pressure
+  - Breaking out of a tackle
+  - Defense
+  - Season Mode
+  - Presentation
+  - Bo Jackson
+    - “To be honest with you, I’ve seen a kid play that game once.  I have never played that game. I still have the ‘Tecmo Bowl’ cassette, in a box somewhere in one of my storage places or in the attic.  But I’ve never played the game.”
+  - There’s a ton of depth going on here
+    - technically any other Sports game could also achieve, but hasn’t
+  - Coach Mode
+  - Roster Changes
+    - The original Tecmo Bowl for the NES features Eric Dickerson as running back and Albert Bentley as a kick returner for Indianapolis.
+    - A later version that was released (white and gold seal) had Albert Bentley as running back and Clarence Verdin as a kick returner, instead.
+    - A year later, the Japanese Famicom version of Tecmo Bowl has many roster changes (from the same twelve teams available in the North American version) that are included in the game to reflect the year it was released (1990).
+- Sequels and Spinoffs
+  - Arcade Version first
+    - The original arcade version is distinguished by a large two-monitor cabinet, support for up to four players, and the ability to break tackles.
+    - Only two fictional teams can be chosen: the Wildcats and the Bulldogs.
+  - Tecmo SUPER Bowl
+    - NES, SHOULD have the Bills this time. Will be interesting to see how they improve the formula
+  - Tecmo Super Bowl II: Special Edition
+    - trade players
+    - 37 team roster
+    - defensive players can now be injured
+    - fair catch and two-point conversion (which was first introduced to the NFL in the season the game was released)
+    - The offensive playbook was expanded to 16 plays
+  - Tecmo Super Bowl III: Final Edition
+    - switch out plays and another put in its place in the middle of a game.
+    - Super Star Editor allows for creating players while using a limited point system
+    - Free agency
+    - Depending on the home team, different stadium types
+  - Tecmo Bowl: Kickoff for DS
+    - I can’t speak to how true it stays to the Tecmo franchise, but it does add super powers.
+    - A Wii version was also announced, but was quietly cancelled and retooled into a new game called Family Fun Football.
+      - I didn’t know you could cancel Wii Games. There’s so much shovelware.
+  - Tecmo Bowl Throwback (360, PS3)
+    - Game looks like trash and it was during that time where people used shitty 3D graphics and low budgets to revive classic games
+- EGL
+  - Everything I ever wanted in a sports game on the system. Feels like it definitely deserves to be up here. It’s in a league of it’s own right now for that genre.
+- Next week - Ultima: Exodus

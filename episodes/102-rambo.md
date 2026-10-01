@@ -1,0 +1,30 @@
+# 102 - Rambo
+
+- Back of the Box
+- Manual
+- Introductions
+- Pack-in-Video
+  - Really small company. They are gonna bring us Predator, Die Hard, and Knight Rider for the NES as well.
+- Based on the film Rambo: First Blood Part II
+- Overview
+  - Rambo is a side scrolling platform game where the player controls Rambo with his mission to Vietnam.
+- Gameplay
+  - The game starts off with Colonel Trautman asking Rambo whether or not he wants to leave the prison and start the mission. Players are given a choice, but cannot advance in the game unless "yes" is chosen.
+  - Similarity to Zelda II (which isn’t out in the STATES yet)
+  - Easy to get lost, unclear what to do.
+  - In the Japanese version, the experience meter is replaced by an anger meter, however, it functions exactly the same.
+  - The ending sequence allows the player to throw a giant kanji character (怒, Ikari:Anger) towards Murdock after returning to the base, which inexplicably turns Murdock into a frog.
+  - the Japanese Famicom version contains staff credits. It is unknown why this was left out of the USA version.
+- Sequels and Spinoffs
+  - The Movie!
+  - Rambo (1985 video game)
+    - Also based on First Blood Part II
+    - The game is viewed from an isometric perspective, and follows the movie's story. The player, controlling Rambo, has to find his lost equipment, locate the POW camp, rescue the hostages and make it back to the extraction point, while being pursued by constantly respawning enemies.
+  - Rambo (2008 video game)
+    - Rambo is a light gun shooter developed by Sega for the arcades in 2008. Based on the films Rambo: First Blood Part II (1985) and Rambo III (1988).
+  - Rambo: First Blood Part II (Master System video game)
+    - An overhead action shoot-'em-up in the vein of Commando and Ikari Warriors.
+  - Rambo: The Video Game
+    - An arcade rail shooter video game for PS3/360
+  - Evolution of Rambo Games
+- EGL

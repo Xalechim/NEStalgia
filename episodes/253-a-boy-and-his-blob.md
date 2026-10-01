@@ -1,0 +1,39 @@
+# 253 - A Boy and His Blob
+
+- TROUBLE IN BLOBALONIA
+- NES Longplay
+- Introductions
+  - I can’t be the only one getting Steven Spielberg vibes from this game.
+    - Indiana Jones font on the main menu
+    - Kid teams up with an alien like creature and sets out on a journey bigger than it first appears
+- Overview
+  - In this puzzle/platformer you play as the boy, who must help blob save blobalonia. Blob can transform into many useful tools and shapes depending on the jelly beans the boy feeds him.
+- Gameplay
+  - And that’s the core mechanic of this game, the jellybeans and using them appropriately
+    - Though the player directly controls the boy, Blobert is controlled by the computer
+    - A licorice jelly bean, for instance, will change Blobert into a ladder.
+    - The flavors were named specifically as either puns or alliteration to help the player remember them.
+    - KNOWING WHICH JELLYBEAN DOES WHAT
+    - Whistling at Blobert causes him to revert to his original shape and continue following the boy.
+  - Movement is limited
+    - Boy is limited to running left or right. The player cannot jump or swim, and if the boy falls too long of a distance, he dies on impact
+  - So with that in mind let’s talk about the puzzle solving skills created by a boy who has limited communication and control with his blob
+  - Scattered throughout Earth's caverns are various treasures and diamonds that increase the player's score and can be used to purchase vitamins at a drugstore located within the game world.
+  - Vitamins can be used in conjunction with a special "VitaBlaster" gun, which is in turn used on Blobolonia to complete certain tasks.[5] Also found on the map are extra jelly beans and peppermints, which increase the player's lives.
+  - The adventure between Earth and Blobalonia
+    - And the unique feel between them?
+- Development
+  - This game was created by David Crane who thought a boy accompanied by a morphing blob was unconventional and wanted to try his own hand at implementing useful tools for the player.
+  - David made the game in allegedly just 6 weeks. Not suggesting foul play, David had a whole team at imagineering making the game.
+    - A MIKE AND HIS PODCAST - TROUBLE IN CHRONOLOGY
+      - The game was released just prior to Christmas in 1989 as Absolute's first game on the NES. But the info we have referred to a January 1990 release so possible that we have the WIDE RELEASE date.
+  - He’s well known for his Atari 2600 games, you might know PITFALL, DRAGSTER, and GRAND PRIX
+  - But he’s also going to make some games our Patreon subs keep calling out like Bart vs The Space Mutants and Bart vs The World.
+- Sequels and Spinoffs
+  - A Boy and His Blob was followed by a sequel on the Game Boy titled The Rescue of Princess Blobette.
+  - A Boy and His Blob: Jelly's Cosmic Adventure was was being developed by Pipe Dream Interactive (Majesco's in-house development team) and was scheduled to be a Gameboy Advance release in 2002, but was cancelled due to publisher Majesco's financial troubles .
+  - in 2005 an A Boy and His Blob remake was being developed for the Nintendo DS. AND this unreleased game can be found online
+  - After two failed attempts to bring the series to Nintendo's other handhelds over the yemars, a re-imagining of Trouble on Blobolonia was developed by WayForward Technologies and released by Majesco Entertainment on the Wii in 2009.
+- EGL
+  - This is the kind of game that has enough uniqueness to sell someone like me on the concept of the game before I even play it. Controlling a helpless boy who requires the assistance of a blob you cannot control, great! Unfortunately, I feel like the jellybean system and lack of multiple solutions made the possibilities in my head feel really limited during gameplay. It’s a neat idea and it does translate msot of it’s ideas into the game, just not in a grand enough matter to keep me hooked.
+- NEStalgia Byte - All Night Nippon Super Mario Bros. (a look at MANY SMB games)

@@ -1,0 +1,58 @@
+# 165 - Ultima Exodus
+
+- This is the ultimate Role Playing Fantasy Game
+- Introductions
+  - The day has come for that RPG thing we been talking about, but it’s a WRPG
+  - Back of the Box says 5 year Lithium Battery
+- Overview
+  - Dungeon and Dragons finally comes to the NES. Make a team of 4 across different races and jobs, traverse the world and complete quests as your characters grow.
+- This is NOT Ultima 3 PC
+  - Modified graphics and a new soundtrack.
+  - Considerable alterations to gameplay.
+  - Significantly expanded dialogue.
+  - New menu interface.
+  - Only a small instruction booklet rather than the map and manuals.
+  - Added endgame sequence after defeating Exodus.
+- Gameplay
+  - Build your team
+    - Sean
+    - Joe
+    - Human-Ranger | Elf Thief | | Elf lark | Fuzzy Wizard
+  - Combat
+    - Turn-Based takes a new meaning
+    - Should be Movement AND attack to make this all happen a little faster
+    - This is obviously where team variety matters most, but there’s some setbacks too
+    - MAGIC
+      - In and out of combat
+    - A surprisingly low amount of unique enemies???
+    - UNDEAD is the OP spell in the early game
+  - NPCs
+  - Exploration
+    - Does Questing make things obvious?
+    - The game is so overwhelming at the top that I kind of liked just grinding enemies and exploring the area near town
+    - Moon-Gates
+      - In the upper left-hand corner of the screen is a display detailing the cycles of the two moons that hang over Sosaria. Depending on their state, magical portals known as "moon-gates" will appear on various locations of the map
+    - Ambrosia
+  - Caves/Dungeons
+    - Navigation
+    - Why couldn’t this be 2d?
+    - Dungeons are dark and will require the constant use of spells and torches
+  - Management
+    - Give Blood and Heal
+      - Give a lot of blood to the Hospitals in Lord British Castle or in Moon, and then heal while traveling. Give blood again as soon as all the party is in full health.
+    - Food
+    - Gold
+      - Did you get enough at the start of the game?
+  - Menus
+- Plot
+  - The game is named for its chief villain, Exodus, a creation of Minax and Mondain that the series later describes as neither human nor machine. Although a demonic figure appears on the cover of the game, Exodus turns out to something like a computer (possibly an artificial intelligence) and to defeat him the player has to acquire four magic (punch)cards and insert them into the mainframe in a specific order.
+  - Fight the floor - right before Exodus
+- Sequels and Spinoffs
+  - There are 9 NUMBERED Ultima games (7 was split in 2 parts)
+    - The last was released in 1999
+  - Ultima Online
+    - Lord British was Garriott's in-game alter ego, who was killed during an in-game appearance at Ultima Online's beta test on August 9, 1997. During a server population stress test, a player character known as Rainz cast the "fire field" spell, killing Lord British.
+    - The creators of the game had no idea that the player base would love to kill, not just the evil creatures like bears and wolves, but also the innocent creatures.
+  - 2 Cancelled MMO games later and it’s dead
+- EGL
+- Next week - Dance Aerobics

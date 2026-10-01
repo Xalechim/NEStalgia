@@ -1,0 +1,31 @@
+# 237 - All-Pro Basketball
+
+- The Crowd is Roaring and the Pressure is on…
+- NES Longplay
+- Introductions
+  - Can it be All-Pro Basketball if the teams and players are fictitious?
+  - Maybe that’s the name of the league
+    - What the hell is going on with the team names
+      - New York Slicks (New York Knicks) - funny word play
+      - Chicago Zephyrs (Chicago Bulls) - no reference to Bulls at all
+      - Boston Redcoats (Boston Celtics) - Uh, the Redcoats were the guys the people in Boston were fighting
+      - Seattle Sonics (Seattle SuperSonics) - literally just removed the SUPER from the team name
+      - Los Angeles Breakers (Los Angeles Lakers)
+      - Dallas Stallions (Dallas Mavericks)
+      - Phoenix Wings (Phoenix Suns)
+      - San Francisco Bayriders (Golden State Warriors)
+- Gameplay
+    - This is five players on a full-length basketball court, but a bit of a twist on the “full length” part.
+      - Fade to black at half-court to show the “other half”
+    - And let’s not forget perspective. This is a top down 5-player basketball game. Double Dribble was a 3-on-3. Jordan vs Bird was 1-1 and Hoops was 2-2
+    - Jump and shoot being the same button (B) while A is dedicated to Pass
+    - Slam dunk animations…where have we seen this before?
+    - Defense, the biggest problem we’ve seen in NES basketball games
+      - And it’s not really solved here
+    - The tournament component
+- Developer
+  - The game was published by Vic Tokai, but developed by Aicom.
+    - Interestingly, they will make another Basketball game on the NES but for the American Sammy corp. We’ll play that game in 1990 as Ultimate Basketball. Will be interesting to see how they change between publishers
+- EGL
+- Next week - Archon: The Light and the Dark
+- NEStalgia Byte - The Portopia Serial Murder Case (fan translation)

@@ -1,0 +1,30 @@
+# 264 - River City Ransom
+
+- To the citizens of River City! I hold your high school captive
+- NES Longplay
+- Introductions
+  - Like any good ransom, this game starts with a note from the bad guy. He has the city captive and Ryan’s girlfriend. Feels like those two things are not on the same scale
+  - Between River City and the Highschool this all feels like CW’s Riverdale
+- Kunio-Kun
+  - A few of the early Kunio games for the NES were localized for the North American market. These include Renegade and Super Dodge Ball
+  - All these games in japan star the same high school character, Nekketsu and his town “river city”
+  - We of course get the heavily americanized versions of these games.
+- Overview
+  - You play as Alex or Ryan (or both!) as you explore your local town hunting down the various gangs searching for the whereabouts of Ryan’s missing girlfriend Cyndi and your Rival, Slick.
+- Gameplay
+  - Open world Beat em Up
+    - Exploration (or lack thereof)
+    - Enemies (divided into gangs, no comedic or overpowered enemies, no unique weapons, just shirt color changes)
+  - Very Yakuza like with going to shops and buying everyday food/items to gain buffs
+    - And then also very Warriors like with the various Gangs (Cowboys, The Squids, The Zombies, The Plague)
+  - Boss battles don’t feel too different from regular enemy characters
+  - Are there set pieces like in the Double Dragon series?
+- Sequels and Spinoffs
+  - River City Ransom EX
+    - 2 player with and without a friend
+      - But also the option to play solo
+    - Ability to choose allies and enemies
+- EGL
+  - This is a charming beat em up game with a simple plot and simple gameplay. It attempts to feel bigger with the shops and the exploration, but they didn’t break up the feel of the areas/enemies/bosses enough to actually make it feel like the world or player was evolving. The dialogue was fun and the simplicity can make progress feel good, but once you realize you’re not doing much different area to area the game kind of loses its appeal.
+- Next week - Roadblasters
+- NEStalgia Byte - Captain Tsubasa II: Super Striker

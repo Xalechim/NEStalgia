@@ -1,0 +1,27 @@
+# 201 - Super Dodge Ball
+
+- Thrash, Bash, and Smash the Competition
+- NES Longplay
+- Introductions
+  - Dodgeball, quite possibly the most famous made up sport
+- Overview
+  - The objective of each match is to defeat the rival team by throwing a dodge ball at its members. Each character has a life gauge that is gradually depleted as he gets struck by dodge balls. When their life reaches zero, they will be eliminated.
+- Gameplay
+  - The menu letting you select mode and difficulty at the same time. It’s usually a little more procedural
+  - Members of each team individual names and stats
+    - So do you put a lot of thought into your team positions and which team to be or do you just try out each team with the defaults.
+    - It’s always appreciated to have these stats and customization for those who play more often than we can.
+  - The variety in movement and throws is the appeal. You can make this a basic boring game of catch, or you can learn the moves
+  - The Power Throws
+    - They have to do with timing. Can feel random. Don’t guarantee a hit either. Surprising how many different ones there are.
+  - Progression and difficulty
+    - The courts change and the teams are all divided by country. But in terms of feeling progression that is tied to the difficulty
+  - Bean Ball
+    - More freestyle, no teams, hit anyone
+    - And yet when you lose all sense of the rules it’s less fun to play this version of dodgeball?
+- Sequels and Spinoffs
+- EGL
+  - Super Sushi Pinball
+    - A mag advert for Super Dodge Ball teased this game. It tragically never came out. It’s never too late!
+    - CSG Imagesoft spent nearly a million dollars to develop the game and prepare its marketing campaign, which would use the tagline: "Finally a game that tastes as good as it plays."
+- Next week -

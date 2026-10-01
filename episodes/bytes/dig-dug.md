@@ -1,0 +1,23 @@
+# Dig Dug
+
+- HOME OF THE DUG DIG DIGGADOME
+- NES Longplay
+- Introductions
+  - A reference nobody probably understands. Fairly OddParents, nothing to do with Dig Dug
+- Overview
+  - Dig Dug is an arcade game released in 1981 by Namco for Arcades. The player digs through a cave in order to defeat
+- Gameplay
+  - Defeating enemies
+    - Inflation (unexpected) or rock crush
+  - Digging Strategies
+    - They could’ve done more here. It doesn’t feel very strategic given the levels and digging reset so quickly
+  - Reverse Pac-Man in a way
+    - Another Maze arcade game like Pac-Man and Devil World
+  - The enemies can travel between the ground, but immediately enter wherever you dig
+- Dig Dug was made alongside Galaga creator
+- Dig Dug prompted a fad of "digging games"
+- Clones include the arcade game Zig Zag (1982),[41] the Atari 800 game Anteater (1982) by Romox, Merlin's Pixie Pete, Victory's Cave Kooks (1983) for the Commodore 64, and Saguaro's Pumpman (1984) for the TRS-80 Color Computer.[42] The most successful is Universal Entertainment's arcade game Mr. Do! (1982), released about six months later and surpassing clone status.[40] Sega's Borderline (1981), when it was ported to the Atari 2600 as Thunderground in 1983,[43] was mistaken as a "semi-clone" of Dig Dug and Mr. Do!.[44] Boulder Dash (1984) also drew comparisons to Dig Dug.[45][46] Numerous mobile games are clones or variations of Dig Dug, such as Diggerman, Dig Deep, Digby Forever, Dig Out, Puzzle to the Center of Earth, Mine Blitz, I Dig It, Doug Dug, Minesweeper, Dig a Way, and Dig Dog.[47]
+- Sequels and Spinoffs
+  - Now we will play Dig Dug 2 on the NES so this Bytes episode actually proves kinda important haha
+  - There’s a long history of Dig Dug that we will get into, but I wanted to mention the Mr. Driller series here which is also made by Namco
+- NEStalgia Byte - Tower of Druaga

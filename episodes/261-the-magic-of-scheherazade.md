@@ -1,0 +1,34 @@
+# 261 - The Magic of Scheherazade
+
+- Dig it!?
+- NES Longplay
+- Introductions
+  - I always think about Tales of the Arabian Nights Pinball Machine, but that came out later in 1996. Really one of the best pinball machines.
+- Overview
+  - ARPG with some light turn based combat, recruitable party members, and time travel loosely based on the classic Middle Eastern folktales found in One Thousand and One Nights.
+- Plot
+  - The player attempts to rescue Princess Scheherazade from the evil wizard Sabaron, who has summoned the demon Goragora to do his bidding.
+  - Why give choices if they aren’t accepted? A lot of times in the beginning of this game you can choose to say you don’t want to do this stuff and they just keep saying the same thing until you say yes.
+- Gameplay
+  - Choose your class
+    - choose between three classes – Fighter, Magician, or Saint.
+    - Each class differs in weapon usage and certain abilities.
+    - For instance, a Fighter can use strong swords but is limited with the rod, a Magician is adept at using powerful rods but is restricted to a weak dagger instead of swords, and a Saint can exclusively utilize items like boots that prevent damage on hazardous floors.
+    - And you can and have to change classes
+    - Interesting to get this before Final Fantasy
+  - An RPG as a linear experience with Levels that are represented as Chapters.
+  - "Time Gates" that allow for time travel between the past, present, and future; they transport the player to the same location but in a different time and environment.
+    - Chrono Trigger anybody?
+    - The novelty isn’t as interesting with NPCs they seem to be aware of the time travel. Faruk was here 50 years ago, if you go there you’ll meet him
+  - Recruitable characters
+    - I don’t know why I mistakenly thought that Final Fantasy IV was the first to do this?
+  - Both real-time solo action on the overhead map and random, turn-based battles fought alongside befriended allies.
+    - The start of each turn based battle gives the player the option to fight, escape, or attempt to bribe enemies into leaving.
+    - Formations (learned for a fee at "Magic Universities" in certain towns) can also be created, which can grant the party added defense or enable them to cast powerful group magic spells
+    - EXP points have caps for each chapter, you can’t overgrind.
+  - The novelty of an Arabic video game even today is a little upsetting. We just don’t see this setting very much.
+- Sequels and Spinoffs
+  - A sequel by Culture Brain was teased for the NES, then the SNES, and even as far as 1996 it was still being mentioned, but it never happened.
+- EGL
+- Next week -
+- NEStalgia Byte - Bio Miracle

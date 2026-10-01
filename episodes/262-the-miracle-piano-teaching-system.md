@@ -1,0 +1,36 @@
+# 262 - The Miracle Piano Teaching System
+
+- You’ve got the keys in your hand!
+- NES Longplay
+- Introductions
+  - Not a real back of the box, because this games box was actually the whole piano.
+  - Which is a great segway into the elephant in the room, this is not playable via any other NES controller or even emulation. Well unless you’re really skilled with emulation and can configure MIDIs properly.
+- Overview
+  - This is not a game, it’s a teaching system. There are some minigames we’ll get to later. Oddly not labeled part of Nintendo’s Education line (which only had DK JR math). They abandoned all that.
+  - Here’s the thing though, by all accounts this will actually teach you the piano. This isn’t Guitar Hero. This teaching system wasn’t just on the NES and the way it works under the hood is pretty cool.
+  - The video game component of being able to receive lessons and watch videos, but also be told you’re pressing the right or wrong button is the key difference between this and those teaching keyboards with red lights
+  - With the exception of the metronome that is used in the Miracle system's lessons, the Miracle system does not ever generate sounds through the video game console hardware. All MIDI information (including backing tracks, menu tracks, etc) from the console is converted into audio by the instrument's built-in ROM and played through the instrument's stereo speakers, allowing the keyboard to be used independently of the console.
+- The Piano
+  - Very bulky. Requires a separate power source and you have to plug the piano into the 2nd controller port on the NES. There are 6 different effects for the piano and you can toggle the effects to split them on the keyboard. One half synth, one half organ for example. You can also use a “select” button on the keyboard in combination with the volume keys to get different piano sounds like New Age, Rock, Jazz, etc.  There was a foot pedal, which I didn’t get, but that’s being very generous calling it a foot pedal. It’s a little thing with a button that you push down for the pedal effect.
+- Teaching
+  - Over 100 lessons starting from just learning the keys to the chords, to the pedal, to playing full songs.
+  - The way it teaches you is that on screen it shows the keyboard and a bunch of numbers on the keys, so rather than saying E flat it just gives that #2. Then there’s a bunch of numbers on screen and you have to press the keys that represent those numbers in the same order. It also tells you which finger you should be using for each key so you’re not just hunting and pecking with your index fingers.
+    - But you can’t just slowly play the keys, you have to play to the beat of the metronome. The metronome only comes out through the TV while the piano notes comes out of the miracle piano.
+    - THEN it flips that number system into the letter system so you learn that the key that was #2 is now E.
+    - THEN it starts showing sheet music with the numbers next to the notes so you know the number, the key, and now what the note looks like on the sheet.
+    - THEN you can imagine where it goes from here, it literally starts teaching you the nuances of playing the piano and reading sheet music. Different time signatures, quarter notes, eighth notes, rest notes, ties, etc.
+- Minigames
+  - Robo Man where the player has to press the correct keys at the right time to create a bridge. If they miss, Robo Man falls and the player loses.
+  - In the duck hunting game, the player has to press the keys that correspond to the positions of the ducks on a musical staff to shoot them.
+  - In the Ripchord game, players must press the correct combination of keys for a chord to land paratroopers onto a target.
+- Success
+  - The Miracle system failed commercially with its high price of US$299–US$419 (equivalent to US$561–US$786 in 2021, depending on format),[10] but it was overall well received by critics.
+- Sequels and Spinoffs
+  - There’s n
+  - Around 1995, technology from the Miracle system was incorporated into the Piano Discovery System, an interactive PC software application that works with any MIDI keyboard including the Miracle keyboard.[6][7] By 1997, the Miracle product had been discontinued in favor of the Piano Discovery System.
+- Video games as education tools
+- Why we didn't see more of this with other instruments or crafts
+- EGL
+  - If we’re just judging this on minigames, then no its’ not an essential game. If we’re judging this based on it’s merits of teaching you the piano (which I DON’T think is EGL criteria) then I’d say this is a pretty neat way to learn an instrument. Not a video game though in the traditional sense and therefore not something I would recommend in the present time.
+- Next week - River City Ransom
+- NEStalgia Byte - Captain Tsubasa II: Super Striker

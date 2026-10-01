@@ -1,0 +1,39 @@
+# 176 - The Guardian Legend
+
+- Long ago, in a distant Galaxy, an alien race sent a huge world - Naju - hurtling toward Earth, loaded with a cargo of mysterious lifeforms
+- NES Longplay - https://www.youtube.com/watch?v=ImwZBSo8Rvo
+- Introductions
+  - Long ago in a distant galaxy...Star Wars
+  - The Guardian Legend sounds like an RPG
+- Overview
+  - In this Action SHMUP, you control a humanoid robot known as the Guardian, in a quest to destroy a large alien-infested world named Naju before it reaches the planet Earth.
+- Gameplay
+  - Humanoid Form
+    - a top-down exploration mode - Zelda-like
+      - Non-Linear
+    - Exploration of areas, should it have been more guided?
+    - Hints via text
+    - activate Naju's ten safety devices
+      - map that details these coordinates in a grid-like form can be viewed on the pause subscree
+    - So many subweapons
+    - Power Chips
+      - Used as currency to purchase upgrades for the Guardian
+      - Used to fire secondary weapons
+    - The game doesn’t play as smoothly as we are describing
+  - Ship Form
+    - It’s so FAST. Screen real estate is limited.
+    - Replenishing Life Meter
+  - Corridor Rush
+    - TGL in password screen, play just the SHMUP
+- Development
+  - Made by legendary SHMUP developer COMPILE
+    - Zanac
+    - Puyo Puyo
+  - Published by Broderbund
+    - Haven’t seen them since 87 when they hit all at once with Spelunker, Raid on Bungeling Bay, Lode Runner, and Deadly Towers
+- Sequels and Spinoffs
+  - Japanese cover of Guardian Legend has a JENOVA like figure on the box
+  - This is a sequel to the 1986 MSX game Guardic
+  - Apparently if you’re looking for more of this I’ve seen Super Star Force (Famicom only) and Sigma Star Saga (GBA) recommended
+- EGL
+- Next week - Legacy of the Wizard

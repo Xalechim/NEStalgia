@@ -1,0 +1,23 @@
+# 195 - Teenage Mutant Ninja Turtles
+
+- FRESH FROM THE CLASSIC COMICS COME HEROES IN A HALF SHELL
+- NES Longplay
+- Introductions
+  - Interesting they referenced the comics and not the TV show
+    - The reason why the Turtles all wear red masks on the cover is because that's how it was in the comics.
+  - Joe, we have a lot of experience with TMNT. I’ve been working with them since 2014.
+- Overview
+  - Platforming game where you play as the 4 teenage mutant ninja turtles traveling through NYC to stop Shredder and other foes
+- Story
+  - Starts off - Rescue their reporter friend April O'Neil, who is being held captive
+  - But there is a lot of story in the game
+- Gameplay
+  - The Turtles
+    - Switching between them
+  - Exploring NYC
+    - In some levels, there is a specific objective (obtaining an item, defeating a boss, etc.). However, in most levels the goal is to reach the exit and return to the overhead map in a previously inaccessible location.
+  - Bosses
+- Sequels and Spinoffs
+  - The game has three sequels: Teenage Mutant Ninja Turtles II: The Arcade Game in 1990, Teenage Mutant Ninja Turtles III: The Manhattan Project in 1991, and Teenage Mutant Ninja Turtles IV: Turtles in Time in 1992.
+- EGL
+- Next week - TMNT

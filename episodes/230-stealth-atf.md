@@ -1,0 +1,40 @@
+# 230 - Stealth ATF
+
+- Something Deadly in the Air
+- NES Longplay
+- Introductions
+- Overview
+  - The player completes mission briefings in the Lockheed F-117 Nighthawk stealth attack aircraft; controlling every aspect of the military flight experience from exiting the runway and battling other fighters while airborne to landing the plane after the battle is over
+- Gameplay
+  - Lockheed F-117 Nighthawk
+  - UI
+    - https://gamefaqs.gamespot.com/nes/587655-stealth-atf/faqs/79538/basics
+  - Take Off
+  - Fighting
+    - Limited missiles
+    - Damage to aircraft
+    - Altitude
+    - STEALTH MODE
+  - Landing
+    - Controls
+    - Different Runways
+      - Some levels will have a very long runway on solid ground, while others may have a very short one on a carrier out in the ocean.
+    - A crash means you have to redo the whole mission
+  - 3D
+    - Altitude is crazy high yet the ground looks imminent
+    - Because it’s just a horizon line there’s not much to help
+  - Variety of missions
+  - Top Gun
+    - Select Missiles
+    - Less loose in the cockpit
+    - More landing instructions
+- Sequels and Spinoffs
+  - Published by Activision, but the developer Imagineering (Not to be confused with Walt Disney Imagineering) was mostly making 2600 games before this. This was their first NES game
+  - We’ll see a lot more from them, but coming in 1990:
+    - Destination Earthstar (NES)
+    - A Boy and His Blob: Trouble on Blobolonia (NES)
+    - Ghostbusters II (NES)
+    - Heavy Shreddin' (NES)
+- EGL
+- Next week - The Three Stooges
+- NEStalgia Byte - Battle City

@@ -1,0 +1,21 @@
+# 242 - Dig Dug II: Trouble in Paradise
+
+- NES Longplay
+- Introductions
+  - Dig Dug 2 presents the idea that all islands are Paradise, and that tells me that the devs never visited Long Island
+- Gameplay
+  - No longer underground. Why?!
+  - Top Down View
+  - "fault lines" on the map
+    - If both ends of a system of faults reach the water, the ground surrounded by them will sink into the ocean, killing all creatures on it, including Taizo himself if the player is not careful. The points earned from this depend on how many enemies are killed at once
+    - Essentially you’re carving off chunks of this island with the enemies still on them.
+  - You still have air pump though
+  - Level Select
+    - After the title screen is in place, press Start + Select + A (this may take a few tries).
+- Sequels and Spinoffs
+  - Dig Dug: Digging Strike - DS 2005
+    - Not exactly this, but basically the top screen is DIG DUG II style and the bottom screen is DIG DUG style gameplay. So you’re kinda doing both at the same time.
+  - A reimagined version for PC titled Dig Dug Island, featuring online multiplayer, was released in 2008 exclusively in Japan. However, the game's servers were shut down in just under a year, leaving it unplayable.
+- EGL
+- Next week - Ironsword: Wizards & Warriors II
+- NEStalgia Byte - Don’t forget to check out Dig Dug. Patreon.com/NEStalgia

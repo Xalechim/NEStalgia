@@ -1,0 +1,24 @@
+# Kid Dracula
+
+- What is a kid? A miserable pile of tricks!
+- NES Longplay
+- Introductions
+  - Castlevania Games
+- Overview
+  - Kid Dracula has you play as the evil Dracula only this time he’s the hero in this spinoff parody game.
+  - But you’re JUST Dracula’s kid. Not the grand poo-bah
+- Gameplay
+  - Our first Bytes dilemma. Maybe second.
+    - There are two choices before starting and each choice is only in japanese. Does this make game the unplayable?
+  - How Castlevania like is this game?
+    - Many familiar enemies and obstacles as C1
+    - 3 hearts instead of an entire health meter
+    - A generous jump
+    - You can attack while climbing
+  - The Universal Horror trope is back
+  - First boss
+    - Nazi Swatstika
+  - Quickly gets off theme
+- Sequels and Spinoffs
+  - Kid Dracula was released for the Game Boy in 1993 and is both a remake and sequel of the original
+- NEStalgia Byte -

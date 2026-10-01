@@ -1,0 +1,35 @@
+# 182 - Operation Wolf
+
+- The time has come for someone to teach the terrorists what terror is all about
+- NES Longplay - https://www.youtube.com/watch?v=H-0WGRf1gEw
+- Introductions
+- Gameplay
+  - Autoscrolling Zapper Game
+    - Would it be better off fixed?
+  - The Stages
+    - Communication setup—Mission: obstruct. Completing this stage reduces the number of enemies the player must eliminate in all other stages.
+    - Jungle—Mission: intelligence. Completing this stage allows the player to access the concentration camp.
+    - Village—Mission: rest. Completing this stage heals a large amount of the player's damage, as opposed to a small amount after all other stages.
+    - Powder magazine—Mission: ammunition resupply. Completing this stage grants the player a full supply of ammunition (nine spare magazines and one loaded into the weapon) and either five additional grenades or a total of eight, whichever is less.
+    - Concentration camp—Mission: aim (a poor translation of "objective"). The player must protect the five hostages as they run to safety. In order to advance to the airport stage, at least one hostage must survive.
+    - Airport—Mission: getaway. The player must protect the surviving hostages as they run toward the open hatch of an airplane taxiing down a runway, then shoot down a final, heavily armed helicopter. Skipping the powder magazine or village stages adds two helicopters or two armored vehicles to this stage, respectively.
+  - Losing
+    - The damage bar fills completely, resulting in the death of the player's character.
+    - The ammunition and grenade supplies are exhausted, resulting in the player's character being taken prisoner.
+    - None of the hostages escape the concentration camp.
+    - None of them successfully board the plane at the airport, resulting in an infuriated rebuke from the President for failing the mission.
+  - Duck Hunt is a game we consider essential, this adds a lot more action to the screen...does that make it better?
+  - Who followed the storyline?
+    - US President Alternate Ending (depending on Hostages saved)
+  - At the time considered a very violent game
+- Thoughts
+  - Is this the start of the Time Crisis, House of the Dead, VirtuaCop?
+- Sequels and Spinoffs
+  - Operation Thunderbolt (1988)
+  - Operation Wolf 3 (1994)
+  - Operation Tiger (1998)
+  - Some versions of this arcade port don’t have Light Gun Controls
+    - VC re-release does not feature any kind of light gun support (including the Wii Remote's pointer functions), making the game only playable with the standard controller mode.
+- EGL
+  - The Golden Joystick winner of 1988
+- Next week -

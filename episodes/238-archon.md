@@ -1,0 +1,39 @@
+# 238 - Archon
+
+- Strategy that Hurts
+- NES Longplay
+- Introductions
+  - Archon has a lot of similarities to Chess, but it’s not Chess. Are we surprised we haven’t seen more traditional tabletop games yet on the console after Othello?
+- Overview
+  - Two sides, a light one and a dark one, consisting of 18 pieces each compete on a board divided into (9 by 9) squares. You win the game by having one of your units on each of the five powerpoint squares, by removing all opposing pieces from the board or by imprisoning the last remaining creature of the opposing side.
+  - However, you can't just remove a piece from the board by landing on it. When two pieces clash, the outcome is decided in the battle arena during one-on-one real-time combat. If the real-time combat takes place on a dark square, the dark monster gets a health bonus (longer life bar). On a light square the light side gains an advantage.
+- Gameplay
+  - This is a different kind of video game. We’ve been trained to play as characters exploring a world, defeating enemies. That’s kind of the promise of video games right? That they are more immersive and alive than table top games?
+  - The rules of the game
+    - Movement
+      - It reminds you of every pieces move
+      - BUT you cant take back a selection?
+    - Design of the board
+      - It only looks like a chess board, it shares almost no similarities.
+      - I like how they played the dark and light areas, but I would’ve opted for larger alternation rather than just land masses
+    - Powerpoint Squares
+      - The fourth and fifth square being the ones
+    - Balance
+      - Being able to theoretically win any fight does give a unique “down, but not out” aspect to the game HOWEVER, certain units completely dominate the game
+  - The battles of the game
+    - There are also some squares whose color changes over time (from afternoon, to dusk, to night, to dawn etc.), which adds an extra layer of strategy to the game.
+    - A stronger piece will generally defeat a weaker piece, but not always, and a fight can result in both pieces being eliminated.
+    - Different pieces have different abilities in the combat phase. These include movement, lifespan, and weapon. The weapons vary by range, speed, rate of firing, and power. For example, the pawn (represented by knights on the 'light' side and goblins on the 'dark' side) attacks quickly, but has very little strength; its weapon, a sword or club, has limited reach and power. A dragon is stronger and can attack from a distance, while a golem moves slowly and fires a slow but powerful boulder.
+    - The sorceress and the wizard can cast seven different spells. Each spell may be used only once per game by each spellcaster.
+    - The NES port has a new gameplay rule that encourages combat. If no battle has been fought for quite a while the game ends in a stalemate
+  - Computer Skill
+    - According to Compute!'s Gazette: The computer adapts over time in an individual game to help the player defeat it.
+- Developer
+  - developed by Free Fall Associates and one of the first five games published by Electronic Arts
+- Sequels and Spinoffs
+  - Archon II: Adept
+    - Adept introduces resource management in the form of magical power. Magic is gained by having pieces on power points, and spent as an Adept moves or casts a spell. The summoning spell places a demon (which are common to both players) or elemental (specific to each) piece on the board, where it incurs a per-turn upkeep cost.
+  - An updated version of the game has been announced for release exclusively for the Intellivision Amico
+- EGL
+- Next week - Battle of Olympus
+- NEStalgia Byte - The Portopia Serial Murder Case

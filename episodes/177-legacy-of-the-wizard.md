@@ -1,0 +1,34 @@
+# 177 - Legacy of the Wizard
+
+- Long, long ago, an evil dragon terrorized the forest until it was imprisoned by a powerful wizard. Now, years later, the dragon has revived and it's up to you to use the power of the wizard's descendants, the Draslefamily, to defeat the dragon once again.
+- NES Longplay - https://www.youtube.com/watch?v=Mw49GWtonLk
+- Introductions
+  - Legacy of THE wizard and yet you play as many different characters
+- Overview
+  - the story of the Drasle family (an abbreviation for "Dragon Slayer"; though the characters are given the last name "Worzen" in the credits)
+  - Attempt to destroy an ancient dragon named Keela that is magically entrapped in a painting within an underground labyrinth.
+  - To accomplish this goal, they must find the "Dragon Slayer", a magical sword that is protected by four hidden crowns.
+  - the story of Legacy of the Wizard is explained almost entirely in the game's instruction manual. The game itself contains very little text, and does little to add to or even to explain the story of the game.
+- Gameplay
+  - You are the six family members, one at a time, as you traverse the large cavern underground
+  - Navigation
+    - Is it too large?
+    - no clues as to where you’re actually supposed to go.
+    - Getting stuck
+    - How much did you backtrack
+    - tons of dead ends, pits to fall into, and hidden areas for your characters to navigate.
+    - falling damage
+  - Combat
+    - The character you pick plays a big role
+  - The uniqueness of the 6 characters compared to say SMB 2
+    - each section of the dungeon has an area that only a particular family member can access.
+    - Only certain characters can use special equipment
+  - Pochi
+    - The pet who can help explore. No damage
+  - Boss fights
+  - Finding out there is only the cavern
+- Development
+- Sequels and Spinoffs
+  - Dragon Slayer IV: Draslefamily
+- EGL
+- Next week - Mappy-Land

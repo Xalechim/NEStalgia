@@ -1,0 +1,30 @@
+# 208 - Flying Dragon: The Secret Scroll
+
+- Kung-Fu Has Never Been This Real
+- NES Longplay
+- Introductions
+  - Box art reminds me of Karate Kid
+- Overview
+  - Half Side Scrolling Action Game (Similar to Final Fight) half Fighting Game similar to Street Fighter
+- Gameplay
+  - Side Scrolling Levels
+    - Controls
+      - Up to jump
+    - Generous Hitbox
+    - 5 “boss” fights in each level
+    - The carousel feature
+      - You just wrap around and around the level to get to the point you need.
+  - Fighting Game Levels
+    - Not your traditional fighting game. Targets indicate the attack or block you must make and you must input correctly. You don’t directly control attack
+    - KO Gauge
+    - Special Moves
+  - the "Pause Strategy"
+    - Whenever you defend or attack a red dot, another one will immediately appear on you or your opponent.  If one appears on your opponent, quickly hit it, then pause.  You will see where the next red dot appears and will have time to plan your next move.  Quickly unpause, attack or defend the red dot, then pause again.  This may seem time consuming, but unless you have amazingly fast reflexes, this method will probably yield the best results***
+  - "you must go through the game again" screen
+    - Find all 4 Crystal Balls.
+    - The Crystal Balls cannot be found in the 1st Quest, only in the 2nd Quest.
+- Sequels and Spinoffs
+  - Flying Dragon Series
+  - https://www.mobygames.com/game-group/flying-dragon-hiry-no-ken-series
+- EGL
+- Next week - m

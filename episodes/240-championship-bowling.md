@@ -1,0 +1,29 @@
+# 240 - Championship Bowling
+
+- It’s Friday Night. You’re in a 4 player competition bowling game. The finest bowling game made. CHAMPIONSHIP BOWLING
+- NES Longplay
+- Introductions
+  - When you play these retro games, when modern ones exist. It’s hard not to compare. Wii Bowling is the perfect bowling game. Championship Bowling is gonna take a lot of work
+- Overview
+  - It’s bowling. Is bowling enough to suck you in?
+  - You can choose your player - handedness is all that changes
+  - You can choose your ball - weight
+  - You can choose your lane
+- Gameplay
+  - Control and Power Meters
+    - Control should imply much more spin on the ball than it does
+  - Find the “strikezone” and stick with it
+  - The animations
+  - Inability to reposition
+  - If you’re not good at this game, they have a pretty damn High Score requirement just to get on the board
+- Sequels and Spinoffs
+  - Championship Bowling GENESIS
+    - Not the same developer or publisher
+    - The game includes three different play modes: standard bowling; spare mode, where a handful of pins are placed with the goal being to pick up a spare; and bonus mode, where specific pins are worth different amounts of points.
+  - Championship Bowling XBOX
+    - The only funny thing I have to say about this game is that it looks as bad as those wacky animations that play in real bowling alleys
+  - BOWLING on PS1
+    - No fun title, the cover art is just a picture of 10 real pins. No characters to choose or see. Just hilariously low effort
+- EGL
+- Next week - Cybernoid: The Fighting Machine
+- NEStalgia Byte - The Portopia Serial Murder Case

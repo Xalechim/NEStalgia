@@ -1,0 +1,47 @@
+# 136 - Bubble Bobble
+
+- THESE ARE TWO HUNGRY DINO-MIGHTS AND THEY'VE GOT BUBBLE FIGHT’N FUN DOWN TIGHT
+- Introductions
+  - BUBBLE BOBBLE DOUBLE DRIBBLE DOUBLE DRAGON F ZERO
+- Overview
+  - Similar to Mario Bros. Bubble Bobble is a platforming arcade game where each level takes place on a single screen. You can play as one of two dragons (Bub or Bob) and use their bubble blowing ability to capture enemies and then burst them inside those bubbles by colliding with them. Each level has a certain number of enemies that must be defeated in order to advance.
+- Story
+  - Another Japan and North America conflict of stories...
+  - "Baron Von Blubba" has kidnapped the brothers Bubby and Bobby's girlfriends and turned the brothers into Bubble Dragons, Bub and Bob. Bub and Bob have to finish 100 levels in the Cave of Monsters in order to rescue them.
+- Gameplay
+  - Character Design
+    - Let’s talk about something we usually don’t talk about
+  - Is it satisfy to blow BUBBLES and BOBBLE your enemies?
+    - Enemies turning into fruit
+  - Levels and Variety
+    - Bonus Items
+    - Different enemies that are fun (reminds me of Stinger)
+  - That 1 Music track
+  - Continue right where you left off as many times as you like
+  - Co-Op
+    - Laura and I had the chance to test the Co-Op experience
+  - LEVEL 100
+    - Actually a boss fight
+      - Baron Von Blubba looks like shit in the manual.
+    - Completing Level 100 in single-player mode reveals a message stating that the game has not truly ended and a hint to the player: "Come here with your friend." If two players complete the game, they see a "happy end", in which the brothers are transformed to their human selves and reunited with their girlfriends.
+    - This ending also includes a code that, when deciphered, allows the game to be played in the faster and more difficult "super" mode. If this mode is completed with two players, a second "happy end" is displayed in which Super Drunk (the defeated boss) is revealed to be the brothers' parents under the control of some outside influence. The brothers return to normal and are reunited with their parents and girlfriends.
+- Development
+  - Taito already brought us Legend of Kage, Renegade, Elevator Action, Arkanoid. It’s clear they have a focus on Arcade sensibilities.
+  - Mitsuji SHOTS FIRED
+    - MTJ: To be honest, Taito’s games then seemed kind of cheap and lame to me, both in terms of graphics and gameplay. They didn’t have much style or sense. Compared with Namco’s offerings, they were very much lagging behind.
+    - MTJ: The reason I selected bubbles is for the simple reason that I thought it would be really fun to have a screen full of bubbles everywhere. When you think “bubbles”, of course, you think of popping or bursting bubbles, and that bursting action is tied into my idea of “pleasure” gameplay.
+  - Mitsuji hoped his game would appeal to women, specifically couples that visited arcades. As such, he decided to make Bubble Bobble focus largely on its two player co-operative mode. He made bubbles the core mechanic as he thought they would be a fun element that girls would enjoy.
+- Sequels and Spinoffs
+  - SO MANY sequels and we still have BUBBLE BOBBLE PART 2 on NES so let’s just cover the basics
+  - Bubble Bobble was first released in the arcade in 1986 (not that late of a port to NES)
+  - Final Bubble Bobble - Genesis 1991
+    - now has 200 levels
+  - Rainbow Islands: The Story of Bubble Bobble 2 (ported to NES in 1991)
+    - Now that the dragons have turned back to humans you play as them and their ability to shoot rainbows
+  - THE GREAT BUBBLE BOBBLE 2 DEBATE
+    - Rainbow Islands: The Story of Bubble Bobble 2, the first "sequel" to Bubble Bobble
+    - Bubble Bobble Part 2, released on the Nintendo Entertainment System and Game Boy
+    - Bubble Symphony, also known as Bubble Bobble II in some countries
+  - And of course, if you can believe it Bubble Bobble also has a spinoff called Puzzle Bobble better known as BUST A MOVE.
+- EGL
+- Next week - Cobra Command

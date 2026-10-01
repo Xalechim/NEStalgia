@@ -1,0 +1,65 @@
+# Special 097: Sonic the Hedgehog
+
+- Super Speed, Super Graphics, Super Attitude...It’s SUPER SONIC!
+- Introductions
+  - And welcome to Nintendo’nt tell me you’ve heard this one before
+- Overview
+  - Sonic the Hedgehog is the better version of any Super Mario Bros. game Despite being an obvious homage and playing very similar Sonic is definitely different and not a copy and we’ll explain why
+  - There’s a very long story into the creation of Sonic, here’s the sparknotes:
+    - Nintendo has Mario, Sega has Alex Kidd
+    - Sega wants a new better mascot to compete with the success of SMB3. They develop ideas for fast characters like a rabbit. They went with Hedgehog because it could curl in a ball for the attack
+      - Naoto Ohshima has since admitted that he created Sonic's basic design by combining Felix the Cat's head with Mickey Mouse's body.
+    - Sega than turns to Yuji Naka (Programmer for Phantasy Star and Ghouls N’ Ghosts). He wants to make Super Mario Bros. But faster after dealing with making many “slow” games.
+      - while playing Super Mario Bros., he had wondered why the levels could not be cleared more quickly.
+    - As development continues the team read Famitsu to stay informed of what their rivals were doing so they could avoid their mistakes
+    - The game would release finally in June of 91, beating Super Mario World to North American Market by 2 months.
+- Gameplay
+  - SEGA syntheziser
+    - He’s wagging his finger at ya
+  - Sonic
+    - The Size of Sonic
+    - The Jump - which is the attack
+    - So fast he can’t stop
+      - Naka wanted Sonic to take over the American market. Sonic's default speed was set to that of Mario while running. Tests were run using the Genesis' tool library, and problems such as flickering, slow frame rates, and shaky animation soon became apparent. Increasing Sonic's speed caused animation problems. Naka solved the problem by developing an algorithm that enabled the animation to retain fluidity.
+  - Level exploration
+    - So is the goal to go fast or not?
+      - Size of screen
+      - Green Hill Zone appreciates chaos while something like Scrap Brain Zone would destroy most players being reckless
+    - Variety of length of stages
+      - It took Naka around eight months to develop Green Hill Zone as he kept restarting from scratch.
+    - Hazards
+      - Enemies - Really wanna call out that purple worm with the spikes. Absolutely hate him.
+      - Spikes
+      - Pits
+      - BEING CRUSHED
+      - Water (Labyrinth)
+  - No Spindash
+    - I don’t think I really miss it. It would’ve been strange in a lot of these levels that have more traps and pits
+    - You can play it on the GBA version though
+  - Special Stages
+    - Terrible repetitive music
+    - Feels like you’ve glitched
+    - Super Tedious
+    - And what’s the freaking payoff? NOTHING!
+  - Eggman Boss Fights
+    - Eggman or Robotnik?
+    - Why is the last one seemingly the easiest provided you figure out what to do?
+  - The Music
+    - Every single song on this Soundtrack is a BOP. I seriously still jam to these all the time
+    - Masato Nakamura manages to blend fun, groove, and tempo in a way that compliments every stage. Green Hill is bumping, but playful. Star
+      - The bassist and songwriter of the J-pop band Dreams Come True.
+      - Nakamura said the hardest part of creating the soundtrack was the number of sounds that could play concurrently: he was limited to four, and said that his lack of knowledge of music on computers made it "impossible".
+  - The Little touches
+    - The animals never seemingly die after being saved
+    - Sonic waiting animation
+    - Cheats
+      - Config mode where you could literally redesign the levels
+- Spinoffs
+  - But you could play Sonic 1 on the Sega Master System if you were too poor for a Genesis
+    - It has an overworld map
+    - Your rings don’t scatter everywhere
+    - Weird scrolling effect
+    - level design is flatter and has a larger focus on exploration
+- EGL
+  - It’s one thing to make a game that is an answer to your competitors system sellers, it’s another thing to walk all over it and ooze this much style.
+  - Oh and Sonic did win the Golden Joystick Game of the Year award that year. Beating Super Mario World

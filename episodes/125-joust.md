@@ -1,0 +1,22 @@
+# 125 - Joust
+
+- In the future well beyond our knowledge, the knights of hyperspace are playing their version of JOUST!
+- Introductions
+- Overview
+  - In Joust, players take control of a knight with a lance who rides their flying ostrich to do battle against computer-controlled evil knights who ride atop vultures.
+- Gameplay
+  - Ever feel like you’re playing a game the wrong way?
+  - Fast and Stiff at the same time?
+  - Did Balloon Fight eat Joust’s lunch?
+  - The lore is so much cooler than the execution
+- Development
+  - Lots of Development bullshit, like who cares? He studied what can fly and mythology.
+  - Joust was programmed on the NES by Iwata
+  - At the time Joust was done I was hoping to get a broader audience who may want to try a different skill. There were already plenty of shooting games they could play. I wanted to break some new ground. I felt I was already giving the player new things to do like having to flap, run and become so adept at flying that it would be the determining factor in how you collided and defeated an enemy. The cleanest thing I could think of to visually determine a winner was height. - John Newcomer
+- Sequels and Spinoffs
+  - Joust 2: Survival of the Fittest
+  - Joust 3D - Cancelled N64 Game
+  - Midway Games optioned Joust's movie rights to CP Productions in 2007.
+    - "Gladiator meets Mad Max", set 25 years in the future, and Peters commented that the action oriented film would appeal to a general audience. The movie was planned as a tent-pole movie, with a graphic novel by Steven-Elliot Altman as part of the media franchise's release.
+- EGL
+- Next week - MagMax

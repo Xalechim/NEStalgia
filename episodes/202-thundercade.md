@@ -1,0 +1,23 @@
+# 202 - Thundercade
+
+- Terrorism has reached new heights!
+- NES Longplay
+- Introductions
+  - What are some things today that are pictured to be as cool as Motorcycles were in the 70s and 80s
+  - Also it’s SHMUP time
+- Overview
+  - You are part of Operation Thundercade, a special forces operation battling against the nuclear threat of Atomic Age Terrorist Organization of Miracali (AATOM).
+  - Players control a motorcycle equipped with sidecar cannons and backed up by a B-7 bomber
+- Gameplay
+  - Motorcycle SHMUP
+    - Is that enough of a gimmick? Just saying well instead of a spaceship you’re a motorcycle. Remember Sqoon
+  - The B-7 Bomber
+  - The Power Ups
+    - Just kinda picked up. Not a sense of progression for skill
+  - Boss Fights
+    - You ever wonder if you’re doing any damage?
+    - They have so much artillery
+- Sequels and Spinoffs
+  - None
+- EGL
+- Next week - Adventures of Tom Sawyer

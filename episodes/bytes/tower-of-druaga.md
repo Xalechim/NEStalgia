@@ -1,0 +1,41 @@
+# Tower of Druaga
+
+- They really should’ve built an elevator
+- NES Longplay
+- Introductions
+- Overview
+  - arcade action role-playing maze game
+    - Let’s break that down
+  - Each level is a maze with at least a door and a key somewhere else to open that door. There are also many items scattered throughout the floors. The goal is to climb all 60 floors, fighting off enemies with your sword in a top down fashion similar to The Legend of Zelda
+- Gameplay
+  - Combat
+    - slimes, knights, projectile-firing wizards, ghosts that can travel through walls and fire-spewing dragons
+    - hitting them with a sword — some will require multiple hits to defeat.
+    - Gilgamesh can also block a projectile by facing it with his shield
+  - Each floor also has a hidden item that can be uncovered by completing tasks, such as defeating a certain number of enemies or inputting a specific code with the D-Pad
+    - These items include a pickaxe that can destroy walls, boots that will drastically increase Gilgamesh's walking speed, and a candle that can reveal ghosts.
+    - Some of these items are required to fully beat the game, and failing to do so will either cause the player to die or make the game unwinnable.
+  - The quality of the maze
+  - The variety of the maze
+  - Druaga is noted as being influential for many games to follow, including Ys, Hydlide, Dragon Slayer and The Legend of Zelda.
+- Development
+  - Druaga was designed by Masanobu Endo, best known for creating Xevious (1983).
+  - He bought a copy of Dungeons & Dragons.[4] Intrigued by its gameplay and setting, Endo — a fan of the Apple II game Wizardry — had set out to make his next game an action role-playing title. It was conceived as a "fantasy Pac-Man" with combat and puzzle solving, taking inspiration from games such as Wizardry and Dungeons & Dragons, along with Mesopotamian, Sumerian and Babylonian mythology. It began as a prototype game called Quest with interlocking mazes, revised to run on an arcade system; the original concept was scrapped due to Endo disliking the heavy use of role-playing elements, instead becoming a more action-oriented game.
+- Reception
+  - Japan megahit both in arcades and on the Famicom
+  - It has been cited as an important landmark of the role-playing genre and helped lay the foundations for future titles.
+  - In 2009 it came to Wii Virtual Console in North America and was hated for most of the reasons we discussed on the podcast today.
+- Sequels and Spinoffs
+  - The Return of Ishtar (1986, arcades, two years later)
+    - Picks up right where this one left off. Now you play as both Ki and Gilgamesh. But requires two players
+    - Now you’re scaling down the tower
+  - The Quest of Ki (1988 famicom)
+    - Prequel to Tower of Druaga, explains how Ki got to the top of the tower
+    - side-scrolling platformer with one hundred levels
+  - The Blue Crystal Rod
+    - I can’t find anything about this game
+    - Picks up where Return of Ishtar left off and is the final game in the Tower of Druaga series, according to Namco.
+  - TurboGrafx Remake in 1992
+    - Besides the updated graphics, this remake features a 3/4 view instead of the original top-down one. It also bears some RPG elements, as Gilgamesh gathers experience points for killing enemies, which are spent at the end of each level, to improve his stats
+- EGL
+- NEStalgia Byte - Battle City

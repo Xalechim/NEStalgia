@@ -1,0 +1,34 @@
+# 130 - Racket Attack
+
+- THE TOUGHEST POWER GAME OF TENNIS IN THE WORLD
+- Introductions
+  - Sports are back on the menu! Fighting Golf was the last we reviewed, loaded genre. First Tennis Game since TENNIS
+  - This one comes from JALECO, made their debut with City Connection and Publisher of Bases Loaded.
+- Overview
+  - Compete in a Tennis Tournament as one of 16 characters.
+- Gameplay
+  - Choose your character!
+    - 8 male and 8 female characters
+    - players contain unusual names like "Gibbco" and "First."
+  - Different Courts
+    - Grass, Clay, Hard
+  - Actual Tennis
+    - The switch in camera between serve and volley
+    - Learning the timing of shots
+    - You can’t win them all
+    - This is gonna be LONG
+  - Design
+    - Six different shots
+    - A and B are different on context
+    - Players can protest to the line judge if a decision is not made in their favor.
+    - Minimalist Score design and announcer
+    - Same Camera Angle as Bases Loaded
+  - Single Player is only Tournament Mode
+  - Passwords allow players to retain their statistics after playing
+- Sequels and Spinoffs
+  - In Japan this was part of the Moero sports line of games. Moero 1 was Bases Loaded and so this was Moero 2
+  - I think it’s interesting to note 2 Moero games we won’t get on the NES
+    - Moero 6!! Shin Moero!! Pro Yakyuu    Baseball  GAME
+    - Moero 7!! Juudou Warriors		Judo GAME
+- EGL
+- Next week - Seicross. Arcade Motorbike game

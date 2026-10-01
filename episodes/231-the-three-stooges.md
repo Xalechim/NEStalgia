@@ -1,0 +1,27 @@
+# 231 - The Three Stooges
+
+- Painfully Funny
+- NES Longplay
+- Introductions
+  - Today we’re gonna talk about Ghostbusters 2
+    - Starts off strong in the wrong game and Moe acknowledges it
+  - Any familiarity with 3 Stooges? I haven’t really bothered with it
+- Overview
+  - The Three Stooges must rescue an old woman's orphanage by earning money in minigames based on various Three Stooges films.
+  - Players select minigames by timing a button press as a hand randomly points to various symbols representing in-game events, including non-interactive events that can raise or lower the Stooges' cash total. Each event takes up one in-game day; players have 30 in-game days to earn as much money as possible.
+- Gameplay
+  - The original Wario Ware
+  - The mini games - Any stand outs
+    - The soup cracker game
+    - Unlike wario ware, where the first time you play a game its supposed to be surprising to learn what to do and then you memorize the quick actions, this game doesn’t quite ever meet that flow. Some games are just not as much fun or short as others.
+    - Creates more of a Mario Party like effect where you see a certain mini game on the wheel and pray it doesn’t get picked.
+  - The player must avoid mousetrap spaces, which injure the fingers on the hand; landing on four such spaces immediately ends the game, regardless of the number of days completed.
+  - The voice acting in the game
+  - The replayability?
+- Sequels and Spinoffs
+  - In other versions instead of Ghostbusters 2 they walk into Defender of Crown
+  - Versions for the Game Boy Advance (developed by Crawfish Interactive) and PlayStation (developed by Flying Tiger) were published by Metro3D, Inc. and released in 2002.
+  - A port was completed for the Game Boy Color, however it was cancelled in 2000 and only footage of the beta has been released.
+- EGL
+- Next week - The Three Stooges
+- NEStalgia Byte - Battle City

@@ -1,0 +1,66 @@
+# 206 - Dragon Warrior
+
+- The epic beginning of a new era in video games
+- NES Longplay
+- Introductions
+  - JRPGs are finally here
+  - Any familiarity with Dragon Quest?
+- For our generation, Pokemon was in a weird way, the introduction of turn based battles and JRPG tropes. I would never call Pokemon a JRPG, but it is the gateway. DQ is not quite the gateway, it’s the beginner’s book. It creates a lot of the JRPG mechanics still around today and lays down the basic concepts of turn based battles, leveling, grinding, saving, magic, and exploring a large map
+- Overview
+  - In this turn based JRPG you play as the hero who must travel throughout the world to rescue the princess Gwaelin and defeat the Dragonlord evil. Along the way you’ll complete quests, fight enemies in random encounters, and gain experience to level up.
+- Gameplay
+  - Exploration - Does this have the Legend of Zelda Moment? Does the scale impress you? Forget about the actual contents of the game, does it feel like a game where anything could happen next?
+    - Overworld
+      - Size
+      - Types of environments
+    - Dungeons
+      - commands to climb stairs and open chests
+      - Caves are dark, and must be lit up with a torch or Radiant spell
+      - Wings to fly back to Tangiel
+  - Combat - TURN BASED ACTION thoughts in all JRPGs?
+  - let’s really break down the battle system
+    - 1-on-1 battles always
+    - Attacks/Magic/Run
+      - Very little variety outside of discovering a new enemy once in a while
+    - Could there have been different types of attacks?
+    - Spells - https://strategywiki.org/wiki/Dragon_Warrior/Spells
+  - Leveling Up
+    - Based on your name
+    - The reward between levels feels small most of the time outside of the spells. I’d argue they could’ve done less levels, but make the strength more noticeable
+    - It’s really hard to catch up with the new places you go to. It’s not a level jump from lvl 5 to lvl 6. It’s often 2-3 levels per area.
+  - Story/Progress
+    - Receiving quests and hints. Arguably the easiest it’s ever been to figure out where to go next
+    - Buying equipment
+      - I really like how you don’t just move town to town, even the shops have items that you could grind for days to get now or realize you need to come back later.
+      - Acquired weapons, armor and shields will automatically replace the previous item,
+    - Optional Quests
+      - Erdrick’s Armor
+      - Fighter’s Ring (which does nothing)
+      - Saving the princess (also entirely optional)
+      - Fairy Water
+      - One door opens into a treasure room, where the guard inside will admonish you for taking what isn't yours. All that you will find is barely enough gold to make up for the cost of the key that you just used.
+    - Using the Nintendo Power Guide
+  - Only 1 save location
+  - Did you save it all for the end?
+  - Was there anything you expected that didn’t show up?
+- Ending note
+  - It is actually possible to complete the game without saving Princess Gwaelin as it is not necessary to fight the Dragon within the cave in order to receive the three sage's items.  The Ending will not have her included as a result.
+- Akira Toriyama
+  - Always mentioned in relation to Dragon Ball and Dragon Quest, yet I almost left him out of the show notes
+- Sequels and Spinoffs
+  - Dragon Warrior will return to the podcast for 3 more sequels
+  - But I want to talk briefly about the best way to play Dragon Warrior today
+    - MSX Version
+    - Game Boy Color Version
+      - quicksave the game anytime outside a battle.
+      - store gold
+      - The menu was streamlined
+      - monsters yield more experience and gold, saving time.
+    - Super Famicom Version
+      - Better graphics and sound + all GBC upgrades
+    - Mobile has updated graphics
+    - Switch has the original games
+  - In 2016, the spinoff Dragon Quest Builders was released as an alternate sequel to the first game. The story is set after the "bad ending" of the first game, where the Hero accepts the Dragonlord's offer to join him and rule half of the world.
+- EGL
+  - Clearly lays down the groundwork for so many RPGs to come, but time has not been kind to the concept. I will be shocked if the other DQ NES games don’t prove to be more worthy of consideration.
+- Next week - Faxanadu

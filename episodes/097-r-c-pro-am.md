@@ -1,0 +1,36 @@
+# 097 - R.c. Pro-am
+
+- Back of the Box
+- Manual
+- Introductions
+- Overview
+  - Guide your radio controlled car to victory in this racing game. You have to beat your 3 opponents on 32 tracks while avoiding obstacles like water and oil puddles and collecting bonus items like better engines and tires. You can also collect a variety of weapons to blast your opponents out of the way.
+- Gameplay
+  - overhead isometric perspective
+    - Slow to learn
+  - 24 unique tracks
+    - Game ends when you finish 4th (but you get 2 continues)
+  - "Tune-up items" help increase the car's performance
+    - turbo acceleration
+    - "hotter engines" for higher top speed
+    - "super sticky tires" for increased traction and cornering
+  - Weapons
+    - missiles take out the opposing vehicles from the front
+    - bombs take them out from the rear
+    - The number of missiles and bombs carry over to the next race
+    - Roll Cage helps you take on weapons
+    - Excessive use of projectile weaponry on opponents will result in the yellow car accelerating to 127 mph, which cannot be matched by the player.
+  - Collect Nintendo Letters to upgrade. You start with standard truck to a faster 4-Wheeler and then to the fastest Off Roader.
+- Fun Club issue 5
+  - RC was the cover story
+    - The big difference is R.C and we’re not talking Cola
+  - Return of Donkey Kong
+    - "That barrel-throwing rascal Donkey Kong is some kind of crazy. In Donkey Kong, he has Pauline in his clutches. In Donkey Kong Jr., he gets locked in a cage. In Donkey Kong Jr. Math, he knows the score in a math jungle. In Donkey Kong 3, he makes trouble for Stanley the bugman. And now Donkey Kong is soon to come back with more barrel-tossing fun. But this time you're in control! Are you video buff enough to handle the one-and-only Return of Donkey Kong? Watch for it!"
+- Sequels and Spinoffs
+  - Genesis Version
+    - The Genesis version (CHAMPIONSHIP PRO AM) is basically the same game as the NES version with a few minor changes such as having 5 opponents instead of 3, spelling out CHAMPION instead of NINTENDO, and having enhanced graphics.
+  - Super R.C. Pro-Am
+    - Game Boy Version
+  - RC PRO AM II
+    - 4 Player on NES
+- EGL

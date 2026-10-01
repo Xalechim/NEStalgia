@@ -1,0 +1,36 @@
+# 150 - Robowarrior
+
+- You're Zed, half man, half cyborg. The one-man battalion with a human heart and a computer's brain.
+- Introductions
+  - Bomberman
+    - In Japan this game was called Bomber King
+    - Bomberman came out in japan in 85
+    - Made by Hudson Soft
+    - Uses the same art in Japan as Bomberman
+- Robo Warrior takes place on an alien planet named Altile. Players pilot a cyborg named ZED (an acronym for Z-type Earth Defence) as he raids Altile to fight the Xantho empire and destroy its leader, Xur. ZED uses bombs to hurt enemies, destroy his surroundings, and uncover various hidden items.
+- Gameplay
+  - NES tier of controls
+    - This just feels good.
+  - Is it satisfying to bomb stuff
+    - Weird pushback
+    - Tight passageways
+    - Explosions do way too much damage
+    - Neat clearout system
+  - Constant Power Drain
+    - It’s a clever explanation, but ultimately it limits the fun of the game severely. Imagine if Link constantly required the power of the triforce?
+    - Nagging beeping music
+    - Going back to explosion damage. You can’t afford that because of this system
+  - Power Ups
+    - Cool secrets too
+  - Stellar music
+  - 27 Levels
+    - NES version is easier than Famicom because you take significantly less damage.
+  - Level Select Code
+    - Up + Left + Select (on title screen)
+  - Hidden Theme Song option
+- Sequels and Spinoffs
+  - If you forget the fact that this is connected to Bomberman…
+  - ...It’s also connected to Blaster Master
+    - Blaster Master Jr. for Gameboy is actually Bomber King Scenario 2 in Japan.
+- EGL
+- Next week - Skate or Die!

@@ -1,0 +1,34 @@
+# 239 - The Battle of Olympus
+
+- This is an ancient story. A time when Men and Gods lived together
+- NES Longplay
+- Introductions
+  - Many comparisons offered to Zelda 2 even on our own Patreon feed.
+    - the player is a hero with a sword and shield
+    - Side Scrolling adventure game where you travel from town to town
+    - Rescue a princess
+    - A final confrontation with a shadow
+- Gameplay
+  - It’s an adventure! Given the Greek setting it’s easy to think of it like an Odyssey, how is the grandness of the adventure in this game? Is it a compelling story?
+    - Fun storytelling beats like having to crouch in front of Zeus to get him to speak.
+  - Follow up, is it exciting to progress?
+    - A lot of people tell you things and usually we complain about the validity of what they are saying in these games, but I’d like to focus instead on how interesting that mechanic is. Essentially every secret or progression point in the game is just someone telling you GO or DO X and you will get Y
+    - Many locations, suffers a little from the Simons Quest problem of having to walk between every location. Zelda 2 world map solved this, by making the dungeons and towns big, but traversal between them easy.
+    - The items aren’t just stronger weapons, it’s fun to see what you’re getting next and seeking out optional items
+  - Battle system
+    - Look no further than the very beginning of the game to see why I don’t like this kind of combat.
+      - Purple Slimes that you can only attack when they jump, but they continue to move towards you constantly so you have to be properly positioned for when they jump since you need to be standing in the correct spot.
+  - Secondary items and their use to gatekeep future content
+    - These are necessary evils in a story telling adventure like this. This isn’t a metroidvania with sequence skipping and finding hidden paths. It’s about getting a particular item to open a particular door.
+  - non-linear and there are some optional side quests that can make the game easier in the long run
+    - The first example, saving the kid from Lamia based on a request from his mother.
+- Sequels and Spinoffs
+  - Game Boy version
+    - Europe Only
+    - Released much later in 1993
+- Development
+  - The Battle of Olympus was developed by Infinity, and was the first game from the company.
+- EGL
+  - A great adventure game filled with mostly fetch quests and some moderate puzzle solving, but the combat keeps it off the list for me. On a more interesting note, this game made me want to revisit Zelda II, because I have a feeling the combat is much better in Zelda 2 and that could push it over the edge and finally onto the EGL.
+- Next week - Championship Bowling
+- NEStalgia Byte - The Portopia Serial Murder Case

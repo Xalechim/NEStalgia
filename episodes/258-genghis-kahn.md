@@ -1,0 +1,25 @@
+# 258 - Genghis Kahn
+
+- LIVE SECOND CENTURY CHINA
+- NES Longplay
+- Introductions
+  - Koei persists in porting their grand strategy games to the NES.
+- Overview
+  - Two modes
+    - Mongol Conquest, which begins in the year 1175 A.D, which is a one player mode. Players assume control of Lord Temujin
+    - World Conquest, which begins in the year 1206 A.D, is started by choosing the number of players and difficulty. It supports 1-4 players. Players must choose who they want to be; Genghis Khan (Mongols), Alexios I (Byzantine), Richard (England), or Yoritomo (Japan).
+    - Afterwards, take over the last country. When you do, you shall get a screen talking about how the real battle begins. You will then be elevated to the World Scenario, intact with your stats from the Mongol scenario. It will then take about one or two minutes (I am not joking) before you can get set.
+- Gameplay
+  - make three choices. These choices include training the troops, buying a certain product/quantity from a merchant, drafting soldiers, sending a treaty, or going to war. Each act takes one choice away until the three choices are used; then the cycle continues. Once every country has used their turns, the season changes and the cycle goes through again, but in a different order.
+  - Because these games are like Historical fiction, is there a case for them also making a historically accurate mode?
+  - Use the market fluctuations to your advantage. When Spring comes  around, sell off some of your items to get lots of Gold, then when you get to Winter, buy back what you need. This cannot be stressed enough; if you want to win, you NEED to sell and buy accordingly so you have a healthy dose of money.
+- Armağan Yavuz, the co-founder of Turkish developer TaleWorlds cited Koei's Genghis Khan as an influence on their Mount & Blade series
+- Sequels and Spinoffs
+  - Not the first Ghengis Khan game
+    - Aoki Ōkami to Shiroki Mejika (蒼き狼と白き牝鹿, lit. "Blue Wolves and White Does") - 1985 (PC-98, PC-88, MZ-2500); 1986 (MSX, FM-7, X1)
+    - Genghis Khan (蒼き狼と白き牝鹿・ジンギスカン, Aoki Ōkami to Shiroki Mejika· Genghis Khan) - 1987 (PC-88, PC-98, MSX2); 1988 (MSX2, MSX); 1989 (X68000, NES, DOS); 1990 (Amiga); 2003 (Windows); 2007 (Cellphones)
+    - Genghis Khan II: Clan of the Gray Wolf (蒼き狼と白き牝鹿・元朝秘史, Aoki Ōkami to Shiroki Mejika· Genchou Hishi, lit. "- Secret History of Yuan Dynasty") - 1992 (PC-88, PC-98, MSX2); 1993 (FM-Towns, X68000, NES, SNES, Mega Drive, Mega Drive CD); 1998 (PlayStation)
+    - Genghis Khan: Aoki Ookami to Shiroki Mejika IV (チンギスハーン・蒼き狼と白き牝鹿IV) - 1998 (Windows); 1999 (PlayStation)
+- EGL
+- Next week -
+- NEStalgia Byte - Bio Miracle

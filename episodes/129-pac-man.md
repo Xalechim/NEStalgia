@@ -1,0 +1,21 @@
+# 129 - Pac-man
+
+- Gobble the energizers or get gobbled by ghosts
+- Introductions
+  - Pac-Man
+- Overview
+  - The objective of the glame is to traverse an enclosed maze to eat all of the dots placed in the maze while avoiding four colored ghosts — Blinky (red), Pinky (pink), Inky (cyan), and Clyde (orange) — that pursue him.
+- Gameplay
+  - Do you enjoy Pac-Man? Does it satisfy?
+  - Ghost Strategies?
+  - Why are there no other games like Pac-Man?
+- Where does Pac-Man go from here
+- Sequels and Spinoffs
+  - Ms. Pac-Man
+  - Many bad Pac-Man games
+  - Pac-World games
+    - The 3D attempt
+  - Pac-Man Championship Edition DX
+- EGL
+  - Essential Arcade Game. One of the few video games everyone should play.
+- Next week - Racket Attack

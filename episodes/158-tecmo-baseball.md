@@ -1,0 +1,27 @@
+# 158 - Tecmo Baseball
+
+- Manage your own team to the series championship. Even create your own all-star game!
+- Introductions
+  - The less spoken of Tecmo game
+- Overview
+- Gameplay
+  - The best teams in the game are St. Louis and Minnesota, the two teams that played each other in the 1987 World Series.
+  - DH Rule
+    - Use, Not Use
+  - Batting
+    - The view
+    - Some balls you just can’t hit
+  - Fight - between innings on the scoreboard
+  - I feel powerless playing this game. This is a simulator of how I would actually perform in the MLB.
+  - Watch mode
+- Sequels and Spinoffs
+  - Tecmo Super Baseball - SNES
+    - A game that is very advanced for it’s time. I was blown away by some of the features, but there are so many obtuse decisions that it actually seems like they knew Tecmo Baseball was a tough game to play and doubled down on it for the SNES.
+  - Other Tecmo games
+    - Tecmo Bowl
+    - Tecmo Super Bowl
+    - Tecmo NBA Basketball
+    - Tecmo Cup: Soccer Game
+- EGL
+  - If NES Baseball is haunted, Tecmo Baseball is HELL.
+- Next week - WWF WRESTLEMANIA

@@ -1,0 +1,43 @@
+# 108 - Gauntlet
+
+- Introductions
+- Based on the 1985 Arcade game GAUNTLET. WHere 4 players could play at once...in the NES version not so much.
+- Overview
+  - Top Down Dungeon Crawler game where you play 1 of 4 different warriors and make your way through 100 levels.
+- Gameplay
+  - Different Warriors
+    - Thor - the brute-force character. Considered the worst by most players.
+    - Thyra - Balanced Character. High Armor
+    - Merlin - best magic but very slow
+    - Questor - Very speedy, gets better with levels
+  - Dungeon Crawling
+    - Fighting
+    - Mobs
+    - Bases
+  - Experience and Leveling
+    - Treasure Room
+  - 2 Player
+- Helpful hints provided from a Dungeon Master type voice are missing from the NES version
+- Sequels and Spinoffs
+  - Arcade
+    - Gauntlet II - 1986 (WILL COME TO NES AS 4 PLAYER)
+      - The main difference from the original game is that multiple players can now choose to play as the same character class.
+    - Gauntlet Legends - 1998
+      - Allowed players to use a password IN THE ARCADE to save progress
+    - Gauntlet Dark Legacy - 2000
+      - The expansion adds five new levels, and four new character classes: Dwarf, Knight, Jester, and Sorceress.
+  - Console Only
+    - Gauntlet: The Third Encounter - Atari Lynx 1990
+      - Same box art as NES
+      - The player can choose from eight character classes to play as, including the Valkyrie and the Wizard from the original Gauntlet, as well as six new character classes: the Samurai, the Punk Rocker, the Android, the Gunfighter, the Nerd and the Pirate.
+    - Gauntlet III: The Final Quest - Home Computers 1991
+      - Besides the standard four main Gauntlet characters, Thor, Thyra, Merlin, and Questor, four new playable characters were available: Petras, a rock man; Dracolis, a lizard man; Blizzard, an ice man; and Neptune, a Merman.
+      - The game is viewed from an isometric perspective and includes a two-player cooperative multiplayer mode.
+    - Gauntlet: Seven Sorrows - PS2 2005
+      - Follow-up to Gauntlet Legends and Gauntlet Dark Legacy.
+      - Adds online play
+    - Gauntlet: Slayer Edition - PS4 2015
+      - It’s overstayed it’s welcome
+- EGL
+- Atari Commercial - https://www.youtube.com/watch?time_continue=32&v=Oju5vAfFBDc&feature=emb_logo
+- 30:58 - Sean Coughs

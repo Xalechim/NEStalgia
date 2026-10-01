@@ -1,0 +1,38 @@
+# 213 - Bad Street Brawler
+
+- Thug thrashing defender of freedom
+- NES Longplay
+- Introductions
+  - Are you fighting on Bad Street or are you just bad at street brawling?
+- Overview
+  - This is a beat em up
+- Gameplay
+  - With a name like Bad Street Brawler, what’s up with the carnival style music in the title screen?
+  - How does this fare as a beat em up?
+    - What stands out?
+  - Your move set
+    - The Force Moves - Duke knows 15, but can only use 3 per stage.
+  - Timer
+  - Unique setting in terms of enemies and stages you’ll see
+    - The spy who opens his coat to reveal another smaller spy
+  - Duke throwing out all the weapons he collected at the end of the stage is great closure and scoring
+    - But why do the point totals bounce of screen like a set of chattering teeth
+  - The Quotes between the stages
+    - Maybe they’ll make a movie out of me
+    - "Come fight beside me," I said to myself, and although it doesn't make sense, I held my own hand as a small sign of trust, and together I made my defense.
+  - The weird ending
+    - The END BOSS is DUKE'S SENSEI!
+      - Duke's sensei is an old geezer dressed in yellow with black head band.
+      - Apparently he is scared crapless of Duke's mad skills because he brought a BAZOOKA to even the odds!!
+    - The ending is this weird MS pain abomination with confetti
+  - The NES version was one of only two NES games specifically designed for use with Mattel's Power Glove.
+    - The other is Super Glove Ball
+- Sequels and Spinoffs
+  - originally released for home computers as Bop'n Rumble
+  - Or Street Hassle in Europe
+  - Now here’s a weird piece of trivia
+    - Last week Back to the Future
+    - Beam Software will make Pt 2 and 3 on the NES
+- EGL
+- NEStalgia Byte - Exerion and Formation Z
+- Next week - The Black Bass

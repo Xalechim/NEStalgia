@@ -1,0 +1,33 @@
+# 197 - Baseball Stars
+
+- Player, Manager, Owner...You can do it all in Baseball Stars
+- NES Longplay
+- Introductions
+  - Baseball Season just ended but lucky us, there’s always a baseball game around the corner on NES.
+- Gameplay
+  - Presentation
+    - We’ve seen better
+    - Why is the player in a zoomed in box?
+    - Why is the stadium so bare
+    - Teams feel unique
+  - Stats are actually wild
+  - Offense
+    - Batter movement. I don’t like when it’s this free roam
+    - Worth taking some pitches
+  - Defense
+    - Hard to catch because there’s barely a visual cue
+    - Pickles are actually challenging
+    - Climbing the wall
+    - Different types of pitching - Overhand vs sidearm
+  - Creating a team
+    - HIRING, FIRING, AND TRADING PLAYERS
+    - Building player stats
+    - Training players aka spending cash
+    - Earning Money
+  - Called Game
+    - If, at the end of an inning, one team has a leading margin of ten points, the game will be called. Victory goes to the team with the greater points.
+- Sequels and Spinoffs
+  - Baseball Stars 2
+  - Baseball Stars on Neo Geo CD
+- EGL
+- Next week -

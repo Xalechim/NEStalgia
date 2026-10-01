@@ -1,0 +1,57 @@
+# 246 - Shadowgate
+
+- Your Next Move Could Be Your Last
+- NES Longplay
+- Introductions
+  - point-and-click adventure video games
+- Plot
+  - The player enters Castle Shadowgate, residence of the evil Warlock Lord. Try to navigate the labyrinth and find the Warlock Lord before he can summon Behemoth.
+- "The last thing that you remember is standing before the wizard Lakmir as he gestured wildly and chanted in an archaic tongue. Now you find yourself staring at an entryway which lies at the edge of a forest. The Druid's words still ring in your ears: Within the walls of the Castle Shadowgate lies your quest. If the prophecies hold true, the dreaded Warlock Lord will use his dark magic to raise the Behemoth, the deadliest of the Titans, from the depths of the earth. You are the seed of propmmhecy, the last of the line of kings, and only you can stop the Warlock Lord from darkening our world FOREVER. Fare thee well"
+- Breaking down what you can do in this game
+  - MOVE
+    - You select where to move on a minimap that shows open areas via square boxes
+    - Did you need the minimap?
+  - LOOK
+    - This allows you to get better descriptions of specific things in the room
+  - USE
+    - Use an item, usually a combination of select the item you want to use and then what you want to use it on
+  - OPEN
+  - CLOSE
+  - TAKE
+    - Take anything you see
+  - HIT
+    - Throw a punch at anything on screen
+  - SPEAK
+    - Talk to people
+  - SELF
+    - Use items on yourself
+  - SAVE
+  - CARD
+    - Move between inventory and spells
+  - GOODS
+- Gameplay
+  - The tutorial of entering the castle
+  - You really can’t play this kind of game with a guide. It feels weird doing everything in order, less natural.
+  - Death might be constant,but it’s not a major penalty
+    - And death is also very creative
+      - https://gamefaqs.gamespot.com/nes/563455-shadowgate-1987/faqs/15169
+  - Puzzle Solving
+    - The manual wants you to order the hint book. Designed this way on purpose? ALSO that’s all the manual offers you.
+      - The hint book does have a cool system though. It has three levels of hints. A, B, C. A gives you a vague hint, B is more informational, C is explicit.
+    - ????? The hint feature is NES exclusive, but not always helpful
+  - Only a finite number of torches are to be found throughout the game, which effectively acts as a time limit to proceedings.
+  - Weapons
+    - Can be found, but not used as combat, more like item checks at particular moments
+  - Secrets
+- Sequels and Spinoffs
+  - The original MS-DOS game can be played for free on Archive.org
+    - https://archive.org/details/msdos_Shadowgate_1987
+  - In 1999, Infinite Ventures licensed the NES version of Shadowgate to KEMCO and it was ported to the Game Boy Color with enhanced sprites and animations also under the name of Shadowgate Classic.
+  - Beyond Shadowgate - TG16 1993
+    - Unlike the first Shadowgate, this is a platform game - not an action game, but a classical point-and-click adventure viewed from a platform perspective. You can move your hero around, examine, manipulate, and take objects.
+  - Shadowgate 64: Trials of the Four Towers - 1999
+    - 3D first-person adventure game
+  - Shadowgate was remastered in 2014 available on Switch and other consoles, same game for the most part, just with nice artwork and QOL improvements.
+- EGL
+- Next week - Short Order/Eggsplode
+- NEStalgia Byte - B Wars

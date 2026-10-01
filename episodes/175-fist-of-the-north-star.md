@@ -1,0 +1,37 @@
+# 175 - Fist of the North Star
+
+- Danger lurks at every turn and hits when least expected
+- Introductions
+  - 245 issues published from 1983 to 1988. But the Famicom version of this came out in 87 so it didn’t tell the full story
+  - Set on a post-apocalyptic Earth after a nuclear war, the story centers on a warrior named Kenshiro, he uses a deadly martial art which gives him the ability to kill his opponents by striking their secret vital points, which often results in them dying in an exceptionally violent and gory manner. Kenshiro dedicates his life to fighting against the various gangs, bandits, and warlords who threaten the lives of the defenseless and innocent.
+- Overview
+  - A side-scrolling Beat em Up video game produced by Toei Animation and developed by Shouei System
+- Plot
+  - Kenshiro assists Bat and Rin as they lead the Hokuto Army resistance against the Tentei's corrupt imperial forces. As Kenshiro ventures into the Capital, he confronts the Four Generals of Gento and their leader Falco the Gold.
+  - the Four General of Gento, consists of Solia, a character from the manga, Taiga and Boltz from the anime, and a new character named Bronza, who was created for the game.
+  - The NES version has some slight differences from its Famicom counterpart, which cuts the appearances of side characters at the end of certain stages
+- Gameplay
+  - A game where you’re actually powerful
+  - Power Meter
+    - Hold for fighting action
+    - the ability to reflect enemy knives and arrows
+    - faster walking speed
+    - a projectile shooting attack performed by pressing AB simultaneously while standing still (the d-pad must be on neutral).
+    - When Kenshiro reaches his maximum power level, he will rip his shirt and vest open, increasing his defenses.
+  - To enter a door, the player must press the d-pad UP while holding A and B simultaneously, which is a requirement to proceed through certain stages.
+  - Navigation sucks
+  - Bosses and Sub-Bosses
+    - Each boss in the game has a weak point that will result in massive damage if the player strikes it with the proper attack before hitting any other part of the body, along with a greater bonus after the stage is cleared.
+  - Ending right to the credits
+- Sequels and Spinoffs
+  - Not the first Fist of the North Star NES game. Famicom had one before this in 86
+    - The first Hokuto no Ken video game released by Toei for the Famicom. A side-scrolling action platform game where the player fight their way through five stages. Bosses includes Mr. Heart, Shin, Jagi, Souther, and Raoh.
+  - Fist of the North Star: 10 Big Brawls for the King of Universe
+    - Gameboy fighting game in 1990
+  - Fist of the North Star: Ken's Rage
+    - Dynasty Warriors style game for PS3/360 in 2010
+  - Fist of the North Star: Lost Paradise
+    - PS4 2018
+    - A 3D action RPG by Sega that features similar combat, exploration, and mini-games to their Yakuza series.
+- EGL
+- Next week - The Guardian Legend

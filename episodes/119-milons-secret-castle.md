@@ -1,0 +1,38 @@
+# 119 - Milon's Secret Castle
+
+- Welcome to the Land of Hudson’s Secret Castle where people use music to communicate with each other.
+- http://www.digitpress.com/library/manuals/nes/Milon%27s%20Secret%20Castle.pdf
+- Introductions
+- But it’s actually called Castle Garland, we’ll get into all of this, but have you guys heard of this one before?
+- Overview
+  - A platformer in which you must explore the rooms of a Castle searching for money and clues that allow you to find the bosses that lock off each section of the castle. Run, Jump, and blow bubbles (as your attack) to achieve victory.
+- Gameplay
+  - That stupid way Milon runs
+    - Usually you sprint first and then get tired
+  - Explore the castle to find...cash?
+  - solve the puzzle of each maze-room
+    - Are these really puzzles? Feels like guess work. Am I missing a clue?
+    - Your process for discovering Secret Rooms
+  - Hidden Items in Stages
+    - Honeycomb that extend life
+    - The Honeybee is the Hudson Soft logo!
+    - Music box which brings you to a bonus stage
+    - Keys
+      - Will appear after you collect $4 and either reveal 15 blocks or kill 5 enemies
+  - Shop Items
+    - https://strategywiki.org/wiki/Milon%27s_Secret_Castle/Items
+  - Boss Fights
+  - In an odd way this is some proto Super Mario 64 style shit with the whole explore a castle and enter doors to new rooms thing
+- Milon’s Secret Website
+  - All charted out with graph paper
+- Sequels and Spinoffs
+  - Milon’s Secret Castle was ported to Game Boy
+  - DoReMi Fantasy: Milon's DokiDoki Adventure
+    - Super Famicom in 1996
+    - More of a generic platformer
+  - Milon no Hoshizora Shabon: Puzzle Kumikyoku
+  - Milon is a playable character in Saturn Bomberman
+  - Famicom Rocky
+    - Famicom Rocky is basically Rocky the movie, but with old NES-era video games - PepsiMan of GiantBomb
+- EGL
+  - Why this game isn’t like SMB

@@ -1,0 +1,24 @@
+# 263 - Rescue: The Embassy Mission
+
+- Dig it!?
+- NES Longplay
+- Introductions
+- Overview
+  - A terrorist group has overrun an embassy in Paris. The player takes control of a six-man GIGN team on a mission to free the hostages.
+  - In part 1 of the game you will set up your snipers around the building and in part 2 you will infiltrate the embassy and attempt to rescue the hostages with the assistance of the snipers you setup.
+- Gameplay
+  - Rank and Mission affect difficulty
+  - Snipers - Part 1
+    - the player must bring three men into position so they can snipe the building
+    - While doing so, the men must avoid the searchlights by diving for cover in doorways, windows and behind fences as well as rolling, crawling and running.
+    - If the player is caught in a searchlight, the sniper is shot at and risks being gunned down.
+  - The Infiltration - Part 2
+    - The building must then be searched, shooting the terrorists and finding the hostages in the process. In some versions of the game, hostages must be taken to a safe room.
+- This is like Rainbow Six before Rainbow Six
+- Sequels and Spinoffs
+  - Hostages
+  - Hostage: Rescue Mission
+  - A sequel to Hostages, Alcatraz, was released by Infogrames for the Amiga, Atari ST, and MS-DOS in 1992
+- EGL
+- Next week - River City Ransom
+- NEStalgia Byte - Captain Tsubasa II: Super Striker

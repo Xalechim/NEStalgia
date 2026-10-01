@@ -1,0 +1,26 @@
+# 210 - The Adventures of Dino Riki
+
+- In Prehistoric times where Dinosaur creatures ruled, The Adventures of Dino Riki began
+- NES Longplay
+- Introductions
+  - SHMUPs are generally associated with spacecrafts so Hudson Soft said what if we go all the way back to the beginning? The prequel to every SHMUP really. You can’t prove Dino Riki didn’t happen in the Gradius universe.
+  - Yet isn’t this really more like commando/Ikari Warriors?
+- Overview
+  - players take control of a caveman in this vertical shmup where you throw rocks and other projectiles at dinosaurs. Also, you can jump!
+- Gameplay
+  - The standard SHMUP controls
+    - This is where I feel that mix between Commando and 1942
+  - The Jump
+    - A neat idea, but the way they laid out the levels to incorporate the jumping is ridiculous.
+  - Power Ups
+    - The ultimate power up being a bigger more muscular version of Dino Riki who then shoots…himself at the enemies.
+    - Remember Amagon? Also a game where a scrawny character gets bigger
+  - The game comes down to how good you are early on. Collect plenty of power ups and hearts and you’re likely to last a lot longer
+  - Worlds one, two, and three are one stage each and have checkpoints, but world four is four stages with no checkpoints.
+  - The Spread
+    - Shoutout to my article on NEStalgiacast
+- Sequels and Spinoffs
+  - None! But for more Hudson Soft cavemen games please see Adventure Island
+- EGL
+- NEStalgia Byte - Exerion and Formation Z
+- Next week - Air Fortress

@@ -1,0 +1,33 @@
+# 245 - RoboCop
+
+- Kitt is more than a car, it’s an extension of you, Michael Knight
+- NES Longplay
+- Introductions
+  - The Movie
+    - Police officer Lt. Alex Murphy, shot dead on the job, then reanimated as a cyborg ROBOCOP
+      - There was a cartoon for kids too?
+- Gameplay
+  - beat 'em up/run and gun
+    - Ammunition limit helps keep this varied
+    - No jump
+      - Bionic Commando, but without the explanation
+  - Time Limit
+    - You know how people complain about Open World game sidequests when the whole world is in danger? What if this time limit is the answer to that.
+  - Energy/Power
+    - Feels like they have them reversed?
+    - Power should be strength. Energy should be HP
+    - You have to collect these to stay alive
+  - Inventory system
+    - Something we wanted Contra to have
+  - Cutscenes
+    - Gorgeous sprite work with hilarious facial expressions?
+- Music
+  - There are only two songs in the game – a short rendition of the movie theme, and a boss tune
+- Success
+  - The arcade game was the highest-grossing arcade game of 1988 in Hong Kong, and reached number-two on Japan's monthly Game Machine arcade charts. On home computers, the game sold over 1 million copies worldwide, and it was especially successful in the United Kingdom where it was the best-selling home computer game of the 1980s.
+- Sequels and Spinoffs
+  - https://www.mobygames.com/game-group/robocop-games
+  - There are actually three separate games based on the original movie. These include an arcade game, originally developed by Data East and ported to a few computer platforms by Ocean; a different game developed specifically for European computers as well as the Game Boy, which is a loose interpretation of the arcade game; and an NES game by Sakata SAS, a team who often worked with Data East on its NES games, which was ported to the TRS-Coco.
+- EGL
+- Next week - Bokosuka Wars
+- NEStalgia Byte - Star Luster

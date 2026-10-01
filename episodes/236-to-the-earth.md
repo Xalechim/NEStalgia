@@ -1,0 +1,24 @@
+# 236 - To The Earth
+
+- Be the skateboarding champion of the world
+- NES Longplay
+- Introductions
+  - The Zapper lives, but it actually hasn’t been too long since its last appearance. This is the THIRD zapper game for 1989
+  - Nintendo is still publishing these Zapper games, but they aren’t developed by them. This one was made by Cirque Verte…WHO?!
+    - This is the only game they ever made. Was this a pop up org by Nintendo of America
+- Overview
+  - Destroy incoming enemy spacecraft, bombs, missiles, and asteroids without destroying friendly vessels.
+    - Missile Command with Friendly Fire
+- Story
+  - "It's 2050. The Ragossians have invaded the earth with a dastardly bacteriological weapon! The human race is facing the danger of extinction. You are on a special mission to bring the antibacterial agent from the Neptune-Terrestrial Allied Force base, 'Triton', to the Earth. You must break through the invaders' cordon. Time is limited! The fate of the earth is in your hands. Save it!"
+- Gameplay
+  - very quick enemy ships and asteroids, the game is considered to be one of the most challenging NES Zapper games
+  - The shield of the player's spacecraft constantly goes down with each missed shot at an enemy.
+  - Players can use a powerful bomb to destroy everything on screen, shoot a comet power-up that grants temporary protection from a limited number of hits, and a shield-repairing item dropped off by a friendly spacecraft. Game bosses are fought at the end of each level as the player moves through the Solar System.
+  - Could there be a Zapper SHMUP
+  - Nester from Nintendo Power shows up at the end of the game
+- Sequels and Spinoffs
+  - To no ones surprise. None! Do you think there’s a bias towards games released earlier in a consoles life getting more “franchise” behavior because they were first, sold longer, sold better, etc.
+- EGL
+- Next week - All Pro Basketball
+- NEStalgia Byte - The Portopia Serial Murder Case (fan translation)

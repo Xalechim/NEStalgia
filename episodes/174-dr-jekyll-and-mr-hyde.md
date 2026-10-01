@@ -1,0 +1,33 @@
+# 174 - Dr. Jekyll and Mr. Hyde
+
+- Dual World Challenge: Jekyll’s London and Hyde’s World of Demons
+- Introductions
+  - Source Material - did this scream VIDEO GAME from the book?
+  - Where is The Odyssey game OR Romeo and Juliet
+- Overview
+  - It’s a race to the Church to marry Ms. Millicent. If you become too stressed as Dr. Jekyll you will transform to Mr. Hyde and find yourself in the demon world...
+- Gameplay
+  - Jekyll London
+    - The inability to kill enemies despite having a cane
+    - The abundance of chaos
+    - How quickly the stress meter fills
+  - Hyde’s Demon World
+    - So is the demon world London on Acid?
+      - Mirrored and Autoscrolls
+    - The Psycho Wave
+      - Advertised on the front cover
+    - As Mr. Hyde kills these monsters, his anger abates and eventually he transforms back into Dr. Jekyll
+    - If Hyde reaches a spot equivalent to where Dr. Jekyll reached in the latter's world (except in the final segment), a bolt of lightning strikes and kills him instantly. Therefore, the objective of the game is to advance as far as possible as Dr. Jekyll and to transform back as soon as possible as Mr. Hyde.
+  - Once the player returns as Dr. Jekyll, 70% of his Life Meter is restored.
+  - The game's ending depends on which character, Jekyll or Hyde, reaches the church first.
+    - So there’s actually a strategy to get to the church with Jekyll since it’s significantly harder
+    - Boss fight with some floating head
+    - Only way to see the actual marriage
+- Why isn’t this an INCREDIBLE HULK game?
+- Is the reputation of the game fair?
+  - AVGN
+- Sequels and Spinoffs
+  - 2001, video game, Jekyll and Hyde for Windows platform, created by Cryo Interactive.
+    - Praised for its Sound Effects. I thought that was funny
+- EGLm
+- Next week - WORLD GAMES

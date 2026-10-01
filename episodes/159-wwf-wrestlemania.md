@@ -1,0 +1,31 @@
+# 159 - WWF Wrestlemania
+
+- Featuring Hulk Hogan and other WWF Superstars
+- Introductions
+  - AND WELCOME TO WRESTLEMANIA!!!!
+- Overview
+  - 1989 in Wrestling.
+    - We would have been building up to Wrestlemania V. The MegaPowers as they were known (Macho and Hulk) ended a year long friendship and the Mega Powers would finally explode at Wrestlemania V
+    - Tournament Mode here is interesting cause it’s a lot like the previous Wrestlemania (IV) where they held a very long tournament and it was pretty panned at the time even though our boy Macho Man finally won the WWF Title
+- Gameplay
+  - The Pause sound
+  - The wrestlers
+    - Macho Man every time
+    - Surprised no Ricky the Dragon or Ultimate Warrior
+  - The controls
+    - Or lack of? Everything is contextual because there are only two buttons, but man it’s not pretty here
+    - But the move sets do exist, it’s just tough to see them all
+      - Macho Man uses his elbows
+      - Only certain characters can go off the top rope
+      - Only Hulk Hogan is able to bodyslam André the Giant (Wrestlemania III...although he had slammed him a few times before that...but quiet about that)
+  - Health Power Ups
+    - Honky Tonk Man's looks like a guitar, while Hulk Hogan's looks like a crucifix
+  - Where is ANYTHING in this game?
+    - Crowds, atmosphere, introductions, announcers...
+    - Tournament Mode seems like a favor. Like THERE WE INCLUDED SOMETHING ELSE
+- Sequels and Spinoffs
+  - A few more WWF games to go to on NES
+  - Quick shoutout to WWF Wrestlemania 2000 on N64 and No Mercy. Dig Diggity Dog.
+- EGL
+  - If you want to fight with these awesome wrestlers allow me to recommend LEGENDS OF WRESTLEMANIA
+- Next week - Bandai Golf: Challenge Pebble Beach

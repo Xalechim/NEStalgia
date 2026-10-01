@@ -1,0 +1,27 @@
+# Battle City
+
+- Tanks on Parade
+- NES Longplay
+- Overview
+  - The player controls one tank on a top down battlefield protecting his base against spawning enemy tanks
+  - A level is completed when the player destroys 20 enemy tanks, but the game ends if the player's base is destroyed or the player loses all available lives.
+- Gameplay
+  - Arguably another Maze game, just this time with a capture the flag component
+    - Should there have been a flag for you to capture as well?
+    - The game would work a lot better if the enemy tanks were determined
+    - They did try to create a variety of tank strategies, but they just have different attributes, not different goals.
+  - 35 different stages that are 13 units wide by 13 units high
+    - Different terrains and enemies and power ups
+  - Destructible terrain
+  - CONSTRUCTION MODE
+    - The arguable best part of the game? You can design your own levels. And this teaches level design for this kind of game better than I think other level editors we have seen
+- Sequels and Spinoffs
+  - It is a successor to Namco's 1980 Tank Battalion, and would be succeeded by the 1991 Tank Force.
+  - Tank Battalion
+    - Is basically this game, 5 years before it, but with worse graphics
+  - Tank Force
+    - Multiplayer 1-4
+    - More power ups
+    - Boss fights
+- NEStalgia Byte - Pac-Land
+  - It feels like for so long we’ve been comparing maze games to Pac-Man. Now it’s time to see where Pac-Man goes next.

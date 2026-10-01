@@ -1,0 +1,42 @@
+# 114 - Galaga: Demons of Death
+
+- Captain: ...kshhh..DAY! MAYDAY! MAY...come in base... kshhh...
+- Base: Commander I'm picking up a faint transmission.
+- Captain: ...repeat MAYD..kshh...under attach [sic] ...kshh...Hideous creatures
+- Base: Captain your signal is weak. Please retransmit...over
+- Captain: We've defeated thousands...kshh...sub-alpha missiles malfunction...stealth shields down...kshh...my men...desperate...kshh...horrible...kshh...
+- Base: Captain get a hold of yourself! It's only a video game! Do you copy? CAPTAIN?
+- Captain: . . . kshhhhhhhhhhhh . . .
+- Galaga--It's only a video game
+- Introductions
+- Overview
+  - Galaga first came to the Arcades in 1981
+  - Then to the FAMICOM in 1985
+  - Now we finally get it in North America...but in a genius twist of marketing, they add a subtitle so you don’t think it’s just the flimsy old arcade version
+  - For those not in the know, Galaga is very much a Space Invaders style game, but includes enemy attack patterns that would later be utilized in the SHMUP genre.
+- Gameplay
+  - Shooting
+  - Enemies
+    - Boss Galaga - Tractor Beams
+      - Should additional lives remain, the player has an opportunity to shoot down the Boss Galaga holding the captured ship. Shooting it down as it dives towards the player will result in the captured ship being rescued, and it will join the player's ship, transforming it into a "dual-fighter"
+    - The entire idea of Galaga was that enemies could move in different patterns.
+  - Waves
+  - Bonus Stages
+    - Inspired from Pac-Man
+  - Opening Music - sound like Star Wars?
+- Spinoffs
+  - Galaga is the sequel to GALAXIAN which came out way back in 1979 and was Namco’s first hit
+  - Sega-Galaga, the first home conversion of Galaga, was published by Sega for the SG-1000 in 1983. AND ITS GOOD
+  - Gaplus is the sequel to Galaga and came to Arcades in 1984 now letting the player move vertically
+  - Galaga '88
+    - Very much like the original GALAGA
+  - Galaxian3: Project Dragoon
+    - On-Rail shooter (has a FPS look) for Playstation/Arcade
+    - This game was insane. I can’t believe it exists.
+    - Two laserdiscs playing at once to simulate the backgrounds/foreground
+  - Attack of the Zolgear
+    - Sequel and very similar to Galaxian3
+  - Galaga: Destination Earth
+    - PSX, 2.5D Horiz/Vert and 3D. Reminds me of Space Invaders for PSX which also had a Solar System theme
+- EGL
+  - At this time it was fine to preserve Arcade games like this to the NES, but they appear so primitive next to our Essential Games that they couldn’t possibly deserve a spot. Add this to the fact that this has already been preserved on consoles as early as 1983...what we really needed, was a MODE B that turned Galaga into a SHMUP with recognizable Galaga-traits.

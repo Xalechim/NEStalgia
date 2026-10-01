@@ -1,0 +1,32 @@
+# 205 - The Bugs Bunny Crazy Castle
+
+- Our Hero Bugs Bunny needs your help on a daring quest to rescue his main squeeze, Honey Bunny
+- NES Longplay
+- Introductions
+  - THE
+  - Honey Bunny on the back of the box (bugs in a dress)
+- Overview
+  - Platforming Puzzle Game where you play as Bugs Bunny. The goal is to collect all the carrots in each floor (level) of the castle. Enemies such as Slyvester, Daffy Duck, and Yosemite Sam stand in your way!
+- Gameplay
+  - Bugs Bunny
+  - The concept of the puzzles
+    - Items
+    - Design
+    - Enemies
+  - Repetitiveness
+    - Later levels do make you think about timing and when to use your items, but I don’t know it doesn’t feel like puzzles it feels about being precise
+  - Lack of roster
+    - Why is Slyvester after Bugs gf, but not Elmer?
+  - Not very cartoonish
+    - So many more pranks or props could’ve been implemented
+  - That’s all folks reads like game over and even gives you the password
+- Sequels and Spinoffs
+  - the first game in Kemco's Crazy Castle series and the only one that was released for a home console; the four subsequent games in the series were released on handheld devices.
+  - The Bugs Bunny Crazy Castle 2
+    - Game Boy Sequel
+  - Bugs Bunny: Crazy Castle 3
+  - Bugs Bunny in Crazy Castle 4
+  - spin-off game Woody Woodpecker in Crazy Castle 5.
+- EGL
+  - One of the earliest instances of using a popular franchise outside of video games to try and sell your video game. Very little feels like Looney Tunes and the game actually sucks. It was probably designed for kids, but I don’t think it was putting them to work much either.
+- Next week - Dragon Warrior

@@ -1,0 +1,33 @@
+# 204 - Bad Dudes
+
+- The Forces of Good Have Never Been SO Bad
+- NES Longplay
+- Introductions
+  - This game is like MANY movies and yet no one has made a Bad Dudes movie with The Rock and Vin Diesel
+- Overview
+  - Story - The Dudes are tasked with rescuing President Bush from ninja kidnappers
+  - You play as one of the Bad Dudes in this Beat Em Up game. Stroll through the 6 levels and take on the boss at the end of each stage to successfully rescue the President.
+- Gameplay
+  - Blade and Striker
+    - 2 player won’t let you play as them together
+    - swap the usual A = Jump and B = Attack layout
+  - flat 2D field with upper and lower portions
+  - Are jump kicks still supreme?
+  - Few power ups
+  - Karnov shows up as the first boss!
+  - The variety within the six levels
+- Cheats
+  - 63 lives
+  - 1 hit KO on normal enemies - At the title screen, on controller 2, press Up, Up, Down, Down, Left, Right, Left, Right A, B. Then press Start on controller 1
+    - Sounds like cheating, but that’s how the arcade version went down!
+  - Hidden Cheat Code to unlock Sound Test on the ending screen
+- Sequels and Spinoffs
+  - Bad Dudes, Dragon Ninja, Bad Dudes vs Dragon Ninja
+    - Japanese Version has little intermission screens with the upcoming bosses taunting you after stage 2
+  - Two Crude - Arcade/Genesis 1990
+    - Stop the terrorist organization "Big Valley". Their objective is to retake control of a ruined New York City from Big Valley after a nuclear explosion the group caused.
+  - Failed Bad Dudes 2 Kickstarter in 2012
+    - $5,418 pledged of $80,000 goal
+- EGL
+  - Surprised at how much of an “arcade” game it is versus like a port power-up
+- Next week - THE Bugs Bunny Crazy Castle

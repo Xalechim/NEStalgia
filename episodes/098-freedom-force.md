@@ -1,0 +1,25 @@
+# 098 - Freedom Force
+
+- Back of the Box
+- Manual
+- Introductions
+- Overview
+  - Players assume the role of an anti-terrorist gunman who must kill terrorists without shooting any of their hostages.
+- Developer
+  - Sunsoft - Spy Hunter, Sky Kid (Kinda)
+    - In the manual they show Platoon and Xenophone, two games that we won’t get until December 1988
+- Gameplay
+  - That Opening Intro and title screen
+  - The screen scrolls from left to right, with terrorists or hostages popping out of windows and doors.
+    - Different Locations
+  - 80s Tropes
+    - Rad Rex and Manic Jackson
+    - Guerilla Terminator Squad
+  - Unlike other shooters, the powerups (being either energy, ammo or weapons) are obtained by shooting the lower-right box when an item appears there.
+  - bonus game is a word game similar to Hangman (called Person), in which the player shoots letters to uncover the word.
+  - Secret Word Special Offer - Freedom Force Self-Adhesive Decal Set
+  - Music
+- Sequels and Spinoffs
+  - The game was released in arcades on the Nintendo Vs. System as Vs. Freedom Force.
+- EGL
+  - Hogan’s Alley

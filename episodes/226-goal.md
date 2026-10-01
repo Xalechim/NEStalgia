@@ -1,0 +1,39 @@
+# 226 - Goal!
+
+- The Soccer Invasion Has Spread To Your Living Room
+- NES Longplay
+- Introductions
+  - STARTING WITH A QUESTION
+    - LATE TO GAMING writes - After playing through so much of the NES library are there certain genres that have you surprised you guys by being more enjoyable than you expected? Or genres you normally don't like, but have found NES games in the genre that you've really enjoyed?
+      - I’m gonna go a little opposite here and say I’m not having a great time with Beat Em Ups.
+      - BUT a few sports games have not aged as poorly as I would’ve expected. Golf, Lunar Pool, RBI Baseball, and those aren’t even the ones on the essential games list
+  - First soccer game since well Soccer
+  - The idea of the soccer invasion back in 1989…it doesn’t feel like much progress has been made
+    - It’s not high li level of failure
+- Overview
+  - Another game in the Jaleco sports series. The object of the game is the same as in real football; one team must score more goals than the other to win.
+- Gameplay
+  - Soccer Gameplay
+    - Presentation
+    - Hooking/Slicing Shots and Passes
+      - Hold B and press UP to give the ball a forward spin and make it go farther, and also press DOWN while holding B to give the ball a backspin and shorten the length of the shot or pass.
+    - Headbutt the ball
+    - Slide Tackles
+    - Simple 2 penalties - Offsides and tripping
+      - Like in real soccer, however, the referee does not always see the play, so penalties are not always called. It’s up to you to decide if the risk of getting called is worth making the play. Getting called for a penalty simply means the other team gains possession and gets a free kick from the point where the penalty occurred.
+  - The teams matter (individual stats)
+  - World Cup - Play as one of 16 international teams.
+    - Actually starts at the pool round which is great
+  - Tournament
+    - Play as one of 8 American cities and compete in a single elimination tournament.
+  - Shoot Competition
+    - Play as one of 3 star players and attempt to score.
+    - You get five tries to get past two defenders and the goalie to score. After those five tries, get five more tries to beat your previous score, or see if a friend can beat your score.
+  - With two players, the players can either play on the same team or against each other.
+  - Vs. Mode
+- Sequels and Spinoffs
+  - Goal! Two
+  - Goal! SNES
+- EGL
+- Next week - Godzilla Monster of Monsters
+- NEStalgia Byte - Tower of Druaga

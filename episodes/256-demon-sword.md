@@ -1,0 +1,30 @@
+# 256 - Demon Sword
+
+- In a land of impossible evils. . .
+- . . .all paths lead to the Dark Lord.
+- NES Longplay
+- Introductions
+  - Last week, we killed a demon with a sword…in the game Clash at Demonhead. Now we’re playing a game called Demon Sword, but it’s the same idea. Demon can only be killed with a sword
+- This is a game made by TOSE
+  - The secret shadowy ghost developer studio. They are still around, they just did some work on the Crisis Core remake
+- And published by Taito
+  - Taito. A giant of the 1970s and 1980s arcade and video game scenes, their production wouldn’t tail off until the 2000s. They were purchased by SquareEnix in 2005 for $409 million. Just to bridge that connection back to Crisis Core
+- Overview
+  - A man named Victar, who comes from a small village, has a sword that can destroy the demon. The blade had previously been split up into pieces, though, and Victar must travel through three worlds to get back the three broken pieces in order to restore the sword to defeat the demon.
+  - In this action platformer you’ll fight through 7 stages, fighting a boss in each one who upon defeat will give a piece to rebuild the sword.
+- Gameplay
+  - The game is very reminiscent of past TAITO game The Legend of Kage
+    - The speed, the diagonal jump, the ninjas
+  - Enemies will spawn anywhere and on diagonals including the freaking sky
+  - MAGIC is what’s new
+    - Fire Sphere - protective fireballs
+    - Lightning Beam - shoot lightning
+    - Power Beam - stronger Lightning
+  - In each stage there is at least one Mystic Gate, which you must have a key to open. These are not left to right platforming levels
+  - Bosses - only two hits to finish off even a few real bosses
+- Japan got the real game
+  - There are six more stages and several bosses in the Japanese version that are unavailable in the North American version.
+  - There are more items and magic spells available in the Japanese version.
+  - The ending in the Japanese version has extra scenes and text cut from the North American version.
+- EGL
+- NEStalgia Byte - All Night Nippon Super Mario Bros. (a look at MANY SMB games)

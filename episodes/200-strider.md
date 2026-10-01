@@ -1,0 +1,70 @@
+# 200 - Strider
+
+- The free world relies on your success
+- NES Longplay
+- Introductions
+  - Episode 200!
+  - Special Announcement
+    - Nothing about NEStalgia is changing
+    - Most requested feature - The Website
+    - $5 patrons get access to NEStalgia Bytes
+    - More bonuses along the way for everyone!
+- Overview
+  - The player takes control of Hiryu, the youngest ever elite-class Strider. In this sidescrolling platform game you must locate clues to the progression of the story to unlock the other levels
+    - Is that a unique idea? Is it different than collect X number of things to move on
+- Gameplay
+  - Exploration
+    - Size of levels
+    - Slope City
+    - The Tubes
+      - can enter from below (by jumping) or above (by crouching). The player will then be moved along the path of the tube until they reach the exit. Tubes may or may not allow the player to enter from both ends; it is possible for a tube to send the player back to a much earlier part of the level, or even a different level entirely, with no convenient way to return.
+  - My problem with Metroid but WAY worse
+    - Backtracking
+    - Revisiting areas
+  - The Cypher
+    - Hiryu’s main weapon
+  - Triangle Jump
+    - Jump at Lvl 5 replaces the need for the triangle jump mostly
+  - Tricks
+    - These power ups are acquired as you level up
+    - Cost a certain amount of energy
+    - Only selected via menu and require a good amount of energy
+    - Do you prefer EXP or this pre-determined nature of buffs/playing field.
+  - Passwords
+    - Of particular note, each time the player requests a password, the game ends with a brief description of the game's progress so far (which depends on Hiryu's current level) and gives a title for Hiryu's next adventure, similar to a television series or anime.
+- Story
+  - Set in a dystopian future during the year 2048
+  - A secret organization of hi-tech ninja-like operatives known as the "Striders"
+  - Hiryu is summoned by the organization's second-in-command, Vice Director Matic, to assassinate his friend Kain, who has been captured by hostile forces and has become a liability to the Striders.
+  - Instead of killing him, Hiryu decides to rescue Kain from his captors; he is successful, and also recovers a recording from Kain concerning a suspected criminal plot.
+  - With the help of his fellow Strider Sheena, Hiryu uncovers a conspiracy between a certain faction of the Strider organization and an unknown organization known simply as the "Enterprise" (headed by a man named Faceas Clay)
+    - which involves the development of a mind-control weapon codenamed "Zain".[3]
+  - In the course of finding and destroying these Zain units, Hiryu learns that the faction of conspirators is headed by Vice Director Matic himself.
+  - Hiryu eventually tracks Matic to an orbiting space station where the two Striders face off; after a brief battle Hiryu bests Matic and kills him. Afterwards Hiryu locates and destroys the last of the Zain units, Mother Zain.
+  - In the epilogue, it is revealed that though Hiryu was asked to return to the Strider organization he instead opted to retire. The final credits show him discarding his weapon and walking away.
+- Box Art
+  - The Soviet Union, at that time 3 years from collapse, was selected only as the visual inspiration for the "Enterprise" empire by the design team staging the packaging design.
+  - Same guy who did the design for Tengen Tetris
+- Sequels and Spinoffs
+  - Arcade game was developed at the same time but it is different
+    - The arcade version was just move level to level
+    - Unlike the arcade game, the NES version of Strider closely follows the same storyline depicted in the Strider Hiryu manga, which involves Hiryu fighting against his former Strider allies.
+  - Strider II (1990)
+    - European developed sequel to Strider
+    - No Capcom. No Nintendo systems
+    - They also kinda made the game twice. For computers and then for Genesis
+  - Strider 2
+    - 199 Arcade/Playstation game
+    - Made by Capcom
+    - Set 2000 years after Strider, same villain and a clone of Hiryu
+  - Strider (2014)
+    - Reboot of the NES game, but for PS3/360 generation
+    - 2.5D
+  - Osman - 1996 Arcade Game
+    - Unofficial Sequel to Strider
+    - Most of the same staff, but Capcom not involved
+  - He’s also in all the MvC games
+  - And the Japanese only TRPG Namco X Capcom which is a damn shame
+- EGL
+- The Podcast
+- Next week -

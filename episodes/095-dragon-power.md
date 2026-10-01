@@ -1,0 +1,85 @@
+# 095 - Dragon Power
+
+- Back of the Box
+- Manual
+- Introductions
+- Development
+  - Dragon Ball: Shenron no Nazo
+  - Made by TOSE, but DB doesn’t come to the US until 2001 to the States and 1996 for DBZ
+  - Dragon Power tries to remove the Dragonball References, but fans will realize most of the first arc is still in tact
+  - Goku was changed to more closely resemble an Americanized Kung Fu stereotype, being pictured on the cover artwork with a white gi and blue headband.
+- Overview
+  - You control GOKU through 14 Top-Down stages exploring different regions of Earth as you try to track down the Dragon Balls. Gameplay is equivalent to a linear style Legend of Zelda consisting of an overworld and caves or houses. Occasionally for boss fights, you will enter a traditional 2D fighter view to face off against your opponent.
+- Tales from the Manual
+  - Goku has to find Pudgy - But can’t tell who is a guy or girl
+- Gameplay
+  - Overworld Combat
+    - Constantly Depleting Health
+      - A nod to Goku needing food because he’s always hungry
+    - Magic Pole
+      - Finally some range
+    - Wind Wave
+      - Not consistent to trigger/worth it
+      - Swift Wave
+  - Boss Fights
+  - Narrative
+    - Terrible Translations
+      - Nora: "OKAY, OKAY. LET'S GO ON A TRIP."
+      - Goku: "HOW DO WE SEARCH?"
+      - Nora: "USE THIS! DRAGON RADAR. NOW, LET'S GO."
+    - More
+      - Hermit:   "Okay. Give me your sandwich."
+      - Turtle:   "Why do you and Hermit want it?"
+      - Hermit:   "Quiet!"
+      - Nora:     "Okay! Here!"
+      - Nora:     "Will you give me your Crystal Ball?"
+      - Hermit:   "Okay."
+      - Nora:     "We did it! This makes four."
+  - Dragon Power makes absolutely no sense in its current form.
+    - But there is an attempt
+      - Certain objectives are given in an otherwise traditional style area. Track down the missing Dragon Balls, explore caves, find all the carrots. Get keys.
+      - It’s just not really communicated well
+  - Checkpoint at Stage 7
+    - Wishes at Stage 6
+      - You summon the Dragon who looks a lot like the one from Karnov
+      - WELL, I’LL GRANT YOU ONE REQUEST
+        - Move Dragon in the title - Dragon now appears on the title screen
+        - See the Future - Get a look at upcoming levels
+        - Power Up - Upgrades Power to 250
+        - I want the sandwich - Shows Hermit floating with sandwiches
+  - Sandwiches
+    - Master Roshi, similarly has been changed to look more like a traditional martial arts master, and to censor scenes deemed inappropriate, has a fondness for sandwiches, especially Bulma's.
+    - This is a censor for panties
+  - Same damn song all the time
+  - Ending
+    - WELL, I’LL GRANT YOU ONE REQUEST
+      - Move Dragon in the title - Dragon now appears on the title screen
+      - Continue Game - Keep score going
+      - I want her sandwich - Shows Hermit floating with sandwiches
+      - Get Hamburger
+- Sequels and Spinoffs
+  - Dragon Ball: Dragon Daihikyou
+    - Dragon Ball: The Great Unexplored Dragon Region" is the first Dragon Ball console video game ever released. It was developed and released by Epoch in September 27, 1986, for the Super Cassette Vision console, making it the only Dragon Ball game not produced or distributed by Bandai or the subsequent Namco Bandai.
+    - Overhead SHMUP
+  - Dragon Ball Daimaō Fukkatsu OR Dragon Ball: Great Demon King's Revival
+    - 1988 JPN RPG/Card Game. Board Game
+    - Mostly the Piccolo Saga
+  - Dragon Ball 3: Gokuden or Goku’s Story
+    - 1989 JPN RPG/Card Game. Board Game
+    - Everything up to the Piccolo Saga
+  - Dragon Ball Z: The Assault!
+    - 1990 JPN RPG/Card Game. Board Game
+    - Just the Sayain Saga. Ends at the Great Ape Vegeta Saga
+  - Dragon Ball Z II: A Fierce God Freeza!!
+    - 1991. Same System - Up to Freeza Saga
+  - Dragon Ball Z III: A Violent Battle of Artificial Humans
+    - 1992. Same System - Up to Imperfect Cell
+  - Dragon Ball Z: Gekitō Tenkaichi Budōkai
+    - Also 1992. Came with the Datach Joint Rom System which allowed users to scan trading cards into the Famicom Game.
+  - Dragon Ball Z Gaiden: Plan to Eradicate People of the Saiya
+    - 1993. JPN.
+    - Original Story which then got an OVA release a year later
+- EGL
+  - A better Deadly Towers
+  - legacy of goku
+  - Dragon ball kinect

@@ -1,0 +1,48 @@
+# 133 - Super Mario Bros. 2
+
+- Mario’s Back! Bigger and Badder than ever before!
+- Introductions
+  - Let’s get it all out of the way
+  - Super Mario Bros 2 JAPAN is pretty much just a harder SMB 1...and we may eventually play that for the show. BUT NOT TODAY
+  - Today we’re playing Doki Doki Panic...okay but not really
+- Gameplay
+  - The Characters
+    - Mario - Jump Farthest
+    - Luigi - High Jump
+    - Peach - Float
+    - Toad - Fast
+    - Many characters of Super Mario Bros. 2 have been assimilated into the greater Mario universe as well, such as Birdo, Pokeys, Bob-ombs, and Shy Guys.
+  - The Jump
+    - Holding down for a super jump?
+  - No more squash, fight by throwing
+  - Backtracking allowed
+  - Vertical Emphasis - Subcon
+  - Strange Moments
+    - The Key with the masks
+    - The door to the other side
+    - The eagle head that opens up after you defeat birdo (WHICH ATTACKS IN THE FINAL LEVEL)
+    - WARPS
+  - Game Over but you can Continue
+  - Birdo
+  - Boss Fights
+  - But does it feel like a Mario game?
+    - POW blocks from Mario Bros
+    - Sparks from DK Jr
+    - The crab guy acts like DK?
+- It was all a dream...Maybe?
+- The Music is GREAT! Better than SMB 1...I said it
+- Development
+  - The sequel prototype is based on two cooperative players lifting and throwing each other, lifting and stacking objects, and scrolling the screen upward — a design too complex for the Famicom hardware and with dissatisfying gameplay.
+  - This then became Doki Doki Panic
+  - Which then became SMB 2 in the USA
+- Sequels and Spinoffs
+  - Eventually released in Japan as the remastered Super Mario USA for All-Stars
+  - BS Super Mario USA Power Challenge
+    - Satellaview, mostly the same. Only start with Mario and some voice dialogue
+  - Super Mario Advance
+    - First GBA game!
+    - The Super Mario Advance version of Super Mario Bros. 2 includes several new features such the addition of the enemy Robirdo, a robotic Birdo, replacing Mouser as the boss of World 3; the addition of the Yoshi Challenge, in which players may revisit stages to search for Yoshi Eggs; and a new point-scoring system, similar to that used in the aforementioned BS Super Mario USA Power Challenge.
+- Reception
+  - over seven million copies sold and is the fourth highest-selling game ever released on the Nintendo Entertainment System.
+- EGL
+- Next week -

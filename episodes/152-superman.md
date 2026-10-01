@@ -1,0 +1,55 @@
+# 152 - Superman
+
+- YOU ARE SUPERMAN
+- Introductions
+  - Superman
+    - Comics in ‘38
+    - I have many problems with Superman
+  - Video Game Superheroes
+    - Spider-Man, Arkham, Marvel VS Capcom
+    - Infamous
+- Overview/Plot
+  - In the game, the player controls Superman on a quest to save the city of Metropolis from the evil Lex Luthor and a gang of criminals that were exiled from the planet Krypton.
+  - There’s an overhead map of various locations in the city that the player can travel to, with animated scenes, but then gameplay switches to a more traditional side-scrolling adventure game.
+- Gameplay
+  - THE LOOK OF SUPERMAN
+    - Believe it or not he’s even more Chibi in the Japanese version
+    - On the main menu screen he looks like a cyclops
+  - Missions and Openness of the game
+    - Conversing with Civilians for hints
+      - It’s kinda Simon’s Quest all over again. But more fun!
+    - Explore, but don’t expect to find much
+      - As you travel through Metropolis, make a note of the location of various buildings that you pass by reading the placards on the side of the buildings. While they may not be essential to your current task, you may be asked to visit those locations later in the game. Knowing where certain buildings are can greatly reduce the time it takes to complete the game by cutting down on how much searching you must do.
+      - Superman rides the subway? LIKE AS SUPERMAN…
+    - Daily Planet headlines between chapters
+  - I can’t believe this is the gameplay loop for a Superman game
+  - The Hitbox of enemies and you
+  - Superman Super Powers
+    - Energy bar controls if you are Superman or Clark Kent (changing in phone booths)
+    - x-ray vision (make certain enemies visible)
+      - "Superman is now unable to see inside buildings, as Lex has lined all the buildings in Metropolis with lead!"
+    - superflight
+    - super spin
+      - spin around incredibly fast and behave like a drill, creating a hole in the ground and permitting him to explore underground spaces.
+    - heat vision (laser attack)
+    - super breath 1 and super breath 2 (freeze enemies)
+    - Superman is less powerful than Mario if you think about it
+      - Jumping on heads hurts Superman
+  - The big bads
+    - Lex Luthor to General Zod and a Chinese gang that’s somehow gaming the stock market
+    - Jay Falk is a corrupt politician with ties to organized crime, who only appears in one issue, The Adventures of Superman Vol 1 Issue 428, in May 1987.
+    - Lex Luthor looks deformed
+  - THIS GAME IS MISSING THE POWER OF BEING SUPERMAN. You feel like you’re playing Superman’s nightmare.
+- Development
+  - The Japanese release featured a synthesized version of the film's score, but in the US version, these songs are replaced by music recycled from another Famicom game from Kemco.
+  - the Japanese version of the game uses Manhattan as the actual setting of the game, using different labels on the map that reflect actual locations and landmarks from New York City.
+- Sequels and Spinoffs
+  - Not the first Superman Game. That honor goes to Superman on Atari 2600 back in 1979. And what a bizarre game that looks like
+  - Superman: The Game for computers came out in 85
+  - Another game called Superman came out in 1988 as well, but for Arcades only. It looks much more advanced.
+  - A bunch of releases we can’t quite cover all of em. Superman 64 needs to be mentioned.
+    - Actually called New Adventures of Superman
+  - Would you believe me if I said the last Superman game was released in 2006. Superman Returns
+  - How do you make a Superman game. The most common idea is to make him all powerful no holding back and instead have the game be dependent on a city health bar.
+- EGL
+- Next week - Xenophobe

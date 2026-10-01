@@ -1,0 +1,43 @@
+# 252 - Bases Loaded II - The Second Season
+
+- DO YOU HAVE WHAT IT TAKES TO PLAY AND MANAGE A WORLD SERIES TEAM
+- NES Longplay
+- Introductions
+  - Winter Meetings
+  - A little Bases Loaded retrospective
+    - Much more realistic looking take
+    - FULL SEASON available
+    - Sluggish feel to the game
+- Overview
+  - So Bases Loaded II is mostly the same game as the original, but with the ability to play and manage an entire season of baseball with players that actually grow and shrink depending on performance.
+- Gameplay
+  - Now let’s talk about that Player performance feature for the game since it is the meatiest addition
+    - Every player has a physical, sensitivity, and intellectual rating
+    - Pitcher
+      - Phys - duration and control of pitching over time
+      - Sens - speed
+      - Intell - Curveball
+    - Batter
+      - Phys - Contact with the ball
+      - Sens - Power with the bat
+      - Intell - Clutch factor, performance with runners in scoring position
+    - Ratings are dependent on the player, you can’t make a light hitter go lights out with a high sensitivity. He’ll just be hot. The performance is designed to make players hot or in a slump just like in real baseball
+  - Theres a few camera differences too, did these Help or hurt?
+      - In Bases Loaded the view was from behind home plate, whereas in Bases Loaded II the view was either from the first-base line if the home team was at bat, or from the third-base line if the visiting team was at bat.
+      - The point of view once a ball was hit into play was also different
+  - The speed of the game is slightly faster than Bases Loaded 1
+  - Games run about 20 minutes each, so without any managing you’re looking at about 44 hours just to complete the regular season which is 130 games.
+    - at the end you get a single screen that says WORLD CHAMPIONS, followed by 90 seconds of credits, and then a team photo.
+  - Best Speed Run: Single game, 8 minutes 26 seconds.
+  - Quirks
+    - "9-run rule".
+    - No game was allowed to last more than 12 innings.
+    - All of the players on the Washington, D.C. team are named after famous politicians, while all of Los Angeles's players take their names from Hollywood luminaries.
+- Development
+  - The original game sold 1.5 million copies and there’s nothing to suggest Bases Loaded II didn’t sell as well if not better. They are still going to make 2 more sequels for the NES and you can pick up the cart today for just 5 bucks.
+- The game was novelized by Peter Lerangis, as part of the Worlds of Power series published by Scholastic Books.
+  - Really weird pick for Worlds of Power
+  - From the authors website - Since the game itself didn't have much of a plot, Lerangis was free to create a comedic baseball story line; it turned out to be the title he felt was the most fun to write.
+- EGL
+  - I love the idea of players getting hot and going into slumps, it feels like if this was the Baseball game your family bought you could easily sink a ton of time into it. Growing up on N64 we only had MLB featuring Ken Griffey Jr. and between me, my dad, and my brother we all took our chances at playing a full season. But that’s really the only reason you would go through a full season here, there isn’t actually enough reward or dynamic changes across the season to make it worth it. For a game that’s all about selling you on playing a full season, they mostly focused on the repetitive same experiences you’ll have over and over again.
+- NEStalgia Byte - All Night Nippon Super Mario Bros. (a look at MANY SMB games)

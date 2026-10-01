@@ -1,0 +1,30 @@
+# 126 - Magmax
+
+- It’s up to you to save the human race by transforming mechanical parts into the ultimate robot warrior - MagMax
+- Introductions
+  - What does MagMax stand for?
+    - Politically and just as an abbreviation.
+  - It doesn’t matter how good this game is, the box art is going to set you up for disappointment
+- Overview
+  - MagMax is an action game fought with a transforming robot. The player can transform himself into a robot, increasing his power as he builds the robot to fight more than 30 different enemies. Now get ready for the ultimate battle against the gigantic mechanical monster Babylon.
+- Story
+  - A highly civilized group of aliens has conquered earth and put the human beings under the control of the Computer Babylon which has begun to kill the human beings. In order to stop the aliens, the people developed a transformable mechanical robot named MagMax. They also chose a brave man for their rescue. The brave man is about to depart to the ultimate battle with the aliens in order to save the human race.
+- Gameplay
+  - The idea of a Mech shmup
+    - Shouldn’t there have been more “mech loadouts” like a mega man style thing
+  - A and B buttons: Shoot
+  - Layout of the stages
+    - Switching between above and below
+    - a lot of focus on the top and tail with projectiles coming in the middle.
+  - King Babylon is really cool
+    - If you think the fight isn't worth it you can just not fight Babylon - after a bit of time the screen scrolls on.
+- Development
+  - Nihon Bussan
+    - Person or Company. Turns out company that has yet to release an NES game, but knows how to make lots of different games
+  - FCI is the publisher
+    - Lunar Pool and Zanac
+- Sequels and Spinoffs
+  - This just recently came to Nintendo Switch as part of Hamsters effort to release everything under the Arcade Archives label
+- EGL
+- Next week - Mickey Mousecapade
+- https://store.steampowered.com/app/233150/LUFTRAUSERS/

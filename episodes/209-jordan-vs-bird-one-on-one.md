@@ -1,0 +1,32 @@
+# 209 - Jordan VS Bird: One on One
+
+- Half Court is Now in Session
+- NES Longplay
+- Introductions
+  - Advertised as 3 Games in one, but that’s really just 3 different modes. It’s a nice try
+- Overview
+  - It’s Michael Jordan vs Larry Bird. Or Larry Bird and Michael Jordan versus themselves.
+- Gameplay
+  - One-On-One
+    - 1-on-1 rules
+    - Lots of option
+    - Not much blocking
+    - Fouls
+    - Detailed stats
+  - Slam Dunk
+    - You really don’t feel like you’re playing
+    - Is scoring dependent on where you released the ball or just random?
+  - 3 Point Shootout
+    - Timing makes sense, but this just feels like a warm up even when you’re playing the compeition
+- Electronic Arts
+- Sequels and Spinoffs
+  - It is the sequel to One on One: Dr. J vs. Larry Bird.
+  - Michael Jordan in Flight (1993)
+  - Michael Jordan: Chaos in the Windy City (1994)
+  - Space Jam (1996)
+  - Barkley: Shut Up and Jam Gaiden
+    - The RPG video game where In 2053, another Chaos Dunk is performed in Manhattan, killing millions. Barkley is blamed for the Chaos Dunk and is hunted by the B-Ball Removal Department, led by Michael Jordan.
+    - The Magical Realms of Tír na nÓg: Escape from Necron 7 – Revenge of KOOK-UH-LAIN: The Official Game of the Movie – Chapter 2 of the Hoopz Barkley SaGa
+      - Was cancelled after it entered development hell
+- EGL
+- Next week - Dragon Warrior

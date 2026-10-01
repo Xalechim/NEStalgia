@@ -1,0 +1,38 @@
+# Xevious
+
+- MISSION: Seek and destroy xevious enemy aircraft and bases
+- Introductions
+- This is like Galaga
+  - Early arcade game
+  - New subtitle
+  - No real updates
+- Overview
+  - An early arcade shmup that has you pitted against dozens of enemy spaceships. The game take place without interruption and loops back to the beginning after completing a loop
+- Gameplay
+  - The Solvalou
+    - Shooting vs Bombing
+      - Did you like the lock on?
+  - Too basic?
+    - Graphics
+    - No Power Ups
+    - Limited Enemies
+  - Andor Genesis
+- Development
+  - This game was designed to compete with Konami’s successful SCRAMBLE
+  - The player's ship, the Solvalou, is based on the Nostromo space tug from Alien, while several of the enemies are homages to starships from popular science fiction works, including Star Wars, UFO and Battlestar Galactica.
+  - Xevious was an unprecedented success for Namco in Japan, said to have sold as many arcade units as Space Invaders in its first few weeks of release. The Famicom version became the console's first killer app with over 1.26 million copies sold.
+    - The same success did not happen in America
+- Sequels and Spinoffs
+  - Super Xevious - Arcade 84
+    - An updated version of Xevious made to cater towards veteran players
+  - Xevious: Fardraut Saga - MSX2 88
+    - Includes the original Xevious alongside a brand-new game mode, featuring power-ups and new enemy types.
+    - THERE WAS A 3 PART NOVELIZATION
+  - Xevious 3D/G
+    - Same ol Xevious now with low poly backgrounds (still 2D shmup)
+  - LOST XEVIOUS FILM - CG 2002
+  - CR Xevious
+    - Pachinko Machine
+- EGL
+  - Why these games aren’t a good value
+- 11:20 phone call on Joe’s file

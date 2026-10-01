@@ -1,0 +1,32 @@
+# 128 - Millipede
+
+- You are lost in a dark, perilous, and enchanted forest. Dark dangerous mushrooms push up through the squishy forest floor, snaring you on every side. Something slimy flashes through the mushrooms, moving in on you. The MILLIPEDE, not a normal size one, but the gigantic monster, is attacking you. All you have to fight back with is the magic arrow. Shoot his head to turn him into mushrooms. But that is not the only thing attacking you, there are more creepy, crawly, buzzing, swarming, creatures in this forest. Keep fighting with your magic arrow, if you are lucky, you may survive. Watch out, here they come.
+- Introductions
+  - Arcade Fever
+    - Capcom and Konami are constantly releasing their arcade hits, but relatively quickly
+    - In JUST SEP and OCT
+      - Namco delivers both Galaga and Xevious
+      - Nintendo re-releases DK Classics
+    - HAL Lab joins! With Joust and Millipede
+  - HAL Lab
+    - We forgot to cover them in the Joust episode.
+    - Best known for Kirby, Mother, and Smash. Pretty much Nintendo Second Party
+    - The company got its name because "each letter put them one step ahead of IBM" - http://www.nintendolife.com/news/2012/11/iwata_explains_where_the_name_hal_laboratory_came_from
+      - IBM MILLIPEDE MEMORY
+    - Nintendo offered to rescue HAL from bankruptcy on the condition that HAL employee Satoru Iwata was appointed as its president, which he became between 1993 and 2000.[5] Iwata later became president of Nintendo.
+  - And this is all as next week we get Pac-Man from Tengen
+- Overview
+  - The objective is to score as many points as possible by destroying all segments of the millipede as it moves toward the bottom of the screen, as well as destroying and avoiding other enemies.
+  - IN ARCADE - The game is played with a trackball and a single fire button, which can be held down for rapid-fire.
+- Gameplay
+  - THE UI
+  - The Loop of
+  - Ratio of what is on screen
+  - What should’ve been added?
+- Centipede
+  - The millipede moves faster and its "head" segment is more difficult to hit than in Centipede.
+- Sequels and Spinoffs
+  - Centipede - Scary 3D Atari game in 1998
+  - Centipede Infestation - Wii and the Nintendo 3DS. It is a re-imagining of the Centipede video game franchise.
+- EGL
+- Next week - Pac-Man

@@ -1,0 +1,38 @@
+# 127 - Mickey Mousecapade
+
+- Enter the world of fantasy, mystery, and excitement with Mickey and Minnie as you solve the mystery of Mickey’s missing friend
+- Introductions
+  - Interesting Disney trivia there - Alice is ONLY friends with Mickey
+  - Of course this is also the start of Capcom and Disney video game romance
+- Overview
+  - A platforming game where you control both Mickey and Minnie through several stages shooting stars at enemies in search of finding Alice.
+- Gameplay
+  - The shooting star
+    - It’s the only weapon so why do you have to find it first? Is it that unbelievable that Mickey wouldn’t shoot stars
+  - Controlling both Mickey and Minnie
+    - You can cheese some of these levels and bosses because Minnie is invincible
+  - Are there any enemies in this game that aren’t annoying?
+  - Did the people who make this game ever watch any Disney?
+    - Why does Maleficent have Alice captive?
+      - Unless of course this was her first time trying to gather the 7 princess of light
+    - Famicom has the more correct version
+      - Cheshire Cat is first boss
+        - Witch Hazel (A DONALD DUCK character) in America
+      - Queen of Hearts is final boss
+        - Makes more sense
+      - Focuses more on Alice in Wonderland, but also includes Captain Hook as a boss
+        - No Captain Hook in America is baffling considering that’s the Peter Pan crocodile right on the box
+      - American version features enemies from The Jungle Book, Country Bear Jamboree, Sleeping Beauty and Snow White and the Seven Dwarfs.
+- What are you doing IGN?
+  - IGN rated it the 86th greatest NES game of all time.
+- Hidden Mickey on the cart
+- Development
+- Sequels and Spinoffs
+  - Adventures in the Magic Kingdom
+  - Chip 'n Dale Rescue Rangers 1 & 2
+  - Darkwing Duck
+  - Ducktales 1 & 2
+  - The Little Mermaid
+  - TaleSpin
+- EGL
+- Next week - Millipede

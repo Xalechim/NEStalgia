@@ -1,0 +1,45 @@
+# 257 - Double Dragon II
+
+- THE REVENGE
+- REVENGE
+  - So unlike Bowser, who constantly just kidnaps the princess, the Shadow Warriors decided that since kidnapping Marian in the first game didn’t work, this time they’ll shoot her dead on the streets.
+- Overview
+  - Side-Scrolling Beat Em Up, where you attack enemies on screen with punches and kicks.
+- Previously on Double Dragon
+  - Due to technical limitations of the NES that were not worked around, the game can only generate two enemies on-screen to confront the player and both enemies are the same character.
+  - The omission of the arcade's two players cooperative game mode
+    - The plot was changed so that your brother was the evil villain rather than your partner.
+  - "Mode B"
+    - 1 or 2 players can engage in a 1-on-1 fighting match with six of the game's characters using graphics more faithful to the arcade.
+- Gameplay improvements
+  - full access to Billy or Jimmy's entire moveset right from the beginning
+    - Including new special moves!
+      - Spin Kick, Uppercut, and Knee Kick
+  - 2 player co-op
+    - Finally something resembling the arcade experience
+    - Also a friendly fire mode
+    - But they also totally ignore the ending of the first NES game
+  - Set difficulty levels
+    - only by choosing the hardest level can the player access all nine stages and see the true ending
+    - At the easiest difficulty level, the game ends after the third stage. The intermediate level allows players to complete all but the ninth and final stage; the hardest level grants access to all stages and the confrontation with the final boss.
+    - the Famicom version allows the entire game to be played on any difficulty setting
+  - Required to input a cheat code at the game over screen to continue the game at the previous stage,
+    - the Famicom version gives this option as a standard feature.
+  - Little plot images between
+- The appeal in the game is more in the “set pieces” than punching and kicking 2 enemies at a time. So does it succeed in surprising locations/encounters/enemies etc.
+- Development
+  - The NES version of Double Dragon II was directed by Hiroyuki Sekimoto (co-director of River City Ransom), with the arcade version's director Yoshihisa Kishimoto taking a supervisory role in the game's development.
+  - According to a North American television commercial by the game's publisher, Acclaim, the NES version of Double Dragon II became a million seller soon after its release.
+- Sequels and Spinoffs
+  - ONE MORE NES DOUBLE DRAGON GAMES
+    - Double Dragon III: The Rosetta Stone
+  - Double Dragon II on PC-Engine
+    - Combat, Graphic, and Music changes so basically a remaster.
+    - The story sequences from the NES version were remade and are now animated, with voice acting
+  - But also important to note that we didn’t really play Double Dragon II today. The arcade game came first and it is different.
+    - Controls replace the original's punch and kick buttons with two directional-based attack buttons (Left Attack and Right Attack) similar to Renegade.
+    - No 2 max restriction on enemies
+    - The game is 4 longer levels not divided up into the 9 on the NES
+      - While the first stage loosely resembles the one from the arcade version, the level designs deviate completely from Mission 2 and onward
+    - replaced Willy, the gun-toting gang leader from the arcade version, with a nameless martial artist who wields supernatural abilities as the game's ultimate antagonist.
+- EGL

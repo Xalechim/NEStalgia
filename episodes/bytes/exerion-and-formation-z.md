@@ -1,0 +1,31 @@
+# Exerion and Formation Z
+
+- STUFF UP EM SHMUPS
+- JP Longplay
+- Introductions
+  - Something we’ve never done before - review 2 different games at once
+  - I did this because we have so many shmups already. Is Nintendo accurately quality controlling the genre? Let’s test the Nintendo Seal
+- Exerion
+  - Jaleco
+  - parallax bg effects
+    - Is this distracting or cool?
+  - inertia simulation
+    - This works, but you should be able to wrap around the screen just like enemies do
+  - Attacks
+    - A for rapid fire
+    - B for double bullet, only one at a time, not spread out enough
+  - You can play this now in the Arcade Archives Collection on Switch and PS4
+- Formation Z
+  - The player controls a robot with the capability to transform into a jet fighter.
+  - The robot does ground combat and the fighter may travel anywhere on screen but has limited fuel in which to do so.
+  - When you run out of fuel, the jet will fall but if the player is fighting where the ground is present he can revert to robot to avoid crashing (flying too low an altitude will still cause crash, however).
+  - The combination must be used to avoid obstacles, as well as to destroy any on-screen enemies for extra points.
+  - The player also has two types of firepower: first is Pulse Laser, a standard beam shot that can be fired consecutively. The second is a larger and stronger cannon named Big-Bang that can go through multiple smaller enemies. Big-Bang can be launched by charging up the main weapon.
+  - To shoot Big-Bang, shot button must be pushed down for about a second and a half. Big-Bang can be launched so long as shot button is kept being pushed down. Big-Bang can take out bigger enemies that Pulse Laser cannot and is crucial against boss battles.
+    - Without Big-Bang, Bosses cannot be defeated. In robot mode, player can shoot front, diagonal up and down.
+  - You can play this now in the Arcade Archives Collection on Switch and PS4
+- How playable without Japanese knowledge?
+- What We’re playing
+  - Fire Emblem: Shadow Dragon
+  - Bowser’s Inside Story
+- Next time - Antarctic Adventure

@@ -1,0 +1,65 @@
+# Bokosuka Wars
+
+- Strategically fight in battles you can’t control!
+- NES Longplay
+- Introductions
+  - I love how lately the famicom games we’ve been playing are games we haven’t seen on the NES…but does that mean Nintendo isn’t doing a good job with its own market? Shouldn’t they be exposing us to these holes in the NES library?
+- Overview
+  - A real time strategy game where you move across a live map as your king, freeing knights and pawns hidden in the environment. SLowly build your army and fight the enemy army as you make your way to the enemy castle. All battles are simulated by the computer.
+- Gameplay
+  - The trouble with building your army
+    - Only King Suren can free the army members hidden in the trees, rocks, cacti etc. And he can only free them by running into those objects.
+  - Controlling everything everywhere all at once
+    - Most times you move with everyone selected which creates this weird puzzle element to moving everyone successfully across the screen and avoiding the trees in your way.
+    - A and B button both cycle through the class you want to control. Perhaps only one of those buttons should have done that.
+  - A live map would be better if there was more strategy to navigating the map. Instead this is a straight line.
+  - Throughout the world of Bokosuka there are obstacles only certain characters can pass.
+  - Auto Simulated battles
+    - See battle display below
+    - Beating enough enemies will promote knights and pawns to gold color
+    - As a result of easy deaths you never feel like you have an amazing sized army
+- Sequels and Spinoffs
+  - Bokosuka Wars II
+    - It only took 33 years, but in 2016 they released Bokosuka Wars 2 to PSN and Xbox Arcade as a truly faithful successor. Same art style and ability to control enemies.
+      - So they didn’t fix too much of what we complained about here, except for army size, they start you off with a fairly large army.
+- NEStalgia Byte - Kid Dracula
+- ----------------------------------------------------------------------------
+- ----------------------------Battlefield Set-Up------------------------------
+- ----------------------------------------------------------------------------
+- 3) This section will examine the Battlefield display, what each piece of
+- information means, and how battles are decided.
+- o---------------------o
+- | Battlefield Display |
+- o---------------------o
+- _____________________________________
+- |                                     |
+- |   a=###    b=##    c#####     d*****|
+- |_____________________________________|
+- |                                     |
+- |                                     |
+- |                                     |
+- |                  e                  |
+- |                                     |
+- |                                     |
+- |                                     |
+- |                                     |
+- |_____________________________________|
+- |                                     |
+- |           f=###   g=K###  h=###x### |
+- |_____________________________________|
+- a = Remaining number of enemy forces on the battlefield.
+- b = Remaining number of allied forces that are hidden in rocks, trees, and
+- held in P.O.W. camps in the battlefield.
+- c = The allied units that are currently being controlled. Only the sprites
+- that are shown in this box can be controlled at that point in time.
+- d = This counter shows how many times that game has been completed with blue
+- blocks as the counting mechanism.
+- e = The battlefield area, where the enemy and allied units wage war to
+- decide whether King Ogreth or King Suren will reign supreme.
+- f = The remaining distance to the location of King Ogreth, safe inside the
+- castle.
+- g = The attack strength of King Suren.  It begins at 220, capable of rising
+- as high as 320.
+- h = When a battle occurs, the power of the two units is displayed here.  The
+- number on the left is the allied unit's power, the number on the right
+- is the enemy unit's power.

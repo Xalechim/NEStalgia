@@ -1,0 +1,22 @@
+# 223 - Sky Shark
+
+- Nobody Ever Said It Would Be Easy
+- NES Longplay
+- Introductions
+  - Last week I called this FLYING SHARK (the arcade name) before going to SKY SHARK. How much does the name of a video game matter to you NOW?
+  - I’m thinking about The Legend of Zelda games and it’s nice that they have
+- Overview
+  - Vertical SHMUP very similar to the 1942 series including the control of a biplane
+- Gameplay
+  - What’s unique in this SHMUP?
+  - Secondary shot is a bomb which kills everything on the screen (which begs the questions, is this a nuclear bomb and your plane is nuclear proof or something?)
+  - Only five stages, but pretty tough
+    - Collision detection
+  - Power Up system is boring
+- Tim Follin
+  - Music
+- Sequels and Spinoffs
+  - Fire Shark (known in Japan as Same! Same! Same!) was launched in 1989
+- EGL
+  - No way
+- NEStalgia Byte - Tower of Druaga

@@ -1,0 +1,48 @@
+# 247 - Short Order / Eggsplode
+
+- Two Games for Family Fun!
+- NES Longplay
+- Introductions
+  - Two games in 1
+    - A bargain?
+    - 56 in 1
+    - Now we can fit every NES game on an NES cartridge
+- Power Pad
+  - 2 Power Pad games, no Bandai involvement, this is all Nintendo and actually TOSE
+- Short Order
+  - The handheld game Simon meets Overcooked
+    - You work in a restaurant, animals order food, and you must prepare exactly what they ordered in the order of ingredients
+    - In order to add the ingredient the animal wants, you'll have to step on its corresponding numbered circle on the Power Pad.
+    - The highest number your burger can go to is 99.
+    - On the GAMEFAQ page, the writer who took the time to write a guide goes on to write this in the TIPS section for Short Order
+      - TIPS: If you can't play this game, I can't help you.  Have fun.
+- Eggsplode
+  - A fox is putting bombs under hens to blow them up. Carefully walk across the board to the hen with the bomb, without stepping on the eggs the other hens have laid
+    - But it should be that you’re always stepping on chickens right?
+- This was the final game(s) released for the Power Pad
+  - Some famicom ones we missed:
+    - Jogging Race - Jogging and Hiking game.
+    - Meiro Daisakusen - Explore a 3D maze using the power pad
+    - 2 Power Pad games based on the Japanese Television series game show Takeshi's Castle. Takeshi is a COUNT and owner of the castle, setting up physical challenges to try to get to him. Think Legends of the Hidden Temple
+    - Come come Kyonshi: Baby Kyonshi's Great Ladder Adventure - based on a TV show about a young Kyonshi - better known as the Jiang Shi Chinese hopping vampire outside of Japan. The player, as the Kyonshi, must complete various mini-game challenges in order to help it reach its parents. After the player completes one sections, a ladder randomly determines the next mini-game.
+- EGL
+- Next week - RoboCop
+- NEStalgia Byte - Star Luster
+- A - Timer
+- This indicated the amount of time you have remaining to catch up with the enemy terrorist before they escape beyond your reach. If the timer hits zero, and you have not made it to the end, KITT will no longer accelerate, although he will coast to a stop. On occasion, you can reach the boss by merely coasting to the end if you were traveling fast enough when the timer stopped. However if you roll to a stop before then, you will lose one life. Look for (T)ime tiles to gain 30 seconds of extra time.
+- B - Score
+- As you drive across the country, your score increases for every little distance you travel. Your score also increases for every enemy that you successfully defeat. Every time you score a multiple of 10,000 points, you also receive an extra life.
+- C - Shield
+- KITT's ability to survive enemy attacks and collisions is dependent on his shields. Every time he is hit by a vehicle or a weapon, his shield degrades. If his shield is every completely destroyed, you will lose one life. Watch for (R)ecovery tiles on the road to restore KITT's shield.
+- D - Voice modulation
+- In this show, this indicator would rise and fall along with KITT's voice whenever he spoke. However, he doesn't speak in the game, so this indicator is more for show. It does start to flash more when you are close to running out of time.
+- E - Speedometer and Tachometer
+- KITT is a fully automatic car (in more ways than just the traditional sense) so the tachometer is really just for show. But the Speedometer tells you KITT's current speed on the road. Keep it high on straightaways, but watch it when you take sharp turns. If Kitt is over 130 mph, he will start sliding off the road.
+- F - Fuel gauge
+- This shows how much fuel KITT has remaining. If you ever run out of gas during your trip, KITT will begin to coast until his speed reaches zero, at which point you will lose one life. Fuel is slowly used up throughout your trip, and normally you have enough to make it to the end of each stage. However, using Turbo Boost burns a large amount of fuel. If you Turbo Boost frequently, you will not be able to make it to the end of a stage without collecting (G)as tiles to refuel KITT.
+- G - Radar
+- As you drive along the highways of North America, you will encounter automobiles in three different lanes. KITT's advanced radar system allows you to track the appearance of other vehicles long before you can identify whether they are friend or foe.
+- H - Distance meter
+- This meter is as important is it is completely unassuming. It shows you how far KITT has left to drive before he catches up with the terrorist that you are trying to chase down. A red square indicates your position along a blue dashed line. It travels to the right as you drive. Once the red square reaches the far left side, you will locate the terrorists and engage them in battle.
+- I - Weapons indicator
+- The lower-right section of the dashboard indicates which weapons system is engaged. There are three possibilities, in order from weakest to strongest: Machine Guns, Missile Launcher, and Laser Beams. KITT has unlimited Machine Gun ammo. However, he can only hold a maximum of 99 missiles or lasers. When either of these is engaged, the amount of ammo remaining is also displayed. In addition to adding missiles and lasers before each stage, watch for (M)issiles and (L)aser tiles to add to KITT's supply.

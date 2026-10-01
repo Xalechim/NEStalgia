@@ -1,0 +1,33 @@
+# 167 - John Elway's Quarterback
+
+- Now strap on your helmet and go for it!
+- Introductions
+  - Who is John Elway’s Quarterback? Not John Elway...who is his quarterback?
+  - A lateral play is shown off in the title screen
+- Gameplay
+  - No rhyme or reason to team selection. If you pass your team you can’t just go back one.
+    - AND I ONLY REALLY HAVE A PROBLEM WITH THIS because start also just selects another random team.
+  - Kickoff - Oh I don’t like the way they run at all
+  - Picking Plays
+    - More options and it’s not that weird
+  - Passing
+    - Arrow system takes some practice but not bad.
+    - Do you prefer picking like this?
+  - Always DIVE at the end of the play
+  - No music when you touchdown
+  - Rushing
+    - I just always pass
+  - Defense
+  - Kicking - no meter
+    - You become the flash during a kickoff
+- Sequels and Spinoffs
+  - Arcade Version first
+    - Originally just QUARTERBACK
+    - Spring loaded joystick controlled how far you throw and kick
+  - John Elway would go on to be a HOF in 2004
+  - Elway is the owner of four steakhouse restaurants, each named "Elway's
+  - On January 5, 2011, Elway was named general manager and executive vice president of football operations of the Broncos, with the final say in all football matters.
+  - As recently as January 4th 2021, Elway stepped down as GM and is now just the President of the Broncos.
+- EGL
+  - Imagine asking for a football game for your NES, getting this game and then going over a friend’s house who just got the “new” game as well only his version is Tecmo and now you can never invite anyone over your house again.
+- Next week - Kung-Fu Heroes

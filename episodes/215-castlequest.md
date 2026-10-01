@@ -1,0 +1,23 @@
+# 215 - Castlequest
+
+- A long time ago in a faraway land there lived a lovely young princess named Margarita
+- NES Longplay
+- Introductions
+- Overview
+  - The object of the game is to navigate through the Castle to rescue Princess Margarita. You’ll traverse the castle room by room collecting keys and other items to get closer to rescuing the princess
+- Gameplay
+  - The idea that it all takes place in one castle uninterrupted
+  - Controls
+    - The HOLD jump
+  - The types of rooms
+  - Useless doors - is it a benefit here?
+  - 50 lives because there is no save
+  - The Sword
+    - NES only
+  - Suicide Strategy
+    - killing Rafael for advantage.  This is different from reset or back in that it seeks to establish a gain instead of to reset an error.  Sometimes you may want to get a key but will be trapped when you do or need to use a key to get out.  If you can kill Rafael without leaving, you'll have gained a key normally thought impossible.  This is a bit of a sacrifice, as you're trading a life for security at the end– if you make it.  There are some rare cases where suicide works out, but often you'll be able to get the key, etc. without doing so.  Only use suicide to get a key.  You may not be able to kill Rafael.
+- Sequels and Spinoffs
+  - The Castle
+- EGL
+- NEStalgia Byte - Antarctic Adventure
+- Next week - DuckTales

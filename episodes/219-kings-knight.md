@@ -1,0 +1,28 @@
+# 219 - King's Knight
+
+- Four brave warriors have set out into the Kingdom of Izander to rescue Princess Claire from the grip of a fiendish Dragon
+- NES Longplay
+- Introductions
+  - They are really trying to fool us with these shmups. Never did I imagine this game called King’s Knight was gonna be a multi-character story based SHMUP
+- Overview
+  - In this shmup you play as A knight, a wizard, a monster, and a thief, you must train them individually before they come together to save the kidnapped Princess.
+- Gameplay
+  - You can only shoot (no matter the character)
+    - Subtle gameplay differences:
+      - Knight “Ray Jack” - change into a winged horse
+      - Wizard “Kaliva” - cast Naizath to defeat enemies in the water.
+      - Monster "Barusa" - change into a dragon
+      - Thief "Toby" - destroys monoliths
+  - Destroy enemies and terrain (the terrain reveals symbols which help/hurt your character) - WHY HURT? Isn’t that what the enemies are for? I feel like that feature hurts the game and my enjoyment more than anything
+  - So these individual stages act as the training stages where you level up your characters based on what you find and collect within their level.
+  - The weird experience of playing this blind
+    - Speaking of weird experiences, at the end of a level the scrolling just stops and you’re stuck there for a minute before the game takes control of your character and they walk off screen. Well if the game takes control and autowalks your character off screen towards any health depleting icons, they count, and you die.
+  - Completing
+  - The Final level (all the characters coming together)
+    - The back of the box actually explains this concept
+    - Finally a use for the B button
+- Sequels and Spinoffs
+  - King's Knight: Wrath of the Dark Dragon
+    - Developed as a mobile spin-off associated with Final Fantasy XV, the game borrows the original version's scrolling, action role-playing game style
+- EGL
+- NEStalgia Byte - Dig Dug

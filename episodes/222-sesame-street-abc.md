@@ -1,0 +1,26 @@
+# 222 - Sesame Street Abc
+
+- Learning fun with your pals from Sesame Street
+- NES Longplay
+- Introductions
+  - Learning Games in general
+    - Leapfrog / Jumpstart
+- Overview
+  - Big Bird and friends teach players the alphabet, upper and lower cases, and spelling. Also Ernie wants to teach you about map making and directions in a second game that has nothing to do with the alphabet
+- Gameplay
+  - It’s the same terrible menu in my opinion. Kids will never need to understand directions. Everything in life is being handed to them
+  - Letter Go Round
+    - A ferris wheel revolves with letters attached to it. You stop the wheel when the letter you think matches the reference letter is at the bottom of the ferris wheel.
+    - Upper/Lower/Mixed
+      - Too few animated celebrations
+    - One Little Word / What’s Missing
+      - They wouldn’t accept LAD, wanted BAD
+      - They wouldn’t accept FEW, wanted PEW
+    - Spell the Secret Word
+      - Random spinning wheel where you just guess letters, this doesn’t feel like learning at all.
+        - It would be one thing if they only used the letters on the ferris wheel, the addition of other letters makes it feel very random
+      - Wouldn’t accept BAG, wanted BAH
+  - Ernie’s Big Splash
+    - Now do you understand why not being able to cycle through choices in both directions could be a problem
+- EGL
+- NEStalgia Byte - Tower of Druaga

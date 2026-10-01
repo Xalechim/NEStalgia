@@ -1,0 +1,56 @@
+# 199 - Defender of the Crown
+
+- To survive this Knightmare, your mind better be as sharp as your sword!
+- NES Longplay
+- Introductions
+  - A full version of this game is available online at Cinemaware.com (the full link is in the links section). The game plays in any browser.
+- Overview
+  - The game is set in England in 1149 during the Middle Ages where, following the death of the king, different factions are fighting for territorial control.
+- Gameplay
+  - The font
+  - Character Selection / Attributes
+    - Leadership, Jousting, and Swordplay
+    - Cedric of Rotherwood
+    - It’s nice to have a choice, but with the learning curve you are best off starting with the most average player
+  - Monthly Status Screen
+  - The Map
+    - You always play a northern lord in this game
+    - Land matters in this game. Unoccupied spaces have gold and vassel bonuses. Your ability to move freely within your own land
+    - Play from the center
+  - Buying your Army
+    - Soldiers, Knights, Catapults, and Castles
+    - Whatever you buy resides in your home base. Not where you are. I think that’s a little strange
+  - Conquest
+    - To me this is strictly a numbers game. You’re either winning or you’re losing. High Leadership did not change that
+    - That said, what your army is made of does matter. Knights are super effective in much smaller numbers than soliders
+    - I appreciate that the commands are not automatic though
+  - Defensive Siege
+    - Crossbow mechanic
+  - Offensive Siege
+    - The Catapult strategy
+      - Timing is everything, but this was one where I found myself being able to nail the timing once I got it down
+    - If you go into Sherwood Forest during your Conquest turn, you can enlist Robin Hood's help.
+  - Tournaments
+    - Jousting skill - determine how fast you can move your lance, and how accurately you can hold it in position.
+    - Since participating in a fame joust is a way to crank up your leadership, it's recommended to get someone with a decent jousting attribute.
+    - I’d rather just start with strong leadership than waste time Jousting
+    - Joust for Land
+      - Nice early strat to take away non-castle land from enemies on turns where you could not.
+    - The List
+    - The Melee
+  - Raiding
+    - High swordplay only gives more health.
+    - Gain as much control of the space as possible. Strike and then step back. You’ll eventually be in a corner, but if you find yourself there you didn’t gain enough ground.
+  - Side Events
+    - Rescuing the Princess
+      - You get a picture suggesting you are husband and wife. You now have a joint ownership with another lord
+    - Normon’s steal
+    - Vassals rebel
+  - SO what’s the winning strategy here?
+- Sequels and Spinoffs
+  - In 1993, Jim Sachs, who worked on the graphics for Defender of the Crown, designed a sequel, Defender of the Crown 2. It never really caught on though, mainly because it was only released for Commodore's ill-fated CDTV system. For all intents and purposes, this looks like a remaster of the first one
+  - Robin Hood: Defender of the Crown
+  - Defender of the Crown: Heroes Live Forever
+    - A new addition to the game involved the use of Hero and Tactic cards during battles, giving the user's army various upgrades during the on-screen melee.
+- EGL
+- Next week -

@@ -1,0 +1,44 @@
+# 170 - Ninja Gaiden
+
+- Ninja Action
+- Introductions
+- Overview
+  - The game is eerily similar to Castlevania
+    - Most of what you’re gonna hear me say are improvements I would also apply to Castlevania
+- Gameplay
+  - Jumping
+    - I had a love hate with this.
+    - Knockback
+      - At least enemies can’t knock while you’re on ledges
+  - Wall Climb
+    - Do you think you should’ve had spider-man abilities?
+  - Weird Quirks
+    - Death if you fall into a place your supposed to climb down
+    - 5-2 is where the programmers failed us with the impossible jump AND other quirkst
+  - Annoying Enemies
+  - Boss Fights
+    - Pretty easy tells, but I would’ve expected more action
+  - Story
+    - Who was expecting cutscenes like Golgo 13
+      - over 20 minutes of cinematic cutscenes
+    - The acts are like an actual TV Show
+  - Personal Improvements
+    - Knockback
+    - Jumping
+    - Platforms should be more clear
+- Development
+  - Famicom first - Legend of the Dragon Sword
+  - It was developed and released around the same time as the beat 'em up arcade version of the same name; neither of the games were ports of each other but were parallel projects developed by different teams.
+  - Made largely because Ninja’s were having a North American renaissance
+- Sequels and Spinoffs
+  - 2 more NES games
+  - Ninja Gaiden Trilogy
+    - Much like Super Mario All-Stars
+  - Ninja Gaiden OVA
+    - https://www.youtube.com/watch?v=1_qqm96rQeA
+  - Xbox Games
+    - The reputation of these difficult games held Ninja Gaiden as a series away from me.
+  - Everyone MUST play The Messenger
+- EGL
+  - My highest recommendation
+- Next week - WORLD GAMES

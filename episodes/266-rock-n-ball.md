@@ -1,0 +1,39 @@
+# 266 - Rock N Ball
+
+- Pinball is famous in video game history!
+- NES Longplay
+- Introductions
+  - Like the back of the box states this is Pinball, but with many different twist modes
+- Gameplay
+  - Characters
+    - Tom, Billy, John, Paul, Lisa, and Diana
+      - Select: The little jig the character does on the character select screen.
+      - Dance: Their victory dance.
+      - Win: What they say when they win
+      - Lose: What they say when you defeat them.
+  - "regular pinball"
+    - 50s themed?
+      - TV
+      - Shoe
+      - Jacket
+      - Burger
+    - up to four players
+    - unlimited tilt
+    - In the bonus level, you will have to hit waves of bald guys, and guys with hats and glasses for points.
+  - "nineball" where balls are knocked into a Pachinko Pattern
+    - -The field is dotted with little pegs to randomize the fall of your ball. You can use tilt to influence the fall to some degree, but it becomes difficult to get balls where you want them.
+  - "battle pinball" (which operates more like Pong instead of pinball)
+    - There are three different variations to the "battle pinball" mode; "thunder," "bomber," and the basic "attack" mode.
+    - All three of these options uses specialized flippers and a specialized pinball.
+    - For example, the "bomber" mode has a pinball that explodes after a certain time limit has been reached and the player's two target switches have been turned into bombs.
+    - A switch on the right-hand side of the board activates the special effects in the "attack" mode.
+  - and "sports pinball" where the pinball game becomes more similar to a soccer or hockey field
+- Japanese Version
+  - Pac-Man. Pac-Man is in the game. The regular pinball looks like Pac-Man. Why would you lose PAC-MAN?! For some generic rock n roll thing?
+  - Compared to the North American version, the bumpers in the Japanese version are further apart and the players have more room to guide their ball around the playing surface.
+  - Special guest characters in the Japanese version of the game include Valkyrie from the video game Valkyrie no Bōken: Toki no Kagi Densetsu, Wonder Momo and Kai from the Babylonian Castle Saga series.
+- Sequels and Spinoffs
+  - None
+- EGL
+- Next week - Top Gun: The Second Mission
+- NEStalgia Byte - Captain Tsubasa II: Super Striker

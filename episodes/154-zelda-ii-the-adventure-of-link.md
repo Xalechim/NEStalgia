@@ -1,0 +1,81 @@
+# 154 - Zelda II: The Adventure of Link
+
+- The Hyrule Fantasy Continues...
+- Introductions
+- Development
+  - Almost a full two years after its initial release in Japan, converting (with various modifications) the game from its initial Famicom Disk System format to the NES cartridge format.
+  - Developed by a separate team from that of The Legend of Zelda, and key members from The Legend of Zelda's design team, such as Takashi Tezuka and Kōji Kondō, were not involved in The Adventure of Link's production.
+  - Tadashi Sugiyama was the director
+    - Development started with Mr. Miyamoto saying he wanted to make a side-scrolling action game that made use of up and down movements for attacks and defense. It’s rooted in actions like jump strikes, downward strikes, and high and low shield defense moves. Types of moves that weren’t possible in the first game. Rather than being a continuation of the series, it started as a new sword and shield type of action game. We were experimenting while producing the game so we didn’t really have the first game’s systems in mind while developing it. As for it being unique within the series, we were searching for new ways to play so you could say it’s like a spin-off.
+    - Games didn’t have a ton of content at that time so in order to have them played for as long as possible we felt like we couldn’t make them easily clearable. We also did debugging so we would play a game too much and the game would have a high dif?culty that was interesting to us. One thing I remember is a call that we received from a customer at the time. He said he just couldn’t beat the ?nal boss. We talked with him and found out he was fully equipped so we had to tell him he could only rely on his skill at that point. A pretty tough answer, right? The person seemed to playing on behalf of a child… Sorry about that.
+- Plot
+  - Link is on a quest to save Princess Zelda -- who is not the same Princess from the first game, but another member of the royal family by the same name, who was placed under a sleeping spell a long time ago.
+  - There is something Star Wars-y about the menu screen
+- Overview
+  - The Adventure of Link primarily features side-scrolling areas within a larger world map. The game also incorporates a strategic combat system and more RPG elements, including an experience points system, magic spells, and more interaction with non-player characters.
+- Gameplay
+  - Overworld Exploration
+    - Roads
+      - Good or Bad here? Remember what made Zelda 1 cool
+    - Talking to NPC.
+      - Improved from Castlevania II, but still feels as useful as Castlevania II. We need substance to these people. Talking to them is no different then a strategy guide at times. Link found everything he needed mostly on his own in the first game.
+      - That one cool town where followers of Ganon would turn into enemies and attack you as a trick.
+    - Waypoints
+      - Parts of the world do feel unique and it is cool to find stuff.
+      - It’s not cool when finding stuff is hidden in a random 1x1 square.
+      - Death Mountain, The raft to the new continent, and  were highlights
+    - Difference in feelingm from Zelda 1
+      - Enemies were live fights
+      - You had a choice of dungeons
+      - Link’s sword felt bigger
+  - Side-Scrolling Combat
+    - Sword and Shield
+    - The sword is way too short. It doesn’t feel good to fight. Link is in dire need of Simon’s whip in this combat Yes, I’m aware of the full health flying swords.
+    - Combat is annoying, you can get better at fighting, it doesn’t MAKE the combat less annoying.
+  - Magic
+    - A cool system that feels like a natural enhancement to Link. Yet we rarely see it in future Zelda games
+    - Magic is a chance to reinvent the combat,it feels megaman inspired and it’s kinda cool that it’s missable.
+    - The fact that your magic is gifted
+  - Experience System
+    - Very similar to Rambo.
+    - I don’t think Zelda has ever needed an experience system
+      - You fight to press on and continue the journey/exploration...not grind for stronger attack power
+      - The experience system never changes. It’s just which of these 3 do you want now?
+      - It does make for an interesting low level run
+  - Heart Containers
+    - There needed to be more secrets like this. The kind of thing similar to Zelda 1 where it’s not necessary, but it’s fun to find in the world.
+  - Palaces
+    - The palaces are the new dungeons. Only with less exploration.
+    - Many times you’ll find yourself following a very linear path with maybe 1 other room “choice”
+    - Even the Grand Palace at the end is a LONG winding map with mostly just moving down and to the right to get to the end.
+    - Now just for a minute imagine how this could be a good thing...remember Deadly Towers?
+  - Musings
+    - I am Error is not a mistake. That was his name in Japan.
+- BIG BEATS
+  - Why don’t NES sequels follow the success of the originals?
+    - SMB 2, Castlevania II, Zelda II
+  - Why does the Castlevania II style game seem to be making a
+    - Zelda 2 actually came first in Japan. Perhaps Konami was inspired by it?
+  - What should a Legend of Zelda sequel be?
+    - Larger map?
+    - We already had second quest built in the game
+    - Link to the Past is the proper answer
+- Music
+  - Not by Koji Kondo
+  - Akito Naka-tsuka
+    - Ice Climber, Pilotwings 64
+- Japanese Release
+  - The spending of experience points, as all three of Link's attributes cost the same, unlike the worldwide release.
+  - Extra sound capabilities not present in the NES
+  - Missing boss
+- Sequels and Spinoffs
+  - Miyamoto says it’s a failure game
+    - Shigeru Miyamoto: It was my idea, but the actual game was developed by another team, different people to those that made the first game. Compared to Legend of Zelda, Zelda II went exactly what we expected… All games I make usually gets better in the development process, since good ideas keep coming, but Zelda II was sort of a failure…
+    - Superplay: So that’s why the third game looked like the first one?
+    - Shigeru Miyamoto: Exactly. We actually see A link to the Past as the real sequel to Legend of Zelda. Zelda II was more of a side story about what happened to Link after the events in Legend of Zelda.
+  - Dark Link would return in OOT (a great battle!)
+  - Some music would go on to make its way in Smash Bros
+  - SNES remake?
+    - From Koizumi - Before Super Mario 64, I had actually been making Zelda II: The Adventure of Link in polygons with Miyamoto-san. We were experimenting with a thin, polygon Link seen from the side and fighting with his sword. Chanbara (samurai cinema) was a pending issue at the time. We couldn't really bring Zelda II: The Adventure of Link into form at that time, but I kept that desire to achieve a sword-fighting Zelda game until I joined this team.
+- EGL
+- Next week - Best of 1988

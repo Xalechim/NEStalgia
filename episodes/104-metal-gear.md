@@ -1,0 +1,37 @@
+# 104 - Metal Gear
+
+- Back of the Box
+- Manual
+- Introductions
+- One of the first stealth games
+- Overview
+  - an overhead military action-adventure stealth video game
+  - The game revolves around Solid Snake, an operative of the special forces unit FOXHOUND, who goes on a solo infiltration mission into the fortified state of Outer Heaven to destroy "Metal Gear", a bipedal walking tank capable of launching nuclear missiles from anywhere in the world, as well as rescue a number of fellow agents who have been captured by the enemy.
+  - A port of Metal Gear was released for the Nintendo Entertainment System. Kojima was not directly involved in the production of this version and he has openly criticized some of the changes made in the porting process, including poor translation and no ending boss fight with the titular weapon.
+- Gameplay
+  - Stealth?
+    - Cameras
+    - Dogs
+  - Sense of direction/exploration
+    - So much wasted time not making sense of what to do or where to go
+    - Switching Access Cards
+  - Low Health at start
+  - Coming out of places with respawn and sometimes being knocked
+  - Cool Items
+  - Passcodes are used in this version to save progress. When Snake is killed by the enemy, the player is given a choice to continue the game from the last checkpoint or quit and resume later with the given passcode
+    - the player types the expletive "fuck me" and fills the remaining spaces with "1", will transport the player to the final battle with no equipment.
+- The NES version sold over 1 million copies
+- MSX VERSION
+- Kojima on Metal Gear
+  - According to Kojima's account, the port was developed by another Konami division at Tokyo which was given the source code from the MSX2 version without the consent of the original team.
+  - Masahiro Ueno, who worked as a programmer for the NES version, has stated that the staff who worked on the port were given a three-month deadline and were ordered to make the port as different as possible from the MSX2 version by Konami executives.
+- Sequels and Spinoffs
+  - World Of Power - Metal Gear Book
+    - Big Boss is not featured in the book, but instead, two different characters, Commander South and Colonel Vermon CaTaffy, serve as Solid Snake's commanding officer and Outer Heaven's leader respectively. The book also gives Solid Snake the identity of Justin Halley and changes the name of his organization from FOX HOUND to the Snake Men.
+  - Snake’s Revenge
+  - Which leads to METAL GEAR 2: SOLID SNAKE for MSX
+  - EGL
+- 4:55 Joe coughs
+- 38:15 Sean resets
+- 58:40 EGL
+- 1:08:30 - Sean stops

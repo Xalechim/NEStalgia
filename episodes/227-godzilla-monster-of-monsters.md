@@ -1,0 +1,26 @@
+# 227 - Godzilla: Monster of Monsters
+
+- The Great Movie Monster in Video Games
+- NES Longplay
+- Introductions
+  - Let’s talk about Godzilla. Where do you stand with him?
+- Plot
+  - In the year 2XXX, the mysterious Planet X appears when Pluto and Neptune switch positions in the solar system, and its inhabitants begin an attempt to conquer the Earth, using a legion of space monsters (though some of these creatures were in fact from Earth) as their primary attack force. The King of Monsters, Godzilla, joins forces with the guardian monster Mothra and the forces of Earth to repel the invasion forces.
+- Overview
+  - Godzilla Monster of Monsters separates levels across multiple board games. The player controls the Godzilla and Mothra pieces on the board and must eliminate the other monsters off the board in order to advance to the next board. Traveling between spaces on the board results in a short side scrolling experience to simulate traveling. When the players pieces meet the monsters pieces that starts a battle similar to a fighting game
+- Gameplay
+  - Godzilla
+  - Mothra
+  - Board Game
+  - Side Scrolling levels
+  - Monster Battles
+  - Flickering sprites - the art is really well done, but it’s constantly flickering because of the amount and size of sprites
+- Sequels and Spinoffs
+  - Godzilla 2: War of the Monsters on NES
+  - Godzilla on Game Boy
+  - Godzilla Destroy All Monsters Melee
+  - Kyoei Toshi - a game I can’t believe exists. I’d call it Cloverfield the video game
+    - The objective of the game is to escape a city ravaged by battles between giant monsters (kaiju), giant robots, and heroes from the famous live action and animated Japanese film and TV series Godzilla, the Ultra Series, Gamera, Patlabor, and Neon Genesis Evangelion.
+- EGL
+- Next week - Jeopardy Junior
+- NEStalgia Byte - Tower of Druaga

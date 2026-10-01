@@ -1,0 +1,44 @@
+# 113 - Adventure Island
+
+- Blurb: In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture Tina and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.
+- Back of Box: https://www.mobygames.com/game/nes/adventure-island/cover-art/gameCoverId,206803/
+- Introductions
+- Overview
+  - Super Mario Bros knockoff
+    - Caveman Mario has to survive 8 worlds (4 stages in each) by running and jumping his way through each stage. At the last stage of each world there is a boss.
+- Hudson Soft
+  - Adventure Island began development as a direct port of the Sega arcade game Wonder Boy, the partial rights to which Hudson Soft obtained from developer Escape
+  - Takahashi Meijin
+    - is something of a legend in his native Japan. You might know him as '16 Shot' thanks to his famed ability to hit a controller button 16 times in a second.
+    - TM: Back in about '85, there was an arcade game called Wonder Boy. So there was an arcade game, Wonder Boy, that was already out. Back then, PC games like Lode Runner and those games were transferring to console games, and this was one of the games that we wanted to do, alongside arcade ports like [Tecmo's] Star Force. Back then, our vice president Mr. Kudo said, "The main character is not looking very strong, and you're very popular right now. Why don't we just put you in there?" That's how it started.
+- Adventure Island
+  - The Jump
+  - The Platforming
+    - GFX versus Display size
+  - The Skateboard
+  - Spawn-in items
+  - The Timer
+    - Visible Checkpoints
+  - The bosses
+- Sequels and Spinoffs
+  - Two sequels were produced for the NES, Adventure Island II and Adventure Island 3, as well as a fourth game for the Famicom that was released exclusively in Japan.
+  - This game was remade for PS2/GC (GFX update) in Japan https://www.youtube.com/watch?v=uScHrGvdqA0
+  - Super Adventure Island and Super Adventure Island II for the Super NES, New Adventure Island for the TurboGrafx-16, Adventure Island: The Beginning for the Wii
+  - Adventure Island Quest for mobile in 2010
+  - appears as a playable character in the crossover fighting game DreamMix TV World Fighters, released in Japan for GameCube on December 13, 2003.
+  - The rights to the Adventure Island series are currently owned by Konami, who absorbed Hudson Soft in 2012.
+- EGL
+- POST SHOW
+  - NINTENDO POWER MAILBOX
+    - 2 write ins
+    - TOP GAMES
+      - Zelda
+      - Punch Out
+      - Metroid
+      - SMB
+      - Kid Icarus
+    - Looks forward to
+      - Castlevania II: Simon’s Quest
+      - Bayou Billy
+      - Bionic Commando
+- 46:00 EGL

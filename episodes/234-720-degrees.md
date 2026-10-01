@@ -1,0 +1,29 @@
+# 234 - 720 Degrees
+
+- Be the skateboarding champion of the world
+- NES Longplay
+- Introductions
+  - We play the games chronologically, I’m sure everyone knows that by now. But some crazy people when checking out a console’s library via emulation might play it ALPHABETICALLY in which case 720 gets a lot of exposure.
+- Overview
+- Gameplay
+  - The overworld skate park hub
+    - Not quite exploration focused
+    - There's a ticket system, which feels like an unnecessary restraint since you earn more by scoring points
+    - Tight time limit. SKATE OR DIE
+  - Speaking of Skate or Die - What do we think about the decision to have the hub instead of just picking the minigames like in Skate or Die
+  - The mini games
+    - First lets talk skate physics
+    - slalom, jump, ramp, and downhill
+  - Could they have incorporated an Adventure game into the hub
+- Sequels and Spinoffs
+  - 720 was first an arcade game. Mostly the same game, better quality on the music and the arcade cabinet has a really cool boombox mounted on top of it for where the music comes out of.
+  - In 1999 (10 years later) it would be ported to the Game Boy Color but again mostly unchanged.
+  - No 720, 2. Or 1440 degrees. There was a 1080 degrees snowboarding game, but not by the same people. You get my point. Also reminds me of when people thought that after xbox 360 we were gonna get xbox 720. And instead we got Xbox 1 and that’s 719x less powerful than I was expecting.
+- EGL
+  - Skateboarding games are fun when they focus on making YOU feel like you’re pulling off gravity defying stunts. In Tony Hawk games, there’s no need to understand how tricks are pulled off. Push the buttons, do the tricks. Repeat. In this game, pulling off the tricks feels sometimes just as complicated as how they look in real life. And getting to the places to pull off those tricks remains hazardous the entire time you’re playing.
+- Next week - Tetris
+- NEStalgia Byte - Pac-Land
+- Ramp: the player climbs around a half-pipe structure, trying to gain more and more height and performing tricks in the air to earn the most possible points. This ends when the timer runs out.
+- Downhill: a long course consisting of slopes and banks must be navigated to reach a finish line. The quicker the player reaches the finish, the more points are earned.
+- Slalom: an obstacle course in which the player is required to pass between pairs of yellow flags scattered across the course. Each gate passed grants a little extra time, and scoring depends on time remaining upon crossing the finish line.
+- Jump: the player jumps from a series of ramps, attempting to hit a bull's-eye target off the screen. There are cryptic marks on the ramp before the jump that provide clues as to the location of the target. This ends when the timer runs out or the player crosses the finish line, whichever comes first.

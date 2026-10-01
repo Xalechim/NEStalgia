@@ -1,0 +1,31 @@
+# 156 - Sesame Street 123
+
+- 2 Great Games in One. Learning fun with your pals from sesame street
+- Introductions
+  - Can you tell me how to get to Sesame Street?
+- Overview
+  - It’s actually 2 games in 1. What a value! Ernie’s Magic Shapes teaches you about Shapes and colors. Astro-Grover
+- Gameplay
+  - The worst menu design yet
+    - Any direction is down until it is up
+    - Selects with A/B/Start/Select
+    - Wanna play the other game? RESET the console
+    - I know they meant well
+  - Ernie Magic Shapes
+    - Nice graphics
+    - The shape designs in the later levels are pretty wild
+      - First it’s like pick 3 circles of the same color, than it was draw a human being using just shapes
+    - The look the Rabbit gives when you’re right OR wrong
+  - Astro-Grover
+    - Finally the 123 part comes into play
+  - Should there have been points? Or a high score?
+  - The deceptive nature of a too easy game causing stress that you’ll get ANYTHING wrong
+  - WHERE IS BIG BIRD
+  - THE SECRET ENDING
+- Development
+  - Rare made this!
+- Sequels and Spinoffs
+  - We’ll be playing Sesame Street ABC as well
+  - AND A BUNCH MORE
+- EGL
+- Next week - Star Soldier

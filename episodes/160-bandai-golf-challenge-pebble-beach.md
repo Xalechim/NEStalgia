@@ -1,0 +1,21 @@
+# 160 - Bandai Golf: Challenge Pebble Beach
+
+- Play one of the world’s most difficult and challenging golf courses on your Nintendo Entertainment System
+- Introductions
+  - The placement of the colon
+- Overview
+  - The game is named after Pebble Beach, a golf course on California's Pacific Coast
+- Gameplay
+  - The idea of a game being branded around it’s golf course
+  - Should we review this?
+    - It seems like Lee Trevino already showed this game how it’s done
+  - What does the manual mean when it says TITLE MUSIC in Asterisks
+  - Presentation of the game
+    - Scorecard
+  - First time we have a handicap
+  - The rules of the clubs
+  - Why is Golf going for realistic? Why can’t we get EVERYBODY’S GOLF or WHAT THE GOLF on NES?
+- EGL
+  - Groovy Soundtrack. Lee Trevino outfought this game
+    - Characters 2 courses, different modes with stroke and nassau
+- Next week - FRIDAY THE 13th!

@@ -1,0 +1,32 @@
+# 189 - Hydlide
+
+- Get all fired up...for the Adventure of a Lifetime
+- NES Longplay - https://www.youtube.com/watch?v=LgFtO1FCSko
+- Introductions
+  - Joe, a bit of an exaggeration but the Kingdom Hearts prototype has arrived.
+  - ARPG versus Turn Based RPGS
+- Overview
+  - This is a 1984 game
+  - One day, an evil man broke into the palace and stole one of the three magic jewels. Without the third jewel, the two remaining jewels lost their magic sparkle
+- Gameplay
+  - Action and RPG together
+    - Attack Mode
+    - Defense Mode
+    - Health Regeneration
+  - Exploration
+    - This game was often compared to LoZ
+  - Quick Save and Load
+  - Will the song EVER change into the Indiana Jones theme?
+- Development
+  - Tokihiro Naito
+  - If you wanna go even further back
+    - The Black Onyx
+      - A lite version of Wizardy (Naito claims to be unaware of Wizardry and Ultima while making Hydlide)
+    - The Tower of Druaga
+      - Explore 60 floors. Upgrades and others are hidden throughout the game and players kept books in the arcade.
+  - He underestimated Dragon Slayer (remember we played the 4th DS game, Legacy of the Wizard)
+- Sequels and Spinoffs
+  - Hydlide II - The game introduced a morality meter, where the player can be aligned with Justice, Normal, or Evil. Killing humans or good monsters lowers the player's morality, while fighting evil monsters increases it.
+  - Super Hydlide (III) - adds an in-game clock and a need to sleep and eat.
+- EGL
+- Next week - Mega Man 2

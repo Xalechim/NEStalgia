@@ -1,0 +1,35 @@
+# 198 - Cobra Triangle
+
+- Speed and Skill are all that can save you
+- NES Longplay
+- Introductions
+  - Bermuda Triangle
+- Overview
+  - Cobra Triangle is a racing, vehicular combat video game. The player races a cannon-equipped speedboat against other watercraft. The 25 stages of graduated difficulty vary in objectives: winning races, saving swimmers, and defusing bombs.
+- Gameplay
+  - Cobra Class Speedboat
+    - Controls
+      - First time we’re dealing with a boat.
+      - How do you want a boat to control?
+      - There’s a mixture of momentum and start/stop
+        - A bit of all or nothing
+    - Power-Ups
+      - Gradius Style
+      - Increase speed/add missles and force field
+      - Bread and butter of the game.
+      - Should be more available or reworked based on a % completion of the previous level
+  - Different objectives
+    - Racing (not really against other boaters, but against time)
+    - Capture/Save
+    - Collect the pods
+    - Survive the obstacles (counting the waterfall stage here too)
+    - Break the Targets
+    - Boss Fights
+      - Kind of like a shmup, but I think they could’ve embraced it even more.
+    - The objectives do get harder the 2nd and 3rd time around
+  - Diddy Kong Racing
+- Sequels and Spinoffs
+  - Rare Replay (Xbox Game Pass)
+- EGL
+  - The boat and the precision keep this out for me
+- Next week -

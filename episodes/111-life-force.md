@@ -1,0 +1,51 @@
+# 111 - Life Force
+
+- Calling all Viper pilots! The Galaxy’s on the edge of doom again!
+- Manual
+- Introductions
+- Overview
+  - The NES version is treated as a Sequel to Gradius
+  - Horizontal and Vertical layout SHMUP where you must successfully survive traversing through 6 different stages. At the end of each stage there is a boss that must be defeated to move forward
+  - The power-up section from Gradius returns with even more choices
+- What did we like so much about Gradius
+  - Customizing your needs
+  - Thoughtful level design
+  - Unique bosses
+- Gameplay
+  - Refined controls/Improved graphics
+    - The game looks better, feels smoother, and plays faster
+  - Levels aren’t seamless
+  - Frustrating level design
+    - First stage - Growing barriers
+    - Volcano flames
+    - Parasetic roots that expand way too fast
+    - Destroying obstacles but then it regenerates
+    - Escaping destruction at the end barriers
+  - The game takes place entirely inside a living planet
+  - Very creative bosses
+    - Shoot the core is gone
+  - Konami Code
+  - The new dying
+    - No checkpoint, instead you get right back in
+  - 2 player
+- Ending
+  - the final boss – a big, red orb called the Zelos Force – is defenseless, but the screen continues to scroll forward when you reach it. If you don’t kill it before it scrolls off the screen, you need to replay the whole stage. After killing it, the scrolling speeds up, and you need to maneuver through a set of tight corridors before you can escape.
+- Version differences
+  - Arcade
+    - Didn’t let you choose powerups. Instead it gave them to you immediately on pick up.
+    - The levels are different after the first one. This didn’t have the living planet construct
+    - You could have 4
+  - Famicom
+    - You could have 3 options
+    - Different ending depending on continues
+- Interview
+  - Also, the Salamander pcb didn’t have a test mode for debugging (where you could make yourself invincible, for instance). So in order to check if everything was arcade-accurate, when it came time to check the later loops I had to practice enough to be able to get there on my own. Thanks to that practice, I can now get much further in Salamander than I could when it came out.
+- Spinoffs
+  - Many more Gradius sequels to get to. The next is Gradius II
+  - Salamander II did happen!
+- EGL
+- 13:30 end of what we liked about Gradius
+- 23:00 end of bosses
+- 42:15 end of Difficulty
+- 55:15 end of Konami Code
+- 58:50 - EGL

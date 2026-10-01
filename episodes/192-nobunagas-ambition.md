@@ -1,0 +1,29 @@
+# 192 - Nobunaga's Ambition
+
+- THE STRUGGLE TO BECOME SHOGUN
+- NES Longplay - https://www.youtube.com/watch?v=RFkTCoeJNMs
+- Introductions
+  - We may have finally met our match for the format
+- Overview
+  - 16th Century Japanese Civil War
+  - Play as one of 17 or 50 Fiefs (what we might think as States or Counties)
+  - Grow your empire and conquer all the others to stop the war and unite Japan
+- Gameplay
+  - The concept of the game
+    - Winning Conditions
+    - Rolling your leaders scores
+    - Conquering Territories
+    - Choosing what you manage and what you dont
+      - https://www.mobygames.com/game/nes/nobunagas-ambition/screenshots/gameShotId,444080/
+  - Your General’s Orders
+    - The Seasons
+    - Fief Development
+    - Building an Army
+  - The balance of building your army/area
+    - And the balance of satisfying the win conditions
+  - The Computer Players
+  - War
+- EGL
+- More Koei Games to come
+  - What needs fixing?
+- Next week - Shooting Range

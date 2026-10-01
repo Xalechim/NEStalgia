@@ -1,0 +1,35 @@
+# 214 - The Black Bass
+
+- Thug thrashing defender of freedom
+- NES Longplay
+- Introductions
+  - Turns out it’s a fishing game
+  - Do we fish?
+  - Do you care to fish?
+  - TV Fishing
+- Overview
+  - You’re in Black Bass fishing tournament. You start as a rating C class angler in 200th position. You must catch big prize fish in order to move up through the ratings, positions, and lakes in the tournament.
+- Gameplay
+  - Forget about all the complications involved, let’s just focus on the fishing for a minute and talk about the particulars of catching a fish
+    - First off, Finding a good location for fishing
+    - Now that you’ve found fish, let’s talk about casting and catching
+      - Casting
+      - Getting the attention of a fish
+      - Reeling in that fish
+        - The mechanics of breaking the lure
+      - Lures and Obstacles
+  - Variety of fish - Black Bass (big and small), Brown Trout, Rainbow Trout, and Pike
+  - The Scoring
+    - The player has one day in game time to catch the biggest Black Bass they can find, as at the end of the day the average weight of you caught Black Bass improves or reduces the players rating as well as their overall position. The player's rating determines how much progress in the tournament is made.
+  - The Lakes
+    - Lake Amada, Japan Lake, Lake More, San Lake
+- Sequels and Spinoffs
+  - This is actually BLACK BASS 2 in Japan
+  - We will also play Blue Marlin on the NES
+  - Black Bass has quite a series
+    - Super Black Bass (SNES)
+    - Blackin’s Black Bass (SNES)
+    - And the long awaited crossover Black Bass and Blue Marlin on PSX
+- EGL
+- NEStalgia Byte - Antarctic Adventure
+- Next week - Castlequest

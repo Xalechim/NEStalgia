@@ -1,0 +1,46 @@
+# 183 - The Adventures of Bayou Billy
+
+- You’re a ragin’ Cajun on the tail of a swamp rat
+- NES Longplay - https://www.youtube.com/watch?v=CUZcbojyLBs
+- Introductions
+  - This game seems to be leaning into the 1986 film Crocodile Dundee. A move I cannot figure out.
+- The Characters
+  - Billy West
+    - Bayou Billy, is a Crocodile Dundee-like survivalist, vigilante, and former U.S. soldier from New Orleans
+  - Godfather Gordon
+    - Local Crime Boss
+    - kidnaps Billy's girlfriend Annabelle Lane
+- Gameplay
+  - beat 'em up
+    - Closely mirrors Double Dragon style
+    - Boss fights
+  - light gun shooting
+    - On-Rails Shooter
+    - a standard controller or with an NES Zapper, depending on the mode chosen by the player before the start of the game.
+    - Another game where you lose by running out of bullets
+    - This game is made by Konami...Op Wolf was made by Taito so it seems like Nintendo could’ve played a role in the release of these games next to each other to revitalize Zapper interest?
+  - Racing levels
+    - launch grenades at airborne enemy vehicles and shoot at other cars m
+    - Get to the finish before time runs out
+      - But really might just be that you run out of gas?
+    - One hit kills
+- Thoughts
+  - Dying results in the loss of your weapon and bulletproof vest, if you have either or both. This also counts in levels where they have no effect
+  - Gordon’s laugh in the cutscenes
+  - Avoiding damage during the light gun boss fight directly before Gordon's manor is impossible. If you reach the machine gunman and his knife throwing partner without enough health to weather the former's assault, you're already dead.
+- Practice Mode
+  - In addition to the main game mode, there's also a practice mode featuring shorter versions of select stages in order to help players familiarize themselves with the controls for each gameplay style. Completing a practice stage will award the player with a power-up that can be used in the main game.
+- Sequels and Spinoffs
+  - Famicom game Mad City
+    - The NES version is harder than the Famicom version; enemies in the beat-'em-up stages are more aggressive and have more health, the player starts the shooting stages with less ammunition, and the driving stages have narrower roads.
+    - The Famicom version has four possible endings, whereas the NES version only has one.
+      - The normal ending
+      - The ending that only once the game is over informs you that you CHEATED by using the power ups and refuses to show the ending
+      - After beating the last boss, Annabelle comes out of a door and walks over to you. In Mad City, you can move around during this. If you stay away from her long enough, you'll get an alternate ending where Annabelle decides that Billy no longer wants her.
+      - If you hold up+Select during the ending they change Japanese dialects in the middle of the cutscene and Billy asks Anabelle for a kiss to which she implies the player is watching.
+  - Archie Comics published a comic book series based on The Adventures of Bayou Billy
+  - Captain N: The Game Master, where Bayou Billy appears in an episode titled "How's Bayou"
+    - Playing on the difficulty of its real world counterpart, Bayou Billy was said to be the one game even Captain N was unable to conquer yet.
+    - Mother Brain had Dr. Wily build a robot cat to have Duke lead Captain N to Bayou Billy's world. Captain N ended up meeting Bayou Billy where he learned some tricks from him.
+- EGL
+- Next week -

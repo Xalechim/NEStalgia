@@ -1,0 +1,68 @@
+# 115 - Golgo 13: Top Secret Episode
+
+- ONLY YOU CAN HELP HIM SAVE THE WORLD
+- Introductions
+  - See what I was saying Sean about the back of boxes being more demanding than Galaga’s weak IT’S ONLY A VIDEO GAME.
+- Overview
+  - based on the popular manga  (That no one in the US probably read at the time), the player takes on the role of Golgo 13 (also known as Duke Togo), an assassin whose objective is to destroy the leader of the Drek group.
+  - Golgo 13 is like the 007 codename
+    - The name "Golgo 13" is a reference to the death of Jesus Christ. Golgo is short for Golgotha, the place of Jesus' crucifixion, while the number 13 is considered an unlucky number.[4] Also, Golgo 13's logo is a skeleton wearing a crown of thorns.
+  - The game contains both side-scrolling Action elements and first-person shooter segments. A large portion of the game involves First Person Mazes that you must navigate through.
+- Gameplay
+  - Great intro!
+    - Love the bullet at the start
+    - Feels very cinematic
+  - Side-Scrolling Action first
+    - Very jank
+      - Enemies who crouch are untouchable. Need to perfectly dodge all of their bullets before they shoot.
+      - Bare-bones
+        - One enemy at a time
+        - Little interaction
+        - The guys who give you “clues” are identical to the bad guys?
+        - The only reward of these level layouts is because the levels are so long when you actually travel to a new country it feels nice to see that scenery.
+      - What’s going on with the motorcycle enemies?
+      - Cutscenes don’t really enhance the gameplay
+  - FPS portion?
+    - Weird intro to start. Feels like you’ve died
+    - Tough using the D-Pad to lock onto enemy helicopters
+    - Would’ve been the perfect Zapper Companion
+  - Act 2 - SHMUP time
+    - Again everything is very bare
+      - It gives you enough time to deal with each enemy so you don’t have to fight others at once
+    - But when enemies do come on, they are lightning fast for the most part and hard to tackle
+    - At the end of Act 2 SHMUP you’re given a choice to Approach, Close Up, or Snipe the enemy. Pretty cool that they mean something
+  - Cutscenes
+    - Very advanced (great spritework, dialogue box, prompts player for next box)
+    - The waves crashing in the ocean sound at the beginning of the game
+    - There’s a cutscene in Act 2 that implies sex and even refills your health.
+  - Act 3 - Scuba time
+    - Still jank but more interesting than anything else so far.
+      - Multiple enemies.
+      - Different layouts of the ocean floor.
+      - Caves to explore
+      - But it feels like you’re going nowhere and easy to get lost
+  - Act 3 - Mazes
+    - Where the heck did this come from?
+    - Usually by this time we have seen most of what a game has to offer, but now we’re being given an entirely new First Person maze compound ala Goonies II that requires a lot of guesswork and using grenades to blow up walls
+  - Act 4 - The game goes camp
+    - You traveled to Greece. Killed a bunch of people near the Parthenon
+    - AND NOW, at The Theatre of Dionysus you kill an armed woman and several men with rocket launchers
+    - I know its the theatre because it forces you to know this when you walk by these things. You’ll be in the middle of fighting enemies and it will pop up REMAINS OF POSEIDON
+  - That loop continues for about another solid 2-3 hours
+    - The end continues the camp. A giant robot is behind it all and you have to do a giant FPS section taking down all of his parts
+    - The credits give fake actor names to everyone
+    - The credits give Special Thanks to The Children and The Lost Generation
+  - Joe is this your moment for the greatest Pause of all time?
+    - I thought I reset the game
+- Spinoffs
+  - The Golgo 13 manga first came out
+  - The Mafat Conspiracy
+    - Sequel that comes to the NES in 1990
+  - A live action film came out in 1973 and 1977
+  - And two anime films exist
+    - The Professional (‘83)
+    - Queen Bee (‘98)
+- EGL
+  - Paper
+  - Dialogue
+  - I didn’t really like any of it

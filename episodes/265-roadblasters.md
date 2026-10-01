@@ -1,0 +1,25 @@
+# 265 - Roadblasters
+
+- High Speed Action Direct from the Arcade Smash!
+- NES Longplay
+- Introductions
+  - Been a minute since we’ve had a racing game where you drive on a road and shoot enemy cars while navigating twisty turns
+- Overview
+  - Navigate an armed sports car through 50 different rally races, blowing up enemy cars and getting to the finish line before running out of fuel.
+- Gameplay
+  - What’s different here than Spy Hunter, Mach Rider or Bump N Jump
+    - Score Multiplier
+    - Control of the car (more accessible turning?)
+    - Plane drops a special ability onto the track
+      - I thought this was a bad guy at first and was avoiding it. Read your manuals kids
+- A promotional giveaway was accessible on the original arcade version, where players could send in their name and "personalized secret code" after completing rally 50 and receive a free RoadBlasters T-shirt. The promotion ended August 31, 1987.
+- This is the game that created the evil villain Turbo (from Wreck it Ralph) in the movie, turbo’s game is deemed old once Roadblasters gets put into the arcade. So he travels to the roadblasters game via the surge protector they are both plugged into and then proceeds to crash into the Roadblaster car. Causing both games to be shut off.
+- Sequels and Spinoffs
+  - None
+- EGL
+- Next week - Rock 'n' Ball
+- NEStalgia Byte - Captain Tsubasa II: Super Striker
+- 1. UZ Cannon   - Rapid fire gun, doesn't affect multiplier, lasts a while
+- 2. Nitro Inject   - Very high speed for a short time, 3 uses
+- 3. Cruise Missile - Destroy everything on screen (good and bad), 3 uses
+- 4. Electro Shield - Makes the car invincible for about 5 seconds, 3 uses

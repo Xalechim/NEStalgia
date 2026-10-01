@@ -1,0 +1,27 @@
+# 148 - Platoon
+
+- Are you ready for the real thing?
+- Introductions
+  - War games
+  - This also had a movie
+- Gameplay
+  - The Morale Bar
+  - aiming controls
+  - Objectives
+    - STAGE 1 - The goal of the first stage is to find the explosives buried deep within the jungle and then navigate out and plant the explosives on the bridge
+      - Enemies spawn and don’t care. You have to be incredibly careful...but they don’t?
+      - Why would trees block the path forward?
+      - Trip-wires are a cool touch
+    - STAGE 2 - the player is now in a tunnel system and the point of view has changed to a first-person shooter
+      - The player must navigate through the tunnel system and collect flares and a compass along the way.
+      - THE SIDE BY SIDE WITH MAP IS GREAT
+      - THE ACTUAL FPS MODE SUCKS
+    - STAGE 3 - the player is stuck in a bunker overnight that is under constant siege by enemy AI.
+    - STAGE 4 - The player has 4 minutes to complete this level and must navigate through the jungle while killing enemies as well as avoiding sniper fire.
+      - The compass obtained in the tunnel system is used here to help the player navigate through the jungle.
+      - At the end of the jungle is the game's boss, Sergeant Barnes, who is held up in a brick bunker and shooting at the player. The player must be able to land five grenade shots to defeat Sergeant Barnes.
+- Sequels and Spinoffs
+  - Platoon: The 1st Airborne Cavalry Division in Vietnam
+    - 2002 RTS game
+- EGL
+- Next week - Rampage

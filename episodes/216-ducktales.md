@@ -1,0 +1,33 @@
+# 216 - DuckTales
+
+- A long time ago in a faraway land there lived a lovely young princess named Margarita
+- NES Longplay
+- Introductions
+  - The TV Show
+  - I just missed this so I was actually surprised to learn there were so many ducks other than Donald. But I have a large collection of Scrooge McDuck Dell Comics from the 1960s
+- Overview
+  - Players control Scrooge McDuck as he travels around the world and outer space in search of five treasures to further increase his fortune, outwitting his rival Flintheart Glomgold to become the world's richest duck.
+- Gameplay
+  - Capcom’s Mega Man team bringing the Mega Man level select approach
+  - The path and then there’s the money path. Fun secrets, don’t need to explore everything
+    - So why a timer? It doesn’t make any sense. You may remember in an alternate universe we complained about Sonic the Hedgehog for the same reasons
+  - Playing as Scrooge
+    - Similarities to Mega Man again
+    - Pogo Stick could’ve used a little work
+  - Your money counter - I love that it’s ridiculous
+  - Level themes - Enemies / Boss Fights
+- Sequels and Spinoffs
+  - Game Boy port of Ducktales
+  - We will play Ducktales 2 (a very expensive NES game)
+  - An HD remake was released as DuckTales: Remastered for PSN, Xbox Live Arcade, Wii U, and Steam in summer of 2013. The remake includes modified original levels, additional new levels, and animated cutscenes with voice acting.
+  - The original 8-bit version of the game was also included in The Disney Afternoon Collection compilation for PC, PlayStation 4, and Xbox One.
+- EGL
+- NEStalgia Byte - Antarctic Adventure
+- Next week - Fester’s Quest.
+- What we been playing
+- Fire Emblem: Shadow Dragon
+- Hacked my 3DS so I wanted to play some DS games I missed. I love FE games so I thought I’d give the remake of the original a go
+- Games where the story continues but the
+- Bowsers Inside Story
+- Guardians of the Galaxy
+- Mario Kart 8 Deluxe Course

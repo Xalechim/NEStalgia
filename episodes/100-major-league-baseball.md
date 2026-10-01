@@ -1,0 +1,30 @@
+# 100 - Major League Baseball
+
+- Back of the Box
+- Manual
+- Introductions
+- 100th episode stats
+- Actual Franchises
+  - The colors of each team resemble the true colors of the team's uniforms.
+- Gameplay
+  - Team Select
+    - One wrong button and you’re back to the beginning
+    - Lots of choices to make when building the lineup
+  - Stadium
+    - 1 billion flies and strobe lights and some whistles
+  - Batting
+    - You can move around
+    - You can bunt or fake
+    - Also allowed to have runners on base steal
+    - If you hit a homerun they keep on running
+  - Pitching
+    - A pitcher's staying power is directly related to the speed at which he throws and the number of specialty pitches he uses.
+    - Control the speed
+    - Control direction
+  - Fielding
+    - What a concept
+    - Throw to the base or hold B to tag
+  - The umpires change appearance to represent the call on the field.  One or two hands may be raised or stretched out.
+  - Extra Innings are possible
+- exhausts all of its pitchers.  This is the only way to complete a game without completing all nine innings.  Get the computer to say Mercy as it scrambles to find a pitcher only to realize that it will not let itself.
+- EGL

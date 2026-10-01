@@ -1,0 +1,39 @@
+# 217 - Fester's Quest
+
+- It’s just a kidnapping. Of an Entire City. By an Alien UFO. Will Fester sit still for this?
+- NES Longplay
+- Introductions
+  - They seem to be aware of the lunacy in this game
+  - The Addams Family
+  - I thought Scrooge was weird last week, but this is truly strange
+- We need to talk about the experience that is the start of this game
+- Overview
+  - In this Run N’ Gun Adventure game, the entire city has been abducted by UFO’s now as Uncle Fester you must traverse through the neighborhood to try to track down the aliens UFO.
+- Gameplay
+  - Feeble Fester
+    - A gun that isn’t too powerful (later on a whip)
+      - The North American release has a bug that makes Fester's bullets collide with walls and objects, making it more difficult to hit enemies compared to the European release
+    - Only two bars of health
+    - Slow walking
+  - It doesn’t bode well when a game’s primary strategy at the beginning of the game is grinding to the point where your character can fight the starting enemies.
+    - Imagine if Dragon Warrior started and the slimes were incredibly powerful and you were lucky to make it out of each encounter.
+    - Just make Fester stronger or the enemies weaker. If I think the game is unbalanced 2 minutes into it, I’m not having a good time
+      - THE LET’S PLAY I was watching even had the guy die in the first few minutes.
+  - Figuring out where to go and what to do
+    - at the beginning of the game, you simply walk back and forth while killing enemies to build up a stockade of items and such.  This allows you to get a good weapon early on, as well as providing you with the necessary funds and items for future usage.  The games' enemies get more and more difficult, so it's not as easy to take them down as the game progresses.
+    - It’s not too complicated, but I do question the HOA society that the Addams family participates in. The layout of the neighborhood is very strange and the Adams family kids seem to be living in all separate houses? Also the shadows of the houses look like pitfalls.
+  - 3D mode of play akin to a dungeon crawl. Five of these buildings each house an enormous Alien Boss character, which upon defeat will supply Fester with a puzzle piece and a picture of the alien's UFO
+    - These boss fights are very horrific. The little Uncle Fester going up against these demons. It reminds me of Super Mario RPG’s secret boss being this Final Fantasy style god and Mario is just jumping on his head.
+  - Along the way, Fester encounters other members of the Addams Family in seven houses (plus the Addams mansion via a secret path through the trees behind the mansion): Thing (three times), Wednesday, Gomez, Morticia, Grandmama, and Pugsley, all of whom help him by giving him different weapons and items. Use of one particular item, the Noose, will summon Lurch to destroy all enemies on the screen.
+  - These are the people who made Blaster Master (Sunsoft)
+- Dying
+  - You get one life, and infinite continues, yet the continue feature is essentially useless, because it starts you all the way back at the beginning of the game, even if you died at the final boss. To make matters worse, whereas defeating any boss will replenish your stock of consumable items, the bosses that you've already beaten before don't respawn when you continue, and so you don't get any of your item uses refilled from them. Thus, if you've already defeated all of the bosses except for the last one, then you're actually at a disadvantage when continuing, unless you're able to walk all the way back to pretty much just before the final area of the game without being hit and/or consuming any of your items.
+- Sequels and Spinoffs
+  - Addam’s Family - 1992 Platformer game based on the movie. Came out on SNES and Genesis
+  - The Addams Family: Pugsley's Scavenger Hunt - Will come to the NES in 1993. Based on the second animated series.
+  - Addams Family Values is a 1995 SNES/Genesis Action RPG based on the film of the same name
+  - The New Addams Family Series is an adventure video game released for Nintendo's Game Boy Color in 2001 based on the TV series of the same name
+    - control both Pugsley and Wednesday Addams, and must navigate the house, collecting items, solving puzzles and conversing with other members of the family.
+- EGL
+- NEStalgia Byte - Dig Dug
+- Next week - Hollywood Squares

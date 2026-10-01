@@ -1,0 +1,54 @@
+# 103 - Double Dragon
+
+- Back of the Box
+- Manual
+- Introductions
+- The game is a spiritual and technological successor to Technos' earlier beat 'em up Renegade
+- Overview
+  - Side-Scrolling Beat Em Up, where you attack enemies on screen with punches and kicks.
+- Gameplay
+  - Attacking
+    - Punches, Kicks
+    - Objects
+    - Leveling Up
+  - Progression
+    - The Timer
+  - Boss Battles
+  - Final Boss
+    - Willy
+    - ACTUALLY ITS YOUR BROTHER JIMMY
+      - Whether this is meant to indicate that Jimmy is the leader of the Black Warriors, or it is simply Techno's way of providing the final climactic battle from a two-player arcade game that is otherwise impossible in the NES version is open to interpretation.
+      - If you die, you will return to fight Jimmy. You'll return, that is, as long as you have another life available.
+  - Due to technical limitations of the NES that were not worked around, the game can only generate two enemies on-screen to confront the player and both enemies are the same character.
+  - The omission of the arcade's two players cooperative game mode
+  - "Mode B"
+    - 1 or 2 players can engage in a 1-on-1 fighting match with six of the game's characters using graphics more faithful to the arcade.
+- Developer Interview - Yoshi-he-sa Kishi-moto
+  - A self-proclaimed rebellious youth, Kishimoto says he got into fights in school on a daily basis. Which, he explains in retrospect, was partially the result of a rough break-up. "There were family reasons as well, but there was a girl and she dumped me, which pulled the trigger," he says.
+- Sequels and Spinoffs
+  - TWO MORE NES DOUBLE DRAGON GAMES
+    - Double Dragon II: The Revenge
+    - Double Dragon III: The Rosetta Stone
+  - SUPER DOUBLE DRAGON
+    - SNES - the player now has a guard button for blocking attacks.
+  - Double Dragon V: The Shadow Falls
+    - SNES - a head-to-head fighting game based on the Double Dragon animated series in the style of Capcom's 1991 arcade-hit Street Fighter II
+  - Double Dragon NEO GEO
+    - Head to Head fighter based on the movie. It was Technōs Japan's last Double Dragon game before the company went out of business, and the fourth and final Double Dragon game released in arcades.
+  - Double Dragon NEON
+    - 360/PS3 - Reboot of the series by Arc System Works
+  - Double Dragon IV
+    - PS4/Switch - It takes place shortly after Double Dragon II: The Revenge and uses an 8-bit artstyle
+  - THAT IS NOT EVERY GAME, BUT IT IS ENOUGH FOR NOW
+  - Double Dragon: The Board Game
+    - The winner is the first player to successfully fight his or her way around the game board to Jimmy's Hideout to rescue Marian. You will pass through the slum section, the industrial section, the forest section and the hideout section on the rocky road to victory.
+  - Double Dragon Comics
+    - portray the dragons not as skilled martial artists and bad asses, but as generic superheroes who get their powers from some sort of artifact, which in this case is a statue.
+    - STAN LEE is their father in this comic series
+  - Double Dragon Cartoon
+    - The premise of the show is that the protagonist brothers are separated at birth. Billy is raised by an elderly martial arts master known as the Oldest Dragon, and his brother Jimmy is raised by the evil Shadow Master as his second-in-command, the Shadow Boss. As a result, the Lee brothers oppose each other as adults; but when Jimmy is betrayed by the Shadow Master, he renounces his evil ways and joins his brother as a Dragon Warrior. During the course of the series, the brothers recruit allies in their war against the Shadow Master and his henchmen. The futile search for their father, John Lee, is a subplot throughout the series.
+  - Double Dragon Movie
+    - The movie's plot primarily concerns Shuko doing all he can to acquire the Double Dragon. While he has one half, the Lees have the other.
+- EGL
+- 19:40 Sean resets
+- 36:35 Sean Coughs

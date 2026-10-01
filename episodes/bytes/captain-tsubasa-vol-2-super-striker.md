@@ -1,0 +1,28 @@
+# Captain Tsubasa Vol 2: Super Striker
+
+- Mebasa, Tsubasa
+- NES Longplay
+- Introductions
+  - And even though that was a spanish language joke, if you say Tsubasa in japanese it kinda sounds like superstar. I found that neat.
+  - Speaking of language - OOPS can’t play this one without some japanese. Mostly to experience the story, technically you can make graphical inferences on what your inputs do in the menus.
+- Overview
+  - a Japanese manga series written and illustrated by Yōichi Takahashi. Starting in 1981 the series is still around today in many different mediums.
+  - Tsubasa is known as the "heaven-sent child of football". ORIGIN STORY - When he was only barely a year old, he was almost run over by a rushing bus while playing with a ball. However, Tsubasa held the ball in front of him which served as a cushion for most of the impact. The force of the bump blew him away, but he was able to right himself with the ball.
+  - This isn’t DBZ soccer, but in typical manga/anime tradition there is flair to all the moves they pull off in a soccer match.
+- Gameplay
+  - A presentation like no one here was expecting I bet. Rather than playing top down soccer like we’ve seen with most sports game on the NES. The screen splits between a view of a front facing camera tracking you and then a map of the soccer field showing where all the players are
+    - Is the information communicated well?
+  - It’s soccer, but with a GUTS meter to perform awesome tricks
+  - There are different types of soccer moves that the player may choose, which consume the player's "guts" (energy).
+    - The player can choose to tackle, dribble, shoot, intercept, block or simply do nothing.
+    - Additional moves are possible depending on the position of the ball.
+      - When the ball is low, the player can do a volley shot, trap the ball, or clear.
+      - When the ball is high the player can choose to shoot with a header (or a bicycle kick with selected players), trap the ball, or clear.
+  - Story Mode
+    - Setting up your field position, meeting with the team, password.
+    - Team strats
+      - Formation and Defense changes
+      - Roster, levels, special moves
+- Sequels and Spinoffs
+  - The very first Cap game we will actually play on the main show as Tecmo Cup Soccer Game. With a title like that how could it be anything but generic?
+- NEStalgia Byte - Chaos World (we’ve been to devil world, now it’s time for chaos world, and then searing gas pain world)

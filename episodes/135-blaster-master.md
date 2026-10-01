@@ -1,0 +1,50 @@
+# 135 - Blaster Master
+
+- Mega Graphics! Mega Action!
+- Introductions
+  - Blaster Master - are you not expecting a shmup?
+  - What even is the boxart?
+- Overview
+  - A side-scrolling Run and Gun in which you traverse the world in your tank and as the main character. As you explore the world you find many power ups and upgrades that allow you to continue to make progress towards the end of the game. In some ways that makes this a metroidvania
+- Story
+  - ENGLISH
+    - The game starts with a person named Jason who has a pet frog named Fred who, one day, decides to leap out of his fish bowl, out the door, and down a hole in the backyard. Fred then touches a radioactive chest, and he grows to an enormous size; Fred and the chest then fall deeper into the hole in the earth.[4] Jason chases Fred down the hole, which leads to a large cavern.[4][5] While most sources say that Jason chased Fred down the hole, the game's instruction manual says that Jason fell into the hole while trying to reach for Fred.[4] There, he finds an armored tank named SOPHIA THE 3RD – a vehicle designed to battle radioactive mutants that live inside the earth.[4][5] Jason mounts SOPHIA to find the whereabouts of Fred and to destroy the mutants and their leader – the Plutonium Boss.
+  - JAPANESE
+    - The game takes place on the planet Sophia the 3rd, located near the center of the Epsilon Galaxy, in which an advanced civilization flourished. In the year 2052 of the space age calendar, the Invem Dark Star Army, led by the universe's most feared tyrant Goez, invade and conquer Sophia the 3rd. The Science Academy of NORA, a satellite orbiting near Sophia the 3rd that somehow managed to avoid the invasion, built a weapon, an all-purpose tank called the "Metal Attacker", in a last-ditch effort to defeat Goez's army. A young soldier named Kane Gardner is chosen as the pilot of this weapon. The game's opening sequence shows Metal Attacker dropped into the battlefield.
+- Gameplay
+  - THE START OF THIS GAME
+  - Inside the tank
+  - Outside the tank
+    - Top Down Perspective
+  - Exploration/Progression
+  - Power-Ups
+  - Boss Fights
+    - Drop one grenade on the boss so that it flashes, indicating damage. Then pause the game. While the game is paused, the boss will accumulate damage. Wait at least 30 seconds to be sure that the boss has taken enough damage before unpausing the game, and the boss will be defeated. Be careful, this same pause trick works on Jason as well, leading to a quick death. Make sure you're not being injured when you pause the game!
+  - Lack of a Map
+  - You have to complete in one sitting
+- Development
+  - Created by Kenji Sada
+    - The Wing of Madoola
+      - The player must progress through 16 stages, collecting items which increase the main character Lucia's power, and defeat the boss of each stage in order to gain entrance to the next stage.
+    - He created the top-down portions to allow Jason to shoot in all directions and to enable the team to "express large bosses that really had an impact".
+  - Yoshiaki Iwata - Art Designer
+    - "the goal was really to try to pull off the best graphics on the NES to date. Simple graphics were more or less the standard on the NES at the time but I had this firm belief that it was possible to do something better, something prettier. I feel like we pulled it off and were able to show people what could be done [on the NES]. It left an impression around the office, and from what I've heard [the visuals] influenced the work of other games that were later made by other NES developers as well."
+    - We also didn’t want to make a game where the player just proceeds forward.  We wanted the player to experience the feeling of excitement that comes from discovering something after endeavoring through a difficult search, which is why we composed a map that allowed the player to move freely between different areas.  We really put a great deal of thought into that element of the game design and, I mean this in the best possible way, but we wanted the player to have to struggle.
+- Sequels and Spinoffs
+  - No sequel was originally planned due to the game's poor sales, BUT that changed when the NA release sold really well
+  - Blaster Master 2 - Genesis only in North America 1993
+    - There are now 8 levels to play through, and each level containing a power-up or new obtainable weapon in which Jason or SOPHIA can use throughout the game.
+  - Blaster Master Jr. or Boy - GameBoy 1992
+    - No Sophia this time
+  - Blaster Master: Enemy Below - GameBoy Color 2000
+    - Plays a lot like the NES game
+  - Blaster Master: Blasting Again - PSX 2001
+    - third-person 3D platformer
+  - Blaster Master: Overdrive - Wii 2010
+    - NES games becoming ugly 2.5d games
+  - On April Fools' Day on April 1, 2010, Sunsoft announced that a sequel to the game would be released on the Virtual Console titled Blaster Master: Destination Fred.
+  - Blaster Master Zero and Blaster Master Zero 2 - On Switch
+  - Scholastic Books published a novelization of Blaster Master, written by Peter Lerangis under the pen name "A.L. Singer".
+    - As with the other books in the series, all acts of violence portrayed in the games, including any death scenes, were removed. As a result, the bosses were portrayed in the book as "holographic projections placed over formless blobs."
+- EGL
+- Next week - Bubble Bobble

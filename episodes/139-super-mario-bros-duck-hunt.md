@@ -1,0 +1,32 @@
+# 139 - Super Mario Bros / Duck Hunt
+
+- TAKE AIM, FIRE, AND SAVE THE MUSHROOM PRINCESS?
+- Introductionmmms
+  - Let’s talk about if these games were combined
+- How do you feel about these games?
+  - SMB is different enough from SMB 2
+  - Duck Hunt really is a novelty. It doesn’t seem to be part of the NES vision anymore
+    - There was a time this was an entertainment center pitch. Now it’s obvious that it’s just for video games. Kinda like the Wii. It started with bowling and golf games. Then as the years went on things like Wii Fit were the oddities and video games like Galaxy were the norm.
+- Is this the ultimate deal?
+  - Don’t forget about the 52-in-1
+- SUPER MARIO BROS. 2 (FOR REAL)
+  - Does not have two-player mode in the game. Mario or Luigi has to be played alone. Mario retains the same abilities as Super Mario Bros., but Luigi returns with the ability to jump higher than Mario can. But this decision was made before SMB USA
+  - An abundance of hidden blocks, enemies, short platforms, pits
+    - World 2-2
+  - New Game Features
+  - World 9
+    - Playing through the game without warping forward takes the player to the Fantasy World.
+  - Worlds A-D
+    - Completing the game eight times also unlocks Worlds A-D, with Princess Peach waiting to be rescued from a fake Bowser
+- Development
+  - “As I continued to play, I found that Super Mario Bros. 2 asked me again and again to take a leap of faith and that each of those leaps resulted in my immediate death. This was not a fun game to play. It was punishment. Undeserved punishment. I put down my controller astonished that Mr. Miyamoto has chosen to design such a painful game.” - HOWARD PHILLIPS
+  - Tezuka felt that Japanese players had mastered the original game, and so needed a more challenging sequel
+  - Miyamoto said they just had so many ideas leftover from 1 they had to make 2
+- Sequels and Spin-offs
+  - All stars and Deluxe
+    - You can save
+    - In deluxe you need 300k points to unlock SMB for Super players
+  - It did come to Wii Virtual Console
+- There’s also this game called VS Super Mario Bros. that is different and we have to play that sometime as well.
+- EGL - This is a less special version of SMB 1. If this came first SMB wouldn’t have been as big a hit. Still revolutionary for its time, but it would have set bad design precedents for the industry.
+- Next week -

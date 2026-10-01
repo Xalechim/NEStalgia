@@ -1,0 +1,33 @@
+# 184 - Airwolf
+
+- It takes more than guts
+- NES Longplay
+- Introductions
+  - Based on the TV Show that I’ve never heard of. Knight Rider but in the air? Well it didn’t talk
+    - Spy show mostly with cold war themes.
+    - Amazing Synth score...which apparently wasn’t always there
+    - The helicopter scenes look great
+- Gameplay
+  - The game places the player in the cockpit of the Airwolf helicopter attempting to shoot down enemy aircraft and rescue prisoners.
+  - Fighting off the enemy aircrafts
+    - A helicopter taking down fighter jets?
+    - Taking down the bases
+  - Perspective/flight controls
+    - Now remember I said the helicopter shots in the show were awesome...so why hide it behind a first person view?
+  - Navigation
+    - The amount of enemy aircrafts missiles being launched at you makes it hard to move around the field
+  - Rescuing prisoners
+    - Landing as an objective seems very strange
+  - Those extreme headshots during the story bits
+- Thoughts
+  - Could they have done more to put emphasis on this being a helicopter? I don’t feel like I’m controlling a helicopter
+  - Thirty missions but besides layouts its the same thing over and over again. I’m glad developers have learned a lot from this
+- Sequels and Spinoffs
+  - Airwolf Arcade
+    - A lot like Tiger-Heli. Probably for the best this didn’t come to the NES since they are so similar.
+  - Airwolf II
+    - Only for Amstrad CPC. I’m shocked that they would call this the sequel. It looks like a downgrade in every possible expectation.
+  - Super Airwolf / Cross Fire
+    - Only called Super Airwolf in Japan. A pretty basic shmup that then becomes an ikari warriors type game. Cool synth soundtrack faithful to the show though
+- EGL
+- Next week -

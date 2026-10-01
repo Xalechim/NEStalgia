@@ -1,0 +1,40 @@
+# 259 - Infiltrator
+
+- Good Luck McGibbits - The fate of the world is in your hands
+- NES Longplay
+- Introductions
+  - As the manual states this is a TOP, TOP, TOP, TOP SECRET MISSION
+  - Johnny "Jimbo Baby" McGibbits
+    - We made fun of Clash at Demonhead’s Engine of Destruction but this takes the cake
+- Overview
+  - Infiltrator is divided into six missions: three helicopter flying missions, and three ground-based missions. Infiltrate enemy bases and take down their leader.
+- Gameplay
+  - Learning to Fly the Helicopter
+    - WARNING LIGHTS
+- Oil temperature will rise rapidly when in whisper
+- mode or when using the turbo engines.  Excessive oil heat will trigger the
+- warning light and eventually result in permanent engine damage.
+    - GAUGES
+      - Battery Gauge - Once you exceed 400 KPH (normal) or 800 KPH (turbo),this gauge will begin moving to the right as the battery slowly heats up.  Excessive heat will trigger the battery warning light and eventually cause engine damage.
+    - The ADF (Automatic Direction Finder)
+      - You have to set the ADF and then follow it. This isn’t auto pilot
+    - Radio
+      - The espionage portion. ID other aircrafts to determine friend/foe and perhaps trick foes.
+  - Thinking about the game they are offering here, Did it need to be this immersive?
+  - ID Codes are broken on replays. No way to know at first and then no way not to know in the future. There’s only like 12 ID codes.
+  - Helicopter Missions
+    - the goal is to take off in the helicopter, program the ADF (Automatic Direction Finder) to set the correct course, maneuver the helicopter to the landing area while hailing nearby planes to determine if they are friend or foe and engaging in firefights if the player responds incorrectly, and finally land the helicopter safely without detection through use of whisper mode. Their helicopter is equipped with missiles, guns, chaffs, flares, Radio Communications, a Status terminal, a Turbo engine and a whisper mode.
+  - Ground Missions
+    - The player has access to five different items in their inventory. The papers are used to trick the enemy into thinking that they are part of the mad leader's forces. If the guards get suspicious the player must use their gas canister or gas grenades to knock them out. The mine detector is used to discover buried mines while walking about. Finally, the explosives are used in the final ground mission to destroy the mad leader's base.
+    - The player's goal in each mission is to find a security card hidden in a cabinet in one of several multi-room buildings. Once located, the card will open up the locked security doors protecting the goal for each mission. In the second mission, the player must find the four chemical containers and take them to the lab for analysis to determine which is the nerve gas neutralizer, and then find the vat of nerve gas to neutralize it. In the fourth mission, the player must find and rescue Dr. Phineas Gump, a scientist who has been captured by the mad leader. The player must feed him the invisibility pill to make their escape. In the sixth mission, the player must find all seven of the mad leader's missile control rooms and plant explosives in them, then escape before the 10-minute timer (which lasts for 20 minutes of actual time) counts down to zero.
+    - After completing the ground mission, the player must return to the helicopter and fly back to home base. The return flight is much shorter with fewer enemy planes than the missions to get to the enemy base. Once the player completes a mission, they are given a four letter passcode, so that they can return to the same mission during subsequent plays.
+    - time limit
+  - I understand the time limit from an espionage standpoint, I don’t understand the lack of clues and briefing that would be required to do this right. The game wants you to learn from your past playthroughs, but that’s simulating a SPY with the ability to hit a reset button, not some Solid Snake type character
+- Computer Gaming World awarded Infiltrator II zero stars and described it as "Even worse than the original".
+- The game was novelized by Peter Lerangis, as part of the Worlds of Power series published by Scholastic Books
+- Sequels and Spinoffs
+  - Infiltrator was followed by a sequel, Infiltrator II: The Next Day
+  - Because the original was never released on the NES, the sequel was released as "Infiltrator" on that platform.
+- EGL
+- Next week - The Magic of Scheherazade
+- NEStalgia Byte - Bio Miracle

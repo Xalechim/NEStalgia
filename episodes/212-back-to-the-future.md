@@ -1,0 +1,40 @@
+# 212 - Back to the Future
+
+- Help Marty McFly fix the past to save the future
+- NES Longplay
+- Introductions
+  - One of the most fun movies of all time.
+    - The classic chase scene between Marty and the killer bees
+    - The looney tunes hijinx when Marty threw a bowling bowl at that girl with the hula hoop
+    - Or when Marty fought off 100 thugs at a diner
+- Overview
+  - The player controls Marty McFly through various stages set in 1955 in which he collects various clock icons in order to advance to the next level
+- Gameplay
+  - The idea of Buying time wasn’t a theme in the movie.
+  - Two power-ups can help improve Marty's control
+    - bowling balls that can destroy enemies
+    - and a skateboard which can speed up gameplay.
+  - The “Bonus Games”
+    - Marty repelling Biff Tannen's gang of bullies from a cafe
+    - blocking all the kisses Lorraine sends Marty (in the shape of little hearts)
+      - Ah, I can’t get kissed by my mom
+      - She is shooting her love rapidly and in constant zig zags
+      - Why does this look just like the diner?
+    - and having to position his guitar properly to stay in tune at the dance in order for George and Lorraine to kiss.
+      - The music coming to the guitar instead of out of it
+      - The guitar is like a net and you have to catch the notes
+  - In the final stage, Marty gets to control the DeLorean time machine on the street at night, dodging lightning bolts and obstacles while accelerating in such a way as to reach 88 miles per hour (142 km/h) precisely at the end of the stage, enabling the time machine to bring Marty home to 1985.
+    - Thankfully you can’t exceed 88mph and it’s actually a pretty short stage
+- Music
+  - The game only contains two songs from the film. One is a sped up version of "The Power of Love" which plays throughout most of the game; the other is "Johnny B. Goode," which plays in the guitar level.
+- "Tough luck Marty! It looks like you are stuck here."
+- Who got it worse? BttF or Ghostbusters?
+- Sequels and Spinoffs
+  - 3 Back to the Future games before this that all actually look more jank
+  - We will play BttF Part 2 and 3 on the NES as well but only as one game
+  - Deep Cut - Universal Studios Theme Parks Adventure
+    - a game where you explore the theme park and go on the rides. The BttF ride was a very interesting fun arcade adaptation on the GameCube
+  - The most recent adaptation - Back to the Future The Game. A Telltale game
+- EGL
+- NEStalgia Byte - Exerion and Formation Z
+- Next week - Back to the Future

@@ -1,0 +1,31 @@
+# 196 - Track and Field II
+
+- FORGET THE GOLD, AND GO FOR THE ENDORSEMENT BUCKS
+- NES Longplay
+- Introductions
+  - I genuinely have no idea what that back of the box was supposed to mean. Now I’m interested in a game where you play as an athlete who’s main objective is tom make money at any cost.
+- Gameplay
+  - What’s new?
+    - Choosing a country for the player to represent
+    - The power meter?
+      - Build up by rapid pressing A
+  - Fencing
+  - Triple jump
+  - Freestyle Swimming
+  - High Dive
+  - Clay Pigeon Shooting
+  - Hammer throw
+  - Taekwondo
+    - First year for the olympic sport
+  - Pole vault
+  - Canoeing
+  - Archery
+  - Hurdles
+  - Horizontal Bar
+  - Hang Gliding (bonus event)
+  - Arm wrestling in Versus Mode only (in Exhibition against a computer in the Japanese version)
+  - Gun Firing (bonus event; not available in the Japanese version)
+    - played with either the NES Controller or the NES Zapper.
+- Sequels and Spinoffs
+- EGL
+- Next week - TMNT

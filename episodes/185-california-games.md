@@ -1,0 +1,30 @@
+# 185 - California Games
+
+- Now the summer will surely last forever
+- NES Longplay - https://www.youtube.com/watch?v=3JEAeUXg4Zo
+- Introductions
+- Gameplay
+  - Skateboarding
+    - Momementum built by pressing up and down
+    - Could only do the kick turns
+    - These GAMES always have this weird timing mechanic that doesn’t translate for me
+  - Footbag
+    - I wasn’t expecting to use my head so much
+    - Lots of moves
+  - Surfing
+    - Judges are a good feature
+  - roller skating
+    - Obstacle course. I feel like these try to show you how difficult it can be. But I don’t wanna play as a novice rollerskater.
+  - flying disc (frisbee)
+    - This was my jam, even if it was simple.
+    - Timing mechanic made it easy
+  - BMX
+- Thoughts
+  - California Games appears in the book 1001 Video Games You Must Play Before You Die by General Editor Tony Mott.
+  - With more than 300,000 copies sold in the first nine mmonths, it was the most-successful Epyx game, outselling each of the four previous and two subsequent titles in the company's "Games" series.
+  - What’s the legacy fo the EPYX GAMES series. Is it the same as every version of Madden except the current one?
+  - This should’ve taken the Skate or Die approach
+- Sequels and Spinoffs
+  - California Games II - SNES and other platforms
+- EGL
+- Next week -

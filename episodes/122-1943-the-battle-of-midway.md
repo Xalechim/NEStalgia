@@ -1,0 +1,33 @@
+# 122 - 1943: The Battle of Midway
+
+- The most crucial and decisive battle of World War II is about to be fought
+- Manual: http://www.thegameisafootarcade.com/wp-content/uploads/2017/02/1943-The-Battle-of-Midway-Game-Manual.pdf
+- Introductions
+  - If i had to describe 1942 it would be BEEP BEEP BEEP
+  - Our last Capcom game was Legendary Wings
+- Overview
+  - The Battle of Midway was fought between the Imperial Japanese Navy commanded by Isoroku Yamamoto and the United States Navy commanded by Chester W. Nimitz. This battle took place just 7 months following the Attack on Pearl Harbor on June 4th, 1942. Following the surprise attack on Pearl Harbor as well as their tactical victory at the Battle of the Coral Sea, Yamamoto firmly believed that an assault near the small island of Midway would lead to a decisive victory for Japan. This ended up being a decisive victory however not in Japan's favor.
+- Gameplay
+  - The NES version of 1943 introduced the ability to improve the player's plane by permanently upgrading certain aspects of its abilities.
+    - offensive and defensive powers, the maximum fuel level, and its special weapons and their durations.
+    - initially very few weapons are made available; more can be attained from power-ups by putting statistic points into "special weapons ability"
+    - WHAT WAS YOUR LOADOUT?
+  - Fuel Gage
+    - Was it ever really enough? I should like it, because it allows you to endure multiple hits, BUT I really hated the fuel idea. The levels are very short bursts so the idea that your plane would be out of fuel seems kinda silly. Couple that with tying it to HP and it really doesn’t work out.
+  - SHMUP Loop
+    - Power Ups - Trading off between that and fuel
+    - Enemies - Nice to have different sizes of enemy planes
+    - Design - Improved from 1942 but still generic since it’s mostly over sea.
+    - Boss Battles
+      - Giant ships with many points to target. If you don’t kill everything you have to restart that part of the boss battle.
+  - SHMUP with a Password
+    - 24 stages
+  - Improvement from 1942
+    - port was also handled by Capcom rather than Micronics, so it’s a big step above the original’s NES port
+- Sequels and Spinoffs
+  - 1943: The Battle of Midway Mark II
+    - Most of the graphics and sounds have been reworked, and the game has been made more "extreme"
+  - 1941: Counter Attack - 1990 Arcade
+  - 19XX: The War Against Destiny - 1996 Arcade (First to use CPS-2)
+  - 1944: The Loop Master - 2000 Arcade and GameTap
+- EGL

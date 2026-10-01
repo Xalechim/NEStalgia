@@ -1,0 +1,38 @@
+# 161 - Friday the 13th
+
+- It all takes place out at Crystal Lake. That pleasant little camp where happy children of all ages go to spend a fun-filled summer... but this summer will be different.
+- Introductions
+  - FRIDAY THE 12th. Couldn’t take the risk
+  - Movie Franchise
+    - Saved myself a lot of time and just read the plots on Wikipedia. It’s entertaining that way
+- Box Art
+  - LJN Rainbow, Jason bloody and with an axe, rainbow background
+- Overview
+  - In this survival horror NES game. You play  as the 6 camp counselors the goal is to find and defeat Jason Voorhees three times.
+  - And hiding in a cabin or staying adrift in a canoe won't keep you safe – Jason will find you anywhere. The only way to survive this summer is to challenge Jason face to face, and destroy him.
+- Gameplay
+  - Navigation and finding items
+    - Game tells you that you need the torch to light the fireplaces, but the lighter does that? And this isn’t some manual error, this is how the game STARTS. If you’re gonna give us one piece of info make it right!
+    - Beat the zombies to
+  - Counselor Management
+  - Is disorientation a feature?
+  - The Cave
+    - Fight Jason’s Mom and the complications involved (Day/How she is defeated)
+  - A grand design of a game
+    - The complications of Counselors, Days, Weapons, Locations is seemingly unlimited
+  - Why the other enemies - Wolves maybe, Zombies?
+    - Enemy defeat is allegedly tied to power ups you may recieve
+  - Jason
+    - 32 bars of health, we’re talking end of Kingdom Hearts games levels of health
+- Sequels and Spinoffs
+  - Friday the 13th - Commodore 64 1985
+    - Just as messy,  but not necessarily worse
+  - Mortal Kombat X - 2015
+    - Jason is playable
+  - 2017 Friday the 13th game for last gen consoles.
+    - Multiplayer is a huge focus.
+    - It does feel like the NES game planted the seed
+  - Friday the 13th: Killer Puzzle is a 2018 horror puzzle video game for iOS
+- EGL
+- Next week - Gryuss
+- https://drive.google.com/file/d/0B6rdFdrOqVTlS2hDcl9xRjJSQlk/view

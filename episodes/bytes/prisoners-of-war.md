@@ -1,0 +1,25 @@
+# Prisoners of War
+
+- EXPLOSIVE ARCADE ACTION
+- NES Longplay
+- Introductions
+  - SNK back at it again with another Arcade port. AKA their bread and butter.
+  - We’ve had a bunch of games where you rescue POWs, now you play as one!
+- Overview
+  - POW is a beat em up that takes place during the Cold War where players control POWs who break free from their cell to relentlessly fight their way into the main base of their adversaries in order to eliminate their leader and escape for their lives.
+    - Sounds pretty intense, so how IS the game from an intensity point of view? You’re alone in enemy ground, is it relentless?
+- Gameplay
+  - On NES beat em ups it’s often hard to line up attacks with enemies on the same plane, but I didn’t have that problem.
+  - The creativeness of the enemies, but a lack of behavioral changes
+    - Frogmen in stage 2 was a memorable moment
+    - Rooms and power ups
+    - PUNCH - KICK - JUMPKICK
+  - Progression - Sure it gets tougher, but does it feel like a movie experience where the stakes or action is increasing as well?
+  - Boss fights
+  - Only single player
+    - Arcade also had 3 special attacks performed by pressing two buttons simultaneously: a jump kick (jump, and then kick), a back punch (jump and punch simultaneously), and a headbutt (punch and kick simultaneously).m
+- Sequels and Spinoffs
+  - SNK 40th Anniversary Collection
+  - THere are plenty of other SNK Beat Em Ups to try if you like this one.
+- EGL
+- NEStalgia Byte - Dig Dug

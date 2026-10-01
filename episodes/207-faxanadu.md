@@ -1,0 +1,34 @@
+# 207 - Faxanadu
+
+- Unlock doors of legend on your journey through Faxanadu
+- NES Longplay
+- Introductions
+  - I’m locking in on FA-XANADU and I’ll tell you why
+- Overview
+  - Faxanadu is a side scrolling action role playing game very similar to The Adventures of Link but without a top down overworld. There is an overworld but it remains side scrolling
+    - Which is something that could’ve helped Adventure of Link in my opinion.
+- Gameplay
+  - This game has a weird start. Just watching a guy walk and only hearing his footsteps
+  - Ring of Elf Trial - make sure you’re playing the game they want you to
+  - Combat - Adventure of Link
+    - I have a problem with hitbox detection on NES games
+    - Has the bad jump, but without pits (well mostly)
+    - Great magic system
+  - Exploration - Hallways. Weird locking out of past locations because of keys/set resets
+    - Land of Mist
+  - Dungeons - Similar to Zelda, where you have to figure out what you need to solve, not every room matters.
+  - Meditation save passwords
+  - Pendant coding error - A justification for romhacks
+- Sequels and Spinoffs
+  - Xanadu came first
+    - MSX and computers it is a more basic version of this game. I think it would be hard to go back if you’re a fan of this game
+    - Is Faxanadu a fancy way of saying Famicom Xanadu?
+  - Xanadu Next
+    - N-Gage in 2005 (also PC)
+    - A 3D version of the Faxanadu concepts, but doesn’t feel or look similar. More following the trends of JRPGs at the time.
+  - Tokyo Xanadu
+    - Xanadu Next gameplay meets Persona
+    - Available on Vita and PS4
+  - This whole thing is a spinoff of the Dragon Slayer series. You guys may remember we played Legacy of the Wizard (DS IV) where you play as a family traversing a very complex underground cave with a ton of backtracking.
+- EGL
+- Next week - Flying Dragon

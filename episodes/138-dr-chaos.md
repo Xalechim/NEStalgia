@@ -1,0 +1,35 @@
+# 138 - Dr. Chaos
+
+- Do you dare open the doors to doom?
+- Introductions
+  - What a title
+  - Joseph Konopka
+    - American citizen who served 16 years of a 20-year prison sentence for two felony acts of conspiracy to commit acts of terror
+- Story
+  - Dr. Ginn Chaos, a mad physicist, has invented an Interdimensional Warpgate which grants access to another world. Unfortunately that portal invites a world of monsters into the castle. His younger brother Michael shows up just in time to notice his brother DR. CHAOS is missing.
+  - Does that mean his brother is named Michael Chaos?
+- Gameplay
+  - Blood dripping title screen
+    - Skull shows up on the O
+    - Lightning makes it all disappear
+  - Why do enemies re-spawn immediately?
+  - Exploring the castle
+    - It is possible for a Room Monster (Big Lady, Omen, or Franken) to appear from any doors you leave open if you return to the screen at a later time.
+  - Progression
+    - Finding the first Warp Zone
+    - Nintendo Power #7
+    - Backtracking
+  - The hallway, the rooms, and warp zones
+    - Did first person improve over the goonies
+  - How playable is Dr. Chaos?
+  - There are 11 Warp Zones in all. At the end of each of the first 10 Warp Zones, Michael must fight a large monster that carries a piece of the Laser and guards a valuable piece of equipment
+- Development
+  - Kunihiko Kagawa - Producer
+    - Bards Tale
+    - Ultima VI
+    - Pool of Radiance
+  - Seishi Yokota - Designer
+    - Never again
+- EGL
+  - A series of confusing design decisions are really what puts this off my essential games list. I welcome longer games on the NES, but not when long also means tedious.
+- Next week - SUPER MARIO BROS. DUCK HUNT

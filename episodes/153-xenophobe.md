@@ -1,0 +1,36 @@
+# 153 - Xenophobe
+
+- ARE YOU READY FOR SLIMETIME?
+- Introductions
+  - That is 100% a Xenomorph
+  - Slime Time is a very Nickelodeon thing. Or maybe even Ghostbusters
+  - They do put on the back of box that Xenophobe is fear of anything ALIEN
+  - OVER 1 MEGAPOWER?
+- Overview/Plot
+  - No real plot given, but it’s basically the plot of Alien if Ripley wasn’t by herself.
+  - You play an Alien Exterminator.
+  - You travel to different infested bases and your job is to destroy all the aliens (known as Xenos). At the end of each level you report back to your commander
+- Gameplay
+  - So these are the controls?
+    - Impossible to dodge
+    - Impossible to feel threatened
+    - Impossible to care
+  - Half the screen
+  - The different aliens
+    - Critter
+    - Snotterpillar
+    - Laser Ball
+    - Giant Slime Amoeba
+    - Spiderion
+  - Fake time limit
+    - Doesn’t mean anything other than points
+  - This game has no ending, no matter how many times you cycle through the 8 levels.
+- What’s up with aliens being green?
+- Sequels and Spinoffs
+  - Arcade with less traditional controls
+    - 3 player simultaneous
+  - Lynx Version
+    - You gotta hold it a different way
+    - https://www.gamesdatabase.org/game/arcade/xenophobe
+- EGL
+- Next week - Xenophobe

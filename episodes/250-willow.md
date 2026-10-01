@@ -1,0 +1,41 @@
+# 250 - Willow
+
+- Long ago, in a time of magic and sorcery, an evil sorceress named Queen Bavmorda ruled the land under a reign of terror.
+- NES Longplay
+- Introductions
+  - We’ve made it! The last game of 1989
+    - And it’s the 250th game released for the NES, do you think they did that on purprose
+  - Willow the movie
+    - The game is loosely based on the movie
+    - So really Willow becomes one of those Power of Marketing things. Movie. Story by Lucas. Directed by Howard. Starring Val Kilmer. Of course they were gonna sell toys, but having Capcom make the video game is a step above. LJN could’ve snapped this up too.
+    - George Lucas also knows about the toys
+- Overview
+  - Willow NES is a 2D ARPG very similar to the Legend of Zelda, but with many NPC characters to talk to and towns to visit as well as an Experience Points and Magic system similar to almost every ARPG we would see in the 16 bit days.
+- Gameplay
+  - The reveal in the intro video
+    - That special power was…MAGIC
+  - Combat
+    - Ground shakes in combat
+    - Each sword weighs in differently, and thus affects the speed at which Willow can swing it.
+    - Spells
+    - Spawning enemies
+      - I don’t like how they spawn in
+      - Has a pokemon like structure to the repetitive yet simple battles to gain EXP
+  - EXP and leveling
+  - Story checkpoints to gate off content
+  - Lack of puzzles
+    - Most of the mystery revolves in not having a map and just getting into dead ends or unsure if you might have missed something by not going everywhere
+  - Graphics
+    - It needs to be said that while the art might look simple, it’s pulled off to great effect.
+- Development
+  - Capcom director Yoshiki Okamoto commented that the game was part of a broader strategy of Capcom at the time to appeal to a wider audience by using established characters from other media, as their original characters could be too niche.
+  - Tokuro Fujiwara who was the Producer of Willow was also the Producer of Essential Game Mega Man 2 and currently non-essential DuckTales. As well as Director of Ghosts N Goblins
+- Sequels and Spinoffs
+  - The same year Capcom also made a side scrolling platform and run and gun Arcade Game
+  - BUT the first Willow game was developed by Mindscape for computers. It’s mini-games based on scenes from the film.
+    - Like a a first person maze, where if you go in the wrong room, you lose and start back at the beginning.
+- EGL
+  - Willow is a complete package and while it might be simple, it gets everything it sets out to do right. At worst the game isn’t respectful of your time, but I’d argue most of the 50+ hour games of today aren’t really either.
+- BEST OF 1989
+  - The EGL may never be the same
+- NEStalgia Byte - Kid Dracula

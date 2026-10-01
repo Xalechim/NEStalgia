@@ -1,0 +1,33 @@
+# 137 - Cobra Command
+
+- TAKE TO THE SKIES ON A DARING RESCUE MISSION!
+- Introductions
+  - Data East
+- Overview
+  - Side-scroller in which the player flies a heavily armoured helicopter through six stages to destroy enemies and rescue all of the hostages.
+  - Sounds a lot like Jackal
+  - Also, throughout the game, the player's helicopter can be upgraded by landing in certain areas.
+- Story
+  - The setting of Indonesia/Thailand
+  - You are General Steven Power
+- Gameplay
+  - Rescuing Hostages
+  - Controlling your helicopter
+    - The helicopter will tilt downward when moving forward and upward when moving backwards.  This alters the direction in which your guns (and possibly missiles) will shoot.
+  - Fire A and B at the same time
+  - Damage
+    - When Damage gets to one, the helicopter will catch on fire and slowly descend if left on its own.  When damage gets to zero, the helicopter will engulf in flames and begin to crash –losing a life at that point is unavoidable.
+    - Start being used for something other than pause. Turns helicopter around.
+  - Upgrades
+    - Gun
+    - Missile
+    - Armour
+    - Engine
+    - Rescue
+- Development
+  - The arcade version automatically scrolls. The NES version of course is locked
+  - Stiffen Wolf title screen found in the code
+- Sequels and Spinoffs
+  - Choplifter is apparently what many think this game ripped off.mm
+- EGL
+- Next week - DR. CHAOS

@@ -1,0 +1,31 @@
+# 146 - Othello
+
+- A Minute to Learn…A Lifetime to Master
+- Introductions
+  - 1883
+- History of Reversi
+  - The modern version of the game—the most regularly used rule-set, and the one used in international tournaments—is marketed and recognized as Othello. It was patented in Japan in 1971
+  - where Reversi ends as soon as either player cannot make a move, in Othello the player without a move simply passes.
+- Gameplay
+  - It really is JUST Othello
+  - Computer Difficulty is subjective
+    - These programs, when run on any up-to-date computer, can play games in which the best human players are easily defeated. This is because although the consequences of moves are predictable for both computers and humans, computers are better at envisaging them.
+  - The Othello 8x8 game tree size is estimated at 10^54 nodes, and the number of legal positions is estimated at less than 1028. Although not mathematically solved yet, a solution could possibly be found using intensive computation with top programs on fast parallel hardware or through distributed computation.
+  - This isn’t a complicated setup game so two-player would be better suited for a real board right?
+- Tabletop Games
+  - Where are somewhat family fun games like Monopoly, Sorry, Yahtzee
+  - ACTUALLY where the heck are Chess and Checkers?
+- Sequels and Spinoffs
+  - Mattel is down for the NES so which of these would you want to see on the NES?
+    - Uno
+    - Phase 10
+    - Apples to Apples
+  - We will get Pictionary
+- EGL
+- Next week - Paperboy!
+- https://www.youtube.com/watch?v=0UQZGG6zJJs
+- https://en.wikipedia.org/wiki/Reversi
+- https://en.wikipedia.org/wiki/Computer_Othello
+- https://www.youtube.com/watch?v=grrut03cQd8&t=436s
+- https://www.youtube.com/watch?v=1vIDpLWdYTU
+- https://www.youtube.com/watch?v=DzTDAgG4EXk

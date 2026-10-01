@@ -1,0 +1,30 @@
+# 180 - Predator
+
+- IF IT BLEEDS, WE CAN DESTROY IT
+- NES Longplay - https://www.youtube.com/watch?v=YBzeba_J2N8
+- Introductions
+  - The movie
+  - We’ve seen a lot of games influenced by ALIEN, what about Predator?
+- Overview
+  - Action shooter where you play as Dutch Schaefer clearing your way through a variety of levels taking down predators.
+- Gameplay
+  - Starting with no weapons
+  - Side-Scrolling Action
+    - Some levels have two exits, one of which will warp the player ahead several levels.
+  - "Big Mode" named after the larger sprites than in the normal action stages.
+    - Here, the game takes place in an auto-scrolling environment where the screen scrolls to the right.
+- MSX Version
+  - Weapons were not limited to one at a time BUT you did not have infinite ammunition
+  - Weapons carried over between levels
+- Sequels and Spinoffs
+  - Predator 2 - Genesis 1992
+    - Isometric shooter without that fake 3d look
+  - Predator: Concrete Jungle - 2005 PS2
+    - the player controls a Predator
+  - Predators - Mobile 2010
+    - Predator Clan pay2win style game
+  - Like Jason, Predator also showed up in Mortal Kombat X
+  - Predator: Hunting Grounds - 2020 PS4
+    - asymmetrical multiplayer* shooter that pits man against Predator. As part of a Fireteam, complete missions before the Predator finds you. Or be the Predator and hunt your prey.
+- EGL
+- Next week - Taboo: Sixth Sense

@@ -1,0 +1,39 @@
+# 105 - R.b.i Baseball
+
+- Back of the Box
+- Manual
+- Introductions
+- Overview
+  - Sean explains Baseball
+- Gameplay
+  - MLBPA, but no MLB
+    - I can finally play 1986 World Series
+  - Batting
+    - Most fluid we’ve seen yet. Very fast paced
+  - Running
+    - They always do Hit and Run making outs likely
+  - Pitching
+    - 2 pitches. Control the ball after release
+  - Fielding
+    - Pressing B automatically runs the player to the base
+    - Jumping like animations if nearly caught
+    - Errors are possible and throwing errors
+    - Really hard to catch flyballs
+  - Substitutions are possible, but not as in depth. No setting the roster beforehand
+  - Presentation is lacking and the music isnt great either
+  - Did anyone else just throw to first base all the time after a play was over?
+- Newspaper ending!
+- RBI Fan Website - http://dee-nee.com/rbi/
+- RBI Baseball Manager
+  - A tool that lets you edit teams to make your own lineups. Works on Windows
+- Sequels and Spinoffs
+  - Namco developed and released Pro Yakyuu Family Stadium for the Family Computer on December 10, 1986.
+  - Atari Games released a Nintendo VS. System arcade machine of Family Stadium named Atari R.B.I. Baseball in 1987
+  - Tengen is a subsidiary of Atari so that’s how RBI makes it to the NES
+  - RBI Baseball 2 and 3 will come to the NES in 1990 and 1991
+  - More games, but we will cover them in later episodes
+  - In 2014, Major League Baseball Advanced Media, the digital arm of MLB, revived the name for a new series of MLB games featuring arcade-style gameplay influenced by the original series.
+- EGL
+- 28:00 - Give or take Sean says JALECO WORDS
+- 36:00 - Moving into Sequels and Spinoffs
+- 39:55 - EGL

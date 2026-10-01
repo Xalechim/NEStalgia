@@ -1,0 +1,27 @@
+# 173 - Amagon
+
+- Amagon, the most decorated Marine, was assigned a mission by his commander to investigate a strange, monster-infested South Pacific island, from which no man has ever returned alive.
+- Introductions
+  - Sammy USA Corporation
+  - Can we talk about the greatest box art of all time?
+  - https://www.mobygames.com/game/nes/amagon/cover-art/gameCoverId,26361/
+- Overview
+  - Action Platformer game where you run from left to right clearing your way through enemies until you get to the boss of each stage.
+- Storyline
+  - players take the role of Amagon, a Marine who is trapped on an island after his plane crashed. Inconveniently, his rescue ship is on the other side of the island, which Amagon must now cross on foot.
+  - The storyline used for the original Japanese release was somewhat different.
+    - The main character is a scientist named "Jackson" who transforms into his "Macho Man" form by using the special drug "Macho Max" that has been taken from his plane by the creatures of "Monster Island"
+- Gameplay
+  - Amagon
+    - The Rifle and Combat
+    - Contra but with a Wimp
+  - Megagon
+    - HP determined by score. A neat EXP ->Arcade action
+    - Megagon cannot use the machine gun, but instead has a punch which does eight times the damage and never runs out of ammo.
+    - At the cost of one hit point each, he can also fire waves of energy from his chest; these are much broader than machine gun shots, do 16 times the damage, and can hit multiple enemies in a single blast.
+  - The bosses
+  - Why is all the music so high pitched?
+- Sequels and Spinoffs
+  - https://en.wikipedia.org/wiki/Amagon,_Arkansas
+- EGL
+- Next week - Dr. Jekyll

@@ -1,0 +1,52 @@
+# 244 - Knight Rider
+
+- Kitt is more than a car, it’s an extension of you, Michael Knight
+- NES Longplay
+- Introductions
+  - I watched the first episode of Knight Rider
+- Plot
+  - Terrorists have raided a U.S. military site; only a man and his robotic car can chase them across the United States to stop their evil plan
+- Gameplay
+  - Mission Mode
+    - THE MISSION BRIEFING
+    - THE WEAPON SELECT
+    - Chase down terrorists across 15 cities. Shoot the Red and Yellow. Don’t shoot the blue (civillians). Take em down before time runs out
+    - So how easy is to distinguish?
+    - An unbelievable UI. See below
+    - How easy is it to drive?
+      - Good use of buttons. B/A/Select all do things other than accelerate
+    - Should Kitt be invincible? And it just be more about time. What makes this car cool again…you know compared to other video game cars?
+    - Despite the non-violent premise of the television show, "Mission Mode" makes use of firearms as way to enhance play, similar
+    - BOSS BATTLES
+    - A cross country trip just to get back to California SF -> LA
+      - Never really embrace the Outrun aesthetic of the show
+  - Drive Mode
+    - Allows players to go on a simple drive through the game's stages without weapons or enemy fire.
+  - Does not include the iconic theme from the Knight Rider television show.
+- Sequels and Spinoffs
+  - Knight Rider (1984) Computer Game by Ocean Software
+    - Kinda the same game, but you can also get out of the car and play as Knight
+  - Knight Rider: Special (1989 JP only TGFX-16)
+    - Almost the same as the NES, but in third person perspective
+  - Two PS2 Knight Rider games that just look exactly like you’d expect them to. Obviously more open than any of these games
+- EGL
+- Next week - RoboCop
+- NEStalgia Byte - Star Luster
+- A - Timer
+- This indicated the amount of time you have remaining to catch up with the enemy terrorist before they escape beyond your reach. If the timer hits zero, and you have not made it to the end, KITT will no longer accelerate, although he will coast to a stop. On occasion, you can reach the boss by merely coasting to the end if you were traveling fast enough when the timer stopped. However if you roll to a stop before then, you will lose one life. Look for (T)ime tiles to gain 30 seconds of extra time.
+- B - Score
+- As you drive across the country, your score increases for every little distance you travel. Your score also increases for every enemy that you successfully defeat. Every time you score a multiple of 10,000 points, you also receive an extra life.
+- C - Shield
+- KITT's ability to survive enemy attacks and collisions is dependent on his shields. Every time he is hit by a vehicle or a weapon, his shield degrades. If his shield is every completely destroyed, you will lose one life. Watch for (R)ecovery tiles on the road to restore KITT's shield.
+- D - Voice modulation
+- In this show, this indicator would rise and fall along with KITT's voice whenever he spoke. However, he doesn't speak in the game, so this indicator is more for show. It does start to flash more when you are close to running out of time.
+- E - Speedometer and Tachometer
+- KITT is a fully automatic car (in more ways than just the traditional sense) so the tachometer is really just for show. But the Speedometer tells you KITT's current speed on the road. Keep it high on straightaways, but watch it when you take sharp turns. If Kitt is over 130 mph, he will start sliding off the road.
+- F - Fuel gauge
+- This shows how much fuel KITT has remaining. If you ever run out of gas during your trip, KITT will begin to coast until his speed reaches zero, at which point you will lose one life. Fuel is slowly used up throughout your trip, and normally you have enough to make it to the end of each stage. However, using Turbo Boost burns a large amount of fuel. If you Turbo Boost frequently, you will not be able to make it to the end of a stage without collecting (G)as tiles to refuel KITT.
+- G - Radar
+- As you drive along the highways of North America, you will encounter automobiles in three different lanes. KITT's advanced radar system allows you to track the appearance of other vehicles long before you can identify whether they are friend or foe.
+- H - Distance meter
+- This meter is as important is it is completely unassuming. It shows you how far KITT has left to drive before he catches up with the terrorist that you are trying to chase down. A red square indicates your position along a blue dashed line. It travels to the right as you drive. Once the red square reaches the far left side, you will locate the terrorists and engage them in battle.
+- I - Weapons indicator
+- The lower-right section of the dashboard indicates which weapons system is engaged. There are three possibilities, in order from weakest to strongest: Machine Guns, Missile Launcher, and Laser Beams. KITT has unlimited Machine Gun ammo. However, he can only hold a maximum of 99 missiles or lasers. When either of these is engaged, the amount of ammo remaining is also displayed. In addition to adding missiles and lasers before each stage, watch for (M)issiles and (L)aser tiles to add to KITT's supply.

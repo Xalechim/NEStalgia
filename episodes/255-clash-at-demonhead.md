@@ -1,0 +1,54 @@
+# 255 - Clash at Demonhead
+
+- Can a one man Engine of Destruction prevent Mankind’s extinction?
+- NES Longplay
+- Introductions
+  - Better title - Engine of Destruction or Terminator?
+  - This is not what I expect an Engine of Destruction to look like
+    - Some weird branding musings
+      - CLASH AT DEMONHEAD - title
+      - Cool anime cover
+      - But the game is very “Super Mario” in style. The character sprite versus the anime rendition we see of him on the box and the pause menu don’t quite add up
+- Overview
+  - In this platforming game you control Billy "Big Bang" Blitz, who is capable of running, jumping, and shooting. Though you start with just a handgun you’ll be able to upgrade your weapons and powers later on. There are over 40 routes the player can take in the game, and the player must explore the world to progress. The game is non-linear in that the player can choose which direction they go, being allowed to backtrack and visit different stages.
+- Gameplay
+  - Let us first judge the game as a Platformer
+    - Levels are short and replayable often required for traversing
+      - A bit of claustrophobia in the level design. Both because of how the platforms/cliffs/water is placed and the hitbox of enemies
+    - The base version of Bang is not a great start
+    - Bosses are more mega man in style. Learn the pattern and know where to hit
+  - Now let us judge it as an Adventure Game
+    - Choose your own path
+    - How fun is exploring paths and backtracking
+      - In Super Mario Bros 3 and World, when you beat a level you are not forced to “replay” the level in order to backtrack through the world map
+    - Bosses are required to beat in order to collect their medallions
+    - Secrets/design
+      - There’s areas you don’t have to go to that will make you stronger
+      - Some parts of the world are gated behind specific power ups that you might not know you need. Like Route 17 with the Jetpack and the Aqua Lung
+  - Now let’s judge it as an RPG
+    - The Shop
+      - Power Ups, food, equipment.
+        - Limited time use means returning to the shop
+      - When you buy a gun in RPGs generally the gun doesn’t run out, you just buy a more powerful gun later
+    - Talking to people inside the stages provide quest information
+      - Faysha leads you to route unknown, Michael gives story help, Hermit gives you the 5 force powers
+    - Force - as magic
+      - Gaining force allows Hermit to teach you moves that help progress both in the game and as additions to the platforming sections
+        - Going micro in Route 35
+    - Another RPG trope, that whole unwinnable boss fight against Guycott
+  - Cool password that starts you with max HP and all items
+    - It is a translation: (I) remember the things the genius forgot."
+- Plot Stuff
+  - Agent of S.A.B.R.E. (Special Assault Brigade for Real Emergencies)
+  - Has to save Professor Plum, creator of a Doomsday Bomb capable of destroying the world.
+  - Bang meets Michael, who he thinks is his friend but is actually possessed by a demon
+  - The bomb turns out to be technology from an alien race responsible for creating humanity one thousand years ago.
+  - The only way to defuse the bomb is with the medallions, but with no instructions, Bang can only guess where each medallion is placed, and is working against a countdown timer that triggers the bomb.
+  - TWIST ending: Bang is offered an apprenticeship, but Bang declines to see about "making a game based on these adventures!"
+  - Most important plot point: For the NA version, they added a mustache to the shopkeeper.
+- Sequels and Spinoffs
+  - Sales Figures / Popularity: Cult-like. Most famously, a band in the Scott Pilgrim comic series and the movie is named The Clash at Demonhead, in keeping with the video game theming for names.
+  - RomHacking: One adds the route numbers to the map, so that you can see them at all times. The other allows you to save the game.
+- EGL
+  - There’s a LOT in this one. It mimics so many ideas we’ve seen executed well from the Essential Games List. It can be a bit of a tedious video game if you don’t know what you’re doing, but no more than say Metroid or Zelda 1. I do think the actual combat isn’t as tight as Mega Man and they might have been better off expanding the size of stages. But the game’s ability to be a Mega Man / Mario / Zelda 2 crossover and pull it off is worthy of it being on the EGL.
+- NEStalgia Byte - All Night Nippon Super Mario Bros. (a look at MANY SMB games)

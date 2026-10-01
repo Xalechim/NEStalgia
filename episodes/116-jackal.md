@@ -1,0 +1,37 @@
+# 116 - Jackal
+
+- Take no prisoners, except our own!
+- Introductions
+- Overview
+  - Overhead run'n gun-style shoot-'em-up video game by Konami released for the arcades in 1986 (as TOP GUNNER). Comes to the NES in 1988
+    - Konami decided to release the NES version under a different title to avoid confusion with their video game adaptation of Top Gun (which they also released)
+  - Maneuver an armed jeep in order to rescue prisoners of war (POWs) trapped in enemy territory.
+    - Why do we keep seeing this theme? Ikari Warriors/Commando/Metal Gear/Rambo/Iron Tank
+- Gameplay
+  - “THIS BATTLE WILL MAKE YOUR BLOOD BOIL. GOOD LUCK!”
+  - Combat Mechanics
+    - In the Japanese version, the machine gun turns as you do, but in the American release, the machine gun stays permanently affixed to fire north.
+    - The scrolling should start with your vehicle more centered
+      - That said, Open exploration
+    - Not enough power-ups
+  - POWs
+    - Just points, kinda weird that the whole mission is to save them but there’s no point.
+  - The Journey
+    - Desert, Military Bases, Naval Base, Swamp
+  - Bosses
+    - Mostly odd choices
+      - statue heads that spit homing missiles
+      - large battleship armed with six spread-shot cannons
+  - Pacing/gameplay loop
+    - Let’s talk about this against Iron Tank (SNK)
+    - Five lives and four continues
+  - 2 Player
+  - Arcade Differences
+    - The game is now divided into six stages instead of taking place in one long level. Each stage features a different boss awaiting at the end, which include enemies not seen in the arcade version such as missile-spitting statues, a battleship and a new final boss
+    - No limit to POWs available. In the arcade you could only have 8 at a time.
+- Sequels and Spinoffs
+  - NONE!
+  - BUT it was first released on FDS as Red Fortress
+    - Mostly inferior, but it let P1 drive while P2 was the gun!
+  - Jackal Rebirth (Konami Rebirth line) was planned on Wii, only screenshots exist.
+- EGL

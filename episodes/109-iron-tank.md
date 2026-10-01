@@ -1,0 +1,26 @@
+# 109 - Iron Tank
+
+- The Date: June 5, 1944. The United Forces are preparing for their final assault on the Normandy Coast.
+- The Mission: Establish a beachhead, break through the front lines, and infiltrate and destroy enemy headquarters.
+- Introductions
+- Overview
+  - top-view action shooting game where you control a tank starting on the beaches of Normandy then advancing forward while fighting various enemies. You can also rescue POWs
+  - the player takes control of a commando named Paul and codenamed SNAKE (Colonel Ralf in the Japanese version, who also appeared in Ikari Warriors)
+  - Put simply this game is an updated Ikari Warriors 1
+- Gameplay
+  - Controlling the Tank
+    - The turret will maintain its direction on the screen regardless of the tank's movements or facing
+  - Damage control
+    - Collision
+      - running over soldiers with the tank will add one point to the tank's health meter
+  - Main Gun Options
+    - V - "Rapid-Fire"—Increases rate of fire. Player may hold down the A button.
+    - F - "Armor Pierce"— Shoots "through" walls & terrain features to hit enemies beyond them. This also doubles the shot's damage.
+    - B - "Bomb Shells"— Shots explode when they hit or reach maximum range. This also doubles the shot's damage.
+    - L - "Long Range"— Each shot's range is doubled (to almost the full screen's distance).
+  - Choose your path to the end
+    - Some paths are easier, but longer.
+- This video game is based on SNK's 1985 arcade game TNK III
+  - Others believe Guerilla War influenced it (released in 87, but won’t come to the NES until 1989)
+- EGL
+- 27:10 - EGL ish

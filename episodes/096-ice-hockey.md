@@ -1,0 +1,31 @@
+# 096 - Ice Hockey
+
+- Back of the Box
+- Manual
+- It’s fast skatin’, hip checkin’, high scoring action. Lead your team into center ice, over the opponent’s blue line. Pass over to the point and set-up for the tip in – Score!
+- Introductions
+- Development
+  - Hideki Konno, the designer of the game, later went on to direct classic Nintendo titles such as Super Mario Kart, Super Mario World 2: Yoshi's Island, and Luigi's Mansion.
+- Overview
+  - The objective of the game being to get more points than the opposing player by hitting round, black pucks into the opposing goal with a hockey stick.
+- Gameplay
+  - five players including the goaltender, as opposed to six in real life.
+  - Teams
+    - USA, Soviet Union, Sweden,  Poland, Canada, Czechoslovakia
+    - Different types of players - Nintendo is learning Sports Games SLOW
+      - fast, weak, and feeble, but is good at the face-off;
+      - average in all qualities
+      - slow and poor at the face-off, but very powerful, both in body checking and shooting strength.
+  - Face/Off
+  - Offense versus Defense
+  - Goalie Controls
+  - Fighting - Penalty
+- Famicom version
+  - Includes JPN instead of Sweden
+- Codes
+  - No Goalies - On the title screen, press and hold A button and B button on both the first and second control pad, and press Start button on the first control pad to remove the goaltenders from play.
+  - Frictionless Puck - On the team select screen, highlight the team you wish to control. Then press and hold A button and B button on both the first and second control pad, and press Start button on the first control pad to cause the puck to continue moving until it is brought under control by a player or a goal is scored. If the puck becomes airborne, it will continue to fly around the rink until it touches someone to bring it to ice level or enters the net for a goal.
+- Sequels and Spinoffs
+  - Stick Hunter: Exciting Ice Hockey - JPN Only
+  - Crash 'n the Boys: Ice Challenge - JPN Only
+- EGL

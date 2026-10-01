@@ -1,0 +1,21 @@
+# 203 - The Adventures of Tom Sawyer
+
+- Join Tom on a Journey of Action Packed Adventure
+- NES Longplay
+- Introductions
+  - The old lady pulled her spectacles down and looked over them about the room; then she put them up and looked out under them. She seldom or never looked through them for so small a thing as a boy; they were her state pair, the pride of her heart, and were built for “style,” not service—she could have seen through a pair of stove-lids just as well. She looked perplexed for a moment, and then said, not fiercely, but still loud enough for the furniture to hear
+  - The appeal of games like this and Dr. Jekyll and Mr. Hyde. Do they think they are fooling parents with acclaimed literature?
+- Overview
+  - Platforming game (Tom is player 1 and Huck is player 2), travel through 6 levels
+  - Tom Sawyer is dreaming, and in this dream he must save Becky from Injun Joe, traveling through six stages to get to her.
+- Gameplay
+  - Platforming
+  - What sets Tom Sawyer apart
+- Sequels and Spinoffs
+  - Square's Tom Sawyer
+    - Players control Tom Sawyer and his friends as they join the party, such as Jim and Huck, and they each have RPG like stats but no experience level up system - it’s done similar to FF2 and SaGa games
+    - The game features an enemy that triggers the reset button on a players controller bringing them back to the title screen.
+    - In 2010, UGO ranked it as the #4 most racist video game in history.
+      - The blackface is bad
+- EGL
+- Next week - Adventures of Tom Sawyer

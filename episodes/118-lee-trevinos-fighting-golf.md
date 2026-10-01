@@ -1,0 +1,60 @@
+# 118 - Lee Trevino's Fighting Golf
+
+- Never before in a home format have so many options been available to a player of video golf.
+- http://www.thegameisafootarcade.com/wp-content/uploads/2017/02/Lee-Trevinos-Fighting-Golf-Game-Manual.pdf
+- Introductions
+- U.S National Video Game Team?
+  - Setup by Walter Day in 1983 (that ref from King of Kong)
+  - Toured the US beating people at video game arcades and apparently foreign embassies.
+  - Billy Mitchell and Todd Rogers were members
+  - Apparently still active...
+  - https://www.usnationalvideogameteam.com/members
+- Overview
+  - Remember Golf? We loved Golf
+  - Lee Trevino’s Fighting Golf is NES Golf with more options and MUSIC
+- Gameplay
+  - Characters - Each controls differently
+    - Pretty Amy
+      - What’s up with the Panty shot?
+    - Big Jumbo
+    - Super Mex (Lee Trevino)
+      - Trevino opted to be the second most powerful golfer with the second worst control?
+    - Miracle Chosuke
+  - 2 Courses
+    - Japan (Water and boundaries) and USA (Bunkers and Super Roughs)
+  - Notable differences
+    - Autopicks your club and direction for you (not always the best)
+    - You can now use D-Pad for hitting High and Low as well as backspin
+      - Too many movements?
+    - Practice mode!
+  - Stroke Play or Nassau?
+    - Stroke Play is solo where Nassau gives points to winner of each hole
+      - Nassau Computer Difficulty
+    - Press Rule on Nassau
+  - Did they make Golf too complicated for casuals?
+    - What’s the point of all of these mechanics if there is a little bit of randomness in your player character?
+- Sequels and Spinoffs
+  - Lee Carvallo’s Putting Challenge
+    - Simpsons reference in Season 7 “Marge Be Not Proud”
+  - Trevino LCD game Tiger Electronics
+  - OTHER SNK golf games
+    - Top Players Golf - 1990
+    - Neo Turf Masters - 1996 (AES board will cost only US$15,000)
+      - But wow, the sprite work, vibe and everything about it makes me want to play
+      - LOL nvm you can play it on Switch for nothing
+- EGL
+- --== Section 8 - Club Yardage Chart ==--
+- Amy             Jumbo           Chosuke         Trevino
+- D (1w)          245             275             255             265
+- 3w              215             245             225             255
+- 4w              200             230             210             220
+- 1I              200             230             210             220
+- 3I              180             210             190             200
+- 4I              170             200             180             190
+- 5I              160             190             170             180
+- 6I              140             170             150             160
+- 7I              130             160             140             150
+- 8I              120             150             130             140
+- 9I              105             135             115             125
+- PW              95              125             105            115
+- SW              85              115             95              105

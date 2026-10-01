@@ -1,0 +1,22 @@
+# 166 - Dance Aerobics
+
+- Hop, skip and jump your way into shape!
+- Introductions
+  - Why are we getting Power Pad games, but not ROB and Zapper games? Seems like they were onto something with the Zapper games and not this.
+- Overview
+  - It’s Twister they should’ve just made Twister
+  - Can we talk about the Video Game Market in 1989
+  - Is the game marketed just toward women?
+- Gameplay
+  - Menu - Which would you like?
+  - Where is she that ESB and Chrysler Building are that close. She’s gotta be in Queens in the old CitiBank Building
+  - No but seriously, this one works. I’m actually proud of this game.
+    - And you can’t really cheat
+  - YOU DON’T HAVE TO PLAY THIS
+  - Pass Stamp
+    - Your Hole Punch Card
+  - Mat Melodies
+    - Confusing and almost nonsense, but possibly the most fun game has to offer
+- EGL
+  - This isn’t what the NES is
+- Next week - John Elway’s QB
