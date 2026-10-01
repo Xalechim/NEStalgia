@@ -439,17 +439,11 @@ def main():
     write("episodes/index.html", page("Episodes · NEStalgia", body, "", current="eps"))
 
     # Home
-    n_ep = sum(1 for r in data if r["type"] == "episode")
-    n_tx = sum(1 for r in data if r["transcript"])
-    n_notes = sum(1 for r in data if r["notes"])
-    first_year = min(r["published"] for r in data)[:4]
     buttons = "".join(f'<a class="btn{" alt" if i > 1 else ""}" href="{u}" rel="noopener">{n}</a>' for i, (n, u) in enumerate(LINKS))
     latest = "".join(card(r) for r in newest_first[:12])
     body = f"""<div class="hero"><img src="{BASE}/logo.png" alt="NEStalgia">
 <p class="tag">A chronological exploration of <b>every</b> NES game released in North America. Join us and play along.</p>
 <div class="btns">{buttons}</div></div>
-<div class="stats"><div class="stat"><b>{n_ep}</b>episodes</div><div class="stat"><b>{n_notes}</b>with show notes</div>
-<div class="stat"><b>{n_tx}</b>transcripts</div><div class="stat"><b>{first_year}</b>since</div></div>
 <h2>Search the show</h2>
 <div id="search"></div>
 <script>window.addEventListener("DOMContentLoaded",function(){{new PagefindUI({{element:"#search",showImages:false,showSubResults:false,resetStyles:false}});}});</script>
