@@ -163,3 +163,21 @@ table.patrons tbody tr:nth-child(even) td { background: rgba(0, 0, 0, .045); }
   table.patrons td:nth-child(odd) { border-left: 0; }
   table.patrons td:empty { display: none; }
 }
+
+/* Never let long words or URLs push content past the margins */
+main, .panel, .prose, .desc, .turn, .meta, .card .t, details.tx, .note {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  min-width: 0;
+  max-width: 100%;
+}
+.ep > *, .panel > * { min-width: 0; }
+.panel a, .prose a, .desc a, .turn a { overflow-wrap: anywhere; word-break: break-all; }
+.panel pre, .prose pre, .panel code, .prose code { white-space: pre-wrap; overflow-wrap: anywhere; max-width: 100%; }
+.panel img, .desc img, .turn img { max-width: 100%; height: auto; }
+@media (max-width: 560px) {
+  main { padding-left: 14px; padding-right: 14px; }
+  .panel { padding: 2px 12px 12px; }
+  .panel ul, .panel ol { padding-left: 1.05em; }
+  .turn { padding: 7px 8px; }
+}
