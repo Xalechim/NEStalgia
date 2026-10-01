@@ -18,6 +18,19 @@ Local, free transcripts with speaker labels. Nothing here uploads audio.
   - Without it, falls back to unsupervised diarization, which does not work well here (see below).
 - `voiceid.py` builds voice profiles for the hosts (`enroll`, `enroll-mix`) for episodes with only a mixdown.
 
+## Auto-update from the feed
+
+`.github/workflows/update-from-feed.yml` runs on GitHub (not on your Mac) on Fridays at 11:30 and 15:30 UTC and Saturday at 15:30 UTC, and on demand
+(repo page, Actions tab, "Update from podcast feed", Run workflow). It runs `scripts/update_from_feed.py`, which:
+
+1. downloads cover art for new episodes (resized to 1000 px JPEG),
+2. rebuilds `data/episodes.json` and `episodes.csv`,
+3. rebuilds `episodes/README.md`,
+
+and commits the result as "Auto-update from feed: <newest episode title>". If nothing is new, it does nothing.
+It does not make show notes or transcripts; those stay manual (the double-click tool for transcripts).
+Run the same thing by hand with `python3 scripts/update_from_feed.py` (needs `pip install pillow`).
+
 ## Findings so far (tested on episode 446, 25 min)
 
 - Whisper turbo transcribes a 25-minute episode in about 75 seconds.
