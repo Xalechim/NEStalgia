@@ -11,11 +11,15 @@ import json
 import os
 import re
 import shutil
+import sys
 import urllib.parse
 from pathlib import Path
 
 import markdown
 from PIL import Image
+
+sys.path.insert(0, str(Path(__file__).parent))
+from build_episode_data import local_files  # noqa: E402
 
 REPO = Path(__file__).resolve().parent.parent
 OUT = REPO / "site"
@@ -352,6 +356,9 @@ def patrons_html():
 
 def main():
     data = json.loads((REPO / "data/episodes.json").read_text())
+    # data/episodes.json can be a little stale (it is refreshed on a schedule); what is actually in the repo wins.
+    for r in data:
+        r["notes"], r["transcript"] = local_files(r["type"], r["number"], r["title"], r["feed_title"])
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()

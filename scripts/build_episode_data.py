@@ -66,6 +66,26 @@ def repo_files(*patterns):
     return out
 
 
+def local_files(kind, num, name, title):
+    """The show notes and transcript in this repo for a feed item: (list of notes paths, transcript path or None)."""
+    if kind == "episode" and num is not None:
+        notes = repo_files(f"episodes/{num:03d}-*.md")
+        tx = repo_files(f"transcripts/{num:03d}-*.md")
+    elif kind == "bytes" and num is not None:
+        notes = repo_files(f"episodes/bytes/nb-{num:03d}-*.md")
+        tx = repo_files(f"transcripts/nb-{num:03d}-*.md")
+    elif kind == "special" and num is not None:
+        notes = repo_files(f"episodes/specials/s{num:03d}-*.md")
+        tx = repo_files(f"transcripts/s{num:03d}-*.md")
+    elif kind == "special":
+        notes, tx = repo_files(f"episodes/specials/{slug(name)}*.md"), []
+    else:
+        notes, tx = [], []
+    # Episode 1 exists twice in the feed (original and remastered); the notes are for the remaster.
+    notes = [f for f in notes if ("remastered" in f) == ("remastered" in title.lower())]
+    return notes, (tx[0] if tx else None)
+
+
 def ensure_art(path: Path, url: str) -> None:
     """Download a cover and save it as a 1000 px JPEG (quality 80), if we don't have it yet."""
     if path.exists():
@@ -100,21 +120,7 @@ def main(fetch_art=False):
             except Exception as e:  # a bad image must not stop the update
                 print(f"could not fetch art for {title}: {e}")
         enc = it.find("enclosure")
-        if kind == "episode":
-            notes = repo_files(f"episodes/{num:03d}-*.md")
-            transcript = repo_files(f"transcripts/{num:03d}-*.md")
-        elif kind == "bytes":
-            notes = repo_files(f"episodes/bytes/nb-{num:03d}-*.md")
-            transcript = repo_files(f"transcripts/nb-{num:03d}-*.md")
-        elif kind == "special" and num is not None:
-            notes = repo_files(f"episodes/specials/s{num:03d}-*.md")
-            transcript = repo_files(f"transcripts/s{num:03d}-*.md")
-        else:
-            notes, transcript = [], []
-        # Episode 1 exists twice in the feed (original and remastered); notes are for the remaster.
-        notes = [f for f in notes if ("remastered" in f) == ("remastered" in title.lower())]
-        if kind == "special" and num is None:
-            notes = repo_files(f"episodes/specials/{slug(name)}*.md")
+        notes, transcript = local_files(kind, num, name, title)
         published = parsedate_to_datetime(it.findtext("pubDate")).date().isoformat() if it.findtext("pubDate") else None
         rows.append(
             {

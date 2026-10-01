@@ -149,7 +149,9 @@ def main() -> int:
         return 0 if done or a.dry_run else 1
     if a.yes or input("\nPublish them to GitHub now? (y/n): ").strip().lower().startswith("y"):
         label = f"{done[0]:03d}" if len(done) == 1 else f"{len(done)} episodes ({done[0]:03d} to {done[-1]:03d})"
-        subprocess.run(["git", "-C", str(REPO), "add", "transcripts", "episodes", "data/links"], check=True)
+        for script in ("build_episode_data.py", "build_index.py"):  # keep the data file and the index current (needs internet)
+            subprocess.run([sys.executable, str(REPO / "scripts" / script)], cwd=REPO)
+        subprocess.run(["git", "-C", str(REPO), "add", "transcripts", "episodes", "data"], check=True)
         subprocess.run(["git", "-C", str(REPO), "commit", "-m", f"Add transcripts for {label}"], check=True)
         r = subprocess.run(["git", "-C", str(REPO), "push"])
         print("Published." if r.returncode == 0 else "The upload failed; the transcripts are saved locally.")

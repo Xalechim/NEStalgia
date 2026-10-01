@@ -13,7 +13,7 @@
     "notes": [
       "episodes/447-bill-elliots-nascar-challenge.md"
     ],
-    "transcript": "transcripts/447-bill-elliot-nascar-challenge.md",
+    "transcript": "t",
     "guid": "9b3a4b3e-59fa-44a0-ae56-42a4b822ea6d"
   },
   {
@@ -30,7 +30,7 @@
     "notes": [
       "episodes/446-touchdown-fever.md"
     ],
-    "transcript": "transcripts/446-touchdown-fever.md",
+    "transcript": "t",
     "guid": "303910de-75e4-4278-97f7-b4b75c72640b"
   },
   {
@@ -47,7 +47,7 @@
     "notes": [
       "episodes/445-super-cars.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "f03d0aab-f945-4e21-90e3-c02e4be79447"
   },
   {
@@ -64,7 +64,7 @@
     "notes": [
       "episodes/444-ski-or-die.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "0e50e527-40c7-42ba-a588-703bb0e40467"
   },
   {
@@ -81,7 +81,7 @@
     "notes": [
       "episodes/443-the-simpsons-bart-vs-the-space-mutants.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "b6b58883-b31a-4802-a638-ef6d33f418b0"
   },
   {
@@ -98,7 +98,7 @@
     "notes": [
       "episodes/442-princess-tomato-in-the-salad-kingdom.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "67105399-3b49-4463-a756-74fb0788b884"
   },
   {
@@ -115,7 +115,7 @@
     "notes": [
       "episodes/441-metal-storm.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "65edf468-3f4f-4ebb-86c9-8b3aa2970698"
   },
   {
@@ -133,7 +133,7 @@
       "episodes/440-magician-outline.md",
       "episodes/440-magician.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "df7eb7e3-80ff-489b-ab45-99ecda40d80c"
   },
   {
@@ -150,7 +150,7 @@
     "notes": [
       "episodes/439-the-last-ninja.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "764fa8e0-8a4f-4bdc-adb3-fdbb63406b18"
   },
   {
@@ -167,7 +167,7 @@
     "notes": [
       "episodes/438-isolated-warrior.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "ed7aa640-378d-4f38-a2c5-fe078c2b540b"
   },
   {
@@ -184,7 +184,7 @@
     "notes": [
       "episodes/437-ikari-iii-the-rescue.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "5b61c4c0-bcf9-42f9-9188-0279df8e6557"
   },
   {
@@ -201,7 +201,7 @@
     "notes": [
       "episodes/436-galaxy-5000-racing-in-the-51st-century.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "d9b1f9ff-eed2-4af2-90aa-04e17193e0ac"
   },
   {
@@ -659,7 +659,7 @@
     "notes": [
       "episodes/410-little-ninja-brothers.md"
     ],
-    "transcript": "transcripts/410-little-ninja-brothers.md",
+    "transcript": "t",
     "guid": "5d84efa8-620d-48a1-ab12-4aee593ba766"
   },
   {
@@ -676,7 +676,7 @@
     "notes": [
       "episodes/409-jackie-chans-action-kung-fu.md"
     ],
-    "transcript": "transcripts/409-jackie-chans-action-kung-fu.md",
+    "transcript": "t",
     "guid": "0e58b3a7-4aeb-43cb-aa2a-6a9cb902e548"
   },
   {
@@ -693,7 +693,7 @@
     "notes": [
       "episodes/408-dragons-lair.md"
     ],
-    "transcript": "transcripts/408-dragons-lair.md",
+    "transcript": "t",
     "guid": "6d651d47-17bf-47d6-b763-41d1c665bc74"
   },
   {
@@ -710,7 +710,7 @@
     "notes": [
       "episodes/407-dirty-harry.md"
     ],
-    "transcript": "transcripts/407-dirty-harry.md",
+    "transcript": "t",
     "guid": "f18f832f-2262-4aaf-96dd-71b513f10954"
   },
   {
@@ -727,7 +727,7 @@
     "notes": [
       "episodes/406-digger-t-rock.md"
     ],
-    "transcript": "transcripts/406-digger-t-rock.md",
+    "transcript": "t",
     "guid": "fbbfb89e-7e00-4a2b-8589-80b1c2c14a45"
   },
   {
@@ -744,7 +744,7 @@
     "notes": [
       "episodes/405-deja-vu-a-nightmare-comes-true.md"
     ],
-    "transcript": "transcripts/405-deja-vu.md",
+    "transcript": "t",
     "guid": "2bd48e4c-f1fc-438d-8651-70bbb3e6596a"
   },
   {
@@ -761,7 +761,7 @@
     "notes": [
       "episodes/404-bandit-kings-of-ancient-china.md"
     ],
-    "transcript": "transcripts/404-bandit-kings-of-ancient-china.md",
+    "transcript": "t",
     "guid": "533c9377-7089-4016-a81c-ad1ef85137ae"
   },
   {
@@ -778,7 +778,7 @@
     "notes": [
       "episodes/403-the-adventures-of-rad-gravity.md"
     ],
-    "transcript": "transcripts/403-rad-gravity.md",
+    "transcript": "t",
     "guid": "b2f24f89-74ac-4e13-af5e-80bf3f682075"
   },
   {
@@ -795,7 +795,7 @@
     "notes": [
       "episodes/402-yo-noid.md"
     ],
-    "transcript": "transcripts/402-yo-noid.md",
+    "transcript": "t",
     "guid": "d77235a8-0c42-4932-80d3-26aef5cf9af5"
   },
   {
@@ -829,7 +829,7 @@
     "notes": [
       "episodes/401-wwf-wrestlemania-challenge.md"
     ],
-    "transcript": "transcripts/401-wwf-wrestlemania-challenge.md",
+    "transcript": "t",
     "guid": "fa806070-bf60-4f42-9e28-6448d83939b5"
   },
   {
@@ -846,7 +846,7 @@
     "notes": [
       "episodes/400-werewolf-the-last-warrior.md"
     ],
-    "transcript": "transcripts/400-werewolf.md",
+    "transcript": "t",
     "guid": "8e2d4ab9-90f1-4df2-b374-c9efc77cd988"
   },
   {
