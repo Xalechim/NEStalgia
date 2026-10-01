@@ -147,3 +147,6 @@ footer.site a { color: #ff8a80; }
 .rawpage { margin: -28px -20px -60px; }
 .btn.alt { color: var(--ink) !important; }
 .grid.articles .card img { aspect-ratio: 16 / 10; }
+
+.patrons { list-style: none; padding: 0; margin: 14px 0 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 8px; }
+.patrons li { background: var(--card); border: 2px solid var(--line); padding: 6px 10px; font-size: 15px; box-shadow: 2px 2px 0 var(--line); }

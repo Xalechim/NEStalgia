@@ -33,6 +33,7 @@ LINKS = [
     ("Spotify", "https://open.spotify.com/show/1SoG0RFa4nPk0YqaXW6vRi"),
     ("Patreon", "https://www.patreon.com/nestalgia"),
     ("Twitch", "https://www.twitch.tv/nestalgia"),
+    ("Episode Spreadsheet", "https://docs.google.com/spreadsheets/d/1r5WpTbM0EYLbr1ylXthvf57HWgjo1iScI_c5HKgfSKc/edit?usp=sharing"),
     ("RSS", "https://anchor.fm/s/5808ab8/podcast/rss"),
 ]
 E = html.escape
@@ -262,6 +263,17 @@ def build_migrated(data, write, card_html):
     return [a["path"] + "/" for a in articles] + [f"/{k}/" for k in pages] + ["/contact/", "/articles/"]
 
 
+def patrons_html():
+    f = SRC / "patrons.txt"
+    names = [ln.strip() for ln in f.read_text().splitlines() if ln.strip() and not ln.startswith("#")] if f.exists() else []
+    if not names:
+        return ""
+    items = "".join(f"<li>{E(n)}</li>" for n in names)
+    return f"""<h2>Special thanks to our patrons!</h2>
+<p><a class="btn" href="https://www.patreon.com/nestalgia" rel="noopener">Join Today!</a></p>
+<ul class="patrons">{items}</ul>"""
+
+
 def main():
     data = json.loads((REPO / "data/episodes.json").read_text())
     if OUT.exists():
@@ -349,7 +361,9 @@ def main():
 <div id="search"></div>
 <script>window.addEventListener("DOMContentLoaded",function(){{new PagefindUI({{element:"#search",showImages:false,showSubResults:false,resetStyles:false}});}});</script>
 <h2>Latest episodes</h2><div class="grid">{latest}</div>
-<p style="margin-top:20px"><a class="btn" href="{BASE}/episodes/">Browse all episodes</a></p>"""
+<p style="margin-top:20px"><a class="btn" href="{BASE}/episodes/">Browse all episodes</a>
+<a class="btn alt" href="{LINKS[4][1]}" rel="noopener">Episode spreadsheet</a></p>
+{patrons_html()}"""
     write("index.html", page("NEStalgia: every NES game, one episode at a time", body, "", search=True, current="home"))
 
     # Search page

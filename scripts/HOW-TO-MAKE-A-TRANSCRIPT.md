@@ -57,3 +57,13 @@ Your transcript is saved in the `transcripts` folder as a normal text file you c
 4. It asks **Keep the new voice samples? (y/n)**. Type `y` to keep them. Your old samples are backed up as `profiles.backup.npz` in the `.nestalgia-models` folder.
 
 Episodes already added are skipped. It only helps with Mike, Sean and Joe; it can't learn Sam or guests, who have no mic recordings.
+
+## Updating the patron list on the homepage
+
+The names under "Special thanks to our patrons!" come from one text file: `site-src/patrons.txt` (one name per line).
+Open it, add or remove names, save, then publish:
+
+    cd ~/Developer/nestalgia
+    git add site-src/patrons.txt && git commit -m "Update patron list" && git push
+
+The website rebuilds itself in a few minutes.
