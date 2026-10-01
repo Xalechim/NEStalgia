@@ -1,0 +1,275 @@
+# 410 - Little Ninja Brothers
+
+_Auto-generated transcript. Speaker names are matched automatically by voice and are not perfect, especially on short interjections. The opening name introductions are left as "Hosts"._
+
+**Mike** [00:00]: Little Ninja Brothers, now go out on your journey to save the once merry world, China Land.
+
+**Mike** [00:22]: And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+**Hosts** [00:30]: I'm Mike. I'm Sean. And I'm Joe. So, China Land is a world, not a theme park?
+
+**Sean** [00:37]: Yeah, it's like, you know, there's like Somalia and Somaliland.
+
+**Mike** [00:42]: I didn't know that, actually.
+
+**Sean** [00:44]: I honestly don't know the difference. I don't know anything about it. I just know that's like, there's, you could say two things. Maybe it's referring to the same thing. Okay. There's also Hollywood Land.
+
+**Mike** [00:55]: Yes, yeah. No, okay. But what I'm saying is like, they're saying it's a whole world, the once merry world of China Land. So it's a land, but it's also a world.
+
+**Sean** [01:04]: We all live in our own little world.
+
+**Mike** [01:07]: I guess China Land world is flat.
+
+**Sean** [01:10]: Flat, baby. Well, yeah.
+
+**Mike** [01:11]: I talk about flat Earth so much. Well, yeah. I talk about the flat Earth so much. I'm not sure how often we talk about it on the show. Like- We don't. Is this like our fourth flat world joke?
+
+**Mike** [01:23]: The Earth is round for anybody who wants to hear it.
+
+**Sean** [01:27]: Spherical, one might say.
+
+**Mike** [01:28]: If anybody wants to hear it. Yeah, exactly. The Earth is round. And this game is a top-down, unfortunately it looks flat, overworld.
+
+**Sean** [01:39]: Unfortunately. That's a negative in this, for the game. No, it's just a negative for me because I was saying that the world is round and then here we are. Okay.
+
+**Mike** [01:47]: I'm sure that you could get to the end of the world, at least in Kingdom Hearts you can. But it's a top-down, overworld, RPG, story, ARPG, beat-em-up battles game where you play as Jack and Ryu, two little ninjas, hence the name.
+
+**Sean** [02:05]: Get a little of those guys. They're brothers too.
+
+**Mike** [02:08]: And they're wandering China-land to stop the Yoma clan and their leader, Blue Boltar, in what is kind of like a rather large, sweeping, Final Fantasy-style RPG story. It has, as I mentioned, those ARPG fights, but there is like, you know, the idea of a quest and going to towns and collecting information to figure out where to go next. And there is even some light turn-based battling with the bosses. So this game has a lot to offer. Maybe most importantly, the headline here, you can play as Jack and Ryu with another player. You can do a cooperative experience here where at any moment in your file, you can just have another person show up and be like, hey, you want to just play this RPG with me? That's kind of nuts.
+
+**Joe** [03:06]: This complete, like, drop-in, drop-out co-op multiplayer, have we seen that before on the NES? Like that, I didn't know that. I guess I just, now that I think about it, I don't know why it wouldn't be possible, but it just seems like something that is illegal on the NES.
+
+**Mike** [03:20]: It's illegal.
+
+**Sean** [03:22]: Yeah, I was very surprised. And the convenience store, it really is convenient in that regard. I appreciate it a lot. I just didn't have anyone to share it with.
+
+**Mike** [03:37]: Well, this is another one of those. Well, Joe, don't say same.
+
+**Sean** [03:40]: Did we play this together?
+
+**Mike** [03:41]: We did. This is one of those ones that we played.
+
+**Joe** [03:43]: I don't remember. That's why when I booted this up, I was like, we already played this game. And then I was like, oh, this must be Kung Fu Heroes. And I looked back at that, like, this doesn't look anything like that. You and I played it, but for like a minute.
+
+**Mike** [03:57]: Yes, yeah. Well, what we did was, is because we just wanted to see how it worked, because obviously we're not going to, like, start a sweeping RPG in the middle of the night. But what was interesting was, is that the trade-off, of course.
+
+**Sean** [04:10]: We did. You slept over the night before. Yeah, but you guys didn't invite me to play Little Ninja Brothers, is all I'm saying.
+
+**Joe** [04:17]: Yeah, we were like, it's only two player. We can't let him know about it.
+
+**Mike** [04:19]: He'll get upset. And what we found out was that there is no, like, there is no separate Jack and Ryu. They are a package deal. And so, like, the second player just has whatever the first player has as well. You don't, like, have separate equipment for that second character. Right, but it does make a big... So that's, like, the little trick that they're doing.
+
+**Joe** [04:42]: It does seemingly, I should say, make a big difference in these battles. Like, it doesn't look like it gives you, oh, you're playing two player, you're going to have double the enemies to fight or anything like that.
+
+**Sean** [04:51]: It's just... No, yeah, it doesn't.
+
+**Joe** [04:52]: It just halved the difficulty because you have a second person.
+
+**Sean** [04:55]: Exactly. I think that the whole game is balanced for having two people play, and I'm sure we'll get to that later. Yeah.
+
+**Mike** [05:02]: But, you know, on the map and in towns, it feels like a Dragon Quest parody in a way. Like, it's not taking itself overly serious, but it follows the same kind of story beats as one of those fantasy RPGs. When a fight starts, obviously, it turns into that Kung Fu Heroes. Joe, I don't know if you actually remember that game, but we did record it many years
+
+**Sean** [05:24]: ago. Yeah.
+
+**Joe** [05:25]: And that is the... I actually listened to that episode this week.
+
+**Mike** [05:27]: Okay, great. That is the... Was it essential? ...from the same series. No, it was not. Sam was on it. Oh, shit. But that series is called Super Chinese in Japan, and that's kind of confusing. Do they call it that in China as well?
+
+**Sean** [05:46]: Super Chinese China Land World.
+
+**Mike** [05:48]: Yeah, yeah, exactly. And so that was Super Chinese 1. This is Super Chinese 2, and it's like kind of a big difference because the Kung Fu Heroes game is like an arcade game. And now they're taking that element of that arcade game and making it how you do random encounters instead of, you know, the traditional turn-based battles where you just kind of input your commands. What do we think about that? I'm calling it ARPG, but it is kind of more like beat-em-up or brawler gameplay element in
+
+**Sean** [06:23]: this RPG. I like the idea of moving from sort of like remixing this whole random encounter, like JRPG thing and actually having it be not just a menu that you're interacting with.
+
+**Mike** [06:39]: I think that's a fun mix.
+
+**Sean** [06:42]: Joe, what were you going to say?
+
+**Joe** [06:44]: I was just going to say at first, I do really enjoy this.
+
+**Mike** [06:47]: It was kind of the same thing.
+
+**Joe** [06:48]: Like, I love a JRPG, I love turn-based combat, but it is really cool to see it switched up. But, you know, I can't pretend that I didn't get a little tired of getting into these battles
+
+**Mike** [07:02]: after, you know, a few hours of play.
+
+**Joe** [07:04]: But like, I mean, that's true for turn-based combat too. So, you know, I don't think it's a, I don't think, I think it's a, it's a nice refresher
+
+**Sean** [07:11]: for sure. Yeah, what's worse? Cycling through the same menus through really, like, you know, you don't really need to fight these guys, but they just keep coming. Or having something a little bit more engaging, but a bit more of like a time waster. Like, what is, what's the worst kind of grind?
+
+**Joe** [07:34]: I mean, I hate to say it for me personally, because I'm always kind of a big defender of turn-based combat among the friends of mine that aren't into that. But I think that that might be worse if you're like, a lot of turn-based games now, I really do think need to like balance it in such a way where you're not just doing a bunch of menuing over and over again for, you know, for, for 20 hours of just grinding where there's no strategy involved, whereas this at least, yes, is a time waster, but at least there's still that twitch reflex thing. So it's still, every encounter still can feel a little different because enemies can move
+
+**Mike** [08:10]: differently or whatever, you're in a fight.
+
+**Joe** [08:13]: It's close, but I do think that this does help mitigate that a little bit for like- I agree. A turn-based game where like you're, you're so deep in, you just got to grind and it's
+
+**Sean** [08:22]: like, well, there's no fun anymore.
+
+**Mike** [08:25]: You're taking a very active role when you're doing this kind of brawler-based combat where you actually like can't just turn off your mind and spam A on, you know, the generic attack button because you know that you're stronger than the enemy and they might chip away a little bit of damage, but nothing a potion can't solve in between battles. That kind of repetitive grind. But it is missing maybe more of the like in your head story flair that turn-based combat sometimes gives of like how, you know, like the decisions you make and like the story you create in your head of that battle is more exciting than the battle that plays out here in this like, all right. And so I just like move up the screen and I punch this guy in the face and he's gone and then I punch this guy and there's still guys around, but for whatever reason, I think I've cleared enough guys. So the battle just decides to end. It's kind of weird that you don't have to like kill everybody in order for the battle to end. It's like, did they run away? What happened? Because they kind of get blown away. Yeah. I always thought they ran away.
+
+**Sean** [09:23]: I like Joe's interpretation here. I've never, I think in like in a generic random encounter, I don't think I've ever had a story in my head about how a turn-based battle went, but I would find your description of it of like, oh, you killed enough of them and that just means it's over. However, that, that is weird, but Joe's description of they run away. Uh, I, I, I like that one better.
+
+**Joe** [09:53]: I also find it kind of interesting the way that you, um, have to only, only kill a certain amount because again, gameplay wise, it can make you like decide like, well, who do I want to fight here? Sometimes that you have multiple forms of enemies on the screen at once and like one's a real pain in the ass and the other's not. You can hope that there's enough of the other one to just kill all of them and avoid the one you don't want to fight and then they'll run away.
+
+**Sean** [10:15]: Does that affect the amount of experience you get?
+
+**Mike** [10:18]: I don't know. Yeah.
+
+**Sean** [10:20]: I don't, I don't know either, but I always avoided the weird, like crunchy balls with teeth and whatever else.
+
+**Joe** [10:29]: Like just, I hate those little totodile heads.
+
+**Mike** [10:31]: Yeah. The way the game starts, uh, you have an emergency TV broadcast, uh, that cuts in and the, uh, the blue bolt are the leader of the, uh, Yoma clan announces that he's kidnapped the emperor and taken over China land. Uh, you know, that's kind of, that's pretty funny. Uh, does seeing the world ending threat via TV broadcast make this feel more modern than like the other RPGs we get where, you know, the King summons you to the throne room or you have to like start out on some quest that isn't really part of the main quest. And then it turns out like everything was, was for not like, is this just like a more, uh, straightforward way of getting the player's attention and modernizing RPGs a little?
+
+**Sean** [11:19]: Yeah. That's, that's a good, that's a good, uh, way to phrase it. I, I appreciated it. Um, I think when you, when you said earlier that this is just a big parody of JRPGs, I, I totally agree with you. Um, I didn't, I haven't played the vast majority of this game to be honest, but of what I did play, it does seem like it's just playing around with the storytelling tropes that you see usually. And it's all just kind of nonsense. And I think learning about the big bad via a TV broadcast is right in line with that. So I'm a fan.
+
+**Mike** [12:02]: Yeah. Cause the tone of everything is kind of like just played for not, not like it's, it's the funniest thing ever, but it's played for like gentle comedy, you know, towns have fun names, NPCs crack jokes. Uh, it's, it's a save the world story, but it's kind of wrapped in this goofy kid-friendly
+
+**Sean** [12:20]: packaging. Gentle, kid-friendly, uh, cannibalism and stuff like that. Yeah. Sure.
+
+**Mike** [12:27]: Yeah. There, there's, there's moments. Yes. But like think about the town names, right?
+
+**Sean** [12:31]: You have, um, Deli Chews, which is delicious.
+
+**Mike** [12:35]: Uh, Silly City, but it's with a C instead of an S. Silly City is fun. Right. Because not only is it, not only is that silly, but it's a, it's a city where the people in the town have turned, like they're, they've become idiots.
+
+**Sean** [12:50]: Stupid. Uh, yeah.
+
+**Joe** [12:51]: Yeah. And someone in, I think someone in Delish-yus or whatever you call that town says like,
+
+**Sean** [12:56]: yeah, everyone over there turned stupid because of like a spell or something. It's just funny. Like, oh, a spell went over and turned over to all the citizens stupid.
+
+**Mike** [13:04]: Yeah. And like they say, some of them like balk like chickens, others moo like cows. One of them says, welcome to McRonald's. And I, well, like, oh, that's.
+
+**Sean** [13:14]: No, there's a McRonald's in the, in Delish-yus. Yeah. We do have fast food in this world. Well, at McRonald's.
+
+**Mike** [13:22]: Why not? Right? McRonald's, not McDonald's. There is one in Delish-yus.
+
+**Sean** [13:27]: I'm not in this. Oh, okay. Yeah. But they don't have any food because, anyway, go on.
+
+**Mike** [13:31]: Yeah. No, there's a town named Okay. Okay. Just, okay. Yeah, okay. And we're done. Some other, there's some other comedy though. No, there's some other comedy in the, like, in the battle commands of some of the fights against the evil queen. She has a, an attack called Be a Fool, which makes you like kind of confused and not attack directly and stuff. The Blue Boltar has an attack called I Wanna Knock You Out. And it just does big damage to the, to the player. I think all of that stuff is, is enough to keep a, to keep their audience, the audience they have in mind at least, entertained. The question is, does everything else, like the, the RPG progression, the real-time combat, the occasional turn-based fights, the two players simultaneous, is all of that stuff working? And I hate to become a company man here, but is it like working in synergy with one another? Or is this like breaking up the game too much? And there's like, there's the moments you like, and then there's like the chore part of the game. Does anything feel like a chore in this game?
+
+**Sean** [14:46]: You definitely could have used a better word. You didn't need to say synergy, Mike. Like, yeah, yeah, yeah. But it's okay. Well, Joe, you, say what you were going to say.
+
+**Joe** [14:54]: To me, all the things that you mentioned, I think like are nice together as like a, you know, like an interesting, like, oh, okay, we can do turn-based and the main combat is not turn-based, but there's turn-based boss battles.
+
+**Sean** [15:07]: There's the overworld and everything.
+
+**Joe** [15:08]: The one that, the one that is a step too far for me personally is the like track and field style mini games, which we haven't talked about, which are like a significant part of this game where you have to like collect balloons while you're like running to the finish line. And like, we've definitely seen this style, um, exactly before in a game. Um, maybe that would be more fun with a second player, but my experience with this type of, of like race, foot race gameplay on the NES has always been one player, two player, whatever has always been like, eh, I don't really enjoy it that much. So like that, I mean, even that I'm not like opposed to the idea of having things like that in there really, I just don't think that that's a great way to, to execute, uh, good
+
+**Sean** [15:50]: gameplay. I didn't have that much of an issue with it. I don't think you can fail that stuff, right? Like, you know, you can fail. Okay. Well, I did. I could fail. Well, at least the ones that I played, I didn't fail, but as long as it's simple enough, like I didn't have that big of a deal with it. It's a nice like tutorial, even though that it's adding other, other like gameplay elements to a tutorial. So it's not perfect, but, um, I, I found it less than, less than infuriating. Uh, I think that other parts of the game were too difficult, um, to kind of go back to our, our, our typical complaint about games. But, uh, yeah, I didn't really hate that part.
+
+**Mike** [16:38]: And the field events are required to how you unlock new techniques. Um, so they are, they are not like, even though they feel like this kind of optional mini game thing, and they're even a selectable thing on the main menu when you boot up the game of, do you want to do the adventure or just the field events? Uh, which feels like a crazy thing to say deliberately. I want to play this game right now to do this track and field style thing. Um, it is, it is a, um, it is a mandatory section that it does get kind of like, even though they switch up like how, like how the races go, it is always just kind of like get from, get, get from the left side of the screen to the right. And even when you have a second player who can, you know, you're like competing against
+
+**Sean** [17:22]: them. It's not like, it doesn't change anything about the states.
+
+**Mike** [17:26]: It just can become something like that you come up with against your other player of just like, yeah, I'll race you there. But like, you both still get the technique, uh, because that's just, you, you both share everything in the game. The loop of this game though is still the same as almost every other RPG around. And that is just, you know, walk around the overworld, find a story beat, fight random enemies, clear a dungeon or a boss, and then earn, like you're collecting these bells. Uh, that, how many of them are there?
+
+**Sean** [17:58]: Like seven bells.
+
+**Mike** [18:00]: Yeah. And once you have all those, presumably, you know, you'll be able to save China land. But in the, in the meantime, the game kind of like has this overworld that most, most of these NES RPGs have and most RPGs in general, where it's like, it pretends like it's a nonlinear thing where like, you can just go wherever you want and everything. But there's enough like story flags in this game to basically put you on rails. Like you have to go to this town to do this. And then this town to do that. There isn't like this sense of, you know, you can wander and stumble into enemies that are tougher or whatever. But like, there isn't this exploration, uh, that is happening. It's just kind of like, you're almost playing a little detective work to figure out like, where do I, what do I go next? What, what do I, where's the next bell?
+
+**Sean** [18:49]: Yeah. I, and I don't think that's like a, that's a, a crazy sin for the game, especially considering that when I think of any of the games that we play or like any of the JRPGs that we played so far, like they aren't huge open worlds where you can do whatever you want. Like there might be more ways to get off track, but there's always like the critical path that you got to go through. Right.
+
+**Mike** [19:16]: Yeah, that's true. I think Final Fantasy rewarded more of like, uh, revisiting stuff and going off the beaten path, but it didn't, it wasn't like, you know, they were locking it behind vehicles. You needed specific things, whether it be a canoe or an airship in order to get to the next story beat. And Little Ninja Brothers is just doing that in a different way.
+
+**Joe** [19:37]: Yeah. Weirdly enough, it's like with all the things that they've kind of added and thrown into this game to it, which sort of complicates it. It's actually feels like a simplified version of most RPGs. Like a, which is, again, isn't a bad thing. It's like, it's easy to pick up and play. I feel like you could, um, you know, I think someone used the term kid friendly. I mean, I think it is very kid friendly, except for that moment Sean was referencing, but, uh, it's like, it's just something about it being like straight, uh, like on rails ish, quote unquote, makes it feel a little more like, yeah, this is just like, uh, this isn't about like going off the beaten path. This is about just like kind of getting through the adventure.
+
+**Mike** [20:15]: Does the format change of going to the, the brawler ARPG battles, uh, does that enhance the experience here in the sense of we talked about the difference between that in turn-based combat, but like, could you now see a version where it's like now every random encounter is actually, uh, you know, a Tetris style puzzle game, or it's like now everything is a, uh, platforming thing where you have to like climb up a certain thing faster than the opponent. Can you do this with every genre available? Could you make a shmup RPG?
+
+**Sean** [20:49]: I'd play it. I would, I would give it a shot, regardless of what, uh, whatever weird genre you're mashing up. I would, I would, I would try it. Um, because I think that it is a genre that really benefits from messing with the expected
+
+**Mike** [21:09]: mechanics. Yeah.
+
+**Sean** [21:11]: I think there's a game that I remember playing.
+
+**Joe** [21:13]: I think we'll eventually get to it's like gargoyles quest, maybe then where it's like, uh, it is an overwork from what I remember. It is an overworld, like top down. I don't know if it's fully RPG, but it felt like an RPG back when I played it when I was a kid. Um, but you get into, you go to levels or you get into a, I guess it's not encounters. Now that I think about it, you go to like levels or you go to fights, you fight enemies
+
+**Sean** [21:39]: that are platforming levels. I find that interesting.
+
+**Joe** [21:43]: Like walking around on a final fantasy like map and then going to platforming levels.
+
+**Sean** [21:49]: I guess that's Zelda two, but, uh, I mean, essential, but Zelda two, um, yeah. Yeah. But, um, I forgot.
+
+**Joe** [21:58]: I was going to say something about, oh, I think that the, to me where it fails at doing this is not in like the mashing up these two genres. It's, I do think that there's a little bit, uh, more jank than I prefer in the actual ARPG segments of this game. I think that's where, like, if you're going to do this, you need both parts of your game or all parts of your game to be equally as polished.
+
+**Sean** [22:23]: I agree with that.
+
+**Mike** [22:24]: Yeah, because I think little Ninja Brothers could have gone the route of, uh, Willow or Crystallis where, you know, you just like fully embrace the ARPG thing. And the whole time it's in this brawler view, right? This bigger thing. And then you just, you know, you just explore the world that way to, to cut it up and break between them. Doesn't, um, doesn't interrupt the flow of gameplay by any means, but it does create this kind of, uh, repetitive task in the sense of, you know, the same way traditional turn-based
+
+**Sean** [23:04]: battles do it.
+
+**Mike** [23:05]: But in this game, how, how much do you, you know, like in, in a, in a turn-based combat game, you eventually gain some kind of crazy ability, whether it's magic or a job system or, um, some other unique hook that like, you know, uh, a summon or something. Does this game have that kind of expansion of the, uh, of the brawler section where the gameplay at the two hour mark is the same, uh, is different than the, than when you started?
+
+**Joe** [23:39]: You get the, like, you get like, maybe not quite as big of things as you get. You do get some stuff, you know, you get like better, I don't know. I don't know if it's like you have a gauntlet or something. You have better punches later as you, as you purchase things, you, you can get projectiles, you can get like little power-ups like that. But yeah, the gameplay is still the gameplay. Um, so it's hard to say, but I mean, it, it, I feel like it like goes a little ways along
+
+**Mike** [24:03]: that path. I think that there's, there are like certain commands you get too that like can change, you know, like not magic, but like in the sense of change up the gameplay to, to feel different, but it doesn't, and maybe this is just specific to me, but it doesn't feel as, um, rewarding as like when you unlock skills in, in a turn-based game where granted, like you're not in direct control, but now there's more like of a strategy element to it. And that's just maybe me not digging this brawler mechanic to it.
+
+**Joe** [24:39]: Yeah. I think it's, yeah, there is definitely something totally, totally different about like playing final fantasy game and having some kind of like ultimate attack that you can't really do if you're like the one fully in control, at least in this game. But I think it also, like it does add stuff. I think it's just not to circle back on the same thing, but I think just the weird janky hitboxes and some of the weird controls even make some of those power-ups not that easy to use. So it doesn't feel like I'm getting that much more powerful.
+
+**Sean** [25:08]: Yeah. I think that like my, my fan, my being a fan of the whole like genre remix doesn't, it doesn't especially mean that I had a lot of fun with the combat in this game. I think that it's a great concept, but the execution in this specifically, uh, wasn't entirely on
+
+**Mike** [25:34]: the mark. The處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處處
+
+**Mike** [26:21]: and it's worth mentioning that like you know the rpg progression of having levels equipment um you know reporting into the town stuff is all here too so there is this like if you're under leveled those even though they're real-time fights they can be grindy it's not just like oh you know like uh i'd still just have to punch this thing a certain amount of times like hey you have to punch it a lot if you're under leveled so there's still a balance in the same way that there is in you know a skill check in the turn-based combat where you can't just like plow through this game faster because because the mode isn't a turn-based combat it still checks you on that progression scale that all rpgs do and that's not even to mention that there is actually turn-based combat in this game uh against the the boss fights and it is it is simpler than the likes of its contemporaries but it has it still has stuff that you like don't you know it's not just like okay and now we're turn-based and do you want to punch defend flee it's not that kind of bare bones i don't know if anybody else has
+
+**Joe** [27:31]: any thoughts about that yeah i mean this is another one where i i really like the idea i actually really like the idea in general of just all combat all regular enemies are are action based and then the boss battles where the return base really really gets fun that is the that is your that's always turn-based i think what it didn't do well and i don't have a good solution for this maybe this is just always a problem if you kind of if you make a game like this is that by the time you get to some turn-based combat you're like okay what am i doing here like you're not like the fun of
+
+**Mike** [28:07]: getting to like a boss battle in a regular turn-based rpg is like you have all your strategies down
+
+**Joe** [28:12]: you've been planning all this stuff you've been building your character in a certain way you get to your first turn-based encounter in this game and it's like i guess i'm like kind of starting from scratch here now i didn't beat this game i'm sure that if you play through the whole thing and you're on you know you've you've you've fought seven or eight other turn-based bosses now you've kind of got a strategy down but it does feel like there's less of that time to like really adapt and like change up your style i don't know that's just me coming at it from like a uh more in a theoretical perspective but uh i i didn't get enough turn-based uh experience in to i really have an opinion how it works in this game i do think it's kind of weird that there are boss battles that are not turn-based like it feels like if you're going to pick one pick one or the other but uh yeah i don't know yeah i
+
+**Sean** [29:02]: don't know why they did this at all i i think that they've well whether or not you you think that there's enough here in the the standard combat um the the fact that they're now creating an entirely different system for fighting certain bosses i i just think it's just strange in a weird use of resources like if you've spent all this time creating a battle system that is completely different than the way that you're going to fight certain bosses um it just feels like you're squandering uh like the skills that the player has developed um the the system itself that you yourself have developed um it it's just this weird like half-baked version of what we're used to and i guess also not used to now that we've played most of the game um the other way so i don't know it's strange right when
+
+**Mike** [30:05]: you when you couple in the uh track and field stuff too it's like why stop there just keep throwing other genres at us make this like a huge hodgepodge of things um it's harmless enough but i agree sean it is kind of just like well why didn't you why didn't you commit uh because like it could have been a fun moment for like everything you learned in the you know in the normal because again a lot of the fights are just like here's x amount of enemies coming into the screen defeat a certain amount of them and the battle's over it's like this could have been a set piece moment for you to take on a boss uh in a different way than just like maybe they maybe they tried that and they were like well then it just kind of becomes punch them in the face a lot until they start to attack go go around them and then punch them in a different area like maybe they couldn't figure out how to make the bosses more challenging totally valid now the actual length of the game though like i know none of us beat it but it's not it's not a like 40 hour jrpg it's uh it's pretty manageable uh i i didn't check how long to beat but it doesn't have like too many towns or too many plot twists or too many like okay now backtrack through all this it is a pretty straightforward thing that factored in with like the you know the silly tone and everything this does feel like um like it has first rpg in mind you know like stripping out the turn-based stuff which kids like myself and i'm i'm not shy to say i was an idiot as a kid but like that kind of stuff was like hard for me to wrap my head around turn-based combat versus like just doing the actual things i think it's why i enjoyed platformers more than rpgs growing up was just because it's like yeah i just know like there's the flag and i gotta get to that right you know like there's the castle and i've gotta uh go inside it it's like it's a little like more abstract so maybe this whole thing is thinking about it like a kid's first rpg the battles being active the story being goofy the the bring in a friend anytime you want any any thoughts on that i know it's not i'm not saying the game is easy but i'm saying it's offering uh maybe a different experience than um something like even dragon warrior which was a pretty straightforward do this then that might have been hard for kids to even just understand yeah i don't think that it's it i mean it's definitely
+
+**Sean** [32:34]: doing something in a like a way that isn't taking itself too seriously like the whole story like you're saying the silly stuff that's going on there uh really plays into how basic the rpg mechanics are at least from the beginning like like within the first few minutes of the game instead of i know in some rpgs that i kind of make you decide like are you going to like buy a weapon or are you going to buy some armor or are you just going to try and like raw dog this from the beginning and in the beginning of this like just like oh you can buy everything basically from the beginning um and you'll you'll just have to you'll have to work from there um it's it seems to be like a super simple version of it and i i do appreciate that but it doesn't seem to be taking the rpg mechanics all that seriously at least in the beginning and i've really only played most of the beginning of this game because it does have a huge difficulty spike at least from my perspective that i just really couldn't deal with um but i'm rambling so somebody else take the wheel
+
+**Mike** [33:53]: how would you like to hear about the super chinese family of games do it all right uh as mentioned by joe at the start of the episode kung fu heroes which joe i'd just be interested real fast you said you listen to the episode what was our like general opinion i think we were kind of like we found it very
+
+**Joe** [34:11]: interesting i totally forgot that this game it was like you said it was all the um the the arpg combat but it was like you like moved from screen to screen each screen was like a different encounter i think we're talking a lot about how interesting it was i i don't i don't think any of us like
+
+**Mike** [34:30]: voted it too highly in the end yeah it's it is just a top-down action brawler with no rpg elements uh but yeah then this game winds up getting uh that game uh inside of it and then they continue this formula of this uh of this franchise with basically spanning the rpg elements but it gets this weird like okay this one's only coming out in japan this one's only this one can get a western release kind of like final fantasy uh was getting as well that treatment but on like a even less popular scale like i feel like you don't hear about these games anymore but they they got plenty of them uh there was super chinese 3 which uh also came out on the famicom and that is um just a uh another variation of this they didn't really change much and they wouldn't change much until uh super ninja boy uh which is the uh super nintendo sequel that takes uh the little ninjas uh the little ninja brothers formula and not only gives it more like a cleaner presentation or everything it's just a 16-bit evolution of the game and expands a lot on the uh rpg progression side of things not just the uh the battles in japan uh the the super ninja boy game on super nintendo was called super chinese world kind of like how super mario world on the super nintendo and then the game boy games for this super chinese series were called super chinese land so this is just following mario in every regard that the the get the the game boy games are land games and the super nintendo games are world games i guess uh the the game boy games are are not the same thing they're more like action focused um than they are rpg focused and then last but not least there's like three releases both super nintendo game boy and then eventually game boy color of a fighting game version of this whole super chinese franchise called super chinese fighter and it just is uh it does have a story mode to it a pretty meaty one at that too but it is a street fighter style clone where you are just picking the character of your choice and fighting through all of the uh other
+
+**Sean** [36:52]: characters interesting it's like the series really didn't know where what it wanted to be
+
+**Mike** [36:56]: but it wanted to be a big franchise i mean it's even copying like mario's naming conventions and stuff so it wants to be top of mind it's definitely ambitious doesn't yeah super chinese just doesn't really like roll off you know it's not great like they could the little ninja brothers thing is a great title but to go from kung fu heroes to little ninja brothers to super ninja boy they don't feel connected the three games even if gameplay is like shared i'm just trying to think of like
+
+**Sean** [37:26]: playing a game called like super american man or like hyper america and what was that game
+
+**Mike** [37:35]: metal wolf rex or whatever yeah yeah but that's still like that's metal wolf chaos
+
+**Sean** [37:41]: metal wolf chaos yeah but that's still like not in the name it's true it's true but that's like american president plus right when i think of super american man i'm thinking of metal wolf chaos
+
+**Mike** [37:55]: um yeah i agree joe it doesn't seem like they had a real plan for this and they didn't uh continue it much longer um it hasn't seen a new release of any kind the last release was super chinese one and two advance on the game boy advance which just bundles kung fu heroes and little ninja brothers together on the game boy advance in japan and the last we hear of little ninja brothers is that it showed up on the wii u virtual console so there was a chance to own it again uh and really own it not that subscription bullshit where you uh you know for for x amount of dollars a month you can play a select few nintendo it's like come on nintendo cut it out let me buy these games cut it out
+
+**Mike** [38:38]: um if you had to recommend super chinese uh to to somebody not that you guys ever would i know you uh but if you had to be like oh you like you want to check out the super chinese series are you giving them little ninja brothers or are you just saying like you know what kung fu heroes it's the it's the bare bones it's the basic experience it sums up the entire franchise even though it's the first entry
+
+**Sean** [39:00]: which one are you going with i'm giving them little ninja brothers every time
+
+**Joe** [39:04]: between those two i feel like i remember i just that one it was forgettable to me this one this one
+
+**Sean** [39:11]: is it has some intrigue to it yeah i don't remember uh a goddamn thing of whatever the other thing that joe said is um i thought you just don't remember a goddamn thing i mean i don't remember a goddamn thing just in general but like that is one of the examples of things i don't remember a goddamn thing about um whereas i'd like to assume that maybe uh the i like the the the game that had a concept of a sort of beat-em-up but also jrpg where uh that you you go to a mcdonald's but they don't have any food because the mayor stole all the food and he because he wants to eat you all like i might remember that
+
+**Mike** [39:54]: one i hope you do i hope so too we have one last encounter to face and that is deciding whether little ninja brothers earns a place on the essential games list
+
+**Mike** [40:10]: little ninja brothers has a great vibe to it it feels like this manga um rpg adventure you know good colors lots of jokes uh not not chibi like uh jackie chan was but kind of um or at least cutesy in that way it doesn't feel uh like it's trying to be intense or or dragon ball z uh it's just trying to be more light-hearted and two kids going to two brothers i shouldn't say kids they're brothers uh they're brothers on a mission and uh that mission is kind of like whatever uh when i was reading that stuff at the beginning it was of the episode about the plot it was just a joke about all these like nonsensical things and that's what rpgs wind up becoming so because the story is kind of like whatever especially like in these older games these older rpgs are pretty basic in that regard it winds up becoming well what's the gameplay loop and i think after i did like the first time of you know explore the overworld go to the town talk to everybody figure out the beat do the random encounters beat the first boss it was like well do i really want to invest much more time in that i think like sometimes rpgs just become like things to do or stories to experience and this one felt more in the things to do category and there are tons of rpgs out there so i don't think this one stands out for any other reason than that it like threw in so much into one nes game to have rpg progression real-time brawling combat occasional turn-based fights and two-player simultaneous co-op is like pretty remarkable but the only way you'd catch me playing this game again is with a second player if joe slept over my house again then i would have to play this game again but otherwise i'm not gonna not me and that's why um you heard use if you slept
+
+**Sean** [42:13]: you guys have monster trucks okay right right right we have to go we have to do that actually
+
+**Mike** [42:18]: we didn't do that uh nobody knows what we're talking about so i it's a no joe for me this is a
+
+**Joe** [42:23]: definite play it i think i got a little negative on it in the back half of this uh this episode i i think this game has a lot of charm it's fun it's it's it's interesting and it's different i i i enjoyed my time with it i think there's a lot there's enough things holding it back from me voting it essential namely the the combat being just a little weird i just feel like every the hitboxes are right i keep bringing it up they're very janky i i was often in a battle and like i guess i gotta take like one tiny quarter step back before i'm actually hitting this person sometimes i felt like i was punching through the person but it wasn't hitting him because my fist is like hitting on the other side of him weird things like that when when you're running into so many combat uh action combat encounters as you do in this game and they don't feel perfect to play that that kind of compounds on itself and gets a little annoying and that and the sort of underdeveloped turn base as far as uh i played like that that holds it back but i i don't want that to say that go this game sucks or anything like that i think this is a cool game to check out and definitely like a uh a step up from kung fu
+
+**Sean** [43:28]: heroes to me so i'd give this a play it sean yeah it's definitely unique and uh i'm always a fan of unique um i think there's a i do think there's enough jank here um as joe was saying that i just i can't really recommend playing it because of how jank it is but i i wouldn't i wouldn't judge anyone for doing so um so yeah not not my bag but not also also not essential all right uh next week the ninja
+
+**Mike** [44:06]: saga continues uh i guess there were there were some ninjas and you've beat up some ninjas in jackie chan's kung fu game so three ninja games in a row who knows maybe there are ninjas in uh nintendo world cup too so maybe there's four ninja games in a row uh but there would definitely be a ninja game next week with ninja crusaders sounds pretty awesome sounds weird ninja crusaders were they around during
+
+**Joe** [44:31]: the crusades see if it's like a if it's like a uh european medieval crusader i mean that's interesting because uh you know like it's like how the jedi were based on like samurai and knights it's like on ninjas and medieval crusaders like i think that's always a good uh good combination mixing
+
+**Mike** [44:48]: east and west is ninja stock at an all-time low like today are you in 1990 no no today like 2025 is it like if you bought ninja stock in 1990 you you've lost like 95 of the value or do we think ninjas are
+
+**Sean** [45:04]: still like kind of a big deal well i mean if you want to buy the dip then you're more than welcome to speculate but i'd say that yeah you you've lost most of your uh most of your cost basis yeah you need
+
+**Mike** [45:18]: like ninjas need to merge with like cyberpunk to get back you know it's like we need ninja punk where's that you

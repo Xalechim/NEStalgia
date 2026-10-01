@@ -361,14 +361,14 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 400 | Werewolf: The Last Warrior | [notes](400-werewolf-the-last-warrior.md) |
 | 401 | WWF Wrestlemania Challenge | [notes](401-wwf-wrestlemania-challenge.md), [transcript](../transcripts/401-wwf-wrestlemania-challenge.md) |
 | 402 | Yo! Noid | [notes](402-yo-noid.md), [transcript](../transcripts/402-yo-noid.md) |
-| 403 | The Adventures of Rad Gravity | [notes](403-the-adventures-of-rad-gravity.md) |
-| 404 | Bandit Kings of Ancient China | [notes](404-bandit-kings-of-ancient-china.md) |
-| 405 | Deja Vu: A Nightmare Comes True!! | [notes](405-deja-vu-a-nightmare-comes-true.md) |
-| 406 | Digger T. Rock | [notes](406-digger-t-rock.md) |
-| 407 | Dirty Harry | [notes](407-dirty-harry.md) |
-| 408 | Dragon's Lair | [notes](408-dragons-lair.md) |
-| 409 | Jackie Chan's Action Kung-Fu | [notes](409-jackie-chans-action-kung-fu.md) |
-| 410 | Little Ninja Brothers | [notes](410-little-ninja-brothers.md) |
+| 403 | The Adventures of Rad Gravity | [notes](403-the-adventures-of-rad-gravity.md), [transcript](../transcripts/403-rad-gravity.md) |
+| 404 | Bandit Kings of Ancient China | [notes](404-bandit-kings-of-ancient-china.md), [transcript](../transcripts/404-bandit-kings-of-ancient-china.md) |
+| 405 | Deja Vu: A Nightmare Comes True!! | [notes](405-deja-vu-a-nightmare-comes-true.md), [transcript](../transcripts/405-deja-vu.md) |
+| 406 | Digger T. Rock | [notes](406-digger-t-rock.md), [transcript](../transcripts/406-digger-t-rock.md) |
+| 407 | Dirty Harry | [notes](407-dirty-harry.md), [transcript](../transcripts/407-dirty-harry.md) |
+| 408 | Dragon's Lair | [notes](408-dragons-lair.md), [transcript](../transcripts/408-dragons-lair.md) |
+| 409 | Jackie Chan's Action Kung-Fu | [notes](409-jackie-chans-action-kung-fu.md), [transcript](../transcripts/409-jackie-chans-action-kung-fu.md) |
+| 410 | Little Ninja Brothers | [notes](410-little-ninja-brothers.md), [transcript](../transcripts/410-little-ninja-brothers.md) |
 | 411 | Ninja Crusaders | [notes](411-ninja-crusaders.md) |
 | 412 | Nintendo World Cup | [notes](412-nintendo-world-cup.md) |
 | 413 | North and South | [notes](413-north-and-south.md) |
