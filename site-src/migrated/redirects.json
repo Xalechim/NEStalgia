@@ -1,0 +1,1000 @@
+{
+  "/nestalgia/podcast/wizardsandwarriors": {
+    "kind": "episode",
+    "title": "089 - WIZARDS &amp; WARRIORS",
+    "number": 89
+  },
+  "/nestalgia/podcast/megaman": {
+    "kind": "episode",
+    "title": "088 - MEGA MAN",
+    "number": 88
+  },
+  "/nestalgia/podcast/sidepocket": {
+    "kind": "episode",
+    "title": "087 - SIDE POCKET",
+    "number": 87
+  },
+  "/nestalgia/podcast/topgun": {
+    "kind": "episode",
+    "title": "086 - TOP GUN",
+    "number": 86
+  },
+  "/nestalgia/podcast/superpitfall": {
+    "kind": "episode",
+    "title": "085 - SUPER PITFALL",
+    "number": 85
+  },
+  "/nestalgia/podcast/starforce": {
+    "kind": "episode",
+    "title": "084 - STAR FORCE",
+    "number": 84
+  },
+  "/nestalgia/podcast/kidniki": {
+    "kind": "episode",
+    "title": "083 - KID NIKI: RADICAL NINJA",
+    "number": 83
+  },
+  "/nestalgia/podcast/karatekid": {
+    "kind": "episode",
+    "title": "082 - THE KARATE KID",
+    "number": 82
+  },
+  "/nestalgia/podcast/jaws": {
+    "kind": "episode",
+    "title": "081 - JAWS",
+    "number": 81
+  },
+  "/nestalgia/podcast/gotcha": {
+    "kind": "episode",
+    "title": "080 - GOTCHA! THE SPORT!",
+    "number": 80
+  },
+  "/nestalgia/podcast/thegooniesii": {
+    "kind": "episode",
+    "title": "079 - THE GOONIES II",
+    "number": 79
+  },
+  "/nestalgia/podcast/zanac": {
+    "kind": "episode",
+    "title": "078 - ZANAC",
+    "number": 78
+  },
+  "/nestalgia/podcast/radracer": {
+    "kind": "episode",
+    "title": "077 - RAD RACER",
+    "number": 77
+  },
+  "/nestalgia/podcast/miketysonspunchout": {
+    "kind": "episode",
+    "title": "076 - MIKE TYSON’S PUNCH OUT",
+    "number": 76
+  },
+  "/nestalgia/podcast/lunarpool": {
+    "kind": "episode",
+    "title": "075 - LUNAR POOL",
+    "number": 75
+  },
+  "/nestalgia/podcast/alphamission": {
+    "kind": "episode",
+    "title": "074 - ALPHA MISSION",
+    "number": 74
+  },
+  "/nestalgia/podcast/wintergames": {
+    "kind": "episode",
+    "title": "073 - WINTER GAMES",
+    "number": 73
+  },
+  "/nestalgia/podcast/tigerheli": {
+    "kind": "episode",
+    "title": "072 - TIGER HELI",
+    "number": 72
+  },
+  "/nestalgia/podcast/stinger": {
+    "kind": "episode",
+    "title": "071 - STINGER",
+    "number": 71
+  },
+  "/nestalgia/podcast/starvoyager": {
+    "kind": "episode",
+    "title": "070 - STAR VOYAGER",
+    "number": 70
+  },
+  "/nestalgia/podcast/stadiumevents": {
+    "kind": "episode",
+    "title": "069 - STADIUM EVENTS",
+    "number": 69
+  },
+  "/nestalgia/podcast/sqoon": {
+    "kind": "episode",
+    "title": "068 - SQOON",
+    "number": 68
+  },
+  "/nestalgia/podcast/spyhunter": {
+    "kind": "episode",
+    "title": "067 - SPY HUNTER",
+    "number": 67
+  },
+  "/nestalgia/podcast/spelunker": {
+    "kind": "episode",
+    "title": "066 - SPELUNKER",
+    "number": 66
+  },
+  "/nestalgia/podcast/skykid": {
+    "kind": "episode",
+    "title": "065 - SKY KID",
+    "number": 65
+  },
+  "/nestalgia/podcast/ringking": {
+    "kind": "episode",
+    "title": "064 - RING KING",
+    "number": 64
+  },
+  "/nestalgia/podcast/raidonbungelingbay": {
+    "kind": "episode",
+    "title": "063 - RAID ON BUNGELING BAY",
+    "number": 63
+  },
+  "/nestalgia/podcast/loderunner": {
+    "kind": "episode",
+    "title": "062 - LODE RUNNER",
+    "number": 62
+  },
+  "/nestalgia/podcast/doubledribble": {
+    "kind": "episode",
+    "title": "061 - DOUBLE DRIBBLE",
+    "number": 61
+  },
+  "/nestalgia/podcast/deadlytowers": {
+    "kind": "episode",
+    "title": "060 - DEADLY TOWERS",
+    "number": 60
+  },
+  "/nestalgia/podcast/3dbattlesofworldrunner": {
+    "kind": "episode",
+    "title": "059 - THE 3-D BATTLES OF WORLDRUNNER",
+    "number": 59
+  },
+  "/nestalgia/podcast/legendofzelda": {
+    "kind": "episode",
+    "title": "058 - THE LEGEND OF ZELDA",
+    "number": 58
+  },
+  "/nestalgia/podcast/metroid": {
+    "kind": "episode",
+    "title": "057 - METROID",
+    "number": 57
+  },
+  "/nestalgia/podcast/legendofkage": {
+    "kind": "episode",
+    "title": "056 - The Legend of Kage",
+    "number": 56
+  },
+  "/nestalgia/podcast/elevatoraction": {
+    "kind": "episode",
+    "title": "055 - ELEVATOR ACTION",
+    "number": 55
+  },
+  "/nestalgia/podcast/athena": {
+    "kind": "episode",
+    "title": "054 - ATHENA",
+    "number": 54
+  },
+  "/nestalgia/podcast/arkanoid": {
+    "kind": "episode",
+    "title": "053 - ARKANOID",
+    "number": 53
+  },
+  "/nestalgia/podcast/solomonskey": {
+    "kind": "episode",
+    "title": "052 - SOLOMON'S KEY",
+    "number": 52
+  },
+  "/nestalgia/podcast/sectionz": {
+    "kind": "episode",
+    "title": "051 - SECTION Z",
+    "number": 51
+  },
+  "/nestalgia/podcast/rygar": {
+    "kind": "episode",
+    "title": "050 - RYGAR",
+    "number": 50
+  },
+  "/nestalgia/podcast/mightybombjack": {
+    "kind": "episode",
+    "title": "049 - MIGHTY BOMB JACK",
+    "number": 49
+  },
+  "/nestalgia/podcast/kidicarus": {
+    "kind": "episode",
+    "title": "048 - KID ICARUS",
+    "number": 48
+  },
+  "/nestalgia/podcast/breakthru": {
+    "kind": "episode",
+    "title": "47 - BreakThru",
+    "number": 47
+  },
+  "/nestalgia/podcast/athleticworld": {
+    "kind": "episode",
+    "title": "046 - ATHLETIC WORLD",
+    "number": 46
+  },
+  "/nestalgia/podcast/ikariwarriors": {
+    "kind": "episode",
+    "title": "045 - IKARI WARRIORS",
+    "number": 45
+  },
+  "/nestalgia/podcast/castlevania": {
+    "kind": "episode",
+    "title": "044 - CASTLEVANIA",
+    "number": 44
+  },
+  "/nestalgia/podcast/burgertime": {
+    "kind": "episode",
+    "title": "043 - BURGERTIME",
+    "number": 43
+  },
+  "/nestalgia/podcast/trackandfield": {
+    "kind": "episode",
+    "title": "042 - TRACK &amp; FIELD",
+    "number": 42
+  },
+  "/nestalgia/podcast/rushnattack": {
+    "kind": "episode",
+    "title": "041 - RUSH'N ATTACK",
+    "number": 41
+  },
+  "/nestalgia/podcast/volleyball": {
+    "kind": "episode",
+    "title": "040 - VOLLEYBALL",
+    "number": 40
+  },
+  "/nestalgia/podcast/slalom": {
+    "kind": "episode",
+    "title": "039 - SLALOM",
+    "number": 39
+  },
+  "/nestalgia/podcast/prowrestling": {
+    "kind": "episode",
+    "title": "038 - PRO WRESTLING",
+    "number": 38
+  },
+  "/nestalgia/podcast/trojan": {
+    "kind": "episode",
+    "title": "037 - TROJAN",
+    "number": 37
+  },
+  "/nestalgia/podcast/bestof1986": {
+    "kind": "episode",
+    "title": "SPECIAL 002 - BEST OF 1986",
+    "number": 2
+  },
+  "/nestalgia/podcast/karatechamp": {
+    "kind": "episode",
+    "title": "036 - KARATE CHAMP",
+    "number": 36
+  },
+  "/nestalgia/podcast/gradius": {
+    "kind": "episode",
+    "title": "035 - GRADIUS",
+    "number": 35
+  },
+  "/nestalgia/podcast/ghostsngoblins": {
+    "kind": "episode",
+    "title": "034 - GHOSTS 'N GOBLINS",
+    "number": 34
+  },
+  "/nestalgia/podcast/commando": {
+    "kind": "episode",
+    "title": "033 - COMMANDO",
+    "number": 33
+  },
+  "/nestalgia/podcast/1942": {
+    "kind": "episode",
+    "title": "032 - 1942",
+    "number": 32
+  },
+  "/nestalgia/podcast/ninjakid": {
+    "kind": "episode",
+    "title": "031 - NINJA KID",
+    "number": 31
+  },
+  "/nestalgia/podcast/muscle": {
+    "kind": "episode",
+    "title": "030 - M.U.S.C.L.E Tag Team Match",
+    "number": 30
+  },
+  "/nestalgia/podcast/chubbycherub": {
+    "kind": "episode",
+    "title": "029 - CHUBBY CHERUB",
+    "number": 29
+  },
+  "/nestalgia/podcast/tagteamwrestling": {
+    "kind": "episode",
+    "title": "028 - TAG TEAM WRESTLING",
+    "number": 28
+  },
+  "/nestalgia/podcast/urbanchampion": {
+    "kind": "episode",
+    "title": "027 - Urban Champion",
+    "number": 27
+  },
+  "/nestalgia/podcast/machrider": {
+    "kind": "episode",
+    "title": "026 - MACH RIDER",
+    "number": 26
+  },
+  "/nestalgia/podcast/gumshoe": {
+    "kind": "episode",
+    "title": "025 - GUMSHOE",
+    "number": 25
+  },
+  "/nestalgia/podcast/balloonfight": {
+    "kind": "episode",
+    "title": "024 - BALLOON FIGHT",
+    "number": 24
+  },
+  "/nestalgia/podcast/popeye": {
+    "kind": "episode",
+    "title": "023 - POPEYE",
+    "number": 23
+  },
+  "/nestalgia/podcast/mariobros": {
+    "kind": "episode",
+    "title": "022 - MARIO BROS.",
+    "number": 22
+  },
+  "/nestalgia/podcast/dkjrmath": {
+    "kind": "episode",
+    "title": "021 - DONKEY KONG JR. MATH",
+    "number": 21
+  },
+  "/nestalgia/podcast/nestalgia/blog/donkeykong3": {
+    "kind": "episode",
+    "title": "020 - DONKEY KONG 3",
+    "number": 20
+  },
+  "/nestalgia/podcast/donkeykongjr": {
+    "kind": "episode",
+    "title": "019 - DONKEY KONG JR.",
+    "number": 19
+  },
+  "/nestalgia/podcast/donkeykong": {
+    "kind": "episode",
+    "title": "018 - DONKEY KONG",
+    "number": 18
+  },
+  "/nestalgia/podcast/bestof1985": {
+    "kind": "episode",
+    "title": "Special - Best of 1985",
+    "number": null
+  },
+  "/nestalgia/podcast/wreckingcrew": {
+    "kind": "episode",
+    "title": "017 - Wrecking Crew",
+    "number": 17
+  },
+  "/nestalgia/podcast/wildgunman": {
+    "kind": "episode",
+    "title": "016 - Wild Gunman",
+    "number": 16
+  },
+  "/nestalgia/podcast/tennis": {
+    "kind": "episode",
+    "title": "015 - TENNIS",
+    "number": 15
+  },
+  "/nestalgia/podcast/supermariobros": {
+    "kind": "episode",
+    "title": "014 - SUPER MARIO BROS.",
+    "number": 14
+  },
+  "/nestalgia/podcast/stackup": {
+    "kind": "episode",
+    "title": "013 - STACK-UP",
+    "number": 13
+  },
+  "/nestalgia/podcast/soccer": {
+    "kind": "episode",
+    "title": "012 - SOCCER",
+    "number": 12
+  },
+  "/nestalgia/podcast/pinball": {
+    "kind": "episode",
+    "title": "011 - Pinball",
+    "number": 11
+  },
+  "/nestalgia/podcast/kungfu": {
+    "kind": "episode",
+    "title": "010 - KUNG FU*",
+    "number": 10
+  },
+  "/nestalgia/podcast/iceclimber": {
+    "kind": "episode",
+    "title": "009 - ICE CLIMBER",
+    "number": 9
+  },
+  "/nestalgia/podcast/hogansalley": {
+    "kind": "episode",
+    "title": "008 - Hogan's Alley",
+    "number": 8
+  },
+  "/nestalgia/podcast/gyromite": {
+    "kind": "episode",
+    "title": "007 - Gyromite",
+    "number": 7
+  },
+  "/nestalgia/podcast/golf": {
+    "kind": "episode",
+    "title": "006 - Golf",
+    "number": 6
+  },
+  "/nestalgia/podcast/excitebike": {
+    "kind": "episode",
+    "title": "005 - Excitebike",
+    "number": 5
+  },
+  "/nestalgia/podcast/duckhunt": {
+    "kind": "episode",
+    "title": "004 - Duck Hunt",
+    "number": 4
+  },
+  "/nestalgia/podcast/clucluland": {
+    "kind": "episode",
+    "title": "003 - Clu Clu Land",
+    "number": 3
+  },
+  "/nestalgia/podcast/baseball": {
+    "kind": "episode",
+    "title": "002 - Baseball",
+    "number": 2
+  },
+  "/nestalgia/podcast/10yardfight": {
+    "kind": "episode",
+    "title": "001 - 10-Yard Fight",
+    "number": 1
+  },
+  "/nestalgia/podcast": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Fighting+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Adventure+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Specials": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Platformer+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Flight+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/1986+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Zapper+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Power+Pad+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Educational+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Action+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Arcade+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/1988+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Racing+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Puzzle+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Run+and+Gun+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Beat+em%27+Up+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/R.O.B+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Iwata": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/1987+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Sports+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Launch+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/SHMUP+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/Movie+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/category/RPG+Games": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Tokuro+Fujiwara": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Tsukasa+Masuko": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/mini+golf": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Human+Entertainment": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Kenji+Miki": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Koji+Kondo": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Mega+Man": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Bandai": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Special": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Masayoshi+Kurokawa": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Satoe+Terashima": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Atlus": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Yoshiki+Okamoto": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Gunpei+Yokoi": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Tohru+Narihiro": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Akihiko+Nagata": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/mario": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/David+Wise": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/TOSE": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Square": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/broderbund": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/FCI": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Masato+Masuda": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/1985": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Broderbund": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Activision": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Baseball": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Isamu+Hirano": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Nobuo+Uematsu": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Nintendo+R%26D4": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Nintendo+R%26D3": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Nintendo+R%26D2": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Taito": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Nintendo+R%26D1": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Takashi+Nishiyama": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/ASCII+Corporation": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Naoki+Kodaka": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/racing": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/nintendo": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Satoru+Iwata": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Hironobu+Sakaguchi": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Tamtex": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Kazuaki+Morita": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Ayako+Mori": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Toshio+Arima": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Yukio+Kaneoka": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/SNK": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Hiroshi+Imanishi": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Konami": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Makoto+Kano": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/R.+Nagasu": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Kazuhiro+Aoyama": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Satoshi+Matsuoka": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Capcom": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/HAL+Laboratory": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Magical+Company": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Noriyasu+Togakushi": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Tim+Stamper": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/NES": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/micro+graphic+image": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Seiji+Matsunaga": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Intelligent+Systems": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Yasunari+Soejima": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Michitaka+Tsuruta": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Kiyohiro+Sada": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Manami+Matsumae": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Toru+Osawa": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Bally+Midway": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Hisayoshi+Ogura": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/tim+martin": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/George+Gomez": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Technos+Japan": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Data+East": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Tradewest": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/LJN": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/golf+game+online": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Irem": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Keiko+Iju": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Akira+Fujita": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Junko+Ozawa": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Chris+Stamper": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/NEStalgia": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Doug+Smith": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Acclaim+Entertainment": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Namco": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Sports": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/irem": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Golf": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/R%26D1": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Westone+Bit+Entertainment": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Hiroyasu+Machiguchi": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Shinichi+Sakamoto": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Michiharu+Hasuya": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Nobuhiro+Matsuoka": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Satoru+Okada": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Lenar": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Shigeru+Miyamoto": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Yoshio+Sakamoto": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Hiroki+Aoyagi": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Hirokazu+Tanaka": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Hitoshi+Akamatsu": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/game": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Sunsoft": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Kinuyo+Yamashita": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Genyo+Takeda": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Shinichi+Nakamoto": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Toaplan": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Takashi+Tezuka": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Yoshinobu+Kasukawa": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Hudson+Soft": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Akira+Kitamura": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Keiji+Inafune": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Tecmo": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Parker+Brothers": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Micronics": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Akito+Nakatsuka": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Escape": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Hiroji+Kiyotake": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Tatsuya+Uemura": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Miki+Higashino": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Action+Graphics": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Rare": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/super+mario+bros": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/arcade": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Football": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/I.+Marui": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/William+Wright": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Toshiaki+Imai": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Nasir+Gebelli": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/launch+game": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Tehkan+Ltd.": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Toshihiko+Nakago": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Tom+Leon": {
+    "kind": "other"
+  },
+  "/nestalgia/podcast/tag/Junichi+Mizutari": {
+    "kind": "other"
+  },
+  "/articles": {
+    "kind": "other"
+  },
+  "/articles/category/Articles": {
+    "kind": "other"
+  },
+  "/articles/category/Romhacks": {
+    "kind": "other"
+  },
+  "/articles/tag/nintendo": {
+    "kind": "other"
+  },
+  "/articles/tag/ice+climber": {
+    "kind": "other"
+  },
+  "/articles/tag/super+mario+bros": {
+    "kind": "other"
+  },
+  "/articles/tag/Miyamoto": {
+    "kind": "other"
+  },
+  "/articles/tag/inside": {
+    "kind": "other"
+  },
+  "/articles/tag/tennis": {
+    "kind": "other"
+  },
+  "/articles/tag/deep+dive": {
+    "kind": "other"
+  },
+  "/articles/tag/golf": {
+    "kind": "other"
+  },
+  "/articles/tag/excitebike": {
+    "kind": "other"
+  },
+  "/articles/tag/launch+games": {
+    "kind": "other"
+  },
+  "/articles/tag/donkey+kong": {
+    "kind": "other"
+  },
+  "/articles/tag/baseball": {
+    "kind": "other"
+  },
+  "/articles/tag/nes": {
+    "kind": "other"
+  },
+  "/contact": {
+    "kind": "other"
+  },
+  "/episodes": {
+    "kind": "other"
+  },
+  "/404": {
+    "kind": "other"
+  },
+  "/show-notes": {
+    "kind": "other"
+  },
+  "/home": {
+    "kind": "other"
+  },
+  "/cocktail": {
+    "kind": "other"
+  }
+}
