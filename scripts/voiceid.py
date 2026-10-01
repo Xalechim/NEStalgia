@@ -78,25 +78,49 @@ def load_tracks(spec: str) -> dict:
     return tracks
 
 
-def mix_chunks(mix_path: str, spec: str, min_dur=2.0, ratio=3.0):
-    """Segments of the *mixdown* labelled by the host mic tracks (clear solo speech only)."""
+CACHE = MODELS / "cache"
+
+
+def mix_segments(mix_path: str, spec: str):
+    """All sentences of the mixdown (>= 1 s) with the host named by the mic tracks.
+
+    Yields (start, end, host, clear, samples); `clear` means one mic was at least
+    3x louder than the next, i.e. no crosstalk, so the label is trustworthy.
+    """
+    import json
+
     import mlx_whisper
-    from transcribe import WHISPER_MODEL, track_label_fn
+    from transcribe import WHISPER_MODEL, label_words, track_label_fn
 
     with tempfile.TemporaryDirectory() as td:
         wav = os.path.join(td, "mix.wav")
         to_wav(mix_path, wav)
         mix = read_wav(wav)
-        res = mlx_whisper.transcribe(wav, path_or_hf_repo=WHISPER_MODEL, condition_on_previous_text=True, verbose=None)
+        cache = CACHE / (Path(mix_path).stem + ".json")
+        if cache.exists():
+            res = json.loads(cache.read_text())
+        else:
+            res = mlx_whisper.transcribe(
+                wav, path_or_hf_repo=WHISPER_MODEL, word_timestamps=True,
+                condition_on_previous_text=True, verbose=None,
+            )
+            CACHE.mkdir(parents=True, exist_ok=True)
+            cache.write_text(json.dumps(res, default=float))
     who = track_label_fn(mix, load_tracks(spec))
-    for s in res["segments"]:
-        a, b = s["start"], s["end"]
-        if b - a < min_dur:
+    segs = [s for s in res["segments"] if s["text"].strip()]
+    for a, b, host, _ in label_words(segs, who):
+        if b - a < 1.0:
             continue
         en = sorted(who.energies(a, b).items(), key=lambda kv: -kv[1])
-        if len(en) > 1 and en[0][1] < ratio * en[1][1]:
-            continue  # crosstalk or unclear
-        yield en[0][0], mix[int(a * SR) : int(b * SR)]
+        clear = len(en) < 2 or en[0][1] >= 3.0 * en[1][1]
+        yield a, b, host, clear, mix[int(a * SR) : int(b * SR)]
+
+
+def mix_chunks(mix_path: str, spec: str, min_dur=2.0):
+    """Clear, solo-speaker sentences of the mixdown, for training."""
+    for a, b, host, clear, chunk in mix_segments(mix_path, spec):
+        if clear and b - a >= min_dur:
+            yield host, chunk
 
 
 def enroll_mix(args):

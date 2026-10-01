@@ -44,3 +44,12 @@ Your transcript is saved in the `transcripts` folder as a normal text file you c
 - It doesn't work for episodes whose MP3 isn't on your Mac yet.
 - It doesn't edit the transcript. If a name or word is wrong, open the `.md` file in `transcripts` and fix it by hand, then publish again.
 - Bytes episodes (`NB …`) and SNEStalgia aren't supported yet. Ask Claude to add them.
+
+## Teaching it more voices (optional)
+
+1. Open the same `scripts` folder and double-click **Add Voices.command**.
+2. Type episode numbers that have each host's own mic recording in Audition Projects, separated by spaces, like `447 448 449`. Then press Enter.
+3. Wait a few minutes per episode. It prints a re-test table comparing how well the old voice samples and the new ones name speakers.
+4. It asks **Keep the new voice samples? (y/n)**. Type `y` to keep them. Your old samples are backed up as `profiles.backup.npz` in the `.nestalgia-models` folder.
+
+Episodes already added are skipped. It only helps with Mike, Sean and Joe; it can't learn Sam or guests, who have no mic recordings.

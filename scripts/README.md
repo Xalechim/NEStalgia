@@ -36,6 +36,10 @@ Local, free transcripts with speaker labels. Nothing here uploads audio.
 - `transcribe.py --profiles ~/.nestalgia-models/profiles.npz` names speakers by voice when there are no mic tracks (sentence-level; the opening
   "I'm Mike / I'm Sean / I'm Joe" is labeled "Hosts"). Profiles come from 8 episodes (438, 439, 442-446, 450). First run: episode 400 (85 min, about 5 minutes).
 
+- `add_voices.py` (double-click `Add Voices.command`) adds episodes with mic tracks to the voice profiles and re-tests leave-one-episode-out.
+  Test with 447 and 448 (two-host episodes): airtime accuracy 88.5% before vs 88.7% after, so adding single episodes shows diminishing returns.
+  Accuracy is limited more by short interjections than by sample count. On two-host episodes errors include naming the absent third host.
+
 ## Published so far
 
 - `transcripts/446-touchdown-fever.md` / `.vtt`, speakers named from the mic tracks.
