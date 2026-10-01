@@ -1,0 +1,32 @@
+# 094 - Town & Country Surf Designs: Wood and Water Rage
+
+- Back of the Box
+- Manual
+- Introductions
+- Do you know anything about T&C Surf Designs?
+  - Those are their mascots
+  - Da Boys likely has to do with the explosion of kids cartoon animation coming back to the forefront.
+- Tales from the Manual
+  - Very foreign words in the introduction for me.
+  - Joe Cool. I thought that was Snoopy
+- Gameplay
+  - Beautiful waves as soon as the game boots
+  - Skate Session
+    - The graphics are nice, but does this feel like a ghost town?
+    - Anything can hit you. The lack of Z-axis communication
+      - And you can collect coins you’re not near by jumping
+    - Why these enemies? A toy car? How often would that really show up?
+    - Why does the ramp guarantee you’ll make the jump?
+    - The lack of a goal. Where is the motivation?
+    - Life Point System
+      - You earn life points periodically as long a s you skate quickly, and you lose some if you crash. Depending on how you crash you either lose two or three life points. If you max out at eight life points the timer freezes, so skating perfectly means you cannot run out of time.
+  - Big Wave Encounter
+    - Nothing really works and it wouldn’t matter if it did.
+    - Do a bunch of tricks before you’re ready to just call it in.
+    - What’s the point?
+  - Shouldn’t there be more branding?
+- Sequels and Spinoffs
+  - Town and country II: Thrilla’s Surfari
+    - Action platformer
+    - 1992
+- EGL

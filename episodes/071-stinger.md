@@ -1,0 +1,52 @@
+# 071 - Stinger
+
+- Introductions - Espo (Mike, Sean, Joe, Sam)
+- Development History - Espo
+  - the second game in a long running quirky shooter series by Konami named TwinBee
+    - Twinbee came out in 1985 for Arcade
+    - This game did get the TwinBee name in Japan
+- Konami back at it with another SHMUP (remember GRADIUS)
+- First Impressions - Everyone
+- How to Play
+  - Horizontal and Vertical SHMUP
+  - A and B buttons
+- Tales from the Manual
+  - The Story
+    - You see a UFO attack Konami headquarters
+      - Why does it look so weird? - ESPO
+    - The game begins Stinger has to save the scientist.
+- Gameplay
+  - Horizontal stages
+    - First level is easy - Espo
+  - Vertical stages
+    - The true Twinbee way - Espo
+      - Bells only change purposefully on Vertical levels
+      - The game feels like the Horizontal stages were added because of Gradius but without thought
+      - Game gets way harder on the back end, feels like you shouldn’t be there.
+  - Powerups
+    - That power up song that just plays over and over again
+  - SOULS of Ship
+    - Collect the soul to get back your powers
+      - Can only do it once per soul collection
+  - Colorful and unique bosses
+    - Final boss too easy? - Espo
+      - Ending says YOU ARE THE GREATEST STINGER OF ALL TIME
+      - Then you unlock the hard mode
+  - Difficulty difference from Gradius
+- Additional Thoughts
+  - The Japanese version of the game allows up to three players to play simultaneously (with the third controller plugged using the Famicom Four-way Adaptor, the Famicom variant of the NES Four Score). In the American version this option was reduced to just two, with Winbee omitted.
+  - In the NES version, Difficulty options are disabled, and the default difficult is Normal (though Hard can be accessed by finishing the game once). The Famicom cartridge version adds an Easy difficulty.
+- Sequels and Spinoffs
+  - TwinBee 3: Poko Poko Daimao releases on the Famicom in 1989
+  - TwinBee continues on the SNES, Game Boy, Playstation but all JAPAN only
+  - Ends with TwinBee RPG ON PS1
+    - A spin-off of the TwinBee shoot-'em-up series featuring a storyline based on the TwinBee Paradise audio drama serial.
+  - RADIO DRAMA
+    - Began airing on the radio station NCB on October 10, 1993. The series lasted three seasons, with the third and final series concluding on March 30, 1997, comprising a total of 96 episodes, which were later released in drama CD collections.
+  - ANIME
+    - 2 Films
+      - One ties into the Super Famicom and the other with the OVA series
+    - OVA
+      - TwinBee Paradise and is based on the radio drama of the same name. The OVA comprises three episodes, which were released individually on VHS and Laserdisc in 1999
+    - And there’s MANGA too
+- EGL (Mike, Sean, Joe, Sam)

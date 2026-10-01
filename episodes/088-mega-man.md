@@ -1,0 +1,50 @@
+# 088 - Mega Man
+
+- Introductions
+- Mega Man Franchise
+- First Impressions
+  - Just need to take my time
+- Objective
+  - Work your xway through 6 stages in any order. Defeating each stage’s Robot Master unlocks a new weapon for Mega Man. Defeat all 6 to take on the evil Dr. Wily
+- Tales from the Manual
+  - Terrible Box art
+  - “Thermometer Shaped Meter”
+  - Magnet Beam...
+- Gameplay
+  - Jumping and Shooting
+  - Difficulty
+  - Stages
+  - Robot Master Fights
+  - Power Ups
+  - Wily
+    - Yellow Devil
+    - Old foes
+    - Imposter Mega Man
+    - Only able to use power-up ONCE
+  - Ending
+    - Mega Man without gear!
+  - Music
+- Development
+  - Akira “A.K” Kitamura
+    - After a period of study and working on various projects, the Mega Man development began. But as I thought about game design then, I started to wonder if designers had really thought deeply about enemy placement and behavior.
+      - I decided to play a bunch of different games and study just those difficult sections, replaying them over and over.
+    - Two of my personal goals for Mega Man were to create a game where all the stages could be cleared in an hour, and to make something that players would want to come back to again and again. To that end, I actually calculated the total number of stages by measuring Mega Man’s walking speed and seeing how long it would take to get through each stage. I then split that up so that the first half of the game would be the robot master stages, and the second would be the Wily stages.
+    - On Enemy Placement
+      - #1: Single, weak little enemies would appear in “waves” of 3 or 4 individuals (and to the extent possible, I’d avoid mixing up multiple enemies);
+      - #2: they would all use the same attacks;
+      - #3: I would use differences in terrain and enemy placement to adjust the difficulty of a given section;
+      - #4: The difficulty of each enemy in the wave would gradually rise, but the last enemy to appear would be easier.
+- Sequels and Spinoffs
+  - Mega Man 2-6 on NES
+    - Now goes all the way to 11
+    - Game Boy versions of each too
+  - Mega Man X starts on SNES
+    - Goes up to X8 on PS2
+  - So many other games, let’s just talk about Mega Man 1
+    - Mega Man: Wily Wars (Genesis version of the first 3 games)
+      - Not great
+    - Mega Man Powered Up on PSP
+      - Parish says it’s the best
+      - Chibi look
+      - Adds Oil Man and Time Man
+- EGL (Mike, Sean, Joe, Sam)

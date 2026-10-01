@@ -1,0 +1,51 @@
+# 072 - Tiger Heli
+
+- Introductions - Espo
+- Development History - Espo
+  - 1985 this hits Arcade by Toaplan
+    - Founded only in 1984
+    - Known for shmups
+    - ALL YOUR BASE ARE BELONG TO US
+      - Zero Wing in 1989 for Arcade. Not NES.
+    - Declared bankruptcy in 1994
+  - In 1987 it comes to the NES thanks to Micronics
+  - Acclaim published
+- More SHMUPS, can we have enough? We seem to like em
+- First Impressions - Everyone
+- How to Play
+  - Vertical SHMUP
+  - A and B buttons
+- Tales from the Manual
+  - The Place
+    - The Mega-Fortress of the Terrorist Regime
+  - The Problem
+  - The terrorist Country, Cantun has become power hungry and plans to take over the world. They’re planning their attack right now. Right as you read this page. So there’s little time left.
+  - Tiger-Heli is the result of a billion-dollar defense project to create the ultimate stealth jetcopter. It’s turbo-powered.
+- Gameplay
+  - Missiles
+    - Shoot half a screen length
+    - If an enemy shot hits one of your bombs, you detonate the bomb instead of losing a life!
+  - Enemies
+    - Require quick response time
+    - You seem to just need to keep shooting all the time
+  - Powerups
+    - More bombs
+    - Little copters
+  - Reptition
+    - One music track
+    - Only 4 stages. Stage 5 is stage 2
+  - Comparison to 1942
+    - This is worse - ESPO
+      - People hate 1942 because of the music
+- Additional Thoughts
+  - Extra continue when game over:
+    - Hold down A+B during Game Over screen.
+- Sequels and Spinoffs
+  - Two Sequels
+    - Twin Cobra
+      - Releases on the NES in 1990
+      - More helicopter goodness
+    - Twin Cobra II
+      - Released in 1996 for the Arcade and Sega Saturn.
+      - Was developed by Toaplan, but they closed in 94 so Taito allowed the offshoot company Takumi to finish.
+- EGL (Mike, Sean, Joe, Sam)

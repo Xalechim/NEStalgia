@@ -1,0 +1,40 @@
+# 082 - The Karate Kid
+
+- Introductions
+- The Movie
+  - Part I
+    - Daniel LaRusso fights Cobra Kai’s Johnny for the title
+  - Part II
+    - Goes to Japan and new challenger Chozen in fight to death
+- First Impressions
+- Tales from the Manual
+  - Lackluster Enemies page shows you really only have 3 enemies.
+- Gameplay
+  - Tournament Start
+  - Beat Em Up
+    - Crane Kick and Drum Punch
+  - Minigames
+    - Chopstick Fly Catch
+    - Ice Block Break
+    - Swinging Hammer
+  - Bosses and Ending
+- Sequels and Spinoffs
+  - Part III
+    - A weird finale to protect his title against Sensei John Kreese
+  - The Next Karate Kid (94)
+    - Hilary Swank is the new KK but Miyagi stays
+  - The Karate Kid (2010)
+    - A remake of the original film set in Beijing which stars Jackie Chan and Jaden Smith
+  - Karate Kid TV Series
+    - A short-lived animated series spin-off also called The Karate Kid aired on NBC.
+  - Cobra Kai (2018)
+    - follows Daniel and Johnny rekindling their old rivalry after Johnny reopens the Cobra Kai dojo
+- EGL (Mike, Sean, Joe, Sam)
+- My thoughts:
+- Hitbox is beyond ridiculous
+- You can’t move and strike?
+- Feels like I always just miss
+- Should be more like how it starts. More consistent changes to gameplay dictated by the story
+- Prom Action
+- Barter to have Miyagi take you to Okinawa
+- The Minigames are a nice addition - EXCEPT that stone one.

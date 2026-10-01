@@ -1,0 +1,33 @@
+# 083 - Kid Niki: Radical Ninja
+
+- Introductions
+- Development
+  - Irem made the Arcade version - Kung Fu, Deadly Towers (Broderbund), Sqoon
+    - On January 25, 2018 Kid Niki Radical Ninja was published for the Nintendo Switch by HAMSTER as part of their Arcade Archives series.
+  - Data East made the port - BreakThru, Burger Time, Karate Champ, Ring King, Tag Team Wrestling
+- First Impressions
+- Tales from the Manual
+  - Pause - If you wish to interrupt play in the middle of a game…
+  - Back of the box shows the ARCADE GFX
+- Gameplay
+  - Super Mario with weapons
+  - Work your way through 7 scenes
+      - The stages are also a bit longer, containing 14 segments rather than 10.
+    - Different themes
+    - Secret Areas
+  - Spinning Sword
+  - Bells
+  - Power Ups
+  - Boss Fights
+  - Repetitive Music
+- Computer Gaming World called Kid Niki "yet another in the seemingly endless parade of horizontally-scrolling/running/jumping/shooting games" for the NES. While the reviewer stated that those who enjoyed such games would like the game, he wondered "how many of these interchangeable games Nintendo will authorize. Even devotees must be getting tired".
+- Sequels and Spinoffs
+  - In Japan, two sequels appeared for the Famicom. The first was Kaiketsu Yanchamaru 2: Karakuri Land in 1991, and the second was Kaiketsu Yanchamaru 3 in 1993. Each of the three NES/Famicom titles feature radically different character designs.
+  - There was also a Game Boy sequel called Ganso!! Yanchamaru in 1991. This portable sequel is a unique game and not a port of one of the existing Kid Niki/Yanchamaru titles.
+- EGL (Mike, Sean, Joe, Sam)
+- My thoughts:
+- Turbo button and your weapon don’t work together
+- Short game and yet still a chore to work through
+- ATTA BOY and RADICAL DUDE
+- Game is not very challenging. Some WTF enemies. Final stage changes to some GnG style shit.
+- Medicore art EXCEPT for that Buddah

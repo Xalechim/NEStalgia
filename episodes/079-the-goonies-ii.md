@@ -1,0 +1,31 @@
+# 079 - The Goonies II
+
+- Introductions
+- First Impressions
+- The Movie
+  - Did you see it?
+  - What’s it about?
+  - Did you like it?
+- Tales from the Manual
+  - The Fratelli’s are at it again
+  - All The Goonies have been kidnapped. Except Mikey
+  - The Action scene versus the Adventure Scene
+  - If you get stuck in a dead end room try a hammer or hand tap
+- Gameplay
+  - Exploration
+    - It’s Fun to play Goonies II
+  - Enemies
+    - Erratic spawns and control
+  - Finding Items
+    - Hitting walls
+    - Candle - Hit an old lady 5 times
+    - The Eskimo
+  - Solutions to the adventure scene?
+    - Was first person the right way to go?
+  - What could make this game more compelling for you?
+- Development
+- Sequels and Spinoffs
+  - This actually is a SEQUEL to The Goonies game. Only available on Famicom and Nintendo VS system (US)
+  - The Goonies II (film) has never been made despite many rumors.
+- EGL (Mike, Sean, Joe, Sam)
+- The Goonies II Prototype - http://www.nintendoplayer.com/goonies/protos.htm

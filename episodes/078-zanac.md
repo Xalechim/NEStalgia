@@ -1,0 +1,48 @@
+# 078 - Zanac
+
+- Introductions - Espo (Mike, Sean, Joe, Sam)
+- First Impressions - Everyone
+  - ESPO - One of 5 games that start with Z
+- Tales from the Manual
+  - The Story
+- First it was probably a tiny dot. A few thousand years later, it grew gigantic enough to cover the whole universe. The system created by an organic intelligence body a long time ago was still active even after the organic intelligence body perished. The system had a purpose: giving wisdom to those who opened the icon properly, and giving punishment of ruin to those who opened it improperly.
+- One day, someone opened the icon improperly. The system started operation and started attacking them. Then, they opened it properly. The icon ordered the system to suspend the attack. The system however ignored this order and  became a slaughter device. The human beings who opened the icon fell into crisis. The attack from the system overwhelmed the offensive power of the human beings. When they were about to perish, there was one hope - the system is basically a strategic machine and is equipped for fighting against a multitude. If a single object confronts the system by itself, the system might not be able to cope with it effectively.
+- It was a risky gamble, yet it was carried out in hope of success. They
+- produced the fighter model AFX-6502-ZANAC which took off to begin fighting alone against the system.
+- Gameplay
+  - How to Play
+    - Vertical SHMUP
+      - 12 Levels with fortresses to take down
+    - AI that adapts to your playstyle
+    - Known for fast speed and bullet hell
+  - Control
+  - Power Ups
+  - Fortresses
+  - Artificial Intelligence
+- Development History - Espo
+  - Designed by Compile and published in Japan by Pony Canyon and in North America by FCI.
+    - COMPILE and FCI
+      - COMPILE is the Puyo Puyo company we talked about in the Lunar Pool episode
+    - PONY CANYON
+      - Just a cool name. They don’t really publish that many video games
+  - Zanac was initially released in 1986 for the MSX computer
+  - Masamitsu “Moo” Niitani is the game designer, and also company president - http://shmuplations.com/rootsofcompile/
+    - —Speaking of games ported from the MSX, Zanac was ported to the Famicom.
+    - Niitani: The MSX version of Zanac was published by Pony Canyon, but it was the Famicom version that got really great reviews. It didn’t sell a ton of copies, but it raised Compile’s brand recognition a lot. I heard that people in the arcade world thought very well of it too, which made me happy.
+    - —How did you get started making Famicom games?
+    - Niitani: Pony Canyon, who had seen E.I., asked us to port Zanac. It took us 2 years to make—we’re slow. (laughs) After that we created the billiards game Lunar Ball, which featured unique pool tables. I don’t recall us ever making much money on our Famicom games, unfortunately.
+- Additional Thoughts
+  - Sound Test
+    - hold A + B and hit Reset to access the game's Sound Test. This feature is US version only.
+  - Area Select
+    - Press Reset 13 times. Press Start to go in the main game menu. Press Left or Right to choose the level, then choose the "continue" option and press Start. To start at Area 11 or 12, hold Up on Controller 2 as well. Do the same if you want to continue the game after Area 10
+  - Hidden Message
+    - In the ending scene, press A + B on Controllers 1 and 2 to display "SEE YOU AGAIN IN GUARDIC". Guardic is another shooter by the same company for the MSX, released the same year as the original Zanac for the FDS. While there is a game named Guardic Gaiden on the NES released two years later, it has no relation to this message whatsoever.
+- Sequels and Spinoffs
+  - Zanac X Zanac for Sony's PlayStation console in Japan on November 29, 2001
+    - Contains the original AND the brand new Zanac Neo
+- EGL (Mike, Sean, Joe, Sam)
+  - Where does this fall on your SHMUP chart?
+- Criticism and Compliments - ESPO
+- Game scrolls too fast
+- No slowdown despite many enemies

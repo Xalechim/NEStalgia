@@ -1,0 +1,51 @@
+# 087 - Side Pocket
+
+- Introductions
+- Some Recent Mail
+  - Chris Logel - I can only get to the final battle with Jaws using my rapid fire controller. The final battle is the most frustrating and I have never managed to complete it. #Jaws #NES @EspositoFilm
+  - Chris Stenshoel - Karate Kid is brutally frustrating.  Jaws and Goonies are still fun to play, but that might be because I had them both as a kid.
+  - Darren on Zanac - I know they’re not exactly sequels but essentially they are. Gun-nac for the NES is far and away my favorite shooter on the nes. And Space Megaforce is my favorite SNES shooter. Both are updated versions of Zanac. I wish they got a shout out on the show.
+  - Jesse Waldack - it was joked about DK being in Punch Out and relegated to a spectator, but it was never brought up that he IS the final boss in the Wii version of the game.
+- Development
+  - Data East
+  - First on Arcade in 1986, ported a year later just a month after Lunar Pool
+- First Impressions
+  - I can’t believe in just one month a new billiard game has completely dethroned the only other billiards game available for the system.
+- Tales from the Manual
+  - “English”
+  - A whole diagram on how to hit a cue ball and how to use a cushion
+- Objective
+  - It’s billiards
+- Gameplay
+  - Training
+    - Practice different kind of shots
+    - Even has video replay to show you how to do it
+  - Controls
+    - Let’s compare to Lunar Pool
+  - Pocket Game
+    - The story mode, compete for the World Championship
+    - Each course increases the amount of balls and the score required
+  - 2 Player 9-Ball
+    - Players play in rotation, the first player to shoot in the 9 ball wins
+    - Where was this mode for 1-player
+- Sequels and Spinoffs
+  - Side Pocket for Game Boy
+    - featuring a smaller playing field (to compensate with Game Boy's screen), simplified physics and a different screen layout.
+    - One unique addition to the Game Boy version is the ability to play single-player nine-ball mode, while in other versions this mode is limited only to two players.
+  - Side Pocket for Super Nintendo
+    - This version features a completely different contents compared to the original, including revamped graphics, new smooth jazz-oriented soundtrack, new sound effects and photo-realistic background sceneries during gameplay. The main game modes remain identical to the original, with several alteration on the Pocket Game mode. This mode now features 5 levels represented as "cities" (Los Angeles, San Francisco, Las Vegas, New York, and Atlantic City) and the player starts with 8 lives. In addition, a new "trick shot" mode is featured, in which the player can try one of the 19 trick shot levels, each with increasing difficulty.
+  - Pocket Gal
+    - arcade adaptation of the NES version of Side Pocket released exclusively for Japan in 1987
+  - Pocket Gal II
+    - English version of Pocket Gal
+  - Super Pool III (Also Pocket Gal)
+    - which removes the stripping
+  - Pocket Gal Deluxe
+    - Released in 1992 it is what the SNES version is based off of
+  - Side Pocket 2
+    - Also known as Minnesota Fats: Pool Legend on the Genesis
+    - Side Pocket 2 expands greatly upon the original game by adding various pool games (including eight-ball, straight pool, and one-pocket) and the ability to play against AI-controlled players.
+  - Side Pocket 3
+    - Japan only for Sega Saturn and PSX
+    - Unlike the prior installments in the Side Pocket series, Side Pocket 3 renders the pool room environment with 3D polygons. In spite of this, the table can still be viewed in a traditional, top-down fashion.
+- EGL (Mike, Sean, Joe, Sam)

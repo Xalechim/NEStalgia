@@ -1,0 +1,80 @@
+# 076 - Mike Tyson's Punch-Out!!
+
+- Introductions - Espo
+- Development History - Espo
+  - Punch Out started as an arcade game (1983)
+    - Genyo Takeda Produced. Miyamoto designed the characters
+      - Takeda credited as Nintendo’s first Video Game Developer
+      - Takeda known for Popeye and Star Tropics as well.
+    - Arcade version uses two televisions to display different information
+    - Little Mac is a wireframe character and unnamed
+    - Koji Kondo’s first game as composer
+  - Nintendo R&D 3
+    - primary responsibilities were the technical hardware design and development software for both the arcade systems and the later home consoles
+    - Takeda’s team credited with the creation of the back-up memory battery to save NES games.
+- First Impressions - Everyone
+- Tales from the Manual
+  - The Story
+    - Little Mac
+      - Bronx, NY 17yrs 107lbs
+- How to Play
+  - You are Little Mac. You work your way through the boxing circuit fighting increasingly different and more technical opponents
+  - Limited moveset. Jabs, body blows, UPPERCUT
+- Gameplay
+  - Punch Out works because of what it doesn’t let you control
+  - HUD and Interface
+    - Stars
+    - Hearts
+    - Rounds
+    - Talking between rounds
+      - Time Control
+  - Continue screen remembers your passcode if you don’t shut off
+  - Enemies in Minor Circuit
+    - Glass Joe
+      - Not really a tutorial right?
+    - Von Kaiser
+      - The old left and right hooks
+    - Piston Honda
+      - All of a sudden the trick moves come out
+        - Shut him up with a well timed star punch
+  - AMAZING CUTSCENE
+  - Enemies in Major Circuit
+    - Don Flamenco
+      - Now the personality hits the game
+      - The old left and right again
+    - King Hippo - From Hippo Island
+      - First trick fight?
+      - Can’t be TKO’d
+      - Shows up in the Captain N TV Show
+    - Great Tiger
+      - Can’t be KO’d
+      - Crazy onslaught of attacks
+    - Bald Bull
+      - Can’t be KO’d
+      - Unbeatable by decision
+      - What’s the strategy for when he goes back infinite loop?
+  - World Circuit
+    - Piston Honda, Ball Bull, and Don Flamenco return
+      - Piston Honda audience duck visual cue
+    - Soda Popinski
+      - His original name was Vodka Drunkenski, but Nintendo decided to change it because it was a little too offensive.
+    - Mr. Sandman
+    - Super Macho Man
+      - Will return in Super Punch Out
+  - Mike Tyson
+    - He was replaced in 1990 by Mr. Dream as the final opponent
+- Additional Thoughts
+  - Instead of making the playable boxer wire-framed or transparent in order to see an opponent, they decided to make the playable boxer more short-bodied, so that players could easily see opponents over the large head room of the playable boxer.
+  - Game was named after Tyson BEFORE he was WBC Heavyweight Champion. So a little bit of risk from Nintendo.
+  - The theme song for the NES version of Punch Out!! was "Look Sharp/Be Sharp March", by Mahlon Merrick. The theme was used for the radio and TV program Gillette Cavalcade of Sports, which covered a variety of different sports, but over time began to focus more on boxing. Prior to the release of Mike Tyson's Punch Out!! in 1987, the song was featured in the 1980 boxing film, Raging Bull.
+- Sequels and Spinoffs
+  - Super Punch Out (Arcade before this game 1985), Super Nintendo in 1994
+  - Will lose the Mike Tyson name in 1990 and re-release for NES
+  - Punch Out returns in 2009 for the Wii
+    - Use the Wiimote, Nunchuck and even the balance board
+  - Doc Louis’s Punch-Out
+      - Standalone prequel training game - WiiWare
+  - Little Mac join the Smash Bros fight in Super Smash Bros for Wii U/3DS
+- EGL (Mike, Sean, Joe, Sam)
+- https://www.rollingstone.com/culture/culture-sports/watch-a-mike-tysons-punch-out-secret-revealed-after-nearly-30-years-187196/
+- https://www.maxim.com/entertainment/30th-anniversary-mike-tysons-punch-out-hated-game-2017-10

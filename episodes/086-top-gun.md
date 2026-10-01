@@ -1,0 +1,32 @@
+# 086 - Top Gun
+
+- Introductions
+- Some comments on recent games
+- The Movie
+  - I feel the need. The Need for Speed
+  - The kind of movie you would test your Surround Sound on
+  - Top Gun Anthem
+- Development
+  - Made by Konami (we like em!)
+  - Not the first Top Gun game
+    - It is a one-on-one dogfighting simulator with 3D wire-frame model graphics; versus more traditional sprite-based graphics and straightforward gameplay of the Konami game.
+- First Impressions
+  - I’m having so much fun, wait how do I land?
+- Tales from the Manual
+- Objective
+  - In Top Gun, you are Maverick and must control your plane in a  pseudo-3D environment to dogfight other planes in 4 missions. Once your mission is complete you must land the plane onto the air carrier. Similar games include Star Voyager.
+- Gameplay
+  - Dogfighting
+  - Landing
+  - Missions
+    - An enemy aircraft carrier, an enemy base, and finally an enemy space shuttle
+  - Endings
+    - The game has two endings. If the player loses but achieves a minimum score of 50,000 points, a still shot is shown of the player being presented the Top Gun plaque that was awarded to Iceman in the film. If the player completes all four missions and successfully lands on the aircraft carrier, a scene is shown of the F-14 taxiing on the carrier and the player waving to the LSO crew.
+- Sequels and Spinoffs
+  - Top Gun: The Second Mission, released in Japan as Top Gun: Dual Fighters, is the second Top Gun game produced by Konami for the NES. It was released in North America on January 1990
+  - Top Gun - Fire at Will (PC, Mac, PSX 1996)
+    - The game's overall plot focuses on the player-character, Maverick, going to combat in Cuba, North Korea, and Libya against a secret group of mercenary pilots called the "Cadre
+  - Top Gun: Hornet's Nest (PC 1998)
+    - People hate it
+  - WAY MORE
+- EGL (Mike, Sean, Joe, Sam)

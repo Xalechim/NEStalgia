@@ -1,0 +1,40 @@
+# 091 - Renegade
+
+- Back of the Box
+- Manual
+- Introductions
+- The Warriors
+- First Impressions
+  - This is what fighting in your dreams is like
+- Objective
+  - Fist-fight your way through 4 stages as you take down punks and “thugs” along the way. In the first NES Beat em Up
+- Tales from the Manual
+  - Has cheats to go to Stages 2 and 3
+- Gameplay
+  - Why did they reverse Punch and Kick depending on direction?
+  - Do Punches connect? Who has priority here
+  - Stage 1 - bat guy is ridiculous
+  - Stage 2 - Motorcycle fight
+  - 3 interesting grapple moves, but the swap of buttons makes it confusing
+  - P-Symbol allows you to become one punch man
+  - Questionable fight with women in Stage 3
+    - Described as Killer Kung Fu Females in the manual
+  - Final boss fires a gun!
+    - One hit and you're dead, no matter how much life you had.
+  - Ending - The hardest cut to credits you’ve ever seen
+- So what the heck is going on in this game? What’s the deal?
+- Arcade
+  - Different enemies and bosses
+    - originally high school delinquents, bōsōzoku members, a sukeban along with her minions, and finally Yakuza members in Kunio-kun
+    - And you gotta save your Girlfriend
+- Sequels and Spinoffs
+  - On June 28, 2018 a port for the Nintendo Switch was released by HAMSTER as part or their Arcade Archives series. This port includes both original US and Japanese arcade game, making it the first time the original Nekketsu Kōha Kunio-kun being released in the west commercially.
+  - Target: Renegade
+    - Sequel on NES in 1990
+    - Made by Taito this time
+    - More traditional looking Beat Em Up
+  - Renegade III the final Chapter on MSX
+    - Unlike the first two games, Renegade III follows the character known only as "Renegade" as he travels through time to rescue his captured girlfriend
+  - Technos had no involvement with the Ocean-produced Renegade sequels.
+  - Technos produced numerous games starring Kunio in Japan. Some of these were localized in North America as Super Dodge Ball, River City Ransom and Nintendo World Cup.
+- EGL

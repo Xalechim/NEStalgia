@@ -1,0 +1,32 @@
+# 069 - Stadium Events
+
+- Introductions - Espo (Mike, Sean, Joe, Sam)
+- First Impressions - Everyone
+  - Haven’t we played this game before? - ESPO
+- Tales from the Manual
+  - We advise you to do warm up exercises
+  - Tape down your Power Pad
+  - Score recording didn’t want people to play for very long
+- Gameplay
+  - How to Play
+    - Power Pad B side is split into two halves.
+  - 100M Dash
+    - Speeds
+      - Normal, Advanced, Super
+        - Why would you not use Super?
+  - Hurdles
+    - Inconsistent reads on jumping
+  - Jumps
+    - Doesn’t really understand the concept of long and triple jump
+- Rarity
+  - A NM+ VGA copy sold for 35k in 2015
+    - Let’s talk about collecting
+    - Let’s talk about value in the NES market
+      - There are actually ~23 sealed copies
+  - NintendoQuest - Documentary
+  - Fun little rarity story
+    - Tim saw a pallet of small cardboard boxes in the corner of the warehouse; those boxes turned out to be about 250 sealed cases of individual games for the NES made before 1991, all waiting to be scrapped. He knew someone with a storage space. For reasons he still can't explain, he decided to keep the pallet for himself instead of throwing it away.
+- Sequels and Spinoffs
+  - We will play this game again as World Class Track Meet
+- EGL (Mike, Sean, Joe, Sam)
+  - Power Pad games will never be essential - ESPO

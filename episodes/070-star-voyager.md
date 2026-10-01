@@ -1,0 +1,21 @@
+# 070 - Star Voyager
+
+- Introductions - Espo (Mike, Sean, Joe, Sam)
+- Development History - Espo
+- First Impressions - Everyone
+- How to Play
+- Tales from the Manual
+  - The Story
+- Gameplay
+  - The HUD
+  - Planet Power-Ups
+  - Space Stations
+  - Combat
+  - Asteroid Field
+  - Black Holes
+- Music
+  - Intro similiar to Star Wars? - Espo
+- EGL ;P
+- Post Show - Space
+  - I will probably ramble on about space here - Sean
+  - S   P   A   C   E

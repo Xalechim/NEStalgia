@@ -1,0 +1,32 @@
+# 093 - Gun.Smoke
+
+- Back of the Box
+- Manual
+- Introductions
+- Captain Commando Challenge is still around
+- On Rails Shmup
+- Tales from the Manual
+  - Very detailed! Names of enemies, towns, refers to the inventory as a general store
+  - In 1849, the Wingates attack the town of Hicksville, kill the Sheriff, and cause trouble every day until Billy, the main character, comes to town (with a sunset behind him).
+- Gameplay
+  - On-Rails vs Commando Style
+  - How you shoot
+  - A.I
+  - Inventory
+  - The Horse
+  - Wanted system
+    - Was hiding them in hidden spaces the best route?
+    - Does inflating their cost add anything to the game since it’s just a loop
+  - Stage Design
+  - Boss Fights
+    - Psyche out final boss (technically)
+    - Only six of the ten bosses were in this version (Master, Ninja, Cutter, Wolf Chief, Los Pubro, and Fat Man)
+  - Repetition
+  - 1942 and Commando
+  - Yoshiki Okamoto
+    - Creator of Street Fighter II
+    - But also 1942
+- Red Dead Revolver, the first game in Rockstar Games' Red Dead series of western action-adventure games, was originally developed by Capcom as a spiritual sequel to Gun.Smoke, before they dropped the project which later got picked up by Rockstar Games.
+- Sequels and Spinoffs
+  - The Amstrad CPC as Desperado – Gun.Smoke; this platform actually received a sequel called Desperado 2
+- EGL

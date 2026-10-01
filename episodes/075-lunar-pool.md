@@ -1,0 +1,40 @@
+# 075 - Lunar Pool
+
+- Introductions - Espo
+  - Known as Lunar Ball in Japan
+- Development History - Espo
+  - Released in 1985 by Compile
+    - The makers of Puyo Puyo
+      - The object of the game is to create groups of four or more "Puyos" of the same color as they fall from the top of the screen.
+      - 1991 for the MSX
+      - Wouldn’t be until Sonic Team took it over and brough Puyo Pop on GBA to North America
+  - Went bankrupt in 2003
+    - Much of the staff moved onto Compile Heart (a different company)
+      - Best known for the Hyperdimension Neptunia games
+  - In 1987 it comes to the NES thanks to Publisher FCI
+    - The American arm of the Fuji-san-kay Communications Group, a Japanese media conglomerate of television and radio channels, magazine, newspaper, record and video game companies.
+    - They are going to release a lot more for the NES. Mainly RPGs and the like
+- First Impressions - Everyone
+- Objective
+  - Just like real billiards, put the balls into the pockets
+  - If the player fails to pocket at least one colored ball in three consecutive turns, then the player will lose one life. Also, if the player pockets his own cue ball, he loses a life.
+- Gameplay
+  - Friction
+    - Why start at 32?
+    - Friction 0
+      - Is this why it’s called Lunar Pool?
+      - This is the real mode
+        - Balls never stop
+    - Friction 255
+      - Mission impossible
+  - Physics
+    - Cue Ball
+    - The balls touching the pockets
+  - The map layouts
+    - Do they ever get incredibly interesting?
+  - The power meter
+    - How to make it better
+  - Missing features?
+- Additional Thoughts
+  - This was a game I was looking forward to
+- EGL (Mike, Sean, Joe, Sam)

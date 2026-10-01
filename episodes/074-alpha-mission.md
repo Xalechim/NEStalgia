@@ -1,0 +1,39 @@
+# 074 - Alpha Mission
+
+- Introductions - Espo
+- Development History - Espo
+  - SNK is back
+    - Ikari Warriors and Athena
+    - ASO: Armored Scrum Object in Japan
+  - First Impressions - Everyone
+- Tales from the Manual
+  - Story
+    - In the galaxy of Tetranova, a fierce war between seven stars has laid waste to their planets. Having destroyed each other's home, the seven stars have formed an alliance to seek a new home, where they can rebuild and regain their strength to go to war once again. The planet they have chosen is Earth! You must pilot the fighter ship SYD against the deadly fleet of the Seven Stars Alliance. The fate of Earth rests in your hands!
+- Gameplay
+  - Controlling the SYD
+    - He’s slow
+    - Shooting versus Missles
+    - Energy
+    - Shooting
+  - Tremendous slowdown
+  - Lots of items (not all good)
+    - SLM and K
+    - Warp and Reverse
+  - Weapon Select
+    - How could this be better?
+    - Octo
+    - Sheeld
+    - Canon
+    - Nuclear
+    - Homing
+    - Fire
+    - Paralyzer
+    - Thunder
+  - Missing features?
+- Additional Thoughts
+  - No ending, just a loop.
+- Sequels and Spinoffs
+  - Alpha Mission II
+    - Only on Neo Geo so good luck (but actually also on PS4)
+  - Alpha Mission is available on SNK 40th Anniversary Collection
+- EGL (Mike, Sean, Joe, Sam)

@@ -1,0 +1,59 @@
+# 092 - Contra
+
+- Back of the Box
+- Manual
+- Introductions
+- Run and gun
+  - a shoot 'em up in which the protagonist fights on foot, perhaps with the ability to jump. Run and gun games may use side scrolling, vertical scrolling or isometric viewpoints and may feature multidirectional movement.
+  - Metal Slug, Cuphead
+  - Objective - Run and use platforming throughout the 7 levels in Contra to shoot down aliens and other enemies.
+- First Impressions
+  - I’m blown away by the fluid animation and diagonal attacks
+- Tales from the Manual
+  - PLOT
+    - ARCADE PLOT
+      - In 2633 AD, two armed Elite Marine Commandos "Contra" named Bill and Lance are sent on a mission to neutralize a terrorist organization called Red Falcon that is secretly planning to take over the entire world and it is up to this two man army to put an end to this madness once and for all.
+    - ACTUAL PLOT
+  - Probotector in Europe
+- Gameplay
+  - Stage 1
+    - Great start to the action “you do like 5 front flips from nowhere into the jungle”
+    - Graphics and Design
+    - Directional shooting and platforming
+      - The complete jump
+      - No reason NOT to shoot your bullets at all times
+    - Shoot the core all over again with the first boss
+  - Stage 2
+    - 3d that’s pretty damn intuitive
+      - Accidentally walk into electricity
+      - Ducking is always welcome strategy
+    - Second boss is a bit of a bullet sponge for so early on
+  - Stage 3
+    - Stage 3 welcomes vertical scrolling
+    - Cheap spawn of a turret on stage 3.
+    - At first it’s like what am I dealing with and then Stage 3 the enemy is straight up a giant ALIEN
+  - Stage 4
+    - Boss fight is where the fun ends
+  - Stage 5
+    - Snow and random bombs
+  - Stage 6
+    - Flamethrower
+  - Aliens Lair
+    - Psych-Out Alien boss. Iconic gfx there
+  - Should there have been an inventory or save for later on ammuniton
+  - Difficulty
+  - CO-OP
+  - Konami Code
+- Famicom
+  - The Famicom version contains cutscenes, an additional music track, and environment effects which were removed for the NES version.
+  - Hidden Message in End Credits
+  - Contra Commercial
+- Sequels and Spinoffs
+  - Super C comes to the NES in 1990 so look out for that.
+    - This time, the alien forces have taken over an allied military base, possessing most of its troops.
+  - Contra Force comes to the NES in 1992
+    - The villains in the game are human terrorists instead of an alien menace
+  - The Contra Game Book is a "choose-your-own-adventure" style gamebook released by Konami to go along with the release of their mascot game Contra.
+  - Contra Rogue Corps came out on Sep 24th 2019
+    - The story is set several years after that of Contra III: The Alien Wars
+- EGL

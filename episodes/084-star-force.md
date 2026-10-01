@@ -1,0 +1,28 @@
+# 084 - Star Force
+
+- Introductions
+  - Not the fictional supervillain team that fights the Avengers
+- Development
+  - Made by Tecmo, then called Tehkan.
+    - Dead or Alive, Ninja Gaiden, Deception, Monster Rancher, Rygar, Tecmo Bowl, Fatal Frame
+    - The Imperial Trustee Corporation a company specialized in the management of building maintenance including the supplying of cleaning equipment.
+    - In July 1969, the company started to sell entertainment amusement equipment
+  - Hudson Soft maybe Developed the NES port.
+  - Despite the U.S. arcade version being titled Mega Force, Tecmo decided to release the NES version under the original name of Star Force.
+- First Impressions
+- Tales from the Manual
+  - In the year 2010 of Dimension Almanac, there was a mysterious planet named GORDESS which was moving in the darkness of the cosmos for the purpose of mass murder and plunder. Everyone gave up fighting against GORDESS because of its awesome power. One day a brave soldier riding a space patroller challenged GORDESS to fight. People called this space patroller "FINAL STAR", wishing to be saved. You must bring an end to the murders which have been committed for the past 2,000 years.
+- Gameplay
+  - Only two levels of weapon power, and no secondary weapons like missiles and/or bombs.
+  - Each stage in the game was named after a letter of the Greek alphabet.
+  - There is an additional level called "Infinity" (represented by the infinity symbol) which occurs after Omega, after which the game repeats indefinitely.
+  - Boss Fights
+    - Each level has an end-of-level boss that must be defeated before the player can progress to the next level. The boss itself has no offensive abilities other than collision, however the platform that it launches from contains two cannons that fire a few shots at your ship before scrolling off the screen.
+  - Star Force Tips and Tricks section
+    - You can determine which direction the end of level boss will move before it even appears by looking at your score. If the hundreds digit is odd, the boss will move to the left. If it is even, it'll move right (the tens and units digits are always zero).
+    - 1,000,000 Points Bonus : On the violet continent, if you see a coelacanth fossil on the left side, go to the right side and shoot. Cleopatra appears - shoot her and you'll get a million-point bonus. The coelacanth may only appear on the third violet continent.
+- Sequels and Spinoffs
+  - Super Star Force: Jikūreki no Himitsu, released in 1986 for the Japanese Nintendo Famicom.
+    - The Manual teases this game
+  - Final Star Force, released for arcades in 1992.
+- EGL (Mike, Sean, Joe, Sam)

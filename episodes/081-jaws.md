@@ -1,0 +1,30 @@
+# 081 - Jaws
+
+- Introductions
+- The Movie
+- First Impressions
+- Tales from the Manual
+  - Fierce introduction
+- Gameplay
+  - MAP
+    - Navigation
+      - Reminds me of Pokemon Encounters
+      - Not much to see
+      - Where you are is how deep the water is
+  - ACTION SCENE
+    - Very repetitive
+    - Stingrays and jellyfish. Sometimes baby sharks
+    - Jaws can show up if you’re close
+  - BONUS SCENE
+    - Sometimes awarded
+    - Timing the bombs is very strange
+    - Can you actually knock out every jellyfish?
+    - Remember Balloon Fight bonus scene
+  - PORT
+    - Buy upgrades
+  - Progressing
+    - Power and Strobe Lights
+  - FINAL
+    - First person Boat vs Jaws destruction
+    - This is not as easy as it looks
+- EGL (Mike, Sean, Joe, Sam)

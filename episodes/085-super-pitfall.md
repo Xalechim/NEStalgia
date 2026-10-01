@@ -1,0 +1,41 @@
+# 085 - Super Pitfall
+
+- Introductions
+- Pitfall
+  - Pretty much the first platformer
+  - Still fun
+- Development
+  - Made by Micronics, Published by Activision
+  - NOT made by David Crane
+- First Impressions
+  - Many ladders and pits are death traps. The first ladder you see in the game leads to a spike trap with a bat.
+- Tales from the Manual
+  - Super Pitfall is a loose remake of Pitfall II: Lost Caverns
+  - In the manual, The best way to get through the cave is to explore it.
+- Objective
+  - In Super Pitfall you must locate a diamon, niece, and pet Quickclaw through deep caverns. Although you’re given no map you must explore the cave with zero guidance to find these things. You’re limited to jumping, climbing ladders, and shooting a gun. One hit and your dead. Similar games we have played are Spelunker and Metroid.
+- Gameplay
+  - Controls
+    - Jump
+    - Your Gun
+    - Many of the enemies are too small to hit with the gun.
+    - Limited ammunition
+    - Hitboxes
+  - Exploration
+  - Secret Warps - only way to travel around
+    - a bird enemy you have to jump into which looks no different from every other bird in the game.
+  - Offer to play in another world
+    - The new world refers to another game of "Super Pitfall" with all the hidden items switched to different locations.
+- Let’s fix this mess
+  - No traps not seen on screen
+  - Maps found throughout the game similar to Legend of Zelda
+  - An above ground area you need to deliver things found in the cave
+  - More boobytraps and not cheap deaths. Think Indiana Jones
+- Super Pitfall 30th Anniversary - http://www.romhacking.net/hacks/3060/
+- A review in Computer Gaming World derided the game as "a [Super Mario Bros.] rehash that most NES users will be able to play in their sleep. Certainly, there is nothing in the game itself to keep them awake."
+- Sequels and Spinoffs
+  - A sequel titled Super Pitfall II was planned, but then was cancelled a short time later. It was going to be the localized version of Sunsoft's Famicom title, Atlantis no Nazo.
+  - Pitfall the Mayan Adventure SNES 1994
+  - Pitfall 3D Beyond the Jungle PSX and GBC 1998
+  - Pitfall - The Lost Expedition 6th Gen GCN
+- EGL (Mike, Sean, Joe, Sam)

@@ -1,0 +1,50 @@
+# 090 - Karnov
+
+- Back of the Box: https://gamefaqs.gamespot.com/nes/587379-karnov/images/158113
+- Manual: http://www.thegameisafootarcade.com/wp-content/uploads/2017/02/Karnov-Game-Manual.pdf
+- Introductions
+- 1988
+- Objective
+  - The game puts the bulging-muscled, fire-breathing, east-Russian, ex-circus strongman KARNOV on a quest through nine different levels to search for the ultimate treasure.
+  - title character Jinborov Karnovski
+- First Impressions
+  - What even is this?
+- Tales from the Manual
+  - HOW TO PLAY
+  - The final fight is IN the manual
+- Gameplay
+  - Control
+    - Terrible programming. Almost everything feels sloppy
+  - Enemies
+    - Enemy placement and screen scrolling
+    - sword-wielding monks, dinosaurs, djinn, hopping fish men, gargoyles, tree monsters, will-o-wisps, rock creatures, centipede women, and ostrich-riding skeleton warriors
+  - Power-Ups
+    - The clunky UI (Why be able to select them in real time?)
+    - the lack of thought in the power-ups
+    - The stupid K’s
+    - The Mask blinking
+  - Turning Blue instead of a health bar
+  - Swimming stage
+  - Flying stage
+  - Unlimited Continues
+    - And you can even kill Karnov with the AB buttons on player 2
+  - Ending
+    - Different final boss from the arcade. Arcade had a Dark Wizard on a similar stage.
+      - If you defeat the wizard, you will earn the final piece of the map and be presented with a short endin of Karnov finding the treasure he so desperately sought. Congratulations.
+    - Congratulations! The End
+  - Music
+- Data East is trying to make a mascot here and they have failed
+- Arcade
+  - Karnov dies in One Hit, instead of two.
+- Sequels and Spinoffs
+  - The future is not kind to Karnov
+    - Relegated as a basic enemy in some future Data East games.
+    - In Bad Dudes Vs DragonNinja, Karnov is the level 1 boss.
+      - this version of Karnov is called Kusamoci Karnov
+    - Karnov is also the last opponent in the original Fighter's History, and becomes a playable character in its sequels.
+      - The next game in Fighter’s History would even get his name KARNOV’S REVENGE
+        - The Bull that appeared in the bonus rounds in Karate Champ appears in this game as a secret boss if the player completes the game on the Normal setting or above without losing a round. The Bull is an unplayable character.
+    - He appears in the alley background of the Neo-Geo game Street Slam. He is shown wearing a shirt with a "K" on it.
+    - In Shantae and the Pirate's Curse, a ghostly silhouette who helps the titular character is highly similar to Karnov, and is even implied to be her dead father.
+      - bears heavy resemblance to the video game character Karnov. Given his descriptions of events similar to Karnov's gameplay, theme music similarity to Karnov, and fixation on ladders, this is likely intentional.
+- EGL
