@@ -36,8 +36,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 067 | Spy Hunter | [notes](067-spy-hunter.md) |
 | 068 | Sqoon | [notes](068-sqoon.md) |
 | 069 | Stadium Events | [notes](069-stadium-events.md) |
-| 070 | Star Voyager | [early notes](070-star-voyager-early-notes.md) |
-| 070 | Star Voyager | [notes](070-star-voyager.md) |
+| 070 | Star Voyager | [early notes](070-star-voyager-early-notes.md), [notes](070-star-voyager.md) |
 | 071 | Stinger | [notes](071-stinger.md) |
 | 072 | Tiger Heli | [notes](072-tiger-heli.md) |
 | 073 | Winter Games | [notes](073-winter-games.md) |
@@ -358,7 +357,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 397 | The Punisher | [notes](397-the-punisher.md) |
 | 398 | Puzznic | [notes](398-puzznic.md) |
 | 399 | The Silver Surfer | [notes](399-the-silver-surfer.md) |
-| 400 | Werewolf: The Last Warrior | [notes](400-werewolf-the-last-warrior.md) |
+| 400 | Werewolf: The Last Warrior | [notes](400-werewolf-the-last-warrior.md), [transcript](../transcripts/400-werewolf.md) |
 | 401 | WWF Wrestlemania Challenge | [notes](401-wwf-wrestlemania-challenge.md), [transcript](../transcripts/401-wwf-wrestlemania-challenge.md) |
 | 402 | Yo! Noid | [notes](402-yo-noid.md), [transcript](../transcripts/402-yo-noid.md) |
 | 403 | The Adventures of Rad Gravity | [notes](403-the-adventures-of-rad-gravity.md), [transcript](../transcripts/403-rad-gravity.md) |
@@ -397,8 +396,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 437 | Ikari III: The Rescue | [notes](437-ikari-iii-the-rescue.md) |
 | 438 | Isolated Warrior | [notes](438-isolated-warrior.md) |
 | 439 | The Last Ninja | [notes](439-the-last-ninja.md) |
-| 440 | Magician | [outline](440-magician-outline.md) |
-| 440 | Magician | [notes](440-magician.md) |
+| 440 | Magician | [outline](440-magician-outline.md), [notes](440-magician.md) |
 | 441 | Metal Storm | [notes](441-metal-storm.md) |
 | 442 | Princess Tomato in the Salad Kingdom | [notes](442-princess-tomato-in-the-salad-kingdom.md) |
 | 443 | The Simpsons: Bart vs The Space Mutants | [notes](443-the-simpsons-bart-vs-the-space-mutants.md) |

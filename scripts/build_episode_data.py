@@ -66,7 +66,22 @@ def repo_files(*patterns):
     return out
 
 
-def main():
+def ensure_art(path: Path, url: str) -> None:
+    """Download a cover and save it as a 1000 px JPEG (quality 80), if we don't have it yet."""
+    if path.exists():
+        return
+    import io
+
+    from PIL import Image
+
+    data = urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}), timeout=60).read()
+    img = Image.open(io.BytesIO(data)).convert("RGB")
+    img.thumbnail((1000, 1000))
+    path.parent.mkdir(parents=True, exist_ok=True)
+    img.save(path, "JPEG", quality=80, optimize=True)
+
+
+def main(fetch_art=False):
     raw = urllib.request.urlopen(urllib.request.Request(FEED, headers={"User-Agent": "Mozilla/5.0"}), timeout=60).read()
     channel = ET.fromstring(raw).find("channel")
     seen, rows = set(), []
@@ -78,6 +93,12 @@ def main():
             k, n = f"{key}-{n}", n + 1
         seen.add(k)
         art = f"assets/episode-art/{k}.jpg"
+        image = it.find("i:image", NS)
+        if fetch_art and image is not None:
+            try:
+                ensure_art(REPO / art, image.get("href"))
+            except Exception as e:  # a bad image must not stop the update
+                print(f"could not fetch art for {title}: {e}")
         enc = it.find("enclosure")
         if kind == "episode":
             notes = repo_files(f"episodes/{num:03d}-*.md")
@@ -134,4 +155,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+
+    main(fetch_art="--fetch-art" in sys.argv)

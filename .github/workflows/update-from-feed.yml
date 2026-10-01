@@ -1,0 +1,44 @@
+name: Update from podcast feed
+
+# New episodes come out on Fridays. Check then, with a Saturday backup, and allow a manual run.
+on:
+  schedule:
+    - cron: "30 11 * * 5"
+    - cron: "30 15 * * 5"
+    - cron: "30 15 * * 6"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-from-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pillow
+
+      - name: Update data, cover art and index from the feed
+        run: python scripts/update_from_feed.py
+
+      - name: Commit and push if anything changed
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No new episodes."
+            exit 0
+          fi
+          NEW=$(python -c "import json; print(json.load(open('data/episodes.json'))[0]['feed_title'])")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Auto-update from feed: $NEW"
+          git push

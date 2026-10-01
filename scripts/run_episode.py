@@ -99,14 +99,14 @@ def transcribe_one(n: int, dry_run: bool) -> bool:
         print(f"Episode {n}: something went wrong while transcribing. Moving on.")
         return False
 
-    # Link the transcript from the episode index.
+    # Link the transcript from the episode index (works for rows with one or several links).
     index = REPO / "episodes/README.md"
     link = f"[transcript](../transcripts/{out.name}.md)"
     if index.exists():
         text = index.read_text()
-        row = re.compile(rf"^(\| {n:03d} \|.*?\| )(\[(?:notes|outline|early notes)\]\([^)]*\))( \|)$", re.M)
+        row = re.compile(rf"^(\| {n:03d} \|.*) \|$", re.M)
         if link not in text and row.search(text):
-            index.write_text(row.sub(rf"\1\2, {link}\3", text, count=1))
+            index.write_text(row.sub(rf"\1, {link} |", text, count=1))
         elif link not in text:
             print("Note: this episode isn't in the episode index yet, so I didn't add a link.")
     print(f"Episode {n}: done -> transcripts/{out.name}.md")
