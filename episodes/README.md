@@ -392,16 +392,16 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 433 | Conan: The Mysteries of Time | [notes](433-conan-the-mysteries-of-time.md) |
 | 434 | Double Dragon III: The Sacred Stones | [notes](434-double-dragon-iii-the-sacred-stones.md) |
 | 435 | Flying Warriors | [notes](435-flying-warriors.md) |
-| 436 | Galaxy 5000: Racing in the 51st Century | [notes](436-galaxy-5000-racing-in-the-51st-century.md) |
-| 437 | Ikari III: The Rescue | [notes](437-ikari-iii-the-rescue.md) |
-| 438 | Isolated Warrior | [notes](438-isolated-warrior.md) |
-| 439 | The Last Ninja | [notes](439-the-last-ninja.md) |
-| 440 | Magician | [outline](440-magician-outline.md), [notes](440-magician.md) |
-| 441 | Metal Storm | [notes](441-metal-storm.md) |
-| 442 | Princess Tomato in the Salad Kingdom | [notes](442-princess-tomato-in-the-salad-kingdom.md) |
-| 443 | The Simpsons: Bart vs The Space Mutants | [notes](443-the-simpsons-bart-vs-the-space-mutants.md) |
-| 444 | Ski or Die | [notes](444-ski-or-die.md) |
-| 445 | Super Cars | [notes](445-super-cars.md) |
+| 436 | Galaxy 5000: Racing in the 51st Century | [notes](436-galaxy-5000-racing-in-the-51st-century.md), [transcript](../transcripts/436-galaxy-5000.md) |
+| 437 | Ikari III: The Rescue | [notes](437-ikari-iii-the-rescue.md), [transcript](../transcripts/437-ikari-iii.md) |
+| 438 | Isolated Warrior | [notes](438-isolated-warrior.md), [transcript](../transcripts/438-isolated-warrior.md) |
+| 439 | The Last Ninja | [notes](439-the-last-ninja.md), [transcript](../transcripts/439-the-last-ninja.md) |
+| 440 | Magician | [outline](440-magician-outline.md), [notes](440-magician.md), [transcript](../transcripts/440-magician.md) |
+| 441 | Metal Storm | [notes](441-metal-storm.md), [transcript](../transcripts/441-metal-storm.md) |
+| 442 | Princess Tomato in the Salad Kingdom | [notes](442-princess-tomato-in-the-salad-kingdom.md), [transcript](../transcripts/442-princess-tomato.md) |
+| 443 | The Simpsons: Bart vs The Space Mutants | [notes](443-the-simpsons-bart-vs-the-space-mutants.md), [transcript](../transcripts/443-bart-vs-space-mutants.md) |
+| 444 | Ski or Die | [notes](444-ski-or-die.md), [transcript](../transcripts/444-ski-or-die.md) |
+| 445 | Super Cars | [notes](445-super-cars.md), [transcript](../transcripts/445-super-cars.md) |
 | 446 | Touchdown Fever | [notes](446-touchdown-fever.md), [transcript](../transcripts/446-touchdown-fever.md) |
 | 447 | Bill Elliot's NASCAR Challenge | [notes](447-bill-elliots-nascar-challenge.md), [transcript](../transcripts/447-bill-elliot-nascar-challenge.md) |
 | 448 | Harlem Globetrotters *(unreleased)* | [notes](448-harlem-globetrotters.md) |

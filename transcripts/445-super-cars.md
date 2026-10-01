@@ -1,0 +1,175 @@
+# 445 - Super Cars
+
+_Auto-generated transcript. Speakers identified from the hosts' separate microphone tracks. The opening name introductions are left as "Hosts"._
+
+**Mike** [00:01]: Supercars, power your way through 27 stages of highway horror.
+
+**Sean** [00:06]: Supercars, power your way through 27 stages of the game. And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+**Hosts** [00:30]: I'm Mike. I'm Sean.
+
+**Mike** [00:32]: And just a quick heads up that Joe was on this record, but unfortunately did not save his file. So enjoy this episode that had Joe, no longer has Joe, and was edited in a way that we could
+
+**Sean** [00:50]: preserve the episode without rerecording it.
+
+**Mike** [00:53]: We are dealing not just with regular cars anymore. Now they've invented supercars.
+
+**Sean** [01:00]: What's your favorite car?
+
+**Mike** [01:01]: Sean, I'm glad you asked because I actually just finished driving in real life IRL, as some people online say, not just 30 minutes ago. So I feel more prepared than ever to talk about a video game because I have done the real life
+
+**Joe** [01:19]: equivalent and that is driving a car.
+
+**Mike** [01:22]: You know, I have never even so much as used a whip, let alone use a whip to kill zombies. So I feel very unprepared.
+
+**Sean** [01:28]: You just said that you used a whip.
+
+**Mike** [01:31]: No. What? Oh, oh yeah. Yeah. Shit. You're right. The whip on the car. Right. Damn. Good. But not, you know, to be fair, they never made a Castlevania racing game, but maybe they
+
+**Sean** [01:42]: should. I understand. So it's the Honda Accord.
+
+**Mike** [01:46]: Yeah. Uh, no, it's not the Honda Accord. It's the Toyota Corolla. Same thing. Toyota Corolla is the best car ever because it will get you to 300,000 miles. I agree. What else is doing that? Probably, probably a Honda Accord.
+
+**Joe** [02:02]: Not, not the Retron Parsec Turbo.
+
+**Mike** [02:05]: I'll tell you that. That thing breaks down if you look at it funny. Right. And, uh, what we have here is a top-down racing game. And, emphasis on the top-down part, because for the most part we've gotten like isometric racing games or, um, like the, the pseudo 3D ones where they, uh, you know, they, they show the car kind of from the rear. Top-down, I think we've only had so far unofficially on the show as part of our Nostalgia Byte series for Micro Machines. I don't think we've had an actual game, uh, do this approach yet for driving.
+
+**Joe** [02:45]: And, I'm starting to think that maybe it was because, uh, conveying a, a sense of speed
+
+**Mike** [02:51]: top-down is a lot harder than doing it with the Rad Racer approach of just like, you know, having a city background and, and twisting turns to happen, happening very suddenly. Like, when you, when you're locked in at the center of the screen the entire time and, you
+
+**Sean** [03:09]: know, as the car turns, the camera still stays centered.
+
+**Mike** [03:13]: Everything just kind of scrolls like, uh, in like a Super Mario Brothers kind of scale.
+
+**Sean** [03:18]: I think there's a, like, it's sort of a, there's a bit of a dimensional graph that can be made of like, if you're going to have like actual tracking of individual racers and have it sort of exist in a time and space, um, then it can't feel fast. Because the only way to do that is to kind of like, futz it. Which is what I feel like all of those behind the car racers are doing. Like, cause you can't actually, you can't like turn around in those games.
+
+**Joe** [03:56]: You can't, um, there's no actual like tracking of where your other competing vehicles are. It's just sort of like, this feels fast. Um, so yeah, I think that if they, that this is just how it has to be though, you know,
+
+**Sean** [04:13]: you can drift in this game.
+
+**Joe** [04:15]: That's I'd say it's like, you know, the high level play you learn in like 20 to 30 minutes of playing it. Yeah.
+
+**Mike** [04:22]: And we'll get into the mechanics of the cars themselves. Cause I, I do agree that there is, uh, there, there's both a, uh, a skill level to the game to get better at it.
+
+**Joe** [04:33]: And also just like a, uh, a monetary spend, uh, as long as you have the money, you can probably also win the game. So there, there's two different approaches, neither one incorrect, I suppose, if the game
+
+**Mike** [04:44]: allows you to exploit them, but just to, uh, you know, maybe pull it back a little bit. You know, this is just a racing game. There is no real story or characters behind them. It's just circuits, complete the races, get the prize money, buy the upgrades and continue to do more races. Uh, it was, uh, it was developed by magnetic fields.
+
+**Sean** [05:04]: Uh, but I don't think.
+
+**Mike** [05:06]: Yeah. Right. Sometimes that happens. They're not, that's not the first time that it's been like a band name or something.
+
+**Sean** [05:12]: So, or a movie.
+
+**Mike** [05:14]: Uh, so. And this was a cocktail prudent twins. Right. That's, that's how they got their name as the developers. Right. Yeah. Uh, but I don't, I think that it was, uh, I don't think they made the NES version because this game, um, has started on the computers. It was on the Atari ST and the Amiga and stuff like that. Uh, so I think the NES version was made by a group called Gremlin Graphics, which doesn't sound, uh, real, but sure.
+
+**Sean** [05:41]: What's the Gremlin Graph? The magnetic fields.
+
+**Mike** [05:45]: Oh, Electrobrain. Right. You're right. Published, published by Electrobrain. Oh, okay. So there we go. Um, and there's a lot of things to talk about with the computer version. Uh, there's a lot to break down in terms of the similarities between the NES version and the changes in the computer version and everything. But I think we could save that maybe for the end and focus on the NES version because this NES version, while mostly the same, uh, you know, the, the, the core loop of the game is all wrapped around that shop that, that what happens after you win money, because otherwise
+
+**Joe** [06:19]: you're just basically racing on different tracks.
+
+**Mike** [06:21]: The, uh, the progression all happens in this, uh, screen where you're at like a car dealership, where there's a, uh, parts section and a buy cars section, just like in real dealerships, uh, where you go get your car serviced, but it turns out you also bought your car there,
+
+**Joe** [06:37]: but you'll never step back in that room again, unless you want to buy another car.
+
+**Mike** [06:41]: Like they keep themselves, uh, separated. It's like, oh, that's weird. I'll never see the guy who sold me my car again. Anyway, uh, the shop.
+
+**Sean** [06:49]: Did you have like a traumatic experience at the, at the car dealership?
+
+**Mike** [06:53]: Maybe. Right. Maybe I liked that guy. Maybe I thought I was going to see him again in my life. And so between the races, you visit the garage to repair damage to the car, uh, you know, refuel, re-air the tires, fix the engine. And then you can buy what I learned the hard way are one-time upgrades. Uh, I thought I just started this game incredibly rich and I was like, oh, I'm just going to be able to buy all these upgrades. Uh, and you can buy these one-time upgrades like turbo chargers and side armor. And, uh, if you can believe this guys missiles. Yeah. That's legal in this form of racing.
+
+**Joe** [07:30]: Uh, you can buy front and rear missiles separately, of course. And, um, as you, uh, as you buy all those things, you use them in the following race. Then you compete in these races.
+
+**Mike** [07:42]: And if you come in first, you win like $20,000.
+
+**Joe** [07:45]: If not, you win like, I think for second and third place, but the actual loop becomes how little you can spend while still winning in order to make enough money to buy better cars, to move through the races faster. Because it's very easy to win $20,000 coming in first place by every kind of turbo and high speed kit and, you know, make sure your engine and body are maxed out. This way you can just kind of, you know, hit any wall and not worry about turning correctly and shit.
+
+**Mike** [08:18]: And yeah, you'll come in first, but you will never be able to buy the new car because you'll be spending too much on the upgrade. So you have to think about how do I get through races without repairing my gas, my body, my tire, and my engine every single time. And that's the neat part of the game.
+
+**Sean** [08:35]: Yeah, it's, it's fun. When you mentioned the, the sort of missile and body armor thing, I, I w I saw that in the manual and I was expecting some kind of post-apocalyptic Mad Max situation. And it very much is not that like when you, when you go through these, uh, these, these courses, you see like, you know, nice manicured foliage and sort of patio furniture and a cafe. Like it's pretty normal out there. Um, they just allow you to blow up your, your posing drivers. It's very strange, but, um, yeah, I, I kind of liked the, the, the sort of loop here where between each race you have these decisions to make.
+
+**Joe** [09:19]: Um, if you're really good at the actual raw driving, you may not like, you could probably save a bit more.
+
+**Sean** [09:26]: If not, if you're struggling a bit, you can go for one of those. Like you can probably still go for one of those, uh, upgrades and still make a profit, but it's all about how fast you. You want to make that money and kind of figuring out what your break even is. The missiles are also like, and I think it's good Joe to flag that you only get to use them once. It just feels like such a random choice in an otherwise like pretty grounded game.
+
+**Mike** [09:54]: I really don't think they were necessary.
+
+**Sean** [09:57]: And it's one thing to make it like a, a demolition derby kind of game. Um, I think we saw that, uh, you know, not the same style, but like galaxy 5,000.
+
+**Mike** [10:08]: Um, was it galaxy 5,000 or 50,000? 5,000. Okay, good.
+
+**Sean** [10:12]: Yeah. Oh, it was racing in the 51st century, but yeah, galaxy 5,000. Um, you know, there was, there was all sorts of like combat there in addition to the racing.
+
+**Mike** [10:22]: And that kind of made sense in like a futuristic space world here. It just feels so random to have like the whole car dealership and getting the car repaired. And also the same guy who's fixing your tires being like, and you want missiles in the front or in the back? I mean, this is kind of its own dystopia that, you know, we already have this, this car dealership slash, uh, uh, slash like body shop slash gas station vertically integrated. The economy can't be doing very well. I'd say part of like, it's mostly like, it's gotta be subsidized by some blood sport. So I think, I think it actually makes sense in the world. Now in the, uh, computer versions of the game, there is a slight drift to the camera as you're turning. It does not stay locked on, um, the player.
+
+**Sean** [11:15]: And there are two ways to think about this.
+
+**Mike** [11:17]: One is, wow, that's a great way to convince, uh, to convey a sense of speed in the game. And then the other one being, wow, that's an incredibly frustrating way to like kind of lose sight of myself for a half a second, just to have the camera get some movement on it. And I suppose you need to see it slash play it to believe it. But I genuinely couldn't, um, come to a decision on my own, uh, seeing the two versions side by side.
+
+**Sean** [11:45]: I think that the problem with both is that it still just feels like a very smooth racing experience just with, just with the way that the, the viewpoint of the camera was just was decided and fixed upon. And that again, it just feels so random to add any kind of destruction aspect to this when everything is just kind of gliding and no one's really trying to hurt you. Otherwise, like the other racers are a pain in the ass in the sense of getting around them.
+
+**Joe** [12:13]: A lot of times it's best to just like try to beat them on a turn or something because it's usually there's not room for two, uh, down any straightaway unless you're, uh, happen to be perfectly lined up to be side by side with them ahead of time.
+
+**Mike** [12:27]: Cause you're most likely just going to crash into them and you're just going to eat body damage.
+
+**Sean** [12:31]: It's not like they eat body damage. The only way to get rid of any particular driver is obviously shoot them with a missile that will get rid of their car.
+
+**Mike** [12:39]: No problem. But for the most part, nobody else is like being antagonistic towards you. This isn't bumper cars.
+
+**Joe** [12:46]: You're the only one that can use missiles, which is a strange, uh, a, a, a strange note.
+
+**Mike** [12:52]: Um, one other way that I found that you can try, you can try to sort of guide them into oil spills or like whatever those puddles are. And they usually will like stupidly drive right into them. Um, so if you end up finding yourself on that straightaway, that's something that you can do if you can't make the perfect, uh, pass.
+
+**Joe** [13:17]: But it's very, you know, location specific, obviously. Um, yeah.
+
+**Mike** [13:23]: I was also trying to drift at first without looking at the manual or anything, just kind of doing like a, oh, like as I'm approaching a turn, like what if I try to break and turn at the same time? And I would just like stall out or whatever. It, it turns out that you, you need to be like accelerating and using the brake kind of like as a handbrake while turning. And it's a very like, it's a very skill based thing that I didn't get right every time. But when you do it, it is very satisfying to, you know, to hit the actual apex of these tracks so that you are making perfect turns. And it's a fun thing to get right. And I think this is the one aspect, uh, that this top down makes really fun is that you can kind of see and communicate ahead of time that everything is basically right angle turns. So it's about taking the track from the outside and then breaking inwards. And, uh, you know, maybe the, maybe the most confusing part, which you do learn quickly. So I'm just saying from the beginning of the game is just because of this top down thing, also the way you turn in the game only using the left and right D pad is something that like took me, uh, you know, uh, not getting used to, but was something I didn't do right away. I like immediately I started driving like I would in other racing games. And then it was like, oh, even though it's this way, I have to think about turning controls. Yeah, exactly. Tank controls. And then like, once you, once you get it, it's done. You can't say the same about the, the drift that does take some time to kind of, um, to, to time out and get right.
+
+**Sean** [15:00]: And you still will crash into some walls every now and again, trying to do it. Just by virtue of, of the camera. Um, I think this game could have used some like leading camera. Like you're not always center. It would have helped with like, uh, just seeing what's ahead of you because it's very hard to memorize. These tracks. Cause you only get five laps to see it and you don't really see that far in any direction. And they're all kind of similar. Um, and, and if they were just like, if they could just move the camera more towards the direction you're driving in, because you don't really need to see what's behind you at all.
+
+**Mike** [15:39]: Like, because there's no missiles, uh, from the enemies, uh, you, you can kind of just ignore that. Uh, maybe have a couple inches of, of visual space dedicated to what's behind you.
+
+**Joe** [15:52]: But like, I don't know. It, it, it seems like a pretty no brainer. Maybe there was some technical limitations there, but, uh, that would have helped a lot. The cars definitely have way too perfect traction. So I'll, if you're not drifting intentionally, uh, and not going over a puddle, then yes, it's going to feel like you're kind of stuck to the ground. Uh, director Howard Hughes, when he was trying to film Hell's Angels, uh, he was trying to convince the, uh, the same convey the same sense of speed. I keep using convey and sense together as convince. Has anybody, yeah. Has anybody seen that?
+
+**Sean** [16:30]: That happened twice this episode.
+
+**Joe** [16:31]: Um, when he was trying to convey a, a great sense of speed on film for the planes, it was proving impossible to do on camera because there were no clouds in the sky behind them.
+
+**Mike** [16:46]: So there was nothing, there was no reference point of them passing anything. And while there's plenty of, uh, things to pass by in this, um, you know, like along the track and whatever, very rarely was I like behind or, or near like other cars in the, in this game. I found it to be that, you know, at the very beginning of the race, you were chasing these cars and then you were either, um, greatly ahead of everybody or, you know, you were kind of caught in the mix up and you were in like second place and first place was already very far ahead.
+
+**Sean** [17:25]: So now you were still alone.
+
+**Mike** [17:27]: And I think that is when this game feels really slow is when there are no other cars to compete against because there's nothing else to reference in terms of, you know, motion. There's nothing to be like, that's what I'm chasing after. Everything is just gliding with you because everything in the camera is tracking at the same speed of the, as the car. One thing I would also note is I, I just have a feeling that none of us played into the late game where you get the most expensive car.
+
+**Joe** [17:55]: And I have a, I have a feeling too, that that might go a little bit faster because there is a bit of a difference between.
+
+**Mike** [18:03]: Oh yeah. Even when you get the, yeah. Even when you get the high speed car, right? Yeah. The high speed upgrade or if you go to the next car up, there is a noticeable difference, but it's, it's not that insane, at least in terms of like the feel of the game.
+
+**Sean** [18:19]: Um, but maybe once it get up, gets up there, it starts to really whip. I don't know. Yeah, maybe, but I think it would just be that it scrolls faster. But my real nitpick about all those cars that you buy as upgrades is that the only thing that changes, you know, when it, in the races, maybe where it matters the most. I, I don't really give a shit about like what it looks like at the dealerships, uh, is that in the races, it just changes the color of your car. You get the same fucking car sprite. It's like, no, I bought this new car. It should, it's not like I bought a, a, a, a new rack for my car. Right. Yeah. So it's like weird that it's like, oh, you finally got the fastest car in the game. It looks exactly like the first car, except for now it's white. Yeah. They could have, they could have done something there. Yeah. That's just a strange decision because I feel like in any racing game period, the excitement of unlocking cars is the, you know, it's like the cosmetic upgrade of it. I feel like, you know, nowadays games have like too many cars in the games. So you never like get to truly like feel and enough time with each one of them to be like, oh, I like the feel of driving this one more than that one. Like that kind of happens. But if you look at like any Forza Horizon game in the last decade or so, it's like the, they're giving you cars so quickly that you're basically just changing into the ones that look cool. Yeah. I've probably spent more time in the, like the, the customization mode in those games than I did in actual races.
+
+**Joe** [19:49]: Right. But it's like every, it's like a Super Mario Odyssey gives out moons like every five seconds. It's like, they're doing the same thing in Forza Horizon with these cars. It's like, you just drive anywhere and they're like, congrats, here's your Lamborghini. It's like, wait, that was too easy.
+
+**Joe** [20:07]: So as we, you know, look at another racing game here, you know, I just want to think about just vibe in general here for this game. Did this game set any particular tone? Like we talked about how weird it is that it has missiles, but did it create a, did it create a competitive environment? A, a cozy, is it a cozy game? Is it a, uh, like a vibe game where it's like, yeah, I just want to chill out and do some supercars. Like what is, cause these racing games all have to kind of like sell a mood more than anything. Right. Like stylistically, that's where all these racing games set each other apart. What's more aesthetic and mood than going into a sales office where you talk to a guy, uh, in a gray suit while his secretary works in the background. Uh, but it, but that was immersion breaking for me, Sean, because the dealer wouldn't sell me a car worse than my own. He was like, oh, you already have a better car than this. Oh. And it's like, um, excuse me. Then why am I giving him money?
+
+**Mike** [21:11]: Yeah. He's giving them, right. Cause he's saying like, oh, I'll give you your car is worth like 25 grand. So I'll give you 25 grand. And man, my confusion. The first time I walked into that shop and thought that the first set of numbers were the prices of the cars and that the second set of numbers were the mileage. Cause I was like, oh, I can afford every car in this game. But it turns out that those numbers are just like fancy numbers for the cars. So it's like the retron, uh, 1800. And I'm like, oh, okay. I thought it was $1,800. Like I really liked the concept of a game called supercars. And the only thing you can buy are like used up beaters. Yeah. This thing's got 2 million miles on it. Like, oh, my bad. I still think that, you know, I liked the feel for it after getting used to it. Um, I did like the, at least sort of, uh, not, not very, the kind of immersive menu, uh, UI. Um, I think they should have gone further with a lot of this. And, uh, if they had just, you know, like picked a, like change, change again, that, like that whole camera aspect to it, I would have enjoyed it a lot more.
+
+**Sean** [22:32]: But it seems like if you play this a few times for like maybe an hour, you, you kind of, you kind of get it. So you just have to really like the base mechanics of the game immediately to like the game. Um, I don't know. There's not, there's not a lot of content is what I'm saying. Well, they did make a Supercars 2, uh, and it came out the following year, but not on the NES, uh, only on the computer systems where it seems to have maybe found, you know, more of a, of a base. But Supercars 2, other than some, um, graphic upgrades, really is just basically a repeat of Supercars 1.
+
+**Mike** [23:17]: I mean, there's only so much they could have added in a year's time. But, um, it, it's kind of surprising how it feels more like just, you know, more cars. Like, uh, it could have been, it could have been DLC, guys. Just put on another floppy disk. DLC. Uh, but, um, but yeah, it, it didn't like up the demolition aspect more. One thing it did do was zoom out the camera a little more and make the tracks a little more succinct so that you saw more, like, even though they're, they're more looping the, the tracks and they have like, you know, um, two different, um, layers to them. So there's a lot of like, you know, this part of the track goes over the other part of the track. So basically so that you would see more cars on screen at any particular part, which I guess solves one aspect we had of being pretty lonely in the game. Um, other than that, it is basically just a, you know, a lookalike of Supercars 1. So that's, it's a bit of a strange decision. So, uh, you know, on the NES, this is it for the Supercars series. And, uh, you know, who knows? Maybe this is it for Gremlin graphics. Maybe we'll never hear from them again. We barely knew you. But you'll hear from us again in a moment after this song because it's the Essential Games List.
+
+**Joe** [24:37]: All right, Joe, I think you, uh, gave away your vote.
+
+**Sean** [24:39]: But if you want to go ahead and just, uh, you want me to just play that part of the file again? Yeah. Sean.
+
+**Mike** [24:45]: Yeah, I feel like I've also kind of given away my vote. I liked it more than Joe. Uh, I still grant all of the faults that we've collectively discussed. Um, but I guess I just kind of, I dig the feel of it. Uh, it's something I could probably play for five to ten minutes at a time and be like, huh, neat. And then move on. And so I'd say it's a, it's a play it, like a soft play it. Um, uh, but yeah, not essential.
+
+**Joe** [25:16]: I, and I think I will add, uh, it is not essential, but even if you enjoy the racing part of the
+
+**Mike** [25:23]: game, missiles and all, like even if you enjoy that part of it, which I think is like a,
+
+**Joe** [25:28]: you know, a decent experience, uh, especially for a different, uh, point of view on the NES
+
+**Mike** [25:33]: in terms of a racing game, they fumbled the, the progression part with the, uh, with the funds that you receive the prize money. Uh, it, it's, it's too much of a juggling act between, uh, buying enough things in the shop to keep winning and progressing enough to keep feeling like the game is going somewhere. Ultimately, it just winds up being that you're just doing, uh, you're completing a lot of races to gain enough money to upgrade a new car that just changes the color of your car. And then going to tracks that are basically, they all like, they all feel and look the same and they're just different right angle turns. So they just got the, they got the loop part wrong, even if they made a competent racing game. And I think that's the bigger issue here. So it's not essential for me as well. I actually have a couple more straight thoughts to add here. Um, hell yeah. What one is to counter a little bit that I, I did actually like the progression, at least the fact that there was some progression and some decisions to make about like how much money do you want to spend? Um, but I'm not, that's not a hill I'd like to die on. I can also exit. I will grant that it is sort of half baked, but the one thing that we did not note. And the one thing that I was just surprised by in this game was that the soundtrack kind of fucking rips, um, soundtrack's great. Yeah. And we just didn't mention it at all. And I think it's like the most, uh, the most interesting part of the presentation of this game. Um, but yeah, I'm sure we've thrown in some of the tracks throughout this episode, but yeah, I dug that, that, that got me, that got me going. Now, Sean, Sean, imagine this, imagine this same soundtrack, but with a baseline. Is that, that's the one on the computer? That's the one on the computer is like, it's funny that, uh, in reading the reviews for the NES version, a lot of people complain that the awesome soundtrack was, you know, um, uh, was a letdown or a disappointment here because it dropped out the baseline, uh, and was missing maybe the funkiest aspect of all these tracks. Well, I guess that really speaks to it. If, uh, I still dug it with that, with my, my puny NES sound chip. Yeah. Magnetic fields fucking went hard on this one. Don't put magnets up to your NES. Sound Sound Sound
+
+**Mike** [28:22]: Sound!!!!!!
