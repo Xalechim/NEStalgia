@@ -20,6 +20,7 @@ Show notes and outlines for 407 main-episode files, plus specials, Bytes and SNE
 
 ## Listen and follow
 
+- Website with search across notes and transcripts: [xalechim.github.io/NEStalgia](https://xalechim.github.io/NEStalgia/)
 - Website: [nestalgiacast.com](https://www.nestalgiacast.com)
 - Apple Podcasts: [NEStalgia](https://itunes.apple.com/us/podcast/nestalgia/id1342922798)
 - Spotify: [NEStalgia](https://open.spotify.com/show/1SoG0RFa4nPk0YqaXW6vRi)

@@ -77,7 +77,7 @@ def render_transcript(path):
         m = TURN.match(ln)
         if m:
             who, ts, txt = m.groups()
-            parts.append(f'<p class="turn spk-{slug(who)}"><b>{E(who)}</b><span class="ts">{ts}</span>{E(txt)}</p>')
+            parts.append(f'<p class="turn spk-{slug(who)}"><b>{E(who)}</b> <span class="ts">{ts}</span> {E(txt)}</p>')
         elif ln.startswith("_") and ln.endswith("_"):
             note = ln.strip("_")
     return (f'<p class="note">{E(note)}</p>' if note else "") + "\n".join(parts)
