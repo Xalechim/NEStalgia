@@ -18,6 +18,8 @@ For each transcript in transcripts/ this:
   python3 scripts/make_links.py 446 --dry-run    show what would be sent, spend nothing
   python3 scripts/make_links.py 446 --from-proposals file.json
                                                  skip the API: verify links from a file
+  python3 scripts/make_links.py --check-proposals file.json
+                                                 preview what each proposed Wikipedia title resolves to
 
 API key: set ANTHROPIC_API_KEY, or put the key in ~/.config/nestalgia/anthropic_key.
 """
@@ -333,7 +335,7 @@ class Usage:
 # ----------------------------------------------------------------------------- verification
 
 
-def finalize(items, found, searched, ep_titles, log=print):
+def finalize(items, found, searched, ep_titles, log=print, allow_internal=False):
     """Turn model proposals into verified items. Nothing unverified gets through."""
     result, dropped = [], 0
     for i, it in enumerate(items):
@@ -343,7 +345,7 @@ def finalize(items, found, searched, ep_titles, log=print):
             links.append({"url": wp["url"], "label": f"Wikipedia: {wp['title']}", "source": "wikipedia", "note": wp["description"]})
         for l in found.get(i, []):
             url = l["url"].strip()
-            if url.startswith("{BASE}/") and searched is None:  # an internal page on this site
+            if url.startswith("{BASE}/") and allow_internal:  # an internal page on this site (proposals files only)
                 links.append({"url": url, "label": l.get("label", url), "source": "site"})
                 continue
             host = urllib.parse.urlparse(url).netloc.lower()
@@ -404,7 +406,9 @@ def do_episode(n, args, client, ep_titles):
     if args.from_proposals:
         prop = json.loads(Path(args.from_proposals).read_text())
         items, found = prop["items"], {int(k): v for k, v in prop.get("found", {}).items()}
-        searched = None  # proposals come from a person/agent session, not an API response; links are still checked live
+        # A proposals file can list every URL its web searches returned ("searched_urls"); if so, links must be in it, exactly
+        # like the API path. Without the list, links are only checked live.
+        searched = {norm_url(u) for u in prop["searched_urls"]} if prop.get("searched_urls") else None
         method = prop.get("method", "proposals file")
     else:
         print("   1/3 listing what was mentioned ...")
@@ -413,7 +417,7 @@ def do_episode(n, args, client, ep_titles):
         found, searched = find_links(client, title, items, usage)
         method = "claude-api"
     print("   3/3 checking every link ...")
-    verified, dropped = finalize(items, found, searched, ep_titles)
+    verified, dropped = finalize(items, found, searched, ep_titles, allow_internal=bool(args.from_proposals))
     for it in verified:  # an episode doesn't need a link to itself
         if it.get("episode_key", "").startswith(f"{n:03d}-"):
             it.pop("episode_key"); it.pop("episode_title", None)
@@ -436,7 +440,17 @@ def main():
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--from-proposals", metavar="FILE")
+    ap.add_argument("--check-proposals", metavar="FILE", help="show what each proposed Wikipedia title resolves to; writes nothing")
     args = ap.parse_args()
+
+    if args.check_proposals:
+        for it in json.loads(Path(args.check_proposals).read_text())["items"]:
+            if not it.get("wikipedia_title"):
+                print(f"  -    {it['name'][:36]:36} (no Wikipedia page proposed)")
+                continue
+            w = wikipedia_lookup(it["wikipedia_title"], it["name"], it["kind"])
+            print(f"  {'OK ' if w else 'NO '}  {it['name'][:36]:36} " + (f"-> {w['title']} :: {w['description'][:60]}" if w else f"'{it['wikipedia_title']}' not found / not a {it['kind']} page"))
+        return 0
 
     nums = parse_numbers(args.numbers)
     if args.all:

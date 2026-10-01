@@ -82,6 +82,12 @@ def main():
     m.wikipedia_page = lambda t: {"url": "u", "title": "Days of Thunder", "description": "1990 sports action drama film"}
     assert lookup("Days of Thunder (video game)", "", "game") is None
     assert lookup("Days of Thunder", "", "other") is not None
+    # internal "{BASE}" links only pass when explicitly allowed (proposals files), never from API output
+    m.wikipedia_page = lambda t_: None  # (undo the fake from the assertions above)
+    it = [{"name": "Essential", "kind": "other", "context": "c", "timestamp": "01:00", "wikipedia_title": "", "search_query": "q"}]
+    fnd = {0: [{"url": "{BASE}/essential/", "label": "Essential", "source": "other"}]}
+    assert m.finalize(it, fnd, set(), {}, log=lambda *_: None)[0] == []
+    assert m.finalize(it, fnd, None, {}, log=lambda *_: None, allow_internal=True)[0][0]["links"][0]["source"] == "site"
     assert m.parse_results("no json here") == {}
     assert m.parse_results('{"results": [{"index": 3, "links": [{"url": "https://a.b/c"}]}]}')[3][0]["url"] == "https://a.b/c"
     assert m.parse_numbers(["401-403", "446,450"]) == [401, 402, 403, 446, 450]

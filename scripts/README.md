@@ -39,7 +39,8 @@ Run the same thing by hand with `python3 scripts/update_from_feed.py` (needs `pi
    (exact title, then a strict search fallback; disambiguation pages rejected).
 3. Verification: a non-Wikipedia URL is kept only if it appeared in the web search results and still loads. Episode titles that match a
    NEStalgia episode become "Our episode" links.
-Run `python3 scripts/test_make_links.py` for the offline tests (fake client, no key needed). Key: `~/.config/nestalgia/anthropic_key`
+`/make-links N` (`.claude/commands/make-links.md`) is the no-API-key route: Claude Code does steps 1-2 by hand, writes a proposals file (with `searched_urls`),
+and `--check-proposals` / `--from-proposals` run the same verification. Run `python3 scripts/test_make_links.py` for the offline tests (fake client, no key needed). Key: `~/.config/nestalgia/anthropic_key`
 or `ANTHROPIC_API_KEY`. `--dry-run` shows the size of a request without spending anything; `--from-proposals FILE` verifies links from a
 file (used for the episode 446 sample). Untested against the live API as of this commit: there was no key on the dev machine.
 

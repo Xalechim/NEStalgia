@@ -92,6 +92,17 @@ link before keeping it. Cost: a few cents to a few tens of cents per episode.
    transcript that has no links yet), and answer `y` when it offers to publish.
 3. Wait a few minutes. The website updates itself shortly after you publish.
 
+### No API key? Use Claude Code instead (nothing to set up)
+
+You can have Claude Code do the same job, using your normal Claude plan:
+
+1. Open the **nestalgia** folder in Claude Code (the folder is `~/Developer/nestalgia`).
+2. Type `/make-links 450` (or `/make-links 401-410`).
+3. Claude reads the transcript, searches the web, and runs every link through the same checker. It shows you what it found and asks
+   before publishing.
+
+It takes a few minutes per episode and isn't a double-click, but the quality is the same as the API version.
+
 ### Good to know
 
 - It skips episodes that already have links (so it never overwrites your edits). To redo one, run it from Terminal with `--force`.
