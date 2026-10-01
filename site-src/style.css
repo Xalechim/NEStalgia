@@ -181,3 +181,12 @@ main, .panel, .prose, .desc, .turn, .meta, .card .t, details.tx, .note {
   .panel ul, .panel ol { padding-left: 1.05em; }
   .turn { padding: 7px 8px; }
 }
+
+/* Top menu wraps instead of overflowing on very narrow screens */
+header.site nav { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+header.site nav a { margin-left: 0; }
+@media (max-width: 420px) {
+  header.site .bar { padding: 8px 14px; }
+  header.site nav a { font-size: 12.5px; }
+  header.site nav { gap: 4px 12px; }
+}

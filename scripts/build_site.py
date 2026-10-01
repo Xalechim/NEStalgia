@@ -63,15 +63,27 @@ def linkify(text):
 
 
 def render_notes(path):
-    text = (REPO / path).read_text()
+    """Markdown notes -> HTML. Files nest bullets with 2 or 4 spaces (or tabs); Python-Markdown
+    wants 4, and anything indented further is turned into an unwrappable code block."""
+    text = (REPO / path).read_text().replace("\t", "    ")
     lines = text.split("\n")
     if lines and lines[0].startswith("# "):
         lines = lines[1:]
-    out = []
+    indents = sorted({len(m.group(1)) for ln in lines if (m := re.match(r"^( *)(?:[-*+]|\d+\.) ", ln)) and m.group(1)})
+    unit = indents[0] if indents else 4
+    out, prev, in_list = [], -1, False  # prev = nesting level of the previous bullet (-1: not in a list)
     for ln in lines:
-        m = re.match(r"^( *)- ", ln)
-        if m:  # Python-Markdown nests on 4 spaces; our notes use 2
-            ln = " " * (len(m.group(1)) * 2) + ln[len(m.group(1)):]
+        m = re.match(r"^( *)((?:[-*+]|\d+\.) .*)$", ln)
+        if m:
+            level = min(round(len(m.group(1)) / unit), prev + 1)  # can't nest deeper than one below the last bullet
+            prev, in_list = level, True
+            ln = " " * (4 * level) + m.group(2)
+        elif in_list and ln.strip() and ln.startswith(" "):
+            ln = ln.lstrip()  # wrapped continuation line of the item above, not a code block
+        elif not ln.strip():
+            pass
+        else:
+            in_list, prev = False, -1
         out.append(re.sub(r"(?<![(<\"])(https?://[^\s)>]+)", r"<\1>", ln))
     return markdown.markdown("\n".join(out), extensions=["tables"])
 
