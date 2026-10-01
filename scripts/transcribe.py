@@ -286,6 +286,8 @@ def main() -> None:
         rows = [(s, e, f"Speaker {order[spk]}", t) for s, e, spk, t in rows]
 
     rows = [(s_, e_, spk, t.replace("welcome to Nostalgia", "welcome to NEStalgia")) for s_, e_, spk, t in rows]
+    if names and rows and rows[0][0] < 10 and rows[0][2] != "Hosts":
+        rows[0] = (rows[0][0], rows[0][1], "Mike", rows[0][3])  # Mike always says the first line of the show
 
     # Merge consecutive segments from the same speaker into turns.
     merged = []

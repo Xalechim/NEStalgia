@@ -1052,438 +1052,142 @@ _Auto-generated transcript. Speaker names are matched automatically by voice and
 
 **Joe** [1:08:27]: You're so close.
 
-**Sean** [1:08:29]: Orb 3D. You're so.
+**Sean** [1:08:29]: Orb 3D. So.
 
-**Joe** [1:08:33]: You're so close but not close enough because I'm a tricky son of a bitch. It's from the Nostalge AI recap of Pipe Dream.
+**Mike** [1:08:30]: Oh, no. Yeah. Pipe Dream.
 
-**Sean** [1:08:41]: Oh my God.
+**Joe** [1:08:33]: You're so close, but not close enough because I'm a tricky son of a bitch. It's from the Nostalgia AI recap of Pipe Dream.
 
-**Joe** [1:08:42]: And the person who said it was male AI voice. Recapping your opening line. You called it his opening line.
+**Sean** [1:08:41]: Oh, my God.
 
-**Sean** [1:08:48]: That's not cool. Oh my gosh.
+**Joe** [1:08:42]: And the person who said it was male AI voice. Recapping your opening line. He called it his opening line.
 
-**Mike** [1:08:50]: That's crazy. You're right. Nostalge AI.
+**Sean** [1:08:48]: That's not cool. Oh, my gosh.
 
-**Joe** [1:08:55]: All right. This one you only need to get the person who said it. Not the game. Okay. Who's your favorite Final Fantasy character?
+**Mike** [1:08:50]: That's crazy. You're right. Nostalgia AI.
 
-**Sean** [1:09:03]: Matoya? I don't even know what that is.
+**Joe** [1:08:55]: um all right this one you only need to get the person who said it not the game okay who's your favorite final fantasy character matoya i don't even know what that is matoya's cave matoya's cave uh so that's joe said that okay correct i don't remember what episode was a plates episode but i wrote it down i just didn't write down the episode um all right next oh wait guys stop right now stop right now this episode is officially longer than the game could ever be oh my god yeah
 
-**Mike** [1:09:07]: Matoya's cave. So that's Joe said that.
+**Mike** [1:09:28]: so i think this is me that's me oh it's you oh no no it might be you you're right you're right but i think it was me i think you also commented on how short it was but is it time lord is that a game that has like it uh game remember because time yes it has to be time lord because time lord has a set like it can only be this long yeah right you're right time time lord has like a time limit to beat
 
-**Joe** [1:09:11]: Okay. Correct. I don't remember what episode. It was a Bites episode, but I wrote it down. I just didn't write down the episode. All right. Next. Oh, wait, guys. Stop right now. This episode is officially longer than the game could ever be.
+**Joe** [1:09:56]: the game okay yeah let's go with that and me and time lord yeah it is mike it is not time lord it is snoopy's silly sports spectacular which also could so some reason could only be like 37 minutes exactly because there was a time limit or something like that oh man i feel like time lord also had the
 
-**Mike** [1:09:27]: Oh, my gosh. Yeah. So I think. Is this me? That's me. Oh, it's you? Oh, no, no. It might be you. You're right. But I think it was me. I think you also commented on how short it was. But is it Time Lord?
+**Sean** [1:10:19]: time there was something with time like actual real time with that game i can't remember you had like a
 
-**Sean** [1:09:42]: Is that a game that has like.
+**Mike** [1:10:23]: yeah you had an exact amount of seconds or whatever yeah that sounds familiar but not when we said it
 
-**Mike** [1:09:45]: Remember, because time. Yes, it has to be Time Lord because Time Lord has a set. Like it can only be this long.
+**Joe** [1:10:29]: it's not when you said it i know i get it all right yeah also his thing like blowing the bubble and floating into the air this is a little scarier than the others he just starts like floating away and then he falls banging into the walls the whole way down you know and then he just trots away with his lanky weird self i i need the whole quote again yeah also his thing like blowing the bubbles and
 
-**Sean** [1:09:52]: Yeah. Right.
+**Sean** [1:10:54]: floating up in the air this is a little scarier than the others he just starts like floating away and
 
-**Mike** [1:09:53]: I think you're right. Time Lord has like a time limit to beat the game.
+**Joe** [1:10:59]: then he falls banging into the walls the whole way down you know then he just trots away with his
 
-**Sean** [1:09:57]: Okay. Yeah. Let's go with that.
+**Mike** [1:11:05]: lanky weird self oh boy yeah this is oh boy this is a lot yeah i feel like it's you i don't think i
 
-**Mike** [1:09:58]: Okay. And me and Time Lord.
+**Sean** [1:11:15]: would say lanky weird self but maybe i did yeah because words um lanky blowing a bubble bubble blowing
 
-**Joe** [1:10:00]: Yeah. It is Mike. It is not Time Lord. It is Snoopy's Silly Sports Spectacular, which also could. That is so frustrating. For some reason could only be like 37 minutes exactly because there was a time limit or something like that. Oh, man.
+**Joe** [1:11:26]: falling down a wall oh man i'm lost it's so much easier to be the guy reading the questions on these
 
-**Mike** [1:10:17]: I feel like Time Lord also had the time limit.
+**Mike** [1:11:35]: right right i feel like little nemo but i'm i'm i'm just basically saying the same games over and over again so i have like a bias here let's just go with little nemo and i guess me wait wait what
 
-**Sean** [1:10:19]: There was something with time, like actual real time with that game.
+**Mike** [1:11:55]: okay hold on his lanky self who's lanky i don't know there's lanky kong i don't know who that is so that's one of donkey kong's family members how dare you i'll tell you this person's not i think the
 
-**Mike** [1:10:22]: I can't remember. You had like a. Yeah. You had an exact amount of seconds or whatever.
+**Joe** [1:12:09]: reason that it was said lanky weird self is because this person shouldn't be lanky you shouldn't be lanky as lanky as lanky as he is in this game and we commented on like wow why is he so lanky
 
-**Joe** [1:10:26]: Yeah. That sounds familiar, but.
+**Mike** [1:12:20]: as lanky as he is in the game darn yeah i i i've given up i know i don't i i we have to guess who said it though right yeah yeah who said it and so so joe said it we'll just say um and uh yeah i guess
 
-**Mike** [1:10:28]: Not when we said it.
+**Joe** [1:12:38]: little nemo i did say it good and it is from big birds sesame street big bird titan speak and i believe it was ernie that was like way too tall oh the little victory and he bounces into the wall as he falls down i vaguely remember that now i know this feels dire but like you guys got 13 points there's still i don't know there's still quite a few questions left it's not that crazy that you get more than 19 points here i think you're on a good track okay all right all right i appreciate the encouragement um all right next one oh that's the end of my contract now that feels like a sean thing to
 
-**Joe** [1:10:29]: That's not when you said it.
+**Sean** [1:13:13]: say it does sound like of me saying i do like to say i'm gonna quit the show pretty often yeah but
 
-**Mike** [1:10:30]: I know. I get it.
+**Mike** [1:13:19]: but there's zero context clues for the game so we might as well just pick a random game um let's say
 
-**Joe** [1:10:32]: All right. Yeah.
+**Sean** [1:13:25]: uh let's say mule i don't remember what game that is i don't think you were on that episode
 
-**Joe** [1:11:03]: So then he just trots away with his lanky weird self.
+**Mike** [1:13:31]: you weren't even on mule i think i knew that um that was a real episode i thought the only episode
 
-**Mike** [1:11:07]: Oh, boy.
+**Joe** [1:13:38]: i ever missed was uh uh it was a real no no we do some secretly without you yeah yeah yeah mike's
 
-**Sean** [1:11:08]: Yeah. This is.
+**Mike** [1:13:46]: without sean uh let's think about this there's 673 games so maybe it was the halfway point that would have been like 330 something um i mean i'm just i'm i'm i have no idea that was a made up oh wow i definitely didn't play this game mule you would like it uh yeah let's say circus caper
 
-**Mike** [1:11:10]: Oh, boy.
+**Joe** [1:14:08]: circus caper sean circus sure it is sean and it was your line of thinking might have almost gotten you there mike but it was episode 300 pin bot and the only reason i thought like maybe you should remember this because you said it in episode 300 said that's the end of my contract and then i let you know that because i was getting ready for this game i listened to episode 200 and you had said it in episode 200 as well so it's happening in every every hundredth episode you make well at least we know that episode 400 will be my last it is yeah my contract um all right so now that you said it again i'll use it next time too um he didn't let me look at any of his carts so he wouldn't allow it
 
-**Sean** [1:11:11]: This is a lot. Yeah.
+**Sean** [1:14:55]: uh casino kid any of his carts any of his cards oh carts at those cards you wouldn't let me look at any of his carts i i don't know was there mike were you ever telling us a story about someone that had
 
-**Mike** [1:11:13]: I feel like it's you.
+**Mike** [1:15:13]: nes games but wouldn't let you look at them no i would never tell a story like that any of his carts um no would it be me no okay joe joe joe joe and why not uh solar jet man
 
-**Sean** [1:11:14]: I don't think I would say lanky weird self, but maybe I do. Because words.
+**Joe** [1:15:31]: it was joe and it was palamedes when mike said like sean don't be mad but joe and i played this together then there was something we were talking about that like we didn't know and mike was like it's on the cartridge oh no i would say it's on the cartridge because you guys never fucking looked well yeah because we because we weren't playing it on the cartridge but i didn't want to admit that we didn't play it on a cartridge yeah so yeah right all right that's 15 points okay here comes a two pointer you get just like this little slice of something and i'm not sure what it's supposed to be
 
-**Mike** [1:11:23]: Blowing a bubble, though.
+**Mike** [1:16:07]: oh wow okay never mind uh that's gotta be me a little slice of something and that's here it's supposed to be uh oh it's like that's pictionary right like oh yeah um or maybe that wait what's the one is a classic concentration actually oh good call good call i'm gonna go still me though maybe uh it's
 
-**Joe** [1:11:25]: Blowing a bubble, blowing, falling down a wall.
+**Joe** [1:16:31]: okay let's go with my classic concentration sadly it was sean episode 400 werewolf the last it was like after your essential games vote it was like the last thing you said before we started this game
 
-**Sean** [1:11:29]: Oh, man.
+**Sean** [1:16:45]: what the fuck are you talking about you get a little slice of something
 
-**Mike** [1:11:30]: I'm lost here.
+**Joe** [1:16:50]: i'm not sure what it's supposed to be you just said that and you didn't know i don't even remember what why you said it but i wrote it down as you were saying it
 
-**Joe** [1:11:32]: It's so much easier to be the guy reading the questions on these.
+**Sean** [1:16:59]: you get a little slice of something you're not sure oh my god it's the it's the it's the to be continued oh yeah yeah that's right oh wow that's that was devious and that was not nice
 
-**Mike** [1:11:35]: Right. I feel like Little Nemo, but I'm just basically saying the same games over and over again. So I have like a bias here.
+**Joe** [1:17:11]: that was that was i thought that was gonna be like oh they're gonna just laugh and be like okay i just
 
-**Joe** [1:11:44]: Let's just go with Little Nemo.
+**Sean** [1:17:16]: said that yeah no way it's a little it's not it's not quite as iconic as yeah i had to make this one
 
-**Sean** [1:11:45]: And I guess me.
+**Joe** [1:17:23]: i did have to make this one a little yeah a little more obscure because originally i had one where it was like if you had a redacted say that and like if you had a redacted in like therapy he'd say that he would have gotten that immediately that's true i would have gotten that um
 
-**Mike** [1:11:47]: Wait, wait, wait. What about The Adventures of Gilligan's Island?
+**Joe** [1:17:42]: all right let's see okay uh so you guys are gonna be i'm just gonna i'm gonna hmm i'm looking to see like how many how many hints i should give you here but oh no i'm not gonna give you a hint so you guys are gonna be doing some amphetamine version of redacted and just you know i was waiting for the you know nothing after the you know amphetamine version of redacted and the redacted is a puzzle game amphetamine version of tetris
 
-**Sean** [1:11:53]: I actually have visual memories of that game.
+**Mike** [1:18:11]: no dr mario and yeah so dr mario is the game we're talking about amphetamine version of tetris of tetris oh i gotcha yeah yeah oh sorry yeah totally get it now uh kind of feels like it
 
-**Mike** [1:11:55]: Okay, hold on. His lanky self. Who's lanky? I don't know. There's Lanky Kong. I don't know who that is, so. That's one of Donkey Kong's family members. How dare you? I'll tell you, this person's not.
+**Joe** [1:18:26]: kind of feels like a you thing yeah yeah let's say me dr mario it is sean and wow dr mario makes so much sense but it is not dr mario it's palamedes i knew it was palamedes
 
-**Joe** [1:12:08]: I think the reason that it was said lanky weird self is because this person shouldn't be lanky.
+**Mike** [1:18:41]: why'd you say dr mario no no i meant like in the back of my head i knew but the obvious answer felt
 
-**Sean** [1:12:13]: He shouldn't be lanky.
+**Joe** [1:18:48]: safer it's true it's true all right two more questions and you have 16 points so we just we need to get three out of four you need well you need a three out of four to tie okay you need to get four out of four to win this happened like last time too almost exactly like this well hold on
 
-**Joe** [1:12:15]: As lanky as he is in this game. And we commented on like, wow, why is he so lanky?
+**Sean** [1:19:06]: 39 so we would get 20 out of 39 i guess that's true yeah yeah you're right you're right yeah no
 
-**Mike** [1:12:20]: As lanky as he is in this game. Darn. Yeah, I've given up. I know. I don't. We have to guess who said it, though, right?
+**Joe** [1:19:14]: you got 16 so three out of four you get three more you get 19 yeah so it's actually below yeah 50 percent yeah we we lost it we'll round it up to the tie yeah to the 0.5 um all right but like it's a pretty creepy ending right it's like he turns into a giant cytoplasm-esque thing wow actually i'm sorry turns into a giant like cybo plasm-esque thing cybo yeah and then we laughed at that's a made-up word so it's a made-up word and it was still used as like ask like we all knew what cybo
 
-**Joe** [1:12:29]: Yeah. Yeah, who said it and.
+**Mike** [1:19:50]: plasm was like yeah that's a hundred percent me um but what what would turn you into a cybo plasm-esque thing oh low g gravity man that's what i was gonna say i didn't know the name of it but it's the one where you just sort of all puzzled it on spaceship right i'll tell you this no no no that's um that's solar jet man i'll tell you this this is a game that has already been an answer oh so it's definitely not low g um cybo plasm-esque snoopy right did did pipe dream have no pipe dream wasn't the answer snake's revenge that's metal gear yeah um pipe dream didn't have an ending it also wasn't uh an
 
-**Mike** [1:12:32]: So Joe said it, we'll just say.
+**Sean** [1:20:39]: episode that was used already that was the ai version um right but maybe there's some uh weird
 
-**Mike** [1:12:37]: And yeah, I guess Little Nemo.
+**Joe** [1:20:45]: like melting into cybo plasm in sesame street um i say we go with snake's revenge snake's revenge mike and snake's revenge mike and snake's revenge incorrect it is mike it is not snake's revenge it was street fighter 2010 oh right yeah so we had a scooby-doo reference and now a cybo plasm reference
 
-**Joe** [1:12:39]: I did say it. Good. And it is from Big Bird's Sesame Street, Big Bird Tied and Speak. And I believe it was Ernie that was like way too tall.
+**Mike** [1:21:10]: great all right last one of the cybo plasm references of our time
 
-**Mike** [1:12:48]: Oh, the little victory dancer.
+**Joe** [1:21:19]: the last one and if you get two right here you'll still we'll call it still tie to last year you
 
-**Sean** [1:12:49]: And he bounces into the wall as he falls down.
+**Sean** [1:21:25]: haven't yeah we rambled up so um what i think was really unfair with a lot of those episodes
 
-**Mike** [1:12:52]: I vaguely remember that.
+**Joe** [1:21:32]: is that they were always like no it's just like mirrors but it's like in this cartoon you can make a mirror do whatever you want it to
 
-**Joe** [1:12:54]: Now, I know this feels dire, but like you guys got 13 points. There's still, I don't know, there's still quite a few questions left. It's not that crazy that you get more than 19 points here. I think you're on a good track.
+**Mike** [1:21:41]: uh i'm gonna say joe okay joe and it's got to be a cartoon then yeah but we talked about cartoons and games that we that aren't based on cartoons of course of course say the quote again what i think
 
-**Sean** [1:13:04]: Okay. All right.
+**Joe** [1:21:54]: was really unfair with a lot of those episodes is that they were always like no no it's just like mirrors but like in this cartoon a mirror can you can make a mirror do whatever you want it to
 
-**Mike** [1:13:06]: I appreciate the encouragement.
+**Mike** [1:22:06]: yeah we were we literally just say bullshit yeah i've never actually nonsensical and i feel so bad that everybody had to listen to that line in particular yeah yeah there's no actual like
 
-**Joe** [1:13:08]: All right. Next one. Oh, that's the end of my contract.
+**Sean** [1:22:19]: there's no wordsmithing when it comes to there's there's yeah there was no substance yeah um so which one were we talking about was it we were talking about scooby-doo in
 
-**Mike** [1:13:11]: Now, that feels like a Sean thing to say.
+**Mike** [1:22:29]: what episode scooby-doo the one we just talked about street fighter 2010 yeah let's just do that no it can't be that again can it i did he said multiple i don't know if he said two or three um all right but who said it joe yeah all right so joe said it mirrors what about bugs bunny were there mirrors in bugs bunny no okay joe bugs bunny's birthday blowout is that is that where
 
-**Sean** [1:13:13]: It does sound like a me saying. I do like to say I'm going to quit the show pretty often.
+**Joe** [1:23:02]: you're going bugs bunny yeah no there are mirrors in scooby-doo and it is street fighter 2010 see oh my
 
-**Mike** [1:13:18]: Yeah. But there's zero context clues for the game. Yeah. So we might as well just pick a random game.
+**Mike** [1:23:09]: god and it was sean anyways oh wow so we double loss on that one well i i i just buried you sean with that comment it's okay i was like yeah i said stupid shit yeah i say a lot of that well i think everything i heard uh makes me want to quit the podcast yeah last the last 20 quotes have been absolute garbage thank god our uh well now that that's good thing because sean's contract yeah
 
-**Sean** [1:13:24]: Let's say Mule. I don't remember what game that is.
+**Sean** [1:23:36]: yeah um and you know for the record i i clearly picked these based on what i think will be interesting
 
-**Mike** [1:13:29]: I don't think you were on that episode. You weren't even on Mule. I knew that. But that was a real episode.
+**Joe** [1:23:42]: quotes and not what i think will be a fair game to play oh of course of course yeah i i like almost
 
-**Sean** [1:13:37]: I thought the only episode I ever missed was Risky.
+**Mike** [1:23:50]: all of these quotes uh out of context except for that great yeah that one in particular just really pissed me off but what was the ninth what was the ninth quote the ninth quote i don't have numbered but
 
-**Mike** [1:13:40]: It was a real episode. No.
+**Joe** [1:24:01]: uh just count one two three nine i think was everyone knows how shorts work your hands up your
 
-**Joe** [1:13:42]: We do some secretly without you. Yeah. Mike's without Sean.
+**Mike** [1:24:10]: mouth's open and your shorts are gonna fall down that's an all-time line that's a meme for this show now everybody knows how shorts work yeah we're gonna make it happen how do we uh how do we end this it was about to end john i thought that was gonna be the end okay it was about to end all right
 
-**Mike** [1:13:48]: Let's think about this. There's 673 games. So maybe it was the halfway point. That would have been like 330 something.
+**Joe** [1:24:28]: should we end it now we can wait here until next week's episode now okay okay what
 
-**Mike** [1:13:58]: I mean, I'm just, I have no idea. That was a made up.
+**Sean** [1:24:39]: damn it i won't stop
 
-**Sean** [1:14:02]: Oh, wow. I definitely didn't play this game.
-
-**Mike** [1:14:05]: Mule, you would like it. Yeah. Let's say Circus Caper.
-
-**Joe** [1:14:08]: Circus Caper. Sean?
-
-**Mike** [1:14:10]: Circus Caper. Sure.
-
-**Joe** [1:14:11]: It is Sean. And it was, your line of thinking might have almost gotten you there, Mike, but it was episode 300, Pinbot. And the only reason I thought, like, maybe you should remember this because you said it in episode 300, said that's the end of my contract. And then I let you know that because I was getting ready for this game, I listened to episode
-
-**Sean** [1:14:30]: 200. And you had said it in episode 200 as well.
-
-**Joe** [1:14:35]: So it's happening in every 100th episode.
-
-**Sean** [1:14:38]: You make that. Well, at least we know that episode 400 will be my last. It is my contract.
-
-**Joe** [1:14:46]: All right. So now that you said it again, I'll use it next time, too.
-
-**Joe** [1:14:52]: He didn't let me look at any of his carts, so he wouldn't allow it.
-
-**Mike** [1:14:56]: Casino Kid? Any of his carts?
-
-**Joe** [1:15:00]: Any of his carts.
-
-**Mike** [1:15:02]: Oh, carts. I thought it was cards.
-
-**Sean** [1:15:04]: He wouldn't let me look at any of his carts.
-
-**Mike** [1:15:07]: I don't know.
-
-**Sean** [1:15:09]: Mike, were you ever telling us a story about someone that had NES games but wouldn't let
-
-**Joe** [1:15:14]: you look at them? No.
-
-**Mike** [1:15:16]: I would never tell a story like that. Any of his carts? No. Would it be me? No? Okay. Joe. Joe and why not Solar Jetman?
-
-**Joe** [1:15:31]: It was Joe. And it was Palamedes. Oh, wow. Mike said, like, Sean, don't be mad, but Joe and I played this together. Then there was something we were talking about that, like, we didn't know. And Mike was like, it's on the cartridge.
-
-**Sean** [1:15:46]: Oh, no. I would say it's on the cartridge because you guys never fucking looked.
-
-**Joe** [1:15:50]: Well, yeah, because we weren't playing it on the cartridge. But I didn't want to admit that we didn't play it on the cartridge.
-
-**Sean** [1:15:55]: Yeah. Right.
-
-**Joe** [1:15:57]: All right. That's 15 points.
-
-**Mike** [1:15:59]: Okay. Here comes a two-pointer.
-
-**Joe** [1:16:02]: You get just, like, this little slice of something, and I'm not sure what it's supposed to be.
-
-**Sean** [1:16:07]: Oh, wow. Okay, never mind.
-
-**Mike** [1:16:09]: That's got to be me.
-
-**Sean** [1:16:11]: A little slice of something, and that's here what it's supposed to be.
-
-**Mike** [1:16:14]: Oh, it's, like, that's Pictionary, right?
-
-**Sean** [1:16:17]: Oh, yeah. Or maybe, wait, what's the one? Is it Classic Concentration, actually?
-
-**Mike** [1:16:25]: Oh, good call, good call. I'm going to go. You think it's still me, though?
-
-**Sean** [1:16:30]: Maybe. Okay.
-
-**Joe** [1:16:32]: Let's go with my Classic Concentration. Sadly, it was Sean, episode 400, Werewolf.
-
-**Sean** [1:16:41]: It was, like, after your essential games vote.
-
-**Joe** [1:16:43]: It was, like, the last thing you said before we started this game.
-
-**Sean** [1:16:45]: What the fuck are you talking about? You get a little slice of something?
-
-**Mike** [1:16:50]: You just said that. I'm not sure what it's supposed to be. You just said that, and you didn't know.
-
-**Joe** [1:16:55]: I don't even remember why you said it, but I wrote it down as you were saying it.
-
-**Sean** [1:16:59]: You get a little slice of something, you're not sure? Oh, my God. It's the to be continued fucking thing. Oh, yeah, yeah, that's right.
-
-**Mike** [1:17:08]: Oh, wow.
-
-**Sean** [1:17:09]: That was devious, and that was not nice. That is so funny.
-
-**Joe** [1:17:13]: I thought that was going to be, like, oh, they're going to just laugh and be, like, okay, I just said that. Yeah.
-
-**Sean** [1:17:18]: Yeah, no way.
-
-**Mike** [1:17:20]: It's not quite as iconic as Are You and Your Name.
-
-**Joe** [1:17:24]: I did have to make this one a little more obscure, because originally I had one where it was, like, if you had a redacted say that in, like, or if you had a redacted in, like, therapy, he'd say that. He would have gotten that immediately.
-
-**Sean** [1:17:37]: That's true. I would have gotten that.
-
-**Joe** [1:17:42]: All right. Let's see. Okay. So, you guys are going to be, I'm just going to, I'm going to, hmm, I'm looking to see, like, how many hints I should give you here, but, oh, no, I'm not going to give you a hint. So, you guys are going to be doing some amphetamine version of Redacted, and just, you know.
-
-**Mike** [1:18:01]: I was waiting for the you know.
-
-**Joe** [1:18:03]: I did nothing after the you know.
-
-**Mike** [1:18:06]: Amphetamine version of Redacted.
-
-**Joe** [1:18:07]: And the Redacted is a puzzle game.
-
-**Sean** [1:18:10]: Amphetamine version of Tetris.
-
-**Mike** [1:18:12]: No, Dr. Mario. Yeah. So, Dr.
-
-**Sean** [1:18:16]: Mario is the game we're talking about, amphetamine version of Tetris.
-
-**Mike** [1:18:20]: Of Tetris. Oh, I gotcha.
-
-**Joe** [1:18:21]: Yeah, yeah, yeah. Oh, sorry.
-
-**Mike** [1:18:23]: Yeah. Totally get it now. Maybe. Kind of feels like a you thing.
-
-**Sean** [1:18:27]: Yeah. Let's say me, Dr.
-
-**Joe** [1:18:29]: Mario. It is Sean, and wow, Dr. Mario makes so much sense, but it is not Dr. Mario. You know, it's Palamedes.
-
-**Mike** [1:18:38]: I knew it was Palamedes.
-
-**Sean** [1:18:41]: Why'd you say Dr.
-
-**Mike** [1:18:43]: Mario? No, no, I meant like in the back of my head I knew, but the obvious answer felt safer.
-
-**Joe** [1:18:48]: It's true. All right. Two more questions, and you have 16 points.
-
-**Sean** [1:18:55]: So, we need to get three out of four?
-
-**Joe** [1:18:58]: You need a three out of four to tie. Okay. You need to get four out of four to win. This happened like last time, too, almost exactly like this.
-
-**Sean** [1:19:05]: Well, hold on.
-
-**Mike** [1:19:07]: 39. So, we would get 20 out of 39, which is above 50%. I guess that's true. Yeah, yeah. You're right.
-
-**Joe** [1:19:12]: 50%. You're right. Yeah. No. You get 16. So, you get three more, you get 19.
-
-**Sean** [1:19:18]: Yeah. So, it's actually below 50%. Yeah. We lost.
-
-**Mike** [1:19:22]: I didn't win, but we'll see. We'll round it up to the tie.
-
-**Joe** [1:19:25]: Yeah. To the 0.5. All right. Right. But, like, it's a pretty creepy ending, right?
-
-**Sean** [1:19:31]: It's like he turns into a giant cytoplasm-esque thing.
-
-**Joe** [1:19:36]: Wow. Actually, I'm sorry. Turns into a giant, like, cyboplasm-esque thing.
-
-**Sean** [1:19:41]: Cybo? Cyboplasm.
-
-**Joe** [1:19:43]: Yeah. And then we'd laugh.
-
-**Mike** [1:19:44]: Well, that's a made-up word, so it's mine.
-
-**Joe** [1:19:45]: It's a made-up word, and it was still used as, like, ask, like we all knew what cytoplasm was like.
-
-**Sean** [1:19:52]: Yeah. Okay.
-
-**Mike** [1:19:53]: So, yeah. That's 100% me. But what would turn you into a cytoplasm-esque thing? Oh, low-G gravity man?
-
-**Sean** [1:20:02]: That's what I was going to say. I didn't know the name of it, but it's the one where you just sort of puzzle it on a spaceship, right? I'll tell you this.
-
-**Mike** [1:20:08]: No, no, no. That's Solar Jet Man.
-
-**Joe** [1:20:12]: I'll tell you this. Oh. This is a game that has already been an answer.
-
-**Mike** [1:20:16]: Oh, so it's definitely not low-G.
-
-**Mike** [1:20:21]: Cyboplasm-esque snoopy, right?
-
-**Sean** [1:20:24]: Did Pipe Dream have... No, Pipe Dream wasn't the answer.
-
-**Mike** [1:20:28]: Snake's Revenge? That's Metal Gear. Yeah. Pipe Dream didn't have an ending.
-
-**Sean** [1:20:36]: It also wasn't an episode that was used already. That was the AI version.
-
-**Mike** [1:20:43]: Right. But maybe there's some weird melting into cytoplasm in Sesame Street.
-
-**Joe** [1:20:50]: I'd say we go with Snake's Revenge.
-
-**Sean** [1:20:52]: Snake's Revenge. Mike and Snake's Revenge.
-
-**Joe** [1:20:55]: Mike and Snake's Revenge. Incorrect. It is Mike. It is not Snake's Revenge. It was Street Fighter 2010.
-
-**Mike** [1:21:05]: Oh, right.
-
-**Joe** [1:21:06]: Okay. Yeah, because we had a Scooby-Doo reference and now a cytoplasm reference.
-
-**Sean** [1:21:11]: Great. Absolutely. Cytoplasm. All right.
-
-**Mike** [1:21:14]: Last one. One of the cytoplasm references of our time.
-
-**Joe** [1:21:20]: The last one. And if you get two right here, we'll call it still a tie to last year.
-
-**Mike** [1:21:25]: You haven't. Yeah, we rhymed up.
-
-**Sean** [1:21:28]: What I think was really unfair with a lot of those episodes is that they were always like, no, it's just like mirrors.
-
-**Joe** [1:21:35]: But it's like in this cartoon, you can make a mirror do whatever you want it to.
-
-**Sean** [1:21:42]: I'm going to say Joe.
-
-**Mike** [1:21:44]: Okay, Joe. And it's got to be a cartoon then.
-
-**Sean** [1:21:47]: Yeah. But we talked about cartoons and games that aren't based on cartoons.
-
-**Mike** [1:21:52]: Of course. Say the quote again.
-
-**Sean** [1:21:54]: What I think was really unfair with a lot of those episodes is that they were always like, no, no, it's just like mirrors.
-
-**Joe** [1:22:00]: But like in this cartoon, you can make a mirror do whatever you want it to.
-
-**Sean** [1:22:07]: Yeah, we were talking.
-
-**Mike** [1:22:08]: We literally just say bullshit on this show.
-
-**Sean** [1:22:11]: I've never actually.
-
-**Mike** [1:22:12]: It was nonsensical and I feel so bad that everybody had to listen to that line in particular.
-
-**Sean** [1:22:17]: Yeah. Yeah, there's no actual like, there's no wordsmithing when it comes to what we do.
-
-**Mike** [1:22:22]: Yeah, there was no substance.
-
-**Sean** [1:22:24]: Yeah. So which one were we talking about? Was it, we were talking about Scooby-Doo in what episode?
-
-**Mike** [1:22:30]: We were talking about Scooby-Doo.
-
-**Sean** [1:22:32]: The one we just talked about.
-
-**Mike** [1:22:34]: Street Fighter 2010.
-
-**Joe** [1:22:36]: Yeah, let's just do that.
-
-**Mike** [1:22:37]: No, it can't be that again, can it?
-
-**Sean** [1:22:39]: He said multiple. I don't know if he said two or three.
-
-**Mike** [1:22:44]: All right, but who said it? Joe? Yeah. All right, so Joe said it. Mirrors. What about Bugs Bunny?
-
-**Sean** [1:22:53]: Were there mirrors in Bugs Bunny?
-
-**Mike** [1:22:55]: No. Okay. Joe Bugs Bunny's birthday blowout.
-
-**Joe** [1:23:01]: Is that where you're going? Bugs Bunny? Yeah. No, there are mirrors in Scooby-Doo and it is Street Fighter 2010.
-
-**Mike** [1:23:08]: See? Oh my God.
-
-**Joe** [1:23:09]: And it was Sean anyways.
-
-**Sean** [1:23:11]: Oh, wow. So we double loss on that one.
-
-**Mike** [1:23:14]: Wow. Yeah. I just buried you, Sean, with that comment. It's okay. I was like, I said stupid shit. I can't feel bad for anyone to listen to that.
-
-**Sean** [1:23:22]: Yeah. I say a lot of that.
-
-**Mike** [1:23:25]: Well, I think everything I heard makes me want to quit the podcast. Yeah. The last 20 quotes have been absolute garbage.
-
-**Sean** [1:23:33]: Thank God our contracts are.
-
-**Joe** [1:23:34]: Well, now that's good thing to Sean's contract.
-
-**Sean** [1:23:36]: Yeah. And, you know, for the record, I clearly picked these based on what I think will be interesting
-
-**Joe** [1:23:42]: quotes and not what I think will be a fair game to play.
-
-**Sean** [1:23:44]: Oh, of course. Of course. Yeah.
-
-**Mike** [1:23:49]: I like almost all of these quotes out of context.
-
-**Sean** [1:23:53]: Except for that one. They're great.
-
-**Mike** [1:23:54]: Yeah. That one in particular just really pissed me off. But what was the ninth? What was the ninth quote?
-
-**Joe** [1:23:59]: The ninth quote? I don't have them numbered. Just count. One, two, three, nine, I think was everyone knows how shorts work.
-
-**Sean** [1:24:09]: Your hands up, your mouth's open, and your shorts are going to fall down.
-
-**Mike** [1:24:13]: That's an all-time line. All-time. That's a meme for this show now. Everybody knows how shorts work.
-
-**Sean** [1:24:18]: Yeah. We're going to make it happen. How do we end this? It was about to end, Sean.
-
-**Joe** [1:24:25]: I thought that was going to be the end.
-
-**Mike** [1:24:27]: Okay. It was about to end.
-
-**Sean** [1:24:28]: All right. Should we end it now?
-
-**Joe** [1:24:32]: We can wait here until next week's episode.
-
-**Mike** [1:24:35]: Now? Okay. Okay, what? Damn it.
-
-**Sean** [1:24:40]: I want to stop.
-
-**Mike** [1:24:43]: I won't stop until I hit the hour and a half. Which is a minute from now.
-
-**Sean** [1:24:47]: Yeah, you got 80 seconds.
-
-**Mike** [1:24:49]: Or I could just lie to the listener and stop right now.
+**Mike** [1:24:43]: i won't stop until i hit the hour and a half so you got a minute from now yeah you got 80 seconds or i could just lie to the listener and stop right now you

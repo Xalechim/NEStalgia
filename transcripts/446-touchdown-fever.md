@@ -2,7 +2,9 @@
 
 _Auto-generated transcript. Speakers identified from the hosts' separate microphone tracks. The opening name introductions are left as "Hosts"._
 
-**Joe** [00:00]: Touchdown Fever! It's the muscle, the hustle, the chomp.
+**Mike** [00:00]: Touchdown Fever!
+
+**Joe** [00:02]: It's the muscle, the hustle, the chomp.
 
 **Mike** [00:22]: And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
 
