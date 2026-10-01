@@ -1,0 +1,42 @@
+# 058 - The Legend of Zelda
+
+- Released in 86 in Japan. 87 for US. Miyamoto and Tezuka again. They worked on the same time as Mario. Zelda technically even started first. Koji Kondo composed.
+- Manual
+- The state of RPG before Zelda
+- What did you guys know about Zelda before we played this time
+- Let’s talk about the sense of adventure.
+- The idea of not starting with a sword
+- Combat and enemies
+- Let’s talk puzzles? How did you know what to do next
+- What did you look up?
+- Dungeons
+- Bosses
+- What was frustrating? What would you fix?
+- By 98 Zelda sold 2 million copies
+- Purchase the game and send the warranty to Nintendo to get their fun club newsletter
+- Talk about Fun Club
+- Zelda BS SNES remake for the Super Nintendo using Link to the Past style
+- Zelda SP on Nintendo Switch
+- —When you first started the development of the SFC Zelda, did you have a specific vision in mind, like you wanted the game to be a certain way?
+- Miyamoto: Well, Zelda 1 had an inadequate system… I wanted to do the things we weren’t capable of doing in the first game.
+- —To call the first Zelda “inadequate” seems very harsh to me!
+- Miyamoto: There were a lot of things we intended to do, but we kept getting blocked by hardware constraints.
+- —What were some of the things that you weren’t satisfied with, specifically?
+- Miyamoto: For example, for the Level 7 dungeon entrance, we changed the color of the ground when the water drained, but we had originally intended to have the water actually disappear. And you can burn small trees, but we intended for you to be able to burn down big ones… There were a lot of little things like that, and I wanted the SFC Zelda to be more realistic in that regard.
+- —I see.
+- Miyamoto: In addition, back when LoZ was being made, having a world based on swords and magic was still a fresh idea, as was the concept of being able to save your game. A system that allowed you to buy items in-game was also new, not to mention solving dungeons. However, in the 5 years since the game’s release, a lot of titles have appeared on the market that do the same sort of thing, so the sense of innovation has disappeared. I thought hard about what we could do next that would entertain the players. On the other hand, we weren’t about to just cut out the shopping and dungeons entirely, just because they were no longer innovative.
+- ￼
+- Miyamoto: I don’t want to make games where the player is just a puppet in the hands of the creator, playing exactly as scripted. Trying to get players to become better and better at your game is certainly one valid approach to making games, but for me, I want to present games to players that are more like pure toys: something you can use, explore, and play with freely.
+- —The Legend of Zelda took the RPG genre from a place of relative obscurity and made it friendly and easy to understand. In that sense, it was a huge success for the gaming world. What are your thoughts on that?
+- Miyamoto: Thank you. For that one, I wanted to create a game world that conveyed the same feeling you get when you are exploring a new city for the first time. How fun would it be, I thought, if I could make the player identify with the main character in the game and get completely lost and immersed in that world?
+- The idea of a game in real-time, also, was something I’d been thinking about for awhile, but with such limited memory, it turned out to be a huge challenge to create enough satisfying content for players. I absolutely wanted to avoid half-baked ideas and gameplay. Since Zelda was released, I think the market has seen an increase in mean-spirited, petty games, and I still feel that sense of responsibility.
+- ￼
+- —Considering the Zelda series as a whole, what themes are you trying to convey?
+- ￼
+- The cover art for the Famicom LoZ
+- emphasizes the feeling of exploration.
+- Miyamoto: An everyday boy gets drawn into a series of incredible events and grows to become a hero. Within that framework, I wanted to create a game where the player could experience the feeling of exploration as he travels about the world, becoming familiar with the history of the land and the natural world he inhabits. That is reflected in the title: “the legend of ____”
+- Adventure games and RPGs are games where you advance the story through dialogue alone, but we wanted players to actually experience the physical sensation of using a controller and moving the character through the world. We wanted dungeons to be explorable with a simple mapping system. These and similar ideas were what we wanted to experiment with in Zelda. These themes are carried forward in the SFC Zelda as well.
+- ￼
+- Thoughts On the NES
+- ￼

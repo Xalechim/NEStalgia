@@ -1,0 +1,29 @@
+# 051 - Section Z
+
+- Capcom shows up again, Report Card time:
+- 1942
+- Commando
+- Ghosts N Goblins
+- Trojan
+- Takashi Nishiyama is BACK! The Trojan dude who went onto create Street Fighter 1 and then created Fatal Fury for SNK.
+- PLOT - Set in an unspecified year during the third millennium, the player takes the role of an astronaut sent to infiltrate and destroy a space station orbiting near the Earth that is actually the secret base of an alien empire known as the "Balangool"
+- Objective
+- Questions
+- What did you think of the Intro and cutscenes?
+- What did you think of the use of A/B to shoot in different directions?
+- Generating missiles pressing A and B together. Was it useful?
+- What did you think of the exploration? Was it frustrating to jump up/down in numbers. Would you have preferred a linear path?
+- Is the protagonist too big for the stage?
+- Is this game too hard for your tastes?
+- Boss Fights
+- What mechanic/item would you like to see added to this game?
+- Arcade differences -
+- Practically a different game
+- 5 stages/5sections 26 corridors total. Instead of 60 in the NES.
+- A-Z corridors.
+- Separate button for directions.
+- Automatic Death when hit by enemy fire.
+- FDS Differences -
+- You can save
+- Captain Commando is the main character!
+- It is loosely tied to Side Arms and Forgotten Worlds

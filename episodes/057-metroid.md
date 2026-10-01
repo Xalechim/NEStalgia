@@ -1,0 +1,84 @@
+# 057 - Metroid
+
+- --?VPm 000000
+- 01u000 00000Y
+- PLOT
+- The Space Pirates plan to replicate Metroids by exposing them to beta rays and then using them as biological weapons to destroy all living beings that oppose them. While searching for the stolen Metroids, the Galactic Federation locates the Space Pirates' base of operations on the planet Zebes. The Federation assaults the planet, but the Pirates resist, forcing the Federation to retreat.
+- As a last resort, the Federation decides to send a lone bounty hunter to penetrate the Pirates' base and destroy Mother Brain, the biomechanical life-form that controls the Space Pirates' fortress and its defenses.
+- MAKING OF
+- Famicom Disk System First with the ability to save and extra sounds. We get the password.
+- Originally known as Space Hunter (a Game that would be similar to Metroid but only come to the Famicom)
+- The team was Sakamoto (Artist and somewhat Producer -Wrecking Crew, Kid Icarus), Yokoi (Producer - Game&Watch, Game Boy, Donkey Kong), Hiroji Kiyotake (Character Desginer - Kid Icarus), Hirofumi Matsuoka (Background Designer), and Satoru Okada (Director - Kid Icarus)
+- Hirokazu Tanaka did the music (Donkey Kong Squeaky SFX and many NES Launch Games)
+- GAMEPLAY
+- Brinstar
+- Norfair
+- Kraid's Lair
+- Ridley's Lair
+- Tourian
+- Items
+- Missle
+- Energy Tank
+- Bombs
+- Varia Suit
+- Long Beam
+- Ice Beam
+- Wave Beam
+- High Jump
+- Screw Attack
+- Questions
+- What did you think of the Map Layout? Those long vertical corridors
+- How was Non-linear gameplay? Like Rygar but to the MAX
+- Does this feel like an adventure?
+- What does progression feel like in this game?
+- Was Samus frustrating to control? Can’t shoot low
+- Did the boss battles feel like boss battles?
+- What is satisfying about this game?
+- What to make of the weird Justin Bailey Code?
+- Development
+- Sakamoto inspired by ALIEN
+- How Development Starts
+- When making a game, we’d start out by having all the developers gather together to contribute their ideas, with Gunpei Yokoi at the head of the group. Then, using everything we came up with as a base, we work on filling in the blanks. - Sakamoto
+- How long did it take for the two of you new employees to develop the game?
+- Kiyotake: Not quite ten months.
+- Sakamoto: I didn't join development of Metroid until about the last three months. (laughs)
+- Sakamoto: I wasn't the only one to join. Everyone in Research & Development Department 1 joined at the end.
+- Sakamoto: To be honest, it was hardly done at all! (laughs)
+- Sakamoto: Everywhere had the same backgrounds and you could only do the same things. The characters were moving, but the rest of the game design was mere bare bones.
+- How Sakamoto got into Video Games at Nintendo
+- One day, however, Shigeru Miyamoto wandered over to our room and asked "Is there anyone here willing to lend us a hand?" That’s how I ended up doing sprite art for Donkey Kong Jr., which turned out to be my first real experience with video games. After that, I worked on the arcade version of Wrecking Crew. At the time, game development was done on a very small scale, so we had a team of five or six people working on everything from the programming to the music. Our development period was about half a year. - Sakamoto
+- Trying to make what Super Mario Bros Didn’t Have
+- What Super Mario Bros. didn't have? Like what?
+- Kiyotake: As a simple example, you know how Mario slides a little before stopping?
+- Uh-huh…
+- Kiyotake: So we tried to make a dead halt.
+- On Samus Name
+- Kiyotake was the one to name Samus. Which comes from a miscponunciation of Pele, football legend
+- Apparently, you thought Pelé's real name is Samus Arantes Nascimentos.
+- But if you look it up, it's Edson Arantes do Nascimento.
+- How did you decide to make Samus Aran a woman?
+- The instruction manual specifically stated that Samus's identity was "shrouded in mystery". However, the booklet did at some points use masculine pronouns ('He', 'Him', and 'His') in reference to Samus, six times on page 7 alone.
+- Sakamoto: Once we entered the final stage of development, we started talking about having different endings depending on how long it took players to clear the game. We wanted to prepare a reward for people who cleared it more quickly.
+- Kiyotake: We wondered what would surprise everyone and talked about removing Samus's helmet.
+- Sakamoto: Then someone said, "It would be a shocker if Samus turned out to be a woman!" And everyone thought that would be interesting and wanted to do it, so we decided it right away.
+- Kiyotake: Yeah, we decided that in a flash. Back then, people played games over and over, so we wanted to give a reward for playing through quickly. Then we decided to put in four endings, with Samus removing her helmet or her suit and so forth.
+- And to first-time players?
+- Kiyotake: I'd like to say, "This is how hard games used to be!" (laughs)
+- Special Shout out to a Restaurant
+- Sakamoto: We were working late every night those last three months, so we ordered from restaurants near the company. Benkei Dining, the Chinese restaurants Tohryu, and another called Sometime Mako, were especially helpful, so we decided to put those three into the credits.
+- Sequels and Spinoffs
+- Metroid II: Return of Samus for Gameboy in 1991
+- Metroid Manga
+- Super Metroid - Super Nintendo Entry
+- Playable in Metroid Prime
+- Metroid Zero Mission (Streamlined version for GBA w/ added story). Also has Metroid in it.
+- Original Metroid on GBA NES Classics
+- On the NES Classics
+- On the Nintendo Switch Online Service
+- Metroid Metal - Which I love
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼

@@ -1,0 +1,17 @@
+# 067 - Spy Hunter
+
+- First released in 1983 by Bally Midway. It’s now on the NES in 1987 and still Published by Bally Midway so this is our first game from them
+- First overhead car game on NES
+- Originally supposed to carry the James Bond License
+- Game designer George Gomez drew inspiration for the game from listening to an audio cassette tape of music from James Bond films. He designed the game with Tom Leon, with whom he had worked on TRON. Gomez sketched out the in-game road map on a long scroll of drawing paper and also came up with the idea of the weapons van. Originally the game was to be based directly on James Bond and have the James Bond theme as in-game music, but the license could not be acquired. Instead, an electronic arrangement of Henry Mancini's theme to Peter Gunn plays throughout.[2]
+- The car is called The Interceptor
+- Smoke Screen, Oil, Missles
+- Destroy enemies, protect civilians
+- Pinball version immediately followed in 84
+- Spy Hunter II in 87 is arcade only. Game jumped to 3D behind the car view
+- Spy Hunter Movie
+- In the summer of 2003, Universal Pictures acquired the rights to the 1983 arcade game Spy Hunter from Midway Games. The following September, Universal signed actor Dwayne "The Rock" Johnson to star in the film adaptation based on the game. Screenwriters Michael Brandt and Derek Haas were hired to write the screenplay, though a director had not been decided at the time. Spy Hunter was slated to begin its budgeted $90 million production in spring 2004 in time for a summer 2005 release.[8] In January 2004, screenwriters Mark Swift and Damian Shannon replaced the original writing duo to rewrite the script, with production slated for June.[9] By May, Universal Pictures acquired director John Woo to helm the project.[10] In the same month, the previous screenwriters were replaced by screenwriter Zak Penn to rewrite the script once more.[11] By August 2004, production had been delayed, pushing Spy Hunter back to be released in summer 2006.[12] In April 2005, Penn was replaced by screenwriter Stuart Beattie to rewrite the script.[13] By May 2005, however, director John Woo left the project due to scheduling conflicts.[14] In August 2005, Dwayne Johnson said the film was still developing without a director. Pre-production work was underway with designs such as the morphing Interceptor vehicle driven by Alex Decker.[15] Production was eventually halted for the time being, and Dwayne Johnson was detached from the project.[16]
+- In May 2007, Paul W. S. Anderson was hired to replace Woo as the director. He was going to be writing a new script with another screenwriter.[16] He left the project a year later due to his commitment to Death Race 2 as a producer. In February 2013, however, Warner Bros., who owns the rights to the film adaptation distribution, announced that Ruben Fleischer was officially brought on board to direct, after several rumors were given to the public ears, with Carter Blanchard providing the script, bearing an entirely rewritten storyline.[17] In November 2015, news were made that Blanchard was replaced with new pair of writers, Neal Greaves and Sam Chalsen, with Dan Lin and Roy Lee producing the film, while the report also made it unclear whether Fleischer was still on board as the director.
+- Spy Hunter: Nowhere to Run released on Gen 6 consoles
+- Supposed to be tied-into the movie. Eventually released by itself. It’s bad.
+- TAPWAVE ZODIAC - https://www.youtube.com/watch?v=g2CZRmHlJbw&t=64s&frags=pl%2Cwn

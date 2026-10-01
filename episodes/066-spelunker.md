@@ -1,0 +1,22 @@
+# 066 - Spelunker
+
+- 1983 game developed by Tomothy G. Martin and MicroGraphic Image
+- First on the Atari 8-bit family, then C64, then NES finally in September of 87
+- Published by Broderbund
+- Broderbund and Self-Created Designers
+- Tim Martin - Spelunker
+- Will Wright - Raid on Bungeling Bay
+- Douglas Smith - Lode Runner
+- And then don’t forget Deadly Towers
+- Explore a cave on a finite amount of air that you need to replenish
+- Remember Jumpman in Donkey Kong, well this guy dies even easier
+- Few enemies
+- Is there enough to explore?
+- Song loops way too often
+- Similar more successful games:
+- Dig Dug (more arcade less exploration)
+- Spelunky (Roguelike version)
+- SteamWorld Dig (Metroidvania version)
+- A sequel was released for Famicom on September 18, 1987 called Spelunker II: Yūsha e no Chōsen by Irem, in Japan only.
+- Spelunker HD on PS3 (remake with HD graphics and 100 levels)
+- AND in Japan only Spelunker Black which adds a new character and makes some parts of the level completely dark.

@@ -1,0 +1,33 @@
+# 062 - Lode Runner
+
+- Developed by: Doug Smith and for NES Hudson Soft
+- Published in the US by Broderbund
+- This is mostly known on the Apple II and other computers released in 1983. Not a big success on the NES, but the port was simple enough. It’s actually one of the first Famicom Third Party games in 1984
+- NES FEATURES
+- It has 50 levels
+- scrolling screens
+- added music
+- and graphics redone in a more cartoon-like style
+- In addition, fruits and vegetables randomly appear which may be grabbed for additional points
+- Although a level editor was included, there is no way to save levels created with it.
+- An arcade game (Irem developed) of Lode Runner was produced with some added features like the ability to hang off the ends of ladders and an improved enemy AI.
+- https://www.ign.com/articles/1999/02/18/locknlode
+- Q: Can you talk a little bit about how the original Lode Runner concept and game came about?
+- Doug:
+- The original Lode Runner game came about in the summer of '82. A that point in time I was a student at the University of Washington studying architecture and my minor was in numerical analysis. As a starving student I took a part-time job at the campus. That job was a consultant at the academic computer center basically my job was to help the students log-on, print their jobs etc, etc. But for the summer quarter there are basically no students so I'm sitting at a desk with nothing to do and I had access to the computers. So to occupy the time where I was just paid to sit there and do nothing, another friend and I started to write a game.
+- He submitted a rough version to Brøderbund around October 1982 and received a one-line rejection letter in response to the effect of "Thank you for submitting your game concept. Unfortunately it does not fit within our product line.".
+- Around Christmas of 1982, he submitted the game, now renamed Lode Runner, to four publishers and quickly received offers from all four: Sierra, Sirius, Synergistic, and Brøderbund. He took the deal with Brøderbund.
+- RECEPTION from others:
+- Softline in 1983 praised Lode Runner, calling it "smooth, thoughtful, and quite addictive".
+- Computer Gaming World praised Lode Runner's unusually easy-to-use level editor and the strategy necessary for an arcade title, describing it as "one of the few thinking men's arcade games".
+- Ahoy! in 1984 called the game "a top-notch action game that requires both a quick mind and an agile joystick".
+- Zzap!64 called the Commodore 64 version "not one of the most recent games but certainly one of the best ... a classic for a long time to come ... graphically minuscule and aurally crude, the game's sheer addiction kept my eyes propped open until the owls went to bed".
+- In 1984 Lode Runner was awarded "1984 Computer Game of the Year" at the 5th annual Arkie Awards.
+- Lode Runner Series
+- Championship Lode Runner 1984 - A direct sequel with 50 levels edited by fans and intended for expert play.
+- Lode Runner II (MSX) 1985 - MSX version released in 1985 with 50 levels (22 original levels & 28 new levels)
+- Lode Runner’s Rescue (Atari and C64) 1985 - 3-D sequel with dozens of 3-D perspective levels and screen design editor.
+- Hyper Lode Runner 1989 - Gameboy Version
+- Battle Lode Runner 1993 (PC Engine) - revolves around traveling through 50 different stages in 11 different time periods, collecting gold without being caught by enemies. The character can climb ropes and ladders, walk on top of enemies, collect power-ups, and most importantly, dig a hole on the right or left of himself.
+- Lode Runner 3-D 1999 (N64) - This looks archaic
+- THE LODE RUNNER MUSEUM - https://web.archive.org/web/20131006092123/http://loderunner.home.insightbb.com/

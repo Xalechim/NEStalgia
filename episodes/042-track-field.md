@@ -1,0 +1,31 @@
+# 042 - Track & Field
+
+- THE ARMCHAIR OLYMPICS ARE ON THE AIR
+- 1983 for Arcade. Many ports. Finally gets to NES in 1987
+- Konami - Gradius, Rush N Attack. Next month they will give us Castlevania
+- Arcade cabinets heavy damage
+- The Famicom version actually includes significantly less events and went by the name Hyper Olympic.
+- The US version lost Hammer Throw, but gained Skeet Shooting, Archery, and Triple Jump
+- ON DEVELOPMENT
+- Oh, you want to know why we made Track & Field? It’s simple enough: we were inspired by the 1984 Los Angeles Olympics held last year, and said to each other, “yeah! let’s make a sports game like this!” Indeed, there had not been a track and field style athletic event game yet. We also wanted to see if we could create a game that wasn’t Human vs. CPU, but Human vs. Human.
+- After deciding on our path, we got to work. Every morning we’d grab our fresh, warm bento lunchboxes and head down to the local college track and field meets to watch them compete, and get a real feel for how it all works. We also watched and researched videos from the Tokyo Olympics and other events featuring Olympic atheletes. One of our developers adored the Finnish javelin thrower Tiina Lillak so much, he insisted that we add javelin to the events!
+- My first game, Track & Field, took half a year with a grand total of two people working on programming and design. I don’t think Gradius took even half a year with a team of four people. We did spend time developing a special controller for Track & Field because people complained the regular one hurt, however.
+- Gradius was something we were ordered to port, so we tried to be realistic about it. The number of sprites on the NES is overwhelmingly small, so we had no illusions about what we were capable of. [Laughs] We just said to ourselves "Well, that’s as much as we can do!" and left the game at that. I had one guy under me, and he played through the coin-op version. That one’s really tough. I hadn’t played that much and obviously couldn’t beat it myself, so I put in the Konami Code. [Laughs]
+- 100 Meter Dash – Running by quickly pressing A
+- Long jump – Running by alternating button press and correct timing for jump. Hold jump button to set angle (42 degrees is optimal).
+- Javelin throw – Running by alternating button presses and then using action button correct timing for angle (43 degrees is optimal).
+- 110 Meter Hurdles – Running by alternating button presses and using action button to time hurdles
+- Skeet Shooting
+- Archery
+- High jump – Running (speed set by computer) and then action button must be held down to determine angle of jump. Once in the air, the run button can be rapidly pressed for additional height.
+- Would you have liked to see more buttons used?
+- Would you have liked a version where you can select your event?
+- Is the difficulty fair?
+- Did you set any “world records?”
+- Zapper Controls for Skeet? Like Clay Discs?
+- •	Olympic Decathlon — 1980 computer game with similar concept and controls.
+- •	The Activision Decathlon — home game from Activision released the same year as Track & Field.
+- •	Daley Thompson's Decathlon — and Daley Thompson's Super-Test; computer games with similar concept, released in the wake of Daley Thompson's popularity.
+- •	Summer Games (video game) — released by Epyx in 1984.
+- Wouldn’t come to Europe until Track & Field in Barcelona in 1992
+- KONAMI is still making games in the series. Hyper Sports came the following year in 1984. Believe it or not Track and Field II will come next year on the Nes 1988. And Hyper Sports R is actually being developed for the Nintendo Switch

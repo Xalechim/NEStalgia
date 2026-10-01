@@ -1,0 +1,23 @@
+# 041 - Rush'N Attack
+
+- RUSH’N ATTACK - UP FOR A LITTLE GUERRILLA WARFARE?
+- Developed and Published by Konami. Arcade first in 1985 and came to NES in April 87
+- ARCADE VERSION
+- The player takes on the role of a United States special operations soldier infiltrating an enemy military base in order to save multiple POW's from being executed by firing squad.
+- NES VERSION
+- The player's objective in the NES version was changed from rescuing prisoners to destroying a secret weapon being developed in the enemy's headquarters.
+- Additionally, a 2-players co-operative mode was introduced as well, allowing two players to play simultaneously
+- Rush’n Attack: Ex Patriot is a sequel for 360 and PS3
+- Marshaling Area (Missile Base)
+- Airport
+- Harbor
+- Air Base
+- On the Base
+- In the Base (Hit the missile 12 times)
+- Knife
+- 3 Shot Flamethrower (ARCADE ONLY)
+- Four Shot RPG
+- 3-pack of Hand Grenades
+- Pistol with unlimited ammo (Time sensitive)
+- The Famicom version features a few differences from its NES counterpart by allowing the player to continue up to three times after a game over and if the player loses a life in the Famicom version, his character will respawn at the very spot where he died instead of being sent to the last checkpoint
+- https://gamefaqs.gamespot.com/nes/587593-rushn-attack/faqs

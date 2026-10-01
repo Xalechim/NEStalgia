@@ -1,0 +1,23 @@
+# 055 - Elevator Action
+
+- Taito
+- Micronics AGAIN!
+- Arcade game originally released in 1983
+- PLOT
+- The player assumes the role of Agent 17, codename: "Otto", a secret agent for an unspecified organization or government who must collect all the documents and reach the basement using the elevator and stairs.
+- Objective
+- The player assumes the role of a spy infiltrating a 30-story building filled with elevators. The player is pursued by enemy agents who appear from behind closed doors.
+- Questions
+- Controlling the elevator?
+- Responsive inputs?
+- Too easy?
+- Is there enough happening?
+- Is it weird that this simple game is being released on NES now? Would we have accepted it more in ’85?
+- 2600 graphics?
+- Great article on Elevator design from Elevator World Inc
+- Sequel and Spinoff
+- Elevator Action Returns (or just II in NA) releases in 1994
+- Elevator Action EX is an updated version of the game released for the Game Boy Color in 2000.
+- Elevator Action Old & New is a further update for the Game Boy Advance, published in 2002.
+- Revealed at AOU 2009, Elevator Action: Death Parade is a lightgun shooter that uses elevator doors when changing scenarios.
+- A later remake of the game by Square Enix, titled Elevator Action Deluxe, was released on PlayStation Network on August 31, 2011. The game contains single player and multiplayer modes, as well as the original arcade version.

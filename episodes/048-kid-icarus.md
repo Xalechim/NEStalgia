@@ -1,0 +1,50 @@
+# 048 - Kid Icarus
+
+- Introductions
+- First Impressions
+- Objective
+- Read the manual
+- Kid Icarus is an action platformer meets RPG. You control Pit through 4 worlds of vertical and horizontal platforming obtaining new weapons along the way and upgrading your old ones.
+- WHAT A SURPRISE!
+- FUNDAMENTALS
+- SHOOTING
+- JUMPING
+- REAPERS
+- HEARTS
+- ITEMS
+- TREASURE CHAMBER - STORE - BLACK MARKET - TRAINING CHAMBER - HOT SPRING CHAMBER
+- CREDIT CARD
+- ANGELS FEATHER - SAVES YOU FROM FALL FROM DEATH
+- WATER OF LIFE AND BARREL
+- HAGGLING
+- FORTRESSES
+- MAP AND PENCIL AND TORCH
+- EGGPLANT
+- MALLET
+- BOSSES
+- TWIN BELLOWS - TWO HEADED RED DOG
+- HEW DRAW - BLUE SNAKE
+- PANDORA - BUBBLE INVISIBLE MONSTER (THE SOURCE OF ALL EVIL)
+- STAGE 4
+- SHMUP STYLE
+- MEDUSA BATTLE
+- ENDING
+- Hearts: 999
+- b. Strength: 5
+- c. Endurance: 5
+- d. All three Weapons acquired
+- If you have them all you get a kiss from Palutena and become like a grown man
+- JAPANESE FDS added a specknose WORST ending
+- MUSIC
+- DEVELOPMENT
+- Toru Osawa's debut as a video game designer, and he was the only staff member working on the game at the beginning of the project.
+- He programmed most of the game, worked with TOSE on development and only after Metroid’s completion did the rest of the team join.
+- Sakamoto apparently canceled Osawa’s wedding vacation to bring him back into finish the game.
+- No staff roll could even be added, but it was added in the NA version WITHOUT OSAWA instead they misspelled his name and wrote Inusawa
+- “Customers were perfectly willing to play it, and we were perfectly willing to make it that way,” Yoshio Sakamoto recalls.
+- The Final Stage was added at JUST THE END of production
+- SEQUELS
+- Kid Icarus: of Myths and Monsters was released for the Gameboy in 1991
+- Plays very much the same
+- Pit joins Smash in Brawl and Palutena in Smash 4
+- Kid Icarus Uprising was released in 2012 designed by Sakurai and way more meta and quirky

@@ -1,0 +1,25 @@
+# 053 - Arkanoid
+
+- July Review -
+- BreakThru
+- Kid Icarus
+- Mighty Bomb Jack
+- Regard
+- Section Z
+- Solomon’s Key
+- Taito - Space Invaders, Bubble Bobble
+- Atlas - Now owned by Sega would go on to known for RPGS mainly Shin Megami Tensei and Persona
+- Make up the Plot for the game
+- Objective - One Player Pong. Maneuver the Vaus (board) at the bottom part of the screen to bounce the ball back to the top of the screen and hit targets.
+- It’s a clone of Breakout but with Power Ups
+- QUESTIONS:
+- Is there enough to this game?
+- Did the Power Ups help? What would you have liked added?
+- What did you think of the patterns?
+- How did the Vaus Control for you?
+- What is this missing that a similar simple game like Tetris/Space Invaders do not?
+- Why is the Final Boss a Moai? Is this a Konami game?
+- Arkanoid Controller - limited turning radius. The faster the knob is turned, the quicker the Vaus moves.
+- Arkanoid did get a sequel, Arkanoid II or Arkanoid: Revenge of Doh
+- Let’s Build Arkanoid - https://foobar123.com/lets-build-the-arkanoid-code-with-me-part-1-4085a35ad8c
+- Breaking Down BreakOut - https://www.gamasutra.com/view/feature/1630/breaking_down_breakout_system_and_.php?print=1

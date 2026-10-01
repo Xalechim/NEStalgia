@@ -1,0 +1,24 @@
+# 056 - The Legend of Kage
+
+- Taito Produced and Developed this time around
+- Plot
+- The player takes the role of the young Iga ninja named Kage ("Shadow") on the mission to rescue Princess Kiri (Kirihime) from the villains Yoshi (Yoshiro Yukikusa) and Yuki (Yukinosuke Kiri). Kage must fight his way through the forest, along the secret passageway, up the fortress wall and through the castle, rescuing her two times (three in the FC/NES version) in order to win the game. Each time the princess is rescued, the seasons change in the game.
+- Objective
+- The player is armed with a kodachi shortsword and an unlimited amount of shuriken. Main gameplay revolves around killing enemy ninja (blue and red) and enemy fire-breathing monks over five stages:
+- Stages
+- The first stage is a horizontal and vertically scrolling forest, with the player able to jump quite high (more than a screen height), and able to grab/scale trees that are several screen heights. Grabbing a book causes Kage to stand still and meditate for several seconds while approaching enemies drop to the ground dead during a lightning storm.
+- The second stage is horizontally scrolling at the water's edge. The lower half of the screen is underwater, where ninjas (blue and red) appear with breathing tubes. The player must kill ten ninjas to advance. The player can jump into the water section, but mobility is severely hampered.
+- The third stage is another bi-scrolling stage. The player must jump continuously to reach the temple at the top.
+- The fourth stage is the temple. The player goes up the four sets of stairs, avoiding or killing enemy ninja and monks, to rescue Princess Kiri.
+- The fifth stage is a boss stage. It starts at the top of the temple, and then Kage and Kiri jump off the temple back to the forest, where Kiri is re-kidnapped by the boss. The player must kill the boss.
+- In home versions, grabbing a crystal ball causes the player's clothes to change to the next level in color and thereby attain certain powers (bigger shuriken or faster speed). If Kage is hit in a home version while in green or orange clothes, he does not die but reverts to his normal red clothes.
+- Talking Points and Questions:
+- The ridiculous Jump
+- Is it ever clear what is going on?
+- Enemy Variety
+- Difficulty
+- What’s the deal with Taito? Some good, mostly bad. Is it future vision?
+- Sequels and Spinoffs
+- The Revised Legend of Kage - 2006. It features two new playable characters, Ayame and Ganin. Ayame is a ninja who can throw bombs similar to the red ninjas in the game and has an unlimited supply of throwing knives. Ganin is a dog who can breathe fire similar to the monks in the game and can perform a spin attack that does not have much range but leaves him invulnerable for an instant and kills any enemy that touches him. There is also a new final boss that all the characters face which is a giant green cobra that slithers on the ground back and forth on the screen at the end of each second run through the levels. It is the only enemy that does not jump into the air.
+- Taito Legends Power Up remake - A 3D graphics remake of the arcade game along the original arcade version is included in the 2006 compilation Taito Legends Power Up for the PlayStation Portable. The game is still side-scrolling.
+- Legend of Kage 2 - A follow-up game was developed by Lancarse for the Nintendo DS, and published by Taito in 2008. Taito's parent company, Square Enix, published a North American localization of the game later that year.

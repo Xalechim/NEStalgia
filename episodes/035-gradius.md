@@ -1,0 +1,35 @@
+# 035 - Gradius
+
+- First Horizontal Shmup
+- Hiroyasu Machiguchi
+- A sequel to scramble
+- OBJECTIVE
+- The player controls the trans-dimensional spaceship Vic Viper, and must battle waves of enemies through various environments in order to DESTROY THE CORE and defeat the Bacterion Army
+- FIRST IMPRESSIONS
+- GAMEPLAY
+- 7 Levels - Themed Stages
+- Level 1 - Boss Volcano
+- Level 2 - Ship Barrage
+- Level 3 - Droves of Ships
+- Level 4 - Upside Down Volcano
+- Level 5 - Tentacle thing
+- Level 6 - Orb
+- Level 7 - Brain of the Bacterion Army
+- As for safe spots and such, we were able to confirm some of them ourselves, but most of them have been found by players. Simply put, they were bugs. We didn’t plan for them to be there. This goes for slowdown as well as safe spots, but I think for Gradius all the bugs ended up having a positive effect on the game, and I think we were extremely lucky in that regard. Although its definitely true that those were the boom days of “secret tricks” on the Famicom, from the developer’s perspective we’d rather not have had those bugs. But in the case of Gradius, we were lucky in that the players supported us, so those mistakes weren’t fatal. .
+- CONTROLS
+- WEAPONS
+- ENEMIES
+- We originally added the Moai because we wanted to give a mysterious image to the game. Xevious had used the Nazca Lines, and we were inspired by that. But we had no idea the Moai would become a mainstay of the series like it has.
+- POWER UPS
+- At that time, Western computer RPGs were coming into Japan, and “building your character” was a kind of new gaming buzzword. We were thinking of ways to bring that concept into the STG genre. Nowadays it seems rather obvious, but back then it was a combination no one had thought of yet. We also wanted to add other “adventure” aspects to Gradius. We planned a system where once you cleared a stage, you’d have a branching choice of where to go next. But in the end, due to memory space limitations, we couldn’t add that feature.
+- DIFFICULTY
+- SOUND
+- STRAY THOUGHTS
+- FROM SHMUPULATIONS
+- Our offices were in Osaka during the Gradius development, and after we released the first game a young kid of about elementary school age brought us 200000 yen and asked us to sell him Gradius. Since this was a large amount of money even to us, we called his parents to confirm, and they asked us to sell it to him, so we did. That we had a fan like this made me extremely happy.
+- KONAMI CODE
+- CONTINUES - DOWN, UP, B,A,B,A,B,A
+- Level Skip - Destroy the Boss within 5 seconds before level 5
+- Gradius was also converted for the Nintendo Vs. Series arcade platform. It is identical to the NES version, but includes no cheat codes and allows the player to continue indefinitely.
+- ESSENTIAL GAMES LIST
+- SIGN OFF

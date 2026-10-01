@@ -1,0 +1,38 @@
+# 054 - Athena
+
+- SNK - 2nd NES game (1st was Ikari Warriors) - How did we feel about Ikari?
+- Micronics with the NES port - Ghost n'Goblins and 1942 BUT OF COURSE Ikari Warriors which SNK also made
+- PLOT BEATS:
+- Athena was princess of the heavenly Kingdom of Victory.
+- One day, she opened the "Door Which Shouldn't Be Opened" in the basement of Castle Victory
+- As she dared cross the doorway, it caused her to fall from the skies and to another realm called Fantasy World, which was dominated by the evil Emperor Dante.
+- After her flowing dress was lost while catching the wind for her fall the game begins
+- GAMEPLAY
+- Many of the game's elements are inspired by Greek mythology or ancient Roman culture
+- 8 worlds -  Forest, Cave, Sea, Sky, Ice, Hel, Labryinth, World of WORLDS
+- Final Boss - Dante awaits here deep into his stronghold, a huge sphinx-like creature that fights with sword and magical energy attacks. Only by defeating the cruel Emperor can Athena bring peace to this land and return to the safety of her own home.
+- Toshiyuki Nakai Designer/Planner Interview - 1996 Interview
+- On Design - Developing Athena was an unforgettable experience for me. I drew Athena herself and most of the other characters, so besides its popularity, it left a big impression on me.
+- On Firesword - The biggest challenge during the creation of Athena was the Fire Sword. This humongous sword is one of Athena’s weapons. During the initial planning, we thought it would look cool to have these big flames coming out of it. But due to hardware and memory limitations, we simply ran out of space… After countless revisions, we finally completed a usable Fire Sword effect—and I know I’m patting myself on the back here, but I felt a huge surge of pride then. (laughs)
+- On Graphics - In any event, I worked really hard on the graphics for Athena. As you can imagine, now that our developments were more team-based, a healthy sense of competition and rivalry developed between us. I didn’t want to be the weakest link, and slack off in my art. I really gave the drawings my all on that game.
+- Athena Fanmail - We also received a bunch of fan letters sent to Athena, the game character, herself. Also lots of postcards with illustrations on them. It probably doesn’t seem rare at all today, but back then it was very new, and I remember everyone at SNK was surprised. As her character designer, it was a huge encouragement to me, and made me very happy. In an instant, all the exhaustion and pain I felt dissipated.
+- QUESTIONS?
+- WHAT DID YOU THINK ABOUT THE UPGRADE SYSTEM?
+- WAS IT HELPFUL OR HURTFUL TO LOSE UPGRADES BASED ON OTHER PICKUPS
+- DID SWIMMING OFFER ANYTHING DIFFERENT? WHAT ABOUT FLYING
+- JARRING CUTS BETWEEN WORLDS
+- HITBOX DETECTION?
+- ART STYLE?
+- How about the decision to be rude with Athena?
+- Post-Game  - From Interview with SNK in a 1993 Japanese magazine
+- Having safely defeated the evil Emperor Dante of Fantasy World, Athena returns to the Kingdom of Victory and lives as a normal girl for awhile. Her tomboyish nature, however, remains unchanged, and she has many adventures (the details of which, due to a decree by the King restricting the dissemination of such information, I’m not at liberty to divulge). Eventually she marries, has many children, and lives a blessed life of happiness and contentment. Her favorite magazine is “suteki na okusan” (“The Perfect Wife”) and she loves to sing Momoe Yamaguchi at karaoke. The female descendants of the Asamiya family also have ESP power…
+- …how’s that sound?
+- Other Versions
+- Bad news it still looks like shit in the arcade version
+- Sequels and Spinoffs
+- Her descendent Athena Asamiya from Psycho Soldier is a main staple of the King of Fighters series.
+- secret Boss in SNKvsCapcom SVC Chaos - REALLY COOL
+- NeoGeo Battle Coliseum as a hidden character - AGAIN REALLY COOL
+- SNK vs. Capcom: Card Fighters Clash trading card game series, as an SNK character card or as an Action/Counter card
+- In the final Days of Memories (DATING SIM GAME FOR CELL PHONES) game, she makes a cameo as a foreign cousin of Athena Asamiya.
+- ATHENA FULL THROTTLE in 2006 - This time she opens the Door Which Shoudn't Be Opened: B it was released for the i-mode on FOMA90x

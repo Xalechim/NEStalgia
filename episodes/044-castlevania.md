@@ -1,0 +1,35 @@
+# 044 - Castlevania
+
+- "During the middle ages, there was once a peaceful country named Transylvania in Europe. A country which is associated with the legend of
+- Dracula.
+- 'Once in a hundred, the power of Christ is weakened by man filled with evil in their hearts, praying for the ressurection of Dracula, the prince
+- of darkness. And with each ressurection, he becomes more powerful than ever'
+- The last time Dracula was brought back into this world, the entire world was covered in darkness. With world of darkness now controlled by
+- Dracula's ambitions, a hero named Christopher Belmont set out to defeat him. Christopher defeated Dracula and peace returned to the
+- countryside of Transylvania, at least for another hundred years.
+- One easter night, the village was celebrating the ressurection of Christ with a grand carnival. Meanwhile, outside the village, at the abandoned
+- ruins of a monastery, a group of paganists were conducting a black mass, a ritual where human blood is poured into the remains of Count
+- Dracula in order to bring him back to life. A dark thunderstorm covered the entire village and the monastery was strucked by lightning. Dracula,
+- the prince of darkness has returned!
+- A young man named Simon, the descendant of the Belmont clan, has come forth to help out in this crisis. Armed with a whip possesed with
+- mysterious powers, passed down to him from his father, he sets out to Dracula's castle on his own..."
+- Different Versions
+- Known as Akumajou Dracula in Japan. Famicom Disk Version had saving
+- Famicom cartridge version had an easy mode - 30 hearts, 9 lives, less damage, no knock back, double and triple shot retain when picking up different sub weapons
+- Belmondo instead of Belmont in Japan
+- Gameplay
+- Vampire Killer Whip
+- Longer whip available right at the start
+- Double and Triple Shot
+- Dagger - Holy Water - Boomerang - Axe - Stopwatch
+- ￼
+- Phantom Bat - Queen Medusa - Mummy Men - Frankenstein & Igor - Grim Reaper - The Count - THE BEAST
+- Knockback
+- Hearts aren’t health they are power?
+- It was all a movie?
+- MUSIC
+- The very first soundtrack in the series was composed by Kinuyo Yamashita
+- Sequels
+- Castlevania II Simon’s Quest -
+- Castlevania Chronicles - enhanced remake
+- Super Castlevania IV - Remake

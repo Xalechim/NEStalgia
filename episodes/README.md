@@ -7,7 +7,36 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | # | Game | Notes |
 | --- | --- | --- |
 | 001 | 10-Yard Fight (Remastered) | [notes](001-10-yard-fight-remastered.md) |
+| 032 | 1942 | [notes](032-1942.md) |
+| 035 | Gradius | [notes](035-gradius.md) |
+| 036 | Karate Champ | [notes](036-karate-champ.md) |
+| 038 | Pro Wrestling | [notes](038-pro-wrestling.md) |
+| 039 | Slalom | [notes](039-slalom.md) |
+| 040 | Volleyball | [notes](040-volleyball.md) |
+| 041 | Rush'N Attack | [notes](041-rushn-attack.md) |
+| 042 | Track & Field | [notes](042-track-field.md) |
+| 044 | Castlevania | [notes](044-castlevania.md) |
+| 048 | Kid Icarus | [notes](048-kid-icarus.md) |
+| 051 | Section Z | [notes](051-section-z.md) |
+| 052 | Solomon’s Key | [notes](052-solomons-key.md) |
+| 053 | Arkanoid | [notes](053-arkanoid.md) |
+| 054 | Athena | [notes](054-athena.md) |
+| 055 | Elevator Action | [notes](055-elevator-action.md) |
+| 056 | The Legend of Kage | [notes](056-the-legend-of-kage.md) |
+| 057 | Metroid | [notes](057-metroid.md) |
+| 058 | The Legend of Zelda | [notes](058-the-legend-of-zelda.md) |
+| 059 | The 3-d Battles of Worldrunner | [notes](059-the-3-d-battles-of-worldrunner.md) |
+| 060 | Deadly Towers | [notes](060-deadly-towers.md) |
+| 061 | Double Dribble | [notes](061-double-dribble.md) |
+| 062 | Lode Runner | [notes](062-lode-runner.md) |
+| 063 | Raid on Bungeling Bay | [notes](063-raid-on-bungeling-bay.md) |
+| 064 | Ring King | [notes](064-ring-king.md) |
+| 065 | Sky Kid | [notes](065-sky-kid.md) |
+| 066 | Spelunker | [notes](066-spelunker.md) |
+| 067 | Spy Hunter | [notes](067-spy-hunter.md) |
+| 068 | Sqoon | [notes](068-sqoon.md) |
 | 069 | Stadium Events | [notes](069-stadium-events.md) |
+| 070 | Star Voyager | [early notes](070-star-voyager-early-notes.md) |
 | 070 | Star Voyager | [notes](070-star-voyager.md) |
 | 071 | Stinger | [notes](071-stinger.md) |
 | 072 | Tiger Heli | [notes](072-tiger-heli.md) |
