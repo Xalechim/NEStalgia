@@ -14,7 +14,7 @@ Audio, Audition sessions, and PSDs are kept out of the repo (see `.gitignore`).
 
 ## Episodes
 
-Show notes for 192 main episodes (069 onward so far), plus specials and Bytes docs, are in [`episodes/`](episodes/README.md). Episode numbers match the [podcast feed](https://nestalgiacast.com).
+Show notes for 192 main episodes (069 to 266 so far), plus specials and Bytes docs, are in [`episodes/`](episodes/README.md). Episode numbers match the [podcast feed](https://nestalgiacast.com).
 
 ## Links
 
