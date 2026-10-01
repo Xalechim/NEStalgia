@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Make a transcript for one episode, start to finish.
 
-Asks for an episode number, finds the audio, picks the best speaker-labeling
+Asks for episode number(s), finds the audio, picks the best speaker-labeling
 method, writes the transcript, links it in the episode index, and (if you say
 yes) publishes it to GitHub.
 
-Run it by double-clicking "Transcribe Episode.command" in the scripts folder.
+Several at once work too (401 402 405-410). Run it by double-clicking "Transcribe Episode.command" in the scripts folder.
 `--dry-run` shows what it would do without transcribing.
 """
 import argparse
@@ -52,24 +52,26 @@ def find_tracks(n: int):
     return tracks
 
 
-def main() -> int:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("number", nargs="?")
-    ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--yes", action="store_true", help="publish without asking")
-    a = ap.parse_args()
+def parse_numbers(raw: str):
+    """'401 402, 405-408' -> [401, 402, 405, 406, 407, 408]"""
+    nums = []
+    for tok in raw.replace(",", " ").split():
+        m = re.fullmatch(r"(\d+)-(\d+)", tok)
+        if m and int(m.group(1)) <= int(m.group(2)):
+            nums += range(int(m.group(1)), int(m.group(2)) + 1)
+        elif tok.isdigit():
+            nums.append(int(tok))
+        else:
+            return None
+    return list(dict.fromkeys(nums))  # drop repeats, keep order
 
-    num = a.number or input("Which episode number? (for example 401): ").strip()
-    if not num.isdigit():
-        print("That doesn't look like a number. Nothing was done.")
-        return 1
-    n = int(num)
 
+def transcribe_one(n: int, dry_run: bool) -> bool:
     audio = find_audio(n)
     if not audio:
-        print(f"I couldn't find an MP3 for episode {n} in:\n  {MIXES}")
-        print("Put the finished episode there, named like 'NES 401 - Game Name.mp3', and try again.")
-        return 1
+        print(f"Episode {n}: I couldn't find an MP3 in:\n  {MIXES}")
+        print("   Put the finished episode there, named like 'NES 401 - Game Name.mp3'.")
+        return False
 
     name = re.sub(rf"^NES {n} - ", "", audio.stem)
     name = re.sub(r"[_ ]mixdown.*$", "", name, flags=re.I).strip()
@@ -88,15 +90,14 @@ def main() -> int:
         method = "no speaker names (voice profiles not found)"
         cmd += ["--no-diarize"]
 
-    print(f"\nEpisode: {title}\nAudio:   {audio.name}\nSpeaker names by: {method}\n")
-    if a.dry_run:
-        print("Dry run, stopping here.")
-        return 0
+    print(f"\nEpisode: {title}\nAudio:   {audio.name}\nSpeaker names by: {method}")
+    if dry_run:
+        return True
 
-    print("Transcribing. This takes a few minutes. You can leave this window open and wait.\n")
+    print("Transcribing. This takes a few minutes.\n")
     if subprocess.run(cmd).returncode != 0:
-        print("\nSomething went wrong while transcribing. Nothing was published.")
-        return 1
+        print(f"Episode {n}: something went wrong while transcribing. Moving on.")
+        return False
 
     # Link the transcript from the episode index.
     index = REPO / "episodes/README.md"
@@ -106,18 +107,44 @@ def main() -> int:
         row = re.compile(rf"^(\| {n:03d} \|.*?\| )(\[(?:notes|outline|early notes)\]\([^)]*\))( \|)$", re.M)
         if link not in text and row.search(text):
             index.write_text(row.sub(rf"\1\2, {link}\3", text, count=1))
-            print("Added a transcript link to the episode index.")
         elif link not in text:
             print("Note: this episode isn't in the episode index yet, so I didn't add a link.")
+    print(f"Episode {n}: done -> transcripts/{out.name}.md")
+    return True
 
-    print(f"\nDone! The transcript is here:\n  {out}.md\n")
-    if a.yes or input("Publish it to GitHub now? (y/n): ").strip().lower().startswith("y"):
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("numbers", nargs="*")
+    ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--yes", action="store_true", help="publish without asking")
+    a = ap.parse_args()
+
+    raw = " ".join(a.numbers) or input(
+        "Which episode(s)? One number (401), several (401 402 405), or a range (401-410): "
+    )
+    nums = parse_numbers(raw)
+    if not nums:
+        print("I couldn't read that. Use numbers like: 401   or   401 402 405   or   401-410. Nothing was done.")
+        return 1
+    print(f"\nEpisodes to do ({len(nums)}): {', '.join(map(str, nums))}")
+
+    done, failed = [], []
+    for n in nums:
+        (done if transcribe_one(n, a.dry_run) else failed).append(n)
+
+    print("\n==============================")
+    print(f"Finished: {len(done)} done" + (f", {len(failed)} skipped ({', '.join(map(str, failed))})" if failed else ""))
+    if a.dry_run or not done:
+        return 0 if done or a.dry_run else 1
+    if a.yes or input("\nPublish them to GitHub now? (y/n): ").strip().lower().startswith("y"):
+        label = f"{done[0]:03d}" if len(done) == 1 else f"{len(done)} episodes ({done[0]:03d} to {done[-1]:03d})"
         subprocess.run(["git", "-C", str(REPO), "add", "transcripts", "episodes"], check=True)
-        subprocess.run(["git", "-C", str(REPO), "commit", "-m", f"Add transcript for episode {n:03d}"], check=True)
+        subprocess.run(["git", "-C", str(REPO), "commit", "-m", f"Add transcripts for {label}"], check=True)
         r = subprocess.run(["git", "-C", str(REPO), "push"])
-        print("Published." if r.returncode == 0 else "The upload failed; the transcript is saved locally.")
+        print("Published." if r.returncode == 0 else "The upload failed; the transcripts are saved locally.")
     else:
-        print("Okay, not published. It's saved on your Mac.")
+        print("Okay, not published. They're saved on your Mac.")
     return 0
 
 

@@ -18,9 +18,13 @@ Make sure the finished episode MP3 is in your iCloud NEStalgia folder, in `Mixes
 3. Double-click **Transcribe Episode.command**.
    - A black window (Terminal) opens. This is normal.
    - The first time, macOS may say it can't verify the file. Right-click the file, choose **Open**, then **Open** again. You only do this once.
-4. It asks: **Which episode number?** Type the number, like `401`, and press **Enter**.
-5. It tells you which episode it found and how it will label speakers. Then it works for a few minutes (about 3 minutes for a 30-minute episode, about 5 for a long one). Leave the window open.
-6. When it says **Done!**, it asks: **Publish it to GitHub now? (y/n)**
+4. It asks which episode(s). Type the number, like `401`, and press **Enter**. To do several at once, type:
+   - a list: `401 402 405`
+   - a range: `401-410`
+   - or a mix: `401-403 408`
+   They run one after another, and it asks about publishing **once** at the end, for all of them.
+5. It tells you which episode it found and how it will label speakers. Then it works for a few minutes (about 3 minutes for a 30-minute episode, about 5 for a long one, per episode). Leave the window open.
+6. When everything is done, it asks: **Publish them to GitHub now? (y/n)**
    - Type `y` and press Enter to put it on the website.
    - Type `n` if you want to read it first. It's saved on your Mac either way.
 7. Press **Enter** to close the window.
@@ -35,7 +39,7 @@ Your transcript is saved in the `transcripts` folder as a normal text file you c
 
 ## If something goes wrong
 
-- **"I couldn't find an MP3 for episode …"**: the file isn't in `Mixes`, or the name doesn't start with `NES 401 - `.
+- **"I couldn't find an MP3 for episode …"** (in a batch it just skips that one and keeps going): the file isn't in `Mixes`, or the name doesn't start with `NES 401 - `.
 - **Nothing happens when you double-click**: right-click it, choose **Open With**, then **Terminal**.
 - **Anything else**: copy what the black window says and send it to Claude.
 
