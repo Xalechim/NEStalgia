@@ -17,6 +17,25 @@ Audio, Audition sessions, and PSDs are kept out of the repo (see `.gitignore`).
 
 Show notes and outlines for 407 main-episode files, plus specials, Bytes and SNEStalgia docs, are in [`episodes/`](episodes/README.md). Episode numbers match the [podcast feed](https://nestalgiacast.com).
 
-## Links
+## Listen and follow
 
-_Add Patreon, YouTube, Twitch, and RSS links here._
+- Website: [nestalgiacast.com](https://www.nestalgiacast.com)
+- Apple Podcasts: [NEStalgia](https://itunes.apple.com/us/podcast/nestalgia/id1342922798)
+- Spotify: [NEStalgia](https://open.spotify.com/show/1SoG0RFa4nPk0YqaXW6vRi)
+- RSS feed: [anchor.fm/s/5808ab8/podcast/rss](https://anchor.fm/s/5808ab8/podcast/rss)
+- Patreon: [patreon.com/nestalgia](https://www.patreon.com/nestalgia)
+- Twitch: [twitch.tv/nestalgia](https://www.twitch.tv/nestalgia)
+- SoundCloud: [soundcloud.com/nestalgiacast](http://soundcloud.com/nestalgiacast)
+- Episode spreadsheet (publisher, developer, publish date and verdict for every episode): [Google Sheet](https://docs.google.com/spreadsheets/d/1r5WpTbM0EYLbr1ylXthvf57HWgjo1iScI_c5HKgfSKc/edit?usp=sharing)
+
+## License
+
+The show notes, outlines, research and transcripts are licensed under
+[Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (see [LICENSE](LICENSE)).
+You can share and adapt them with credit to NEStalgia, but not for commercial use.
+
+This license does **not** cover:
+
+- Game artwork, box art, arcade flyers, screenshots and logos belonging to their respective owners. This includes the cover art in `assets/episode-art/`.
+- The NEStalgia name, logo and branding in `assets/branding/`.
+- Podcast audio, which is not in this repository.
