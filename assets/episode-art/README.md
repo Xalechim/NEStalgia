@@ -1,0 +1,483 @@
+# Episode artwork
+
+Cover art for every item in the podcast feed, downsized to 1000 px JPEGs. File names follow the episode numbers used in `episodes/`.
+
+459 images. 15 episodes use the generic show art:
+
+- 050 - RYGAR (`050-rygar.jpg`)
+- 051 - SECTION Z (`051-section-z.jpg`)
+- 052 - SOLOMON’S KEY (`052-solomons-key.jpg`)
+- 059 - THE 3-D BATTLES OF WORLDRUNNER (`059-the-3-d-battles-of-worldrunner.jpg`)
+- 062 - LODE RUNNER (`062-lode-runner.jpg`)
+- 084 - STAR FORCE (`084-star-force.jpg`)
+- 113 - Adventure Island (`113-adventure-island.jpg`)
+- 127 - MICKEY MOUSECAPADE (`127-mickey-mousecapade.jpg`)
+- 128 - MILLIPEDE (`128-millipede.jpg`)
+- 262 - The Miracle Piano Teaching System (`262-the-miracle-piano-teaching-system.jpg`)
+- 285 - Fisher Price Perfect Fit (`285-fisher-price-perfect-fit.jpg`)
+- 366 - M.U.L.E (`366-m-u-l-e.jpg`)
+- Patreon Mailbag 2023 (`patreon-mailbag-2023.jpg`)
+- SPECIAL 006 - Best of 1990 (`s006-best-of-1990.jpg`)
+- S06 - THE BEST OF 1989 (`s006-the-best-of-1989.jpg`)
+
+## All files
+
+- `001-10-yard-fight-remastered.jpg`: 001 - 10-Yard Fight (Remastered)
+- `001-10-yard-fight.jpg`: 001 - 10-YARD FIGHT
+- `002-baseball.jpg`: 002 - BASEBALL
+- `003-clu-clu-land.jpg`: 003 - CLU CLU LAND
+- `004-duck-hunt.jpg`: 004 - DUCK HUNT
+- `005-excitebike.jpg`: 005 - EXCITEBIKE
+- `006-golf.jpg`: 006 - GOLF
+- `007-gyromite.jpg`: 007 - GYROMITE
+- `008-hogans-alley.jpg`: 008 - HOGAN'S ALLEY
+- `009-ice-climber.jpg`: 009 - ICE CLIMBER
+- `010-kung-fu.jpg`: 010 - KUNG FU*
+- `011-pinball.jpg`: 011 - Pinball
+- `012-soccer.jpg`: 012 - SOCCER
+- `013-stack-up.jpg`: 013 - STACK-UP
+- `014-super-mario-bros.jpg`: 014 - SUPER MARIO BROS.
+- `015-tennis.jpg`: 015 - TENNIS
+- `016-wild-gunman.jpg`: 016 - WILD GUNMAN
+- `017-wrecking-crew.jpg`: 017 - WRECKING CREW
+- `018-donkey-kong.jpg`: 018 - DONKEY KONG
+- `019-donkey-kong-jr.jpg`: 019 - DONKEY KONG JR.
+- `020-donkey-kong-3.jpg`: 020 - DONKEY KONG 3
+- `021-donkey-kong-jr-math.jpg`: 021 - DONKEY KONG JR. MATH
+- `022-mario-bros.jpg`: 022 - MARIO BROS.
+- `023-popeye.jpg`: 023 - POPEYE
+- `024-balloon-fight.jpg`: 024 - BALLOON FIGHT
+- `025-gumshoe.jpg`: 025 - GUMSHOE
+- `026-mach-rider.jpg`: 026 - MACH RIDER
+- `027-urban-champion.jpg`: 027 - URBAN CHAMPION
+- `028-tag-team-wrestling.jpg`: 028 - TAG TEAM WRESTLING
+- `029-chubby-cherub.jpg`: 029 - CHUBBY CHERUB
+- `030-tag-team-match-m-u-s-c-l-e.jpg`: 030 - TAG TEAM MATCH M.U.S.C.L.E
+- `031-ninja-kid.jpg`: 031 - NINJA KID
+- `032-1942.jpg`: 032 - 1942
+- `033-commando.jpg`: 033 - COMMANDO
+- `034-ghosts-n-goblins.jpg`: 034 - GHOSTS 'N GOBLINS
+- `035-gradius.jpg`: 035 - GRADIUS
+- `036-karate-champ.jpg`: 036 - KARATE CHAMP
+- `037-trojan.jpg`: 037 - TROJAN
+- `038-pro-wrestling.jpg`: 038 - PRO WRESTLING
+- `039-slalom.jpg`: 039 - SLALOM
+- `040-volleyball.jpg`: 040 - VOLLEYBALL
+- `041-rushn-attack.jpg`: 041 - RUSH'N ATTACK
+- `042-track-field.jpg`: 042 - TRACK & FIELD
+- `043-burgertime.jpg`: 043 - BURGERTIME
+- `044-castlevania.jpg`: 044 - CASTLEVANIA
+- `045-ikari-warriors.jpg`: 045 - IKARI WARRIORS
+- `046-athletic-world.jpg`: 046 - ATHLETIC WORLD
+- `047-breakthru.jpg`: 047 - BREAKTHRU
+- `048-kid-icarus.jpg`: 048 - KID ICARUS
+- `049-mighty-bomb-jack.jpg`: 049 - MIGHTY BOMB JACK
+- `050-rygar.jpg`: 050 - RYGAR
+- `051-section-z.jpg`: 051 - SECTION Z
+- `052-solomons-key.jpg`: 052 - SOLOMON’S KEY
+- `053-arkanoid.jpg`: 053 - ARKANOID
+- `054-athena.jpg`: 054 - ATHENA
+- `055-elevator-action.jpg`: 055 - ELEVATOR ACTION
+- `056-the-legend-of-kage.jpg`: 056 - THE LEGEND OF KAGE
+- `057-metroid.jpg`: 057 - METROID
+- `058-the-legend-of-zelda.jpg`: 058 - THE LEGEND OF ZELDA
+- `059-the-3-d-battles-of-worldrunner.jpg`: 059 - THE 3-D BATTLES OF WORLDRUNNER
+- `060-deadly-towers.jpg`: 060 - DEADLY TOWERS
+- `061-double-dribble.jpg`: 061 - DOUBLE DRIBBLE
+- `062-lode-runner.jpg`: 062 - LODE RUNNER
+- `063-raid-on-bungeling-bay.jpg`: 063 - RAID ON BUNGELING BAY
+- `064-ring-king.jpg`: 064 - RING KING
+- `065-sky-kid.jpg`: 065 - SKY KID
+- `066-spelunker.jpg`: 066 - SPELUNKER
+- `067-spy-hunter.jpg`: 067 - Spy Hunter
+- `068-sqoon.jpg`: 068 - SQOON
+- `069-stadium-events.jpg`: 069 - STADIUM EVENTS
+- `070-star-voyager.jpg`: 070 - STAR VOYAGER
+- `071-stinger.jpg`: 071 - STINGER
+- `072-tiger-heli.jpg`: 072 - TIGER HELI
+- `073-winter-games.jpg`: 073 - WINTER GAMES
+- `074-alpha-mission.jpg`: 074 - ALPHA MISSION
+- `075-lunar-pool.jpg`: 075 - LUNAR POOL
+- `076-mike-tysons-punch-out.jpg`: 076 - MIKE TYSON'S PUNCH-OUT
+- `077-rad-racer.jpg`: 077 - RAD RACER
+- `078-zanac.jpg`: 078 - ZANAC
+- `079-the-goonies-ii.jpg`: 079 - THE GOONIES II
+- `080-gotcha-the-sport.jpg`: 80 - GOTCHA! THE SPORT!
+- `081-jaws.jpg`: 081 - JAWS
+- `082-the-karate-kid.jpg`: 082 - THE KARATE KID
+- `083-kid-niki-radical-ninja.jpg`: 083 - KID NIKI: RADICAL NINJA
+- `084-star-force.jpg`: 084 - STAR FORCE
+- `085-super-pitfall.jpg`: 085 - SUPER PITFALL
+- `086-top-gun.jpg`: 086 - TOP GUN
+- `087-side-pocket.jpg`: 087 - SIDE POCKET
+- `088-mega-man.jpg`: 088 - MEGA MAN
+- `089-wizards-warriors.jpg`: 089 - WIZARDS & WARRIORS
+- `090-karnov.jpg`: 090 - KARNOV
+- `091-renegade.jpg`: 091 - RENEGADE
+- `092-contra.jpg`: 092 - CONTRA
+- `093-gun-smoke.jpg`: 093 - GUN.SMOKE
+- `094-town-country-surf-designs-wood-and-water-rage.jpg`: 094 - TOWN & COUNTRY SURF DESIGNS: WOOD AND WATER RAGE
+- `095-dragon-power.jpg`: 095 - DRAGON POWER
+- `096-ice-hockey.jpg`: 096 - ICE HOCKEY
+- `097-r-c-pro-am.jpg`: 097 - R.C. PRO-AM
+- `098-freedom-force.jpg`: 098 - FREEDOM FORCE
+- `099-ikari-warriors-ii-victory-road.jpg`: 099 - IKARI WARRIORS II: VICTORY ROAD
+- `100-major-league-baseball.jpg`: 100 - MAJOR LEAGUE BASEBALL
+- `101-city-connection.jpg`: 101 - CITY CONNECTION
+- `102-rambo.jpg`: 102 - RAMBO
+- `103-double-dragon.jpg`: 103 - DOUBLE DRAGON
+- `104-metal-gear.jpg`: 104 - METAL GEAR
+- `105-r-b-i-baseball.jpg`: 105 - R.B.I BASEBALL
+- `106-bases-loaded.jpg`: 106 - BASES LOADED
+- `107-defender-ii.jpg`: 107 - DEFENDER II
+- `108-gauntlet.jpg`: 108 - GAUNTLET
+- `109-iron-tank.jpg`: 109 - IRON TANK
+- `110-legendary-wings.jpg`: 110 - LEGENDARY WINGS
+- `111-life-force.jpg`: 111 - LIFE FORCE
+- `112-world-class-track-meet.jpg`: 112 - WORLD CLASS TRACK MEET
+- `113-adventure-island.jpg`: 113 - Adventure Island
+- `114-galaga-demons-of-death.jpg`: 114 - Galaga: Demons of Death
+- `115-golgo-13-top-secret-episode.jpg`: 115 - GOLGO 13: TOP SECRET EPISODE
+- `116-jackal.jpg`: 116 - JACKAL
+- `117-jeopardy.jpg`: 117 - JEOPARDY
+- `118-lee-trevinos-fighting-golf.jpg`: 118 - LEE TREVINO'S FIGHTING GOLF
+- `119-milons-secret-castle.jpg`: 119 - MILON'S SECRET CASTLE
+- `120-wheel-of-fortune.jpg`: 120 - WHEEL OF FORTUNE
+- `121-xevious-the-avenger.jpg`: 121 - XEVIOUS: THE AVENGER
+- `122-1943-the-battle-of-midway.jpg`: 122 - 1943: The Battle of Midway
+- `123-donkey-kong-classics.jpg`: 123 - DONKEY KONG CLASSICS
+- `124-ghostbusters.jpg`: 124 - GHOSTBUSTERS
+- `125-joust.jpg`: 125 - JOUST
+- `126-magmax.jpg`: 126 - MAGMAX
+- `127-mickey-mousecapade.jpg`: 127 - MICKEY MOUSECAPADE
+- `128-millipede.jpg`: 128 - MILLIPEDE
+- `129-pac-man.jpg`: 129 - PAC-MAN
+- `130-racket-attack.jpg`: 130 - RACKET ATTACK
+- `131-seicross.jpg`: 131 - Seicross
+- `132-spy-vs-spy.jpg`: 132 - SPY VS SPY
+- `133-super-mario-bros-2.jpg`: 133 - SUPER MARIO BROS. 2
+- `134-anticipation.jpg`: 134 - ANTICIPATION
+- `135-blaster-master.jpg`: 135 - BLASTER MASTER
+- `136-bubble-bobble.jpg`: 136 - BUBBLE BOBBLE
+- `137-cobra-command.jpg`: 137 - Cobra Command
+- `138-dr-chaos.jpg`: 138 - DR. CHAOS
+- `139-super-mario-bros-duck-hunt.jpg`: 139 - SUPER MARIO BROS / DUCK HUNT
+- `140-super-team-games.jpg`: 140 - SUPER TEAM GAMES
+- `141-bionic-commando.jpg`: 141 - Bionic Commando
+- `142-bump-n-jump.jpg`: 142 - BUMP 'N' JUMP
+- `143-castlevania-ii-simons-quest.jpg`: 143 - CASTLEVANIA II: SIMON'S QUEST
+- `144-blades-of-steel.jpg`: 144 - BLADES OF STEEL
+- `145-indiana-jones-and-the-temple-of-doom.jpg`: 145 - Indiana Jones and the Temple of Doom
+- `146-othello.jpg`: 146 - OTHELLO
+- `147-paperboy.jpg`: 147 - Paperboy
+- `148-platoon.jpg`: 148 - Platoon
+- `149-rampage.jpg`: 149 - RAMPAGE
+- `150-robowarrior.jpg`: 150 - ROBOWARRIOR
+- `151-skate-or-die.jpg`: 151 - Skate or Die
+- `152-superman.jpg`: 152 - Superman
+- `153-xenophobe.jpg`: 153 - XENOPHOBE
+- `154-zelda-ii-the-adventure-of-link.jpg`: 154 - Zelda II: The Adventure of Link
+- `155-bomberman.jpg`: 155 - BOMBERMAN
+- `156-sesame-street-123.jpg`: 156 - Sesame Street 123
+- `157-star-soldier.jpg`: 157 - STAR SOLDIER
+- `158-tecmo-baseball.jpg`: 158 - Tecmo Baseball
+- `159-wwf-wrestlemania.jpg`: 159 - WWF Wrestlemania
+- `160-bandai-golf-challenge-pebble-beach.jpg`: 160 - Bandai Golf: Challenge Pebble Beach
+- `161-friday-the-13th.jpg`: 161 - Friday the 13th
+- `162-gyruss.jpg`: 162 - GYRUSS
+- `163-q-bert.jpg`: 163 - Q*Bert
+- `164-tecmo-bowl.jpg`: 164 - TECMO BOWL
+- `165-ultima-exodus.jpg`: 165 - Ultima Exodus
+- `166-dance-aerobics.jpg`: 166 - DANCE AEROBICS
+- `167-john-elways-quarterback.jpg`: 167 - John Elway's Quarterback
+- `168-kung-fu-heroes.jpg`: 168 - Kung-Fu Heroes
+- `169-marble-madness.jpg`: 169 - Marble Madness
+- `170-ninja-gaiden.jpg`: 170 - Ninja Gaiden
+- `171-world-games.jpg`: 171 - World Games
+- `172-the-adventures-of-lolo.jpg`: 172 - The Adventures of Lolo
+- `173-amagon.jpg`: 173 - Amagon
+- `174-dr-jekyll-and-mr-hyde.jpg`: 174 - Dr. Jekyll and Mr. Hyde
+- `175-fist-of-the-north-star.jpg`: 175 - Fist of the North Star
+- `176-the-guardian-legend.jpg`: 176 - The Guardian Legend
+- `177-legacy-of-the-wizard.jpg`: 177 - Legacy of the Wizard
+- `178-mappy-land.jpg`: 178 - Mappy Land
+- `179-mystery-quest.jpg`: 179 - Mystery Quest
+- `180-predator.jpg`: 180 - Predator
+- `181-taboo-the-sixth-sense.jpg`: 181 - Taboo: The Sixth Sense
+- `182-operation-wolf.jpg`: 182 - Operation Wolf
+- `183-the-adventures-of-bayou-billy.jpg`: 183 - The Adventures of Bayou Billy
+- `184-airwolf.jpg`: 184 - Airwolf
+- `185-california-games.jpg`: 185 - California Games
+- `186-desert-commander.jpg`: 186 - Desert Commander
+- `187-guerilla-war.jpg`: 187 - Guerilla War
+- `188-hoops.jpg`: 188 - HOOPS
+- `189-hydlide.jpg`: 189 - Hydlide
+- `190-mega-man-2.jpg`: 190 - MEGA MAN 2
+- `191-monster-party.jpg`: 191 - MONSTER PARTY
+- `192-nobunagas-ambition.jpg`: 192 - Nobunaga's Ambition
+- `193-shooting-range.jpg`: 193 - Shooting Range
+- `194-street-cop.jpg`: 194 - Street Cop
+- `195-teenage-mutant-ninja-turtles.jpg`: 195 - Teenage Mutant Ninja Turtles
+- `196-track-and-field-ii.jpg`: 196 - Track and Field II
+- `197-baseball-stars.jpg`: 197 - Baseball Stars
+- `198-cobra-triangle.jpg`: 198 - Cobra Triangle
+- `199-defender-of-the-crown.jpg`: 199 - Defender of the Crown
+- `200-strider.jpg`: 200 - Strider
+- `201-super-dodge-ball.jpg`: 201 - Super Dodge Ball
+- `202-thundercade.jpg`: 202 - Thundercade
+- `203-the-adventures-of-tom-sawyer.jpg`: 203 - The Adventures of Tom Sawyer
+- `204-bad-dudes.jpg`: 204 - Bad Dudes
+- `205-the-bugs-bunny-crazy-castle.jpg`: 205 - The Bugs Bunny Crazy Castle
+- `206-dragon-warrior.jpg`: 206 - Dragon Warrior
+- `207-faxanadu.jpg`: 207 - Faxanadu
+- `208-flying-dragon-the-secret-scroll.jpg`: 208 - Flying Dragon: The Secret Scroll
+- `209-jordan-vs-bird-one-on-one.jpg`: 209 - Jordan VS Bird: One on One
+- `210-the-adventures-of-dino-riki.jpg`: 210 - The Adventures of Dino Riki
+- `211-air-fortress.jpg`: 211 - Air Fortress
+- `212-back-to-the-future.jpg`: 212 - Back to the Future
+- `213-bad-street-brawler.jpg`: 213 - Bad Street Brawler
+- `214-the-black-bass.jpg`: 214 - The Black Bass
+- `215-castlequest.jpg`: 215 - Castlequest
+- `216-ducktales.jpg`: 216 - DuckTales
+- `217-festers-quest.jpg`: 217 - Fester's Quest
+- `218-hollywood-squares.jpg`: 218 - Hollywood Squares
+- `219-kings-knight.jpg`: 219 - King's Knight
+- `220-nfl.jpg`: 220 - NFL
+- `221-prisoners-of-war.jpg`: 221 - Prisoners of War
+- `222-sesame-street-abc.jpg`: 222 - SESAME STREET ABC
+- `223-sky-shark.jpg`: 223 - SKY SHARK
+- `224-who-framed-roger-rabbit.jpg`: 224 - Who Framed Roger Rabbit?
+- `225-casino-kid.jpg`: 225 - Casino Kid
+- `226-goal.jpg`: 226 - Goal!
+- `227-godzilla-monster-of-monsters.jpg`: 227 - Godzilla: Monster of Monsters
+- `228-jeopardy-junior-edition.jpg`: 228 - Jeopardy Junior Edition
+- `229-romance-of-the-three-kingdoms.jpg`: 229 - Romance of the Three Kingdoms
+- `230-stealth-atf.jpg`: 230 - Stealth ATF
+- `231-the-three-stooges.jpg`: 231 - The Three Stooges
+- `232-twin-eagle.jpg`: 232 - Twin Eagle
+- `233-wheel-of-fortune-junior-edition.jpg`: 233 - Wheel of Fortune Junior Edition
+- `234-720-degrees.jpg`: 234 - 720 Degrees
+- `235-tetris.jpg`: 235 - Tetris
+- `236-to-the-earth.jpg`: 236 - To The Earth
+- `237-all-pro-basketball.jpg`: 237 - All-Pro Basketball
+- `238-archon.jpg`: 238 - Archon
+- `239-the-battle-of-olympus.jpg`: 239 - The Battle of Olympus
+- `240-championship-bowling.jpg`: 240 - Championship Bowling
+- `241-cybernoid-the-fighting-machine.jpg`: 241 - Cybernoid: The Fighting Machine
+- `242-dig-dug-ii-trouble-in-paradise.jpg`: 242 - Dig Dug II: Trouble in Paradise
+- `243-ironsword-wizards-warriors-ii.jpg`: 243 - Ironsword: Wizards & Warriors II
+- `244-knight-rider.jpg`: 244 - Knight Rider
+- `245-robocop.jpg`: 245 - RoboCop
+- `246-shadowgate.jpg`: 246 - Shadowgate
+- `247-short-order-eggsplode.jpg`: 247 - Short Order / Eggsplode
+- `248-silent-service.jpg`: 248 - Silent Service
+- `249-the-uncanny-x-men.jpg`: 249 - The Uncanny X-Men
+- `250-willow.jpg`: 250 - Willow
+- `251-8-eyes.jpg`: 251 - 8 Eyes
+- `252-bases-loaded-ii-the-second-season.jpg`: 252 - Bases Loaded II - The Second Season
+- `253-a-boy-and-his-blob.jpg`: 253 - A Boy and His Blob
+- `254-chessmaster.jpg`: 254 - Chessmaster
+- `255-clash-at-demonhead.jpg`: 255 - Clash at Demonhead
+- `256-demon-sword.jpg`: 256 - Demon Sword
+- `257-double-dragon-ii.jpg`: 257 - Double Dragon II
+- `258-genghis-kahn.jpg`: 258 - Genghis Kahn
+- `259-infiltrator.jpg`: 259 - Infiltrator
+- `260-kings-of-the-beach.jpg`: 260 - Kings of the Beach
+- `261-the-magic-of-scheherazade.jpg`: 261 - The Magic of Scheherazade
+- `262-the-miracle-piano-teaching-system.jpg`: 262 - The Miracle Piano Teaching System
+- `263-rescue-the-embassy-mission.jpg`: 263 - Rescue: The Embassy Mission
+- `264-river-city-ransom.jpg`: 264 - River City Ransom
+- `265-roadblasters.jpg`: 265 - Roadblasters
+- `266-rock-n-ball.jpg`: 266 - Rock N Ball
+- `267-top-gun-the-second-mission.jpg`: 267 - Top Gun: The Second Mission
+- `268-top-players-tennis.jpg`: 268 - Top Players Tennis
+- `269-twin-cobra.jpg`: 269 - Twin Cobra
+- `270-batman-the-video-game.jpg`: 270 - Batman: The Video Game
+- `271-dash-galaxy-in-the-alien-asylum.jpg`: 271 - Dash Galaxy in the Alien Asylum
+- `272-destination-earthstar.jpg`: 272 - Destination Earthstar
+- `273-rollerball.jpg`: 273 - Rollerball
+- `274-super-spike-vball.jpg`: 274 - Super Spike VBall
+- `275-super-mario-bros-3.jpg`: 275 - Super Mario Bros. 3
+- `276-abadox.jpg`: 276 - Abadox
+- `277-the-adventures-of-lolo-2.jpg`: 277 - The Adventures of Lolo 2
+- `278-al-unser-jrs-turbo-racing.jpg`: 278 - Al Unser Jr's Turbo Racing
+- `279-astyanax.jpg`: 279 - Astyanax
+- `280-baseball-simulator-1-000.jpg`: 280 - Baseball Simulator 1.000
+- `281-burai-fighter.jpg`: 281 - Burai Fighter
+- `282-code-name-viper.jpg`: 282 - Code Name: Viper
+- `283-conflict.jpg`: 283 - Conflict
+- `284-fisher-price-i-can-remember.jpg`: 284 - Fisher Price I Can Remember
+- `285-fisher-price-perfect-fit.jpg`: 285 - Fisher Price Perfect Fit
+- `286-heavy-barrel.jpg`: 286 - Heavy Barrel
+- `287-jack-nicklaus-greatest-18-holes-of-major-championship-golf.jpg`: 287 - Jack Nicklaus' Greatest 18 Holes of Major Championship Golf
+- `288-kid-kool.jpg`: 288 - Kid Kool
+- `289-magic-johnsons-fast-break.jpg`: 289 - Magic Johnson's Fast Break
+- `290-target-renegade.jpg`: 290 - Target: Renegade
+- `291-terra-cresta.jpg`: 291 - Terra Cresta
+- `292-vegas-dream.jpg`: 292 - Vegas Dream
+- `293-wheel-of-fortune-family-edition.jpg`: 293 - Wheel of Fortune: Family Edition
+- `294-win-lose-or-draw.jpg`: 294 - Win, Lose, or Draw
+- `295-double-dare.jpg`: 295 - Double Dare
+- `296-dynowarz.jpg`: 296 - Dynowarz
+- `297-ghostbusters-ii.jpg`: 297 - Ghostbusters II
+- `298-ivan-ironman-stewarts-super-off-road.jpg`: 298 - Ivan "Ironman" Stewart's Super Off Road
+- `299-phantom-fighter.jpg`: 299 - Phantom Fighter
+- `300-pin-bot.jpg`: 300 - Pin*Bot
+- `301-snakes-revenge.jpg`: 301 - Snake's Revenge
+- `302-snoopys-silly-sports-spectacular.jpg`: 302 - Snoopy's Silly Sports Spectacular
+- `303-super-c.jpg`: 303 - Super C
+- `304-tecmo-world-wrestling.jpg`: 304 - Tecmo World Wrestling
+- `305-wcw-world-championship-wrestling.jpg`: 305 - WCW: World Championship Wrestling
+- `306-wrath-of-the-black-manta.jpg`: 306 - Wrath of the Black Manta
+- `307-xexyz.jpg`: 307 - Xexyz
+- `308-ninja-gaiden-ii-the-dark-sword-of-chaos.jpg`: 308 - Ninja Gaiden II: The Dark Sword of Chaos
+- `309-remote-control.jpg`: 309 - Remote Control
+- `310-disney-adventures-in-the-magic-kingdom.jpg`: 310 - Disney Adventures in the Magic Kingdom
+- `311-arkistas-ring.jpg`: 311 - Arkista's Ring
+- `312-bad-news-baseball.jpg`: 312 - Bad News Baseball
+- `313-boulder-dash.jpg`: 313 - Boulder Dash
+- `314-cabal.jpg`: 314 - Cabal
+- `315-captain-skyhawk.jpg`: 315 - Captain Skyhawk
+- `316-castle-of-dragon.jpg`: 316 - Castle of Dragon
+- `317-disneys-chip-n-dale-rescue-rangers.jpg`: 317 - Disney's Chip 'n Dale: Rescue Rangers
+- `318-dragon-spirit-the-new-legend.jpg`: 318 - Dragon Spirit: The New Legend
+- `319-heavy-shreddin.jpg`: 319 - Heavy Shreddin'
+- `320-imagefight.jpg`: 320 - ImageFight
+- `321-jeopardy-25th-anniversary-edition.jpg`: 321 - Jeopardy 25th Anniversary Edition
+- `322-the-last-starfighter.jpg`: 322 - The Last Starfighter
+- `323-the-mafat-conspiracy.jpg`: 323 - The Mafat Conspiracy
+- `324-mechanized-attack.jpg`: 324 - Mechanized Attack
+- `325-michael-andrettis-world-gp.jpg`: 325 - Michael Andretti's World GP
+- `326-pinball-quest.jpg`: 326 - Pinball Quest
+- `327-puss-n-boots-peros-great-adventure.jpg`: 327 - Puss 'n Boots: Pero's Great Adventure
+- `328-rad-racer-ii.jpg`: 328 - Rad Racer II
+- `329-rocket-ranger.jpg`: 329 - Rocket Ranger
+- `330-shingen-the-ruler.jpg`: 330 - Shingen The Ruler
+- `331-silkworm.jpg`: 331 - Silkworm
+- `332-solstice.jpg`: 332 - Solstice
+- `333-starship-hector.jpg`: 333 - Starship Hector
+- `334-wall-street-kid.jpg`: 334 - Wall Street Kid
+- `335-the-adventures-of-gilligans-island.jpg`: 335 - The Adventures of Gilligan's Island
+- `336-battle-chess.jpg`: 336 - Battle Chess
+- `337-circus-caper.jpg`: 337 - Circus Caper
+- `338-crystalis.jpg`: 338 - Crystalis
+- `339-dungeon-magic-sword-of-the-elements.jpg`: 339 - Dungeon Magic: Sword of the Elements
+- `340-dusty-diamonds-all-star-softball.jpg`: 340 - Dusty Diamond's All-Star Softball
+- `341-final-fantasy.jpg`: 341 - Final Fantasy
+- `342-little-league-baseball-championship-series.jpg`: 342 - Little League Baseball: Championship Series
+- `343-mad-max.jpg`: 343 - Mad Max
+- `344-pictionary.jpg`: 344 - Pictionary
+- `345-snake-rattle-n-roll.jpg`: 345 - Snake Rattle N Roll
+- `346-wizardry-proving-grounds-of-the-mad-overlord.jpg`: 346 - Wizardry: Proving Grounds of the Mad Overlord
+- `347-barker-bills-trick-shooting.jpg`: 347 - Barker Bill's Trick Shooting
+- `348-bigfoot.jpg`: 348 - Bigfoot
+- `349-dick-tracy.jpg`: 349 - Dick Tracy
+- `350-narc.jpg`: 350 - NARC
+- `351-punch-out-featuring-mr-dream.jpg`: 351 - Punch-Out!! Featuring Mr. Dream
+- `352-swords-and-serpents.jpg`: 352 - Swords and Serpents
+- `353-total-recall.jpg`: 353 - Total Recall
+- `354-back-to-the-future-part-ii-iii.jpg`: 354 - Back to the Future Part II & III
+- `355-garry-kitchens-battle-tank.jpg`: 355 - Garry Kitchen's Battle Tank
+- `356-the-bugs-bunny-birthday-blowout.jpg`: 356 - The Bugs Bunny Birthday Blowout
+- `357-castlevania-iii-draculas-curse.jpg`: 357 - Castlevania III: Dracula's Curse
+- `358-classic-concentration.jpg`: 358 - Classic Concentration
+- `359-destiny-of-an-emperor.jpg`: 359 - Destiny of an Emperor
+- `360-dragon-warrior-ii.jpg`: 360 - Dragon Warrior II
+- `361-gauntlet-ii.jpg`: 361 - Gauntlet II
+- `362-journey-to-silius.jpg`: 362 - Journey to Silius
+- `363-kickle-cubicle.jpg`: 363 - Kickle Cubicle
+- `364-little-nemo-the-dream-master.jpg`: 364 - Little Nemo: The Dream Master
+- `365-low-g-man.jpg`: 365 - Low G Man
+- `366-m-u-l-e.jpg`: 366 - M.U.L.E
+- `367-maniac-mansion.jpg`: 367 - Maniac Mansion
+- `368-mission-impossible.jpg`: 368 - Mission: Impossible
+- `369-nes-play-action-football.jpg`: 369 - NES Play Action Football
+- `370-pipe-dream.jpg`: 370 - Pipe Dream
+- `371-rally-bike.jpg`: 371 - Rally Bike
+- `372-rollergames.jpg`: 372 - Rollergames
+- `373-skate-or-die-2-the-search-for-double-trouble.jpg`: 373 - Skate or Die 2: The Search for Double Trouble
+- `374-solar-jetman-hunt-for-the-golden-warpship.jpg`: 374 - Solar Jetman: Hunt for the Golden Warpship
+- `375-spot-the-video-game.jpg`: 375 - Spot: The Video Game
+- `376-street-fighter-2010-the-final-fight.jpg`: 376 - Street Fighter 2010: The Final Fight
+- `377-thunderbirds.jpg`: 377 - Thunderbirds
+- `378-time-lord.jpg`: 378 - Time Lord
+- `379-ultimate-basketball.jpg`: 379 - Ultimate Basketball
+- `380-caveman-games.jpg`: 380 - Caveman Games
+- `381-days-of-thunder.jpg`: 381 - Days of Thunder
+- `382-gremlins-2-the-new-batch.jpg`: 382 - Gremlins 2: The New Batch
+- `383-loopz.jpg`: 383 - Loopz
+- `384-mendel-palace.jpg`: 384 - Mendel Palace
+- `385-a-nightmare-on-elm-street.jpg`: 385 - A Nightmare on Elm Street
+- `386-orb-3d.jpg`: 386 - Orb-3D
+- `387-sesame-street-big-birds-hide-speak.jpg`: 387 - Sesame Street Big Bird's Hide & Speak
+- `388-super-glove-ball.jpg`: 388 - Super Glove Ball
+- `389-dr-mario.jpg`: 389 - Dr. Mario
+- `390-arch-rivals.jpg`: 390 - Arch Rivals
+- `391-conquest-of-the-crystal-palace.jpg`: 391 - Conquest of the Crystal Palace
+- `392-formula-one-built-to-win.jpg`: 392 - Formula One: Built to Win
+- `393-the-immortal.jpg`: 393 - The Immortal
+- `394-mega-man-3.jpg`: 394 - Mega Man 3
+- `395-muppet-adventure-chaos-at-the-carnival.jpg`: 395 - Muppet Adventure: Chaos at the Carnival
+- `396-palamedes.jpg`: NES 396 - Palamedes
+- `397-the-punisher.jpg`: 397 - The Punisher
+- `398-puzznic.jpg`: 398 - Puzznic
+- `399-the-silver-surfer.jpg`: 399 - The Silver Surfer
+- `400-werewolf-the-last-warrior.jpg`: 400 - Werewolf: The Last Warrior
+- `401-wwf-wrestlemania-challenge.jpg`: 401 - WWF Wrestlemania Challenge
+- `402-yo-noid.jpg`: 402 - Yo! Noid
+- `403-the-adventures-of-rad-gravity.jpg`: 403 - The Adventures of Rad Gravity
+- `404-bandit-kings-of-ancient-china.jpg`: 404 - Bandit Kings of Ancient China
+- `405-deja-vu-a-nightmare-comes-true.jpg`: 405 - Deja Vu: A Nightmare Comes True!!
+- `406-digger-t-rock.jpg`: 406 - Digger T. Rock
+- `407-dirty-harry.jpg`: 407 - Dirty Harry
+- `408-dragons-lair.jpg`: 408 - Dragon's Lair
+- `409-jackie-chans-action-kung-fu.jpg`: 409 - Jackie Chan's Action Kung-Fu
+- `410-little-ninja-brothers.jpg`: 410 - Little Ninja Brothers
+- `411-ninja-crusaders.jpg`: 411 - Ninja Crusaders
+- `412-nintendo-world-cup.jpg`: 412 - Nintendo World Cup
+- `413-north-and-south.jpg`: 413 - North and South
+- `414-shadow-of-the-ninja.jpg`: 414 - Shadow of the Ninja
+- `415-startropics.jpg`: 415 - StarTropics
+- `416-super-mario-bros-duck-hunt-world-class-track-meet.jpg`: 416 - Super Mario Bros/Duck Hunt/World Class Track Meet
+- `417-super-spike-vball-nintendo-world-cup.jpg`: 417 - Super Spike V'Ball / Nintendo World Cup
+- `418-tmnt-ii-the-arcade-game.jpg`: 418 - TMNT II: The Arcade Game
+- `419-thunder-and-lightning.jpg`: 419 - Thunder and Lightning
+- `420-ultima-quest-of-the-avatar.jpg`: 420 - Ultima: Quest of the Avatar
+- `421-advanced-dungeons-and-dragons-heroes-of-the-lance.jpg`: 421 - Advanced Dungeons and Dragons: Heroes of the Lance
+- `422-fun-house.jpg`: 422 - Fun House
+- `423-g-i-joe-a-real-american-hero.jpg`: 423 - G.I. Joe: A Real American Hero
+- `424-the-hunt-for-red-october.jpg`: 424 - The Hunt for Red October
+- `425-kabuki-quantum-fighter.jpg`: 425 - Kabuki Quantum Fighter
+- `426-the-krion-conquest.jpg`: 426 - The Krion Conquest
+- `427-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.jpg`: 427 - Fox's Peter Pan and the Pirates: The Revenge of Captain Hook
+- `428-qix.jpg`: 428 - Qix
+- `429-the-untouchables.jpg`: 429 - The Untouchables
+- `430-wayne-gretzky-hockey.jpg`: 430 - Wayne Gretzky Hockey
+- `431-zombie-nation.jpg`: 431 - Zombie Nation
+- `432-adventure-island-ii.jpg`: 432 - Adventure Island II
+- `433-conan-the-mysteries-of-time.jpg`: 433 - Conan: The Mysteries of Time
+- `434-double-dragon-iii-the-sacred-stones.jpg`: 434 - Double Dragon III: The Sacred Stones
+- `435-flying-warriors.jpg`: 435 - Flying Warriors
+- `436-galaxy-5000-racing-in-the-51st-century.jpg`: 436 - Galaxy 5000: Racing in the 51st Century
+- `437-ikari-iii-the-rescue.jpg`: 437 - Ikari III: The Rescue
+- `438-isolated-warrior.jpg`: 438 - Isolated Warrior
+- `439-the-last-ninja.jpg`: 439 - The Last Ninja
+- `440-magician.jpg`: 440 - Magician
+- `441-metal-storm.jpg`: 441 - Metal Storm
+- `442-princess-tomato-in-the-salad-kingdom.jpg`: 442 - Princess Tomato in the Salad Kingdom
+- `443-the-simpsons-bart-vs-the-space-mutants.jpg`: 443 - The Simpsons: Bart vs The Space Mutants
+- `444-ski-or-die.jpg`: 444 - Ski or Die
+- `445-super-cars.jpg`: 445 - Super Cars
+- `446-touchdown-fever.jpg`: 446 - Touchdown Fever
+- `447-bill-elliots-nascar-challenge.jpg`: 447 - Bill Elliot's NASCAR Challenge
+- `nb-022-sweet-home.jpg`: Nestalgia Bytes 022 - Sweet Home
+- `nestalgai-pipe-dream-recap.jpg`: nestalgAI - Pipe Dream Recap
+- `patreon-mailbag-2023.jpg`: Patreon Mailbag 2023
+- `s002-best-of-1986.jpg`: SPECIAL 002 - BEST OF 1986
+- `s003-best-of-1987.jpg`: SPECIAL 003 - BEST OF 1987
+- `s004-best-of-1988.jpg`: S04 - BEST OF 1988
+- `s005-nestalgia-game-jam.jpg`: S05 - NEStalgia Game Jam
+- `s006-best-of-1990.jpg`: SPECIAL 006 - Best of 1990
+- `s006-the-best-of-1989.jpg`: S06 - THE BEST OF 1989
+- `s097-sonic-the-hedgehog.jpg`: S097 - SONIC THE HEDGEHOG
+- `special-best-of-1985.jpg`: Special - Best of 1985
