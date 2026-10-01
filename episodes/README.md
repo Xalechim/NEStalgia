@@ -57,6 +57,7 @@ Show notes written for the podcast, converted from the original Google Docs. Epi
 | 118 | Lee Trevino's Fighting Golf | [notes](118-lee-trevinos-fighting-golf.md) |
 | 119 | Milon's Secret Castle | [notes](119-milons-secret-castle.md) |
 | 120 | Wheel of Fortune | [notes](120-wheel-of-fortune.md) |
+| 121 | Xevious: The Avenger | [notes](121-xevious-the-avenger.md) |
 | 122 | 1943: The Battle of Midway | [notes](122-1943-the-battle-of-midway.md) |
 | 123 | Donkey Kong Classics | [notes](123-donkey-kong-classics.md) |
 | 124 | Ghostbusters | [notes](124-ghostbusters.md) |
@@ -155,6 +156,7 @@ Show notes written for the podcast, converted from the original Google Docs. Epi
 | 218 | Hollywood Squares | [notes](218-hollywood-squares.md) |
 | 219 | King's Knight | [notes](219-kings-knight.md) |
 | 220 | Nfl | [notes](220-nfl.md) |
+| 221 | P.O.W.: Prisoners of War | [notes](221-pow-prisoners-of-war.md) |
 | 222 | Sesame Street Abc | [notes](222-sesame-street-abc.md) |
 | 223 | Sky Shark | [notes](223-sky-shark.md) |
 | 224 | Who Framed Roger Rabbit? | [notes](224-who-framed-roger-rabbit.md) |
@@ -203,8 +205,8 @@ Show notes written for the podcast, converted from the original Google Docs. Epi
 
 - [Game Boy](specials/game-boy.md)
 - [Special 003: Best of 1987](specials/s003-best-of-1987.md)
-- [Special 04: Best of 1988](specials/s004-best-of-1988.md)
-- [Special 06: Best of 1989](specials/s006-best-of-1989.md)
+- [Special 004: Best of 1988](specials/s004-best-of-1988.md)
+- [Special 006: Best of 1989](specials/s006-best-of-1989.md)
 - [Special 097: Sonic the Hedgehog](specials/s097-sonic-the-hedgehog.md)
 
 ## Bytes / Famicom
@@ -223,6 +225,4 @@ Side-series docs that aren't in the main feed. Bytes episode numbers aren't reco
 - [Nuts and Milk](bytes/nuts-and-milk.md)
 - [Pac-Land](bytes/pac-land.md)
 - [Portopia Serial Murder Case](bytes/portopia-serial-murder-case.md)
-- [Prisoners of War](bytes/prisoners-of-war.md)
 - [Tower of Druaga](bytes/tower-of-druaga.md)
-- [Xevious](bytes/xevious.md)
