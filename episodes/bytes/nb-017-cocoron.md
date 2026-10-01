@@ -1,4 +1,4 @@
-# Cocoron
+# NB 017 - Cocoron
 
 - YOU ARE A TOY!!! You aren't the real Cocoron, you're an... aw, you're an action FIGURE! You are a child's... plaything!
 - NES Longplay

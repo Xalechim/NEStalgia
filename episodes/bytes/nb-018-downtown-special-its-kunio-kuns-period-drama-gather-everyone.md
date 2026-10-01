@@ -1,4 +1,4 @@
-# Downtown Special: It's Kunio-kun's Period Drama, Gather Everyone!
+# NB 018 - Downtown Special: It's Kunio-kun's Period Drama, Gather Everyone!
 
 - NES Longplay
 - The follow up to River City Ransom

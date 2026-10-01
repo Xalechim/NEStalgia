@@ -1,4 +1,4 @@
-# All Night Nippon Super Mario Bros
+# NB 013 - All Night Nippon Super Mario Bros.
 
 - Video Games killed the Radio Star
 - All Night Nippon SMB

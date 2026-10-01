@@ -1,4 +1,4 @@
-# Bokosuka Wars
+# NB 011 - Bokosuka Wars
 
 - Strategically fight in battles you can’t control!
 - NES Longplay

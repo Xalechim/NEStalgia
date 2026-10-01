@@ -1,4 +1,4 @@
-# Captain Tsubasa Vol 2: Super Striker
+# NB 015 - Captain Tsubasa II: Super Striker
 
 - Mebasa, Tsubasa
 - NES Longplay

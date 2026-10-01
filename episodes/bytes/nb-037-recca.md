@@ -1,4 +1,4 @@
-# NB 037 - Recca
+# NB 037 - Summer Carnival '92: Recca
 
 - Game Overview: Recca, a 1992 Famicom shooter developed by KID for the Naxat Summer Carnival, emphasizes extreme speed and difficulty rather than traditional score-based gameplay.
 - The Naxat Summer Carnival was a series of video game competitions held by Naxat Soft in the early 1990s, inspired by Hudson Soft’s Caravan tournaments. These events focused on high-score challenges in specially designed shoot-'em-up games.

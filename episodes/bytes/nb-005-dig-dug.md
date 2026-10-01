@@ -1,4 +1,4 @@
-# Dig Dug
+# NB 005 - Dig Dug
 
 - HOME OF THE DUG DIG DIGGADOME
 - NES Longplay

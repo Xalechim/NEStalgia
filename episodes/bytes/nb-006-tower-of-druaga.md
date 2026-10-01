@@ -1,4 +1,4 @@
-# Tower of Druaga
+# NB 006 - Tower of Druaga
 
 - They really should’ve built an elevator
 - NES Longplay

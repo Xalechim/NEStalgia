@@ -1,4 +1,4 @@
-# Kid Dracula
+# NB 012 - Kid Dracula
 
 - What is a kid? A miserable pile of tricks!
 - NES Longplay

@@ -1,4 +1,4 @@
-# Wagyan Land
+# NB 038 - Wagyan Land
 
 - Cute, younger skewing platformer with weird match game boss fights
 - The player character, Wagyan, has the ability to temporarily stun his enemies with sound waves

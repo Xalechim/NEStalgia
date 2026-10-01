@@ -1,4 +1,4 @@
-# Portopia Serial Murder Case
+# NB 009 - Portopia Renzoku Satsujin Jiken (fan translation)
 
 - Part of a balanced breakfast
 - NES Longplay

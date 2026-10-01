@@ -1,4 +1,4 @@
-# Exerion and Formation Z
+# NB 003 - Exerion and Formation Z
 
 - STUFF UP EM SHMUPS
 - JP Longplay

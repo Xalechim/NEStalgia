@@ -1,4 +1,4 @@
-# Devil World
+# NB 002 - Devil World
 
 - Pac-Man Goes to Hell
 - JP Longplay

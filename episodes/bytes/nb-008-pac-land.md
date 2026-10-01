@@ -1,4 +1,4 @@
-# Pac-Land
+# NB 008 - Pac-Land
 
 - I have a feeling we’re not in mazes anymore…
 - NES Longplay
