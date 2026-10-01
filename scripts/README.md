@@ -27,11 +27,20 @@ Local, free transcripts with speaker labels. Nothing here uploads audio.
 - Multitrack data exists only for roughly the last 20 episodes (Audition Projects: NES 438-454, NB 053-055, SNES 002, S06). Tracks are Espo (Mike), Sean, Joe. There is no Sam track.
 - Voice-ID from profiles built from raw mic tracks scored only 62% on held-out episode 446 (Sean over-predicted), probably because the mixdown is processed audio.
 
+- Voice-ID trained on the mixdown segments themselves (labeled via the mic tracks; `voiceid.py enroll-mix`, 4 episodes: 439, 442, 444, 445)
+  scored, on held-out episode 446: 81.4% of segments, 90.3% of airtime. By segment length: >4 s 96%, 2-4 s 81%, 1-2 s 62%.
+  Better than raw-track profiles (62%) but not reliable for quick back-and-forth. Not used for any published transcript yet.
+- Word-level mic labeling was worse than sentence-level (timing is only good to a fraction of a second), so `transcribe.py --tracks` labels per sentence.
+- Whisper loops on laughter/outro ("Ha ha ha." repeated); `transcribe.py` drops runaway repeats.
+
+## Published so far
+
+- `transcripts/446-touchdown-fever.md` / `.vtt`, speakers named from the mic tracks.
+
 ## Next steps
 
-1. Enroll voices from the mixdown segments themselves, labeled via the tracks (`voiceid.py enroll-mix`, written but not yet run to completion), then re-test on held-out episode 446. Target: well above 90% before using it on mixdown-only episodes.
-2. If that works, wire `--profiles` into `transcribe.py`, label unmatched voices "Unknown", and add Sam from early episodes if wanted.
-3. Fall back to plain transcripts for anything that cannot be labeled reliably.
-4. Bulk run: episodes 286-454 have finished MP3s in `iCloud/10_NEStalgia/Mixes`; earlier ones need the audio from the RSS feed (`https://anchor.fm/s/5808ab8/podcast/rss`).
-   Estimated about 30 minutes of audio per 1 minute of compute, so the full catalog is hours, not days.
-5. Output goes in `transcripts/NNN-name.md` and `.vtt`. Link each from `episodes/README.md`.
+1. Decide what to do for the ~420 mixdown-only episodes: plain transcripts (no names), voice-ID labels with a caveat, or more enrollment episodes (more training data, add Sam).
+   Ideas to raise accuracy: enroll from more episodes (the tracks exist for ~17 more), smooth labels across neighbouring segments, only label segments longer than ~2 s.
+2. Run the multitrack path (`--tracks`) for the other episodes that have mic tracks (NES 438-454, NB 053-055, SNES 002, S06).
+3. Bulk run. Finished MP3s for episodes 286-454 are in `iCloud/10_NEStalgia/Mixes`; earlier audio comes from the RSS feed (`https://anchor.fm/s/5808ab8/podcast/rss`). Whisper takes about 75 seconds per 25-minute episode.
+4. Link transcripts from `episodes/README.md`.

@@ -86,6 +86,54 @@ def ts(sec: float, vtt: bool = False) -> str:
     return f"{int(h):02d}:{int(m):02d}:{s:06.3f}".replace(".", sep)
 
 
+def runaway(text: str) -> bool:
+    """Whisper sometimes loops on music/laughter ("Ha! Ha! Ha! ...")."""
+    toks = [t.strip(".,!?").lower() for t in text.split()]
+    run = 1
+    for x, y in zip(toks, toks[1:]):
+        run = run + 1 if x == y else 1
+        if run >= 5:
+            return True
+    return False
+
+
+def label_words(segs, who, min_dur=0.8):
+    """Split Whisper segments into sentences, label each by the loudest mic.
+
+    Per-word labels were too noisy (timing is only good to a fraction of a second);
+    whole Whisper segments sometimes hold two speakers ("I'm Mike. I'm Sean.").
+    """
+    sents = []
+    for s in segs:
+        words = s.get("words") or [{"word": " " + s["text"].strip(), "start": s["start"], "end": s["end"]}]
+        cur = []
+        for w in words:
+            cur.append(w)
+            if w["word"].strip()[-1:] in ".?!":
+                sents.append(cur)
+                cur = []
+        if cur:
+            sents.append(cur)
+    # merge sentences shorter than min_dur into the next one
+    merged, carry = [], []
+    for sent in sents:
+        sent = carry + sent
+        if sent[-1]["end"] - sent[0]["start"] < min_dur:
+            carry = sent
+        else:
+            merged.append(sent)
+            carry = []
+    if carry:
+        if merged:
+            merged[-1] += carry
+        else:
+            merged.append(carry)
+    return [
+        (m[0]["start"], m[-1]["end"], who(m[0]["start"], m[-1]["end"]), "".join(w["word"] for w in m).strip())
+        for m in merged
+    ]
+
+
 HOP = 0.05  # seconds per envelope frame
 
 
@@ -183,7 +231,13 @@ def main() -> None:
                 cache.parent.mkdir(parents=True, exist_ok=True)
                 cache.write_text(json.dumps(res, default=float))
 
-    segs = [s for s in res["segments"] if s["text"].strip()]
+    segs, prev = [], None
+    for s in res["segments"]:
+        txt = s["text"].strip()
+        if not txt or runaway(txt) or (txt == prev and s["end"] - s["start"] < 2.0):
+            continue  # empty, looping, or an immediate repeat of the previous segment
+        segs.append(s)
+        prev = txt
     names = None
     if a.tracks:
         tracks = {}
@@ -194,8 +248,7 @@ def main() -> None:
                 to_wav(path, w)
                 tracks[name] = read_wav(w)
         who = track_label_fn(samples, tracks)
-        rows = [(s["start"], s["end"], who(s["start"], s["end"]), s["text"].strip()) for s in segs]
-        label_of = lambda x: x
+        rows = label_words(segs, who)
         names = True
     else:
         turns = [] if a.no_diarize else diarize(samples, a.speakers)
@@ -207,6 +260,8 @@ def main() -> None:
         for _, _, spk, _ in rows:
             order.setdefault(spk, len(order) + 1)
         rows = [(s, e, f"Speaker {order[spk]}", t) for s, e, spk, t in rows]
+
+    rows = [(s_, e_, spk, t.replace("welcome to Nostalgia", "welcome to NEStalgia")) for s_, e_, spk, t in rows]
 
     # Merge consecutive segments from the same speaker into turns.
     merged = []

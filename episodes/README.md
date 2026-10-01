@@ -404,7 +404,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 443 | The Simpsons: Bart vs The Space Mutants | [notes](443-the-simpsons-bart-vs-the-space-mutants.md) |
 | 444 | Ski or Die | [notes](444-ski-or-die.md) |
 | 445 | Super Cars | [notes](445-super-cars.md) |
-| 446 | Touchdown Fever | [notes](446-touchdown-fever.md) |
+| 446 | Touchdown Fever | [notes](446-touchdown-fever.md), [transcript](../transcripts/446-touchdown-fever.md) |
 | 447 | Bill Elliot's NASCAR Challenge | [notes](447-bill-elliots-nascar-challenge.md) |
 | 448 | Harlem Globetrotters *(unreleased)* | [notes](448-harlem-globetrotters.md) |
 | 449 | Indiana Jones and the Last Crusade *(unreleased)* | [notes](449-indiana-jones-and-the-last-crusade.md) |
