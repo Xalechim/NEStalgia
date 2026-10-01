@@ -28,6 +28,8 @@ jobs:
       - run: pip install pillow
 
       - name: Update data, cover art and index from the feed
+        env:
+          PYTHONDONTWRITEBYTECODE: "1"
         run: python scripts/update_from_feed.py
 
       - name: Commit and push if anything changed

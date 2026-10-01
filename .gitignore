@@ -13,3 +13,7 @@ Audition Projects/
 Mixes/
 Original Music/
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
