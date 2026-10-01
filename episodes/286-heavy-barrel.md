@@ -1,0 +1,23 @@
+# 286 - Heavy Barrel
+
+- The Ultimate Weapon that will blow you away
+- NES Longplay
+- Manual
+- Maybe the first video game we’re playing where the main focus is the weapon not the character?
+  - The guys on the box art look like they can barely hold it
+- Bit of a stretch with the plot to explain the existence and gamification of the heavy barrel
+  - Terrorist have seized an underground nuclear site
+  - The site had the heavy barrel
+  - The terrorists didn’t know that and so one of technicians carefully took it apart into 6 pieces and hid those pieces all around the complex
+  - And they make NO attempt to explain that the technician did this more than once or why the heavy barrel has a 99 second time limit
+- All that to say, how cool is the heavy barrel in game?
+  - the game only contains enough pieces to allow the weapon to be built three times in a single game
+- And what about when you’re not playing with the heavy barrel?
+  - You shoot in the direction you walk
+- Level Variety
+- 2 player co-op
+- Sequels and Spinoffs
+  - None
+- EGL
+- Next week -  Conflict
+- NEStalgia Byte - Fuzzical Fighter

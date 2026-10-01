@@ -1,0 +1,41 @@
+# 305 - WCW: World Championship Wrestling
+
+- NES Longplay
+- Manual
+- WCW VS WWF
+  - I grew up on WCW because my dad loved the old WWF wrestlers
+  - Monday Night Wars
+  - WCW vs NWO then the NWO vs itself
+  - Goldberg
+  - But it’s all too early for this!
+- It was the first (and, to date, only) video game based on the National Wrestling Alliance (at the time, WCW was a member of NWA).
+  - Lou Thesz
+  - Jim Cornette (manager)
+  - The Iron Sheik
+  - Ric Flair
+  - Terry Funk
+  - Dusty Rhodes
+- The Wrestlers
+  - Lex Luger
+  - Ric Flair
+  - Mike Rotunda
+  - Kevin Sullivan
+  - Sting
+  - Rick Steiner
+  - Ricky Steamboat
+  - Road Warrior Hawk
+  - Michael P.S. Hayes
+  - "Dr. Death" Steve Williams
+  - "Hot Stuff" Eddie Gilbert
+  - WCW Master is based on André the Giant
+- Choose Your moveset
+  - Each wrestler has a menu of eight moves (with each wrestler featuring a unique moveset), from which players choose four (each move selected is assigned to a direction on the D-pad).
+- Each wrestler has his own finisher move. These must be performed in the middle of the ring and can only be accomplished when the opponent had two squares remaining on his health meter. The move is performed by pressing A and B simultaneously. Finishers deliver significantly more damage than a regular move and are likely to end the match in a knock-out or submission.
+- Tag Team matches
+- Cover Art
+  - After The Road Warriors left WCW for the World Wrestling Federation (WWF), WCW continued to advertise the game in their own catalogs with a mock-up cartridge showing Sting on the label, though no such copies of the game with an alternate label are known to exist or believed to have ever been manufactured.
+- Sequels and Spinoffs
+  - Super Star Pro Wrestling was the japanese version of the game featuring wrestlers from Japan's AJPW and NJPW promotions
+- EGL
+- Next week -
+- NEStalgia Byte -

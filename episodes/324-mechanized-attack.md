@@ -1,0 +1,31 @@
+# 324 - Mechanized Attack
+
+- At first it looked like just another revolution
+- NES Longplay
+- Manual
+- Insane cover
+- Plot
+  - At first, it looked like just another revolution.
+  - But the rebel forces are backed by an unusual array of high -tech weaponry - and that the rebel soldiers may actually be a fearsome new breed of fighting robots!
+  - If this revolution succeeds, the safety of the entire world may be threatened . . . And that's where you come in.
+  - Have we ever played a game where you are trying to SHUT DOWN a revolution? That’s kinda crazy.
+- Gameplay
+  - This is a real arcade shooter.
+  - Playing with the Zapper vs playing with the controller
+  - Autofire is built in
+  - Reload is automatic
+- System Construction Figure
+  - At the title screen, hold Down + Left + B + Select on Controller 1, then press Right + A + B at the same time on Controller 2 and release all the buttons. A debug screen with title "SYSTEM CONSTRUCTION FIGURE" will appear.
+  - You can now enable/disable music or sound effects, select the starting amount of lives/ammo/grenades/continues, and start with the selected level, including the ending sequence. Press Up or Down to select, A or B to change values.
+  - A woman appears as your cursor between these options
+    - In addition, you can also remove the clothing from the girl used as the cursor in the above menu. While the girl is initially fully dressed, you can set the "PLAYER", "MAGAZINE", "GRENADE", and "CONTINUE" options to the following values to undress her step by step.
+    - Note that you can only set the next value after successfully setting the previous one; you can't just set values randomly to access random undressing levels.
+    - She can be eventually fully undressed making this the most blatant X-Rated thing we’ve seen an official NES game yet
+- Development
+- Sequels and spinoffs
+  - the arcade version of Mechanized Attack has a miniature machine gun replica for the player to use
+    - The machine gun even has a slight recoil to it
+    - Operation Wolf also had a miniature Machine gun
+- EGL
+- Next week - Michael Andretti's World GP
+- NEStalgia Byte

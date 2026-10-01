@@ -6,6 +6,7 @@ Show notes written for the podcast, converted from the original Google Docs. Epi
 
 | # | Game | Notes |
 | --- | --- | --- |
+| 001 | 10-Yard Fight (Remastered) | [notes](001-10-yard-fight-remastered.md) |
 | 069 | Stadium Events | [notes](069-stadium-events.md) |
 | 070 | Star Voyager | [notes](070-star-voyager.md) |
 | 071 | Stinger | [notes](071-stinger.md) |
@@ -163,6 +164,7 @@ Show notes written for the podcast, converted from the original Google Docs. Epi
 | 225 | Casino Kid | [notes](225-casino-kid.md) |
 | 226 | Goal! | [notes](226-goal.md) |
 | 227 | Godzilla: Monster of Monsters | [notes](227-godzilla-monster-of-monsters.md) |
+| 228 | Jeopardy Junior Edition | [notes](228-jeopardy-junior-edition.md) |
 | 229 | Romance of the Three Kingdoms | [notes](229-romance-of-the-three-kingdoms.md) |
 | 230 | Stealth ATF | [notes](230-stealth-atf.md) |
 | 231 | The Three Stooges | [notes](231-the-three-stooges.md) |
@@ -200,29 +202,148 @@ Show notes written for the podcast, converted from the original Google Docs. Epi
 | 264 | River City Ransom | [notes](264-river-city-ransom.md) |
 | 265 | Roadblasters | [notes](265-roadblasters.md) |
 | 266 | Rock N Ball | [notes](266-rock-n-ball.md) |
+| 267 | Top Gun: The Second Mission | [notes](267-top-gun-the-second-mission.md) |
+| 268 | Top Players Tennis | [notes](268-top-players-tennis.md) |
+| 269 | Twin Cobra | [notes](269-twin-cobra.md) |
+| 270 | Batman: The Video Game | [notes](270-batman-the-video-game.md) |
+| 271 | Dash Galaxy in the Alien Asylum | [notes](271-dash-galaxy-in-the-alien-asylum.md) |
+| 272 | Destination Earthstar | [notes](272-destination-earthstar.md) |
+| 273 | Rollerball | [notes](273-rollerball.md) |
+| 274 | Super Spike VBall | [notes](274-super-spike-vball.md) |
+| 275 | Super Mario Bros. 3 | [notes](275-super-mario-bros-3.md) |
+| 276 | Abadox | [notes](276-abadox.md) |
+| 277 | The Adventures of Lolo 2 | [notes](277-the-adventures-of-lolo-2.md) |
+| 278 | Al Unser Jr's Turbo Racing | [notes](278-al-unser-jrs-turbo-racing.md) |
+| 279 | Astyanax | [notes](279-astyanax.md) |
+| 280 | Baseball Simulator 1.000 | [notes](280-baseball-simulator-1-000.md) |
+| 281 | Burai Fighter | [notes](281-burai-fighter.md) |
+| 282 | Code Name: Viper | [notes](282-code-name-viper.md) |
+| 283 | Conflict | [notes](283-conflict.md) |
+| 286 | Heavy Barrel | [notes](286-heavy-barrel.md) |
+| 287 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | [notes](287-jack-nicklaus-greatest-18-holes-of-major-championship-golf.md) |
+| 288 | Kid Kool | [notes](288-kid-kool.md) |
+| 289 | Magic Johnson's Fast Break | [notes](289-magic-johnsons-fast-break.md) |
+| 290 | Target: Renegade | [notes](290-target-renegade.md) |
+| 291 | Terra Cresta | [notes](291-terra-cresta.md) |
+| 292 | Vegas Dream | [notes](292-vegas-dream.md) |
+| 293 | Wheel of Fortune: Family Edition | [notes](293-wheel-of-fortune-family-edition.md) |
+| 294 | Win, Lose, or Draw | [notes](294-win-lose-or-draw.md) |
+| 295 | Double Dare | [notes](295-double-dare.md) |
+| 296 | Dynowarz | [notes](296-dynowarz.md) |
+| 297 | Ghostbusters II | [notes](297-ghostbusters-ii.md) |
+| 298 | Ivan "Ironman" Stewart's Super Off Road | [notes](298-ivan-ironman-stewarts-super-off-road.md) |
+| 299 | Phantom Fighter | [notes](299-phantom-fighter.md) |
+| 300 | Pin*Bot | [notes](300-pin-bot.md) |
+| 301 | Snake's Revenge | [notes](301-snakes-revenge.md) |
+| 302 | Snoopy's Silly Sports Spectacular | [notes](302-snoopys-silly-sports-spectacular.md) |
+| 303 | Super C | [notes](303-super-c.md) |
+| 304 | Tecmo World Wrestling | [notes](304-tecmo-world-wrestling.md) |
+| 305 | WCW: World Championship Wrestling | [notes](305-wcw-world-championship-wrestling.md) |
+| 306 | Wrath of the Black Manta | [notes](306-wrath-of-the-black-manta.md) |
+| 307 | Xexyz | [notes](307-xexyz.md) |
+| 308 | Ninja Gaiden II: The Dark Sword of Chaos | [notes](308-ninja-gaiden-ii-the-dark-sword-of-chaos.md) |
+| 309 | Remote Control | [notes](309-remote-control.md) |
+| 310 | Disney Adventures in the Magic Kingdom | [notes](310-disney-adventures-in-the-magic-kingdom.md) |
+| 311 | Arkista's Ring | [notes](311-arkistas-ring.md) |
+| 312 | Bad News Baseball | [notes](312-bad-news-baseball.md) |
+| 313 | Boulder Dash | [notes](313-boulder-dash.md) |
+| 314 | Cabal | [notes](314-cabal.md) |
+| 315 | Captain Skyhawk | [notes](315-captain-skyhawk.md) |
+| 316 | Castle of Dragon | [notes](316-castle-of-dragon.md) |
+| 318 | Dragon Spirit: The New Legend | [notes](318-dragon-spirit-the-new-legend.md) |
+| 319 | Heavy Shreddin' | [notes](319-heavy-shreddin.md) |
+| 320 | ImageFight | [notes](320-imagefight.md) |
+| 321 | Jeopardy 25th Anniversary Edition | [notes](321-jeopardy-25th-anniversary-edition.md) |
+| 322 | The Last Starfighter | [notes](322-the-last-starfighter.md) |
+| 323 | The Mafat Conspiracy | [notes](323-the-mafat-conspiracy.md) |
+| 324 | Mechanized Attack | [notes](324-mechanized-attack.md) |
+| 325 | Michael Andretti's World GP | [notes](325-michael-andrettis-world-gp.md) |
+| 326 | Pinball Quest | [notes](326-pinball-quest.md) |
+| 327 | Puss 'n Boots: Pero's Great Adventure | [notes](327-puss-n-boots-peros-great-adventure.md) |
+| 328 | Rad Racer II | [notes](328-rad-racer-ii.md) |
+| 329 | Rocket Ranger | [notes](329-rocket-ranger.md) |
+| 330 | Shingen The Ruler | [notes](330-shingen-the-ruler.md) |
+| 331 | Silkworm | [notes](331-silkworm.md) |
+| 332 | Solstice | [notes](332-solstice.md) |
+| 333 | Starship Hector | [notes](333-starship-hector.md) |
+| 334 | Wall Street Kid | [notes](334-wall-street-kid.md) |
+| 335 | The Adventures of Gilligan's Island | [notes](335-the-adventures-of-gilligans-island.md) |
+| 336 | Battle Chess | [notes](336-battle-chess.md) |
+| 337 | Circus Caper | [notes](337-circus-caper.md) |
+| 338 | Crystalis | [notes](338-crystalis.md) |
+| 339 | Dungeon Magic: Sword of the Elements | [notes](339-dungeon-magic-sword-of-the-elements.md) |
+| 340 | Dusty Diamond's All-Star Softball | [notes](340-dusty-diamonds-all-star-softball.md) |
+| 341 | Final Fantasy | [notes](341-final-fantasy.md) |
+| 342 | Little League Baseball: Championship Series | [notes](342-little-league-baseball-championship-series.md) |
+| 343 | Mad Max | [notes](343-mad-max.md) |
+| 344 | Pictionary | [notes](344-pictionary.md) |
+| 345 | Snake Rattle N Roll | [notes](345-snake-rattle-n-roll.md) |
+| 346 | Wizardry: Proving Grounds of the Mad Overlord | [notes](346-wizardry-proving-grounds-of-the-mad-overlord.md) |
+| 347 | Barker Bill's Trick Shooting | [notes](347-barker-bills-trick-shooting.md) |
+| 348 | Bigfoot | [notes](348-bigfoot.md) |
+| 349 | Dick Tracy | [notes](349-dick-tracy.md) |
+| 350 | Narc | [notes](350-narc.md) |
+| 352 | Swords and Serpents | [notes](352-swords-and-serpents.md) |
+| 353 | Total Recall | [notes](353-total-recall.md) |
+| 354 | Back to the Future Part II & III | [notes](354-back-to-the-future-part-ii-iii.md) |
+| 355 | Garry Kitchen's Battle Tank | [notes](355-garry-kitchens-battle-tank.md) |
+| 356 | The Bugs Bunny Birthday Blowout | [notes](356-the-bugs-bunny-birthday-blowout.md) |
+| 357 | Castlevania III: Dracula's Curse | [notes](357-castlevania-iii-draculas-curse.md) |
+| 359 | Destiny of an Emperor | [notes](359-destiny-of-an-emperor.md) |
+| 360 | Dragon Warrior II | [notes](360-dragon-warrior-ii.md) |
+| 361 | Gauntlet II | [notes](361-gauntlet-ii.md) |
+| 362 | Journey to Silius | [notes](362-journey-to-silius.md) |
+| 363 | Kickle Cubicle | [notes](363-kickle-cubicle.md) |
+| 364 | Little Nemo: The Dream Master | [notes](364-little-nemo-the-dream-master.md) |
+| 365 | Low G Man | [notes](365-low-g-man.md) |
+| 366 | M.u.l.e | [notes](366-m-u-l-e.md) |
+| 367 | Maniac Mansion | [notes](367-maniac-mansion.md) |
+| 368 | Mission: Impossible | [notes](368-mission-impossible.md) |
+| 369 | NES Play Action Football | [notes](369-nes-play-action-football.md) |
+| 370 | Pipe Dream | [notes](370-pipe-dream.md) |
+| 371 | Rally Bike | [notes](371-rally-bike.md) |
+| 440 | Magician | [notes](440-magician.md) |
 
 ## Specials
 
 - [Game Boy](specials/game-boy.md)
+- [Patreon Mailbag 2023](specials/patreon-mailbag-2023.md)
 - [Special 003: Best of 1987](specials/s003-best-of-1987.md)
 - [Special 004: Best of 1988](specials/s004-best-of-1988.md)
 - [Special 006: Best of 1989](specials/s006-best-of-1989.md)
 - [Special 097: Sonic the Hedgehog](specials/s097-sonic-the-hedgehog.md)
 
-## Bytes / Famicom
+## Nestalgia Bytes (Famicom / Japan-only)
 
-Side-series docs that aren't in the main feed. Bytes episode numbers aren't recorded yet.
+Numbered from the NB mix files. Docs without a number haven't been matched to an NB number yet.
 
+- [NB 021 - Glory of Heracles II: The Titans' Downfall](bytes/nb-021-glory-of-heracles-ii-the-titans-downfall.md)
+- [NB 022 - Sweet Home](bytes/nb-022-sweet-home.md)
+- [NB 023 - Honoo no Toukyuuji: Dodge Danpei](bytes/nb-023-honoo-no-toukyuuji-dodge-danpei.md)
+- [NB 024 - Parodius](bytes/nb-024-parodius.md)
+- [NB 025 - Holy Diver](bytes/nb-025-holy-diver.md)
+- [NB 027 - Konami Wai Wai World](bytes/nb-027-konami-wai-wai-world.md)
+- [NB 028 - Lagrange Point](bytes/nb-028-lagrange-point.md)
+- [NB 031 - Donald Land](bytes/nb-031-donald-land.md)
+- [NB 032 - Love Warrior Nicol](bytes/nb-032-love-warrior-nicol.md)
+- [NB 033 - Miracle of Almana](bytes/nb-033-miracle-of-almana.md)
+- [NB 035 - Radia Senki: Reimeihen](bytes/nb-035-radia-senki-reimeihen.md)
+- [NB 036 - Cosmo Police Galivan](bytes/nb-036-cosmo-police-galivan.md)
+- [NB 037 - Recca](bytes/nb-037-recca.md)
 - [All Night Nippon Super Mario Bros](bytes/all-night-nippon-super-mario-bros.md)
 - [Antarctic Adventure](bytes/antarctic-adventure.md)
 - [Battle City](bytes/battle-city.md)
 - [Bokosuka Wars](bytes/bokosuka-wars.md)
 - [Captain Tsubasa Vol 2: Super Striker](bytes/captain-tsubasa-vol-2-super-striker.md)
+- [Chaos World](bytes/chaos-world.md)
+- [Cocoron](bytes/cocoron.md)
 - [Devil World](bytes/devil-world.md)
 - [Dig Dug](bytes/dig-dug.md)
+- [Downtown Special: It's Kunio-kun's Period Drama, Gather Everyone!](bytes/downtown-special.md)
 - [Exerion and Formation Z](bytes/exerion-and-formation-z.md)
 - [Kid Dracula](bytes/kid-dracula.md)
 - [Nuts and Milk](bytes/nuts-and-milk.md)
 - [Pac-Land](bytes/pac-land.md)
 - [Portopia Serial Murder Case](bytes/portopia-serial-murder-case.md)
 - [Tower of Druaga](bytes/tower-of-druaga.md)
+- [Wagyan Land](bytes/wagyan-land.md)

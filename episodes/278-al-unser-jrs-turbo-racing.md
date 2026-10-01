@@ -1,0 +1,28 @@
+# 278 - Al Unser Jr's Turbo Racing
+
+- Get ready for racing action like you’ve never experienced it
+- NES Longplay
+- Manual
+- Remember Al Unser Jr?
+- Remember NES racing games?
+- What do you like about racing games?
+- As an american, I don’t like changing gears while driving
+  - Is it handled the right way in this game?
+- Unser kind of mixes arcade with simulation
+- So what’s DRIVING like in this game?
+  - Do you agree with this from Wikipedia: “Due to the limitations of the NES, curves appear to come out of nowhere, making turning unusually difficult. ”
+- Time Trials
+  - "A" (with computer opponents) and "B" (without computer opponents)
+- Gran Prix
+  - Career mode not unlike what we just saw in Top Players Tennis
+  - 26 cars per race.
+  - At each race, the player has the chance to receive advice about the course from Al Unser, Jr.
+  - During each race, the player must avoid accidents such as running into other cars and hitting signposts. Accidents can harm engines or blow tires, which can be repaired by pitting.
+  - While pitting, the race is halted so as not to put the player at a disadvantage due to each race's unusually short length (about three to five laps).
+- If you play as Al in the World Grand Prix you already have max stats? Shouldn’t you unlock Al after beating the cup if that’s what his stats are gonna be?
+- Sequels and Spinoffs
+  - Al Unser Jr's Race to the Top
+    - progress from go-karts to snowmobiles, IROC racing cars, and eventually to Indy racing cars.
+- EGL
+- Next week -  Al Unser Jr.'s Turbo Racing
+- NEStalgia Byte - Downtown Special: It's Kunio-kun's Period Drama, Gather Everyone!

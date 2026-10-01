@@ -1,0 +1,33 @@
+# 332 - Solstice
+
+- From out of darkness…shall arise a challenge to your wisdom
+- NES Longplay
+- Manual
+- #33 NES game on Mobygames. Which regardless of where we land says a lot about Mobygames.
+- You have to collect the six pieces of the Staff of Demnos hidden within the fortress of Kâstleröck. The six pieces are spread across 250 rooms.
+  - Why is it always split in pieces?
+- The entire manual is laid out like a never ending scroll. So much text, not just for story, but for every feature.
+  - Creator Mark Wilson referred to the manual by the publisher as “a mass of illiterate and asinine drivel”
+- puzzle-solving Isometric POV
+  - Mark Wilson thought it sensible to create an isometric title as the company's first original work, as no such format had previously been attempted on the NES, but that’s not true. We’ve seen a lot of isometric games on NES.
+  - Main abilities are jumping and picking up objects
+  - The isometric despite being displayed like a grid is not rigid. You kinda free roam around the squares
+  - The 250 rooms are NOT individual puzzles. Not an arcade like game. It’s just a castle with 250 rooms to navigate through
+  - 4 beakers can store various potions that once crafted can apply bonus abilities to help solve puzzles
+    - temporary invincibility, destroy all moving objects in a room, freeze time, or make invisible objects visible.
+    - Potions only work within the room and they are not permanent to that room.
+- The quality of the puzzles
+  - ITS A BIG GAME
+- More Tim Follin music
+  - named the game's title track as his favorite among his compositions
+- Solstice is the first original game to be developed by Software Creations
+  - All the game's item positions and events were placed on a "master map" hand-drawn on a very large sheet of graph paper, and were based on Wilson's understanding of what the player might think or need at any particular point. This detailed approach put Wilson at odds with Webb, who failed to see why such an amount of time would be taken to design a game as opposed to expediently inserting rooms into a map at random. At one point, Webb presented Wilson with an alternate map created by his girlfriend the previous night, which consisted of 255 randomly-connected empty rooms. Out of guilt for their furious arguments and pleasure with the final product, Wilson would ultimately give Webb a co-designer credit in the game's attract mode screens. Wilson would later regret this action; during a subsequent interview with Wilson at MicroProse, one of the interviewers falsely identified Webb as the game's sole designer.
+  - The first 5,000 customers to order Solstice from CSG Imagesoft received a free "Player's Pak", consisting of an 8 mm video tape on the making of Solstice, a player's score card, trading cards and colored stickers.
+- Nintendo Published this in Europe so they clearly liked the game
+- Sequels and spinoffs
+  - A sequel, titled Equinox, was released for the Super NES in 1993.
+    - The game consists of 450 rooms split between eight dungeons, and also features an isometric perspective, but includes a rotatable camera that incorporates Mode 7 effects
+  - The game is credited with giving inspo to the isometric look of Tactics Ogre on SNES.
+- EGL
+- Next week
+- NEStalgia Byte

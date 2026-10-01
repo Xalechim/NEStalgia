@@ -1,0 +1,41 @@
+# 325 - Michael Andretti's World GP
+
+- Turbocharged Racing Excitement
+- NES Longplay
+- Manual
+- Michael Andretti
+  - Only 3 first place finishes by the time this game would come out, and not even in F1 yet. He would only race one F1 Season, 1993, no first place finishes.
+  - He is the son of Mario Andretti, a multi-time champion, and is the father of IndyCar Series driver Marco Andretti.
+- Gameplay
+  - simulation-style racing game
+    - Four different cars were offered in the game, but there were no car set-ups in the game
+      - Can’t choose car in Grand Prix
+      - The Chevy was the dominant machine in the game, despite not being a Formula One car.
+    - Gear shifting is also required for three of the cars (and notably for 8 of the 9 levels of the game)
+      - Constant Gear Shifting too
+    - sharp and wide turns, thus requiring players to slow down to certain speeds for corners
+    - Tire wear and pit stops
+      - Yet no fuel
+    - no direct interaction between vehicles
+  - no music played while actually driving.
+  - Grand Prix
+    - First you’re shown a map
+    - Qualifying Session
+      - 5 timed laps
+      - Tire wear still a thing
+      - Hitting the "select" button during qualifying aborts the session. If the player had already registered a lap fast enough to qualify for the race, it is unnecessary to run all five laps.
+      - If the player does not qualify, they must sit out the race, and instead watch it through the perspective of the featured driver.
+    - Race
+      - Spinning out during the race is possible, but no incident ever causes a car to completely drop out of the race.
+    - Progression
+      - Points are awarded to the four finishers (5-3-2-1). At the end of the level, a champion is declared. In order to advance to the next level, the player is required to score the most points and be the champion of the level. If the player does not score the most points in the level, the player may use the password to return to the first race of the level and try again.
+  - Practice mode
+  - Two-Player Mode
+    - Also Two Computer Mode
+- Sequels and spinoffs
+  - STOLEN GLORY
+    - Originally Satoru Nakajima F-1 Hero
+      - five-time Japanese Top Formula champion, and was the first full-time Japanese Formula One driver.
+- EGL
+- Next week - Pinball Quest
+- NEStalgia Byte

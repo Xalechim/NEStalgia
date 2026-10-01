@@ -1,0 +1,27 @@
+# 371 - Rally Bike
+
+- Racers…START YOUR ENGINES
+- Rally Bike is a top-down motorcycle racing game set in the U.S., where players race through six main stages and two bonus stages, aiming to cross the finish line while overtaking a set number of competitors. Players must also dodge obstacles, as crashes significantly reduce fuel.
+- Fuel management is crucial—players must stop at filling stations to refuel, but this gives opponents an advantage since they never run out. Running out of fuel results in a game over unless credits are inserted to continue.
+- Occasionally, a helicopter drops items like turbo boosts or helper bikers who protect against crashes. The NES version adds a shop where players can buy upgrades after each race. The game features a checkpoint system, respawning players at the last checkpoint reached before a crash.
+- Rally Bike match up with Mach Rider
+- TUNE-UP SHOP PARTS
+- If you win a race (place in top ten), you get the option of upgrading your bike. These are the items available. You can only choose one item per visit.
+- ENGINES:
+- 2 cycle type. 0-200 mph. Good when quick engine response is needed.
+- 4 cycle type.
+- 4 cycle type. 0-200 mph. Good for the long straight run.
+- TIRES:
+- Rain Tires.
+- Non-skid.
+- Block Tires. Used for off-road driving.
+- Slicks. Used for highways at high speed.
+- • Know the racing course wel
+- • Other racers tend to swerve in front of you here and there. Make THEM crash; you'll pass them easily!
+- • When you stop for gas, remember that 5 racers will have to pass you before you can go on.
+- Balance gas and winning here.
+- • Helper motorcycles will crash the other racers without any damage to you or them. If you have helpers, then crash all you can!
+- • Certain parts of the course have interesting challenges. For example, on level 2, there is a jump near the beginning right over a blue truck, which then chases you, crashing any motorcycles in it's path. Keep going at top speed, and let the truck do all the dirty work for you!
+- Just make sure you suddenly pull aside and stop when the lane gets clear, as the truck will speed up, and it may crash into you.
+- • Certain parts of the track may be paths, even though they will not look like it. The boat dock in level 2 is a good example. Just do a top speed run.
+- • Make sure you have the right tires. You need the Block Tires in the Phoenix run in order to get top speed.

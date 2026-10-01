@@ -1,0 +1,161 @@
+# 283 - Conflict
+
+- The red wolves are on the prowl
+- NES Longplay
+- Manual
+- War games
+  - Turn Based vs RTS
+- The goal of each of the 16 scenarios is to destroy the enemy's commanding unit. The first player controls the blue (Western Bloc) forces while the computer (or second player) controls red (Eastern Bloc) troops.
+- Each player starts with two factories, at least one of which specializes in air combat units and at least one of which specializes in ground warfare units. On each turn, the player can, if they still have a factory that has not been destroyed, produce one military unit.
+- The player can earn fame points by occupying cities and airports and destroying units of the opponent's army; fame points are lost by losing units of one's army in battle or retreating from battles.
+  - The more fame points the player has, the more powerful units they can produce (e.g. tanks instead of infantry).
+  - The computer always starts with more fame points than the player
+    - the goal of depleting the computer's fame points, usually by destroying powerful red Army units, tends to be a high priority at the beginning of the game.
+- The hexagons can be plains, woods, mountains, barren terrain, shoals, seas, bridges, airports, towns, or factories. The terrain in each hexagon has an effect on maneuverability and the extent to which forces can take evasive action. Units can be repaired, refueled, and rearmed at cities or airports, depending on whether the unit is a ground or air unit.
+- Pace of Play
+  - 3 Units or All Units. This is how many units each player is allowed to use before their turn ends.
+- Presentation of War
+- Strategic Options
+  - Plenty of units and maps, terrains and attacks
+  - Detailed manual grid for unit strength and weakness against other units
+- Map 16
+  - Password
+  - Can’t change your level between maps at any time while going 1 through 15
+- Sequels and Spinoffs
+  - A sequel was released for the Super NES entitled Super Conflict.
+- EGL
+- Next week -  Fisher-Price: I Can Remember
+- NEStalgia Byte - Fuzzical Fighter
+- -[Infantrymen (FS)]-
+- Fame: Free (+300 | -100)
+- Movement: 4
+- Weapons: Carbine (Infinite [AA])
+- Availability: All Missions
+- Summary: The weakest, cheapest and most useless unit. They're only good
+- for capturing structures or being fodder units.
+- -[Commandos (CS)]-
+- Fame: 800 (+300 | -400)
+- Movement: 4
+- Weapons: Carbine (Infinite [AA]), Stinger AT (4 [AA])
+- Availability: 1, 3, 4, 6, 7, 8, 9, 10, 11, 13, 14
+- Summary: An upgraded version of the Infantry. Good versus lightly
+- armored ground vehicles and Infantry. They can damage
+- helicopters a decent amount, but will likely die while doing
+- so.
+- -[M151 (M151)]-
+- Fame: 1000 (+300 | -500)
+- Movement: 6
+- Weapons: Carbine (Infinite [AA]), TOW ATM (8)
+- Availability: 1, 2, 4, 5, 6, 7, 8, 10, 12, 13, 15, 16
+- Summary: Lightly armored, highly mobile jeep. Excels versus Infantry,
+- Commandos, and Supply Trucks.
+- -[Supply Truck (Fuel)]-
+- Fame: 1600 (+300 | -800)
+- Movement: 6
+- Weapons: 12.7mm MG (Infinite [AA])
+- Availability: 1, 3, 4, 7, 9, 10, 11, 13
+- Summary: A lightly armored vehicle that can resupply your troops. Supply
+- Trucks aren't good for combat, so protect them and keep them
+- away from battle.
+- -[M247 (M247)]-
+- Fame: 3000 (+300 | -1500)
+- Movement: 5
+- Weapons: 40mm Machinegun (Infinite [AA])
+- Availability: 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16
+- Summary: A medium armored anti-air vehicle. Excels versus Infantry,
+- Commandos and fighter jets. This thing is a hunk of crap.
+- -[M60-A3 (M60A3)]-
+- Fame: 4200 (+300 | -2100)
+- Movement: 5
+- Weapons: 12.7mm Machinegun (Infinite [AA]), 105mm Tank Gun (14)
+- Availability: 2, 3, 5, 6, 9, 11, 12, 15, 16
+- Summary: Standard tank with medium armor. Excels versus lightly armored
+- vehicles, Infantry and Commandos. Good versus armored vehicles
+- (except T-80s).
+- -[M48 (M48)]-
+- Fame: 4600 (+300 | -2300)
+- Movement: 5
+- Weapons: Carbine (Infinite [AA]), SAM (4 [AA-NG])
+- Availability: 1, 2, 4, 5, 6, 7, 8, 10, 12, 13, 14, 15, 16
+- Summary: A lightly armored anti-air vehicle. Excels versus helicopters.
+- Good versus jets.
+- -[M1A1 (M1A1)]-
+- Fame: 6000 (+300 | -3000)
+- Movement: 5 (6 for Flag Tanks)
+- Weapons: 12.7mm MG (Infinite [AA]), 120mm Tank Gun (14)
+- Availability: All Missions
+- Summary: A heavily armored tank. Excels against all ground units.
+- ========================================================================
+- BLUE AIR UNITS [FG22]
+- ========================================================================
+- -[AH-1S (AH-1S)]-
+- Fame: 2400 (+300 | -1200)
+- Movement: 7
+- Weapons: 20mm Machinegun (Infinite [AA]), TOW ATM (8)
+- Availability: 1, 2, 3, 4, 5, 9, 10, 11, 12, 15, 16
+- Summary: Lightly armored attack chopper. Excels versus lightly armored
+- vehicles, Infantry and Commandos.
+- -[KC135 (KC135)]-
+- Fame: 3000 (+300 | -1500)
+- Movement: 8
+- Weapons: 20mm Machinegun (Infinite [AA])
+- Availability: 8, 14
+- Summary: A supply aircraft which can only resupply other aircrafts.
+- Does not repair damages. Excels versus Infantry and Commandos.
+- -[A-7 (A-7)]-
+- Fame: 3400 (+300 | -1700)
+- Movement: 8
+- Weapons: M61 Vulcan (Infinite [AA]), MK83 Bomb (10)
+- Availability: 1, 4, 7, 8, 10, 13, 14
+- Summary: A mobile bomber jet with low defense. Excels versus all ground
+- units except AA vehicles.
+- -[AH-64 (AH-64)]-
+- Fame: 3700 (+ | -)
+- Movement: 7
+- Weapons: 30mm Chaingun (Infinite [AA]), Fire Dart ATM (12)
+- Availability: 2, 3, 5, 6, 9, 11, 12, 15, 16
+- Summary: An improved version of the AH-1S attack chopper. Excels versus
+- lightly armored vehicles, Infantry and Commandos. Good versus
+- bomber jets.
+- -[F-4E (F-4E)]-
+- Fame: 5000 (+300 | -2500)
+- Movement: 10
+- Weapons: M61 Vulcan (Infinite [AA]), Sparrow AAM (8 [AA-NG])
+- Availability: 7, 8, 13, 14
+- Summary: Cheap mobile fighter jet capable of being mass produced.
+- Excels versus aircrafts.
+- -[AV-8B (AV8B)]-
+- Fame: 5600 (+300 | -2800)
+- Movement: 8
+- Weapons: 25mm Machinegun (Infinite [AA]), MK-83 Bomb (8)
+- Availability: 6
+- Summary: A VTOL bomber jet with average properties. Excels versus all
+- ground units, but is vulnerable to AA vehicles.
+- -[A-10 (A-10)]-
+- Fame: 5800 (+300 | -2900)
+- Movement: 8
+- Weapons: 30mm Gatling Gun (Infinite [AA]), MK83 Bomb (12)
+- Availability: 2, 3, 5, 6, 9, 11, 12, 15, 16
+- Summary: A powerful bomber jet with average defense. Excels versus all
+- ground units, but is vulnerable to AA vehicles.
+- -[F-16C (F-16C)]-
+- Fame: 6200 (+300 | -3100)
+- Movement: 10
+- Weapons: M61 Vulcan (Infinite [AA]), Sidewinder AAM (6 [AA-NG])
+- Availability: 1, 2, 4, 5, 8, 10, 12, 14, 15, 16
+- Summary: A mobile fighter jet with great offensive power. Excels
+- versus aircrafts, Infantry and Commandos.
+- -[F-15E (F-15E)]-
+- Fame: 7000 (+300 | -3500)
+- Movement: 10
+- Weapons: M61 Vulcan (Infinite [AA]), AMR AAM (8 [AA-NG])
+- Availability: 7, 9, 11, 13
+- Summary: A mobile fighter jet with moderate offensive power. Excels
+- versus aircrafts, Infantry and Commandos.
+- -[F-23 (F-23)]-
+- Fame: 7800 (+300 | -3900)
+- Movement: 11
+- Weapons: M61 Vulcan (Infinite [AA]), AMR AAM (8 [AA-NG])
+- Availability: 8, 14
+- Summary: A highly mobile fighter jet with great offensive power. Excels
+- versus aircrafts, Infantry and Commandos.

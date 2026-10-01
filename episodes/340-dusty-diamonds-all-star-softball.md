@@ -1,0 +1,37 @@
+# 340 - Dusty Diamond's All-Star Softball
+
+- Choose your team… and play ball
+- NES Longplay
+- Manual
+- Plenty of Baseball games, but this is my first softball game
+  - In fact the only thing I know about softball is the different bigger ball
+- The Story
+- Mudville is the setting for the classic poem "Casey at the Bat" and hosts the annual World's All-Star Championship softball tournament.
+- Sixty top-ranked players compete on six different fields, ranging from a rocky sandlot to a major league stadium.
+- The tournament's stakes are high, combining the intensity of the All-Star Game and the World Series.
+- Players can get advice from Dusty Diamond, a legendary all-time All-Star, to help their team win.
+- In one-player mode, you compete against the computer to win five elimination rounds and the final championship against the "Amazons."
+- In two-player mode, you can play against another person on any of the six different playing fields.
+- Player Profiles
+- Gary: Decent all-around but not strong enough for a winning team.
+- Ace: Great arm, some power, runs through water well, good outfielder choice.
+- Don: Good pitcher, runs through water.
+- Fuji: Power hitter, can knock down infielders, excellent catcher, good for batting #3 or #5.
+- Slick: Great defense and decent offense.
+- Froggy: Hops around bases, fast, can hit long balls, runs through all obstacles, excellent lead-off or #2 hitter.
+- Diablo: Uses a spiked club, excellent power hitter, perfect cleanup hitter.
+- Mike: Good pitcher, reliable hitter for singles and doubles.
+- The Parks
+- Park Field: Many outfield obstacles, home run line doesn't mean out of play.
+- Island Field: No obstacles, one of the bigger parks.
+- School Field: Fun field, breaking a window with a home run counts as an out.
+- Cliff Field: Few outfield obstacles, one of the smallest parks.
+- Sandlot Field: Numerous obstacles, smallest park, best fielders needed in outfield.
+- Professional Field: Biggest field, tough to hit home runs except for strong hitters like Diablo and Fuji.
+- Hints and Tips
+- Players perform better or worse based on various conditions (e.g., types of pitches, time of day, specific fields).
+- Ideal lineup combines speed, power, and good defense.
+- Sequels and Spinoffs
+- Essential Games List Vote
+- Next week
+- NEStalgia Byte

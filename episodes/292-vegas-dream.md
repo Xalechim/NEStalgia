@@ -1,0 +1,54 @@
+# 292 - Vegas Dream
+
+- This is the fastest paced video game anywhere
+- NES Longplay
+- Manual
+- File this game under the category of things I wanted, but didn’t know I could have
+  - A VEGAS RPG BABY
+  - Anyone here been to Vegas?
+- As a vacationing tourist, you have $700 and a chance to win big. Play Blackjack, Roulette, Slot Machines or Keno in your attempts to horde vast quantities of money and live the Vegas Dream. Along the way there are randomly occurring social interactions with various characters, such as business people, other patrons, or casino employees that based on what you say/do have various results. Thus elevating this game beyond the Arcade and adding in some RPG elements
+- The Games
+  - Blackjack
+    - They are making you do the math!
+  - Keno
+    - Pick between 1 and 15 numbers on a board from 1-80
+    - It then picks 20 numbers and you get money based on whether you got between 50 and 100 right
+    - This is by far the hardest game to win on since it has such unbelievably bad odds.
+  - There is the option to play the games solo without the adventure
+- Your Adventure
+  - Not often do I get to fit my full last name into my character
+    - I chose Mr. Esposito instead of Mr. Michael
+  - Challenged by Casino employees seems kinda strange
+  - Woman Beggar
+    - Lend her 200 and you either get 1k or lose the 200. What’s the game theory here? If my bankroll is 16k I think I’ll take the chance on the potential 800
+  - The Stock Guy
+- An old man will ask you to the lounge (this will occur automatically), where he will then give you the inside track on some "hot stock" opportunities.  You will then have the choice to pick how many shares you want to go in at $200.  Whether you decide to go in on this "can't miss'' venture, you will be updated by the news on what occcurs.  You will
+- either sell your stock for double the original price, or your stock will crash, and you will be out your stock money
+  - The Scammer
+- A Sunglass wearing looking crazy man will approach you, compliment you on
+- your incredible luck, decline playing any games with you, and he wants to
+- buy you a drink.  If you say yes, you go top the bar for a few rounds, if
+- you say no, you still get to gamble on.  He will either give you a ring,
+- which you auction off for a profit, or your character will fall down the
+- stairs and owe the hospital $200 in bills (the ring somehow disappears in
+- all this).
+  - The marriage tree (or how I learned to just say YES to everything)
+    - You can marry multiple times and every time you get the payout as long as you say YES to everything
+- Endings
+- It is possible to win the game by earning over $10 million, at which point the player is seen reclining by a pool with their household staff (assuming the player has moved into a mansion and has hired servants), and then taking a limousine to a show with their partner.
+- “Bring me a beverage….John, the best one. Do you understand?
+- Basically you became a DICK and the game congratulates you for it
+- Should the player lose all their money, the staff at the HAL Palace give the player one final pull on a slot machine in a last-ditch effort to win some more money. If the player wins, they get to resume their gaming; if not, the player is bid goodbye, and a screen appears showing persons heading towards a plane, ready to depart Las Vegas, ending the game.
+- How does it measure up to Casino Kid?
+  - Casino Kid unique feature was the tell system
+  - No walking around the casino, all chance encounters are 50/50 and repeat
+- Sequels and Spinoffs
+  - Vegas Stakes for SNES (also developed by HAL)
+    - Can now walk around casino
+    - Replaced Keno with Craps
+    - The player gets to type in what they plan to do with their winnings. At the end of the game, a couple drive up to a casino with the player's name on it. Also at the end of the SNES version, the game tells the player what they typed in came true.
+- EGL
+- You spend a lot of money in this game, but what is the most you’ve ever spent on a video game?
+  - I bought a PS4 just for Spider-Man so probably that? But in terms of individual games I’d say the Breath of the Wild Master Edition which I bought at Nintendo NYC at Launch.
+- Next week -
+- NEStalgia Byte -

@@ -1,0 +1,44 @@
+# 321 - Jeopardy 25th Anniversary Edition
+
+- 6 years, that’s a long time to run a podcast. But we’ve had some great memories
+  - Like the time we played Jeopardy
+  - And the time we played Jeopardy Junior edition
+- But what about the time we played Jeopardy on our Jeopardy episode…
+- It’s the same game with new questions, so what did we think about the old questions…
+- And you never know what Sean is going to say when it comes to jeopardy
+- Does the show need an ending? The game just ENDS
+- Sequels and spinoffs? Oh yeah you better believe there are plenty…
+- It does need an EGL, who could forget how we voted last time
+  - And it’s the same now
+- Next week - The Last Starfighter
+- NEStalgia Byte - Konami Wai Wai World
+- EP 117
+- Various 2020 references (record date)
+- Remember when we tried to play jeopardy (for entirely too long)?
+- Remember all our "beep"s? 4:00, 8:00, 10:25, 15:49, 18:10, 22:08
+- 9:45, Remember when Mike said Gambit instead of Gamut, and nobody called him out?
+- 22:30 solved race relations (colors of people, pink, puke green, weird brown)
+- EP 228
+- Remember when Mike's audio got much better?
+- What happened to Joe?
+- 1:55 I describe that I hate gimmicky episodes
+- 3:05 why is everything phrased as a question?
+- 8:00 Remember when Mike said "Room for wiggle" and I did call him out on it
+- 17:25 I say how much I hate those kids
+- 21:30 Mike rants about the current state of actual Jeopardy
+- 24:00 fake money or fake cars. What's better?
+- 26:15 we set up false expectations for what we do for the 25th anniversary edition
+- 28:20 analog horror child avatars
+- Episode 1
+- 15:34 - 16:10 I had a lot of uncertainty to what the questions was asking
+- 18:02 - 18:20 Sean had an advantage because he thinks like Mike so he knows what Mike wrote verbatim
+- 20:27- 21:20 I admit that I regret voting excitebike on
+- 24:09 - 24:45 I answer the easiest question on the board
+- 27:05 - 28:36 there are problems with the question input, where if you don’t type it the way they expect it is considered wrong.
+- 30:01- 30:20 - it’s edited in a way that makes it seem like Mike gives us no time to answer
+- 31:50-33:04.   we talk about todays game!
+- Episode 2
+- 0:49 - 1:21 no host? How does that work? Who writes the questions
+- 1:55 - 2:11 Sean hates when we do gimmicks and here we are
+- 7:25 - 8:20 a great mike-ism “room for wiggle”
+- 13:06 Sean does grocery trivia

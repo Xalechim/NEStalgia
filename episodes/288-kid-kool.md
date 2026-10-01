@@ -1,0 +1,33 @@
+# 288 - Kid Kool
+
+- This is the fastest paced video game anywhere
+- NES Longplay
+- Manual
+- What is going on with these claims lately? Jack Nicklaus is the most detailed game ever? And now this is the fastest paced?
+- Platformer
+  - The main character is on a quest to obtain seven herbs needed to help cure a king from an illness.
+- The Mario dilemma - The first game I’ve seen take the WRONG lessons from Mario when trying to copy it
+  - Momentum
+  - Enemies hit twice to kill
+  - Screen scrolling vertically
+  - Probably the only cool addition is the water skip
+- The game will gradually progress from "day" to "night" modes as a timer counts down, with each cycle taking one hour in play time.
+- Wicky the sidekick and other things that appear in the grass
+  - Wicky is your projectile
+  - The other things can help and hurt you
+    - What’s up with the doll that sucks up all enemies on screen and kills em
+- The herbs just being literal herbs is disappointing. A mushroom is the reward for beating the boss?
+- The roulette bonus game
+  - The cash bags you collect in each stage allow for multiple spins of the wheel
+- There are multiple endings to the game, with the ending gained based on the time taken to complete the game.
+  - These range from the king having died if the player takes more than three hours, to being given four other rewards, starting with a bag of money for the fourth best ending, a bag of gold and a high position in the kingdom for the third ending, a chest of gems and the princess for the second ending, and finally a chest of gems, the princess, and the promise to rule the kingdom for the best ending.
+- A little more comedy about the ending
+  - You have to watch him give each of the herbs individually as if it’s possible to show up without all of them
+  - The text boxes just keep stacking over each other
+  - In the bad ending - you know the assistant is sad cause he says “I’m so very sad” and the king is dead and his coffin is just laying where his bed was.
+- Sequels and Spinoffs
+  - The Vic Tokai games Decap Attack (Magical Hat no Buttobi Tābo! Daibōken in Japan) and Psycho Fox are part of the same family of games, sharing various design similarities.
+- EGL
+  - In the time you could learn to control this game you could’ve probably played SMB 1,2,3 so why the heck didn’t you just do that?
+- Next week -
+- NEStalgia Byte - Fire Emblem

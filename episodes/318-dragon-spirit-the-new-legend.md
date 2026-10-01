@@ -1,0 +1,54 @@
+# 318 - Dragon Spirit: The New Legend
+
+- The Blue Dragon must rise again!
+- NES Longplay
+- Manual
+- THE NEW LEGEND cause this isn’t the same as the other Dragon Spirit games you didn’t know existed.
+- Dragon SHMUP
+  - the golden dragon game (easy difficulty level) or the blue dragon game (normal difficulty level)
+    - The "easy mode" that will become available if the player dies during the opening level
+    - The gold dragon is much faster by default, both in movement and attack speed. Additionally, power-up transformations are far more destructive
+    - many of the more difficult levels are removed from this mode
+    - The golden dragon also takes more damage and will face slightly different enemies and bosses. The story for Prince Lace is very different from that of King Amru's tale should the player successfully activate the standard difficulty game.
+  - he player has 360° control within the screen on display
+  - Fire at objects in the air with B and on the ground with A
+- Power Ups
+  - Ground power ups
+    - Blue pods grow your heads (max 3)
+    - Red pods grow your fire rate (max is turbo)
+  - Air Power ups
+    - Increase speed, spread, strength
+    - Make dragon smaller
+    - Two small dragons side by side
+- Locations
+  - Is this Dragon traveling through time AND space?
+    - Paleozoic era
+      - Thematic level design. The meteor/fireballs are being shot at from the boss at the end of the stage
+    - Volcano
+    - Jungle
+      - The enemies that can’t be destroyed but you have to keep killing their offspring that make gates you can’t cross
+      - Bombs to kill boss, but firepower to kill its projectiles
+    - Graveyard
+    - Cave
+    - Glaciers
+    - Deep Sea
+    - Dark Quarters
+    - Dark Castle
+- Iris’ Maids in Blue Dragon mode
+  - Extra life or health if meet a certain criteria after defeating a boss in the first 6 stages
+- Area 1: The maiden always appears, leaves a message.
+- Area 2: Appears if your Firepower is below three, restores your energy.
+- Area 3: Appears at random (50% chance), gives a 1up.
+- Area 4: Appears if your Dragon has less than three heads, restores energy.
+- Area 5: Appears at random (50% chance), gives a 1up.
+- Area 6: Appears if your Dragon has less than three heads, restores energy.
+- STORY
+- SELECT Button not used
+  - The debate continues
+- Sequels and Spinoffs
+  - Dragon Spirit for Arcades
+  - Dragon Saber: After Story of Dragon Spirit
+    - Co-Op
+- EGL
+- NEXT WEEK - Heavy Shreddin'
+  - Not a sequel to our NEStalgia Bytes episode Holy Diver

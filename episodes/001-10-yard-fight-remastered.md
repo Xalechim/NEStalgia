@@ -1,0 +1,47 @@
+# 001 - 10-Yard Fight (Remastered)
+
+- Original Audio file
+- 0f1e946e31b4f91827b4d5fa43b77a49.m4a
+- PART 1
+- Mike: Welcome to NEStalgia.
+- NESTALGIA MUSIC
+- Mike: And this is the inaugural episode of NEStalgia, a chronological exploration of every NES game released in North America. Today's game 10 yard fight, But first we should talk, about who we are
+- Sean: Ohh no no you got It I I can't start this.
+- Mike: That's a perfect introduction to uhhh Sean, so I'm Mike Esposito. I'm a producer over at Nickelodeon, but I love Nintendo probably since I was about four years old when we got a Nintendo 64. So that outdates me and clearly indicates that we are by no means NES experts! Instead we are people who are really interested in video games in general and wanted to explore the NES in order of release.
+- Joe: I'm Joe Kostiw and I'm an aspiring writer, and Mike was pretty dead on with what I am too. As far as my video game experience, I grew up with my Nintendo, but I'm not uhh an NES expert.
+- Sam: What’s up I’m Sam Smith, No relation to the artist and I'm a I'm a PA at Nickelodeon. I grew up with an N64 for a while before I got anything else and so I kind of I got a lot of nostalgia with that. Never played NES before, uh really before this. So this is kind of this is going to be a good time
+- Sean: and I'm Sean. You do not get to know where I work. I started everything with the Super Nintendo. Then I kind of abandoned Nintendo for a while and stuck with PlayStation, Xbox. All that fun stuff until uhhh until recently. So I'm looking forward to playing most of these NES games for the first time.
+- I will interject that this isn’t working and we can’t be expected to just remaster every single episode of NEStalgia just because the quality was shit back then. Joe will suggest commentary
+- END OF PART 1
+- PART 2 - Commentary
+- We will listen to the episode and provide commentary. Eventually, I’ll suggest this isn’t working either because we just suck as hosts. We weren’t good back then and we’re not even good at providing commentary now.
+- END OF PART 2
+- PART 3 – NEW HOSTS
+- Mike: And this is the inaugural episode of Nostalgia, a chronological exploration of every NES game released in North America. Today's game 10 yard fight, But first we should talk, about who we are
+- Sean: Ohh no no you got It I I can't start this.
+- Mike: That's a perfect introduction to uhhh Sean, so I'm Mike Esposito. I'm a producer over at Nickelodeon, but I love Nintendo probably since I was about four years old when we got a Nintendo 64. So that outdates me and clearly indicates that we are by no means NES experts! Instead we are people who are really interested in video games in general and wanted to explore the NES in order of release.
+- Joe: I'm Joe Kostiw and I'm an aspiring writer, and Mike was pretty dead on with what I am too. As far as my video game experience, I grew up with my Nintendo, but I'm not uhh an NES expert.
+- Sam: What’s up I’m Sam Smith, No relation to the artist and I'm a I'm a PA at Nickelodeon. I grew up with an N64 for a while before I got anything else and so I kind of I got a lot of nostalgia with that. Never played NES before, uh really before this. So this is kind of this is going to be a good time
+- Sean: and I'm Sean. You do not get to know where I work. I started everything with the Super Nintendo. Then I kind of abandoned Nintendo for a while and stuck with PlayStation, Xbox. All that fun stuff until uhhh until recently. So I'm looking forward to playing most of these NES games for the first time.
+- —-----------------------------------------------
+- Mike: Let's jump right into our first game, the game that this episode is all about 10 yard fight. I don't think it really needs any introduction. It's a football game that is pretty bare bones, but let's get some initial impressions, Sean.
+- Sean: Well, it's not Madden. It's it's definitely football. I enjoyed, I I enjoyed it from the get go. To be honest, it was very frustrating but I'd say my initial impression was positive.
+- Joe: So yeah, my initial impression was also positive, but it's uh it's not the kind of game that's generally my type of game, not a big sports game kind of guy. I'm always a little skewed at the beginning when I start playing a game. I'm also interested in like how they made it work with the limitations and how you know. So it was I, I mean, I I thought it was well done at first.
+- Mike will interject and say the new hosts aren’t working because they’re still reading our old material. Enough revisiting the old NEStalgia. We need to start over!
+- END OF PART 3
+- PART 4 – 001 10-Yard Fight (Remake)
+- BACK OF THE BOX: 10-YARD FIGHT, You’re the quarterback in this amazingly real football game!
+- We will literally start the show over. Eventually, Mike will mention how we have 672 more NES games after this to which Sean comments that this is going to take 13 years...and that's when Mike realizes we can't just start over. We need to start earlier so that we can finish sooner. Mike says he is going back in time to 1994 to get kid Sean and kid Joe onto NEStalgia and start the podcast then so it will be done in 2006.
+- END OF PART 4
+- PART 5 – TIME TRAVEL VOL 1
+- Now back in time, the year is January 30th 1994. The day the Bills lost their 4th Super Bowl. Mike runs into a distraught young Sean devastated by the loss. He kinda don't care the Bills lost and tells Sean that he knows just what will cheer him up. A podcast where we play all the Nintendo Entertainment System games in chronological order! Sean is weirded out by Mike, but likes the idea of playing video games. Just one problem: "What's a Nintendo?"
+- Mike realizes that he’s time traveled not to our universe, but to an alternate one where Donkey Kong never attacked that Brooklyn Construction Site and thus Nintendo was never created.
+- END OF PART 5
+- PART 6 – TIME TRAVEL VOL 2
+- So Mike goes further back in time to visit Donkey Kong (voiced by the DK sounds from the video games) and convince him that he needs to commit his deadly attack on NYC. Even though listeners won't understand what he's saying I'll fill the gaps in for them. He doesn't understand why he should attack. Mike tells him to just rip off the film King Kong. He's never heard of King Kong. Mike traveled to a universe where DK doesn't ripoff King Kong because the movie was never made!
+- END OF PART 6
+- PART 7 – A NEW PODCAST
+- I go back to the main timeline and tell you guys that NEStalgia just isn't going to work. We need to start a new podcast, not about Nintendo. Not about video games, just some generic true crime BS.
+- 001 - Gilles de Rai. Our new True Crime podcast begins with a story on History's first ever serial killer Gilles de Rai.
+- BACK OF THE BOX – JEEL DEH RAY. Bien mal acquis ne profite jamais
+- We do this for a while until a Multiversal Mike enters the podcast feed and explains that we have to stop the True Crime podcast. In every universe there is a NEStalgia podcast and it's run by Michael Esposito, our world will fall apart without NEStalgia. We agree to do the show, but just pickup where we last left off. The past history, it's time to move on.

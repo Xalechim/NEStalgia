@@ -1,0 +1,21 @@
+# 363 - Kickle Cubicle
+
+- The Kingdom is covered in ice, and it’s likely to stay that way unless Kickle saves the day
+- One of the most nonsensical titles we’ve had on the show yet
+- Irem’s take on Adventures of Lolo
+- One day, Kickle awakens to discover that the Fantasy Kingdom has been frozen by the Wicked Wizard King, who has also trapped its inhabitants inside Dream Bags. Mysteriously unaffected, Kickle embarks on a quest to rescue his homeland, using his unique freezing breath to turn enemies into ice and fight back against the invaders.
+- The player journeys through four distinct lands in the Fantasy Kingdom, following a predetermined order as Kickle. Each land culminates in a boss battle, and after completing all four, a "special game" unlocks, featuring 30 more challenging levels.
+  - Controlling Kickle, the player must solve puzzles on frozen islands by collecting red Dream Bags.
+- Kickle can use his freezing breath to turn certain foes into ice, which can then be used to create walkways over water or eliminate other enemies. Additionally, he can generate an ice pillar in front of him to serve as a barrier.
+- Striker - When you're out of time Striker will appear and come after you. It's possible to dodge him for a moment, but not forever
+- Death - the manual states “You have two options after you lose your last kickle” kickle is taking the place of what we usually refer to in video games as lives. Are they implying their are multiple kickles?
+- Boss descriptions:
+  - GARDEN LAND - KОKЕ
+    - The big bird is bad, and he's after you. Be careful!
+  - FRUIT LAND - PIRO
+    - He is the Lord of Fruit Land now. Can you take it back?
+  - TOY LAND - WICKED WIZARD KING
+    - The Master of Evil himself. He can easily surprise you. Be strong
+- Regional Differences
+  - The Japanese version features more enemies
+  - In Japan, players can tackle levels within each world in any order, whereas the North American and European versions enforce a fixed progression.

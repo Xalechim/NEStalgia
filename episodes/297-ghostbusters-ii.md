@@ -1,0 +1,32 @@
+# 297 - Ghostbusters II
+
+- The Slime is rising fast…who ya gonna call?
+- NES Longplay
+- Manual
+- This game is not a franchise simulator
+- Ghostbusters II, not the video game we thought, but I think for a lot of people also not the movie they hoped for
+- It is spooky season so does GB fall into your halloween movie lineup?
+- Overview
+  - Play as the four Ghostbusters in platforming levels where you must get to the end of the stage while fighting off ghosts, then ride in the Ectomobile in autoscrolling levels also trying to get to the end of the stage, but avoiding ghosts and holes in the streets of NYC.
+    - Not potholes, giant fucking holes
+- The Ghostbusting
+  - This is what people wanted in the first game, but were just treated to that awful slow ending. Now as an action sidescrolling how does it work?
+  - Awkward adjustment of the ghostbuster
+  - Lots of different things going on at different planes with no real need to engage with any of them.
+- The ectomobile
+  - This took no effort at all develop. Just generate ghosts and construction zones
+  - Did the car do a ridiculously long jump in the movie or something?
+- Statue of Liberty Level
+  - Cool to see them work the movie in
+  - It’s a space invaders style level and nothing more
+- The final level
+  - You have to complete it 4 times, each as a different Ghostbuster BUT THEY DON’T HAVE ANYTHING THAT MAKES THEM UNIQUE
+  - No Vigo boss fight
+  - The newspaper knows the plot?
+    - Ghostbusters destroy Vigo before midnight deadline
+- Sequels and Spinoffs
+  - New Ghostbusters II by HAL Labs BUT WE WON’T PLAY IT. Look for it as a Bytes episode maybe
+- EGL
+  - This feels like a Flash game a kid in the early 2000s would’ve put together and uploaded on Newgrounds.
+- Next week -  Ghostbusters II
+- NEStalgia Byte -

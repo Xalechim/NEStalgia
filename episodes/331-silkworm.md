@@ -1,0 +1,49 @@
+# 331 - Silkworm
+
+- Every byte is crammed full of action
+- NES Longplay
+- Manual
+- Vehicle Selection: Silkworm allows players to choose between two different vehicles: a helicopter and a jeep. Each vehicle offers its own unique playstyle and abilities, adding variety to the gameplay experience.
+- Cooperative Gameplay: One of the standout features of Silkworm is its cooperative gameplay mode, where two players can play simultaneously. One player controls the helicopter, while the other controls the jeep. This cooperative dynamic adds a layer of strategy and coordination to the gameplay.
+- Weapon Systems: Both the helicopter and the jeep are equipped with different weapons that can be upgraded throughout the game. Discuss the various weapon options available to players, such as machine guns, missiles, and bombs, and how they can be used strategically to defeat enemies.
+- Power-Ups
+- Bonus items will appear only after defeating the MH SNAKEHEAD helicopter.
+- The item received will depend on the previous item collected.
+- They will progress in this order: Twin Sphere, Turbo Card, and Bonus Pod.
+- Item Name: Twin Sphere
+- A Twin Sphere allows the player to double their firepower
+- Item Name: Turbo Card
+- Capturing this item will allow the player to increase their movement speed.
+- Item Name: Bonus Pod
+- This pod will add 10,000 points to the players point total.
+- Item Name: Eagle Emblem
+- This emblem will appear somtime in Wave 4 or 5.
+- It adds 100,000 points to the players total.
+- Item Name: Condor Emblem
+- The item will only appear if the player collected the Eagle Emblem.
+- It adds 500,000 points to the players total.
+- Item Name: Shield
+- This item will appear whenver you destroy a land mine.
+- When collected the player is invinsible for a short time.
+- Badges
+- Badge Name: Ensign Badge
+- Players begin Wave 1 with this badge.
+- After picking up 5 bonus items, the player is promoted to Lieutenant.
+- Badge Name: Lieutenant Badge
+- Collecting 5-9 bonus items will qulify the player for this badge.
+- Badge Name: Commander's Badge
+- Collecting 10-14 bonus items will qulify the player for this badge.
+- Badge Name: Captain's Badge
+- Collecting 15 bonus items will qulify the player for this badge.
+- Having this badge allows the player to keep the "twin sphere" firing upgrade
+- until the game is over.
+- Enemy Variety: Describe the variety of enemies encountered throughout the game, ranging from ground-based tanks and turrets to airborne helicopters and fighter jets. Discuss how each enemy type behaves and the strategies players can employ to defeat them.
+- Level Design: Analyze the level design of Silkworm, discussing the different environments players will encounter, such as desert landscapes, urban cityscapes, and military bases. Highlight any unique obstacles, hazards, or environmental features that players must navigate through.
+- Boss Battles: Boss battles are a staple of the shooter genre, and Silkworm is no exception. Discuss the challenging boss encounters players will face at the end of each level, including their attack patterns, weak points, and strategies for defeating them.
+- Difficulty Progression: Explore how the game's difficulty ramps up as players progress through the levels. Discuss how enemy patterns become more complex, obstacles become more numerous, and boss battles become more challenging, requiring players to hone their skills to succeed.
+- Replay Value: Consider the game's replay value and how it encourages players to return for multiple playthroughs. Discuss any hidden secrets, alternate paths, or high score challenges that add to the game's longevity.
+- Sequels and spinoffs
+  - Silkworm inspired the game SWIV, while not a direct sequel, it followed the same core gameplay design of a helicopter/jeep team, albeit as a vertically scrolling shooter instead of a horizontally scrolling one and was described as "inspired by" and a spiritual successor by several reviews, both of the time and contemporary, respectively.
+- EGL
+- Next week
+- NEStalgia Byte

@@ -1,0 +1,31 @@
+# 267 - Top Gun: The Second Mission
+
+- You earned your wings in Top Gun. Now let’s see if you can keep em!
+- NES Longplay
+- Introductions
+  - Turns out people didn’t need to wait 25 years for a sequel to Top Gun. It was right here on the NES
+  - Just like the movies, the enemy is never given a name or country
+    - The enemy is not explicitly identified but boss characters are all highly advanced Soviet Union prototypes from the time, and the enemy aces have stereotypical Russian-styled names such as "Gorky", "Demitri", and "Stalin".
+- Gameplay
+  - Adventure Mode - Take off, dogfight, land in only 3 missions
+  - So what’s changed?
+    - New Graphics (the best dogfighting we’ve seen on the NES so far?)
+      - The first game looked a little bit more early computer like. Especially with the way information was read out. In this one, everything in the cockpit is a bit more seamless
+      - Another game where nearly everything in the cockpit is of use, even if you don’t know it.
+        - There are 4 vertical lights near your radar that will go off when what they are particularly checking for is achieved. For example, the third light from the top lets you know you have a missile lock on the enemy
+    - More references to real aircrafts and missiles
+- PHEONIX - You get 20 missiles.  The range pretty much takes up the entire vertical length of your viewscreen, and roughly half of the length.
+- SPARROW - You get 40 missiles.  The range is roughly 2/3 the size of Pheonix.
+- SIDEWINDER - You get 60 missiles.  The range is about 1/2 the size of Pheonix.
+    - An improved landing sequence
+      - Mostly because it’s shorter, but also because the information is more clearly displayed to the player
+    - 1 vs com or another play in ariel dogfighting
+  - Is it enough or is this what we would now consider DLC?
+- Sequels and Spinoffs
+  - Top Gun: Guts and Glory
+    - Game Boy game that attempts to do the whole flight simulation thing that the NES games are doing. Pretty crazy task
+  - Top Gun: Firestorm
+    - Isometric flight combat game for the GBC and GBA
+- EGL
+- Next week - Top Players' Tennis
+- NEStalgia Byte - Chaos World

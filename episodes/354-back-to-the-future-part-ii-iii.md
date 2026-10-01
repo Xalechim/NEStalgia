@@ -1,0 +1,32 @@
+# 354 - Back to the Future Part II & III
+
+- 2 action packed adventures in 1 great game
+- Is this a good deal or do you assume its gonna be half assed?
+- Gameplay Loop
+- Side-scrolling Platformer & Item Collection: The game combines side-scrolling platform mechanics with a puzzle-solving element that involves collecting and using items.
+- Time Travel Mechanics: Players must navigate different timelines, which include 1955, 1985, 2015, and an alternate 1985. Time travel plays a crucial role, as players need to correct events to ensure the timeline remains intact.
+- Each stage involves retrieving various items that have been scattered through time, and players must use these items in the correct places to fix events in the timeline.
+- Key Features of the Game
+- Multiple Playable Time Periods: Players get to visit several time periods from the Back to the Future series, each with its own unique visual design and enemies.
+- Item Inventory System: Collecting and using the right items at the right locations is crucial to progress in the game. This feature adds a layer of strategy beyond simple platforming.
+- Unique Objectives per Level: Unlike many NES platformers that focus on reaching an end goal, this game requires players to fulfill specific objectives, in the form of mini puzzle collecting games
+- DELOREAN
+  - After finding the remote control to summon the DeLorean, players can time travel between 1955, 1985 and 2015. However, adequate fuel must be collected before being able to time travel using the DeLorean.
+- Each time the player time travels a clone of Marty is created in that year which, when touched, will instantly kill the player.
+- Some platforms are out of reach in certain areas which need to be accessed to progress through the level. A player can plant an acorn in 1955 and then revisit that same location in 1985 or 2015 where a full-grown tree appears, allowing the player to access the previously unattainable space.
+- What Makes It Unique/Different from Other NES Games
+- Non-Linear Progression: Players must figure out the correct sequence of actions across different time periods, which sets it apart from the linear design of many NES games.
+- Challenging Puzzles Mixed with Platforming: The combination of platforming and item-based puzzle-solving offers a different challenge than purely action-oriented NES titles.
+- How Closely It Follows the Movie
+- Thank goodness Marty didn’t need to fix all these things
+- Frustrating Parts of the Game
+- High Difficulty Level: The game is notorious for its unforgiving difficulty, with relentless enemies, strict time limits, and challenging platforming sections.
+- Confusing Item Usage: The item-based puzzles can be cryptic, often leaving players unsure about how or where to use certain items. This lack of clarity can lead to a lot of trial and error.
+- Repetitive Gameplay: The constant backtracking between time periods can feel monotonous, especially if players don’t solve puzzles quickly.
+- Limited Lives & Continues: The game's harsh penalty for failure, including losing all progress upon running out of lives, can make it frustrating for players.
+- Other Back to the Future Games
+- Back to the Future 4 (NES): Pirate game for China. Just has a BttF 4 logo and then its blaster master
+- Back to the Future 2 on Genesis starts off with a hoverboard level that feels like paperboy
+- Back to the Future 3 on Genesis starts with Doc riding a horse and dodging every fucking thing in the wild west
+- SUPER BttF 2 on Super Famicom gives a chibi look and involves platforming with the hoverboard to defeat enemies. Much kinder than this game.
+- Back to the Future: The Game (Telltale Games, 2010-2011): A highly regarded episodic adventure game that serves as a narrative sequel to the movie trilogy, praised for its storytelling and character interactions.

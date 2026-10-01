@@ -1,0 +1,40 @@
+# 306 - Wrath of the Black Manta
+
+- FOR EVERY CRIME, THERE IS PUNISHMENT
+- FOR EVERY VICE, THERE IS VENGEANCE
+- NES Longplay
+- Manual
+- Ninjas
+- STORY
+  - Children in New York are being kidnapped. Your sensei’s students is one of them. This persuades Black Manta to stop it. Is this really a job for a Ninja?
+    - The “children” you save
+- Control of your Ninja
+  - The limited options of gameplay outcomes
+    - Enemies attack either straight on or in a crouched position.
+- Exploration in the levels
+- ninja arts
+  - The convoluted method to use these Ninja Arts
+  - Usefulness and Uniqueness
+- Hidden Walls
+  - You gotta hit it like 20 times
+- TINY
+- GO TO JAPAN
+- The Kite Flying levels
+  - SHMUP like stages
+- Random Over the shoulder Ninja Star level in the final level
+- The confusing sprite of the final boss
+  - Looks like two kids with one on top of the other
+  - A guy with a huge head using a kid as a shield
+- The anti-drug reference
+- Version Differences
+  - The graphics in these scenes are less in the style of anime or manga and more realistic in the U.S. and European versions.
+  - The Japanese version also has him shoot a projectile from his fists
+  - The Rio de Janeiro stage on the Japanese game has a boss creature made of electricity, where in Black Manta the boss is replaced with the Voodoo warrior.
+  - the sprites used for jumping upward are different in both versions.
+  - There are six stages in Ninja Cop Saizou where Wrath of the Black Manta only has five
+  - In Ninja Cop, the players must take on all of the bosses from the previous levels, where in Black Manta, they only have to take on BLANK
+  - The final boss is also completely different in both games. In Black Manta, the player only has to fight a character named El Toro using four of the ninja arts. In Ninja Cop, the player has to take on a space ship which drops a variety of enemies from the game. After that, the game's final boss transforms into an alien, which the player must fight normally, unlike having to use ninja arts like in Black Manta.
+  - both games have completely different soundtracks
+- EGL
+- Next week -  XEXYZ
+- NEStalgia Byte -

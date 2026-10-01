@@ -1,0 +1,34 @@
+# 355 - Garry Kitchen's Battle Tank
+
+- Climb in and discover the Earth shaking power
+- Garry Kitchen…not quite Sid Meir
+- Michael Esposito’s NEStalgia
+- Donkey Kong (1982, Coleco) arcade port 2600
+- Garry Kitchen's Gamemaker (1985, Activision) C64
+- A Boy and His Blob: Trouble on Blobolonia (1989, Absolute Entertainment), co-design and programming, with David Crane (whose name IS on the box)
+- Gameplay Loop
+- First-Person Tank Combat: The core gameplay is a first-person perspective tank simulator where you control a tank in various missions. Players must navigate 3D environments, destroy enemy vehicles, and complete mission objectives.
+- Mission-Based Structure: Each mission has a specific objective, such as destroying a certain number of enemy tanks, reaching a waypoint, or protecting allied units.
+- Resource Management: Players must keep an eye on their tank’s limited ammo, fuel, and armor. Picking up supply drops or strategically planning movements becomes crucial for survival.
+- Enemy Encounters and Strategy: The game requires both offensive and defensive tactics. Players must decide when to engage or retreat to preserve resources and complete their missions.
+- Key Features of the Game
+- 3D Graphics on NES: The game uses pseudo-3D graphics to simulate a realistic tank experience. While primitive by today’s standards, it was ambitious for the NES and delivered a unique visual experience.
+  - HUD and Tactical Elements: The game features a detailed HUD showing fuel, armor, speed, and radar. Players need to understand and use the information effectively to plan their moves and react to threats.
+- Simulated Tank Controls: The game uses realistic tank mechanics, including independent control of the turret and the vehicle’s movement, making it feel more like a tank simulator than a typical arcade game.
+- Varied Mission Objectives: The missions change up the gameplay by requiring different strategies, from all-out assault to careful navigation and resource management.
+- What Makes It Unique/Different from Other NES Games
+- Complex Control Scheme: Unlike simpler NES games, Battle Tank has a more complicated control setup, which involves steering, aiming, and firing with precision. This added complexity gives it a strategic edge over most action games.
+- Frustrating Parts of the Game
+- Difficult Learning Curve: The controls are complex and can be hard to master, especially for players used to simpler, more intuitive NES games. This makes the game less accessible to casual players.
+- Slow-Paced Gameplay: The game’s simulation aspect can feel sluggish compared to the fast-paced action of most NES games, which may frustrate players looking for a more traditional arcade experience.
+- Limited Field of View: The restricted viewing area makes it easy to get ambushed by enemies or run into obstacles. Constantly monitoring the radar is essential, which adds to the challenge but can also feel cumbersome.
+- Other Tank Games Released on the NES
+- Iron Tank: The Invasion of Normandy: A top-down action game where players control a tank in World War II settings. It’s more of a fast-paced action experience compared to the simulation-style of Battle Tank.
+- Garry Kitchen's Super Battletank: War in the Gulf (SNES): While not on the NES, this sequel continued the realistic tank combat experience on a more powerful system, showing the evolution of the genre from the NES roots.
+- Super Battletank 2
+- Improved Mission Variety and Complexity
+- Super Battletank 2 offers more varied and complex missions compared to the simpler, straightforward objectives in the original game. The missions often have multiple stages, such as clearing areas of mines, escorting friendly units, or performing stealthy reconnaissance.
+- Missions also require players to prioritize objectives and sometimes complete secondary tasks to ensure success, adding more depth to the gameplay.
+- 3. New Weapons and Technology
+- The game introduces new weapons and advanced tank technology. One notable addition is the use of infrared scanners, which allow players to detect enemies more easily in different visibility conditions, such as during night missions or in dusty desert storms.
+- Players have access to an upgraded arsenal, with improved firepower options to deal with various enemy types and strategic threats.

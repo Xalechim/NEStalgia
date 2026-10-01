@@ -1,0 +1,27 @@
+# 228 - Jeopardy Junior Edition
+
+- We have the questions, do you have the answers?
+- NES Longplay
+- Introductions
+  - We’ve already played this. And we had more fun with it. Should we try to talk more about the game this time?
+- Overview
+  - It’s Jeopardy! With supposedly easier questions
+- Gameplay
+  - A little under the hood here for a minute.
+    - There are 348 categories, in 58 groups. The categories aren’t randomized so you will only get the category Flintstones with the same other 5 categories. A quick reset will fix the repetitive questions.
+    - There are only 29 Final Jeopardy questions though. Which checks out mathematically, but makes it more likely you might run into a repeat.
+  - Quality of the Questions
+    - This is the kind of questions we should be asking NES players
+  - Computers
+    - More gargling answers - that also give you a hint at the answer?
+  - Strategy
+    - James Holzhauer strategy, pick up all the big money first and then go ALL IN on the daily double so that no one could catch up.
+    - The only issue, you gotta know all the answers
+  - Age of the questions
+  - The game just ENDS
+- Sequels and Spinoffs
+  - Jeopardy!: 25th Anniversary Edition
+  - Super Jeopardy! (last time)
+- EGL
+- Next week - Romance of the Three Kingdoms
+- NEStalgia Byte - Tower of Druaga

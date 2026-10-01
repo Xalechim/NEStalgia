@@ -1,0 +1,27 @@
+# 300 - Pin*Bot
+
+- Dares you to survive
+- NES Longplay
+- Manual
+- It is a conversion of the pinball machine by the same name[2] (developed and manufactured by Williams in 1986).
+- The asterisk between pin and bot a representation of the ball
+- A cool concept for a pinball machine, but does it translate when it’s in video form instead of a physical ROBOT
+  - the synthesized speech of Pin Bot, though gameplay is interrupted while its phrases are being played back.
+- The player starts with a lit marker set on Pluto and advances through the Solar System by hitting various lit targets.
+- The screen splits to show the ball and the flippers simultaneously.
+  - Was this ever a problem for you in other NES pinball games?
+- Reaching a certain checkpoint planet (Saturn, Jupiter or Mars, and the sun) awards an Extra Ball.
+- A 5x5 grid sits in front of Pin Bot's visor, and two banks of targets on the top and side of the grid allow the player to light the grid one or two units at a time. Once the grid is fully lit, the visor opens, allowing the player to lock the ball. Locking a second ball in the visor starts a two-ball multiball mode, during which scores are doubled.
+  - Scoring a Solar bonus during multiball causes the playfield to change, effectively resulting in six different "levels" of playfield. The shape of the playfield and the locations of all targets remain the same throughout the game, but the playfield's color scheme changes and different enemies begin appearing after Level 1. Level 2 introduces a blob that advances through the planets, then when sitting on top of the Sun lamp, attempts to suck in and eat the ball, spitting out fragments of the ball if successful. In Level 3, a plane flies around the playfield, occasionally holding a missile that drops when the plane is destroyed by the ball or disappears on its own. The missile drops toward one of the flippers, damaging or destroying the flipper if allowed to reach it. Level 4 features the same plane, but the plane can now catch the ball and carry it away. Levels 5 and 6 both introduce a snake that appears in the outlanes and attempts to grab the ball, pulling it into the outlane. In all cases where the ball is "captured" by an enemy, the enemy can be defeated by "shaking" the machine repeatedly.
+- In addition to changing the playfield, certain bonuses and level advancements also cause the ball to change from a sphere to a triangular wedge, then finally to a cube. Each new shape of ball is faster and more difficult to control than the last, but otherwise behaves identically to the original ball (the physics simulation is not altered).
+- Sequels and Spinoffs
+  - Bride of Pinbot (1991)
+    - This is the real deal and one of my favs
+  - Rare reused Pin Bot's game engine in another pinball simulation for the NES, High Speed (1991)
+  - Jack Bot (1995, casino theme)
+  - Pinball arcade had faithfully recreated these games but lost the license so if anyone knows a better way to play these please let me know
+  - Silverball Retro Arcade has this physically
+- EGL
+- Next week -  EPISODE 301 - Snake’s Revenge
+- NEStalgia Byte - Honoo no Doukyuuji: Dodge Danpei
+  - (HOE-NO NO MICHI-KOJI DODGE DEN-PIE)

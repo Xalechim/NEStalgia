@@ -1,0 +1,29 @@
+# 274 - Super Spike VBall
+
+- Bump Set Spike Kaboom
+- NES Longplay
+- Introductions
+  - Volleyball having a moment or just a bunch of duplicate games hitting the NES lately?
+- Overview
+  - Composed of four screens, which, by proportion, would be about as long as two standard pinball tables if it were a real table.
+- Character Select
+  - Al’s screen has a different color text just for the letter U in the word YOU. Symbolic?
+  - Billy and Jimmy (the heroes of the Double Dragon series)
+  - Unusual STATE SELECT
+    - The stages in the game are (Daytona Beach, New York City, Chicago, Las Vegas and Los Angeles
+- Gameplay
+  - Tons of controls and moves
+  - Am I missing something in the early game? Provided you can time your jump and spike, the rest of the game is just kinda autoplay? Essentially, as long as you’re spamming the A button when the opposing team returns the ball it seems like your players automatically target and volley the ball.
+  - Tournament
+    - Different circuits
+      - The World Cup mode consists of seven teams in the following order: Japan, Italy, Australia, Mexico, Brazil, the Navy and USSR, all set to a hard difficulty. The background for the Russian stage was also redrawn to make it look less hostile with the omission of the tanks in the Famicom version.
+  - The real game is the cooperation between 2 players. I don’t think there’s enough here solo
+- Female teams
+  - Four additional female teams are present in the game but are inaccessible to the player under normal playing conditions. Using a cheating device the teams become selectable.[2] Even though they are fully playable in-game the images representing the female teams in the team selection screen are missing resulting in garbled graphics being displayed instead.
+- Sequels and Spinoffs
+    - We will cover this game again in our Super Spike VBall/ Nintendo World Cup 2 pack episode
+    - Aracdes
+      - The Japanese release (U.S. Championship Beach Volley: V'Ball) features an opening cut-scene explaining the plot. Between matches, intermission sequences depict the main characters visiting a car dealership to purchase a vehicle. As the player progresses, the cars increase in quality, shifting from used cars to new cars during the Major Circuit. The American release (U.S. Championship V'Ball) removes these cut-scenes but extends the multiplayer support to up to four players with multiple game modes (1 or 2 players against the computer, 1-on-1, 2-on-1, or 2-on-2).
+- EGL
+- Next week -  SUPER MARIO BROS 3
+- NEStalgia Byte - Cocoron

@@ -1,0 +1,29 @@
+# 273 - Rollerball
+
+- The action packed pinball game with the distinctly American touch
+- NES Longplay
+- Introductions
+  - That American touch includes ZERO American game designers. This is HAL labs with Satoru Iwata
+    - The American touch is the ESB and the Statue of Liberty
+  - Why all the Pinball suddenly? Back to back months after YEARS of no pinball (Pinball launch game WAS made by HAL)
+- Overview
+  - Composed of four screens, which, by proportion, would be about as long as two standard pinball tables if it were a real table.
+- Gameplay
+  - On the main menu it looks like 2 modes are locked
+  - The layout
+    - Is there a lot going on?
+    - The longer table makes for longer play
+  - Pinball Physics
+  - Pinball vs Video Game
+- Match Play
+  - 2 Player mode, smaller screen, The first player to lose all his or her points loses.
+  - In the Japanese version, the left player's animal is an elephant, and the right player's is a giraffe. In the English version, the giraffe was changed to a donkey, likely in reference to the Republican and Democratic U.S. political parties.
+- Sequels and Spinoffs
+    - HAL wouldn’t stop making pinball games
+      - Kirby’s Pinball land
+      - Pokemon Pinball
+      - Revenge of the Gator
+      - I’m sure there are more
+- EGL
+- Next week - Super Spike V'Ball
+- NEStalgia Byte - Cocoron

@@ -1,0 +1,26 @@
+# 333 - Starship Hector
+
+- From out of darkness…shall arise a challenge to your wisdom
+- NES Longplay
+- Manual
+- In the Star Year of 2038, the Fourth World War on Earth destroyed all of mankind. The Starship Hector was thousands of light years away on an exploration mission. Upon their return to what is now Ancient Earth, the Starship Hector found Earth to be desolate and inhabited by gruesome bio-mechanical creatures. Starship Hector must fight it's way past many different empires of these bio-mechanical creatures to save Earth's future.
+- Combines vertical scrolling and side-scrolling stages
+  - Better to mix it up or do you prefer sticking to the same viewpoint?
+  - This switch requires players to adapt to different control schemes and enemy behaviors, increasing the overall difficulty.
+- No Power-ups: Unlike many contemporaneous shoot-'em-ups, "Starship Hector" does not offer power-ups. Players cannot upgrade their ship or weapons, making it crucial to master the basic tools provided.
+- LIFE METER
+  - No 1-hit KOs
+  - whenever you die you're sent back to the start of the level even during a boss fight
+- uncover all characters from the name HECTOR
+  - which are hidden exclusively in vertical levels below circular ground areas the same size of regular turrets. Hit these spots with ground bombs to reveal them, then hit them again to uncover the letters. There's more than one of the same characters within the same level
+- Unique Locations
+  - Based off various civilizations
+- Bosses
+  - Unique fights
+- Allegedly a Star Soldier Spinoff. Remember that?
+  - ​​Star Soldier's game play is very similar to its predecessor Star Force, with the player having to to fend off flying enemies and hit ground targets for extra points. Players control the Caesar, which can be upgraded to fire in five directions simultaneously.
+  - Stages have features known as "Trap Zones", where the player can dive in the background and become protected against enemy bullets and collisions but be unable to shoot as well. The game consists of 16 stages, with a boss at the end of each. If the player fails to defeat the boss in time, it will be taken back to the midway checkpoint in the stage and be forced to play the second half of the stage again.
+- Known as Hector87 in Japan
+- Essential Games List Vote
+- Next week
+- NEStalgia Byte

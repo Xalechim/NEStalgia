@@ -1,0 +1,33 @@
+# 329 - Rocket Ranger
+
+- The 21st Century needs you!
+- NES Longplay
+- Manual
+- The 21st century needs us
+- Rocket Ranger is the rocketeer
+- Cinemaware
+  - Defender of the crown
+  - Three stooges
+  - They’ll go bankrupt next year in 1991
+- Aliens have invaded earth and they’ve brought their own moon
+- They have the technology to bring their moon to the earth, but their military capabilities are stuck in WW2
+  - They traveled through space on zeppelins?
+- Okay so clearly this is a censored game. It was Nazi germany and hitler was all over the original Amiga version of the game
+  - So it’s still science fiction but loses some of the steampunk?
+  - Aliens do show up in the OG game though. Turns out there’s a galactic federation of fascists
+- Strategy Action game
+  - The war room shows the world map and who controls what territories
+  - You can assign agents to areas for recon
+    - Find items required to get to the moon or help delay the US invasion
+  - You can’t stay in the US for more than a year or you will be arrested for cowardice
+  - As much as it is a territory control game, it also winds up being a resource management game (You need Lunarium)
+    - Fuel Depot to transfer
+    - Rocket Lab to keep track of what pieces you’re missing
+    - Take Off to other destinations requires lunarium
+- Combat with the aliens
+- Sequels and spinoffs
+  - A kickstarter remake was fully funded in 2014 and fully canceled in 2015
+  - Malibu comics published 5 issues of a comic based on the game in 1991, but it ends on a cliffhanger. Never finished
+- EGL
+- Next week - Shingen the Ruler
+- NEStalgia Byte

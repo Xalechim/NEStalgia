@@ -1,0 +1,36 @@
+# 326 - Pinball Quest
+
+- Once you’ve seen Pinball Quest, you’ve seen everything
+- NES Longplay
+- Manual
+- Pinball can be just about any genre once you bring it to video game. Where’s the Battle Royale, Fighting Game, Point and Click, SHMUP Pinball games?
+- Plot
+- Physics
+- "RPG mode"
+  - Control the silver pinball and progresses through a six-level castle to rescue Princess Bali from Beezelbub, the "Dark Lord of the Machine."
+  - It’s all done via flippers across many screens.
+  - Accomplish objectives, such as hitting targets or defeating an enemy.
+  - Earn gold which can be spent at the Black Market, purchase upgraded flippers and stoppers.
+  - STAGES
+    - Tomb (the Captain's Spirit, skeletons)
+    - Gate (Ziffroo the witch, demon dogs)
+    - Goblins (goblin kids, goblin guards)
+    - River ("toitles," "Wheel O' Luck," dark knights)
+    - Harpy (harpy, demon guards)
+    - Throne room (Beezelbub)
+- "Circus"
+  - A standalone pinball cabinet, but it’s actually casino themed?
+- "Viva! Golf"
+  - Thought it was gonna be some crazy golf game where each hit of the flipper counts as a stroke, but it’s actually just a gopher lawn care clean up game
+- "Pop! Pop!"
+  - Bowling meets Billiards. No really, it’s both of those combined
+  - Compete with friends to knock down pins to enter a jukebox to land on a billiards table and shoot the balls into the pockets
+- Sequels and spinoffs
+  - Some related pinball games
+    - Living Ball Released 1994 on Amiga, 1995 on DOS
+      - Living Ball boasts of "the largest pinball table ever created", and can back it up with the 99-level table "Wasteland"
+    - Yoku’s Island
+      - Not RPG, but Metroidvania like pinball game
+- EGL
+- Next week - Pinball Quest
+- NEStalgia Byte

@@ -1,0 +1,31 @@
+# 338 - Crystalis
+
+- High adventure under the big top
+- NES Longplay
+- Manual
+- Promising start to a game
+  - Code Name instead of just asking for you to give your name
+  - But the enemies don’t attack for a while
+    - But the collision detection is terrible at times
+- A bit of a Zelda clone. Elder in a house gives you a sword
+- The game begins with a young magician awakening from the cryogenic sleep he was placed in by the villains of the Great War before nuclear war rained down in the year 1997. Even though he is unable to recall his name or who he was, he exits the Mezame Shrine and discovers that he may be the key to save this world from destruction. Aided by four wise sages and a mysterious woman, he rises up against the tyrannical Draygonian Empire to ensure that humanity ultimately does not repeat the Great War.
+- Leveling/Experience
+  - Armor and Swords, also strength HP and MP
+  - Magic
+  - GRIND
+- Four Elemental Swords
+- bosses and enemies require the hero be a certain level or else they cannot be harmed, even if the correct sword is used.
+- Towns
+  - Running into people to talk
+- Dungeons/Clues
+- Emperor Draygon is the ultimate antagonist and the root of all of evil in Crystalis. After defeating his false self, the hero encounters the real one and reveals his true, dragon-like form. After defeating the real Draygon, the hero gains access to the Tower for a final showdown[4] with a machine called DYNA.
+- To pause the game press B on the second controller.
+  - To warp from one place to another while playing, do this. Press A + B on Controller One while holding A on Controller Two. A screen will appear where you can warp to several different places.
+- Sequels and Spinoffs
+  - Nintendo, with licensing from SNK, re-released Crystalis for the Game Boy Color on June 26, 2000.
+    - Plot Changes regarding the tower and the hero’s origin
+    - In the Game Boy Color version, the players go to the flying tower directly (which has been shortened compared to the original). Once inside, the players fight DYNA and then fight Draygon's two forms. The re-ordering of these last battles caused Azteca's death scene to be excised from the game.
+    - Unlike the original version, enemies are not immune to certain elemental swords.
+- Essential Games List Vote
+- Next week
+- NEStalgia Byte

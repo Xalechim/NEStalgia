@@ -1,0 +1,27 @@
+# 301 - Snake's Revenge
+
+- The following commands may be ignored by cowards, traitors, and enemy spies
+- NES Longplay
+- Manual
+- Without the involvement of series creator Hideo Kojima, who went on to develop a separate sequel for the MSX2 titled Metal Gear 2: Solid Snake
+  - a sequel produced specifically for the Western market.
+  - When interviewed by Steven Kent in 1999, Kojima stated that he enjoyed Snake's Revenge and that he thought it was "faithful to the Metal Gear concept".[4] While Kojima once jokingly stated that Snake's Revenge was "somewhat of a crappy game" during the 2009 Game Developers Conference,[5][6] he later stated in an interview with Nintendo Power that he doesn't consider it to be a "bad game".
+- Is it a noticeable improvement over the first Metal Gear?
+  - Still have to select the right key card
+- Snake's maximum health and carrying capacity are determined by his rank, with the highest level being six stars
+- The player will also encounter enemy officers in certain rooms who can be interrogated by applying truth gas unto them. Successful interrogations are counted alongside rescued hostages for promotions.
+- Instead of dialing frequency numbers, Snake now has a set list of three contacts (John, Nick, and Jennifer) that he can communicate with and a radar that is activated whenever it detects a tracking signal transmitting from a nearby area. Unlike in the original Metal Gear, the transceiver cannot be used when the player enters alert mode.
+- Side-scrolling action
+  - Really lackluster
+- Ending
+  - Snake confronts the enemy's commander, who reveals himself to be a cybernetically enhanced Big Boss, having survived his previous encounter with Snake. Snake defeats Big Boss and rescues Jennifer, who shows him to the storage facility where Metal Gear 2 is located. Snake destroys the weapon before its launch countdown is completed.
+- Sequels and Spinoffs
+  - Metal Gear 2: Solid Snake
+    - Instead of remaining stationed in one screen like in the first game, enemy soldiers can now patrol different screens across a single map.
+    - The transceiver has also been greatly revamped from the first game as well, with conversations now being context-sensitive rather than being simply area-oriented. The transceiver screen now displays the faces of Snake and the radio contact he's currently communicating with.
+    - a number of puzzles must be fulfilled to complete the game, such as luring a carrier pigeon with a specific kind of ration, chasing after a female spy to the ladies' lavatory, and deciphering secret tap codes to gain new frequency numbers.
+- EGL
+  - The first Metal Gear wasn’t perfect, and this did add new features, but I feel like I prefer the simplicity of the stealth and navigation in MG over Snake’s Revenge
+- Next week -  Snoopy
+- NEStalgia Byte - Honoo no Doukyuuji: Dodge Danpei
+  - (HOE-NO NO MICHI-KOJI DODGE DEN-PIE)

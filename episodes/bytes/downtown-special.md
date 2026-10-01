@@ -1,0 +1,37 @@
+# Downtown Special: It's Kunio-kun's Period Drama, Gather Everyone!
+
+- NES Longplay
+- The follow up to River City Ransom
+- It’s a period play
+- During the Edo period, Bunzō (Gōda) used to be the strongest street fighter. However, ever since the Torazō (Kumada) family began engaging in evil deeds, he has lost his power and even found himself bedridden with disease. While the Torazō family continued their wicked ways, a vagabond named Kunimasa (Kunio), entered the scene! He had come to repay the good turn he owed to Bunzō for his earlier kindness, but when Kunimasa arrived, he was instead met by Bunzō's only daughter, Okoto, and her stuck-up fiancé! What's more, a mysterious duo suddenly appeared out of nowhere and kidnapped Okoto! To rescue her and save the Bunzō family, Kunimasa goes on an adventure with his sidekick, Tsurumatsu (Sonokawa).
+- The Setting, is this the kind of follow up you want to River City Ransom. It’s the difference between GTA and Red Dead
+- The game's objective is to defeat all of the game's bosses. This requires fighting each of the enemy clans to make them appear. Once the final boss is defeated, the player simply has to return to the Bunzō family house to complete the game (no enemies will be around after the final boss is defeated).
+- AI Two Player
+- Many adjustable Settings
+- Stats
+- in this game there are more items that can be equipped to raise stats. The stats that items increase can stack if more of the same item is equipped at once. There's an item in the game that can be used to double the stat bonuses of equipment.
+- instead of increasing stats by consuming items like in Downtown Nekketsu Monogatari, the game features a separate menu to configure a character's stat growth. The character has a maximum of 100% to allocate to each style freely. Upon defeating 10 enemies, the character's stats will increase depending on how these percentages were placed. An item can be used to double the percentage increase on each level up.
+- New moves
+- Stomp: Pressing both buttons at the same time when standing in the same area as a fallen enemy will have the character jump slightly and stomp on the downed opponent, making additional damage.
+- Leg Grab: Pressing the B button near a downed enemy will have the character grab them by the legs. The player can use enemies as a weapon this way by pressing the A button, performing a spinning attack. Pressing the B button will have the character perform a Giant Swing, spinning the opponent around and then throwing them.
+- Mach Punch: Three rapid punches, Rikigorō's trademark technique. This technique can be purchased or learned during combat. This technique will replace a normal punch.
+- Mach Kick: Three quick kicks, Kunimasa starts the game with this technique. It can also be purchased and learned through combat, it replaces a normal kick.
+- Mach Strike: Three rapid strikes with any weapon, this technique can be purchased or learned during fights.
+- Mach Twist: The character does three rapid twists to a downed enemy. This technique can be purchased in shops. Tsurumatsu has the technique by default.
+- Mach Swing: A stronger version of the Giant Swing, this move is only available by using the Koganemushi code. None of the bosses and any of the shops have this technique.
+- Mach Stomp Stomp: The character will perform three consecutive stomps. This technique can be purchased and learned from combat. Tamekichi uses this move.
+- Screw: A somersault attack performed during a running jump, it is Yonosuke's trademark move. The character's jump will be shorter at the cost of having a powerful jumping attack. This move can be purchased or learned through combat.
+- Nitro Attack: Kinsuke's special move, performed by pressing the directional pad twice in the direction of the desired target. The character will warp right in front of an enemy and knee them in the face. This move is found in shops and can also be learned through fighting.
+- YOU CAN LEARN THESE by fighting bosses with the black belt on
+- Bosses can optionally join your cause and you can switch them out with the second player
+- At any time during the game, the player has access to the game's map by pressing the B button while the game is paused. The player can also purchase a Map Cursor in one of the mystery stores that allows the player to immediately travel to any location in the game.
+- Sankichi's Amulet
+- After Bunzō is cured and joins, returning to his house will have Sankichi gift Kunimasa with an amulet, which raises Defense by 20. The amulet has another effect that is never told by the game. The character equipped with the amulet will be ignored by enemies. The player can willingly make the game harder or easier by deciding which player or if the AI companion equips the amulet.
+- 4-Players Mode
+- At the mode select screen, place the cursor on Kunimasa and hold either left or right on the directional pad, then press the B button and Start at the same time. If the player hears the sound when the character's level up the code will have worked. Now a third and fourth player can control enemies and bosses.
+- Spectator Mode
+- This code is also performed at the mode select screen by placing the cursor on Kunimasa. Hold down on the directional pad and press B and start simultaneously. The sound when mon is collected will play. Now when players enter an area with enemies, the CPU will take control of the player characters.
+- If the 4 Player code is activated first and the CPU code is used, it is possible for players to control the enemies and fight Kunimasa and his companion while they are controlled by the CPU.
+- Sequels and Spinoffs
+- A sequel, Downtown Nekketsu Jidaigeki, was released by Arc System Works in 2015. It's a Japanese 3DS exclusive.
+- NEStalgia Byte - Fuzzical Fighter (RPG SHMUP)

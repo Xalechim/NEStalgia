@@ -1,0 +1,26 @@
+# 299 - Phantom Fighter
+
+- Wild Chinese phantoms, Kyonshies, are on the loose, wreaking havoc on 8 villages
+- NES Longplay
+- Manual
+- Based on the 1985 Hong Kong movie, "Mr. Vampire", Phantom Fighter puts the player in the role of a Chinese warrior who walks with your pupil through several Chinese towns taken by phantoms.
+- Manual has the plot - Those WACKY chinese Phantoms are on the loose again
+- Text speeds - Fast is for those who don’t care at all about the plot
+- Combat
+  - Why are there so many frames for punching and kicking
+    - Some games require patience to get going. But this was a real test
+  - Manual - Remember hit and run away is the best way to beat Kyonshies
+  - Only 4 items
+  - The school teaching you new moves
+- Exploring the villages
+  - Houses, temples, graveyards, school
+- Defeating the Kyonshies
+  - After you defeat all in the village you get items, and you can get those items again if you go back but you have to fight them all again
+  - Many different types
+- Answering Guard Questions
+- Sequels and Spinoffs
+  - NONE
+- EGL
+- Next week -  EPISODE 300 Pin*Bot
+- NEStalgia Byte - Honoo no Doukyuuji: Dodge Danpei
+  - (HOE-NO NO MICHI-KOJI DODGE DEN-PIE)

@@ -1,0 +1,22 @@
+# 311 - Arkista's Ring
+
+- Challenge yourself to 125 stages of mystery!
+- NES Longplay
+- Manual
+- Nowadays does 125 sound impressive or monotonous
+- I still see very little about this game even when researching for the show. Are we sure this was officially licensed (of course it was)
+- The Elven ring of Arkista has been stolen by the villainous Shogun, who has cast the entire Elven Kingdom into darkness. The only hope for the Elves is that their strongest warrior, Christine, equipped with only her trusty bow and arrows, can travel throughout the Kingdom and retrieve the ring.
+- Zelda Clone
+  - It’s just the dungeon part of Zelda and it’s just a ROOM of the dungeon part of Zelda per stage
+  - Combat change - Bow and Arrow instead of sword. Unlimited arrows instead of limited supply.
+- My big gripe - You can’t face a new direction without taking a step
+- The object of each level is to defeat enemies until a key appears
+  - Yet Zelda is known for the puzzles
+- Upon beating the game you’re brought all the way back to level 1.
+  - However, you will find that the enemies are faster and tougher than before. This cycle will repeat until you reach stage 128, which is the end of the 4th loop.
+- There is no save feature at all, but you have 10 continues.
+- Start to Pause, B to unpause
+- EGL
+  - Arkista’s Ring is a really really early Binding of Isaac and as such it’s missing almost all of the features that make BoI so great. Simultaneously it also misses a lot of what makes Zelda games great.
+- NEXT WEEK - Bad News Baseball
+  - Guys, bad news about next week

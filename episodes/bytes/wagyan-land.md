@@ -1,0 +1,21 @@
+# Wagyan Land
+
+- Cute, younger skewing platformer with weird match game boss fights
+- The player character, Wagyan, has the ability to temporarily stun his enemies with sound waves
+  - shaped like the noises "Wah" (ワッ) and "Gyah" (ギャー, Gyā
+  - When the player picks up a Wagyanizer, the sound effects shot by Wagyan will become bigger with each increment, allowing the player to stun enemies for longer periods. When four Wagyanizers are collected, Wagyan will become invincible for a limited period, increasing his walking speed and allowing him to defeat enemies by touching them.
+- The match games:
+  - One is a literal game of Concentration where you just match pictures
+  - The other you have to pick another object on the screen whose first letter starts with the last letter of the previous object:
+    - Oinker for Pig
+- Power ups to Wagyan include:
+  - Wagyan Copter
+    - Makes levels easy to float over
+  - Super Wagyanator
+    - Lets you kill enemies
+  - YOU DON’T HAVE TO TAKE THESE TO MAKE THE GAME HARDER
+- When the overworld map has you going right to left the levels also change right to left.
+- Crazy cast of characters
+  - Deceased spirit brother
+    - You also pay your respects to your brother in the end
+  - Evil Dr. Devil

@@ -1,0 +1,36 @@
+# 269 - Twin Cobra
+
+- You are the pilot of the worlds fastest attack helicopter
+- NES Longplay
+- Introductions
+  - On the cover art for Twin Cobra, there is a helicopter with a shark design on it. Fans will remember our Sky Shark episode. We also talked about the shark design. Anything else to add?
+  - Also important to note, Twin Eagle which this game only shares the SHUMP genre and 1 similar word with had only 1 Eagle on the box and we beat it up for that. But this game has NO Cobras on the box.
+- Micronics developed the NES port
+  - They brought us Arcade SHMUP ports such as: 1942, Tiger Heli, and Thundercade
+  - Moreover, every port from Micronics that we’ve played with the exception of Ghost N Goblins has been considered a skip it on our NEStalgicast.com website
+- Overview
+  - Vertical Helicopter Shmup, shoot and bomb your way through levels taking down the enemy as a member of the SAMMY Assault Force
+    - SAMMY is the publisher, I like little touches like that
+- Gameplay
+  - BUT IT IS JUST A VERTICAL HELICOPTER SHMUP. Now even the helicopter part isn’t unique. So going by the laws of the SHMUPS, we can evaluate it on 3 merits
+    - Controls
+      - This is an ugly game and the oscillation while generating the area feels strange
+    - Power-Ups
+      - Supercharger changes the rate of fire up to 6x
+      - The color circles change the type of fire
+        - Red - Missiles
+        - Blue - Radial
+        - Green - Two Lines
+        - Brown - Four directions
+    - Enemies
+      - Pretty spaced out, projectiles are a little more forgiving
+      - When you defeat a boss the projectiles he is shooting don’t disappear, but the autoscroll restarts so there’s a chance to be forced into a bullet
+  - The manual lists out all enemy resistant values which is kinda funny. Imagine if you had to use the manual in an RPG to determine the Resistance Values of all enemies and bosses
+  - When you die you restart right where you died, do we agree this is better than starting back at the beginning or are you losing a chance to build power ups
+- Sequels and Spinoffs
+  - A sequel, Twin Cobra II, was originally under development by Toaplan but the studio closed down in 1994 until Taito allowed Toaplan offshoot Takumi Corporation to complete it
+  - So Arcades and Sega Saturn got Twin Cobra 2 and a PLUS version of the game was released in Japan only.
+  - Twin Cobra and Tiger Heli can both be played on an expensive Japanese Switch cart known as Toaplan Arcade Garage: Tiger-Heli
+- EGL
+- Next week - Batman: The Video Game
+- NEStalgia Byte - Chaos World

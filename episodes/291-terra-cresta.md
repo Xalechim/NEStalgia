@@ -1,0 +1,32 @@
+# 291 - Terra Cresta
+
+- This is the fastest paced video game anywhere
+- NES Longplay
+- Manual
+- It’s been 10 weeks without a SHMUP
+- I played some amazing SHMUPs at LI Retro Expo. Real bullet hell, but I’m on fire type shit. Real 2004 Denzel Washington Man on Fire type stuff
+- With a name like this, sounds like an RPG
+  - originally released in 1985 for Arcades
+- Plot
+  - In a century on the space calendarEarthlings were driven away from the surface and into the bottom of the ocean by the Space Demon King Mandler and the monsters under his control. In order to regain the lands blessed by the sunshine and green trees humanity formed the Earth Recovery Army Terra Cresta, which sends the combat interceptor Wing Galiber to recapture the parts left on the hangars in the ground and defeat Mandler.
+- The power up system
+  - Small capsules appear on the ground. Once the player has shot all of them down, the game awards the player with a piece that attaches onto the Wing Galibur. Four different pieces are available to give the Wing Galibur extra firepower and wider shots. They also act as shields, giving the player extra hits before they die. Should the player add all pieces to the ship and press the "transform" button, the Wing Galibur will transform into an invulnerable flaming phoenix for a brief period of time.
+  - You can transform without having all the pieces
+    - the pieces to split from the Wing Galibur and move into a triangular shape around the player. While separated, the pieces are invulnerable to all enemy fire, while the main ship is not. If the player is hit while separated, the Wing Galibur will revert to a singular craft.
+    - FORMATION DESIGN
+- Sequels and Spinoffs
+  - Moon Alpha (ムーンアルファー) is a shoot 'em up video game developed by Nichibutsu and released in 1979 for Arcades. This game would serve as the basis for Moon Cresta, released the next year.
+  - Moon Cresta - originally released in 1980 for Arcades
+    - Galaga clone, you’re stuck on the bottom of the screen. 3 lives but each is a different part of the ship and more powerful than the last
+  - Terra Force (テラフォース) is a shoot 'em up video game developed by Nichibutsu and released in 1987 for Arcades.
+    - JESUS this game is hard. Power ups take forever and they don’t carry
+  - Sky Robo, known in Japan as Tatakae! Big Fighter (戦え!ビッグファイター) is a shoot 'em up video game developed by Nichibutsu and released in 1989 for Arcades. It is a spin-off of the Terra Cresta series, and Nichibutsu's last Arcade title.
+    - Now it’s cool cause your ship turns into a mech and there’s more exploration in the auto scrolling (which sounds crazy)
+  - Terra Cresta II - released in 1992 for the PC Engine in Japan.
+    - Same game, a lot more customization, all english
+  - Terra Cresta 3D - released in 1997 for the Sega Saturn in Japan only.
+  - Sol Cresta - developed by Platinum Games and published by Hamster in 2022 for the Sony PlayStation 4, Nintendo Switch and PC through Steam.
+- EGL
+- What’s a game whose title doesn’t match its genre?
+- Next week -
+- NEStalgia Byte -

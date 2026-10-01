@@ -1,0 +1,37 @@
+# 295 - Double Dare
+
+- Draw your own pictures like the Hit TV Game Show
+- NES Longplay
+- Manual
+- Would you like to do the episode or the physical challenge?
+- The Show and it’s iterations
+  - Double Dare
+  - Super Sloppy Double Dare
+  - Family Double Dare
+  - Double Dare 2000
+  - Double Dare reboot
+- Overview
+  - Compete against a friend or the computer through two rounds of 10-question trivia with the winner moving onto theobstacle course. The rules and scoring from the game show all apply. You can dare the opponents to answer the question, doubling its value; in response, the opponents can double dare for quadruple the original value. When the team in control is challenged to a double dare, they have to either answer or compete in a physical challenge. An incorrect answer, or not responding within approximately five seconds on a dare or double dare, awards both control and the appropriate amount of money to the team that issues it. The second round plays the same as the first, with question values doubled
+- The format of the show for a second. Trivia where not knowing the answer isn’t bad, it leads to fun
+- Pick your kid
+  - Would you like a new character “NO” to proceed
+- The game can also be set for one of three levels of difficulty with higher levels offering less time to answer questions and a more accurate computer.
+- Toss Up Challenge to determine who answers questions first
+  - Toss-up challenges determine which team gets initial control of the trivia round. To complete a toss-up, each player determines the precise speed and angle of whatever object they are throwing to hit a target. Physical challenges are played the same way. Each player uses the up or down arrows on the controller to choose answers for trivia questions. The player with the most money at the end of round two proceeds to the obstacle course.
+  - Hungry Clowns - Our Double Dare clowns are hungry….sounds li
+- The Trivia Questions
+  - Hard to get to the physical challenges
+  - What is it illegal to carry in lexington kentucky
+    - An ice cream cone in your pocket
+- The Physical Challenges
+  - MOST are speed/angle and require timing that isn’t allowed when you start speed/angle
+- The Obstacle Course
+  - Why would you change HOW you run depending on context?
+  - Should they have put the controls needed on the screen?
+- Virtual prizes for beating the obstacle course include a BMX bicycle, television set, an NES console, and several other gifts, ending with an exotic vacation received for completing the last obstacle.
+- Sequels and Spinoffs
+  - Hi Tech Expressions released two editions of the DOS version of the game in 1988, as well as a "Junior" version,
+  - A "plug-and-play" console version was released by Senario in 2005; unlike the earlier computer and console adaptations, this one allowed players to actually draw the subjects, using an electronic pen, for their teammates to guess.
+- EGL
+- Next week -
+- NEStalgia Byte -

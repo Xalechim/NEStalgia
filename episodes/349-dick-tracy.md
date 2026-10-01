@@ -1,0 +1,68 @@
+# 349 - Dick Tracy
+
+- What is the Gameplay Loop?
+- Exploration and investigation: Players control Dick Tracy, navigating both overhead city maps and side-scrolling action sequences, switching between driving in the city and on-foot missions.
+- Clue gathering: The core of the game is investigating crime scenes and gathering clues to track down criminals. You need to visit various locations to interview suspects and find evidence.
+- Combat: While exploring, players engage in combat with enemies using a variety of weapons (e.g., a pistol or fists), but must be careful not to shoot innocent civilians—there’s a penalty for that.
+- Mission-based structure: Each case you investigate follows a structured path where players solve a mystery by piecing together clues to arrest the right suspect.
+- Trial and error: The game often forces players to remember locations and suspect patterns, requiring careful note-taking and revisiting places for further investigation.
+- Key Features of the Game
+- City driving segments: These overhead driving sections allow Dick Tracy to travel between destinations, offering a mix of navigation and occasional shootouts with enemy cars.
+- Clue-based progression: Solving cases is less about direct combat and more about finding the right clues. This gives the game a detective mystery feel, standing out from typical NES action games.
+- Puzzle Solving in Dick Tracy (NES)
+- Clue Gathering: The core puzzle mechanic revolves around gathering clues from various locations around the city. You need to visit crime scenes, interrogate suspects, and find evidence. This process is more like piecing together information than solving traditional puzzles.
+- Clue-based Progression: Each case in the game has you track down criminals by collecting clues scattered across different areas. Clues can be found in rooms, interrogated from witnesses, or left by suspects. Once enough clues are collected, you can piece together the identity of the criminal.
+- Decoding Messages: Some puzzles involve decoding hidden messages or finding key pieces of evidence in documents. These clues might reveal where to go next or who to arrest.
+- Interpreting Clues: Players need to match clues to suspects in order to identify the right criminal. This involves reading descriptions, analyzing evidence (like a weapon found at a crime scene), and matching them to what’s known about the suspects.
+- Multiple Suspects: Part of the puzzle-solving involves identifying the correct suspect from a list of potential criminals. If you gather enough clues, you can make an informed decision on who to arrest. If you make the wrong choice, you might have to backtrack and gather more evidence.
+- Backtracking: Often, players need to revisit locations to find missed clues or to question someone again. This adds a layer of puzzle-solving in terms of figuring out where to go next or who to talk to again based on new evidence.
+- Challenges in Puzzle Solving
+- Lack of guidance: The game doesn’t provide much help when it comes to interpreting clues or determining where to go next. Players often have to rely on trial and error, which can be frustrating.
+- Time-sensitive: Some cases require you to solve them within a certain amount of in-game time, adding a layer of pressure to puzzle-solving. If you don’t solve the puzzle quickly enough, you may lose the case or have to start over.
+- Note-taking: Players are often encouraged to take notes on the clues and locations they’ve visited, as there’s no in-game journal to track everything. This makes puzzle-solving more involved but also more difficult for casual players.
+- How Puzzles Could Be Improved
+- In-game tracking system: The game could benefit from an in-game journal or clue tracker to make it easier for players to review the evidence they've gathered.
+- Hints system: Adding a hint system could help players who are stuck, making the puzzles feel less opaque and reducing the need for trial and error.
+- Clearer objectives: The game could improve its puzzle-solving experience by giving players clearer objectives or guidance when they’re struggling to figure out the next step.
+- Multiple suspects: Players need to use detective work, arresting the correct suspect based on the clues they gather.
+- Limited ammunition: Players must be mindful of their ammo supply, adding a layer of resource management.
+- Multiple environments: From the streets to warehouses, rooftops, and crime hideouts, the game switches between different styles of play.
+- Other Games Like Dick Tracy on NES
+- The Untouchables (1990): Like Dick Tracy, this game has a mix of shooting and side-scrolling action based on 1930s crime noir. It shares a similar tone but is more focused on action than detective work.
+- Who Framed Roger Rabbit (1989): This game also mixes detective elements and clue-gathering, with city exploration and side-scrolling action. Both games involve solving mysteries, but Roger Rabbit has a more playful tone.
+- Batman: The Video Game (1989): While more combat-heavy, this game shares the dark, comic-book atmosphere and action-oriented gameplay with Dick Tracy.
+- Deja Vu (1990): Another detective-style game, but this one is more of a point-and-click adventure. It focuses heavily on clue gathering and puzzle-solving.
+- What Makes it Unique/Different from Other NES Games?
+- Blends action with detective work: Unlike many NES games, Dick Tracy requires players to think like a detective, piecing together clues and avoiding unnecessary violence, adding a unique investigation layer to the action genre.
+- Penalties for harming civilians: The game punishes players for shooting innocent people, an unusual mechanic for NES action games, making players more cautious in combat.
+- Non-linear exploration: The game allows for more freedom to explore the city and solve the case in a semi-open-world manner, unlike most linear action games on the NES.
+- Mixed gameplay modes: It combines top-down driving, side-scrolling action, and puzzle-solving, giving a wider variety of play than many other games of the era.
+- Quality of Life Improvements Dick Tracy Could Have Added
+- Better map system: The driving segments are often confusing due to a lack of clear navigation. A more user-friendly map with clearer location markers could have streamlined the exploration.
+- Faster character movement: Both in driving and walking segments, the pace of the game feels slow. Speeding up movement or allowing for running would improve the flow of the game.
+- More save points/checkpoints: Dying can set you back significantly in the game. Adding more save points or checkpoints could have reduced frustration.
+- Improved clue management: Keeping track of clues can be cumbersome. A dedicated in-game journal or log to automatically record clues would be a helpful feature.
+- Clearer objectives: At times, it’s unclear where to go or what to do next. A hint system or clearer objectives would enhance the player experience.
+- Hidden Secrets in Dick Tracy (NES)
+- Unlimited Health in Car Chases: During the driving segments of the game, enemies will shoot at Dick Tracy’s car. However, if you drive off-road (on the sidewalks), enemy cars can no longer damage you. This can make the driving sections significantly easier.
+- Skip Buildings by Using the Map: If you’re stuck in a specific building or don’t want to fight through a long section, you can use the map screen to fast travel out of the building. This helps avoid tricky enemy encounters.
+- Hidden Rooms and Extra Lives: Some buildings have hidden rooms or extra paths that contain health replenishments or even extra lives. These are often found by searching for subtle environmental clues, such as slightly different colored walls that might indicate a hidden door.
+- Unlimited Ammo Glitch: There’s a glitch in the game that can give you unlimited ammo for your pistol. If you time your shots just right while pausing and unpausing the game, you can trick the system into resetting your ammo count, allowing you to fire without running out.
+- Penalties for Shooting Civilians: While not a secret in the traditional sense, many players didn’t realize that shooting civilians (even accidentally) leads to a major penalty. It’s not well-explained in the game, so players might lose health or get set back in their progress without knowing why.
+- Tips and Tricks
+- Save Ammo: Be very careful with your limited ammunition. Only use your pistol when absolutely necessary, as fistfights can often suffice in smaller encounters.
+- Take Notes on Clues: The game doesn’t offer an in-game notebook or log for clues, so many players keep a real-life notebook to track where they’ve been, who they’ve spoken to, and which clues they’ve gathered.
+- Interrogate Suspects Repeatedly: Sometimes suspects give you more information if you visit them again after gathering more clues. Always consider revisiting key suspects to get additional info.
+- Easter Eggs in Dick Tracy (NES)
+- References to the Comic Strip Characters: Throughout the game, many of the criminals you track down and fight are directly pulled from the original Dick Tracy comic strip. Some of the more famous ones include Big Boy Caprice, Flattop, Itchy, and Pruneface. These characters are portrayed with distinctive looks and behaviors, which fans of the comics or the 1990 movie would recognize.
+- The Iconic Watch Radio: Dick Tracy’s famous two-way wristwatch, an iconic gadget from the comics, is featured in the game. While it’s not an interactive part of the gameplay, seeing it in cutscenes is a subtle nod to long-time fans of the detective.
+- Movie References: Since the game was released around the same time as the Dick Tracy movie (1990) starring Warren Beatty, some of the game's visual style and character designs are influenced by the film’s aesthetic, even though the game isn’t a direct adaptation. Fans who saw the movie will notice these influences, particularly in the design of characters like Big Boy Caprice.
+- Minor Secrets and Unusual Details
+- Civilian Shootout Penalty as a Comic Reference: In the comics, Dick Tracy was always depicted as a detective who abided by the law and used force only when necessary. The game’s mechanic that punishes you for shooting innocent civilians seems like an Easter egg nod to the moral compass of the character from the comic strip.
+- Exploration of Real-Life Locations: Some of the locations in the game are loosely based on real-world Chicago-like settings, much like in the comic strip where Dick Tracy operated. This is a subtle nod to the roots of the detective’s crime-fighting days.
+- Other Dick Tracy Games
+- Dick Tracy (1990, Sega Genesis): Released the same year as the NES game but on the Sega Genesis. This version had similar crime-fighting elements, including side-scrolling action and shootouts, but was visually more advanced with smoother animations and gameplay that leaned more into action than investigation.
+- Dick Tracy (1991, Game Boy): A simplified version designed for the Game Boy. Like its NES counterpart, this game featured side-scrolling action but focused more on platforming and combat rather than clue gathering.
+- Dick Tracy (1991, Amiga/PC): Another adaptation released for home computers, offering a blend of shooting and side-scrolling action, but it was not as well received as the NES or Sega versions.
+- None of these games served as a narrative sequel to the NES version, but they were released around the same time to capitalize on the popularity of the Dick Tracy film in 1990.
+- There hasn't been a modern sequel or reboot of the Dick Tracy games, though the character continues to have a presence in comic strips and occasional media adaptations.

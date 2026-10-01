@@ -1,0 +1,34 @@
+# 303 - Super C
+
+- Shooting first and forget about the questions
+- NES Longplay
+- Manual
+- They don’t make back of the boxes like THAT anymore
+- Super C, did you know it was gonna be Contra?
+- How did they change the contra formula?
+  - At first I felt less verticality in the stages?
+    - Which means the scale feels smaller. Graphics are the same size, but you feel smaller
+    - But actually - there are slopes that weren’t in the first that do make later levels more scalable…at the expense of enemies being more of a nuisance.
+  - Lots of enemy traps if not cleared fast enough
+- The descent to alien
+  - Any other games do descent to madness or extreme well?
+    - Mass Effect 2 lackluster ending
+    - Alan Wake
+- In the original Contra, there were a couple of stages that were an over the shoulder style level faking 3d. This time, the game changes things up a bit by giving players a birds-eye-view for the game’s second stage.
+  - I’m not a fan of this change
+- The NES version uses the same power-ups as the original NES game, but changes the function of the "fire ball" power-up from a gun that fires small fireballs that travel in a corkscrew pattern to a large projectile that spreads fire after hitting its target.
+- Theres a jump in area 5 that requires you to know to jump to scroll the screen upwards to release a purple ball that would kill you…
+- Three stages unique to the NES version: a high-tech base, a mountain and an alien nest, all vertically-scrolling stages
+- The Konami Code from the original Contra was not included in this game.
+  - To make matters worse, in Super C, when you run out of lives, you can only continue a total of three times before you see the dreaded “game over”.   BRUTAL.
+- The essential need for 2 players
+- Contra is a classic. Contra III, is very well regarded. Super C, seems less talked about. Are there other franchises where the second game is “under the radar”?
+  - Crash 2?
+  - SMB 2
+- Sequels and Spinoffs
+  - For its original Japanese release, this game was called: Super Contra – The Alien Strikes Back.
+  - Probotector II: Return of the Evil Forces
+- EGL
+- Next week -
+- NEStalgia Byte - Honoo no Doukyuuji: Dodge Danpei
+  - (HOE-NO NO MICHI-KOJI DODGE DEN-PIE)

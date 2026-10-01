@@ -1,0 +1,26 @@
+# 309 - Remote Control
+
+- Now you can play the only game show that started in a basement right on your Nintendo Entertainment System
+- NES Longplay
+- Manual
+- The game is coming out as the show is being canceled by MTV
+- The show's premise was that Ober desperately wanted to be a game show host and set up his basement as a television studio
+- Shows were sometimes interrupted by the disembodied voice of "Ken's mother," and the studio was set up to resemble a basement, complete with a washer and dryer, water heater, bric-a-brac, and a giant Pez dispenser that resembled Bob Eubanks (newly wed show)
+- Finally, the contestants' chairs were placed in front of breakaway walls, through which they were unmercifully pulled if they were eliminated.
+- During the game three contestants (computer or human controlled) compete by answering questions about various TV shows, movies, characters, or actors/actresses. There are two rounds of gameplay followed by a third "think real fast" round.
+- In the first two rounds of gameplay the game board consists of a giant TV with nine channels; one of the players chooses a channel (representing a particular category) revealing a question
+  - Sometimes a surprise channel may appear which doesn't have a question, but awards or removes points from a player.
+  - Near the end of the second round, the lowest scoring player is eliminated from the game leaving two players for the final round.
+- The final "think real fast" round lasts for thirty seconds; during this time the players need to answer as many short answer questions as possible to earn points. At the end of this round the player with the most points wins the game.
+- The Art style
+- The aggressive self-deprecation humor
+- The weirdness
+- The questions
+- The special channels (beat the bishop and Home Shopping)
+  - Beat the Bishop
+    - The bishop will give you a random math problem. Solve it before he makes it to the other side of the screen.
+  - Home Shopping Zone, Ranger Bob
+    - You lose 10 points when selecting this channel.
+- A great manual
+- EGL
+- NEXT WEEK - Adventures in the Magic Kingdom

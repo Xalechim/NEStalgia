@@ -1,0 +1,35 @@
+# 304 - Tecmo World Wrestling
+
+- It’s your call from the opening bell to the final pin
+- NES Longplay
+- Manual
+- I forget, you guys like wrestling or not?
+- The back of the box “it’s your call” a reference to the sort of “Career” mode you have over the wrestler you choose
+  - Can even change the name, but that feels wrong when they have flair
+    - Do you guys change the name of RPG characters with names?
+  - Choose the exercise you want to do to get stronger.
+    - Clearly they are working out more than the 15 push ups I do in the game right? Or is Vince McMahon pushing steroids in this league too?
+    - No matter what you choose it’s just MASH THE A BUTTON
+    - Only appears again if you lose (neat way to keep the balance for players having difficulty)
+  - Then we get to the fighting
+- FIGHTING
+  - You can punch and kick, but the real intricacy comes from the grappling.
+  - So much situational grappling and it creates many outcomes for the match.
+    - Could freshen up gameplay or make it very frustrating for those who can’t learn the system
+    - The manual does not spell this out well
+      - MOVES COMMON TO ALL WRESTLERS
+      - SPECIAL TECHNIQUES
+      - What does the triangle mean?
+    - Where do you guys fall on the whole button combos in fighting games?
+      - Seems like with SF6 the scene is moving toward simplicity. Visual flair kinda started a long time ago, now it’s about making sure everyone can experience it.
+  - Matches take a few minutes. The game gives you 7 and it could very well take 7, but at least 4.
+- in-game commentary
+  - by “Tom Talker”
+  - A bit fast and reactive
+- Who is the coolest wrestler in this game?
+- The "Earl of Doom" Blue King is an unplayable boss character in Tecmo World Wrestling for the NES, After the player wins the world title, a cinematic cutscene begins where Blue King appears to challenge the player to one final showdown. If the player defeats Blue King, he beats the game.
+- The character is reminiscent of Great Puma, the final boss of Pro Wrestling, in that he is an unplayable character and can use any special move from any character in the game.
+- Sequels and Spinoffs
+- EGL
+- Next week -
+- NEStalgia Byte -

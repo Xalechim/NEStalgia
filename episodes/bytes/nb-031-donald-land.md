@@ -1,0 +1,21 @@
+# NB 031 - Donald Land
+
+- I’m Lovin’ It
+- NES Longplay
+- Ronald McDonald is Donald McDonald in Japan
+- The game features familiar McDonald’s characters like Ronald, Grimace, and the Hamburglar, along with a few renamed ones like Officer Big Mac, now called "Big Mac Police."
+- Ronald has a floaty jump and throws bombs disguised as apples to defeat enemies
+- Bosses like a woodpecker, a bone dragon, and a disembodied head
+- The game has various stages, each with unique themes such as Lake Side World, Forest World, and Sky World.
+- 100 hamburgers gets you an extra life
+- Sequels and Spinoffs
+  - M.C Kids for NES we’ll play in 1992
+  - Donald No Magical World - 1994 Game Gear
+    - When Grimace opens a box labelled "do not open", Donald McDonald and all of his friends get sucked into a magical world with no choice but to find their way out.
+  - McDonald's Treasure Land Adventure - Genesis
+    - Amazing game by Treasure. Pretty damn fun
+  - McDonald's Fairies and Dragons: Sunflower - 2008 Computers
+    - McDonald's Fairies and Dragons is a series of games given away with their 'Happy Meals'. The full range consists of our fairies Sunflower, Rose, Lily, and Violet, and four dragons Ice, Earth, Wind and Fire. Each CD gives the player a separate character which is accessed from a menu bar, as the collection builds other characters are added to the menu bar until it is complete. One fairy and one dragon were released each week but, despite the name, they built into two separate applications - one with four fairies and one with four dragons.
+- Essential Games List Vote
+- Next week
+- NEStalgia Byte

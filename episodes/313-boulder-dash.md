@@ -1,0 +1,47 @@
+# 313 - Boulder Dash
+
+- "My son, you must take up the quest I never completed. Find the Secret Jewels of the Six Worlds, and you will be rich beyond your wildest dreams!"
+- NES Longplay
+- Manual
+- Those were the final words of the father of the player character in this game. Powerful, powerful stuff
+- Been a while since we had a game like this on the show
+  - This game was first released in 1984
+  - Many computer iterations first
+  - Developed by just two guys
+  - Reminiscent of our Lode Runner, Raid on Bungling Bay, Spelunker Broderbund games
+  - This was published by JVC Musical Industries
+- Gameplay
+  - Stages take place in caves. In each cave, Rockford has to collect a certain amount of diamonds while dodging obstacles. When enough diamonds have been collected, the exit door opens, and the level is over.
+- Controlling Rockford
+- Obstacles / How hard is it to collect diamonds
+  - Similarities to Dig Dug?
+- First computer game to be converted to an arcade game
+  - The game was licensed by Exidy for use with their Max-A-Flex arcade cabinet. Released in 1984, it allows buying 30 seconds of game time.[13] This was the first home computer game to be converted to an arcade console.
+- Sequels and Spinoffs
+  - There are 22 sequels and spinoffs. Give me a number and I’ll tell you a game
+  - Mean Machines gave the Game Boy port of Boulder Dash a score of 90%, praising it as "one of the finest video games ever written"
+- Boulder Dash (1985 – Arcade) – in 1985 another arcade version was released on Data East's "DECO Cassette System", with improved graphics but a reduced display grid on a vertical monitor.[13]
+- Boulder Dash II (1985) – published under several different titles; Rockford's Riot on the MSX, Rockford's Revenge on the C64. The second release in Japan was titled Champion Boulder Dash,[13] but it is not a port of the western game.[28]
+- Boulder Dash 3 (1986 – Apple II, C64, Spectrum, PC) – monochrome space-themed graphics and poorly designed levels made this a critical failure.[13]
+- Boulder Dash Construction Kit (1986 – Apple II, C64, Spectrum, Atari 8-bit computers, Atari ST) – this release included a small number of levels (12 caves and 3 intermission levels),[29] but was titled Boulder Dash IV – The Game for the Spectrum re-release.[13] The title allowed players access to tools which allowed them to design their own levels.
+- Super Boulder Dash (1986 – Apple II, C64, PC) – a compilation of Boulder Dash and Boulder Dash II published by Electronic Arts.[30]
+- Rockford (1988 – Arcade, Amiga, Atari 8-bit, Atari ST, Arcade, Spectrum,[31] Amstrad, C64)[13] - Rockford was originally a licensed arcade game produced by Arcadia Systems, and later converted to various home computer formats.
+- Boulder Dash Part 2 (1990 – Arcade)[13]
+- Boulder Dash (1990 - Game Boy)[13]
+- Boulder Dash (1990 - NES)[13]
+- Boulder Dash EX (2002 – Game Boy Advance) - this one has a new "EX mode" and "Classic mode" which is a direct port of the 1984 PC version.[13]
+- Boulder Dash Xmas 2002 Edition (2002 – PC)[13]
+- GemJam Gold (2003 – PC) – the game's credits claim this is based on Boulder Dash, and is licensed by First Star.[13]
+- Boulder Dash – Treasure Pleasure (2003 – PC)[13]
+- Boulder Dash: Rocks! (2007 – DS, iOS)[13]
+- Boulder Dash Vol 1 (2009 – iOS)[13]
+- Boulder Dash-XL (2011 - Xbox Live Arcade, PC, iOS, 3DS)[32]
+- Boulder Dash - The Collection! (2011 – Android)[33]
+- Boulder Dash (2011 – Atari 2600) - limited edition of 250 copies.[34]
+- Boulder Dash 30th Anniversary (2014 – iOS, Android, Switch, PC, Mac) - co-published by TapStar Interactive and First Star Software, Inc., with a world designed by the original creator Peter Liepa as well as another world by TapStar CEO, Chris Gray. This sequel was developed in collaboration by TapStar Interactive, First Star Software, SoMa Play Inc. and Katsu Entertainment LLC (2014 - Android, iOS) as both a premium (paid) and a freemium game.[35]
+- Boulder Dash (2015 – Intellivision) – co-published by First Star Software, Inc. and Classic Game Publishers, Inc./Elektronite[36]
+- Boulder Dash Deluxe (2021 – Switch, Xbox, Atari VCS, Steam (PC and Mac), Windows Store and Mac Store) – developed and published by BBG Entertainment with a world designed by the original creator Peter Liepa and a Retro world with the 20 original levels from 1984.[37][38]
+- Boulder Dash Ultimate Collection (2022 – Switch)
+- EGL
+- NEXT WEEK - Cabal
+  - Next weeks game is a big secret…a CABAL

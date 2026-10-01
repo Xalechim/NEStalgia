@@ -1,0 +1,29 @@
+# 440 - Magician
+
+- This is the fastest paced video game anywhere
+- NES Longplay
+- Manual
+- There's a discrepancy of when the game was actually released. Eurocom's own website lists the release date as March 1990, but popular magazines of the era such as Nintendo Power, EGM and GamePro lists the game as being released around February-March 1991.
+- Was I the only one disappointed that this wasn’t a game about card tricks and rabbits?
+- Cool intro music and tutorial that shows what can occur during the game
+- First thing you learn in this game is don’t experiment with the buttons. You immediately use one of your 5 flasks of water if you hit the B button
+- Limited SAVES - start with 15
+  - There's 9 areas. Even with 1 save per area, you still have 6 saves left.
+- Resource Management and Health Management
+  - Food
+  - Water
+- Make your own magic
+  - Learn em, New Game Plus next time, or cheat from the beginning
+    - writing a spell costs 50 mana each
+- The pain in the ass of the menu navigation
+  - Select vs start, vs up and down, vs selecting something (no confirmation)
+- Many ways to softlock or miss hidden bullshit
+  - I got softlocked at the lake. Couldn’t get on the boat. Saving and dying literally restores you exactly where you were
+- The Faxanadu approach to side scrolling ARPGs
+- When fighting EVERYONE, you and the enemies all look like you’re on a leisurely stroll while also throwing pocket sand at one another
+- In December 2012 programmer Chris Shrigley released the source code for educational purposes to the public
+  - Guess he was preparing for the next civilization after the mayan apocalypse to find and rebuild the game in the future
+- Sequels and Spinoffs
+- EGL
+- Next week -
+- NEStalgia Byte -

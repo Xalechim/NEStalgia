@@ -1,0 +1,23 @@
+# 353 - Total Recall
+
+- HAVE A SAFE TRIP (YOU’LL NEVER MAKE IT ALIVE
+- What is the Gameplay Loop?
+- Side-scrolling action game. Clear each level.
+- Beat-’em-up mechanics: Fighting enemies is essential, with hand-to-hand combat and some weapons introduced in later stages.
+- Mini-games and varied levels: Includes platforming, car chase sequences, and puzzle sections, adding variety but sometimes unevenly executed.
+- What are some Key Features of the Game?
+- Each stage is different; players face street brawls, mutants, platforming, and even sewer navigation.
+- 1. Free Life
+- Extra Life Tip: Enter the Cinema at the beginning of Mr. Quaid’s Neighborhood.
+- How to Earn It: Sit through all the credits for an extra life.
+- Personal Note: Not a must-have for pros, but it’s a handy way to boost lives for the game’s tougher spots.
+- 2. Skip Earth Levels and Jump to Mars
+- Shortcut Tip: After seeing a message to “Hold A and B to get to Mars fast,” you can skip directly to Mars if you lose all lives there and restart.
+- How to Access the Mars Levels Right Away: Start a new game, go to the Cinema in Mr. Quaid’s Neighborhood, and hold the A and B buttons while the credits roll.
+- Bonus: You’ll also gain an extra life in the process!
+- This code will work only if you lost all of your lives AFTER having reached Mars.
+- Film Adaptation Accuracy
+- The NES game follows the basic plot of the film, where Douglas Quaid, a construction worker, discovers his life is a facade and embarks on a quest to uncover his true identity and purpose on Mars.
+- Many of the movie’s deeper themes—such as memory, identity, and corporate control—are missing, likely due to the constraints of NES storytelling and the need to streamline the story for action gameplay.
+- In Total Recall, the climax centers around ancient alien technology on Mars that could terraform the planet. This subplot is entirely absent from the NES game, which instead focuses on generic enemy encounters on Mars without delving into the alien tech or the climactic planetary crisis depicted in the movie.
+- In a tie-in with the NES game, the August 1990 version of Nintendo Power promoted the game for their well-known monthly mail-in contests, with the Rekall slogan of "Making the Impossible Possible" whereby first prize would be one of the Martian police uniforms along with a videotaped trip to Hollywood with a chance to meet Schwarzenegger. Years later, the magazine admitted that it was their worst promotion, as "our winner did not get to meet Arnold until late 1991, and even then only for a quick handshake."

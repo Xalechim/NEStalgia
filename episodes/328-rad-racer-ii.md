@@ -1,0 +1,24 @@
+# 328 - Rad Racer II
+
+- Speed, Thrills, and Glory
+- NES Longplay
+- Manual
+- Rad Racer sold half a million
+- Square’s already released ALL 3 final fantasy games in Japan
+- Enhanced graphics are obvious improvement
+  - 3D even better?
+- Where’s the F1 car? Just the ferrari?
+- The courses aren’t traditional compared to what we’ve been playing lately
+  - They are squiggly lines that don’t look intentional
+- It’s not enough to just race the course, you have to get to the checkpoints within a certain time
+- Turbo Boost Ignition
+  - From a stopped position (0 miles per hour), press DOWN on the Controller Pad. The Turbo Boost Power Gauge on the bottom right of the dashboard (see below and "G" on page 7) will light up starting from the bottom of the meter. When the light reaches the top of the meter, press the A button to send your Rad Racer Il into an immediate "power start" at over 250 m. p.h.!
+- Preview Direction Indicator
+  - Smart addition to anticipate turns in a game where even when 3D doesn’t give you a generous look ahead.
+- A lot of people knocking the 3D glasses feature being removed, but is it really a loss?
+- Sequels and spinoffs
+  - No Rad Racer III
+  - Square’s next racing game? CHOCOBO RACING
+- EGL
+- Next week - Rocket Ranger
+- NEStalgia Byte

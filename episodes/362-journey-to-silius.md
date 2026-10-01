@@ -1,0 +1,30 @@
+# 362 - Journey to Silius
+
+- We dare you to make the journey
+- Box art really establishes a mood. Text is on the left side. Huge realistic arctic landscape with Pixel art gameplay tucked neatly at the bottom
+- side-scrolling run and gun video game
+  - Weird, kinda had an RPG title to me
+- In the year 373 of the new space age, Earth's overpopulation has driven a growing demand for migration to space colonies. Jay McCray, son of the scientist behind space colony #428 in the Silius Solar System, prepares to relocate there to continue his father’s work. However, a devastating explosion destroys the colony, wiping out the research team and all onboard data.
+- While searching his father's home, Jay uncovers a floppy disk containing the full colony plans and a personal message from his father, urging him to complete the project if terrorists were to succeed in destroying it. Determined to safeguard the plans and avenge his father’s death, Jay embarks on a mission to take down the terrorists responsible.
+- The player controls Jay McCray on a mission to defeat a terrorist group responsible for his father's death.
+- The game consists of five stages. Move along the stage defeating enemies, maintaining health and gun energy, until you get to the sub-boss of the level who rewards you with a new sub weapon upon his defeat. Then you fight the boss
+- Players battle robotic enemies and security systems to reach and defeat each stage's boss.
+- The controls follow standard NES side-scrolling action mechanics:
+- Jay can lie down but can only aim his gun left or right.
+- Special weapons use a Gun Energy gauge, and once depleted, the player reverts to the default handgun. Weapons include:
+  - Default handgun
+  - Shotgun - spread
+  - Machine gun - 3 shots
+  - Homing gun - target
+  - Laser rifle
+  - Grenade launcher
+- Final stage is an autoscrolling platforming challenge. No enemies, just objects in your way that you need to keep moving around in order to stay alive
+- After completing the final stage, the game restarts from the first stage after the credits.
+  - Kind of an older relic in video games these days.
+- Journey to Silius was originally based on the 1984 film The Terminator, but the licensing rights to the film were lost during development. The graphics and storyline were altered to accommodate this change.
+- For the later-released Japanese and European versions, the player character design was changed, having his whole body covered in armor.
+- Sunsoft making pretty competent video games
+  - Blaster Master
+  - Batman
+  - Freedom Force
+  - Fester’s Quest

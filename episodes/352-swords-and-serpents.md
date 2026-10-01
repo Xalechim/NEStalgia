@@ -1,0 +1,44 @@
+# 352 - Swords and Serpents
+
+- STEP INTO A NEW WORLD OF GAMING, WHERE YOU NOT ONLY PLAY, YOU BECOME!
+- Not a Computer Port. An NES RPG through and through
+- What is the Gameplay Loop?
+- Swords and Serpents is a first-person dungeon-crawling RPG that revolves around exploration, combat, and character progression.
+- The game places the player in a labyrinth filled with monsters, traps, and treasures, encouraging methodical exploration.
+- The core loop involves:
+  - Exploring dungeon floors in a grid-based manner.
+  - Engaging in turn-based combat against various enemies.
+  - Collecting loot (weapons, armor, items) and leveling up your party of four characters.
+  - Managing health, magic, and resources to push further into the labyrinth and eventually confront the final boss.
+- Plot is minimal; the objective is to collect rubies and reassemble a sword to defeat a dragon. The story is pieced together through small snippets.
+- The game allows cooperative multiplayer (up to 4 players with the NES Four Score), which is uncommon in RPGs for the time, adding a unique social element to dungeon crawling.
+- What are some Key Features of the Game?
+- Character Customization: Players control a party of four, each representing different fantasy classes (Warrior, Thief, Magician, and Cleric). You can customize their stats, giving you control over your playstyle.
+- Turn-Based Combat: The battles take place in first-person but are turn-based, where players select actions like attacking, casting spells, or using items.
+  - Players can target body parts (head, legs, body) with no notable damage difference.
+- Maze-Like Dungeons: The game is heavily focused on labyrinth-style exploration, requiring players to keep track of their movements to avoid getting lost.
+  - The player navigates through a crude representation of a dungeon, presented in split-screen format which allows the player to simultaneously view the dungeon from a first-person perspective and a simple map of the current level showing the party's location.
+  - Dungeon environments are basic, with little variation between levels.
+  - Limited points of interest and invisible walls detract from exploration.
+  - Spells are found in the dungeon, not earned by level-up. find spells written on the walls of the dungeon.
+  - The game includes riddle-like clues necessary for navigation
+  - The manual even came with a few dot matrix pages for drawing maps
+- Multiplayer Support: Unusually, up to four players can control each character, creating a cooperative experience for an RPG on the NES.
+- Magician and Cleric Spells: Each magic user has distinct spell sets, with the Cleric focusing on healing and protection and the Magician on offensive spells, adding tactical depth.
+  - Offensive magic is weak, better used for buffs and healing.
+- No narrative wrap-up; the game ends with a basic congratulations screen.
+- What are some other Examples of Games like Swords and Serpents on NES?
+- Wizardry series – Another dungeon-crawling RPG with a focus on first-person exploration and turn-based combat.
+- Dungeon Magic – A lesser-known NES title with first-person perspective and an emphasis on role-playing and exploration.
+- The Bard’s Tale – Offers a similar dungeon-crawling experience, combining exploration with RPG mechanics.
+- Might and Magic: Secret of the Inner Sanctum – A blend of exploration, turn-based combat, and RPG elements, also featuring a party of adventurers exploring dungeons.
+- Ultima: Exodus – While it’s not first-person, it shares the same complex RPG mechanics, exploration, and party management.
+- What Makes it Unique/Different to Other NES Games?
+- Co-op Multiplayer: The ability to have up to four players control the characters simultaneously is highly unusual for an NES RPG, offering a party-based multiplayer adventure that wasn't typical for the genre at the time.
+- What Kind of Quality of Life Improvements Could Swords and Serpents Have Added?
+- Battery Save: The password system is cumbersome, and a battery save feature would have made progress tracking much smoother for players, especially given the game’s complexity.
+- Improved Map Functionality: There’s no in-game map, which forces players to either memorize or manually draw their maps. A mini-map or auto-mapping feature would have made exploration far more accessible.
+- Clearer Objectives: The game can feel aimless, as it lacks clear in-game prompts or guidance on where to go next. Adding quest markers or more in-game hints would have improved player navigation.
+- More Intuitive UI: The menu system is clunky and could have benefited from streamlining, especially for managing inventory or swapping out equipment.
+- Faster Combat: The turn-based combat can feel slow and repetitive, so speeding up combat sequences or adding more battle variety would keep the pacing engaging.
+- Class Balance: Balancing between the character classes would improve the gameplay experience, as some players might find the Cleric and Magician's abilities less impactful in early stages compared to Warriors.

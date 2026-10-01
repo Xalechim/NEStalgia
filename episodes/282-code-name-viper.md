@@ -1,0 +1,32 @@
+# 282 - Code Name: Viper
+
+- Deep in the jungles of South America, you’re on the mission of your life
+- NES Longplay
+- Manual
+- Where does this guy Viper get off not wearing pants?
+- Do you think this is how Countries actually handle Drug Cartels? Find their locations and send one man to take down 7 bases and rescue hostages?
+  - Main Character Syndrome
+- An action-platform video game developed by Arc System Works and published by Capcom in 1990 for the Nintendo Entertainment System.
+  - Arc System Works
+    - Blazblue, Guilty Gear, Dragonball FighterZ
+    - Double Dragon IV
+  - Capcom always on a run with the NES, but a bit of a tear lately too:
+    - SF6, RE4, Monster Hunter, when will they give Mega Man and Castlevania the big boost
+- The player takes the role of Kenny Smith, code name "Viper", an agent of the 98th Special Forces. He is assigned by his superior, Commander Jones, to investigate a large drug syndicate that covers most of South America (Venezuela, Brazil, Chile, Peru, Paraguay, Argentina, Bolivia). Smith's objective is to rescue a missing agent in each of the syndicate's seven hideouts and uncover clues of the Syndicate's true mastermind
+- South American Setting
+  - All rock formations in South America have trick doors
+- one of two weapons (pistol or automatic machine gun
+- Optional Hostages
+  - Mandatory Hostages
+- Enemy Colors assign their powers
+- Optional Platforming
+  - Hidden walls don’t create invincibility
+  - One step to a platform of a lower ledge causes a frozen drop
+  - Can’t high jump while walking
+- 8 stages, 3 difficulties…is it enough?
+  - The layer to the difficulties
+  - you only get passwords after completing THREE stages
+- Sequels and Spinoffs
+- EGL
+- Next week -  Conflict
+- NEStalgia Byte - Fuzzical Fighter

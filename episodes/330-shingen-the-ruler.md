@@ -1,0 +1,38 @@
+# 330 - Shingen The Ruler
+
+- All the power of Shingen is in your hands
+- NES Longplay
+- Manual
+- The Strategy Game Video Game Universe just got bigger.
+- Nobunaga formed an alliance with Takeda Shingen through the marriage of his daughter to Shingen's son.
+- How many occupied regions do you control? 0, 3, 2, or 1.
+  - It’s not a choice, the answer is 1
+- Everything is abbreviated. Memorization matters
+- HOT-B is making a Koei game
+  - What is different or feels different?
+- What’s your fast approach to learning these games now that we had a few?
+- What do you focus on?
+  - MONEY
+  - MILITARY
+- Field Battle
+  - Dispatch all troops
+  - Fight
+  - Siege battle
+- Succession in the game
+  - Funny mechanic cause Shingen’s son screwed up things so bad after his father’s death that he lost the empire in a single day. So try not to let that happen
+- Portrayal of Leadership: Shingen was known as a brilliant military strategist. How does the game portray his leadership qualities, and what can players learn about leadership from playing this game?
+- Role of Women: In the Sengoku period, women often played strategic roles behind the scenes. How does the game incorporate or fail to represent the roles of women during this time?
+- Economic Management: Players had to manage their economy by collecting taxes and investing in infrastructure. This economic aspect was quite detailed for a NES game and added another strategic layer.
+- SOUND TEST
+  - Hold Start + Select (Japan) or A + B (US) on Controller 1 and reset the game. As soon as it boots up, release the buttons and hold A + B + Right on Controller 2. If done correctly, the sound test should appear after the Hot-B logo.
+  - Similarly complicated CUTSCENE CODES
+  - After the ending sequence is over and kanji "END" is displayed on the screen, press and hold A + B + Select + Start on Controller 1 and A + B on Controller 2 at the same time.
+- How necessary it is for tutorials
+  - You can’t build a sound test, but not have tutorials
+- Sequels and spinoffs
+  - This is actually Shingen 2. We never got Shingen 1 in the States. Missed out on a lot of deep lore
+  - Takeda Nobuhiro no Ace Striker (1992) - This is a spin-off sports game featuring characters from the Takeda clan. It was developed and published by Hot-B for the Super Famicom. In this game, players take control of characters from the Takeda clan and compete in a soccer (football) tournament.
+  - Nobunaga's Ambition: Lord of Darkness (1991) - While not a direct sequel or spin-off of "Shingen the Ruler," this game is worth mentioning because it is another historical strategy game developed by Koei. It is part of the "Nobunaga's Ambition" series, which focuses on the Sengoku period and allows players to control various factions in feudal Japan.
+- EGL
+- Next week - Silkworm
+- NEStalgia Byte

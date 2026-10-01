@@ -1,0 +1,31 @@
+# 319 - Heavy Shreddin'
+
+- Part Skiing, Part Skateboarding, Part Surfing…It’s Snowboarding!
+- NES Longplay
+- Manual
+- Snowboard video game
+- Gameplay
+  - There are five different events and a total of 18 levels of play. In order to progress to the next event, the player must first successfully complete the event before it.
+  - 3 different mountains
+- The Events
+- downhill: In this event the player must avoid hitting objects and falling. It is a timed run, so if the player takes too long, they will be sent back up to the top of the slope. The same goes for falling and colliding into objects.
+- Slalom: The goal of this event is to pass through the flags placed along the slope. If the player fails to get between the pairs of flags they will return to the top of the mountain.
+- Half-pipe: This event is all about points. The player must gain up speed and perform tricks at the peak of either side of the half-pipe.
+  - you need to do the exact command that comes on the screen, so when it says "jump" simply do a jump and not a 360 or handplant or something, and then when it says "360 spin" do only a 360. I thought maybe the text was telling me what trick I was about to do, but looking up the manual online I see there are specific commands to do specific tricks.
+- Moguls: In order to pass this event the player must perform tricks to jump over the moguls (bumps in the snow).
+- Backwoods: The last event is mostly a combination of speed, tricks, and survival. It tests everything the player has learned throughout the game. This event is very difficult.
+- There are several ways in which the player is able to score points in the game. Some of the ways are:
+- Avoiding objects, such as trees and flags, by sliding up or down on the screen
+- Performing tricks
+- Jumping off of ramps and other elevated terrain
+- The player performs tricks by jumping and then pressing in any direction on the directional pad.
+- The first trail is not really a beginner trail
+- GOOD! - Close up sprite of a woman just saying GOOD after you complete a trail
+- The Vibe
+  - These games live and die by the vibe
+- They put an endorsement from Snowboard Magazine on the back of the box…The Realism is uncanny
+- Sequels and Spinoffs
+  - It was released in Europe with the title Snowboard Challenge.
+- EGL
+- NEXT WEEK - Image Fight
+  - A pictionary brawler

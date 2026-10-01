@@ -1,0 +1,25 @@
+# 276 - Abadox
+
+- Your home planet of Abadox has been swallowed whole by the deadliest menace in space!
+- NES Longplay
+- Manual
+- This game goes HARD in more than one way really
+  - You’re going inside a planet which happens to be an alien
+  - All the creatures are pretty gruesome
+  - The box art has blood and Milton Bradley together. I don’t recall blood in the Game of Life
+  - The game is freaking hard on a difficulty level
+  - The least hard thing in this game is the player character
+- In the year 5012, the planet Abadox is eaten by a giant alien organism known as Parasitis. Having consumed Abadox, the alien takes the form of the planet and seeks to devour other planets. The galactic military launches an attack but is destroyed by Parasitis who goes on to devour the hospital ship carrying Princess Maria. Second Lieutenant Nazal, the only surviving fighter of the galactic fleet, attempts to enter Parasitis's body and rescue Princess Maria before it is too late.
+- Why did they feel the need to rescue a princess on top of everything?
+- Abadox sounds more like the alien planet eater and less like the name of the planet
+- What’s a hospital ship?
+- Any other games where you fight from inside a monster?
+  - KH1 - Monstro
+  - Life Force final stage
+- Downwards Vertical SHMUP (a first)
+  - Probably a bigger deal for SHMUP fans
+- 1 hit kill, lose your power ups, and restart from checkpoint
+  - BUT you get to continue forever from the start of the stage after a game over
+- EGL
+- Next week -  Adventures of Lolo 2
+- NEStalgia Byte - Cocoron

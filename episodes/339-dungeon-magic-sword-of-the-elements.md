@@ -1,0 +1,37 @@
+# 339 - Dungeon Magic: Sword of the Elements
+
+- A broken peace, a mystical prophecy
+- NES Longplay
+- Manual
+- Probably no coincidence that the box art leans into the Dungeons and Dragons Aesthetic
+  - The demand is always there for taking the promise of D&D and making it so you can play it with an AI dungeon master
+- 500 years ago, the Kingdom of Granville fought a terrible war with Darces the Dark Overlord. A great hero, the warrior "Magi", rose to challenge Darces. He owned six magical swords and a powerful suit of armor that was impervious to all but the most powerful of magic. Five of his six swords were Elemental blades, each created from the rarest metals on earth. The sixth blade, "Tores", used an even more powerful metal.
+  - Using his powers, Magi defeated Darces, and exiled him to a far away land. After defeating Darces, Magi grew old and died.
+  - Now, on a dark, stormy night in the Kingdom of Granville, Darces the Dark Overlord returns to the land.
+- Real-time first-person RPG
+  - Ground-breaking doesn’t always mean good
+  - But its more than a dungeon crawler, its a whole game world crawler haha
+- Menus
+  - B to confirm?!
+  - Weapons and Armor, Spells, Inventory, Use, and Camp
+- Exploration/Navigation
+  - The game world is divided into 16 sections, each further divided into a 16x16 grid, resulting in 256 steps per section and 256 steps on each side of the overall map.
+  - Towns
+- Combat
+  - The game allows attacks from four directions, but you can only see and attack in one direction.
+  - It's crucial to stay aware of your surroundings to avoid dangerous side attacks.
+  - Being hurt reduces your damage output and increases your vulnerability. Cure it as soon as possible to maintain combat effectiveness.
+- Elemental Magic = Earth, Water, Air, Fire, Fairy
+  - Each element has three unique runes, which can be combined to cast 243 different spells.
+  - NO MP so some spells drained the player's hit points instead.
+- Schools of Magic:
+- Fire (F): Offensive spells, not commonly used by the writer. Runes: Square, Left Triangle, Right Triangle, Simple Triangle (F1, F2, F3).
+- Air (A): Travel spells. Key spells include Return (A3, A3, Blank) and Exit (W3, W2, Blank). Runes: Chevrons (A1, A2, A3).
+- Water (W): Defensive spells. Important spells: Physical Shield (W3, W3, W3) and Magic Shield (W2, W2, Blank). Runes: Vertical lines (W1, W2, W3).
+- Earth (E): Curative spells. Key spells: Cure Poison (E2, E1, Blank), Cure Paralysis (E2, E2, Blank), Cure Hurt (E2, E3, Blank), Uncurse (E3, E2, Blank), Waterwalk (E3, E#, E#). Runes: Dots and circle (E1, E2, E3).
+- Faerie (R): Utility spells. Useful spells: Terrain Map (R1, R1/R2, Blank), Full Map (R2, R2, Blank), Self Data (R2, R3, Blank), Enemy Data (R3, R1), Faerie Transport (R3, R2, Blank). Runes: Horizontal lines (R1, R2, R3).
+- Levels can only be gained by visiting the "wise men" at the villages at the right number of experience points and receiving a baptism from them. You have to belong to the school of magic to level up with that wise man
+- Sequels and Spinoffs
+- Essential Games List Vote
+- Next week
+- NEStalgia Byte

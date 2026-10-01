@@ -1,0 +1,75 @@
+# Patreon Mailbag 2023
+
+- In 2024!
+- QUESTION: What is hot TV or movie IP from the NES lifespan (1985-1995) that wasn't made into a video game, but should have been?
+- QUESTION: You can add a save function to 1 NES game. Which one do you pick?
+- QUESTION: I want you to experience the pain and suffering that an 80s and 90s kid did! The most recent holiday season that you completed was 1989. Since you're New York bois, I sourced the following prices from The Grey Lady, November and December 1989 display ads. Assuming a $100 budget, what games are you picking?
+- Airwolf - 39.97
+- Bayou Billy - 39.97
+- Burgertime - 24.97
+- Double Dribble - 34.97
+- Dragon Warrior - 44.99
+- Friday the 13th - 29.97
+- Ghostbusters - 39.97
+- Golgo 13 - 29.97
+- Gyruss - 19.91
+- Hydlide - 29.97
+- Jeopardy - 34.97
+- Metal Gear - 24.91
+- NES Advantage - 39.97
+- Ninja Gaiden - 44.99
+- Operation: Wolf - 34.97
+- Othello - 19.99
+- Paperboy - 42.99
+- Predator - 34.97
+- Q-Bert - 19.91
+- Skate or Die - 24.91
+- Tetris - 34.97
+- Wheel of Fortune - 34.97
+- WWF Wrestlemania - 39.97
+- OTHERS
+- Any Tiger or Acclaim handheld - 14.97
+- Batmobile, remote controlled - 8.99
+- Nintendo Game Boy, no game - 89.97
+- Sega Master System, two controllers, one phaser, no game - 99.97
+- Wet N Wild Barbie - 6.99
+- Wise Cracking Alf - Push his belly and he tells jokes! - 12.92 (formerly 39.99)
+- QUESTION: Which NES games are better than their arcade counterparts?
+- QUESTION: For the video games genres you thought missed the mark, what do you recommend instead?
+- (To make this harder, you cannot choose a series - but instead specific personal favorites within a series). Example: an essential baseball game cannot be MLB: The Show series, but a favorite MLB: The Show year would suffice.
+- Some games/genres you haven't been happy with:
+- baseball
+- volleyball
+- golf
+- soccer
+- wrestling
+- pinball
+- early 80s arcade (think Donkey Kong/Pac-Man) arcade style
+- racing simulation
+- racing kart
+- racing futuristic
+- racing motorcycle/dirtbike racing
+- turn-based grand strategy role playing simulation (think "Nobanunga's Ambition")
+- turn-based rpg game most like Zelda 2
+- education
+- pool
+- 1 v 1 fighter (think Karate Champ)
+- based on a television series
+- based on a novel
+- based on a manga
+- based a game show
+- based on a children's game show
+- based on a child's toy
+- based on a board game
+- deck building (think Tarot - or any game that uses a deck)
+- horror
+- flying sim/cockpit perspective
+- QUESTION: Develop a game that uses R.O.B. in an actually fun and exciting way.
+- QUESTION: What is the reason you are only doing the official Nintendo releases but not NES games brought out by other companies that released games for the NES such as Tengen? I wouldn’t be surprised if one your answers is there are too many. 🤣
+- QUESTION: Famitsu famously gives games a score out of 40. They have 4 reviewers and each reviewer gives a score out of 10 and then they add those to get the final score. Are there any NEStalgia 30/30 NES games so far? Ones you would all give a 10?
+- FOR THE SHOW: Come up with your own list of 10/10 so we can find out on the show.
+- QUESTION: What happened to Sam the Manual, why is he not on anymore?
+- QUESTION: So far, have there been fewer Essential Games that you expected when you first started the podcast? or more? In other words, have you been surprised (either positively or negatively) by the quality fo the NES library?
+- QUESTION: Are there any developers that have really surprised you? Maybe one that you either hadn't heard or, or only new for poor quality games, but have now realized they created multiple Essential or Play-It NES games? Or a well known developer who created more bad NES games that you realized?
+- QUESTION: How do you manage your podcast along with your family, work, and playing videos games for your own enjoyment?
+- QUESTION: You can pick one NES accessory to use in the bedroom, which one are you taking?

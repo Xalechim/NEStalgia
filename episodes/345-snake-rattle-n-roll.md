@@ -1,0 +1,33 @@
+# 345 - Snake Rattle N Roll
+
+- Snake Rattle 'n' Roll is a platform video game developed by Rare and published by Nintendo, released for the Nintendo Entertainment System (NES) in North America in July 1990 and in Europe on March 27, 1991.
+- A Sega Mega Drive version was released in June 1993, featuring an additional twelfth level set in space.
+- The game is included in the 2015 Rare Replay compilation for Xbox One.
+- It was re-released on the Nintendo Switch Online service on February 21, 2024.
+- Gameplay Mechanics:
+- The game features two snakes, Rattle and Roll, navigating through eleven 3D isometric levels filled with various enemies, obstacles, and items.
+- The objective is to eat enough "Nibbley Pibbleys" to grow the snake to the required size to ring a weigh-in bell, which opens the exit to the next level.
+- Players use the control pad to maneuver the snakes, using their tongues to eat "Nibbley Pibbleys" and attack enemies. The snakes grow more when eating "Nibbley Pibbleys" of their own color and the most when consuming yellow ones.
+- Players must avoid hazards, including bombs, water sharks, and falling from heights. They lose a life if their snake runs out of segments or if other fatal events occur.
+- The game can be played in single-player or two-player simultaneous mode, where both players cooperate to complete levels.
+- Various items can be collected to help the player, such as extending the snakes' tongues, adding extra lives, providing time bonuses, granting invisibility, speeding up movement, or reversing controls.
+- Level Design and Challenges:
+- Levels contain manhole covers that hide items, Nibbley Pibbleys, extra lives, bonus level entrances, and sometimes enemies.
+- Players can uncover hidden warps that allow them to skip levels.
+- The game includes a variety of enemy types and environmental hazards, which require strategic navigation and timing to overcome.
+- Development and Influences:
+- Snake Rattle 'n' Roll was developed by Rare members Tim Stamper and Mark Betteridge, with Betteridge focusing on compact file sizes and innovative control mechanics.
+- The game’s 3D isometric view was influenced by Marble Madness, which Rare had ported to the NES in 1989, utilizing similar high-speed scrolling techniques.
+- Gregg Mayles, Rare's future creative director, began his career testing this game and noted the responsiveness of its controls.
+- The soundtrack, composed by David Wise, was inspired by 1950s rock-'n'-roll, notably "Shake, Rattle, and Roll." It includes a reference to the Jaws theme when the snake is in danger in water.
+- Critical Reception:
+- The game was well-received for its innovative isometric graphics, challenging gameplay, and humorous elements, with a 94% rating from Mean Machines and a 91% rating from Retro Gamer.
+- It received the Game Player's NES Excellence Award in 1990 and was praised in various gaming magazines for its originality and fun factor.
+- Retrospectively, it has been regarded as one of the best NES games and a standout title from Rare, ranking #32 in IGN’s "Top 100 NES Games."
+- Legacy and Follow-up:
+- A Game Boy sequel, Sneaky Snakes, was released in 1991, featuring similar gameplay in a 2D side-scrolling format.
+- Although Snake Rattle 'n' Roll hinted at a sequel titled Snakes in Space, it was never developed.
+- The game's blend of puzzle and action elements, along with its iconic isometric design, has ensured its place as a cult classic in the gaming community.
+- Fun Facts:
+- In level 7 of the NES version, the landscape spells out "NINTENDO GAME BOY," while the Sega version spells "SNAKE R+R GO SEGA."
+- The sound effect played when a snake enters water and is pursued by a shark mimics the famous two-note theme from Jaws.

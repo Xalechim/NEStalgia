@@ -1,0 +1,51 @@
+# 366 - M.u.l.e
+
+- SIT BACK AND ENJOY YOUR WEALTH AND POWER, OH MIGHTY RULER
+- MULE stands for Multiple Use Labor Elements and I can’t imagine anything more boring for a kid to hear.
+- M.U.L.E. was one of the first five games from new company Electronic Arts
+- Resource Management: The core gameplay revolves around managing resources on a newly colonized planet. Players must buy, sell, and trade goods like food, energy, and ore.
+- Turn-Based Economy: The game takes place over a series of turns, where players make decisions about their M.U.L.E. units (robotic workers), the production of resources, and trading with other players or the game's economy.
+  - Most players start with $1,000 in money and $300 worth of Food and Energy - goods." However the Flapper starts with $1600 in money and $300 worth of Food and Energy, and the Humanoid starts with $600 in money and $300 worth of Food and Energy.
+- WALKING THROUGH THE GAME
+  - You select a plot.
+    - The Land Grant is your chance to get one free plot each turn.
+  - You decide to produce on your river land.
+    - Decide what you want to do with your land. Mountains are best for mining Smithore, river land is best for farming for Food, and flat land is best for producing Energy.
+  - You outfit a MULE
+    - Go to the corral When the time bar runs out, your turn ends regardless of what you are doing.
+    - Install the M.U.L.E where you want it on your land
+  - When installed, your M.U.L.E. turns into a production symbol. Your property is ready to produce Food, Energy, or Smithore.
+  - Wampus Hunting
+    - The Wampus lives in caves in the mountains. When he opens his door, his bell rings and his black door flashes. If you catch him, he will pay you to let him go.
+    - To catch the Wampus, you have to be outside of town, without a M.U.L.E. Then, when you see his light, jump on him. Good hunting!
+  - The Pub
+    - Going into the Pub is an automatic way to win money. But it also ends your turn. The more time remaining, the more you win.
+  - Random Events
+    - You can't really plan for "random events" like Planetquakes, Acid Rain, and Pest Attacks, but they can happen.
+  - Auction
+    - Controlled by the computer, there are 16 units of Food and 16 of energy. After that its based on what the players have bought and sold
+- Why don't I always get the plot of land I want in the land grant?
+  - The Nintendo figures out who has the least amount of money, land, and goods and gives that player the land. Or else it is because your "trigger finger" is just a little too slow.
+- Competition and Cooperation: Players can work together or sabotage each other in the competitive auction phase, where they bid on resources and M.U.L.E. units.
+- Winning Criteria: The goal is to accumulate the most wealth (in space credits) by the end of the game, achieved by successfully managing resources and making strategic moves to outwit your competitors.
+- Multiplayer Focus: M.U.L.E. is often celebrated as one of the first great multiplayer strategy games, supporting up to four players, where each player can either compete or cooperate.
+- Economic Strategy: The game revolves around economic strategy—players must anticipate market trends, decide when to invest in resources, and when to sell, all while managing their M.U.L.E. units.
+- PAUSE WITH SELECT
+- Interesting tid bit - The manual keeps referring to “THE NINTENDO” as the computer or game. As if it is another player playing against you
+- No Sequels: But a lot of modern European board games have a similar focus to the resource management of this game
+- Initial Name and Concept:
+- M.U.L.E. was originally called Planet Pioneers during development.
+- Aimed to be a more graphic-intensive, playable version of Cartels & Cutthroats, with a focus on multiplayer.
+- Real-time auction mechanic inspired by Danielle Bunten's Wheeler Dealers.
+- Influences from Monopoly:
+- Modeled after Monopoly for social interaction and several gameplay elements:
+  - Land acquisition and development.
+  - Production advantages for grouped plots.
+  - Random events similar to Chance cards.
+- Setting and Story Inspirations:
+- Inspired by Robert A. Heinlein's Time Enough for Love, with galactic colonization in the style of the American Old West.
+- The M.U.L.E. is based on the genetically modified animals in Heinlein’s novel, designed to resemble the Star Wars Imperial Walkers.
+- The lack of government or external authority is inspired by The Moon Is a Harsh Mistress.
+- Gameplay Adjustments:
+- Early design featured an auction-based land sale, which caused a wealth feedback loop (wealthiest player gained the most land and money).
+- Introduced the "land authority" system, providing each player with a free plot of land each turn.

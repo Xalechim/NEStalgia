@@ -1,0 +1,49 @@
+# 368 - Mission: Impossible
+
+- This Box will self-destruct in 5 seconds
+- Greatest back of the box read in the history of the show
+- How familiar are you with the movies?
+  - First Mission Impossible movie comes out in 2006
+  - Numerous efforts by Paramount Pictures to create a film adaptation of the television series stalled until Cruise founded Cruise/Wagner Productions in 1992 and decided on Mission: Impossible as its inaugural project.
+  - Tom is now up there with Arnold in terms of NES games turned Movies
+- How familiar are you with the SHOW?
+  - There was a series in the 60s and again from 88-90
+  - Premise: Set 15 years after the original series, the narrative follows Jim Phelps, portrayed by Peter Graves, who is called out of retirement to lead a new team within the Impossible Missions Force (IMF) after his successor is killed.
+- Plot Overview:
+- Imagine turning on your computer for work and it says GOOD MORNING your boss and his secretary have been kidnapped.
+- Players control a team from the Impossible Missions Force (IMF) tasked with rescuing a kidnapped scientist and fellow operative Shannon Reed from the terrorist group known as the Sinister 7. The mission spans locations such as the canals of Venice and the Swiss Alps.
+- Gameplay Mechanics:
+- Top-down perspective where players can switch between three characters —Max, Grant, and Nicholas
+- But the first thing you gotta ask yourself is…why are they walking like that? They are doing the Mr. McMahon shoulder swing walk ad nauseum
+  - each possessing unique skills essential for mission success.
+  - Max Harte: Combat specialist, strongest in direct confrontations.
+  - Grant Collier: Technical genius, essential for hacking and disabling traps.
+  - Nicholas Black: Master of disguise, useful for blending in and bypassing security.
+- The game is not broken into action stages where you simply take out the enemies and get to the end. You are in a civilian environment where you need to enter buildings and navigate the areas for information on where to go
+  - Stay out of the road, cars will hit and run you
+- Players must avoid harming civilians, if they do a helicopter will come and arrest you
+- And remain undetected by surveillance systems to prevent mission failure.
+- Enemy placement requires a lot of forced close combat, but not in a tactical way, in a way thats guaranteed to get you hit
+- Loading into new areas, the enemies surround you and are ready to attack
+- Some items locations are randomized like passes to progress in stages
+- Interesting challenges in levels that aren’t quite puzzles but require thought. Unlocking doors by sound, timing trick walls and destructible environments
+- Boat racing and ski fighting action sequences
+- Boss fights like one taking a hostage, another where you can’t step on the same platform twice or it breaks
+- Critical Reception:  "GamePro" gave the game a perfect 25 out of 25, highlighting its engaging gameplay and sharp display.
+- IMPOSSIBLE MISSION
+- Original Game (1984)
+- Developed by Dennis Caswell and published by Epyx for the Commodore 64.
+- Combines platform and adventure gameplay with digitized speech.
+- Players take on the role of a secret agent infiltrating an enemy stronghold.
+- Considered a classic across various platforms.
+- Sequel (1988)
+- Impossible Mission II introduced new traps, items, and expanded gameplay.
+- Elvin's stronghold was divided into towers requiring password collection.
+- Amiga Version (1994)
+- Impossible Mission 2025 featured updated graphics and audio.
+- Included three selectable characters and the original Commodore 64 version.
+- New Sequel Announcement (2022)
+- Icon64 announced the development of an officially licensed sequel.
+- 1998 Mission: Impossible - N64, PS1, GBC
+  - Based on the movie
+- 2003 Mission: Impossible - Operation Surma - GC, PS2, Xbox, GBA

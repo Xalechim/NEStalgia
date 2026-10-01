@@ -1,0 +1,38 @@
+# 327 - Puss 'n Boots: Pero's Great Adventure
+
+- Pero of storybook fame is caught up in a whirlwind adventure, traveling through time and around the world!
+- NES Longplay
+- Manual
+- Puss N Boots
+  - Shrek
+- Plot
+  - Count Gruemon, a notorious swine, hated mice with a passion. One day, he discovered a mouse in his castle. Frustrated and irate, Count Gruemon ordered Puss N Boots (Pero) to find and destroy the mouse.
+  - However, Pero was a kind-hearted cat and had become friends with the mouse, and so, helped the little creature to escape. In a fit of anger, Count Grue-mon, aided by Dr Gari-gari, a fiendish scientist wolf. sent Pero on a perilous time-travel journey around the world and into the past.
+    - Wait, so they sent him on a time travel vacation as revenge?
+  - Now, Pero must locate and defeat Count Gruemon and the mad Dr. Garl-gari, and use their Time Machine to get home-or be stuck in the past forever.
+  - To make matters worse, the Cat Kingdom has sent Killers after Pero because he helped a mouse and thereby violated Cat Kingdom Law. Pero must travel to exotic lands and overcome many hazards, but can he defeat the combined might of the diabolical Count Gruemon, Dr Garl-gari, and the Killers.
+- Gameplay
+  - Weapons
+    - Gun, Bomb, Boomerang
+      - The boomerang I get, its cartoony. WTF with the gun?
+      - Also Missles, Machine Gun, Torpedos with the vehicles
+    - You switch between weapons by pressing start and then using the d-pad. Why wouldn’t it be select? NOTHING is for select
+  - No feedback when hit, theres a small sound, but its like Pero is acting like its no big deal before he just drops dead
+  - Of course Boots are something you collect
+  - The West, The Ocean (submarine), Arabia (car), Space Wars (propeller plane, title doesn’t match the setting), London, Liberty (hot air balloon), New York
+  - The enemies feel like they are avoiding you
+  - Sub level, boat 3 hits and sharks 1 hit
+  - Do all submarines drop to the bottom of the ocean if you don’t steer upwards?
+  - It’s an empty world and I hate when doors are open in buildings and you can’t walk through them
+  - The boss fights are kind of sudden and intense
+- Sequels and spinoffs
+  - DreamWorks Puss in Boots (2011, DS)
+  - Christmas Stories: Puss in Boots (Collector's Edition) (2021, Windows, no info)
+  - American McGee's Grimm: Puss In Boots (2008, Windows)
+    - Brutal version
+    - 23-part episodic video game series based upon Grimm's Fairy Tales, designed by American McGee
+      - Alice video games
+        - Alice and Alice: Madness Returns. Supposed to be a trilogy, but no third game in sight
+- EGL
+- Next week - Rad Racer II
+- NEStalgia Byte- (Dragon Ball Z II: The Fury of Lord Freeza) [should drop today or tomorrow in show time]

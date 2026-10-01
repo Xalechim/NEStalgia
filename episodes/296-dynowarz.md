@@ -1,0 +1,35 @@
+# 296 - Dynowarz
+
+- Cyborasaurus must be unleashed! The DYNOWARZ must begin!
+- NES Longplay
+- Manual
+- First instance of a z replacing an s in our NES library?
+- How cool are dinosaurs?
+- How cool is war?
+  - Apocalypse Now, and Thin Blue Line but really Saving Private Ryan is probably the mainstream example of war not being glorified.
+- Plot
+  - Something was terribly wrong in the distant man-made Spondylus Solar System. One by one the planets' central life support computers had been infected with a life-threatening virus while the planet surfaces had been overrun with giant computerized dinosaurs known as Robosaurs. Under attack in his laboratory on Alpha Planet, Professor Proteus, the mastermind of the Spondylus System and founder of the Robosaur project suddenly realized that this deadly sabotage could only be the work of his former partner, the deranged Dr. Brainius. Years earlier, the doctor had fled Alpha Planet after Professor Proteus had exposed him for performing forbidden robotic experiments on human subjects. At last, he had returned to seek his revenge using the Professor's own creations! But, little did he realize that Proteus had been hard at work for the past few years perfecting the ultimate robosaur, Cyborasaurus! There was only one hope to save the Spondylus System.
+- Overview
+  - Mechanized dinosaurs named robosaurs fight in a faraway solar system named Spondylus
+- The player first controls Professor Proteus
+  - Which doesn’t sound cool but he is in his battlesuit
+  - 3 way spray
+  - The weight of the jump or maybe the gravity?
+  - He clips through platforms if the jumps aren’t precise
+  - Sparse amount of enemies
+- Then you play as Cyborasaurus
+  - What a disappointment to go from the huge mech in the Proteus part of the stage and then just shrink it all down in scale against the other robots
+  - The Cybosaurus powers and growth by collecting more of the same power
+  - It doesn’t feel like like a kaiju battle and most of the enemies aren’t that smart
+  - How many planets are in this solar system, there are many in the bg and they are massive
+- Stages, each on different planets ranging from ice to jungle
+- The goal is to get to the Artificial Intelligence Compound of each planet
+- When in the AIC, Proteus exits Cyborasaurus. Every AIC has a Life-Support Computer that has been infected with a virus which must be destroyed.
+- When the computer is destroyed, all beasts in the AIC are destroyed along with it. Proteus must then retrace his steps back to Cyborasaurus. Cyborasaurus then must use the Molecular Transporter outside to travel to the next planet.
+- the game's cut scene animations are top notch
+- Sequels and Spinoffs
+  - None, but this is Bandai and they know dinosaurs
+- EGL
+  - This feels like a Flash game a kid in the early 2000s would’ve put together and uploaded on Newgrounds.
+- Next week -  Ghostbusters II
+- NEStalgia Byte -

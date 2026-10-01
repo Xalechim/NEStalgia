@@ -1,0 +1,41 @@
+# 315 - Captain Skyhawk
+
+- Soar where no man has gone before!
+- NES Longplay
+- Manual
+- Is that a good claim for a video game? When most video games also take place where no man has gone before?
+- Plot
+  - Aliens have invaded Earth, and have built four land bases. These bases are designed to drain Earth's energy and feed it to their mother space station. If the space station is allowed to obtain enough energy, it will destroy the Earth with a massive laser blast. The player must destroy the enemy bases, then go after the space station itself.
+  - So Independence Day
+    - The box cover even has the pilot looking like Randy Quaid about to say HELLO BOYS I’M BACK
+- Gameplay
+  - top-down scrolling overhead isometric graphics
+  - the plane, code-named the F-14VTS (a fictional version of the F-14), and must avoid the mountainous terrain while annihilating aliens.
+    - So what does VTS stand for?
+  - The UI
+    - Altimeter
+    - Power/Speed
+    - Air Speed
+  - Controlling the plane
+  - The scenarios
+    - Destroy enemy bases
+      - 5 bases total, must defeat the 4 around the perimeter to blow up the 5th in the center
+    - Destroy Enemy Planes
+      - Speed control is toggled on when enemy planes arrive while destroying the base
+      - After certain levels theres also a dog fight like in Top Gun with enemy planes. Completely different from the isometric
+    - Docking the plane in the space station
+      - Is it like landing the plane on the carrier in Top Gun?
+    - Drop Supplies
+      - Must drop directly in the isometric box indictated
+    - Pick Up scientists
+      - A pyramid protects the scientists which you have to destroy. Uhhh are we kidnapping scientists to build a super weapon agains their will
+    - The final fight
+      - Scientists, during the course of the game, are working on a top-secret Neutron Cannon. Now that cannon is built and you can take on the mothership
+  - Make money blowing up aliens to  purchase weapons and ammo
+    - Truly a capitalist society. Earth is being threatened by and we’re still making the only defenses we have left pay for survival. Guess the pigs selling the weapons have already priced in the alien invasion into the stock market.
+    - four types of weapons: Cannon, Phoenix Air Intercept Missiles, Maverick air-to-ground missiles, and Hawk bombs. The cannon is the only weapon with an unlimited supply.
+- Sequels and Spinoffs
+  - No sequels for this RARE game
+- EGL
+- NEXT WEEK - Castle of Dragon
+  - Castle or Dragon

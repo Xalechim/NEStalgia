@@ -1,0 +1,30 @@
+# NB 024 - Parodius
+
+- The Gradius Parody
+- Longplay
+- Manual
+- Gradius Parody
+- Fun characters, but they don’t change the game other than graphics
+  - Octopus Saves the Planet (if you choose him)
+  - Tako (which means “octopus”, the character himself is referred to as “Mr. Parodius”)
+  - Penguin
+  - Goemon (from the eponymous series, also known in English as Mystical Ninja)
+  - Popolon (from the Majou Densetsu series, also known as Knightmare and Maze of Galious)
+  - and the Vic Viper
+- Goemon picks up old Japanese coins, while Tako grabs cans of octopus soda.
+- You don’t know what the power ups are in game
+  - “yoko warp” and “tate warp” functions, which let you warp around the left / right and top / bottom of the screen respectively. It’s incredibly weird, and the yoko warp is actually required in a few areas to get past otherwise unavoidable walls.
+- Enemies
+  - Whenever something is killed, they leave behind a quick message in Japanese
+    - Cries of Pain, STOP IT,
+    - When a player character is killed, they say things like “ototto” (“oops”) or “maita na” (“I’ve lost”).
+- Bosses
+  - One is a robotic hand that plays rock-paper-scissors with you.
+    - Before the fight, you pick one of three hand gestures – if you win, you beat it automatically.
+  - Whenever something is killed, they leave behind a quick message, spelled out in singular Japanese characters. Most enemies yell “HIDEBU”, a comical cry of pain that originated from Hokuto no Ken after the hero, Kenshiro attacks a foe and causes them to explode. One boss has enemies that spout “YAMATE” (“stop it”).
+- All of the stages take place in outer space, with stark, black backgrounds.
+- Extreme difficulty of the MSX version
+  - Konami Antiques MSX Collection Vol. 3 for PSX fixes the scrolling
+  - There’s also an option to increase the playing field on both sides (320 pixels vs. 256 pixels in the MSX version).
+- It’s basically Gradius though right?
+- Sequels and Spinoffs

@@ -1,0 +1,28 @@
+# 364 - Little Nemo: The Dream Master
+
+- Journey to a Land of Wonder
+- Based on the Japanese-American animated film, Little Nemo: Adventures in Slumberland
+- Little Nemo was already a 1911 silent animated short film. One of the earliest animated films.
+- Which is based on the New York Herald comic strip Little Nemo in Slumberland from 1905
+- The comic ran for over 20 years but had been out of print for decades before the game's release.
+- Gameplay
+- The player controls Nemo in a side-scrolling, 2D environment. Amazing graphics and sound
+- Nemo’s main weapon is candy, which stuns enemies briefly. Does not kill them. This will become a huge problem with lots of enemies.
+- Each level requires collecting a specific number of keys to progress.
+  - The required number of keys is only revealed at the exit, which has corresponding locks.
+  - Backtracking can be tedious when missing keys, though they are rarely hidden in obscure places.
+- Various animals can be encountered and fed to grant Nemo special abilities. He can ride a Hermit crab, Gorilla, Hornet, Frog, Lizard, and Mole
+- Some animal abilities are essential for progress, while others provide convenience.
+  - Different animals have varying life bars, sometimes offering more health than Nemo.
+  - Not all animals kill enemies either
+- Later levels, especially Nightmare World, abandon key collecting and introduce a magic wand weapon.
+  - Nightmare World features tougher platforming challenges with deadly obstacles like spikes and constant enemy attacks.
+- It is considered a highly difficult game which is kind of funny considering the target audience
+  - The game has no password system, but a level select cheat is available.
+- If you beat the game 2 times in a row in your next game you will have an unlimited supply of everything.
+- Arcade Version
+- Released around the same time
+- Known simply as Nemo
+- No keys or animal transformations.
+- Features two-player co-op with Nemo and Flip using short-range weapons.
+- Slumberland is a 2022 American fantasy adventure film directed by Francis Lawrence. was released on November 18, 2022, by Netflix. It received generally mixed reviews from critics.

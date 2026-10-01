@@ -1,0 +1,51 @@
+# 350 - Narc
+
+- NO ONE HAD THE GUTS UNTIL NOW
+- What is the Gameplay Loop?
+- NARC is a side-scrolling action game with a focus on law enforcement, where players control officers tasked with taking down drug dealers and crime syndicates.
+- The core gameplay loop involves shooting or arresting enemies across various urban environments, progressing through levels while collecting contraband.
+- Players have access to two main weapons: a machine gun and rocket launcher, allowing a balance between precision and heavy firepower.
+- The game rewards either arresting criminals (non-lethal) or taking them out, with extra points for non-lethal takedowns.
+- At the end of each level, players fight bosses, with a final showdown against the crime kingpin, Mr. Big.
+- What are Some Key Features of the Game?
+- Violence and mature themes: Rare for an NES title, NARC involves mature subject matter, focusing on crime, drugs, and violence.
+- Two-player co-op mode: A significant feature, allowing players to experience the game with a friend, a standout in many action games of the era.
+- Weapon variety: The machine gun provides rapid fire for smaller enemies, while the rocket launcher destroys both enemies and vehicles.
+- Collectibles and power-ups: Scattered through levels are items like cash and drugs, which are collected for bonus points.
+- Diverse enemies: The game features a wide array of enemies, including junkies, drug pushers, and attack dogs.
+- Summary
+- NARC is remembered for its aggressive anti-drug message.
+  - reinforced through over-the-top violence.
+  - featuring adult themes, such as drug abuse and sexual references, but with a cartoonish tone.
+- The NES port carries the spirit of the original arcade game despite some censorship and graphical downgrades.
+- Gameplay involves simple run-and-gun mechanics, with some awkward control adaptations on NES.
+  - Key mechanics (like crouching and jumping) are poorly implemented on NES controls.
+  - Thank goodness the NES can do full presses and taps
+- Players are often overwhelmed by endless waves of enemies, making gameplay frustrating.
+- The random key-drop mechanic to progress can cause frustrating delays.
+- A driving stage slows down the action, and although brief, is not enjoyable.
+- The final boss fight features poor hit detection and is especially frustrating.
+- NARC was groundbreaking for its time with digitized graphics, but the NES port’s visuals are ugly.
+- Despite censorship, some gore and violence were retained in the NES version.
+- What are Some Other Examples of Games Like NARC on NES?
+- RoboCop: Another law enforcement-themed action game with a focus on shooting and arresting criminals.
+- Bad Dudes: Similar in its side-scrolling action style with brawler mechanics, although more focused on beat 'em up elements than shooting.
+- Bayou Billy: Combines beat 'em up, driving, and shooting segments, creating a mix of action, similar to NARC’s multi-weapon approach.
+- Contra: While Contra is more focused on alien invaders, it shares a high-paced, gun-based side-scrolling experience.
+- What Makes it Unique/Different from Other NES Games?
+- Controversial subject matter: Unlike most NES games which focus on fantasy or adventure, NARC tackles real-world issues like drugs and crime, which stood out on a platform often seen as family-friendly.
+- Graphic violence: For an NES game, it pushed the boundaries of violence, with gruesome visuals like blood, body explosions, and disturbing enemy designs.
+- Focus on arrests: NARC gives players the option to arrest enemies rather than just eliminate them, introducing a moral choice to the gameplay that was relatively uncommon in games of the era.
+- Dual weapon system: The combination of a rapid-fire gun and a powerful explosive weapon in a side-scrolling action game allowed for strategic choices, depending on the situation.
+- What Kind of Quality of Life Improvements Could NARC Have Added?
+- Better hit detection and controls: At times, the controls can feel sluggish, and hit detection is inconsistent, making combat feel clunky.
+- Expanded enemy variety: While the game has a diverse set of enemies, later levels feel repetitive, and additional enemy types or behaviors could have kept the experience fresh.
+- Improved pacing: The game’s difficulty spikes dramatically at points, with better level progression or checkpoint systems making it less frustrating.
+- Weapon variety: While the machine gun and rocket launcher are iconic, adding more weapon types or upgrades could have expanded gameplay options.
+- Enhanced co-op mode: Adding friendly fire protection in co-op play would prevent players from accidentally damaging each other, making the two-player experience smoother.
+- 2005 NARC Reboot:
+- In 2005, a reboot of NARC was released for PlayStation 2 and Xbox. It kept the anti-drug theme but introduced new mechanics, including giving the player the option to take drugs to gain temporary power-ups, which was quite controversial.
+- The reboot was received poorly due to repetitive gameplay, clunky mechanics, and its controversial handling of drug use.
+- Appearances in Other Media:
+- NARC made some notable cameo appearances, including in the 1990 Teenage Mutant Ninja Turtles movie, where an arcade cabinet of the game was shown.
+- Characters from NARC appeared in the animated TV show Acclaim Masters, a series that showcased characters from various Acclaim games.

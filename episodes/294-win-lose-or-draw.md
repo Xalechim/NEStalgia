@@ -1,0 +1,25 @@
+# 294 - Win, Lose, or Draw
+
+- Draw your own pictures like the Hit TV Game Show
+- NES Longplay
+- Manual
+- An almost great title for a show. It implies Drawing is a choice instead of winning or losing. It should be Win or Lose? DRAW!
+- Overview
+  - Draw
+- Men and Women cannot play on the same team
+  - No Computer
+- Drawing styles
+  - Computer Draws
+    - Let’s talk about it
+  - You draw
+    - Requires
+- The keyboard a necessary evil
+  - No space bar
+  - It will help you out - PYRAMID but the answer is THE PYRAMIDS still works
+- Puzzle codes to avoid repetition
+- Sequels and Spinoffs
+  - Hi Tech Expressions released two editions of the DOS version of the game in 1988, as well as a "Junior" version,
+  - A "plug-and-play" console version was released by Senario in 2005; unlike the earlier computer and console adaptations, this one allowed players to actually draw the subjects, using an electronic pen, for their teammates to guess.
+- EGL
+- Next week -
+- NEStalgia Byte -

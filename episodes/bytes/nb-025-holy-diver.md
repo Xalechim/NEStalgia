@@ -1,0 +1,25 @@
+# NB 025 - Holy Diver
+
+- Oh, what's becoming of this podcast?
+- Holy Diver the song
+- Ronnie Dio's single Holy Diver
+- the protagonist being named after Randy Rhodes, of Quiet Riot.
+  - His father is Ozzy
+  - Zakk Wylde is his brother
+  - It’s the year 666
+  - The Black Slayer (presumably stop him from reigning blood)
+- His task is to seek out the five emblem seals of the King Crimson family in order to destroy the evil Black Slayer.
+- Gameplay
+  - similar to Konami's Castlevania, developed by Irem
+    - Randy has the ability to shoot holy fire blasts from his hands
+      - How long did it take you to realize you can shoot fire upwards (for me it was until the moment in stage 2 where you have to do it to go forward)
+  - It is considered a brutally difficult game, among the hardest NES games to beat.
+  - The bosses are huge and require using all of Randy’s magical powers and abilities.
+    - Each defeated boss drops a power-up; Blizzard Magic, Breaker Magic, Overdrive Magic, Thunder Magic and the Cape of Protection. In later stages of the game, he also obtains the ability to transform into a dragon and fly through the sky blasting enemies.
+  - Dragon SHMUP sections
+  - The power ups are truly awesome though
+- RELEASE
+  - released in Japan on the Famicom in 1989.
+  - The game was scheduled for a North American release in the same year, and even received a brief preview in Electronic Gaming Monthly. However, the game was never released outside Japan. Since release, the game has gone onto becoming a rare game that is sought after by collectors.
+  - In 2018, 29 years after the game was first released, distributor Retro-bit announced that they would give Holy Diver a worldwide physical re-release for the Nintendo Entertainment System, marking the first time it was released outside of Japan for an English audience. The new edition was limited to 2,900 copies. The collector's edition of the game included a display box to house the game, pins, stickers, and artwork.
+- NEXT BYTE

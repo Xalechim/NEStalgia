@@ -1,0 +1,26 @@
+# 361 - Gauntlet II
+
+- For 1 to 4 players
+- And Multiplayer really is the hook here right? There’s a reason the arcade game is built with 4 joysticks.
+- Most Home computer versions only supported two players
+- Unlike the NES version of the first Gauntlet, Gauntlet II was a more direct conversion of the arcade original, lacking any sort of storyline or ending.
+- Gauntlet II is more like an Adventures of Lolo 2 than a Castlevania 2. Its an expanded version of the original game
+  - Multiple players can now choose to play as the same character class.
+  - New level designs were added, including the possibility of encountering them in altered ways by having the play-field turned in steps of 90°.
+  - The "It" enemy, which upon contact made a player "It" and drew all enemies towards them. The only way to release this curse is by touching another player or entering the exit, turning any level containing "It"
+  - New level elements were also added, adding more variety to the original game. These included "all walls are invisible", "magic walls" which changed into monsters or items when hit, "stun tiles" which stunned the player, and fake exits.
+  - Another challenge in the game is the possibility to find a "secret room". This can be found by completing specific achievements within a level
+    - The secret room contains items such as food and magic potions (extra shot power, extra shot speed, extra magic power, extra speed, extra armor and extra fight power).
+- Losing Health as time elapses
+- Finding the exit
+  - False Exits, opening and closing exits, moving exits. Feels like a gameshow in that regard
+- Force Fields deal damage
+- This is a game that would massively benefit from being procedurally generated cause I can’t tell any curation in the level design.
+  - And its not generated, but it is randomized! After the first 5, you can have any order and as mentioned previously, those levels can be mirrored or flipped
+- It’s a pretty dull looking game
+- VOICE NARRATION is cool
+- This was the cool to way play the arcade at home, but nowadays you can play the arcade at home. And I’m not talking about MAME, its been released on many arcade collections
+- Making of
+  - Shortly after the release of the original Gauntlet, until March 31, 1986, Atari Games held a contest where players submitted level designs, game ideas, and other suggestions for a potential Gauntlet sequel.[4][5] The winners of the contest were announced in the April 1986 issue of Atari Games' newsletter,[6] and the developers implemented some of those submissions in Gauntlet II. During the release of Gauntlet II, Atari Games held a second contest where players were tasked to find the secret rooms in the game itself. After fulfilling a certain task, the players were given a code, which they submitted to Atari Games via an entry form; the grand prize was a U.S. government saving bond valued at $5000, and the first 500 entries received a t-shirt.
+- In 1997 Electronic Gaming Monthly listed Gauntlet II as the 3rd best arcade game of all time.
+- Gauntlet: The Third Encounter uses the box art of Gauntlet 1 on the NES. It will not come out on NES

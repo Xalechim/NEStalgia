@@ -1,0 +1,39 @@
+# 280 - Baseball Simulator 1.000
+
+- Precise Pitching, Bullseye Batting, and Far Out Fielding!
+- NES Longplay
+- Manual
+- The 1.000 not exactly 1,000. More for a perfect average which would be batting 1.000
+- Aside from SNK’s Baseball Stars, Baseball Simulator 1.000 was the
+- only baseball game for the NES that allowed you to create your own team from
+- scratch, naming players and giving them statistics that would be followed in
+- gameplay.  In addition, Baseball Simulator 1.000 allowed you to run a full
+- season within a six-team league of your choice, from 5 to 165 games in length,
+- and kept track of detailed player and team statistics through battery backup.
+- When the ball is hit, it is automatically sent into a fixed camera posisition
+- "Ultra Plays."  These plays included pitches that would snake left and right as they
+- went to the plate, hits that would explode whenever they were caught, and
+- fielders who could leap thirty feet in the air to rob batters of home runs,
+- among others.
+- if both teams are set to AUTO, you will be given the
+- option to either WATCH the game, or SKIP it and have the computer simulate it.
+- However, computer simulations still take 6-10 minutes, while watching a game
+- takes about 25-30 minutes, so either way you’d better go make yourself a
+- sandwich or something.  (And if you choose to skip the game, you’re forced to
+- look at the Sports News screen, and anchor, the whole time, while the box score
+- sloooooooowly gets posted.)  Also, if both teams are set to AUTO, and twenty
+- seconds goes by on the pre-game screen without anything happening, the computer
+- will automatically start the game in WATCH mode.
+- The Stats
+- It's really hard to determine how good a pitcher is, because all you get to see is his ERA, even when he comes in the game.
+- Rich Statistics with silly powers and locations
+- Playing NES Baseball Games
+- Sequels and Spinoffs
+  - Super Baseball Simulator 1.000 (1991, Super NES), also known as Super Ultra Baseball
+  - Ultra Baseball Jitsumeiban (1992, SNES), NPB licensed.
+  - Super Ultra Baseball 2 (1994, SNES)
+  - Ultra Baseball Jitsumeiban 2 (1994, SNES), NPB licensed.
+  - Ultra Baseball Jitsumeiban 3 (1995, SNES), NPB licensed.
+- EGL
+- Next week -  Baseball Simulator 1.000
+- NEStalgia Byte - Downtown Special: It's Kunio-kun's Period Drama, Gather Everyone!

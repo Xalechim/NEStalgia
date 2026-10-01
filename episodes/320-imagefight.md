@@ -1,0 +1,32 @@
+# 320 - ImageFight
+
+- Victory will come only to the worthy. Are you?
+- NES Longplay
+- Manual
+- On a fateful day in 20XX, the Earth's moon exploded into four large fragments and a multitude of meteors. Aliens from afar had succeeded in destroying the West's moon base. One after another, mankind's other military industrial space complexes were being lost. What mankind dreaded had come to pass. Scores of unidentified fighters were in the area. In addition, the moon's main computer, still intact after the explosion, had a strange vegetation coiled around it. Their trademark evil exploits being a dead giveaway, invaders from the Boondoggle Galaxy had arrived to take over the Earth. To counter these evil forces, leading scientists from all over the globe created the "OF-1" Fightership. Combat pilots depart the Earth to fend off the invaders and earn everlasting glory.
+- Gameplay
+  - Imagefight is Irem which is also R-Type. Their teams Gradius. This game came out one year after R-Type, but we haven’t seen R-Type on NES
+  - The game begins with five stages taking place inside a combat simulation, and the player's ability to destroy enemy entities is tested.
+  - Upon finishing a simulation stage, the game displays results and shows if their score is considered passing or failing.
+  - The player must have an average kill rate of 90% or better in the simulation stages to immediately proceed to real combat.
+  - If the player fails, they must play an additional stage before entering real combat.
+  - Real combat consists of three stages. The real combat stages play very much like a traditional shoot em' up game
+- The Pods
+  - The Pod, once collected, floats alongside the player's ship.
+  - Red Pod – this changes direction based on the movement of the ship, and can therefore be aimed at enemies. This can be very useful, as enemies can and do attack from any direction.
+  - Blue Pod – similar to the Red Pod, except it always points forward and the direction cannot be changed. This makes it more powerful in direct confrontations, but less versatile.
+  - The ship can support up to three Pods. The first two Pods collected will take up positions on the left and right sides of the ship; the third Pod hovers behind it.
+  - The Pod Shot is a special attack in which the side Pods are launched forward at high speed, before circling back and returning to the ship. This enables them to be used as projectiles themselves, and thrown at enemies ahead. This attack can be performed with either one or two side Pods; the rear Pod, if present, does not participate.
+- The ship has four different levels of speed that the player can switch between, to allow for more precise manoeuvering in confined spaces.
+- Power-Ups
+  - Described as components
+    - Unlike the Force in R-Type, they cannot be ejected from the ship; the only way to remove them, in fact, is to have them destroyed.
+- Sequels and Spinoffs
+  - According to producer Hiroshi Iuchi, creator of Radiant Silvergun, Image Fight was the main inspiration for Radiant Silvergun's design
+  - Image Fight on FM Towns has player controlled scrolling (same game otherwise)
+  - Image Fight II: Operation Deepstriker, a sequel for the PC Engine Super CD-ROM² in 1992 exclusively in Japan.
+    - featuring an expanded story told in fully-voiced, animated cinematics, new enemies and arsenal options, a new ship, and remixed soundtrack
+  - The ship from this game is included in R-Type Final, where it is the first in a series of five fighters called the OF series. The Pods are also available on fighters of the OF series.
+- EGL
+- NEXT WEEK - Jeopardy! 25th Anniversary Edition
+  - What is…the last time we have to review Jeopardy

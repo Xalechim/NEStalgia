@@ -1,0 +1,25 @@
+# 293 - Wheel of Fortune: Family Edition
+
+- The exciting software version of television's number one game show has an all-new Family Edition!
+- NES Longplay
+- Manual
+- It’s going to be a joke episode
+  - 1 of our patrons suggested we eat beans whenever we say something wrong
+  - I suggested we bring our family on for this episode
+  - Sean suggested we just spin a wheel for an hour and talk about how great and handsome and all knowing the wheel was
+- Have your thoughts on NES Wheel of Fortune changed at all since 8/5/2022
+  - We first reviewed Wheel on 5/22/2020
+- Now for some fun
+  - How would you change Wheel of Fortune (not the video game)?
+    - Make the wheel more exciting. Why is it just Money. They learned nothing about the excitement of the Bankrupt
+  - Is there any comparison to be made to Game Show Network on TV and Twitch.TV on the internet?
+    - Boomers can’t understand why kids watch Twitch yet they are watching Wheel of Fortune re-runs from the 80s
+  - What could be a Video Game only version of a Game Show? Something that IS a Game Show, but couldn’t possibly have a 2pm Weekday slot
+  - Who is the better wheel? Wheel of Fortune or the Wheel on the Price is Right where you don’t go over a dollar?
+  - What Game Show would you want to be on and do you think you’d be good at?
+    - Deal or No Deal
+  - Is Wheel of Fortune Family Edition a remake, re-release, remaster, or something else?
+    - Have you ever bought a game twice? Was there promise a dramatically different experience
+- EGL
+- Next week -
+- NEStalgia Byte -

@@ -1,0 +1,53 @@
+# 348 - Bigfoot
+
+- CRUNCHING AND MUNCHING
+- What is the Gameplay Loop?
+- Bigfoot is a mix of racing and side-scrolling action with the player controlling a monster truck in various events.
+- The core gameplay involves competing in races and other challenges like car-crushing, hill climbs, and mud racing.
+- The goal is to win races and events to progress through the game's various stages, earning points, money, and upgrades for your truck.
+- Players must manage fuel and repair damage during races, adding a layer of strategy to the game.
+- The game alternates between racing segments and mini-games, breaking up the core loop with different challenges.
+- Levels
+- Bigfoot features different types of levels, divided between racing and obstacle events:
+- Racing Levels:
+  - These are side-scrolling races where you compete against an AI opponent in a monster truck.
+  - Races take place on various terrains such as dirt, grass, and mud, which affect truck performance.
+  - Players must avoid obstacles and manage fuel and damage during these races.
+  - Winning races grants cash for upgrades and repairs.
+- Arena Events:
+  - These levels include different competitions such as:
+    - Car Crush: Players must drive over and crush rows of cars to score points.
+    - Mud Racing: A more complex terrain race where trucks get bogged down in the mud, requiring skill to navigate and maintain speed.
+    - Hill Climb: Players must drive their trucks up steep, uneven hills to reach the top.
+  - These events are typically shorter but require precise control and timing.
+- Power-ups
+- Power-ups in Bigfoot play an important role, helping players manage fuel, repair damage, and boost performance:
+- Fuel Cans:
+  - Scattered throughout racing levels, fuel cans replenish the truck’s fuel meter. Running out of fuel causes the player to lose the race.
+- Wrenches:
+  - Collecting wrenches helps repair damage sustained during races. Players can pick these up on the course to reduce wear and tear on their truck.
+- Nitro Boosts:
+  - A temporary speed boost that helps players move faster, especially useful in obstacle events or when overtaking opponents in races.
+- Money Bags:
+  - Money bags increase the player’s cash, which can be used to purchase truck upgrades between events.
+- What Are Some Other Examples of Monster Truck Video Games? What Makes Them Fun?
+- Monster Truck Madness (1996) for PC: Known for its realistic physics and chaotic racing, making it fun with destructible environments.
+- Monster Truck Rally (1991) for NES: Another monster truck racing game, more focused on competitive racing across different terrains.
+- Excitebike (1984) for NES: Not a monster truck game, but shares the off-road, stunt-based racing vibe, offering customization and track creation.
+- Monster truck games are typically fun due to their exaggerated physics, massive vehicles, destruction elements, and larger-than-life races.
+- Players enjoy the over-the-top nature of monster truck games, where flipping over cars, performing stunts, and competing in extreme events is central.
+- What Makes It Unique/Different From Other NES Racing Games?
+- Bigfoot blends racing and side-scrolling mechanics, unlike most NES racing games that focus solely on one genre.
+- It includes mini-games like car-crushing competitions, which give it a multi-event feel compared to straightforward racing games like Rad Racer or Excitebike.
+- The game incorporates a resource management element with fuel and repairs, which adds a strategic layer uncommon in most NES racing games.
+- The use of a licensed vehicle (the Bigfoot monster truck) gives it brand recognition, drawing fans of the real-life truck into the game.
+- Are There Any Other Monster Truck Games on the NES?
+- The only other notable NES game featuring monster trucks is Monster Truck Rally (1991), which is more focused on straightforward races rather than mixed-event gameplay.
+- Bigfoot stands out as one of the few NES games to feature a licensed monster truck, making it relatively unique for the system.
+- What Else Could This Game Have Done to Stand Out?
+- Improving the controls and physics could have made the racing feel smoother, as many players found the gameplay frustrating due to stiff handling.
+- More dynamic events and better mini-game integration could have added variety, ensuring that the game didn’t feel repetitive.
+- A multiplayer mode or competitive split-screen racing could have boosted its appeal for party play and added replay value.
+- The use of a licensed vehicle (the Bigfoot monster truck) gives it brand recognition, drawing fans of the real-life truck into the game.
+- Introducing more environmental effects like destructible landscapes, bigger jumps, or more interactive obstacles would have captured the extreme nature of monster trucks better.
+- A career mode with more meaningful upgrades or customization for the trucks could have enhanced the progression system.

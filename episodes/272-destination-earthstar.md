@@ -1,0 +1,28 @@
+# 272 - Destination Earthstar
+
+- Pull out of warp speed and lock on your Neutron Torpedos - NOW!
+- NES Longplay
+- Introductions
+  - We mostly talk about lack of plots, so I wanted to highlight the developers of Earthstar for coming up with a creative “space” game that still keeps the idea of Earth at the forefront.
+  - All that goodwill on storytelling is immediately forgotten when you realize they named the players ship SPACESHIP EARTHSHIP
+- Overview
+  - Platform/Puzzle game where you play as Dash Galaxy, navigating a series of rooms looking for keys to continue climbing the asylum.
+- Gameplay
+  - The layout
+    - 8x8 grid, # enemies, (0)planets, (A)rmories, (B)ase, and blanks
+    - Do you need the empty spaces
+    - XYZ tracking
+  - Learning the controls
+    - B plus directional pads for changing speeds, warp drive
+    - B and select for views
+    - Pause:    Press A and B simultaneously
+  - Each enemy is a battle
+    - Multiple shots
+    - Not many options for maneuvering
+    - Lasers have cooldown
+  - SHMUP base attacks
+- Sequels and Spinoffs
+    - None, imagineering and acclaim
+- EGL
+- Next week - Rollerball
+- NEStalgia Byte - Cocoron

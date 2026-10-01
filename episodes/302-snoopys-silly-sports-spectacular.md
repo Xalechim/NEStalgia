@@ -1,0 +1,23 @@
+# 302 - Snoopy's Silly Sports Spectacular
+
+- There’s more fun here than a month of Sunday Comics
+- NES Longplay
+- Manual
+- Is that a diss at The Peanuts?
+- Finally SILLY sports.
+  - Events include boot throwing, pizza balancing, sack racing, pogo, river jump, and overboarding
+- Landmarks unique to Italy are shown (i.e., Leaning Tower of Pisa) and the structures using Roman architecture (i.e., the Colosseum) are shown while the player competes at the six events.
+  - Manual mentions Greece as well
+- This episode is officially longer than the time it takes to experience the entire game
+- Does the silliness make up for the lack of features?
+- The B button is only used in the River Jump
+- Sequels and Spinoffs
+  - (Donald Duck in the Japanese version)
+    - The difference is that Donald can cast Zettaflare
+    - As Japanese video game company Capcom USA held the Disney license in North America, Kemco decided to license Snoopy instead for the North American version.
+  - A majority of the game seems to be ported from the Commodore 64 video game Alternative World Games by Gremlin Interactive.
+    - But Kemco made this game. Interesting. Turns out they had a deal in place to port their computer games to the western NES market
+- EGL
+- Next week -  Super C
+- NEStalgia Byte - Honoo no Doukyuuji: Dodge Danpei
+  - (HOE-NO NO MICHI-KOJI DODGE DEN-PIE)

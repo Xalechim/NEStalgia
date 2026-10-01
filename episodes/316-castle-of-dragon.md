@@ -1,0 +1,25 @@
+# 316 - Castle of Dragon
+
+- Princess Amoreena has been carried away by the evil offspring of Darklarza The Dragon Master. Geraden, Duke of Menlary, needs your help to defeat the hideous
+- legions of the undead to secure the instruments of Darklarza's demise!
+- NES Longplay
+- Manual
+- I read all that because it’s the only text on the box and just sounds like word salad
+- ATHENA is the developer, not to be confused with ATHENA the game. This is the team that made Championship Bowling
+- The look of the game
+  - Has a stutter to it and a lot of flashing
+  - The animation is somehow more detailed yet janky?
+- Lack of info online and the manual. But the pictures in the manual are nice
+- Overworld map similar to Castlevania and Wizards & Warriors
+- Gameplay
+  - Hack and Slash
+  - Lack of feedback
+  - 16 bars of Health.  You only get one life
+    - Up to 64 bars of health
+    - While you have no continues you'll restart the game with the same life meter and weapons as when you died.
+  - Select to pause
+- Sequels and Spinoffs
+  - No sequels
+- EGL
+- NEXT WEEK - Chip 'n Dale: Rescue Rangers
+  - Not Chippendales which could have been an entirely different video game probably not with the NES Seal of Quality.

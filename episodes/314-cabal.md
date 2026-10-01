@@ -1,0 +1,44 @@
+# 314 - Cabal
+
+- Show no mercy!
+- NES Longplay
+- Manual
+- 1988 arcade shooter
+  - Developed by TAD Corporation which was a group of ex Data East Devs trying their own company
+  - Arcade had the trackball (which I never really liked, it made sense for marble madness but very little. People use those as computer mice)
+- PLOT
+  - YOUR ORDERS, SOLDIER
+    - At ease! Major I.M. Havoc here--Combat Consultant to the International World Affairs Council. We've just received notice of a world-wide assault being planned by D.R.A.T.-the Dreaded Republic of Allied Terrorists. The Council has instructed me to select a volunteer to defuse the situation.. and guess what? You just volunteered!
+    - Get ready for a week's R & R (Recon and Ruina-tion) at the terrorist camp, on a secluded island paradise. You'll stroll the warm, tropical beaches as bullets shred the sand at your feet. Gaze at enchanting sunsets as you dodge the raking fire of deadly combat choppers. And admire the beauty of ancient ruins. And then ruin 'em some more!
+    - This is strictly a covert operation. The Council cannot claim responsibility for you if you fail.
+    - You're on your own and if ya' mess up, it's your hide. The entire terrorist camp must be wiped out or the vermin will begin their reign of terror.
+    - Leave no buildings standing. No ships floating. No choppers flying. And most importantly. .clear the entire zone of enemy personnel!
+    - Keep your eyes open and your finger on the trig-ger. Complete your mission and the world can breathe a sigh of relief. And good luck, soldier.
+    - You're gonna need it!
+    - Major I.M. Havoc Combat Consultant, I.W.A.C.
+- At the end of the manual, the last page congratulates you on completing the game…so do you even need to see the end screen? You got the congratulations.
+- Wild Guns = Cabal
+- Cabal is like Virtua Cop, House of the Dead, Time Crisis light gun style game if there was never any advancement from the player as enemies were defeated and if there wasn’t a lightgun
+  - This should’ve been a light gun game right?
+- Gameplay
+  - Generic gun with limitless ammunition and a fixed number of grenades to fend off enemy troops and attack the base.
+    - Some power-ups give special weapons such as an extremely fast-firing machine gun or an automatic shotgun with a lower firing rate and larger area of effect. Others grant extra grenades or additional points.
+  - Starts behind a wall which can be damaged and shattered by enemy fire.
+  - An enemy gauge at the bottom of the screen depletes as foes are destroyed and certain structures (which collapse rather than shatter) are brought down.
+  - When the enemy gauge is emptied, the level is successfully completed, all of the remaining buildings onscreen collapse, and the player progresses to the next stage.
+  - Some ports didn’t have the roll
+- The awkward run when you finish a level
+- 2 player requirement?
+- D.R.A.T
+  - They’re such a DRAT
+  - DREADED REPUBLIC OF ALLIED TERRORIST
+    - Would terrorists of different allegiances form an alliance? Is there a common goal or niche for that?
+- Sequels and Spinoffs
+  - TAD corp games
+    - JuJu Densetsu (Japan) / Toki (U.S.) (1989)
+    - Blood Bros. (1990)
+    - Legionnaire (1992)
+    - Heated Barrel (1992)
+- EGL
+- NEXT WEEK - Captain Skyhawk
+  - Superhero, SHMUP, SUPER SHUMP?!

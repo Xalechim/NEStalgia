@@ -1,0 +1,57 @@
+# 279 - Astyanax
+
+- Return to the age of Myths and Magic, Demons and Dragons
+- NES Longplay
+- Manual
+- That’s the name of the hero
+  - Astyanax is a 16-year-old student from Greenview High School who has been having a recurring dream in which a young woman is calling out for his name. One day, while on his way to class, Astyanax is suddenly transported into another dimension
+- Gameplay
+  - Power Gauge
+    - The striking power of your weapon
+  - The sprite work and the resulting slow down
+  - You better want to fight ALL of these monsters
+    - And they are sponges
+  - Enemy placement in the way of platforms
+  - Pretty cool bosses compared to the common enemies
+- Power Claw - Pick this up to increase your striking power. You
+- power bar increases by 4 units. You only get one increase per
+- level
+- Mini-Axe - This alters your weapon. It changes from axe, to swift spear,
+- to mighty sword
+- Red Potion - Pick this up to restore 3 life points
+- Blue Potion - Pick this up to restore all of your life points
+- Wings - This increases your dexterity (the speed at which you swing your
+- weapon)
+- Cutie - Only appears when you are low on magic. She will either restore
+- your magic points, or change your weapon
+- Astyanax Doll - Gives you a 1-up
+- <<<<<Magic Spells>>>>>
+- Bind - Freezes all enemies in their tracks for a few seconds. It also
+- works on bosses.
+- With Axe: 5 MP
+- With Spear: 3 MP
+- With Sword: 6 MP
+- Blast - Shoots a fireball spread in all directions, destroying enemies.
+- With Axe: 6 MP
+- With Spear: 4 MP
+- With Sword: 10 MP
+- Bolt - Strikes all enemies down with a flash of lightning.
+- With Axe: 10 MP
+- With Spear: 5 MP
+- With Sword: 20 MP
+- <<<<<Codes>>>>>
+- Invincibility - At the Astyanax title screen, hit Up four times,
+- then Down, Left, Right, and Up on Controller 1. If you did
+- this right, Astyanax can not take any physical damage. He can
+- still be affected by the enemies' magic spells, though...
+- Stage Select - At the Astyanax title screen, hit Up, Down, Left,
+- Right, and B four times on controller 1. If you did this right,
+- you'll see a stage select screen that lets you start at any
+- level after the first one. He will also start out with a sword at
+- full power.
+- Sequels and Spinoffs
+  - The Lord of King in Japan
+  - They dropped the “the” for the NES in arcades it was The Astyanax
+- EGL
+- Next week -  Baseball Simulator 1.000
+- NEStalgia Byte - Downtown Special: It's Kunio-kun's Period Drama, Gather Everyone!

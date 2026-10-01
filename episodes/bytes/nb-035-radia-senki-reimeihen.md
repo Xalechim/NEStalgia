@@ -1,0 +1,34 @@
+# NB 035 - Radia Senki: Reimeihen
+
+- What is the Gameplay Loop?
+- Radia Senki: Reimeihen is an action RPG where players navigate an overworld, interact with NPCs, and engage in real-time battles.
+- The game involves exploring dungeons, completing quests, and leveling up your characters by gaining experience from battles.
+- Players need to collect and upgrade equipment, manage inventory, and use items and magic strategically to progress through the game's story.
+- Story progression is a big part of the loop, with cutscenes and dialogue driving the narrative forward, similar to a classic RPG.
+- Players begin as an amnesiac hero saved from monsters by a mage named Darus. The plot involves familiar RPG themes—world-shaping towers, an evil empire, and a grand quest—but includes unexpected twists.
+- 2. What are Some Key Features of the Game?
+- Real-Time Combat System: Unlike traditional turn-based RPGs on the NES, Radia Senki features real-time combat where players control the main character directly and can issue simple commands to allies.
+- Tactical Elements: Players can pause combat to give commands, which adds a layer of strategy, especially in tougher encounters or boss fights.
+- Rich Storyline: The game has a deep and engaging story filled with twists, making it more narrative-driven compared to many action RPGs of the era.
+- Party System: Players control the hero directly while issuing commands to companions, who have varying spells and abilities. Party AI can be problematic, sometimes causing characters to get stuck or making battles messy due to screen flicker.
+- Resource Management: Healing and managing spells is crucial. Players can pause to command allies or employ strategies like “playing dead” to escape battles.
+- Exploration and Looting: Players can search homes, chests, and other areas for items and even rest/save in various places, including strangers’ beds. Items are found rather than bought, as monsters rarely drop gold.
+- Magic and Boss Fights
+- Magic spells are categorized into healing, attack, utility, and escape. Spells are earned via scrolls and used strategically, although they are ineffective against major bosses, which add to the game's difficulty.
+- 3. What Makes it Unique/Different from Other NES Games?
+- Blend of Genres: The game is a hybrid between an action RPG and a tactical RPG. The combination of real-time combat with tactical command options was innovative for its time.
+- Narrative-Driven Gameplay: The emphasis on story and character development sets it apart from simpler action-adventure games on the NES.
+- Advanced Graphics and Animation: The game features detailed character sprites and animations that were considered impressive for the NES, along with well-designed environments.
+- Complex AI for Companions: The AI for party members is more advanced than typical games from that era, allowing for more nuanced combat interactions.
+- 4. What are Some of the More Frustrating Parts of the Game?
+- AI Issues: While the companion AI is advanced for the NES, it can still be inconsistent, sometimes causing party members to act in ways that hinder combat effectiveness.
+- 5. Why Wasn't it Released in the United States?
+- Localization Challenges: The game's heavy reliance on narrative and dialogue would have required extensive localization efforts, which were costly and time-consuming for NES-era games.
+- Market Considerations: The RPG market in the United States was still developing, and publishers were often hesitant to bring over complex or niche titles that might not appeal to a broader Western audience.
+- Publisher Hesitation: Radia Senki was developed by Tecmo, which may have been more focused on releasing games that had guaranteed commercial appeal in North America, like sports or action titles.
+- English prototype "Tower of Radia"
+- 6. Any Similar Games Released on the NES?
+- Crystalis: An action RPG with real-time combat, Crystalis shares similarities in gameplay and the mix of exploration and story-driven quests.
+- The Legend of Zelda: While not an RPG in the same sense, it features real-time combat and exploration elements that influenced many action RPGs.
+- StarTropics: An adventure game with a strong focus on story and exploration, although it lacks the RPG elements of Radia Senki.
+- Faxanadu: Another action RPG with platforming elements and real-time combat, it features a similar approach to exploration and character progression.

@@ -1,0 +1,28 @@
+# 281 - Burai Fighter
+
+- Defeat the Burai using massive weaponry
+- NES Longplay
+- Manual
+- I played this SHMUP wrong for the first 5 minutes
+- Multiple direction shooting
+  - Section Z
+- Horizontal and Vertical Movement
+  - The player is expected to keep up, as getting stuck on the edge means the player character dies.
+  - At times the player may find a gap at the side of the screen. When the player moves into the gap with correct timing, the orientation of the screen changes and takes them into a secret room with some power-ups.
+    - STAR FOX 64
+- SHMUP vs Rail Shooter
+- Power Up System
+  - The three guns that have unlimited ammo are the laser, the ring and the missile. Picking up a symbol will switch weapons and it will increase the player's counter of that weapon by one. If the counter hits five, that weapon reaches level two. Weapons can be boosted to level three.
+- player can deploy cobalt bombs that inflict damage to all enemies on the screen; they do not damage bosses
+- Every boss is weak against a particular kind of weapon.
+- Choose your difficulty
+- Plot
+  - The Burai, a race of evil super-brain aliens, have launched their plan to conquer the universe with their army of half-organic, half-robot creatures - the robo-mutants. It's up to the player to stop them! Strap on your jet pack, and get ready to become the ultimate Burai Fighter.
+- Sequels and Spinoffs
+  - Burai Fighter Deluxe on Game Boy
+    - The "Deluxe" part refers to the added versus multiplayer mode through the link cable functionality that is included with this Game Boy release.
+  - Space Marauder (the color version of Deluxe for GBC)
+    - It doesn't include the Vs. mode.
+- EGL
+- Next week -  Code Name: Viper
+- NEStalgia Byte - Downtown Special: It's Kunio-kun's Period Drama, Gather Everyone!

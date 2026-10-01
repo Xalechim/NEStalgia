@@ -1,0 +1,38 @@
+# 308 - Ninja Gaiden II: The Dark Sword of Chaos
+
+- Longplay
+- Manual
+- All the makings of a movie sequel
+  - Interesting and vague subtitle
+  - Cool poster
+  - Big hype after the first game
+- A year after the events of the original Ninja Gaiden, a new villain named Ashtar receives word of Jaquio's defeat. Ashtar uses this opportunity to hatch a new plan to plunge the world into darkness.
+- Without getting into the NEW features are the controls great as they were in 1?
+- Two new abilities that Ryu can do in Ninja Gaiden II are climbing up and down walls and attacking with "Power Boosting Items" while on walls and ladders
+- Ninja Powers
+  - "Windmill Throwing Stars" that move back and forth like a boomerang;
+  - "The Art of the Fire Wheel" which hurls fireballs diagonally upwards;
+  - "Fire Dragon Balls" which hurls fireballs diagonally downwards;
+  - and the "Invincible Fire Wheel" that creates a barrier of three fireballs around Ryu, destroying any enemy that touches them
+- ATTACK OF THE CLONES
+  - the ability for Ryu to "split his body" and clone himself when the player collects an orange ninja symbol.
+  - Collecting this symbol creates for Ryu an orange shadow of him that follows behind and copies every move Ryu makes, including climbing walls and ladders and attacking enemies. Using this technique, the player can strategically position Ryu and his clones to more easily defeat enemies and bosses.
+- The player can continue and restart the game from the beginning of the level
+- Dynamic Environments
+  - Train
+  - The wind level (changing directions)
+  - Darkness level
+- EVEN BETTER CUTSCENES?!
+- One of the first times the bad guy isn’t the final bad?
+  - Ashtar is level 5 boss, but you have to take down Jaquio and Kelbeross in level 6
+- Is it as difficult as Ninja Gaiden 1?
+- Sequels and Spinoffs
+  - Ninja Gaiden 2 - XBOX 360
+  - Ninja Gaiden Shadow for Game Boy
+    - Ninja Gaiden Shadow is a prequel to Ninja Gaiden. It is 1985, 3 years before the events of the NES game, and Jaquio has not yet been awakened. However, Emperor Garuda, an evil dictator, threatens New York city and it is up to the Ryu Hayabusa to fight him.
+  - Ninja Gaiden Sigma 2 - PS Vita
+  - Ninja Gaiden Trilogy for SNES
+    - Apparently made the games worse off despite the “upgrades”
+- EGL
+  - NG1 and 2 are both great and probably around equal in quality. NG2 has a bit more actual level design, along with the individual stage gimmicks etc, which gives it a more "complete" feel than the first game.
+  - However, I personally prefer the barebones, sleek focused ninja action of Ninja Gaiden 1 f I have to pick. I have played it much more than NG2, and it's a game I can keep coming back to. However, I think there are fair arguments to prefer either one of the three Ninja Gaiden games on the NES.

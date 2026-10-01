@@ -1,0 +1,58 @@
+# 359 - Destiny of an Emperor
+
+- Fulfill an Ancient Prophecy
+- We hope to die in the same hour of the same day of the same year
+- 1. Background and Context
+- Destiny of an Emperor was released in 1990 for the NES by Capcom.
+- Based on the Chinese historical novel Romance of the Three Kingdoms and the manga Tenchi wo Kurau by Hiroshi Motomiya.
+- Its ancient Chinese setting stood out among the medieval or futuristic themes common in JRPGs.
+- Reminiscent of Koei’s strategy games, with its focus on generals, armies, and resource management.
+- 2. Gameplay Mechanics
+- Exploration and Movement:
+- Fast walking speed, reducing the grind common in other RPGs.
+- Items like Gullwings allow instant return to towns.
+- Resource Management:
+- The game uses rice (food) to sustain the army, reminiscent of Nobunaga’s Ambition.
+- Running out of food causes damage with each step, adding a survival element.
+- Tactical Points (TP):
+- Shared pool for magic-like abilities (tactics), governed by tacticians' intelligence and specific tactic sets.
+- Adds a strategic layer to battles.
+- Equipment Quirks:
+- Starts with unequipped items, requiring manual setup.
+- 3. Battle System
+- Generals and Armies:
+- Generals represent characters in battle, with army size acting as HP.
+- A unique “Power of 10” mechanic dictates damage output, rewarding careful unit placement to maximize strength.
+- Stats like strength, intelligence, and troop numbers affect effectiveness.
+- Tactics:
+- Acts as the game’s magic system, enabling healing, buffs, and offensive abilities.
+- Players can choose between targeting single or multiple enemies (with reduced strength).
+- Innovative Options:
+- “All-out” battle option automates minor fights, saving time during repetitive encounters.
+- 4. Recruitment System
+- A robust system allows up to 150 generals to join, with 70 active slots available.
+- Recruitment is achieved through negotiation, payment, or repeated victories in battle.
+- Adds personalization and experimentation to party building.
+- 5. Story and Structure
+- Follows the rise of Liu Bei, chronicling events from Romance of the Three Kingdoms.
+- Linear progression focused on castle conquests and set-piece battles.
+- Dungeon and overworld visuals are repetitive, but varied battles maintain player engagement.
+- Repetitive Battles:
+- Battles occur frequently, but the progression and tactics add enough variety to keep things engaging.
+- Party Dynamics:
+- Fired party members can reappear as wild enemies.
+- Tactical decision-making involves prioritizing generals based on their optimal damage thresholds.
+- 7. Sequel – Tenchi wo Kurau II (1991)
+- Released for the Famicom, retaining many mechanics while introducing changes:
+  - Removed food management for simplified exploration.
+  - Linear story progression restricted by river-crossing events, emphasizing narrative over branching paths.
+  - Introduced formation tactics, which grant stat bonuses and special effects during battle.
+  - Maximum soldier count capped at 9,999, simplifying army management.
+  - Weapons categorized into five types: swords, sabres, bows, axes, and spears, with specific ultimate weapons.
+- 8. Modding and Legacy
+- Fan Modding:
+  - In 2007, a tool called Destiny of an Editor was created, allowing fans to edit stats, maps, encounters, and graphics.
+  - Led to a vibrant hacking community and the Huan Ho awards for the best Destiny of an Emperor hacks.
+- Cult Following:
+- Despite its niche appeal, Destiny of an Emperor developed a loyal fanbase.
+- Praised for its historical setting, tactical depth, and unique mechanics.

@@ -1,0 +1,35 @@
+# 307 - Xexyz
+
+- THE SPACE ACTION ADVENTURE…
+- NES Longplay
+- Manual
+- SEXY
+  - Girls in bathtubs
+- STORY
+  - In the year 2777 earth existed in a totally different atmosphere
+  - Due to nuclear wars and natural disasters, the population decreased dramatically and only five small islands existed on the surface of the earth.
+  - Those five islands formed a nation and for hundreds of years people lived peacefully. The new nation is called XEXYZ.
+  - At XEXYZ, aside from human beings, there exist fairies and spirits who lived under the ruling of King Xeu Star. But one day, XEXYZ was attacked by the mechanic fortress, GORUZA, from outer space. XEXYZ did not have many weapons to fight back and was forced to surrender.
+  - GORUZA built mechanic castles on each island, captured a queen from each island and confined them.
+  - Battle-soldier Apollo could not endure the cruel treatment of GORUZA any longer. So he put on his space battle suit and challenged the mechanic beasts' empire!
+- RIGID controls
+  - Shooting in different directions
+    - 45 degree is the first you get
+    - Jumps fall awkwardly
+- The need to always be shooting cause you’re not sure what’s in front of you, yet there is tremendous slow down
+- 45 degree
+- Air vents
+- GAMEPLAY/SCENE CHANGES
+  - Cool introduction to the SHMUP portion, but it doesn’t feel like a SHMUP
+    - prompted to jump into a vehicle (a different one each time)
+  - Pointless door choices that make you restart the shmup section. What kind of magic door is this?
+- Puzzle Solving in Platformers
+  - Move this, use this, find this to move on
+  - Pay me to figure out what to do
+- EGL
+  - @TonyAKA30 8 years ago
+    - One of my all time favorite NES games. I was never able to get past the first level but the game fascinated my nonetheless
+- After playing through so much of the NES library, what do each of you think has been the worst game so far?
+  - Snoopy's Silly Sports Spectacular
+  - Tag Team Wrestling
+  - Kid Kool and Dash Galaxy

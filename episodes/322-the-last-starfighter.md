@@ -1,0 +1,42 @@
+# 322 - The Last Starfighter
+
+- You’re the best there is - The #1 Arcade Champion
+- NES Longplay
+- Manual
+- Sequels and Spinoffs
+  - The Last Starfighter movie from 1984. A teenager recruited by an alien defense force to fight in an interstellar war. Tron like CGI
+    - The high score to beat is 500,000 by ALX.  This is notable, as the main character in the movie, played by Lance Guest, is named Alex Rogan.
+  - Star Raiders II is a video game released in 1986 for the Atari 8-bit family as a sequel to 1979's Star Raiders, which was the killer app for the Atari computers. The game was originally developed as part of a tie-in with the movie The Last Starfighter, which featured an arcade game of the same name as part of its plotline.
+  - Uridium on the Commodore 64
+    - This NES game is a port of that
+    - Mindscape slapped a new title on this and did the same with Conan which was a port of a computer game called Myth: History in the Making,
+- Plot
+  - https://www.digitpress.com/library/manuals/nes/Last%20Starfighter.pdf
+- Gameplay
+  - Destroy bases at your own leisure. Get to the end of a level and decide to land your ship when you’re satisfied. Your scores will tally and you’ll see a cool annihilation sequence of the base.
+  - Playing with speed
+  - Landing
+- To land, approach that VERY LAST landing strip from the left side so you are
+- flying to the right.  The second you fly over that last strip with the arrows,
+- hold left to slow down and instead of turning back to the left you will
+- actually land, as the ship lowers itself down to the runway. You CANNOT land by
+- flying in from the right side. Once you actually achieve this it will seem
+- easy, but it actually seems really complicated to pull off.
+  - THE FUEL ROD CHAMBER
+- 2 squares flashing alternately.  One has the word QUIT in it while the other has a number.  The number is a bonus score.  You have to press A or B while the number flashes.If you press it while the word QUIT is flashing, the bonus level is over.  If
+- you press the button while the score is flashing, you move up to the next
+- level
+  - Annihilation
+    - Why is it auto-pilot if you can control the ship?
+  - Only 15 levels, with such little consequence for ending a level early this should be an infinite loop
+    - The ending says GOOD ZAPPIN…TURKEY
+  - No death blossom
+    - https://www.youtube.com/watch?v=MLNvUsTBGyE
+  - 2 player is not simultaneous
+- Development
+  - Mindscape contracted a company called Eastridge Technology, run by a single guy, Nick Eastridge, to do a bunch of NES games for them (Mad Max, Paperboy, Conan, just to name a few). However, Mindscape gave Nick such short time limits to get the game done, and single-handedly programming a Nintendo NES game in 6502 assembly language is not an easy task.
+- Sequels and spinoffs
+  - Uridium was followed by Uridium+ (a modified version containing new levels), and Uridium 2 on the Amiga platform.
+- EGL
+- Next week - The Mafat Conspiracy: Golgo 13
+- NEStalgia Byte - Konami Wai Wai World

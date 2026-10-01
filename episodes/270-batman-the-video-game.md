@@ -1,0 +1,32 @@
+# 270 - Batman: The Video Game
+
+- He’s totally new. Totally Tough. And he’ll stop at nothing to make sure justice prevails
+- NES Longplay
+- Introductions
+  - And that back of the box was totally tonally off right?
+  - This isn’t just a Batman Video Game, like the box would have you believe, it’s Batman: The Movie: The Game.
+- Overview
+  - In this side scrolling action game, play as batman through five levels loosely based on the 1989 film before a final showdown with the Joker
+- Gameplay
+  - It’s kind of a meme now to say the Arkham games really make you feel like Batman. So since I can’t resist a meme, does this game make you feel like Batman?
+  - The Levels
+    - Wall Jumping
+    - Some areas where it seems like you just have to take damage
+    - The cutscenes between levels don’t exactly connect with what happened in the levels
+  - Bat-Gadgets
+    - the batarang, batdisk, and batpoon
+    - The problem with the gadgets is cycling through them just to get back to your punch. They are very useful against tougher enemies though
+  - Enemies
+    - A number of notable DC Comics villains appear as low-level minions in the game, including Deadshot, KGBeast, Maxie Zeus, Heat Wave, Shakedown, and Nightslayer.
+    - The bosses in the game are Killer Moth, the “Machine Intelligence System”, the Electrocutioner, a machine known as “the Dual-Container Alarm”, Firebug, and the Joker.
+      - The penultimate boss will be skipped in the continued play if the player reached the Joker previously, so the player can directly fight the Joker next time.
+- The NES version is also considered by many players and reviewers to be one of the most difficult games ever released for the system.
+- The prototype version of the game had some significant differences, such as a 1UP icon and entirely different cut-scenes. The game's original last boss was Firebug and there was no Joker boss. Instead, Batman defeats the Joker in the ending cut-scene. The art and dialogue were changed from the prototype to the final version to better reflect the look and events from the movie.
+- Sequels and Spinoffs
+  - Just wanna talk about the other BATMAN movie games
+    - The Genesis version is more faithful to the movie, but deemed too short and uninteresting.
+    - Game Boy versions has Batman attacking with a gun and is arguably the least related title to the movie. Batman did use a gun in Year 2 (which is stupid and does not personally happen in my own comic timeline)
+    - Batman for the PC Engine is an action-puzzle game, developed by Sunsoft and released in 1990 only in Japan. For unknown reasons the game was never released in North America for the TurboGrafx-16.
+- EGL
+- Next week - Dash Galaxy in the Alien Asylum
+- NEStalgia Byte - Chaos World

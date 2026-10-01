@@ -1,0 +1,36 @@
+# 323 - The Mafat Conspiracy
+
+- Caution! Opening this box unleashes an awesome adventure
+- NES Longplay
+- Manual
+- The back of the box also refers to the Mafat Conspiracy as a Phantasmagoria of Action and interaction
+  - DEFINITION - a constantly shifting complex succession of things seen or imagined
+  - The intro goes hard though. Golgo sniping off a purple skeleton. We’ve transcended the reality of the first game.
+- Golgo 13
+- Mafat Plot
+  - A “star wars” satellite has been stolen
+  - KGB and CIA blame each other
+  - It’s up to Golgo 13 (AKA DUKE) to recapture the satellite and stop nuclear war…a bit like Metal Gear Solid with FOXHOUND threatening to launch the nukes and the actual actions of the US Government being called into question
+- Gameplay
+  - More linear
+  - Standard Action Screens
+    - The lack of any detective sleuthing here. Just get to the end to advance the game
+    - When you get a gun, it defaults to shooting unless you get close enough and then it knows to kick. Pretty cool intuitive design rather than having to switch out the gun for melee or assigning another button
+    - Game starts off pretty fair, then the Ninjas show up and it’s a little more bombarding
+  - 3D Maze Levels
+    - Oh no!
+    - No map, no sense of direction. Better grab paper
+      - OR better use the maps in the manual. I wonder how many Mafat manuals have writing on the maps
+    - Enemies are quick. You don’t have to aim but you do have to input on d-pad if they aren’t dead center
+  - 3D Driving Levels
+    - They took the Mach Rider, Rad Racer approach for 3D driving
+    - Manual gear shift
+  - Sniper Levels
+    - Wind and direction affect aim
+  - You can skip cutscenes with select
+    - Pretty modern feature
+- Sequels and spinoffs
+  - The only Golgo 13 game released after this is a game for the Philips CD-I just titled Golgo 13
+- EGL
+- Next week - Mechanized Attack
+- NEStalgia Byte

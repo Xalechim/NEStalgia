@@ -1,0 +1,113 @@
+# 360 - Dragon Warrior II
+
+- This is a role playing game filled with adventure and challenges
+- TITLE SCREEN SAYS: PART 2
+- Plot Summary of Dragon Quest II:
+- Set 100 years after Dragon Quest, the story begins with an attack on Moonbrooke Castle by the wizard Hargon, who aims to summon the demon Malroth to destroy the world.
+- A dying soldier escapes and warns the kingdom of Midenhall, prompting the king to send his son, a descendant of Erdrick (Loto), on a quest to defeat Hargon.
+- The Prince of Midenhall starts his journey alone but is joined by two relatives:
+  - The Prince of Cannock, who was also tasked with stopping Hargon.
+  - The Princess of Moonbrooke, initially cursed into the form of a dog during Hargon’s attack, is restored to her human form.
+- The trio secures a ship to explore new continents, including Alefgard, the setting of the original game.
+  - There, they meet the grandson of the Dragonlord (the first game's antagonist), who reveals the need to collect five crests scattered across the world.
+- The crests are used to create the Charm of Rubiss, a magical item necessary to overcome Hargon’s illusions.
+- The heroes venture to Hargon’s castle in Rhone, where they defeat him.
+- After Hargon’s death, he sacrifices himself to summon Malroth, but the heroes successfully slay the demon.
+- The Prince of Midenhall returns home and is crowned the new king.
+- Key Features of Dragon Warrior II
+- NO STAIRS BUTTON
+- Party System: A significant departure from the solo adventure of the original, Dragon Warrior II allows players to control a party of three characters. This party typically consists of a warrior specializing in strength and combat, a mage focusing on magic and spells, and a balanced character with a mix of both attributes.
+  - Based on the name you choose for the Prince of Midenhall, the Prince of Cannock's name is selected from a list of eight names. They are Bran, Glynn, Talint, Numor, Lars, Orfeo, Artho, and Esgar.
+  - Her name and stats are determined by the name the player chooses for the Hero. The Princess' name is selected from a list of eight names. They are Maria, Elani, Ollisa, Roz, Kailin, Peta, Illyth, and Gwen.
+- Expanded World: The game world in Dragon Warrior II is significantly expanded compared to the original Dragon Warrior. It features multiple continents with diverse landscapes, separated by vast seas that players can traverse using ships. This expanded world design encourages exploration and a sense of discovery as players navigate through different terrains, encounter new towns and villages, and uncover hidden secrets. The increased scale and variety in the game world contribute to a richer and more immersive gameplay experience.
+  - Exploration:
+    - Players can explore fields, caves, towers, seas, and dungeons.
+    - Open-world exploration is enhanced by the addition of a sailing ship, which allows landing anywhere.
+    - Non-linear gameplay, particularly after acquiring the boat.
+    - Going back to the continent of Alfgard where DW1 took place
+- Ship Travel: As players progress, they acquire a ship that allows them to traverse the seas and reach new continents and islands. This opens up new areas for exploration and adds a layer of depth to the gameplay.
+- Combat: Introduced groups of monsters in battles, expanding from the one-on-one format of the original. But we lost the landscapes for a black screen
+  - Amazing Enemy sprites. Great designs and very dynamic poses / comedy
+  - Still battling nothing if you kill an enemy earlier
+  - You really lose sight of the story with all the grinding. Sidequests nowadays are a joke about delaying the ending, but grinding in these older games is way more mindless.
+- Spells and Abilities: Dragon Warrior II boasts a wider array of spells and abilities compared to the first game. These include offensive spells for combat, healing spells for recovery, and utility spells like teleportation for convenient travel.
+  - Enemies have spells too like the defeat spell which automatically kills a party member
+    - Sacrifice is the absolute stupidest idea for an enemy spell, Enemy kills himself but it also kills your entire PARTY?!
+  - The Final Boss can heal himself
+  - Late game very grindy
+- Mini-games like the Lottery Ticket system for a game of chance.
+- What Makes it Unique/Different from Final Fantasy I?
+- Dragon Warrior 2 (January 26, 1987) releases before Final Fantasy 1 (December 18, 1987)
+- Simpler Class System: Dragon Warrior II assigns set roles to party members, whereas Final Fantasy I allows for customizable party compositions.
+- Combat Simplicity: Battles in Dragon Warrior II are more straightforward, lacking the elemental weaknesses and tactical depth of Final Fantasy I.
+- World Structure: Dragon Warrior II has a more connected overworld, while Final Fantasy is segmented by key story events that unlock new areas.
+- Moonbrooke's Fall:
+- The game begins with Moonbrooke Castle being attacked by Hargon’s forces.
+- A wounded soldier escapes to Midenhall Castle, informing the king of the invasion and the rising threat of Hargon.
+- The Prince of Midenhall's Journey:
+- The player, as the Prince of Midenhall, sets off to stop Hargon.
+- The prince’s first task is to find and recruit the Prince of Cannock, another descendant of Erdrick.
+- Reuniting the Heroes:
+- After locating the Prince of Cannock, the duo searches for the Princess of Moonbrooke, who has been cursed and turned into a dog.
+- The heroes break the curse and form a party of three.
+- Gathering Sacred Crests:
+- The trio must find five ancient crests scattered across the world.
+- These crests are essential to gaining access to powerful tools to defeat Hargon.
+- Unlocking the Sea:
+- The heroes acquire a ship, enabling exploration of a vast overworld filled with islands, towns, and dungeons.
+- With the ship, they locate key items and crests in remote locations.
+- Confronting Hargon’s Forces:
+- The party ventures into increasingly dangerous areas, including the Cave of Rhone, known for its challenging design and powerful enemies.
+- Reaching Hargon’s Citadel:
+- The heroes navigate Hargon’s fortress and face his minions in grueling battles.
+- Final Battle with Hargon:
+- The party defeats Hargon, but his death summons Malroth, the God of Destruction.
+- The final challenge pits the heroes against Malroth in an epic battle.
+- Victory and Peace:
+- With Malroth defeated, the world is saved from destruction.
+- The descendants of Erdrick are celebrated as heroes, and peace returns to the land.
+- Memorable Battles
+- Malroth (Final Boss):
+  - Malroth, the God of Destruction, appears unexpectedly after Hargon’s defeat, making for one of the first "surprise final bosses" in JRPG history. His battle is grueling, requiring the player to strategize heavily due to his high attack power and ability to cast devastating spells.
+- Standout Characters
+- Hargon:
+  - A cult leader and primary antagonist whose ultimate goal is to summon Malroth to destroy the world. His chilling ideology and the surprise twist of summoning a deity made him a memorable villain.
+- The Prince of Cannock:
+  - Known for his mixed abilities as a fighter and spellcaster, but also for his frailty compared to the Prince of Midenhall. His reliance on teamwork to shine highlights the importance of party dynamics.
+- The Princess of Moonbrooke:
+  - Her initial curse as a dog and subsequent rescue creates an emotional connection, and her role as the party's dedicated spellcaster adds an essential layer of strategy to battles.
+- Olivia’s Tragic Story:
+  - Olivia, a ghost haunting the Promontory of Olivia, is a standout NPC. Her tragic backstory involving her lost love and her role in guiding the party adds emotional depth to the narrative.
+- Miscellaneous Features Worth Discussing
+- Mysterious NPC Hints:
+  - NPCs throughout the game provide cryptic hints about crests, items, and locations, encouraging players to piece together the puzzle of the game world themselves.
+- Magic and Item Use in Exploration:
+  - Spells like Return and Outside help with fast travel and escaping dungeons, while items like the Echo Flute aid in tracking down the elusive crests, blending magic and puzzle-solving in a satisfying way.
+- DEVELOPMENT
+- Yuji Horii's Vision: Horii wanted to emphasize the social aspects of adventuring, hence the introduction of a party system to mimic camaraderie.
+- Development Timeline:
+- Planning began in April 1986, a month before Dragon Quest's release.
+- Development started in July 1986, with a divided team working on story and programming.
+- Initial deadline: November 1986, but the game was delayed to January 26, 1987, due to balancing issues.
+- Challenges:
+- Space limitations: The 1 Mbit cartridge had only 10 bytes of free space after completion, limiting content.
+- Cut Content and Later Additions:
+- Some ideas, like an alternate ending and cursed subplots, were dropped due to space constraints but were added in later remakes.
+- The Promontory of Olivia in Dragon Quest III was initially designed for Dragon Quest II.
+- Artwork and Monster Design:
+- Akira Toriyama first designed monsters’ personalities and skills, which were then converted into pixel art by the team.
+- North American Localization (1990):
+- Published by Enix, with changes like battery backup saves replacing passwords.
+- Added a storyline introduction set in Moonbrooke.
+- Dialogue featured archaic English for a medieval tone.
+- Censorship: Coffin sprites for defeated characters were replaced with ghost-like sprites.
+- Technical Advancements:
+- Improved leveling and enemy balance.
+- New tools for balancing combat, though some issues persisted with large monster groups and boat exploration.
+- What Other Versions of Dragon Warrior II Exist?
+- Famicom Version (1987): The original Japanese release, which featured a higher difficulty compared to later versions.
+- NES Version (1990): The localized version for North America, with some balance adjustments and translation changes.
+- Super Famicom (1993): Included in Dragon Quest I & II, featuring updated graphics, quality-of-life improvements, and a rebalanced difficulty curve.
+- Game Boy Color (1999): A portable remake with additional tweaks and new monster sprites.
+- Mobile Versions (2014): Released for iOS and Android, these versions feature modernized controls, streamlined menus, and slightly updated visuals.
+- Nintendo Switch/PS4 Versions (2019): Ports of the mobile versions, brought to modern consoles as part of Dragon Quest's anniversary celebrations.

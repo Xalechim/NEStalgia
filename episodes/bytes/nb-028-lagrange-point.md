@@ -1,0 +1,34 @@
+# NB 028 - Lagrange Point
+
+- Rumor spreadin' 'round
+- In that Space town
+- About that shack outside La Grange
+- NES Longplay
+- And you know what I'm talkin' about
+  - Those are actually the next set of lyrics in the song
+- Sci-Fi Themes: "Lagrange Point" delves into sci-fi themes, such as space exploration and genetic engineering. How does the game's narrative explore these themes, and what messages or warnings might it be trying to convey?
+  - In the 22nd century, "Second Earth," a space colony at Earth's symmetry point, housed Land 1, Land 2, and Satellite Base. When Biohazard struck Land 2, mutants spread from the Bio Lab, mutating life rapidly. The coup by Bionoid Generals—Oregi, Ledesma, and Waiver—was behind this. They formed the Bio Army, imprisoning Tanya, as President 5 Togo led a resistance. Amidst this, Bio Caesar emerged as the mastermind. The Earth Federal Government sent research teams, including Gin's, to investigate.
+- Getting the car is cool, but getting the map is eye opening
+- Battery Points (BP) instead of MP. Required for every kind of attack. Always carry batteries
+- the penalty for dying is fairly light – you are resurrected at the last computer terminal you accessed with all items and experience intact, but you lose all of the cash you obtained since the last visit.
+- The whole party falls if Jin dies
+- Auto-Combat
+  - There’s an HP bar of sorts top of screen
+- weapon customization
+  - Weapon fusion. See outcomes before completing
+- Ten playable characters, five are human, three are cyborgs and two are robots.
+  - Not required to have them all join
+  - robots can rust
+  - Humans and cyborgs are also affected to a certain extent by their emotional status, which can increase their strength if they’re elated, increase susceptibility to status ailments if they’re depressed, or simply cause them to panic; the explicit effects differ with each character.
+- Vehicle travel on the map
+  - Car
+  - Tank
+  - Hydrowing
+- Musical Innovation: The game features a unique sound chip, the VRC7, which was never used in any other NES game. How did this technology influence the game's atmosphere and player experience?
+- Published in a post Super Nintendo World
+- first person perspective vs party battles
+- Konami polled readers for input about various elements, including the title, the details of its plot, monster designs, and even NPC dialogue
+- Sequels and spinoffs
+- EGL
+- Next week - Silkworm
+- NEStalgia Byte

@@ -1,0 +1,38 @@
+# 342 - Little League Baseball: Championship Series
+
+- It’s the game every kid in America loves to play!
+- NES Longplay
+- Manual
+- Recently we had a softball game, now a little league game. Is the MLB market just oversaturated and this is an attempt to not compete given the license costs?
+- Overview of Little League Baseball for NES
+  - Published by SNK in 1990
+  - 16 teams from around the world
+  - In-game stats tracking and a complex 22-character password system for Championship Series
+- Gameplay Hints
+- General Tips:
+  - Home/away team determined by a random "bat toss"
+- Power Analysis - A section that could’ve been in the manual
+- Team Power Ratings:
+  - Pitching, batting, defense, and running ratings for each team
+  - Example teams: Korea (Total: 15), Japan (Total: 13), Chinese Taipei (Total: 16), California (Total: 16), Texas (Total: 16), New York (Total: 19)
+- Top Teams:
+  - Highest-rated team: New York (19)
+  - Other strong teams: California, Chinese Taipei, Texas (all 16)
+  - Lowest-rated team: Italy (8)
+- Rosters Overview
+- Detailed rosters for each team
+  - Positions and ratings for pitching and hitting
+  - Highlight notable players with high ratings
+- Sample Teams:
+  - Korea: Key players - Han (P, 5 Pitching, 5 Hitting), Kim (LF, 3 Hitting), Park (2B, 5 Hitting)
+  - Japan: Key players - Noda (1B, 4 Pitching, 5 Hitting), Umeda (CF, 5 Hitting), Tenma (2B, 4 Hitting)
+  - California: Key players - Sid (P, 5 Pitching, 5 Hitting), Bill (3B, 4 Hitting), Biff (SS, 4 Hitting)
+  - Texas: Key players - Joseph (P, 5 Pitching, 3 Hitting), Austin (2B, 5 Hitting), Daniel (RF, 5 Hitting)
+  - New York: Key players - Saul (P, 5 Pitching, 4 Hitting), Ward (RF, 5 Hitting), Oliver (CF, 5 Hitting)
+- Conclusion
+- Encouragement to try different teams and strategies based on provided hints and team strengths
+- Final thoughts on the game's nostalgic value and fun gameplay mechanics
+- Sequels and Spinoffs
+- Essential Games List Vote
+- Next week
+- NEStalgia Byte

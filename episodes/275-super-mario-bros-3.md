@@ -1,0 +1,27 @@
+# 275 - Super Mario Bros. 3
+
+- NEW DIFFERENT WORLDS. NEW EXCITING LEVELS. NEW CHALLENGES GALORE
+- NES Longplay
+- EGL
+  - Of course
+- What’s one thing you don’t like about Super Mario Bros 3
+- The most satisfy
+- Favorite Mini game?
+- Mario is now known for power ups, but at this point it was just the Mushroom and Fire Flower. This game opened the floodgates
+  - Is the racoon suit too OP?
+- The P meter
+- Introduction of Boos
+- The Koopalings or Bowser Jr
+  - Composers
+  - Originally his kids
+- We went from 32 to 90 LEVELS
+- How would you remake/remaster Super Mario Bros 3 today to sell it for $70
+- The Adventures of Super Mario Bros. 3
+  - What a name for a show
+  - Followed the Super Mario Bros. Super Show, but without the live action segments
+  - Finale episode, Koopa becomes Super Koopa, kidnaps Luigi and takes him to Paris, France via the Warp Zone
+- It’s all a stage play, good or bad idea
+- Super Mario Advance 4 - scanning in certain cards, players could unlock new items and levels, including content originally from the other classic Mario platformers.
+- Should they have called Super Mario World Super Mario Bros 4 in america?
+- Next week -  SUPER MARIO BROS 3
+- NEStalgia Byte - Cocoron

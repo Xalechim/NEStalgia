@@ -1,0 +1,23 @@
+# 337 - Circus Caper
+
+- High adventure under the big top
+- NES Longplay
+- Manual
+- Ever been to a big circus?
+  - What do you think of the circus?
+- Circus themed levels
+- How do you jump over the crocodiles in the very first stage?
+- Many of the levels can be avoided altogether by just walking backwards and back through the curtain from where the player begins. This will take him right to that level's boss battle.
+  - All you need is the block item
+- Do all the minigames make sense? Bonus levels:
+  - guiding a bear to jump over flames
+  - avoiding boulders in a car
+  - Using Rodan as target practice
+  - meeting Godzilla at the circus grounds.
+- PLOT
+  - In Circus Caper, a boy named Tim takes his sister Judy to a circus show. However, the two siblings can't afford to enter. A clown offers the children tickets if they beat him in a dice game. After beating him, the clown says there is only one ticket left, so Tim lets his sister go in. After the show, Tim goes to pick up his sister, and is greeted by Mr. Magic, who has kidnapped her. Tim then enters the circus to try and rescue his sister. At the end of the game, Judy reveals to Tim that she was going to be used as a knife-throwing target, and the two go home.
+- Sequels and Spinoffs
+  - In the Japanese version, based on the anime Moeru! Oniisan, Yukie has been kidnapped by Dra Gon, a dragon.
+- Essential Games List Vote
+- Next week
+- NEStalgia Byte

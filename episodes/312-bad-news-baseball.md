@@ -1,0 +1,45 @@
+# 312 - Bad News Baseball
+
+- Looking for a baseball game that will challenge your skill and tickle your funny bone? You’ve finally found it
+- NES Longplay
+- Manual
+- I can’t be the only one who thought this was a game based on the 1976 Baseball Comedy Bad News BEARS right?
+  - Well there are animals in the game…but they weren’t in the movie and they aren’t bears.
+    - Rabbit umpires
+- Silly Baseball Games
+  - Backyard Baseball
+  - MLB Slugfest
+- But is the game all that silly?
+  - Some cosmetic things, and cutscenes, but nothing like playing baseball in space like in Baseball Simulator 1.000
+- This is made by Tecmo who already gave us Tecmo Baseball
+  - Yet this game at least when batting looks awfully similar to RBI Baseball
+- A Baseball game with a goal
+  - Defeat every other team in the 1 player mode
+  - there is not a set schedule of games, pitchers do have a stamina rating that once depleted, will take several games' worth of rest to recover from.
+- Fielding is significantly improved from past NES games (explanation below)
+- Unique Rules
+  - Similar to in Nippon Professional Baseball (Japan's professional baseball league), the game will end in a tie after 12 innings.
+- All Star Mode
+  - I guess if you really dig into the game and learn about the best players this mode could be worth while, but its kinda silly when they are made up characters
+- The game also features the ability to play as girls. In girls mode, the teams remain the same, but the rosters are completely different, effectively creating 12 new teams. This feat is achieved by holding Down and Left on Controller 1 and holding Up on controller 2 (while still holding Down+Left) and hitting the RESET button on the NES.
+- EGL
+- NEXT WEEK - Boulder Dash. Sounds like nonsense to me
+- - Pitcher:     	Always controllable when the ball is hit in fair ter-
+- ritory.  Can also be controlled when the ball is bunted
+- in foul ground, but it's meaningless as (s)he can't do
+- anything useful.
+- - Catcher:     	Can be controlled if the ball is hit foul, but not bunted;
+- your pitcher will cover home plate.  It IS possible to
+- catch a foul pop fly, but you'll have much better chances
+- of being struck by two consecutive bolts of lightning.
+- - First baseman:   Ball is hit somewhere near the rightfield foul line.  Your
+- second baseman will cover at first.
+- - Second baseman:  Ball is fair and hit to the right side of second, where
+- the shortstop will cover.
+- - Shortstop:   	Can be controlled when the ball is hit softly back to the
+- pitcher.  Can also run after the ball when it's been hit
+- hit to the left side of second.
+- - Third baseman:   Ball is hit somewhere near the leftfield foul line.  Your
+- shortstop will cover at third.
+- - Outfielders: 	These players will always be able to chase the ball,
+- even if the ball doesn't travel past the infield.

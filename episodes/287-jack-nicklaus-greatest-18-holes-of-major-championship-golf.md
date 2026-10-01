@@ -1,0 +1,30 @@
+# 287 - Jack Nicklaus' Greatest 18 Holes of Major Championship Golf
+
+- No other game can match its graphics or its features
+- NES Longplay
+- Manual
+- Bold claim from a golf game
+- Jack Nicklaus
+  - Can you be Jack Nicklaus
+  - The women CPU players not being great is not a good look. Yeah there’s 1, but theres 2 bad ones
+- 18 holes of golf, from all over the world, but as a single course. Interesting decision
+  - Removing the filler courses and just keeping the notable ones
+  - Two courses designed by Nicklaus are also featured in the game: Castle Pines (Colorado) and Desert Mountain (Arizona)
+- The complicated nature of choosing a player
+- No real sense of the course other than the top down view
+  - You can move the cursor all the way to the left or right to completely change screens, but it’s not as intuitive as it could be
+  - What does moving your swing to the left or right actually mean?
+- Takes a while to load in the course and has to be done each time you check the map or go to another screen
+- The balance of the power bar is not equal (see manual)
+- The difference between Beginner and Expert
+- The tips are in the manual not between screens. Some really small Jack color commentary between courses. This is my fav par 4. This is my fav par 3.
+- Skins and Stroke
+- 4 player golf
+- Sequels and Spinoffs
+  - The TurboGrafx-16 versions of the game were titled Jack Nicklaus' Turbo Golf, while the PC Engine version was titled Jack Nicklaus World Golf Tour for the CD-ROM format. A Game Boy version was released as Jack Nicklaus Golf in 1992.
+  - Made up to Jack Nicklaus 6: Golden Bear Challenge
+  - Jack Nicklaus Golf & Course Design: Signature Edition CD Compendium
+  - Jack Nicklaus' Unlimited Golf & Course Design for SNES
+- EGL
+- Next week -  Kid Kool
+- NEStalgia Byte - Fire Emblem
