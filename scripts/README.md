@@ -33,6 +33,9 @@ Local, free transcripts with speaker labels. Nothing here uploads audio.
 - Word-level mic labeling was worse than sentence-level (timing is only good to a fraction of a second), so `transcribe.py --tracks` labels per sentence.
 - Whisper loops on laughter/outro ("Ha ha ha." repeated); `transcribe.py` drops runaway repeats.
 
+- `transcribe.py --profiles ~/.nestalgia-models/profiles.npz` names speakers by voice when there are no mic tracks (sentence-level; the opening
+  "I'm Mike / I'm Sean / I'm Joe" is labeled "Hosts"). Profiles come from 8 episodes (438, 439, 442-446, 450). First run: episode 400 (85 min, about 5 minutes).
+
 ## Published so far
 
 - `transcripts/446-touchdown-fever.md` / `.vtt`, speakers named from the mic tracks.

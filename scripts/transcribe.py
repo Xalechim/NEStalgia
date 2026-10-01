@@ -11,6 +11,7 @@ Usage:
 Setup is described in scripts/README.md.
 """
 import argparse
+import re
 import json
 import os
 import subprocess
@@ -95,6 +96,14 @@ def runaway(text: str) -> bool:
         if run >= 5:
             return True
     return False
+
+
+INTRO_NAMES = re.compile(r"\bI'?m (Mike|Sean|Joe|Sam)\b", re.I)
+
+
+def intro_names(start: float, text: str) -> bool:
+    """The hosts saying their names at the top is too quick to attribute."""
+    return start < 150 and bool(INTRO_NAMES.search(text))
 
 
 def label_words(segs, who, min_dur=0.8):
@@ -201,6 +210,7 @@ def main() -> None:
     ap.add_argument("--prompt-file")
     ap.add_argument("--no-diarize", action="store_true")
     ap.add_argument("--tracks", help="per-host mic tracks, e.g. Mike=a.wav,Sean=b.wav,Joe=c.wav")
+    ap.add_argument("--profiles", help="voice profiles from voiceid.py; names speakers when there are no mic tracks")
     ap.add_argument("--cache-dir", help="reuse/save the raw Whisper result here")
     a = ap.parse_args()
 
@@ -250,6 +260,19 @@ def main() -> None:
         who = track_label_fn(samples, tracks)
         rows = label_words(segs, who)
         names = True
+    elif a.profiles:
+        sys.path.insert(0, str(Path(__file__).parent))
+        from voiceid import Identifier
+
+        idr = Identifier(a.profiles)
+
+        def who(start: float, end: float) -> str:
+            sc = idr.scores(samples[int(start * 16000) : int(end * 16000)])
+            return max(sc, key=sc.get)
+
+        rows = label_words(segs, who)
+        rows = [(s_, e_, "Hosts" if intro_names(s_, t) else spk, t) for s_, e_, spk, t in rows]
+        names = "voice"
     else:
         turns = [] if a.no_diarize else diarize(samples, a.speakers)
         rows = []
@@ -272,11 +295,12 @@ def main() -> None:
             merged.append((s, e, spk, t))
 
     heading = f"# {a.title}\n\n" if a.title else ""
-    note = (
-        "_Auto-generated transcript. Speakers identified from the hosts' separate microphone tracks._"
-        if names
-        else "_Auto-generated transcript. Speaker numbers are not yet matched to host names._"
-    )
+    note = {
+        True: "_Auto-generated transcript. Speakers identified from the hosts' separate microphone tracks._",
+        "voice": "_Auto-generated transcript. Speaker names are matched automatically by voice and are not perfect, "
+        "especially on short interjections. The opening name introductions are left as \"Hosts\"._",
+        None: "_Auto-generated transcript. Speaker numbers are not yet matched to host names._",
+    }[names]
     md = [heading + note + "\n"]
     for s, e, spk, t in merged:
         h, rem = divmod(int(s), 3600)
