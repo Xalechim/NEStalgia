@@ -141,12 +141,25 @@ footer.site a { color: #ff8a80; }
 .prose td, .prose th { border: 1px solid #bbb; padding: 4px 9px; }
 .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 18px 0; }
 .gallery img { width: 100%; aspect-ratio: 1; object-fit: cover; border: 3px solid var(--line); box-shadow: 3px 3px 0 var(--line); }
-.tags { margin: 6px 0 14px; } .tag { font-family: var(--mono); font-size: 12px; background: var(--dark); color: #fff; padding: 2px 8px; margin: 0 6px 6px 0; display: inline-block; }
+.tags { margin: 6px 0 14px; } .atag { font-family: var(--mono); font-size: 12px; background: var(--dark); color: #fff; padding: 2px 8px; margin: 0 6px 6px 0; display: inline-block; }
 .grid.articles { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
 .card.wide .t { font-size: 15px; }
 .rawpage { margin: -28px -20px -60px; }
 .btn.alt { color: var(--ink) !important; }
 .grid.articles .card img { aspect-ratio: 16 / 10; }
 
-.patrons { list-style: none; padding: 0; margin: 14px 0 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 8px; }
-.patrons li { background: var(--card); border: 2px solid var(--line); padding: 6px 10px; font-size: 15px; box-shadow: 2px 2px 0 var(--line); }
+.table-wrap { overflow-x: auto; margin-top: 14px; }
+table.patrons { width: 100%; border-collapse: separate; border-spacing: 0; background: var(--card); border: 3px solid var(--line); box-shadow: 5px 5px 0 var(--line); }
+table.patrons th { background: var(--dark); color: #fff; font-family: var(--mono); text-transform: uppercase; letter-spacing: .06em; font-size: 14px; padding: 10px 14px; text-align: left; border-bottom: 4px solid var(--red); }
+table.patrons td { padding: 9px 14px; border-top: 1px solid #cfcdc5; border-left: 1px solid #cfcdc5; width: 33.33%; font-size: 15px; }
+table.patrons td:first-child { border-left: 0; }
+table.patrons tbody tr:first-child td { border-top: 0; }
+table.patrons tbody tr:nth-child(even) td { background: rgba(0, 0, 0, .045); }
+.sr { position: absolute; left: -9999px; }
+@media (max-width: 560px) {
+  table.patrons, table.patrons thead, table.patrons tbody, table.patrons th { display: block; }
+  table.patrons tbody tr { display: grid; grid-template-columns: 1fr 1fr; }
+  table.patrons td { width: auto; font-size: 14px; padding: 8px 10px; border-left: 1px solid #cfcdc5; border-top: 1px solid #cfcdc5; overflow-wrap: anywhere; }
+  table.patrons td:nth-child(odd) { border-left: 0; }
+  table.patrons td:empty { display: none; }
+}

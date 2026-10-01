@@ -200,7 +200,7 @@ def build_migrated(data, write, card_html):
             a["image"] = m.group(1) if m else None
     real = {a["path"].rstrip("/") for a in articles}
     for a in articles:
-        tags = "".join(f'<span class="tag">{E(t)}</span>' for t in a["tags"])
+        tags = "".join(f'<span class="atag">{E(t)}</span>' for t in a["tags"])
         body = f"""<p class="crumbs"><a href="{BASE}/articles/">← All articles</a></p>
 <article data-pagefind-body><h1 data-pagefind-meta="title">{E(a["title"])}</h1>
 <div class="meta">{fmt_date(a["date"])} · {E(a["author"])}</div>{('<div class="tags">'+tags+'</div>') if tags else ""}
@@ -268,10 +268,18 @@ def patrons_html():
     names = [ln.strip() for ln in f.read_text().splitlines() if ln.strip() and not ln.startswith("#")] if f.exists() else []
     if not names:
         return ""
-    items = "".join(f"<li>{E(n)}</li>" for n in names)
+    cols = 3
+    rows = []
+    for i in range(0, len(names), cols):
+        chunk = names[i : i + cols]
+        chunk += [""] * (cols - len(chunk))
+        rows.append("<tr>" + "".join(f"<td>{E(n)}</td>" for n in chunk) + "</tr>")
     return f"""<h2>Special thanks to our patrons!</h2>
 <p><a class="btn" href="https://www.patreon.com/nestalgia" rel="noopener">Join Today!</a></p>
-<ul class="patrons">{items}</ul>"""
+<div class="table-wrap"><table class="patrons">
+<caption class="sr">Patreon members</caption>
+<thead><tr><th colspan="{cols}" scope="colgroup">Our Patreon members ({len(names)})</th></tr></thead>
+<tbody>{''.join(rows)}</tbody></table></div>"""
 
 
 def main():
