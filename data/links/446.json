@@ -1,0 +1,412 @@
+{
+  "episode": 446,
+  "title": "446 - Touchdown Fever",
+  "generated": "2026-10-01",
+  "model": null,
+  "method": "sample: written by Claude Code from the transcript, links verified by script",
+  "transcript_hash": "a0e14e8e3118",
+  "items": [
+    {
+      "name": "Touchdown Fever",
+      "kind": "game",
+      "description": "The episode's game: SNK's 1987 arcade football title, ported to Famicom in 1988 and the NES in February 1991.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Touchdown_Fever",
+          "label": "Wikipedia: Touchdown Fever",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/nes/587720-touchdown-fever",
+          "label": "Touchdown Fever for NES - GameFAQs",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Touchdown_Fever_(NES)",
+          "label": "Touchdown Fever (NES) - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://tcrf.net/Touchdown_Fever_(NES)",
+          "label": "Touchdown Fever (NES) - The Cutting Room Floor",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "SNK",
+      "kind": "company",
+      "description": "Developer and publisher of Touchdown Fever, which arrived too late to compete with Tecmo Bowl.",
+      "timestamp": "16:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/SNK",
+          "label": "Wikipedia: SNK",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "10-Yard Fight",
+      "kind": "game",
+      "description": "Irem's 1985 football game, the bar Touchdown Fever is compared against.",
+      "timestamp": "07:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/10-Yard_Fight",
+          "label": "Wikipedia: 10-Yard Fight",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "001-10-yard-fight",
+      "episode_title": "10-YARD FIGHT"
+    },
+    {
+      "name": "Irem",
+      "kind": "company",
+      "description": "Made 10-Yard Fight, the earlier football game the hosts compare this one to.",
+      "timestamp": "16:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Irem",
+          "label": "Wikipedia: Irem",
+          "source": "wikipedia",
+          "note": "Japanese video game and pachinko company"
+        }
+      ]
+    },
+    {
+      "name": "Tecmo Bowl",
+      "kind": "game",
+      "description": "The 1987 arcade football hit that SNK had to compete with, praised for adding strategy.",
+      "timestamp": "03:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo_Bowl",
+          "label": "Wikipedia: Tecmo Bowl",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "164-tecmo-bowl",
+      "episode_title": "TECMO BOWL"
+    },
+    {
+      "name": "Tecmo",
+      "kind": "company",
+      "description": "Publisher of Tecmo Bowl, whose rosters and play-calling set the standard Touchdown Fever ignores.",
+      "timestamp": "06:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo",
+          "label": "Wikipedia: Tecmo",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Super Tecmo Bowl",
+      "kind": "game",
+      "description": "The next football game the hosts look forward to covering.",
+      "timestamp": "22:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo_Super_Bowl",
+          "label": "Wikipedia: Tecmo Super Bowl",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "John Elway's Quarterback",
+      "kind": "game",
+      "description": "An earlier NES football game that Mike says Touchdown Fever's scale looks nothing like.",
+      "timestamp": "06:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Elway's_Quarterback",
+          "label": "Wikipedia: John Elway's Quarterback",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "167-john-elways-quarterback",
+      "episode_title": "John Elway's Quarterback"
+    },
+    {
+      "name": "Ice Hockey",
+      "kind": "game",
+      "description": "The early NES hockey game Joe says Touchdown Fever reminds him of, with its chibi-style players.",
+      "timestamp": "07:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ice_Hockey_(1988_video_game)",
+          "label": "Wikipedia: Ice Hockey (1988 video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "096-ice-hockey",
+      "episode_title": "ICE HOCKEY"
+    },
+    {
+      "name": "Blades of Steel",
+      "kind": "game",
+      "description": "Joe's first guess for the hockey game he was thinking of before correcting himself.",
+      "timestamp": "07:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blades_of_Steel",
+          "label": "Wikipedia: Blades of Steel",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "144-blades-of-steel",
+      "episode_title": "BLADES OF STEEL"
+    },
+    {
+      "name": "NFL Blitz",
+      "kind": "game",
+      "description": "The arcade game the hosts play at the Long Island Retro Game Fest, which Joe says doesn't interest him.",
+      "timestamp": "15:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NFL_Blitz",
+          "label": "Wikipedia: NFL Blitz",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Madden NFL",
+      "kind": "game",
+      "description": "Joe's example of the kind of football game with play-picking he doesn't enjoy.",
+      "timestamp": "15:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Madden_NFL",
+          "label": "Wikipedia: Madden NFL",
+          "source": "wikipedia",
+          "note": "American football video game series"
+        }
+      ]
+    },
+    {
+      "name": "Family Computer (Famicom)",
+      "kind": "hardware",
+      "description": "Japan's version of the NES, which got Touchdown Fever American Football in 1988.",
+      "timestamp": "16:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
+          "label": "Wikipedia: Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Chain Chomp",
+      "kind": "other",
+      "description": "Joe's joke when the box's tagline mentions \"the chomp\": the Mario enemy, not a football term.",
+      "timestamp": "04:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chain_Chomp",
+          "label": "Wikipedia: Chain Chomp",
+          "source": "wikipedia",
+          "note": "Mario series enemy"
+        }
+      ]
+    },
+    {
+      "name": "Scorigami",
+      "kind": "event_or_term",
+      "description": "The idea of a final score that has never happened in NFL history; Mike notes 31-5 has happened before.",
+      "timestamp": "03:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Scorigami",
+          "label": "Wikipedia: Scorigami",
+          "source": "wikipedia",
+          "note": "Previously unrecorded final score"
+        }
+      ]
+    },
+    {
+      "name": "Two-point conversion",
+      "kind": "event_or_term",
+      "description": "A rule Touchdown Fever includes before the NFL adopted it.",
+      "timestamp": "11:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Two-point_conversion",
+          "label": "Wikipedia: Two-point conversion",
+          "source": "wikipedia",
+          "note": "Play in American and Canadian football"
+        }
+      ]
+    },
+    {
+      "name": "Lateral pass",
+      "kind": "event_or_term",
+      "description": "The odd mechanic of tossing the ball sideways after a forward pass, which the game leans on.",
+      "timestamp": "11:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lateral_pass",
+          "label": "Wikipedia: Lateral pass",
+          "source": "wikipedia",
+          "note": "Type of short pass in football"
+        }
+      ]
+    },
+    {
+      "name": "National Football League",
+      "kind": "team_or_league",
+      "description": "The league Touchdown Fever lacks a license for, so it uses generic city teams.",
+      "timestamp": "08:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/National_Football_League",
+          "label": "Wikipedia: National Football League",
+          "source": "wikipedia",
+          "note": "Professional American football league"
+        }
+      ]
+    },
+    {
+      "name": "Buffalo Bills",
+      "kind": "team_or_league",
+      "description": "Mike and Sean's team, undefeated when the episode was recorded.",
+      "timestamp": "00:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Buffalo_Bills",
+          "label": "Wikipedia: Buffalo Bills",
+          "source": "wikipedia",
+          "note": "NFL team in Orchard Park, New York"
+        }
+      ]
+    },
+    {
+      "name": "Josh Allen",
+      "kind": "person",
+      "description": "The Bills quarterback Sean had a prop bet on.",
+      "timestamp": "02:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Josh_Allen",
+          "label": "Wikipedia: Josh Allen",
+          "source": "wikipedia",
+          "note": "American football player (born 1996)"
+        }
+      ]
+    },
+    {
+      "name": "Houston Texans",
+      "kind": "team_or_league",
+      "description": "The Bills' opponent in their first game, won 28 to 17.",
+      "timestamp": "02:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Houston_Texans",
+          "label": "Wikipedia: Houston Texans",
+          "source": "wikipedia",
+          "note": "NFL team in Houston, Texas"
+        }
+      ]
+    },
+    {
+      "name": "Detroit Lions",
+      "kind": "team_or_league",
+      "description": "The Bills played them on Thursday night; Sean also played as Detroit and saw the lion mascot.",
+      "timestamp": "03:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Detroit_Lions",
+          "label": "Wikipedia: Detroit Lions",
+          "source": "wikipedia",
+          "note": "NFL team in Detroit, Michigan"
+        }
+      ]
+    },
+    {
+      "name": "Arizona Cardinals",
+      "kind": "team_or_league",
+      "description": "Beat the Texans 31-5 four years ago, which closes the door on the Scorigami joke.",
+      "timestamp": "05:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arizona_Cardinals",
+          "label": "Wikipedia: Arizona Cardinals",
+          "source": "wikipedia",
+          "note": "NFL team in Glendale, Arizona"
+        }
+      ]
+    },
+    {
+      "name": "Patrick Mahomes",
+      "kind": "person",
+      "description": "Mentioned as the Chiefs quarterback in the failed attempt to end the episode on a positive.",
+      "timestamp": "23:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Patrick_Mahomes",
+          "label": "Wikipedia: Patrick Mahomes",
+          "source": "wikipedia",
+          "note": "American football player (born 1995)"
+        }
+      ]
+    },
+    {
+      "name": "Travis Kelce",
+      "kind": "person",
+      "description": "Sean finds the Kelce and Taylor Swift coverage insufferable.",
+      "timestamp": "24:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Travis_Kelce",
+          "label": "Wikipedia: Travis Kelce",
+          "source": "wikipedia",
+          "note": "American football player (born 1989)"
+        }
+      ]
+    },
+    {
+      "name": "Taylor Swift",
+      "kind": "person",
+      "description": "Paired with Travis Kelce in the closing banter.",
+      "timestamp": "24:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Taylor_Swift",
+          "label": "Wikipedia: Taylor Swift",
+          "source": "wikipedia",
+          "note": "American singer-songwriter (born 1989)"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "Where each host's verdict on the episode's game is collected; Touchdown Fever was a no.",
+      "timestamp": "19:07",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

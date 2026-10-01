@@ -67,3 +67,36 @@ Open it, add or remove names, save, then publish:
     git add site-src/patrons.txt && git commit -m "Update patron list" && git push
 
 The website rebuilds itself in a few minutes.
+
+## Finding the web links for an episode (the Links tab)
+
+Each episode that has a transcript can get a **Links** tab on its web page: a list of everything mentioned on the show (games, people,
+companies, teams, movies, terms) with a link for each. Claude reads the transcript, searches the web, and the tool double-checks every
+link before keeping it. Cost: a few cents to a few tens of cents per episode.
+
+### One-time setup: your Anthropic API key
+
+1. Go to **console.anthropic.com**, sign in, add a payment method under Billing, then open **API Keys** and click **Create Key**.
+   Copy the key (it starts with `sk-ant-`). You only see it once.
+2. Open **Terminal** and paste this whole line, then press Enter. It saves the key from your clipboard to a private file on your Mac
+   (never into the GitHub repo):
+
+       mkdir -p ~/.config/nestalgia && pbpaste > ~/.config/nestalgia/anthropic_key && chmod 600 ~/.config/nestalgia/anthropic_key
+
+   Never paste the key into a chat, an email, or a file inside the `nestalgia` folder.
+
+### Each time
+
+1. Make the transcript first (above). If the key is set up, the transcript tool will offer to find the links right after.
+2. Or double-click **Make Links.command** in the `scripts` folder, type an episode number like `446` (or `401-410`, or `ALL` for every
+   transcript that has no links yet), and answer `y` when it offers to publish.
+3. Wait a few minutes. The website updates itself shortly after you publish.
+
+### Good to know
+
+- It skips episodes that already have links (so it never overwrites your edits). To redo one, run it from Terminal with `--force`.
+- Each episode's links are saved in `data/links/NNN.json`, a plain text file. You can open it and delete or fix an entry by hand,
+  then publish.
+- A link that can't be verified is dropped rather than shown, so some things may be missing on purpose.
+- Episode 446's links are a hand-made sample so you can see how the tab looks. Run it with `--force` once your key is set up to
+  replace them with Claude's own.

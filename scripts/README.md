@@ -31,6 +31,18 @@ and commits the result as "Auto-update from feed: <newest episode title>". If no
 It does not make show notes or transcripts; those stay manual (the double-click tool for transcripts).
 Run the same thing by hand with `python3 scripts/update_from_feed.py` (needs `pip install pillow`).
 
+## Links tab (make_links.py)
+
+`make_links.py` turns a transcript into `data/links/NNN.json`, which the site shows on the episode's Links tab.
+1. Claude (`claude-opus-5-5`, structured output) lists everything referenced, with timestamps.
+2. Claude with the web search tool finds reference-site and other pages. Wikipedia is resolved separately through the Wikipedia API
+   (exact title, then a strict search fallback; disambiguation pages rejected).
+3. Verification: a non-Wikipedia URL is kept only if it appeared in the web search results and still loads. Episode titles that match a
+   NEStalgia episode become "Our episode" links.
+Run `python3 scripts/test_make_links.py` for the offline tests (fake client, no key needed). Key: `~/.config/nestalgia/anthropic_key`
+or `ANTHROPIC_API_KEY`. `--dry-run` shows the size of a request without spending anything; `--from-proposals FILE` verifies links from a
+file (used for the episode 446 sample). Untested against the live API as of this commit: there was no key on the dev machine.
+
 ## Findings so far (tested on episode 446, 25 min)
 
 - Whisper turbo transcribes a 25-minute episode in about 75 seconds.

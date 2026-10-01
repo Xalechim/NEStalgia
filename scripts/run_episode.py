@@ -66,6 +66,15 @@ def parse_numbers(raw: str):
     return list(dict.fromkeys(nums))  # drop repeats, keep order
 
 
+def maybe_links(n: int) -> None:
+    """If an Anthropic key is set up, offer to find the web links for this episode now."""
+    key_file = Path.home() / ".config/nestalgia/anthropic_key"
+    if not (key_file.exists() or os.environ.get("ANTHROPIC_API_KEY")) or not sys.stdin.isatty():
+        return
+    if input(f"   Also find the web links for episode {n} now? (costs a few cents) (y/n): ").strip().lower().startswith("y"):
+        subprocess.run([sys.executable, str(REPO / "scripts/make_links.py"), str(n)])
+
+
 def transcribe_one(n: int, dry_run: bool) -> bool:
     audio = find_audio(n)
     if not audio:
@@ -110,6 +119,7 @@ def transcribe_one(n: int, dry_run: bool) -> bool:
         elif link not in text:
             print("Note: this episode isn't in the episode index yet, so I didn't add a link.")
     print(f"Episode {n}: done -> transcripts/{out.name}.md")
+    maybe_links(n)
     return True
 
 
@@ -139,7 +149,7 @@ def main() -> int:
         return 0 if done or a.dry_run else 1
     if a.yes or input("\nPublish them to GitHub now? (y/n): ").strip().lower().startswith("y"):
         label = f"{done[0]:03d}" if len(done) == 1 else f"{len(done)} episodes ({done[0]:03d} to {done[-1]:03d})"
-        subprocess.run(["git", "-C", str(REPO), "add", "transcripts", "episodes"], check=True)
+        subprocess.run(["git", "-C", str(REPO), "add", "transcripts", "episodes", "data/links"], check=True)
         subprocess.run(["git", "-C", str(REPO), "commit", "-m", f"Add transcripts for {label}"], check=True)
         r = subprocess.run(["git", "-C", str(REPO), "push"])
         print("Published." if r.returncode == 0 else "The upload failed; the transcripts are saved locally.")

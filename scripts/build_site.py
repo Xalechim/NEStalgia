@@ -11,6 +11,7 @@ import json
 import os
 import re
 import shutil
+import urllib.parse
 from pathlib import Path
 
 import markdown
@@ -86,6 +87,61 @@ def render_notes(path):
             in_list, prev = False, -1
         out.append(re.sub(r"(?<![(<\"])(https?://[^\s)>]+)", r"<\1>", ln))
     return markdown.markdown("\n".join(out), extensions=["tables"])
+
+
+KIND_LABELS = [
+    ("game", "Games"), ("hardware", "Hardware"), ("company", "Companies"), ("person", "People"),
+    ("team_or_league", "Teams and leagues"), ("film_tv_music", "Film, TV and music"),
+    ("event_or_term", "Terms and events"), ("website_or_article", "Articles, videos and sites"), ("other", "Other"),
+]
+SOURCE_LABELS = {"wikipedia": "Wikipedia", "reference": "Reference", "site": "On this site", "other": "Link"}
+
+
+def nice(t):
+    """Feed titles are often ALL CAPS; make them readable."""
+    if not t.isupper():
+        return t
+    small = {"of", "the", "and", "a", "an", "in", "on", "to", "vs", "for"}
+    words = []
+    for i, w in enumerate(t.split()):
+        if i and w.lower() in small:
+            words.append(w.lower())
+        elif w.rstrip(":").upper() in ("II", "III", "IV", "VI"):
+            words.append(w)
+        else:
+            words.append(re.sub(r"[A-Za-z]+", lambda m: m.group().capitalize(), w).replace("'S", "'s"))
+    return " ".join(words)
+
+
+def render_links(number):
+    f = REPO / "data/links" / f"{number:03d}.json"
+    if not f.exists():
+        return ""
+    d = json.loads(f.read_text())
+    by_kind = {}
+    for it in d["items"]:
+        by_kind.setdefault(it["kind"], []).append(it)
+    out = ['<p class="note">Found automatically from the transcript and checked, but it can miss things or pick the wrong page. '
+           'Spot a mistake? <a href="https://github.com/Xalechim/NEStalgia/issues/new">Tell us</a>.</p>']
+    for kind, label in KIND_LABELS:
+        items = by_kind.get(kind)
+        if not items:
+            continue
+        out.append(f"<h3>{label}</h3><ul class=\"lk\">")
+        for it in items:
+            chips = []
+            if it.get("episode_key"):
+                chips.append(f'<a class="chip src-site" href="{BASE}/episodes/{it["episode_key"]}/">Our episode: {E(nice(it.get("episode_title", it["name"])))}</a>')
+            for l in it["links"]:
+                url = l["url"].replace("{BASE}", BASE)
+                host = urllib.parse.urlparse(url).netloc.replace("www.", "") if url.startswith("http") else ""
+                text = SOURCE_LABELS.get(l["source"], "Link") if l["source"] in ("wikipedia", "site") else l.get("label", host)
+                ext = ' rel="noopener" target="_blank"' if url.startswith("http") else ""
+                chips.append(f'<a class="chip src-{E(l["source"])}" href="{E(url)}"{ext}>{E(text)}<small>{E(host)}</small></a>')
+            out.append(f'<li><div class="lk-h"><b>{E(it["name"])}</b> <span class="ts">mentioned at {E(it["timestamp"])}</span></div>'
+                       f'<p>{E(it["description"])}</p><div class="chips">{"".join(chips)}</div></li>')
+        out.append("</ul>")
+    return "".join(out)
 
 
 TURN = re.compile(r"^\*\*([^*]+)\*\* \[([\d:]+)\]: (.*)$")
@@ -299,7 +355,7 @@ def main():
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()
-    for f in ("style.css", "app.js", "logo.png", "icon.png"):
+    for f in ("style.css", "app.js", "tabs.js", "logo.png", "icon.png"):
         shutil.copy(SRC / f, OUT / f)
     (OUT / ".nojekyll").write_text("")
 
@@ -332,11 +388,28 @@ def main():
         )
         label = f"{r['number']:03d} · " if r["type"] == "episode" and r["number"] is not None else ""
         desc_html = "".join(f"<p>{linkify(p)}</p>" for p in r["description"].split("\n\n") if p.strip())
-        sections = []
+        panels = []  # (id, tab label, html)
         if notes:
-            sections.append(f'<h2>Show notes</h2><div class="panel">{notes}</div>')
+            panels.append(("notes", "Show notes", f'<div class="panel">{notes}</div>'))
+        links_html = render_links(r["number"]) if r["type"] == "episode" and r["number"] is not None else ""
+        if links_html:
+            panels.append(("links", "Links", f'<div class="panel">{links_html}</div>'))
         if r["transcript"]:
-            sections.append(f'<details class="tx"><summary>Read the transcript</summary><div class="panel">{render_transcript(r["transcript"])}</div></details>')
+            panels.append(("transcript", "Transcript", f'<div class="panel">{render_transcript(r["transcript"])}</div>'))
+        if len(panels) > 1:
+            tabbar = "".join(
+                f'<button role="tab" id="t-{pid}" aria-controls="p-{pid}" aria-selected="{"true" if i == 0 else "false"}">{lab}</button>'
+                for i, (pid, lab, _) in enumerate(panels))
+            body_tabs = "".join(
+                f'<section role="tabpanel" id="p-{pid}" aria-labelledby="t-{pid}"{"" if i == 0 else " hidden"}>{html_}</section>'
+                for i, (pid, _, html_) in enumerate(panels))
+            tabs_html = (f'<div class="tabs"><div class="tablist" role="tablist" aria-label="Episode extras">{tabbar}</div>{body_tabs}</div>'
+                         f'<noscript><style>.tabs [role=tabpanel][hidden]{{display:block}}.tablist{{display:none}}</style></noscript>'
+                         f'<script src="{BASE}/tabs.js" defer></script>')
+        elif panels:
+            tabs_html = f'<h2>{panels[0][1]}</h2>{panels[0][2]}'
+        else:
+            tabs_html = ""
         pn = "".join(
             f'<a href="{BASE}/episodes/{x["key"]}/">{lab}</a>' if x else "<span></span>"
             for x, lab in ((r["prev"], f'← {E(r["prev"]["title"])}' if r["prev"] else ""), (r["next"], f'{E(r["next"]["title"])} →' if r["next"] else ""))
@@ -349,7 +422,7 @@ def main():
 <audio controls preload="none" src="{r['audio_url']}"></audio>
 <div class="btns" style="justify-content:flex-start">{listen}</div>
 <div class="desc">{desc_html}</div></div></div>
-<div data-pagefind-body>{''.join(sections)}</div>
+<div data-pagefind-body>{tabs_html}</div>
 <div class="pn">{pn}</div>"""
         write(f"episodes/{r['key']}/index.html",
               page(f"{label}{r['title']} · NEStalgia", body, "", desc=r["description"].split("\n")[0], image=f"/art/{r['key']}.jpg", current="eps"))
