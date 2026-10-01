@@ -259,6 +259,7 @@ def main() -> None:
                 tracks[name] = read_wav(w)
         who = track_label_fn(samples, tracks)
         rows = label_words(segs, who)
+        rows = [(s_, e_, "Hosts" if intro_names(s_, t) else spk, t) for s_, e_, spk, t in rows]
         names = True
     elif a.profiles:
         sys.path.insert(0, str(Path(__file__).parent))
@@ -296,7 +297,8 @@ def main() -> None:
 
     heading = f"# {a.title}\n\n" if a.title else ""
     note = {
-        True: "_Auto-generated transcript. Speakers identified from the hosts' separate microphone tracks._",
+        True: "_Auto-generated transcript. Speakers identified from the hosts' separate microphone tracks. "
+        "The opening name introductions are left as \"Hosts\"._",
         "voice": "_Auto-generated transcript. Speaker names are matched automatically by voice and are not perfect, "
         "especially on short interjections. The opening name introductions are left as \"Hosts\"._",
         None: "_Auto-generated transcript. Speaker numbers are not yet matched to host names._",

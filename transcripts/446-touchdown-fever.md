@@ -1,12 +1,12 @@
 # 446 - Touchdown Fever
 
-_Auto-generated transcript. Speakers identified from the hosts' separate microphone tracks._
+_Auto-generated transcript. Speakers identified from the hosts' separate microphone tracks. The opening name introductions are left as "Hosts"._
 
 **Joe** [00:00]: Touchdown Fever! It's the muscle, the hustle, the chomp.
 
-**Mike** [00:22]: And welcome to Nostalgia, a chronological exploration of every NES game released in North America.
+**Mike** [00:22]: And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
 
-**Joe** [00:30]: I'm Mike. I'm Sean. And I'm Joe.
+**Hosts** [00:30]: I'm Mike. I'm Sean. And I'm Joe.
 
 **Mike** [00:33]: Guys, it really is the muscle, the hustle, and the chomp of the NFL. It's that time of the year again.
 
