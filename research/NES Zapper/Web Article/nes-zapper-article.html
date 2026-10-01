@@ -1,0 +1,701 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The NES Zapper — NEStalgia</title>
+</head>
+<body style="margin:0;background:#26262c;padding:24px 12px;">
+
+<!-- ============================================================
+     SQUARESPACE: copy everything from COPY-START to COPY-END
+     into ONE Code Block set to HTML.
+     Then replace each  images/FILENAME  with the Squarespace
+     asset URL after uploading the images (see instructions doc).
+     ============================================================ -->
+<!-- COPY-START -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap">
+<style>
+.nesz{--bg:#17171c;--panel:#1f1f26;--edge:#34343e;--ink:#e8e6e1;--muted:#a5a2ab;--red:#e60012;--orange:#f47b20;
+  max-width:980px;margin:0 auto;background:var(--bg);color:var(--ink);border:1px solid var(--edge);
+  border-radius:14px;padding:22px 22px 30px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  font-size:17px;line-height:1.65;box-sizing:border-box;}
+.nesz *{box-sizing:border-box;}
+.nesz .nesz-masthead{text-align:center;margin:6px 0 18px;}
+.nesz .nesz-masthead .kicker{font-family:"Press Start 2P",monospace;font-size:10px;letter-spacing:2px;color:var(--orange);text-transform:uppercase;margin:0 0 10px;}
+.nesz .nesz-masthead h1{font-family:"Press Start 2P",monospace;font-size:clamp(18px,4vw,30px);line-height:1.4;color:#fff;margin:0;}
+.nesz .nesz-masthead .rule{height:4px;background:linear-gradient(90deg,var(--red),var(--orange));border-radius:2px;margin:16px auto 0;width:120px;}
+
+/* --- tabs (pure CSS, no JavaScript required) --- */
+.nesz input[name="nesz-tab"]{position:absolute;opacity:0;pointer-events:none;}
+.nesz .nesz-tabs{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:20px 0 0;padding:0 0 18px;border-bottom:1px solid var(--edge);}
+.nesz .nesz-tabs label{font-family:"Press Start 2P",monospace;font-size:10px;letter-spacing:1px;color:var(--muted);
+  background:var(--panel);border:1px solid var(--edge);border-bottom-width:3px;border-radius:8px;
+  padding:12px 14px 11px;cursor:pointer;user-select:none;transition:color .15s,background .15s,transform .05s;}
+.nesz .nesz-tabs label:hover{color:#fff;}
+.nesz .nesz-tabs label:active{transform:translateY(1px);}
+#nesz-t1:checked ~ .nesz-tabs label[for="nesz-t1"],
+#nesz-t2:checked ~ .nesz-tabs label[for="nesz-t2"],
+#nesz-t3:checked ~ .nesz-tabs label[for="nesz-t3"],
+#nesz-t4:checked ~ .nesz-tabs label[for="nesz-t4"],
+#nesz-t5:checked ~ .nesz-tabs label[for="nesz-t5"]{background:var(--orange);border-color:var(--orange);color:#17171c;}
+#nesz-t1:focus-visible ~ .nesz-tabs label[for="nesz-t1"],
+#nesz-t2:focus-visible ~ .nesz-tabs label[for="nesz-t2"],
+#nesz-t3:focus-visible ~ .nesz-tabs label[for="nesz-t3"],
+#nesz-t4:focus-visible ~ .nesz-tabs label[for="nesz-t4"],
+#nesz-t5:focus-visible ~ .nesz-tabs label[for="nesz-t5"]{outline:2px solid #fff;outline-offset:2px;}
+.nesz .nesz-panel{display:none;padding-top:22px;}
+#nesz-t1:checked ~ .nesz-panels #nesz-p1,
+#nesz-t2:checked ~ .nesz-panels #nesz-p2,
+#nesz-t3:checked ~ .nesz-panels #nesz-p3,
+#nesz-t4:checked ~ .nesz-panels #nesz-p4,
+#nesz-t5:checked ~ .nesz-panels #nesz-p5{display:block;}
+
+/* --- typography --- */
+.nesz h2{font-family:"Press Start 2P",monospace;font-size:16px;color:var(--orange);line-height:1.6;margin:0 0 18px;}
+.nesz h3{font-size:21px;font-weight:700;color:#fff;margin:30px 0 10px;}
+.nesz h4{font-size:17px;font-weight:700;color:#fff;margin:22px 0 8px;}
+.nesz p{margin:0 0 14px;}
+.nesz ul,.nesz ol{margin:0 0 14px;padding-left:24px;}
+.nesz li{margin:0 0 6px;}
+.nesz a{color:var(--orange);text-decoration:underline;text-underline-offset:2px;}
+.nesz a:hover{color:#fff;}
+.nesz em{font-style:italic;}
+.nesz strong{color:#fff;}
+.nesz .note{color:var(--muted);font-size:14px;}
+
+/* --- figures --- */
+.nesz figure{margin:18px 0;background:var(--panel);border:1px solid var(--edge);border-radius:10px;padding:10px;}
+.nesz figure img{display:block;width:100%;height:auto;border-radius:6px;}
+.nesz figcaption{font-size:13px;color:var(--muted);padding:8px 4px 2px;line-height:1.5;}
+.nesz .figrow{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin:18px 0;}
+.nesz .figrow figure{margin:0;}
+.nesz img.pixel{image-rendering:pixelated;}
+.nesz .figrow.shots figure img{max-width:512px;margin:0 auto;}
+
+/* --- variant + game cards --- */
+.nesz .vcard{display:flex;gap:16px;align-items:flex-start;background:var(--panel);border:1px solid var(--edge);border-radius:10px;padding:14px;margin:0 0 14px;}
+.nesz .vcard img{width:150px;flex:0 0 150px;height:auto;border-radius:6px;}
+.nesz .vcard p{margin:0;}
+.nesz .gcard{display:flex;gap:18px;align-items:flex-start;background:var(--panel);border:1px solid var(--edge);border-left:4px solid var(--red);border-radius:10px;padding:16px;margin:0 0 18px;}
+.nesz .gcard .art{width:150px;flex:0 0 150px;}
+.nesz .gcard .art img{width:100%;height:auto;border-radius:6px;display:block;}
+.nesz .gcard .art .noart{width:100%;aspect-ratio:150/210;border-radius:6px;border:1px dashed var(--edge);display:flex;align-items:center;justify-content:center;
+  font-family:"Press Start 2P",monospace;font-size:9px;color:var(--muted);text-align:center;padding:8px;line-height:1.8;}
+.nesz .gcard h4{margin:0 0 8px;font-size:19px;}
+.nesz .gcard .facts{list-style:none;padding:0;margin:0;}
+.nesz .gcard .facts li{margin:0 0 8px;}
+.nesz .gcard .facts li strong{color:var(--orange);}
+.nesz .ghead{font-family:"Press Start 2P",monospace;font-size:12px;color:var(--red);margin:34px 0 16px;line-height:1.8;}
+
+/* --- tables --- */
+.nesz table{width:100%;border-collapse:collapse;margin:0 0 20px;font-size:15px;}
+.nesz th{font-family:"Press Start 2P",monospace;font-size:9px;letter-spacing:1px;text-align:left;color:var(--orange);
+  border-bottom:2px solid var(--orange);padding:8px 10px;}
+.nesz td{border-bottom:1px solid var(--edge);padding:9px 10px;vertical-align:top;}
+.nesz .credits{margin-top:30px;padding-top:14px;border-top:1px solid var(--edge);font-size:13px;color:var(--muted);}
+
+@media (max-width:600px){
+  .nesz{padding:16px 12px 22px;font-size:16px;}
+  .nesz .vcard,.nesz .gcard{flex-direction:column;}
+  .nesz .vcard img,.nesz .gcard .art{width:100%;flex:auto;max-width:260px;}
+}
+</style>
+
+<div class="nesz">
+  <input type="radio" name="nesz-tab" id="nesz-t1" checked>
+  <input type="radio" name="nesz-tab" id="nesz-t2">
+  <input type="radio" name="nesz-tab" id="nesz-t3">
+  <input type="radio" name="nesz-tab" id="nesz-t4">
+  <input type="radio" name="nesz-tab" id="nesz-t5">
+
+  <header class="nesz-masthead">
+    <p class="kicker">NEStalgia Research</p>
+    <h1>The NES Zapper</h1>
+    <div class="rule"></div>
+  </header>
+
+  <nav class="nesz-tabs">
+    <label for="nesz-t1">History</label>
+    <label for="nesz-t2">How It Works</label>
+    <label for="nesz-t3">Variants</label>
+    <label for="nesz-t4">The Games</label>
+    <label for="nesz-t5">Totals &amp; Sources</label>
+  </nav>
+
+  <div class="nesz-panels">
+
+  <!-- ================= TAB 1: HISTORY ================= -->
+  <section class="nesz-panel" id="nesz-p1">
+    <h2>History</h2>
+
+    <h3>Light Guns</h3>
+    <p>In 1970 Nintendo was still mostly making toys and playing cards, and it launched a line called Kōsenjū SP. These were plastic guns that fired a beam of light at plastic targets with photocells in them. Hit the sensor on the target and it falls over. Gunpei Yokoi was the project lead.</p>
+    <p>Masayuki Uemura introduced the technology to Nintendo. He had been selling photocells and solar cells for Sharp before Nintendo hired him away in 1971. He is generally credited with the optoelectronics that made the toy line practical, and he went on to help design the Famicom.</p>
+    <div class="figrow">
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/78693595-8c24-418f-84f8-95d5e39c4cd4/hist-kosenju-sp-toy.jpg?content-type=image%2Fjpeg" alt="Boxes from Nintendo's Kōsenjū SP light-beam toy line"><figcaption>Kōsenjū SP boxes, 1970–76. Photo: beforemario.com</figcaption></figure>
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/7f97d90d-47f8-47f1-9a99-a1d9557d6d80/hist-kosenju-custom-gun-targets.jpg?content-type=image%2Fjpeg" alt="Kōsenjū Custom revolver with Custom Gunman and Custom Lion photocell targets"><figcaption>The Kōsenjū Custom revolver with its Custom Gunman and Custom Lion targets. Photo: beforemario.com</figcaption></figure>
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/2e8a437d-3862-4189-83e1-2332b118f8dc/person-gunpei-yokoi.jpg?content-type=image%2Fjpeg" alt="Gunpei Yokoi"><figcaption>Gunpei Yokoi. Photo: Wikipedia</figcaption></figure>
+    </div>
+
+    <h3>Laser Clay, 1973</h3>
+    <p>Nintendo President, Hiroshi Yamauchi, was interested in competitive shooting and decided Nintendo should build a full-size light gun version of the idea. Yokoi again was put on the project and did the engineering, the project was approved in 1973, and the Laser Clay Shooting System went into Japanese bowling alleys. Bowling had been a fad and the fad had ended, so the country was full of large empty buildings with nothing in them. The Laser Clay Shooting System used an overhead 16mm projector that drew clay pigeon targets onto a wide screen painted with mountains and forest, and reflected light told the machine whether you'd hit.</p>
+    <p>The first few weeks were a hit. Test locations ran at capacity. Then the oil crisis arrived at the end of 1973 and Nintendo was left with a large debt.</p>
+    <div class="figrow">
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/a559ecf0-e74e-4ae9-964a-e39cce092e4d/hist-laser-clay-brochure.jpg?content-type=image%2Fjpeg" alt="Laser Clay brochure from the Big Box range, 1974"><figcaption>A Laser Clay brochure from the Big Box range, 1974. Photo: beforemario.com</figcaption></figure>
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/fae729b2-da01-4cc7-9572-6b1cf07711b6/hist-laser-clay-range-illustration.jpg?content-type=image%2Fjpeg" alt="Period illustration of a Laser Clay range with rows of shooting stations"><figcaption>Period illustration of a Laser Clay range. Photo: beforemario.com</figcaption></figure>
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/799dc3a1-6847-4321-99b7-542f1024bc7a/person-hiroshi-yamauchi.jpg?content-type=image%2Fjpeg" alt="Hiroshi Yamauchi"><figcaption>Hiroshi Yamauchi. Photo: Wikipedia</figcaption></figure>
+    </div>
+    <p>Yokoi's solution was to shrink the product. Mini Laser Clay, in 1974, put the same idea in a single arcade cabinet. Those sold, the debt came down, and the format produced a handful of gun games. A few of which I'm sure you'll recognize, but not necessarily the way you know them.</p>
+    <ul>
+      <li><strong>Wild Gunman</strong> (1974)</li>
+      <li><strong>Shooting Trainer</strong> (1976)</li>
+      <li><strong>Duck Hunt</strong> (1976)</li>
+    </ul>
+    <figure style="max-width:560px"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/a35a8b97-20c4-4003-81ef-8cc25778f968/hist-duck-hunt-1976-toy.jpg?content-type=image%2Fjpeg" alt="The 1976 Duck Hunt home toy: rifle and projector unit with box"><figcaption>Duck Hunt, 1976: a rifle and a battery-powered projector that threw duck silhouettes on the wall. Photo: beforemario.com</figcaption></figure>
+
+    <h3>The Famicom gun, 1984</h3>
+    <p>Nintendo first brought the light gun to video games about fourteen months after the Famicom launched. The Ray Gun, a realistic looking revolver, arrived in February 1984 with a Famicom version of <em>Wild Gunman</em> in the box and a holster belt to hang the toy gun off.</p>
+    <p>Yokoi and Satoru Okada designed it, and they modeled it closely on the American designed, Colt Single Action Army. It has a hammer that moves, and pulling the trigger makes a loud mechanical crack. It plugs into the Famicom's expansion port rather than a controller port, which is why no Famicom game ever supported two guns.</p>
+    <p>Unlike the continued support that the Zapper line saw in North America, only three games shipped in the series, all in 1984: <em>Wild Gunman</em> on February 18th, <em>Duck Hunt</em> on April 21st, <em>Hogan's Alley</em> on June 12th. Anything after came from third parties.</p>
+    <div class="figrow">
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/323a15c4-e793-41cb-8d61-fcd6266e9114/hw-famicom-beam-gun-box.jpg?content-type=image%2Fjpeg" alt="Famicom Gun retail box with Wild Gunman cartridge"><figcaption>The Famicom Gun box, sold with <em>Wild Gunman</em>. Photo: famicomblog</figcaption></figure>
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/e8a0b06f-134f-4900-a49d-10f1f12e6a9c/hw-famicom-beam-gun-open-box.jpg?content-type=image%2Fjpeg" alt="The Famicom revolver in its box tray"><figcaption>The revolver in its tray. Photo: famicomblog</figcaption></figure>
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/07839254-dc44-4093-85c8-e631c426efed/hw-famicom-console.jpg?content-type=image%2Fjpeg" alt="Famicom console with controllers"><figcaption>The Famicom. Photo: Evan-Amos, Wikimedia Commons</figcaption></figure>
+    </div>
+
+    <h3>The arcade versions</h3>
+    <p>Nintendo shipped gun versions of its own games into arcades at the same time, on the Vs. System (<em>Vs. Duck Hunt</em>, <em>Vs. Hogan's Alley</em>, <em>Vs. Gumshoe</em>, <em>Vs. Freedom Force</em>) and on PlayChoice-10 cabinets. The Vs. hardware runs the same protocol with one difference: the light-sense bit is inverted, so 1 means light detected instead of 0. Some Vs. versions have more content than the console games. <em>Vs. Duck Hunt</em> lets you shoot the dog.</p>
+    <div class="figrow">
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/c3bf2e57-e90d-462f-b28b-372212c9c9c1/hw-vs-system.jpg?content-type=image%2Fjpeg" alt="Nintendo Vs. System arcade cabinet"><figcaption>A Nintendo Vs. System cabinet. Photo: Wikimedia Commons</figcaption></figure>
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/3a92c8ff-a377-473d-83e1-c451dbe07746/hw-playchoice-10-cabinet.jpg?content-type=image%2Fjpeg" alt="PlayChoice-10 Superdeluxe arcade cabinet"><figcaption>A PlayChoice-10 Superdeluxe cabinet. Photo: Wikimedia Commons</figcaption></figure>
+    </div>
+
+    <h3>The Zapper, 1985</h3>
+    <p>As plans for the Nintendo Entertainment System began, they focused efforts on a complete package that made the NES seem like more than the previous generations consoles. Nintendo of America's head designer, Lance Barr, had the job of redrawing the peripheral for the US launch. Perhaps to the surprise of no one, the idea of a realistic revolver going into American toy stores, attached to a console whose entire marketing strategy was pretending not to be a video game console, required a heavy redesign. Barr kept the guts and replaced the shell with a sci-fi style laser gun matching the NES's gray and black.</p>
+    <p>The gray Zapper (NES-005) went on sale with the console in New York on October 18th 1985, packed into the Deluxe Set with R.O.B., two controllers, <em>Duck Hunt</em> and <em>Gyromite</em>.</p>
+    <div class="figrow">
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/b53f7649-5ee7-48d1-9e2c-8e2f06fcc69e/hw-nes-zapper-gray.jpg?content-type=image%2Fjpeg" alt="The gray NES Zapper, 1985"><figcaption>The gray Zapper, NES-005. Photo: Evan-Amos, Wikimedia Commons</figcaption></figure>
+      <figure><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/8fff79ce-683c-4daf-88dd-93fa49bf5e2e/hw-rob-the-robot.jpg?content-type=image%2Fjpeg" alt="R.O.B. the Robotic Operating Buddy"><figcaption>R.O.B., the Zapper's Deluxe Set boxmate. Photo: Evan-Amos, Wikimedia Commons</figcaption></figure>
+    </div>
+
+    <h3>The Orange Zapper, 1989</h3>
+    <p>In 1988, Section 4 of the Federal Energy Management Improvement Act (now 15 U.S.C. § 5001) made it illegal to manufacture, ship or sell a toy or look-alike firearm in the US without an approved marking. The Commerce Department regulations took effect on May 5th 1989 and applied to anything entering commerce from that date forward.</p>
+    <p>Nintendo recolored instead of redesigning. A revised NES-005 with an orange barrel and orange grip showed up in 1989, same electronics, same model number. Because the change happened mid-generation both colors are common. I personally grew up on an orange zapper.</p>
+    <figure style="max-width:560px"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/63ab7620-4b45-4b09-b161-9c9c808a1c83/hw-nes-zapper-orange.jpg?content-type=image%2Fjpeg" alt="The orange NES Zapper, 1989"><figcaption>The orange Zapper, 1989. Same gun, new paint. Photo: Evan-Amos, Wikimedia Commons</figcaption></figure>
+
+    <h3>The End of the Zapper</h3>
+    <p>Third-party support dried up by 1992. <em>Day Dreamin' Davey</em> is the last NES game with any Zapper code in it, and Nintendo moved on to the Super Scope for the SNES.</p>
+    <p>Experiencing the Zapper today is not easy. The Zapper can only work on a CRT. LCD, plasma and OLED sets all introduce processing lag and none of them produce the scanning beam the gun is built to detect.</p>
+    <figure style="max-width:560px"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/2425d8d6-eae0-4eb2-897c-772def638bc5/hw-super-scope.jpg?content-type=image%2Fjpeg" alt="The SNES Super Scope"><figcaption>The Super Scope, the SNES successor. Photo: Evan-Amos, Wikimedia Commons</figcaption></figure>
+  </section>
+
+  <!-- ================= TAB 2: HOW IT WORKS ================= -->
+  <section class="nesz-panel" id="nesz-p2">
+    <h2>How It Works</h2>
+
+    <h3>The Trick</h3>
+    <p>A CRT paints its picture with one moving dot of light that sweeps left to right, top to bottom, about sixty times a second. At any given instant only one small spot on the screen is actually lit. So if the game knows what it drew and when, and the gun says "I saw light just now," the game can work out where you were pointing.</p>
+
+    <h3>What happens when you pull the trigger</h3>
+    <p>All of this takes a few frames and that's why you'll see a flicker on your TV after a shot.</p>
+    <ol>
+      <li>The game reads the trigger during normal play.</li>
+      <li>It blanks the whole screen to black for one frame and checks the sensor. If the gun reports light while the screen is black, it isn't aimed at the TV. The shot counts as a miss. This is why you can't just shoot a lightbulb and register a hit.</li>
+      <li>On the next frame it draws exactly one valid target as a solid white box on the black screen and checks the sensor again. Light means you hit that target.</li>
+      <li>If there are two targets, it does step 3 twice, in a known order, so it can tell which one you got.</li>
+      <li>Normal gameplay resumes.</li>
+    </ol>
+    <p>Some games add an all-white frame at the start to confirm you're pointed at the screen at all before running the sequence.</p>
+
+    <h3>Try it yourself</h3>
+    <p>Pull the trigger and watch the console run its checks one frame at a time. Pick a target to see how the black-frame test tells a real shot from a cheat.</p>
+    <style>
+    .zc{--D:5s;max-width:680px;margin:26px auto;background:#1f1f26;border:1px solid #34343e;border-radius:10px;
+      padding:14px 16px 18px;color:#e8e6e1;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;box-sizing:border-box;}
+    .zc *{box-sizing:border-box;}
+    .zc-title{font-family:"Press Start 2P",monospace;font-size:11px;color:#f47b20;letter-spacing:1px;margin:2px 0 14px;line-height:1.8;}
+    .zc>input{position:absolute;opacity:0;pointer-events:none;width:0;height:0;}
+
+    /* aim chips */
+    .zc-aimbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:0 0 14px;}
+    .zc-aimlbl{font-family:"Press Start 2P",monospace;font-size:8px;color:#a5a2ab;letter-spacing:1px;margin-right:2px;}
+    .zc-chip{font-family:"Press Start 2P",monospace;font-size:9px;color:#a5a2ab;background:#17171c;border:1px solid #34343e;
+      border-bottom-width:3px;border-radius:7px;padding:9px 10px 8px;cursor:pointer;user-select:none;line-height:1.5;}
+    .zc-chip:hover{color:#fff;}
+    #zc-a:checked~.zc-aimbar label[for=zc-a],
+    #zc-b:checked~.zc-aimbar label[for=zc-b],
+    #zc-sky:checked~.zc-aimbar label[for=zc-sky],
+    #zc-lamp:checked~.zc-aimbar label[for=zc-lamp]{background:#f47b20;border-color:#f47b20;color:#17171c;}
+
+    /* stage */
+    .zc-stage{display:flex;gap:14px;align-items:flex-end;}
+    .zc-tv{flex:1 1 auto;background:#5c4033;border:3px solid #3e2a20;border-radius:12px;padding:14px 16px 20px;}
+    .zc-screen{position:relative;width:100%;aspect-ratio:4/3;background:#000;border-radius:10px;overflow:hidden;border:3px solid #15151a;}
+    .zc-sky{position:absolute;inset:0;background:#63a8ff;}
+    .zc-ground{position:absolute;left:0;right:0;bottom:0;height:26%;background:#2e9e3e;border-top:4px solid #27862f;}
+    .zc-duck{position:absolute;width:20%;height:15%;border-radius:50% 50% 50% 50%/60% 60% 40% 40%;}
+    .zc-duck::after{content:"";position:absolute;right:-14%;top:6%;width:36%;height:40%;border-radius:50%;background:inherit;}
+    .zc-duck::before{content:"";position:absolute;right:-26%;top:26%;width:18%;height:12%;background:#f2a33c;border-radius:2px;z-index:1;}
+    .zc-duck-a{left:18%;top:22%;background:#2b2b2b;}
+    .zc-duck-b{left:52%;top:44%;background:#b8322c;}
+    .zc-duck-b::after{background:#3b7d3d;}
+    .zc-blackout{position:absolute;inset:0;background:#000;opacity:0;z-index:5;}
+    .zc-box{position:absolute;width:27%;height:24%;background:#fff;opacity:0;z-index:6;}
+    .zc-box-a{left:15%;top:17%;}
+    .zc-box-b{left:49%;top:39%;}
+    .zc-verdict{position:absolute;left:0;right:0;top:36%;z-index:7;text-align:center;font-family:"Press Start 2P",monospace;
+      font-size:clamp(13px,4.6vw,24px);opacity:0;text-shadow:2px 2px 0 #000;}
+    .zc-v-hit{color:#7ddb60;} .zc-v-miss{color:#fff;} .zc-v-cheat{color:#ff5c5c;}
+    .zc-crosshair{position:absolute;width:32px;height:32px;margin:-16px 0 0 -16px;border:2.5px solid #ffd23e;border-radius:50%;left:28%;top:29%;z-index:8;}
+    .zc-crosshair::before,.zc-crosshair::after{content:"";position:absolute;background:#ffd23e;}
+    .zc-crosshair::before{left:50%;top:-8px;width:2.5px;height:8px;margin-left:-1.25px;box-shadow:0 40px 0 #ffd23e;}
+    .zc-crosshair::after{top:50%;left:-8px;height:2.5px;width:8px;margin-top:-1.25px;box-shadow:40px 0 0 #ffd23e;}
+    #zc-b:checked~.zc-stage .zc-crosshair{left:62%;top:51%;}
+    #zc-sky:checked~.zc-stage .zc-crosshair{left:78%;top:16%;}
+    #zc-lamp:checked~.zc-stage .zc-crosshair{opacity:0;}
+
+    /* lamp */
+    .zc-lamp{flex:0 0 74px;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;padding-bottom:6px;position:relative;}
+    .zc-shade{width:0;height:0;border-left:26px solid transparent;border-right:26px solid transparent;border-top:34px solid #c9963f;}
+    .zc-bulb{width:22px;height:22px;border-radius:50%;background:radial-gradient(circle,#fff3b0,#ffd23e 60%,rgba(255,210,62,0) 72%);margin-top:-8px;}
+    .zc-pole{width:5px;height:64px;background:#4a4a55;}
+    .zc-base{width:44px;height:8px;border-radius:50%;background:#33333c;}
+    .zc-lamptag{font-family:"Press Start 2P",monospace;font-size:7px;color:#6d6a75;margin-top:6px;}
+    .zc-lamp-cross{position:relative;display:flex;flex-direction:column;align-items:center;}
+    #zc-lamp:checked~.zc-stage .zc-lamp-cross::after{content:"";position:absolute;left:50%;top:18px;width:30px;height:30px;
+      margin-left:-15px;border:2.5px solid #ffd23e;border-radius:50%;}
+
+    /* readout */
+    .zc-readout{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 0;}
+    .zc-cell{flex:1 1 130px;background:#17171c;border:1px solid #34343e;border-radius:8px;padding:8px 10px;text-align:center;}
+    .zc-cell .k{font-family:"Press Start 2P",monospace;font-size:8px;color:#a5a2ab;letter-spacing:1px;display:block;margin-bottom:7px;}
+    .zc-cell .v{font-family:"Press Start 2P",monospace;font-size:10px;line-height:1.6;min-height:12px;}
+    .zc-dot{display:inline-block;width:10px;height:10px;border-radius:50%;background:#3a3a44;vertical-align:middle;}
+    .zc-r{display:none;} .zc-rd{color:#8a8792;}
+    .zc-r-hit{color:#7ddb60;} .zc-r-miss{color:#e8e6e1;} .zc-r-cheat{color:#ff5c5c;}
+    .zc-trigv .on{display:none;color:#ffd23e;} .zc-trigv .off{color:#8a8792;}
+    #zc-fire:checked~.zc-readout .zc-trigv .on{display:inline;} 
+    #zc-fire:checked~.zc-readout .zc-trigv .off{display:none;}
+
+    /* controls */
+    .zc-controls{margin-top:14px;}
+    .zc-fire{display:inline-block;font-family:"Press Start 2P",monospace;font-size:11px;background:#f47b20;color:#17171c;
+      border:0;border-bottom:3px solid #a04e12;border-radius:8px;padding:13px 18px 11px;cursor:pointer;user-select:none;}
+    .zc-fire:active{transform:translateY(1px);}
+    .zc-fire::after{content:"PULL TRIGGER";}
+    #zc-fire:checked~.zc-controls .zc-fire{background:#17171c;color:#a5a2ab;border:1px solid #34343e;border-bottom-width:3px;}
+    #zc-fire:checked~.zc-controls .zc-fire::after{content:"RESET / FIRE AGAIN";}
+    .zc-cap{min-height:38px;margin:12px 2px 0;font-size:14.5px;color:#e8e6e1;line-height:1.5;}
+    .zc-cap b{color:#f47b20;font-weight:600;}
+    .zc-cap .c{display:none;} .zc-cap .cd{display:block;color:#a5a2ab;}
+    #zc-fire:checked~.zc-cap .cd{display:none;}
+    .zc-note{font-size:12px;color:#6d6a75;margin:8px 2px 0;line-height:1.5;}
+
+    /* ===== sequence keyframes (percent of --D) ===== */
+    @keyframes zc-blk{0%,10%{opacity:0}12%,86%{opacity:1}88%,100%{opacity:0}}
+    @keyframes zc-bxa{0%,36%{opacity:0}38%,61%{opacity:1}63%,100%{opacity:0}}
+    @keyframes zc-bxb{0%,61%{opacity:0}63%,86%{opacity:1}88%,100%{opacity:0}}
+    @keyframes zc-show{0%,86%{opacity:0}93%,100%{opacity:1}}
+    @keyframes zc-fall{0%,86%{transform:translateY(0) rotate(0)}100%{transform:translateY(230%) rotate(150deg)}}
+    @keyframes zc-dotL{0%,11%{background:#3a3a44}12%,36%{background:#ffd23e}38%,100%{background:#3a3a44}}
+    @keyframes zc-dotA{0%,36%{background:#3a3a44}38%,61%{background:#ffd23e}63%,100%{background:#3a3a44}}
+    @keyframes zc-dotB{0%,61%{background:#3a3a44}63%,86%{background:#ffd23e}88%,100%{background:#3a3a44}}
+
+    /* blackout + white boxes: same for every aim */
+    #zc-fire:checked~.zc-stage .zc-blackout{animation:zc-blk var(--D) linear both;}
+    #zc-fire:checked~.zc-stage .zc-box-a{animation:zc-bxa var(--D) linear both;}
+    #zc-fire:checked~.zc-stage .zc-box-b{animation:zc-bxb var(--D) linear both;}
+
+    /* photodiode lights at the frame matching the aim */
+    #zc-lamp:checked~#zc-fire:checked~.zc-readout .zc-dot{animation:zc-dotL var(--D) linear both;}
+    #zc-a:checked~#zc-fire:checked~.zc-readout .zc-dot{animation:zc-dotA var(--D) linear both;}
+    #zc-b:checked~#zc-fire:checked~.zc-readout .zc-dot{animation:zc-dotB var(--D) linear both;}
+
+    /* on-screen verdict + duck fall, per aim */
+    #zc-a:checked~#zc-fire:checked~.zc-stage .zc-vA{animation:zc-show var(--D) linear both;}
+    #zc-b:checked~#zc-fire:checked~.zc-stage .zc-vB{animation:zc-show var(--D) linear both;}
+    #zc-sky:checked~#zc-fire:checked~.zc-stage .zc-vS{animation:zc-show var(--D) linear both;}
+    #zc-lamp:checked~#zc-fire:checked~.zc-stage .zc-vL{animation:zc-show var(--D) linear both;}
+    #zc-a:checked~#zc-fire:checked~.zc-stage .zc-duck-a{animation:zc-fall var(--D) linear both;}
+    #zc-b:checked~#zc-fire:checked~.zc-stage .zc-duck-b{animation:zc-fall var(--D) linear both;}
+
+    /* RESULT chip: reveal the matching verdict (fades in at the end) */
+    #zc-fire:checked~.zc-readout .zc-rd{display:none;}
+    #zc-a:checked~#zc-fire:checked~.zc-readout .zc-rA{display:inline;animation:zc-show var(--D) linear both;}
+    #zc-b:checked~#zc-fire:checked~.zc-readout .zc-rB{display:inline;animation:zc-show var(--D) linear both;}
+    #zc-sky:checked~#zc-fire:checked~.zc-readout .zc-rS{display:inline;animation:zc-show var(--D) linear both;}
+    #zc-lamp:checked~#zc-fire:checked~.zc-readout .zc-rL{display:inline;animation:zc-show var(--D) linear both;}
+
+    /* captions per aim (shown once fired) */
+    #zc-a:checked~#zc-fire:checked~.zc-cap .cA,
+    #zc-b:checked~#zc-fire:checked~.zc-cap .cB,
+    #zc-sky:checked~#zc-fire:checked~.zc-cap .cS,
+    #zc-lamp:checked~#zc-fire:checked~.zc-cap .cL{display:block;}
+
+    @media (max-width:560px){ .zc-stage{gap:8px;} .zc-lamp{flex-basis:56px;} }
+    </style>
+
+    <div class="zc">
+      <input type="radio" name="zc-aim" id="zc-a" checked>
+      <input type="radio" name="zc-aim" id="zc-b">
+      <input type="radio" name="zc-aim" id="zc-sky">
+      <input type="radio" name="zc-aim" id="zc-lamp">
+      <input type="checkbox" id="zc-fire">
+
+      <p class="zc-title">INTERACTIVE: PULL THE TRIGGER</p>
+
+      <div class="zc-aimbar">
+        <span class="zc-aimlbl">AIM AT:</span>
+        <label class="zc-chip" for="zc-a">Black duck</label>
+        <label class="zc-chip" for="zc-b">Red duck</label>
+        <label class="zc-chip" for="zc-sky">Empty sky</label>
+        <label class="zc-chip" for="zc-lamp">The lamp</label>
+      </div>
+
+      <div class="zc-stage">
+        <div class="zc-tv">
+          <div class="zc-screen">
+            <div class="zc-sky"></div>
+            <div class="zc-ground"></div>
+            <div class="zc-duck zc-duck-a"></div>
+            <div class="zc-duck zc-duck-b"></div>
+            <div class="zc-blackout"></div>
+            <div class="zc-box zc-box-a"></div>
+            <div class="zc-box zc-box-b"></div>
+            <div class="zc-verdict zc-v-hit zc-vA">HIT!</div>
+            <div class="zc-verdict zc-v-hit zc-vB">HIT!</div>
+            <div class="zc-verdict zc-v-miss zc-vS">MISS</div>
+            <div class="zc-verdict zc-v-cheat zc-vL">CHEAT</div>
+            <div class="zc-crosshair"></div>
+          </div>
+        </div>
+        <div class="zc-lamp">
+          <div class="zc-lamp-cross"><div class="zc-shade"></div><div class="zc-bulb"></div></div>
+          <div class="zc-pole"></div><div class="zc-base"></div>
+          <div class="zc-lamptag">LAMP</div>
+        </div>
+      </div>
+
+      <div class="zc-readout">
+        <div class="zc-cell"><span class="k">PHOTODIODE</span><span class="v"><span class="zc-dot"></span></span></div>
+        <div class="zc-cell"><span class="k">TRIGGER</span><span class="v zc-trigv"><span class="off">RELEASED</span><span class="on">PULLED</span></span></div>
+        <div class="zc-cell"><span class="k">RESULT</span><span class="v">
+          <span class="zc-rd">&mdash;</span>
+          <span class="zc-r zc-rA zc-r-hit">HIT &middot; DUCK A</span>
+          <span class="zc-r zc-rB zc-r-hit">HIT &middot; DUCK B</span>
+          <span class="zc-r zc-rS zc-r-miss">MISS</span>
+          <span class="zc-r zc-rL zc-r-cheat">CHEAT!</span>
+        </span></div>
+      </div>
+
+      <div class="zc-controls"><label class="zc-fire" for="zc-fire"></label></div>
+
+      <p class="zc-cap">
+        <span class="c cd">Pick a target above, then pull the trigger. Watch the screen blank out and flash each duck as a white box in turn.</span>
+        <span class="c cA">Light hit the sensor during <b>frame 2</b>, the black duck's white-box frame. The game scores it as a hit on Duck A &mdash; without ever knowing where the gun pointed.</span>
+        <span class="c cB">Nothing on frame 2, but light on <b>frame 3</b> &mdash; the red duck's frame. That's how the game tells the two ducks apart and credits Duck B.</span>
+        <span class="c cS">Every target frame came and went with no light on the sensor. Clean <b>miss</b>. Somewhere, the dog is laughing.</span>
+        <span class="c cL">The sensor saw light during the <b>black frame</b>, before any target was drawn. That means the gun's pointed at a lamp, not the TV &mdash; the shot is thrown out as a cheat.</span>
+      </p>
+      <p class="zc-note">This demo is in Slow-motion so you can read each frame; a real Zapper runs this in about three frames of a 60&nbsp;fps picture.</p>
+    </div>
+
+
+    <div class="figrow shots">
+      <figure><img class="pixel" src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/232e8a0e-e6ce-4284-af9d-4258fcde6a29/screenshot-duck-hunt.png?content-type=image%2Fpng" alt="Duck Hunt gameplay screenshot"><figcaption><em>Duck Hunt.</em> Two ducks means two white-box frames, in a known order.</figcaption></figure>
+      <figure><img class="pixel" src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/0fc82676-1727-462d-9009-e84d92f04aa2/screenshot-duck-hunt-clay.png?content-type=image%2Fpng" alt="Duck Hunt clay pigeon mode screenshot"><figcaption><em>Duck Hunt</em> Game C. The clay pigeon's white box shrinks as it recedes — a literally smaller target.</figcaption></figure>
+    </div>
+
+    <h3>The parts</h3>
+    <p><strong>Optics.</strong> There's a lens at the end of a long tube in the barrel, with two orange occluders narrowing the photodiode's view, plus a weight that exists purely so the gun feels like something. This narrow scope is why you should play from three feet back and why the gun is so forgiving about sloppy aim.</p>
+    <p><strong>Filtering.</strong> The photodiode circuit is tuned to respond around 15 kHz, which is essentially the NTSC horizontal scan rate. That's the ambient light rejection: a bulb or daylight varies slowly or not at all and gets attenuated, while a CRT's line-by-line flicker goes straight through. It's also the single biggest reason the gun is dead on modern displays, which produce no such signal.</p>
+    <p><strong>Trigger.</strong> Not a simple switch. It reads 0 when fully open, 1 when half pulled, and 0 again once you pull it all the way to the clunk.</p>
+    <div class="figrow shots">
+      <figure><img class="pixel" src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/2ff66f76-895c-48e4-b764-a2d84acbffe2/screenshot-wild-gunman.png?content-type=image%2Fpng" alt="Wild Gunman FIRE prompt screenshot"><figcaption><em>Wild Gunman.</em> The FIRE!! prompt — the one game where the trigger's timing matters more than your aim.</figcaption></figure>
+      <figure><img class="pixel" src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/cceb91ab-a7af-42ee-a0fb-08616dd03052/screenshot-hogans-alley.png?content-type=image%2Fpng" alt="Hogan's Alley gameplay screenshot"><figcaption><em>Hogan's Alley.</em> High-contrast targets on dark backdrops — the look the hardware demands.</figcaption></figure>
+    </div>
+  </section>
+
+  <!-- ================= TAB 3: VARIANTS ================= -->
+  <section class="nesz-panel" id="nesz-p3">
+    <h2>Variants</h2>
+
+    <h3>Nintendo</h3>
+    <div class="vcard"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/23f001b3-d2a7-4c76-ab67-faaaa52efed3/hw-famicom-beam-gun-in-hand.jpg?content-type=image%2Fjpeg" alt="The Famicom Ray Gun revolver held in hand">
+      <p><strong>Famicom Ray Gun, HVC-005.</strong> Japan, 18 February 1984. Gray and black, modeled on a Colt Single Action Army, working hammer, loud crack when you pull the trigger. Sold with <em>Wild Gunman</em> and a holster belt.</p></div>
+    <div class="vcard"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/c3bf2e57-e90d-462f-b28b-372212c9c9c1/hw-vs-system.jpg?content-type=image%2Fjpeg" alt="Nintendo Vs. System arcade cabinet">
+      <p><strong>Vs. System gun.</strong> Arcade, from 1984. Cabinet-mounted or holstered, used on Vs. UniSystem and DualSystem boards.</p></div>
+    <div class="vcard"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/b53f7649-5ee7-48d1-9e2c-8e2f06fcc69e/hw-nes-zapper-gray.jpg?content-type=image%2Fjpeg" alt="Gray NES Zapper">
+      <p><strong>NES Zapper, gray, NES-005.</strong> North America, 18 October 1985, Europe from 1986 to 1987. Barr's ray gun redesign in NES light gray.</p></div>
+    <div class="vcard"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/3a92c8ff-a377-473d-83e1-c451dbe07746/hw-playchoice-10-cabinet.jpg?content-type=image%2Fjpeg" alt="PlayChoice-10 arcade cabinet">
+      <p><strong>PlayChoice-10 gun.</strong> Arcade, from 1986. Fitted to PC10 cabinets running gun games like <em>Duck Hunt</em> and <em>Hogan's Alley</em>.</p></div>
+    <div class="vcard"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/63ab7620-4b45-4b09-b161-9c9c808a1c83/hw-nes-zapper-orange.jpg?content-type=image%2Fjpeg" alt="Orange NES Zapper">
+      <p><strong>NES Zapper, orange, NES-005.</strong> 1989. Same electronics, same model number, orange barrel and grip to satisfy US imitation firearm marking rules. This is the one in most later Action Sets and Power Sets.</p></div>
+
+    <h3>Third Party</h3>
+    <div class="vcard"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/c41e03da-2e63-4a24-a9df-5b446392e1fe/hw-bandai-hyper-shot-box.jpg?content-type=image%2Fjpeg" alt="Bandai Hyper Shot box">
+      <p><strong>Bandai Hyper Shot</strong>, Famicom, Released in 1989. A submachine gun with battery-powered recoil (Bandai called it the Body Vibration System), a speaker in the body and a D-pad on the side. Sold with <em>Space Shadow</em>. It does not work with Nintendo's light gun games and Nintendo's gun does not work with <em>Space Shadow</em>.</p></div>
+    <div class="vcard"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/eaf2492d-2231-4c89-bd64-22823ffcd1eb/hw-konami-laserscope.jpg?content-type=image%2Fjpeg" alt="Konami LaserScope headset">
+      <p><strong>Konami LaserScope</strong>, Released in 1990. This headset comes with a transparent crosshair that hangs in front of your right eye and detachable headphones. Instead of a trigger you fire by shouting into a microphone. It plugs in as a Zapper substitute and works with any Zapper game. Konami built it for <em>Laser Invasion</em>. It triggers on any loud noise and there's an emphasis on loud.</p></div>
+    <div class="vcard"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/10030ae7-629e-4e98-94df-99bd4d277cfc/s-l1200.webp?content-type=image%2Fwebp" alt="Dominator Pro Beam Light Gun">
+      <p><strong>Dominator Pro Beam Light Gun.</strong> Unlicensed Zapper clone.</p></div>
+    <div class="vcard"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/4c7f8f6f-e0b5-44a2-9af9-d6154d5c4b48/f85e0850-53f5-11ea-b8b3-83ca1f5e4647.webp?content-type=image%2Fwebp" alt="QuickShot QS-132 Sighting Scope">
+      <p><strong>QuickShot QS-132 Sighting Scope.</strong> A scope that clips onto a Zapper.</p></div>
+  </section>
+
+  <!-- ================= TAB 4: THE GAMES ================= -->
+  <section class="nesz-panel" id="nesz-p4">
+    <h2>The Zapper Games</h2>
+    <p>The big one. Around twenty games plus two multicarts.</p>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/47db21c5-d03f-479f-8d9d-a72f825df37f/game-duck-hunt.jpg?content-type=image%2Fjpeg" alt="Duck Hunt box art"></div>
+      <div><h4>Duck Hunt</h4><ul class="facts">
+      <li><strong>Year:</strong> October 18th 1985, launch title</li>
+      <li><strong>Developer:</strong> Nintendo R&amp;D1 with Intelligent Systems</li>
+      <li><strong>Publisher:</strong> Nintendo</li>
+      <li><strong>Objective:</strong> A dog scares ducks out of tall grass and you shoot them before they get away. Game A is one duck at a time, Game B is two at once, Game C swaps the ducks for clay pigeons launched away from you. Each round gives you ten targets and a quota that climbs as you go. The dog pops up to hold your kills, or to laugh at you, which is the part everyone remembers.</li>
+      <li><strong>Zapper Implementation:</strong> Three shots per ducks. Each trigger pull blanks the screen and then draws each duck in turn as a white box, so the game knows which bird you got rather than just whether you got one. Game C is harder for a physical reason: the clay pigeon's white box shrinks as it recedes, so you're shooting at a smaller sensor target the longer you wait. In Games A and B a second player can grab a controller and fly the ducks. And while you can't shoot the dog in the NES version, the arcade <em>Vs. Duck Hunt</em> lets you.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/efa801ae-741f-4c58-81b1-138152ae3d4e/game-hogans-alley.jpg?content-type=image%2Fjpeg" alt="Hogan's Alley box art"></div>
+      <div><h4>Hogan's Alley</h4><ul class="facts">
+      <li><strong>Year:</strong> October 18th 1985, launch title</li>
+      <li><strong>Developer:</strong> Nintendo R&amp;D1 with Intelligent Systems, directed and designed by Shigeru Miyamoto</li>
+      <li><strong>Publisher:</strong> Nintendo</li>
+      <li><strong>Objective:</strong> A police marksmanship game named after the FBI's real training facility. Cardboard cutouts rotate to face you. Some are gangsters, some are a professor or a woman or a uniformed cop, and it's up to you to sort them out and shoot the gangsters. Mode A is the shooting range against a blank wall. Mode B moves the targets into a street, in windows and doorways. Mode C is a bonus game with tin cans.</li>
+      <li><strong>Zapper Implementation:</strong> One shot per target, and the game punishes hesitating just as hard as it punishes shooting wrong. Hit a civilian and you lose a life. Fail to hit a gangster in time and you lose a life. Later rounds put five targets up at once. The other mode, "Trick Shot," involves shooting a falling can to juggle it onto scoring ledges with limited ammo.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/ac9b36b1-7ea2-4eb5-82e7-8fa5628cfb24/game-wild-gunman.png?content-type=image%2Fpng" alt="Wild Gunman box art"></div>
+      <div><h4>Wild Gunman</h4><ul class="facts">
+      <li><strong>Year:</strong> October 18th 1985, launch title</li>
+      <li><strong>Developer:</strong> Nintendo R&amp;D1 with Intelligent Systems</li>
+      <li><strong>Publisher:</strong> Nintendo</li>
+      <li><strong>Objective:</strong> A pixel version of Nintendo's own 1974 arcade machine, which used a 16mm projector and footage of real actors. An outlaw faces you in the street, his eyes flash, a balloon says FIRE!!, and you have some posted number of hundredths of a second to draw. Game A is one outlaw, Game B is two at once, Game C is a gang coming out of saloon windows and doors on a timer similar to Hogan's Alley.</li>
+      <li><strong>Zapper Implementation:</strong> In this game holding your fire is just as important as firing it. Shoot before the prompt and you've lost the duel no matter what you do next.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/e067ef87-bbfe-474a-b4cb-daa77b39c610/game-gumshoe.jpg?content-type=image%2Fjpeg" alt="Gumshoe box art"></div>
+      <div><h4>Gumshoe</h4><ul class="facts">
+      <li><strong>Year:</strong> August 1986</li>
+      <li><strong>Developer:</strong> Nintendo R&amp;D1, designed by Yoshio Sakamoto</li>
+      <li><strong>Publisher:</strong> Nintendo</li>
+      <li><strong>Objective:</strong> The weirdest thing Nintendo ever did with the Zapper. Ex-FBI agent Mr. Stevenson has 24 hours to find five Black Panther diamonds and rescue his daughter back from a mob boss called King Dom. Structurally it's a side-scrolling platformer across four levels, you just never touch a D-pad.</li>
+      <li><strong>Zapper Implementation:</strong> Stevenson walks right on his own and never stops. You shoot <em>him</em> to make him jump. Everything else you shoot to destroy. Ammo is finite, so every wasted shot is a jump you can't make later, and running out will result in a game over. Red balloons drifting through the level top you back up when you shoot them, and collecting twenty opens hidden bonus areas.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/8751264b-16c3-4699-aaac-1726d970b721/game-gotcha-the-sport.jpg?content-type=image%2Fjpeg" alt="Gotcha! The Sport! box art"></div>
+      <div><h4>Gotcha! The Sport!</h4><ul class="facts">
+      <li><strong>Year:</strong> November 1987</li>
+      <li><strong>Developer:</strong> Atlus</li>
+      <li><strong>Publisher:</strong> LJN</li>
+      <li><strong>Objective:</strong> A licensed tie-in to the 1985 Anthony Edwards movie <em>Gotcha!</em> that skips the spy comedy plot entirely and adapts the paintball tournament. Cross a scrolling stage, take the enemy flag on the right, carry it back to your base on the left.</li>
+      <li><strong>Zapper Implementation:</strong> You hold the Zapper in one hand to aim and fire and a standard controller in the other, using the D-pad to scroll the screen. Aiming and movement are completely separate, so you can back up while still covering forward. For many it's awkward to hold both controllers, but its unique approach to controls gives the player movement for the first time.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/382a8573-4e19-485a-8385-509b1f5e646c/game-freedom-force.jpg?content-type=image%2Fjpeg" alt="Freedom Force box art"></div>
+      <div><h4>Freedom Force</h4><ul class="facts">
+      <li><strong>Year:</strong> April 1988</li>
+      <li><strong>Developer:</strong> Sunsoft</li>
+      <li><strong>Publisher:</strong> Sunsoft</li>
+      <li><strong>Objective:</strong> A counter-terrorist rail shooter. The screen scrolls through airports and city streets while terrorists and hostages appear in windows, doorways and behind cover. It has a two player mode, unfortunately that just means taking turns.</li>
+      <li><strong>Zapper Implementation:</strong> Shoot the terrorists, don't shoot the hostages. Hits leave a small red splotch on the target's chest, which doubles as feedback on your own accuracy. When an item shows up in the box in the lower right corner of the screen, you shoot the box to collect it, and you get energy, ammo or a weapon upgrade. Between stages there's a hangman-style word game where you shoot letters.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/390f19f1-8d13-4ef3-964a-81b9553e5081/71KyEVCSEML.jpg?content-type=image%2Fjpeg" alt="2-in-1 Multicart"></div>
+      <div><h4>Super Mario Bros. / Duck Hunt</h4><ul class="facts">
+      <li><strong>Year:</strong> 1988</li>
+      <li><strong>Developer and publisher:</strong> Nintendo</li>
+      <li><strong>Objective:</strong> The Action Set pack-in. Two full games on one cart with a selector on the title screen.</li>
+      <li><strong>Zapper Implementation:</strong> Same as standalone <em>Duck Hunt</em>.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/d1780eb7-8357-443c-bfc6-923ac67f5fe9/game-shooting-range.jpg?content-type=image%2Fjpeg" alt="Shooting Range box art"></div>
+      <div><h4>Shooting Range</h4><ul class="facts">
+      <li><strong>Year:</strong> June 1989</li>
+      <li><strong>Developer:</strong> Tose</li>
+      <li><strong>Publisher:</strong> Bandai America</li>
+      <li><strong>Objective:</strong> A set of light gun mini-games with an "Old West" carnival theme, plus a level set on the moon if the west gets boring.</li>
+      <li><strong>Zapper Implementation:</strong> You're not shooting the characters. You're shooting red and white bullseye targets mounted on their heads, while an energy meter drains as your combined timer and life bar. Shoot the wrong thing and it drains faster.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/cba8de6d-e57b-49e9-9170-1919bb04567c/game-to-the-earth.jpg?content-type=image%2Fjpeg" alt="To the Earth box art"></div>
+      <div><h4>To the Earth</h4><ul class="facts">
+      <li><strong>Year:</strong> November 1989</li>
+      <li><strong>Developer:</strong> Cirque Verte</li>
+      <li><strong>Publisher:</strong> Nintendo</li>
+      <li><strong>Objective:</strong> A first-person rail shooter traveling inward through the solar system against an alien invasion, with a boss at each planet and an alien called Nemesis waiting near Earth.</li>
+      <li><strong>Zapper Implementation:</strong> Shoot the incoming ships, missiles, bombs and asteroids, and don't shoot friendlies. Every shot you miss drains your shield. The three pickups (a screen-clearing bomb, a comet that makes you briefly invulnerable, and a shield refill) are collected by shooting them.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/0c79b4b7-53ef-4fdd-b7c5-645d26f4e125/game-barker-bills-trick-shooting.png?content-type=image%2Fpng" alt="Barker Bill's Trick Shooting box art"></div>
+      <div><h4>Barker Bill's Trick Shooting</h4><ul class="facts">
+      <li><strong>Year:</strong> August 1990</li>
+      <li><strong>Developer:</strong> Nintendo R&amp;D1</li>
+      <li><strong>Publisher:</strong> Nintendo</li>
+      <li><strong>Objective:</strong> A carnival trick-shot showcase hosted by Barker Bill, a name borrowed from a 1950s Terrytoons character, and his assistant Trixie. Four modes, structured as an exhibition rather than a campaign.</li>
+      <li><strong>Zapper Implementation:</strong> Each mode is a different game. <em>Balloon Saloon</em> has you popping drifting balloons for 100 points each while the <em>Duck Hunt</em> dog wanders through as a hazard. <em>Flying Saucers</em> has Bill and Trixie tossing plates across the screen, worth 100 to 500 points depending on height, and you must not hit Bill, Trixie or the parrot. <em>Window Pains</em> drops objects past a wall of windows where closed panes physically block your shot, so you're timing each pull to an opening, scoring 100 at the top row up to 500 at the bottom. <em>Fun Follies</em> is all three plus two extra stages, Trixie's Shot and Bill's Thrills, with a slot machine bonus.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/eaec626c-a011-43a7-916f-1fa2bd51c448/s-l1200.jpg?content-type=image%2Fjpeg" alt="3-in-1 Multicart"></div>
+      <div><h4>Super Mario Bros. / Duck Hunt / World Class Track Meet</h4><ul class="facts">
+      <li><strong>Year:</strong> 1990</li>
+      <li><strong>Developer and publisher:</strong> Nintendo</li>
+      <li><strong>Objective:</strong> The Power Set pack-in, adding a Power Pad game to the Action Set cart. North America only.</li>
+      <li><strong>Zapper Implementation:</strong> Same as <em>Duck Hunt</em>.</li>
+      </ul></div></div>
+
+    <p class="ghead">OPTIONAL ZAPPER GAMES</p>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/e9894f9f-79db-4a2e-bebd-bbac0048c48f/images.jpg?content-type=image%2Fjpeg" alt="Operation Wolf box art"></div>
+      <div><h4>Operation Wolf</h4><ul class="facts">
+      <li><strong>Year:</strong> March 1989</li>
+      <li><strong>Developer:</strong> Taito</li>
+      <li><strong>Publisher:</strong> Taito</li>
+      <li><strong>Objective:</strong> A port of Taito's 1987 arcade hit. Roy Adams fights through six missions to free five hostages. An on rails first person side scroller. The NES version has multiple endings depending on how many hostages make it out.</li>
+      <li><strong>Zapper Implementation:</strong> If you play with the Zapper you point at the screen and shoot like normal. Without it you drag a crosshair around with the D-pad. The enemy counts were not adjusted from the arcade cabinet which had auto fire, so playing this with a Zapper is several minutes of continuous trigger mashing.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/b0ad7932-5767-4919-8834-a813f3360540/game-bayou-billy.jpg?content-type=image%2Fjpeg" alt="The Adventures of Bayou Billy box art"></div>
+      <div><h4>The Adventures of Bayou Billy</h4><ul class="facts">
+      <li><strong>Year:</strong> June 1989</li>
+      <li><strong>Developer:</strong> Konami</li>
+      <li><strong>Publisher:</strong> Konami</li>
+      <li><strong>Objective:</strong> Konami's Famicom game <em>Mad City</em> was renamed <strong>The Adventures of Bayou Billy</strong> and rebuilt for North America with a harder difficulty. Billy West works through the Louisiana bayou to get Annabelle Lane back from Godfather Gordon over nine stages in three formats: side-scrolling brawling for most of it, a jeep driving section in stages 4 and 5, and first-person rail shooting in stages 2 and 7.</li>
+      <li><strong>Zapper Implementation:</strong> The aforementioned stages 2 and 7 allow the use of a zapper and the game asks which controller you want at the start of each. The Zapper is the easier choice here because the controller version makes you drag a crosshair, and pointing is faster than dragging.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/ca278445-cb2b-488b-b4c0-7daa72a34898/game-track-and-field-ii.jpg?content-type=image%2Fjpeg" alt="Track & Field II box art"></div>
+      <div><h4>Track &amp; Field II</h4><ul class="facts">
+      <li><strong>Year:</strong> February 1989</li>
+      <li><strong>Developer:</strong> Konami</li>
+      <li><strong>Publisher:</strong> Konami</li>
+      <li><strong>Objective:</strong> Konami's sequel was built around the 1988 Seoul games. There are fifteen events including fencing, triple jump, freestyle swimming, high dive, clay pigeon shooting, hammer throw, pole vault, canoeing, archery, hurdles, horizontal bar and arm wrestling, plus two bonus events.</li>
+      <li><strong>Zapper Implementation:</strong> The Clay Pigeon Shooting event, which is the one you'd expect, does not use the Zapper. It only works in the Gun Firing bonus event.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/b64977d2-bcda-48e4-9662-165af06fe3aa/game-mechanized-attack.jpg?content-type=image%2Fjpeg" alt="Mechanized Attack box art"></div>
+      <div><h4>Mechanized Attack</h4><ul class="facts">
+      <li><strong>Year:</strong> June 1990</li>
+      <li><strong>Developer:</strong> SNK</li>
+      <li><strong>Publisher:</strong> SNK</li>
+      <li><strong>Objective:</strong> A port of SNK's 1989 arcade rail shooter, which had an Uzi-shaped gun mounted to the cabinet. One commando against a robot army across five stages, with bullets and grenades tracked separately.</li>
+      <li><strong>Zapper Implementation:</strong> The Zapper gets you closest to the arcade as the controller uses the crosshair method instead. Same caveat as <em>Operation Wolf</em>, the enemy density assumes an arcade gun with autofire, so your finger does a lot of work.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/238783e3-1296-43d2-a908-e0b97586e8cf/game-laser-invasion.png?content-type=image%2Fpng" alt="Laser Invasion box art"></div>
+      <div><h4>Laser Invasion</h4><ul class="facts">
+      <li><strong>Year:</strong> June 1991</li>
+      <li><strong>Developer:</strong> Konami</li>
+      <li><strong>Publisher:</strong> Konami</li>
+      <li><strong>Objective:</strong> <em>Gun Sight</em> in Japan. Three genres stitched together across four missions. You fly an attack helicopter, pick an equipment loadout, then land and infiltrate on foot through first-person shooting sections and 3D maze corridors. Ambitious for the hardware, and it mostly holds together.</li>
+      <li><strong>Zapper Implementation:</strong> You can only use the Zapper in the on-foot shooting sections where the screen auto-scrolls right and soldiers come at you. This is the game Konami built the LaserScope for, and it supports all three inputs: controller, Zapper, or headset.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/60a5113e-4c74-4e49-bae2-46f1073df49d/game-lone-ranger.jpg?content-type=image%2Fjpeg" alt="The Lone Ranger box art"></div>
+      <div><h4>The Lone Ranger</h4><ul class="facts">
+      <li><strong>Year:</strong> August 1991</li>
+      <li><strong>Developer:</strong> Konami</li>
+      <li><strong>Publisher:</strong> Konami</li>
+      <li><strong>Objective:</strong> Navigate eight areas across four different play styles, an overworld map where Tonto gives you leads and outlaw gangs ambush you, top-down towns where you talk to people, buy ammo and TNT and upgrade your barrel, side-scrolling action stages with platforming, and first-person maze corridors with radar showing where enemies are.</li>
+      <li><strong>Zapper Implementation:</strong> The Zapper is only used in the first-person maze battles, where things come at you from all sides. You can opt to use a controller instead.</li>
+      </ul></div></div>
+
+    <div class="gcard"><div class="art"><img src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/ab8703ae-2c38-4a1e-a6b8-bab24615247a/game-day-dreamin-davey.jpg?content-type=image%2Fjpeg" alt="Day Dreamin' Davey box art"></div>
+      <div><h4>Day Dreamin' Davey</h4><ul class="facts">
+      <li><strong>Year:</strong> June 1992</li>
+      <li><strong>Developer:</strong> Sculptured Software</li>
+      <li><strong>Publisher:</strong> HAL America</li>
+      <li><strong>Objective:</strong> The last NES game with any Zapper implementation. A bored kid daydreams through seven scenarios set in Ancient Greece, the Middle Ages and the Wild West, played top-down as an action-adventure with maze-like levels and bosses that each need a particular special weapon.</li>
+      <li><strong>Zapper Implementation:</strong> You can use the Zapper in the Wild West showdown. The view flips to a first-person duel, the outlaw tells you to draw, and you shoot the gun out of his hand. A controller reticle does the same job with the D-pad and A. So it's a flavor option for a single boss fight, which makes for a fairly anticlimactic end to the peripheral's life.</li>
+      </ul></div></div>
+
+    <p class="ghead">FAMICOM EXCLUSIVE LIGHT GUN GAME</p>
+
+    <div class="gcard"><div class="art"><img class="pixel" src="https://images.squarespace-cdn.com/content/5a54fbf6e45a7cd2cf149b5c/babf84d6-5b0b-465a-99a3-bc8a8aafa0fe/game-space-shadow-title.png?content-type=image%2Fpng" alt="Space Shadow title screen"></div>
+      <div><h4>スペースシャドー (<em>Space Shadow</em>)</h4><ul class="facts">
+      <li><strong>Year:</strong> February 20th 1989</li>
+      <li><strong>Developer:</strong> Bandai</li>
+      <li><strong>Publisher:</strong> Bandai</li>
+      <li><strong>Objective:</strong> An <em>Aliens</em>-flavored rail shooter. You walk down an octagonal corridor while things burst out of the side passages and the ceiling. You are armed with a machine gun and grenades.</li>
+      <li><strong>The Peripheral:</strong> Sold with Bandai's Hyper Shot, the submachine gun with battery-powered recoil, a speaker and a D-pad on the body. The Hyper Shot is not compatible with Nintendo's light gun games, and Nintendo's Ray Gun won't run <em>Space Shadow</em>.</li>
+      </ul></div></div>
+  </section>
+
+  <!-- ================= TAB 5: TOTALS & SOURCES ================= -->
+  <section class="nesz-panel" id="nesz-p5">
+    <h2>Totals</h2>
+    <table>
+      <tr><th>Region</th><th>Required</th><th>Optional</th><th>Total</th></tr>
+      <tr><td>North America</td><td>12</td><td>8</td><td>20</td></tr>
+      <tr><td>PAL</td><td>7 including 1 multicart</td><td>4</td><td>11</td></tr>
+      <tr><td>Japan</td><td>3</td><td>3</td><td>6</td></tr>
+    </table>
+    <p>Only five games came out in all three regions: <em>Duck Hunt</em>, <em>Hogan's Alley</em>, <em>Wild Gunman</em>, <em>Mad City</em> / <em>The Adventures of Bayou Billy</em>, and <em>Operation Wolf</em>.</p>
+
+    <h3>By year</h3>
+    <table>
+      <tr><th>Year</th><th>Titles</th></tr>
+      <tr><td>1984</td><td>Wild Gunman, Duck Hunt, Hogan's Alley (Japan)</td></tr>
+      <tr><td>1985</td><td>Duck Hunt, Hogan's Alley, Wild Gunman (North America)</td></tr>
+      <tr><td>1986</td><td>Gumshoe</td></tr>
+      <tr><td>1987</td><td>Gotcha! The Sport!</td></tr>
+      <tr><td>1988</td><td>Freedom Force, SMB/Duck Hunt, Mad City (Japan)</td></tr>
+      <tr><td>1989</td><td>Operation Wolf, Bayou Billy, Track &amp; Field II, Shooting Range, To the Earth</td></tr>
+      <tr><td>1990</td><td>Barker Bill's Trick Shooting, Mechanized Attack, SMB/DH/WCTM</td></tr>
+      <tr><td>1991</td><td>Gun Sight / Laser Invasion, The Lone Ranger</td></tr>
+      <tr><td>1992</td><td>Day Dreamin' Davey</td></tr>
+    </table>
+
+    <h3>Sources</h3>
+    <h4>Hardware and history</h4>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/NES_Zapper" target="_blank" rel="noopener">NES Zapper, Wikipedia</a></li>
+      <li><a href="https://www.nesdev.org/wiki/Zapper" target="_blank" rel="noopener">Zapper, NESdev Wiki</a> — the register-level and electrical detail</li>
+      <li><a href="https://en.wikipedia.org/wiki/Laser_Clay_Shooting_System" target="_blank" rel="noopener">Laser Clay Shooting System, Wikipedia</a></li>
+      <li><a href="https://ja.wikipedia.org/wiki/%E5%85%89%E7%B7%9A%E9%8A%83%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA" target="_blank" rel="noopener">光線銃シリーズ, Japanese Wikipedia</a></li>
+      <li><a href="https://www.staycaffeinated.com/2024/04/26/light-gun-teardown" target="_blank" rel="noopener">A quick teardown of the NES Zapper Lightgun, Stay Caffeinated</a></li>
+      <li><a href="https://www.beardypig.com/2015/12/11/nes-zapper-experiments-1/" target="_blank" rel="noopener">NES Zapper Experiments #1, beardypig</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_accessories" target="_blank" rel="noopener">List of NES accessories, Wikipedia</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/LaserScope" target="_blank" rel="noopener">LaserScope, Wikipedia</a></li>
+      <li><a href="https://www.federalregister.gov/documents/2023/05/11/2023-09999/marking-of-toy-look-alike-and-imitation-firearms" target="_blank" rel="noopener">Marking of Toy, Look-Alike, and Imitation Firearms, Federal Register</a> and <a href="https://www.law.cornell.edu/cfr/text/15/part-272" target="_blank" rel="noopener">15 CFR Part 272, Cornell LII</a></li>
+    </ul>
+    <h4>Game lists and regional releases</h4>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Category:NES_Zapper-compatible_games" target="_blank" rel="noopener">Category: NES Zapper-compatible games, Wikipedia</a></li>
+      <li><a href="https://gxrts.com/nes/zapper" target="_blank" rel="noopener">NES Zapper / Light Gun Games List, gxrts.com</a> — includes the multicarts, which most lists skip</li>
+      <li><a href="http://www.neshq.com/lists/euneslist.txt" target="_blank" rel="noopener">European NES Game List v0.10, 1998, NES HQ</a> — the author says up front it's incomplete, so I only used it to corroborate</li>
+      <li><a href="http://lesyn.com/nikki/2015/01/post-317.html" target="_blank" rel="noopener">任天堂光線銃シリーズ以外の光線銃対応ファミコンソフト, 徒然ちょっとメモ</a> — Japanese third-party gun compatibility</li>
+      <li><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%AC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88" target="_blank" rel="noopener">『ガンサイト』1991年／ファミコン, レトロゲームの説明書保管庫</a></li>
+      <li><a href="https://superfamicom.org/famicom/info/space-shadow" target="_blank" rel="noopener">Space Shadow, superfamicom.org</a></li>
+    </ul>
+    <h4>Individual game articles on Wikipedia</h4>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Duck_Hunt" target="_blank" rel="noopener">Duck Hunt</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Hogan%27s_Alley_(video_game)" target="_blank" rel="noopener">Hogan's Alley</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Wild_Gunman" target="_blank" rel="noopener">Wild Gunman</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Gumshoe_(video_game)" target="_blank" rel="noopener">Gumshoe</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Freedom_Force_(1988_video_game)" target="_blank" rel="noopener">Freedom Force</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Gotcha!_The_Sport!" target="_blank" rel="noopener">Gotcha! The Sport!</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Shooting_Range_(video_game)" target="_blank" rel="noopener">Shooting Range</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/To_the_Earth" target="_blank" rel="noopener">To the Earth</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Barker_Bill%27s_Trick_Shooting" target="_blank" rel="noopener">Barker Bill's Trick Shooting</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Operation_Wolf" target="_blank" rel="noopener">Operation Wolf</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/The_Adventures_of_Bayou_Billy" target="_blank" rel="noopener">The Adventures of Bayou Billy</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Track_%26_Field_II" target="_blank" rel="noopener">Track &amp; Field II</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Mechanized_Attack" target="_blank" rel="noopener">Mechanized Attack</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Laser_Invasion" target="_blank" rel="noopener">Laser Invasion</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/The_Lone_Ranger_(video_game)" target="_blank" rel="noopener">The Lone Ranger</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Day_Dreamin%27_Davey" target="_blank" rel="noopener">Day Dreamin' Davey</a></li>
+    </ul>
+
+    <p class="credits">Photo credits: hardware photography by Evan-Amos via Wikimedia Commons (free use); vintage toy and Laser Clay materials via beforemario.com (© Erik Voskuil); Famicom gun photos via famicomblog; box art and screenshots via Wikipedia, used under fair use for commentary.</p>
+  </section>
+
+  </div><!-- /nesz-panels -->
+</div><!-- /nesz -->
+<!-- COPY-END -->
+
+</body>
+</html>

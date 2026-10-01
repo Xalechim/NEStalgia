@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zapper Interactive — How It Works</title>
+</head>
+<body style="margin:0;background:#26262c;padding:24px 12px;">
+
+<!-- ============================================================
+     SQUARESPACE: copy everything from COPY-START to COPY-END.
+     Recommended spot: inside the article's How It Works section,
+     right after the paragraph that ends "...before running the
+     sequence."  It also works pasted anywhere as its own
+     HTML Code Block. Requires JavaScript (fine on your plan).
+     ============================================================ -->
+<!-- COPY-START -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap">
+<style>
+.zsim{max-width:760px;margin:26px auto;background:#1f1f26;border:1px solid #34343e;border-radius:10px;
+  padding:14px 14px 18px;color:#e8e6e1;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;box-sizing:border-box;}
+.zsim *{box-sizing:border-box;}
+.zsim .zsim-title{font-family:"Press Start 2P",monospace;font-size:11px;color:#f47b20;letter-spacing:1px;margin:2px 0 12px;line-height:1.8;}
+.zsim svg{display:block;width:100%;height:auto;border-radius:8px;background:#191920;touch-action:pan-y;cursor:crosshair;}
+.zsim .zsim-readout{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 0;}
+.zsim .zsim-chip{flex:1 1 150px;background:#17171c;border:1px solid #34343e;border-radius:8px;padding:8px 10px;text-align:center;}
+.zsim .zsim-chip .lbl{font-family:"Press Start 2P",monospace;font-size:8px;color:#a5a2ab;letter-spacing:1px;display:block;margin-bottom:6px;}
+.zsim .zsim-chip .val{font-family:"Press Start 2P",monospace;font-size:11px;color:#e8e6e1;line-height:1.6;}
+.zsim .zsim-chip .val.lit{color:#ffd23e;}
+.zsim .zsim-chip .val.hit{color:#7ddb60;}
+.zsim .zsim-chip .val.bad{color:#ff5c5c;}
+.zsim .zsim-caption{min-height:44px;margin:12px 2px 0;font-size:15px;line-height:1.5;color:#e8e6e1;}
+.zsim .zsim-caption em{color:#f47b20;font-style:normal;font-weight:600;}
+.zsim .zsim-controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:12px;}
+.zsim button.zsim-fire{font-family:"Press Start 2P",monospace;font-size:11px;background:#f47b20;color:#17171c;
+  border:0;border-bottom:3px solid #a04e12;border-radius:8px;padding:13px 18px 11px;cursor:pointer;}
+.zsim button.zsim-fire:active{transform:translateY(1px);border-bottom-width:2px;}
+.zsim button.zsim-fire[disabled]{opacity:.45;cursor:default;}
+.zsim button.zsim-speed{font-family:"Press Start 2P",monospace;font-size:9px;background:#17171c;color:#a5a2ab;
+  border:1px solid #34343e;border-radius:8px;padding:12px 12px 10px;cursor:pointer;}
+.zsim button.zsim-speed:hover{color:#fff;}
+.zsim .zsim-note{font-size:12.5px;color:#a5a2ab;margin:10px 2px 0;line-height:1.5;}
+.zsim .zsim-trigger-hot{cursor:pointer;}
+@keyframes zsim-pulse{0%{opacity:.9;transform:scale(.8);}100%{opacity:0;transform:scale(1.7);}}
+.zsim .zsim-pulse{transform-origin:center;transform-box:fill-box;animation:zsim-pulse 1.6s ease-out infinite;pointer-events:none;}
+.zsim .zsim-pulse.off{display:none;}
+</style>
+
+<div class="zsim" id="zsim">
+  <p class="zsim-title">INTERACTIVE: PULL THE TRIGGER</p>
+
+  <svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" aria-label="Interactive diagram: a Zapper pointed at a CRT television showing two ducks, with a lamp nearby. Pull the trigger to watch the light-detection sequence.">
+    <defs>
+      <clipPath id="zsim-screenclip"><rect x="104" y="68" width="362" height="282" rx="24"/></clipPath>
+      <radialGradient id="zsim-bulb" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#fff3b0" stop-opacity="1"/>
+        <stop offset="55%" stop-color="#ffd23e" stop-opacity=".85"/>
+        <stop offset="100%" stop-color="#ffd23e" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+
+    <!-- room -->
+    <rect x="0" y="0" width="800" height="500" rx="12" fill="#191920"/>
+    <rect x="0" y="432" width="800" height="68" fill="#22222a"/>
+
+    <!-- TV -->
+    <g>
+      <rect x="70" y="36" width="470" height="384" rx="14" fill="#5c4033" stroke="#3e2a20" stroke-width="3"/>
+      <rect x="92" y="56" width="386" height="306" rx="16" fill="#2c2c33" stroke="#1c1c22" stroke-width="2"/>
+      <circle cx="509" cy="104" r="15" fill="#26262c" stroke="#191920" stroke-width="3"/>
+      <rect x="506" y="93" width="6" height="12" rx="3" fill="#a5a2ab"/>
+      <circle cx="509" cy="152" r="15" fill="#26262c" stroke="#191920" stroke-width="3"/>
+      <rect x="502" y="149" width="14" height="6" rx="3" fill="#a5a2ab"/>
+      <g fill="#3e2a20">
+        <rect x="492" y="190" width="36" height="6" rx="3"/><rect x="492" y="204" width="36" height="6" rx="3"/>
+        <rect x="492" y="218" width="36" height="6" rx="3"/><rect x="492" y="232" width="36" height="6" rx="3"/>
+      </g>
+      <rect x="100" y="420" width="26" height="16" fill="#3e2a20"/>
+      <rect x="484" y="420" width="26" height="16" fill="#3e2a20"/>
+    </g>
+
+    <!-- screen -->
+    <g clip-path="url(#zsim-screenclip)">
+      <rect id="zsim-sky" x="104" y="68" width="362" height="282" fill="#63a8ff"/>
+      <g fill="#ffffff" opacity=".9">
+        <ellipse cx="180" cy="105" rx="30" ry="12"/><ellipse cx="205" cy="98" rx="22" ry="10"/>
+        <ellipse cx="400" cy="130" rx="26" ry="11"/><ellipse cx="380" cy="124" rx="18" ry="9"/>
+      </g>
+      <rect x="104" y="292" width="362" height="58" fill="#2e9e3e"/>
+      <rect x="104" y="292" width="362" height="10" fill="#27862f"/>
+      <ellipse cx="150" cy="295" rx="34" ry="18" fill="#27862f"/>
+      <ellipse cx="430" cy="298" rx="40" ry="20" fill="#27862f"/>
+
+      <!-- duck A (black duck) -->
+      <g id="zsim-duckA">
+        <g transform="translate(-24,-16)">
+          <ellipse cx="24" cy="20" rx="20" ry="12" fill="#2b2b2b"/>
+          <circle cx="42" cy="10" r="8" fill="#2b2b2b"/>
+          <polygon points="49,8 60,11 49,14" fill="#f2a33c"/>
+          <circle cx="44.5" cy="8.5" r="1.8" fill="#fff"/>
+          <path id="zsim-wingA" d="M20 18 Q10 4 30 8 Z" fill="#4a4a4a"/>
+          <polygon points="4,20 12,16 12,24" fill="#4a4a4a"/>
+        </g>
+      </g>
+      <!-- duck B (red duck) -->
+      <g id="zsim-duckB">
+        <g transform="translate(-24,-16)">
+          <ellipse cx="24" cy="20" rx="20" ry="12" fill="#b8322c"/>
+          <circle cx="42" cy="10" r="8" fill="#3b7d3d"/>
+          <polygon points="49,8 60,11 49,14" fill="#f2a33c"/>
+          <circle cx="44.5" cy="8.5" r="1.8" fill="#fff"/>
+          <path id="zsim-wingB" d="M20 18 Q10 4 30 8 Z" fill="#e0d9c8"/>
+          <polygon points="4,20 12,16 12,24" fill="#e0d9c8"/>
+        </g>
+      </g>
+
+      <!-- detection overlays -->
+      <rect id="zsim-blackout" x="104" y="68" width="362" height="282" fill="#000" opacity="0"/>
+      <rect id="zsim-boxA" x="0" y="0" width="96" height="64" fill="#ffffff" visibility="hidden"/>
+      <rect id="zsim-boxB" x="0" y="0" width="96" height="64" fill="#ffffff" visibility="hidden"/>
+      <text id="zsim-screentext" x="285" y="180" text-anchor="middle" font-family="'Press Start 2P',monospace" font-size="26" fill="#ffffff" visibility="hidden">HIT!</text>
+    </g>
+    <rect x="104" y="68" width="362" height="282" rx="24" fill="none" stroke="#15151a" stroke-width="6"/>
+
+    <!-- lamp -->
+    <g id="zsim-lamp">
+      <ellipse cx="672" cy="436" rx="46" ry="10" fill="#33333c"/>
+      <rect x="668" y="262" width="8" height="174" fill="#4a4a55"/>
+      <polygon points="626,262 718,262 700,196 644,196" fill="#c9963f" stroke="#8a6526" stroke-width="2"/>
+      <circle id="zsim-bulbglow" cx="672" cy="276" r="34" fill="url(#zsim-bulb)"/>
+      <text x="672" y="470" text-anchor="middle" font-family="'Press Start 2P',monospace" font-size="9" fill="#6d6a75">LAMP (ON)</text>
+    </g>
+
+    <!-- line of sight -->
+    <line id="zsim-sight" x1="310" y1="346" x2="285" y2="200" stroke="#f47b20" stroke-width="2" stroke-dasharray="4 7" opacity=".45"/>
+
+    <!-- zapper -->
+    <g transform="translate(120,455) rotate(-30)">
+      <rect x="60" y="-8" width="150" height="16" rx="8" fill="#f47b20" stroke="#a04e12" stroke-width="2"/>
+      <rect x="202" y="-5" width="16" height="10" rx="3" fill="#26262c"/>
+      <rect x="-2" y="-17" width="96" height="36" rx="9" fill="#b9b6ba" stroke="#7e7b84" stroke-width="2"/>
+      <rect x="8" y="-10" width="60" height="5" rx="2.5" fill="#8f8c96"/>
+      <polygon points="10,17 54,17 42,88 2,80" fill="#f47b20" stroke="#a04e12" stroke-width="2"/>
+      <path d="M26 22 q14 4 12 22" fill="none" stroke="#26262c" stroke-width="5" stroke-linecap="round"/>
+      <circle id="zsim-pulse" class="zsim-pulse" cx="33" cy="33" r="24" fill="none" stroke="#f47b20" stroke-width="3"/>
+      <circle id="zsim-trig" class="zsim-trigger-hot" cx="33" cy="33" r="30" fill="#ffffff" opacity="0"
+        role="button" tabindex="0" aria-label="Pull the Zapper trigger"/>
+    </g>
+    <text x="128" y="492" font-family="'Press Start 2P',monospace" font-size="9" fill="#6d6a75">CLICK THE TRIGGER</text>
+
+    <!-- crosshair -->
+    <g id="zsim-cross" transform="translate(285,200)">
+      <circle r="15" fill="none" stroke="#ffd23e" stroke-width="2.5"/>
+      <line x1="-24" y1="0" x2="-8" y2="0" stroke="#ffd23e" stroke-width="2.5"/>
+      <line x1="8" y1="0" x2="24" y2="0" stroke="#ffd23e" stroke-width="2.5"/>
+      <line x1="0" y1="-24" x2="0" y2="-8" stroke="#ffd23e" stroke-width="2.5"/>
+      <line x1="0" y1="8" x2="0" y2="24" stroke="#ffd23e" stroke-width="2.5"/>
+      <circle r="2.5" fill="#ffd23e"/>
+    </g>
+  </svg>
+
+  <div class="zsim-readout">
+    <div class="zsim-chip"><span class="lbl">PHOTODIODE</span><span class="val" id="zsim-v-photo">&#9675; DARK</span></div>
+    <div class="zsim-chip"><span class="lbl">TRIGGER</span><span class="val" id="zsim-v-trig">RELEASED</span></div>
+    <div class="zsim-chip"><span class="lbl">RESULT</span><span class="val" id="zsim-v-result">&mdash;</span></div>
+  </div>
+
+  <p class="zsim-caption" id="zsim-caption">Click or tap the TV to aim &mdash; the crosshair sticks where you put it. Try a duck, empty sky, or the lamp. Then pull the trigger.</p>
+
+  <div class="zsim-controls">
+    <button class="zsim-fire" id="zsim-firebtn" type="button">PULL TRIGGER</button>
+    <button class="zsim-speed" id="zsim-speedbtn" type="button">SPEED: SLOW-MO</button>
+  </div>
+  <p class="zsim-note">Slow-mo stretches each frame to about a second so you can watch the check happen. On real hardware the whole thing takes two or three frames of a 60&nbsp;fps picture &mdash; switch to real speed and it's just a flicker. (Hardware trivia: the gun reports &ldquo;light seen&rdquo; as a <strong>0</strong> on bit 3 of the controller port.)</p>
+</div>
+
+<script>
+(function(){
+  var svg = document.querySelector('#zsim svg');
+  if (!svg) return;
+  var $ = function(id){ return document.getElementById(id); };
+  var duckAEl=$('zsim-duckA'), duckBEl=$('zsim-duckB'), wingA=$('zsim-wingA'), wingB=$('zsim-wingB');
+  var blackout=$('zsim-blackout'), boxA=$('zsim-boxA'), boxB=$('zsim-boxB'), screentext=$('zsim-screentext');
+  var cross=$('zsim-cross'), sight=$('zsim-sight'), pulse=$('zsim-pulse'), trig=$('zsim-trig');
+  var vPhoto=$('zsim-v-photo'), vTrig=$('zsim-v-trig'), vResult=$('zsim-v-result'), caption=$('zsim-caption');
+  var fireBtn=$('zsim-firebtn'), speedBtn=$('zsim-speedbtn');
+
+  var IDLE_MSG='Click or tap the TV to aim — the crosshair sticks where you put it. Try a duck, empty sky, or the lamp. Then pull the trigger.';
+  var aim={x:285,y:200}, frozen=false, paused=false, running=false, slow=true, t0=performance.now();
+  var ducks={
+    A:{el:duckAEl, base:{x:205,y:150}, amp:{x:46,y:26}, spd:{x:0.00025,y:0.00043}, ph:{x:0,y:1.7}, cur:{x:205,y:150}, alive:true},
+    B:{el:duckBEl, base:{x:360,y:210}, amp:{x:52,y:22}, spd:{x:0.00031,y:0.00037}, ph:{x:2.6,y:0.4}, cur:{x:360,y:210}, alive:true}
+  };
+
+  function setDuck(d){ d.el.setAttribute('transform','translate('+d.cur.x.toFixed(1)+','+d.cur.y.toFixed(1)+')'); }
+  function tick(now){
+    if(!frozen&&!paused){
+      var t=now-t0;
+      ['A','B'].forEach(function(k){
+        var d=ducks[k]; if(!d.alive) return;
+        d.cur.x=d.base.x+Math.sin(t*d.spd.x+d.ph.x)*d.amp.x;
+        d.cur.y=d.base.y+Math.sin(t*d.spd.y+d.ph.y)*d.amp.y;
+        setDuck(d);
+      });
+      var flap=(Math.floor(now/180)%2)?'rotate(32 20 18)':'rotate(0 20 18)';
+      wingA.setAttribute('transform',flap); wingB.setAttribute('transform',flap);
+    }
+    requestAnimationFrame(tick);
+  }
+  requestAnimationFrame(tick);
+
+  function toSvgXY(e){
+    var pt=svg.createSVGPoint(); pt.x=e.clientX; pt.y=e.clientY;
+    var m=svg.getScreenCTM(); if(!m) return null;
+    var p=pt.matrixTransform(m.inverse());
+    return {x:Math.max(12,Math.min(788,p.x)), y:Math.max(12,Math.min(488,p.y))};
+  }
+  function setAim(p){
+    aim=p;
+    cross.setAttribute('transform','translate('+p.x.toFixed(1)+','+p.y.toFixed(1)+')');
+    sight.setAttribute('x2',p.x.toFixed(1)); sight.setAttribute('y2',p.y.toFixed(1));
+  }
+  svg.addEventListener('pointerdown',function(e){
+    var p=toSvgXY(e); if(!p) return;
+    if(Math.hypot(p.x-165,p.y-467)<90){ fire(); return; }
+    setAim(p); paused=true;               // hold the ducks still once you're lining up a shot
+  });
+
+  function sleep(ms){ return new Promise(function(r){ setTimeout(r,ms); }); }
+  function setPhoto(lit){ vPhoto.innerHTML=lit?'● LIGHT':'○ DARK'; vPhoto.className='val'+(lit?' lit':''); }
+  function setTrig(pulled){ vTrig.textContent=pulled?'PULLED':'RELEASED'; vTrig.className='val'+(pulled?' lit':''); }
+  function setResult(txt,cls){ vResult.textContent=txt; vResult.className='val'+(cls?' '+cls:''); }
+  function say(html){ caption.innerHTML=html; }
+  function showBox(box,d,on){
+    if(on){ box.setAttribute('x',(d.cur.x-48).toFixed(1)); box.setAttribute('y',(d.cur.y-32).toFixed(1)); box.setAttribute('visibility','visible'); }
+    else box.setAttribute('visibility','hidden');
+  }
+
+  function fallDuck(d){
+    var sx=d.cur.x, sy=d.cur.y, dur=800, start=performance.now();
+    d.alive=false;
+    (function step(now){
+      var k=Math.min(1,(now-start)/dur);
+      d.el.setAttribute('transform','translate('+(sx).toFixed(1)+','+(sy+k*k*(305-sy)).toFixed(1)+') rotate('+(k*160).toFixed(0)+')');
+      if(k<1) requestAnimationFrame(step); else d.el.setAttribute('visibility','hidden');
+    })(start);
+  }
+  function respawn(){
+    ['A','B'].forEach(function(k){ var d=ducks[k]; d.alive=true; d.el.setAttribute('visibility','visible'); setDuck(d); });
+  }
+
+  async function fire(){
+    if(running) return;
+    running=true; frozen=true; fireBtn.disabled=true; pulse.classList.add('off');
+    var F=slow?1500:50, PULL=slow?900:400, real=!slow;
+
+    var overLamp=(Math.pow(aim.x-672,2)+Math.pow(aim.y-245,2))<Math.pow(60,2);
+    var hitA=ducks.A.alive&&Math.abs(aim.x-ducks.A.cur.x)<=48&&Math.abs(aim.y-ducks.A.cur.y)<=32;
+    var hitB=ducks.B.alive&&Math.abs(aim.x-ducks.B.cur.x)<=48&&Math.abs(aim.y-ducks.B.cur.y)<=32;
+
+    setResult('—',''); setTrig(true);
+    say(real?'Real speed. Watch the screen — don’t blink.':'<em>Trigger pulled.</em> The game freezes and starts its detection routine.');
+    await sleep(PULL);
+
+    blackout.setAttribute('opacity','1');
+    setPhoto(overLamp);
+    if(!real) say('<em>Frame 1: blackout.</em> The whole screen goes black and the game checks the sensor. Seeing light <strong>now</strong> means you’re not pointing at the TV.');
+    await sleep(F);
+
+    if(overLamp){
+      blackout.setAttribute('opacity','0'); setPhoto(false); setTrig(false);
+      setResult('CHEAT!','bad');
+      screentext.textContent='MISS'; screentext.setAttribute('visibility','visible');
+      say('<em>Cheat blocked.</em> The photodiode saw light during the black frame — that’s a lamp, not a duck. The game throws the shot out as a miss.');
+      await sleep(2200);
+    } else {
+      showBox(boxA,ducks.A,true); setPhoto(hitA);
+      if(!real) say('<em>Frame 2: the black duck</em> is drawn as a solid white box. Light on the sensor during this frame = that duck is hit.'+(hitA?' <strong>Light!</strong>':' Nothing.'));
+      await sleep(F);
+      showBox(boxA,ducks.A,false);
+
+      showBox(boxB,ducks.B,true); setPhoto(hitB&&!hitA);
+      if(!real) say('<em>Frame 3: the red duck</em> gets its own white-box frame, so the game can tell the two apart.'+(hitB&&!hitA?' <strong>Light!</strong>':(hitA?' (Already got a hit on frame 2.)':' Nothing.')));
+      await sleep(F);
+      showBox(boxB,ducks.B,false);
+
+      blackout.setAttribute('opacity','0'); setPhoto(false); setTrig(false);
+      if(hitA||hitB){
+        var which=hitA?'A':'B', name=hitA?'black duck':'red duck';
+        setResult('HIT: '+(hitA?'DUCK A':'DUCK B'),'hit');
+        screentext.textContent='HIT!'; screentext.setAttribute('visibility','visible');
+        fallDuck(ducks[which]);
+        say('<em>Hit.</em> The sensor saw light during the '+name+'’s frame — so the game knows exactly which duck you shot, without ever knowing where the gun was pointing.');
+      } else {
+        setResult('MISS','bad');
+        screentext.textContent='MISS'; screentext.setAttribute('visibility','visible');
+        say('<em>Miss.</em> No light during either target frame. Somewhere, the dog is laughing.');
+      }
+      await sleep(2200);
+    }
+
+    screentext.setAttribute('visibility','hidden');
+    respawn(); frozen=false; paused=false; running=false; fireBtn.disabled=false; pulse.classList.remove('off');
+    setPhoto(false); setResult('—',''); say(IDLE_MSG);
+  }
+
+  trig.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); fire(); } });
+  fireBtn.addEventListener('click',fire);
+  speedBtn.addEventListener('click',function(){ slow=!slow; speedBtn.textContent='SPEED: '+(slow?'SLOW-MO':'REAL'); });
+})();
+</script>
+<!-- COPY-END -->
+
+</body>
+</html>

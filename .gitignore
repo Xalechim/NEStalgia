@@ -1,0 +1,15 @@
+# Large media and working files live outside the repo
+*.mp3
+*.wav
+*.aif
+*.aiff
+*.flac
+*.m4a
+*.sesx
+*.psd
+*.ai
+*.zip
+Audition Projects/
+Mixes/
+Original Music/
+.DS_Store
