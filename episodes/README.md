@@ -1,6 +1,6 @@
 # Episode notes
 
-Show notes written for the podcast, converted from the original Google Docs. Episode numbers come from the podcast feed.
+Show notes and outlines written for the podcast. Episode numbers come from the podcast feed; episodes not yet in the feed are marked *(unreleased)*.
 
 ## Main episodes
 
@@ -302,7 +302,88 @@ Show notes written for the podcast, converted from the original Google Docs. Epi
 | 369 | NES Play Action Football | [notes](369-nes-play-action-football.md) |
 | 370 | Pipe Dream | [notes](370-pipe-dream.md) |
 | 371 | Rally Bike | [notes](371-rally-bike.md) |
+| 372 | Rollergames | [notes](372-rollergames.md) |
+| 373 | Skate or Die 2: The Search for Double Trouble | [notes](373-skate-or-die-2-the-search-for-double-trouble.md) |
+| 374 | Solar Jetman: Hunt for the Golden Warpship | [notes](374-solar-jetman-hunt-for-the-golden-warpship.md) |
+| 375 | Spot: The Video Game | [notes](375-spot-the-video-game.md) |
+| 376 | Street Fighter 2010: The Final Fight | [notes](376-street-fighter-2010-the-final-fight.md) |
+| 377 | Thunderbirds | [notes](377-thunderbirds.md) |
+| 378 | Time Lord | [notes](378-time-lord.md) |
+| 380 | Caveman Games | [notes](380-caveman-games.md) |
+| 381 | Days of Thunder | [notes](381-days-of-thunder.md) |
+| 382 | Gremlins 2: The New Batch | [notes](382-gremlins-2-the-new-batch.md) |
+| 383 | Loopz | [notes](383-loopz.md) |
+| 384 | Mendel Palace | [notes](384-mendel-palace.md) |
+| 385 | A Nightmare on Elm Street | [notes](385-a-nightmare-on-elm-street.md) |
+| 386 | Orb-3D | [notes](386-orb-3d.md) |
+| 387 | Sesame Street Big Bird's Hide & Speak | [notes](387-sesame-street-big-birds-hide-speak.md) |
+| 388 | Super Glove Ball | [notes](388-super-glove-ball.md) |
+| 389 | Dr. Mario | [notes](389-dr-mario.md) |
+| 390 | Arch Rivals | [notes](390-arch-rivals.md) |
+| 391 | Conquest of the Crystal Palace | [notes](391-conquest-of-the-crystal-palace.md) |
+| 392 | Formula One: Built to Win | [notes](392-formula-one-built-to-win.md) |
+| 393 | The Immortal | [notes](393-the-immortal.md) |
+| 394 | Mega Man 3 | [notes](394-mega-man-3.md) |
+| 395 | Muppet Adventure: Chaos at the Carnival | [notes](395-muppet-adventure-chaos-at-the-carnival.md) |
+| 396 | Palamedes | [notes](396-palamedes.md) |
+| 397 | The Punisher | [notes](397-the-punisher.md) |
+| 398 | Puzznic | [notes](398-puzznic.md) |
+| 399 | The Silver Surfer | [notes](399-the-silver-surfer.md) |
+| 400 | Werewolf: The Last Warrior | [notes](400-werewolf-the-last-warrior.md) |
+| 401 | WWF Wrestlemania Challenge | [notes](401-wwf-wrestlemania-challenge.md) |
+| 402 | Yo! Noid | [notes](402-yo-noid.md) |
+| 403 | The Adventures of Rad Gravity | [notes](403-the-adventures-of-rad-gravity.md) |
+| 404 | Bandit Kings of Ancient China | [notes](404-bandit-kings-of-ancient-china.md) |
+| 405 | Deja Vu: A Nightmare Comes True!! | [notes](405-deja-vu-a-nightmare-comes-true.md) |
+| 406 | Digger T. Rock | [notes](406-digger-t-rock.md) |
+| 407 | Dirty Harry | [notes](407-dirty-harry.md) |
+| 408 | Dragon's Lair | [notes](408-dragons-lair.md) |
+| 409 | Jackie Chan's Action Kung-Fu | [notes](409-jackie-chans-action-kung-fu.md) |
+| 410 | Little Ninja Brothers | [notes](410-little-ninja-brothers.md) |
+| 411 | Ninja Crusaders | [notes](411-ninja-crusaders.md) |
+| 412 | Nintendo World Cup | [notes](412-nintendo-world-cup.md) |
+| 413 | North and South | [notes](413-north-and-south.md) |
+| 414 | Shadow of the Ninja | [notes](414-shadow-of-the-ninja.md) |
+| 415 | StarTropics | [notes](415-startropics.md) |
+| 416 | Super Mario Bros/Duck Hunt/World Class Track Meet | [notes](416-super-mario-bros-duck-hunt-world-class-track-meet.md) |
+| 418 | TMNT II: The Arcade Game | [notes](418-tmnt-ii-the-arcade-game.md) |
+| 419 | Thunder and Lightning | [notes](419-thunder-and-lightning.md) |
+| 420 | Ultima: Quest of the Avatar | [notes](420-ultima-quest-of-the-avatar.md) |
+| 421 | Advanced Dungeons and Dragons: Heroes of the Lance | [notes](421-advanced-dungeons-and-dragons-heroes-of-the-lance.md) |
+| 422 | Fun House | [notes](422-fun-house.md) |
+| 423 | G.I. Joe: A Real American Hero | [notes](423-g-i-joe-a-real-american-hero.md) |
+| 424 | The Hunt for Red October | [notes](424-the-hunt-for-red-october.md) |
+| 425 | Kabuki Quantum Fighter | [notes](425-kabuki-quantum-fighter.md) |
+| 426 | The Krion Conquest | [notes](426-the-krion-conquest.md) |
+| 427 | Fox's Peter Pan and the Pirates: The Revenge of Captain Hook | [notes](427-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.md) |
+| 428 | Qix | [notes](428-qix.md) |
+| 429 | The Untouchables | [notes](429-the-untouchables.md) |
+| 430 | Wayne Gretzky Hockey | [notes](430-wayne-gretzky-hockey.md) |
+| 431 | Zombie Nation | [notes](431-zombie-nation.md) |
+| 432 | Adventure Island II | [notes](432-adventure-island-ii.md) |
+| 433 | Conan: The Mysteries of Time | [notes](433-conan-the-mysteries-of-time.md) |
+| 434 | Double Dragon III: The Sacred Stones | [notes](434-double-dragon-iii-the-sacred-stones.md) |
+| 435 | Flying Warriors | [notes](435-flying-warriors.md) |
+| 436 | Galaxy 5000: Racing in the 51st Century | [notes](436-galaxy-5000-racing-in-the-51st-century.md) |
+| 437 | Ikari III: The Rescue | [notes](437-ikari-iii-the-rescue.md) |
+| 438 | Isolated Warrior | [notes](438-isolated-warrior.md) |
+| 439 | The Last Ninja | [notes](439-the-last-ninja.md) |
+| 440 | Magician | [outline](440-magician-outline.md) |
 | 440 | Magician | [notes](440-magician.md) |
+| 441 | Metal Storm | [notes](441-metal-storm.md) |
+| 442 | Princess Tomato in the Salad Kingdom | [notes](442-princess-tomato-in-the-salad-kingdom.md) |
+| 443 | The Simpsons: Bart vs The Space Mutants | [notes](443-the-simpsons-bart-vs-the-space-mutants.md) |
+| 444 | Ski or Die | [notes](444-ski-or-die.md) |
+| 445 | Super Cars | [notes](445-super-cars.md) |
+| 446 | Touchdown Fever | [notes](446-touchdown-fever.md) |
+| 447 | Bill Elliot's NASCAR Challenge | [notes](447-bill-elliots-nascar-challenge.md) |
+| 448 | Harlem Globetrotters *(unreleased)* | [notes](448-harlem-globetrotters.md) |
+| 449 | Indiana Jones and the Last Crusade *(unreleased)* | [notes](449-indiana-jones-and-the-last-crusade.md) |
+| 450 | MetalMech: Man & Machine *(unreleased)* | [notes](450-metalmech-man-machine.md) |
+| 451 | Power Blade *(unreleased)* | [notes](451-power-blade.md) |
+| 452 | Totally Rad *(unreleased)* | [notes](452-totally-rad.md) |
+| 453 | Whomp 'Em *(unreleased)* | [notes](453-whomp-em.md) |
+| 454 | Kiwi Kraze: A Bird-Brained Adventure *(unreleased)* | [notes](454-kiwi-kraze-a-bird-brained-adventure.md) |
 
 ## Specials
 
@@ -311,6 +392,7 @@ Show notes written for the podcast, converted from the original Google Docs. Epi
 - [Special 003: Best of 1987](specials/s003-best-of-1987.md)
 - [Special 004: Best of 1988](specials/s004-best-of-1988.md)
 - [Special 006: Best of 1989](specials/s006-best-of-1989.md)
+- [Special 006: Best of 1990](specials/s006-best-of-1990.md)
 - [Special 097: Sonic the Hedgehog](specials/s097-sonic-the-hedgehog.md)
 
 ## Nestalgia Bytes (Famicom / Japan-only)
@@ -345,3 +427,23 @@ Show notes written for the podcast, converted from the original Google Docs. Epi
 - [NB 036 - Cosmo Police Galivan](bytes/nb-036-cosmo-police-galivan.md)
 - [NB 037 - Summer Carnival '92: Recca](bytes/nb-037-recca.md)
 - [NB 038 - Wagyan Land](bytes/nb-038-wagyan-land.md)
+- [NB 039 - Metal Slader Glory](bytes/nb-039-metal-slader-glory.md)
+- [NB 041 - Hebereke](bytes/nb-041-hebereke.md)
+- [NB 042 - Bubble Bath Babes](bytes/nb-042-bubble-bath-babes.md)
+- [NB 043 - Micro Machines](bytes/nb-043-micro-machines.md)
+- [NB 044 - The Magic Treasure of Cleopatra](bytes/nb-044-the-magic-treasure-of-cleopatra.md)
+- [NB 045 - Cocona World](bytes/nb-045-cocona-world.md)
+- [NB 047 - Atlantis no Nazo](bytes/nb-047-atlantis-no-nazo.md)
+- [NB 048 - Smash Ping Pong](bytes/nb-048-smash-ping-pong.md)
+- [NB 049 - Idol Hotline: Nakayama Miho no Tokimeki High School](bytes/nb-049-idol-hotline-nakayama-miho-no-tokimeki-high-school.md)
+- [NB 050 - Wily & Light's Rock Board: That's Paradise!](bytes/nb-050-wily-lights-rock-board-thats-paradise.md)
+- [NB 051 - Puyo Puyo](bytes/nb-051-puyo-puyo.md)
+- [NB 052 - Castlevania Game Boy Games](bytes/nb-052-castlevania-game-boy-games.md)
+- [NB 053 - Getsu Fūma Den](bytes/nb-053-getsu-fuma-den.md)
+- [NB 054 - Gimmick!](bytes/nb-054-gimmick.md)
+- [NB 055 - Moon Crystal](bytes/nb-055-moon-crystal.md)
+
+## SNEStalgia
+
+- [SNES 001 - Super Mario World](snes/001-super-mario-world.md)
+- [SNES 002 - Pilotwings](snes/002-pilotwings.md)

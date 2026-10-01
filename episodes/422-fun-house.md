@@ -1,0 +1,73 @@
+# 422 - Fun House
+
+- Only those who think fast and move quickly will survive this sticky mess
+- 1. What Is Fun House?
+- Series Identity: Fun House was an American children’s game show that aired from September 5, 1988 to April 13, 1991.
+- Host: The show was hosted throughout its run by J. D. Roth.
+  - Moolah Beach, Endurance, Disney World Inside and Out
+- Basic Format: Two teams of kids competed in messy stunts, trivia, and a final obstacle-course run through the Fun House itself for cash and prizes.
+- Closest Comparison: The show was commonly compared to Double Dare, though Fun House centered even more around the large final maze and prize run.
+- Is this what you think of with a fun house?
+- Do NOT let these kids improv.
+- There was also a british show with a host with insane hair and even worse kid contestants
+- 2. What Made the Show Memorable?
+- Stunt Rounds: Each episode featured physical stunts and trivia, often involving slime, garbage, or goofy race-against-the-clock challenges.
+- Grand Prix Race: The fourth round was a studio-circling race with themed vehicles or foot-race segments and small obstacle tasks along the way.
+- Final Round Structure: In the Fun House itself, only one teammate could enter at a time, and they alternated after collecting three tags.
+- Prize Appeal: The final round was known for unusually large prize totals for a children’s game show, often with total offerings around or above $10,000.
+- 3. What Is Fun House on NES?
+- Release Information: Fun House on NES released in North America in January 1991.
+- Developer and Publisher: It was developed by Realtime Associates and published by Hi Tech Expressions.
+- Genre: The NES version is an action/shooter game, though in practice it plays more like a top-down maze and target-clearing game than a traditional shooter.
+- 4. How Closely Does the Game Match the Show?
+- Main Similarity: The game keeps the basic idea of navigating a “Fun House” full of rooms under time pressure.
+- Main Difference: Instead of stunts, trivia, and a prize-collection obstacle course, the NES game turns the concept into a top-down maze game where a kid on skates throws tomatoes at targets.
+- Show Connection: J. D. Roth is still present in the game, congratulating the player on success and mocking failure.
+- Podcast Angle: This is less “play the TV show” and more “use the TV show as a wrapper for an arcade-style maze challenge.”
+- And that’s strange right? Its like they did their best to avoid making a sidescrolling platformer where you explore a fun house
+- 5. What Is the Core Gameplay?
+- Main Objective: In each room, the player must hit every target and then collect the key that appears after the final target is cleared.
+- Time Limit: Each stage starts with 30 seconds, and the player gains time by hitting targets and collecting clocks while losing time when hit by hazards.
+- Player Character: The player controls a child on inline skates and attacks with an unlimited supply of tomatoes.
+- Fail State: If the player does not finish the room before time runs out, they lose a chance and must retry.
+- 6. How Do the Controls Work?
+- Movement System: d-pad turns the player, while the A button moves forward.
+- Attack Button: The B button throws tomatoes, and rapid presses let the player fire quickly.
+- Podcast Angle: A big early discussion point is whether the controls feel clever and distinctive or simply awkward.
+- 7. How Is the Game Structured?
+- Overall Size: The game contains 72 stages, organized as 12 floors with 6 rooms each.
+- Room Identity: Each room has its own name, often based on puns or clues about the room’s layout.
+- Progression Style: This is not a game built around bosses or narrative escalation. Its structure is instead based on increasingly complex room layouts and harsher obstacles.
+- Podcast Angle: The game is really about endurance and route-reading more than spectacle.
+- 8. What Items and Rewards Matter?
+- Clocks: Clocks are among the most important pickups because they extend the timer.
+- Coins: Collecting 25 coins grants an extra life.
+- Lives and Continues: The player can have up to six lives, and even after losing them, the game allows infinite continues at the cost of points.
+- Scoring Value: The points themselves are not useful, which makes survival and time management far more important than score-chasing.
+- 9. What Obstacles and Hazards Define the Game?
+- Target Hunting: Some rooms use numbered targets, and simply finding the “1” target can be one of the hardest parts of the level.
+- Enemy Pressure: Hazards such as guns and stronger banana shooters can knock the player back and remove time
+- Hidden Items: Some items are hidden inside walls, rewarding experimentation and bumping into suspicious spaces.
+- Target Order: Because the key appears where the last target was hit, the player has to think strategically about which target to leave for last.
+- 10. What Role Do Warps Play?
+- Warp Rooms: The game includes warp zones that can send the player to much later areas.
+- Intended Use: These let players skip ahead to harder content earlier
+- Shortest Route: There is a route that lets players beat the game in 32 rooms instead of all 72 by using specific warps.
+- Stage and Progression Discussion
+- 11. What Is the Early Game Like?
+- Teaching Function: The first floor is essentially a tutorial for the strange movement and shooting system.
+- Low-Level Challenge: Early rooms are simpler, but they already establish the game’s key loop of target-clearing, route planning, and timer tension.
+- 12. What Is the Midgame Like?
+- Room Complexity: As the floors progress, layouts become more maze-like and more demanding to read quickly.
+- Hazard Density: Midgame rooms feature more punishing placement of enemies and movement-disrupting elements.
+- Strategy Shift: At this point, the game becomes less about basic execution and more about memorization, routing, and preserving time.
+- 13. What Is the Late Game Like?
+- Difficulty Escalation: The later floors are where the game’s room design and strict time pressure become most severe.
+- Player Demands: The game increasingly asks for precise movement, fast target prioritization, and very little hesitation.
+- Podcast Angle: The late game is a good place to ask whether Fun House is “secretly good” difficult or simply exhausting difficult.
+- 18. What Is the Final Verdict?
+- As a Fun House Adaptation: It only loosely captures the TV show’s spirit.
+- As an NES Game: It is distinctive, demanding, and more memorable than its reputation might suggest.
+- Main Strength: Its room-based maze design and odd steering controls make it stand out.
+- Main Weakness: Its timer pressure and repetitive structure can make it feel punishing or monotonous.
+- Closing Thesis: Fun House is not a faithful game-show simulator. It is a strange, high-pressure maze game wearing a game-show costume.

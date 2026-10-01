@@ -1,0 +1,73 @@
+# 406 - Digger T. Rock
+
+- Burrow through mysterious caverns, each one a "mine-boggling" maze of unknown dangers.
+- Introduction
+- What it is: A Rare-developed, Milton Bradley–published platformer about a caveman miner spelunking eight caverns to reach the Lost City. Single-player, tool-driven exploration with time-pressure exits. (Wikipedia, Manual PDF)
+- Why it matters: Early Rare NES design that blends tile-digging, tool placement (ladders/bridges/bombs), and race-to-the-door timers—a different flavor from straight left-to-right platformers. Later resurfaced in Rare Replay. (Wikipedia, Rare Replay)
+- “Update to The Pit”: Multiple retrospectives note Tim Stamper conceived Digger T. Rock as a modernized take on the early-’80s arcade game The Pit (digging, boulders, timed exits). (The dev-history notes are summarized on Wikipedia and point back to a Retro Gamer interview.)
+- Release, Credits, & Context
+- Release: North America (Dec 1990); Europe (1991). NES only. (Wikipedia)
+- Developer/Publisher: Rare / Milton Bradley Company. Design by Tim & Chris Stamper; music by David Wise. (Wikipedia)
+- Where it shows up later: Included in Rare Replay (Xbox One, 2015). (Wikipedia – Rare Replay)
+- Discuss now: Rare’s late-NES output had range (from Battletoads to puzzle-platformers). Where does Digger T. Rock sit in that spectrum?
+- Core Gameplay Loop
+- Loop: Explore a cavern → Find the exit door and a pillar switch → Step on the pillar to open the door and start a countdown → Reach the door before it recloses. Eight caverns, three lives. (Wikipedia, SDA overview)
+- Timers & exits
+- You can’t “open the door and think.” Stepping on the pillar starts the countdown immediately. If you arrive after it shuts, you must go all the way back to the pillar and re-trigger. The game doesn’t freeze enemies or hazards during the sprint; everything still moves.
+- Scouting first is mandatory. Efficient runs come from finding the door first, then the pillar, and planning the route (which ladders/bridges you’ll place) before you ever touch the pillar.
+- Movement & digging: Walk, jump, and dig through certain tiles; digging changes routes and can cause hazards to drop. (StrategyWiki)
+  - Digging out certain tiles releases rocks above you. If you tunnel straight up or carve the support of a little “ceiling,” a rock drops instantly and can chain other drops. The safest rhythm is dig → half-step back → check above.
+  - Some vertical shafts are one-way. Once you drop, you can’t climb back without having pre-placed a ladder; this matters a lot during the exit timer.
+- Between-stage interludes: Short bonus games to earn treasure; later, villages act as shops for tools using treasure as currency. (Wikipedia)
+- Discuss now: Is the tension best when you’re planning paths before hitting the pillar—or when you improvise during the countdown?
+- Level Structure & Win Conditions
+- Caverns: Eight multi-route stages with vertical shafts, drop-through pipes, and one-way falls; each has one door and one pillar that unlocks it for a short timer. (Wikipedia, GameFAQs guide)
+- Timer behavior: Stepping on the pillar starts the clock; if the door re-closes before you arrive, you must retrigger the pillar. (SDA overview)
+- Scoring / treasure: Gems and bonus rooms feed your tool budget in later caverns (shops in caveman villages). (Wikipedia)
+- Discuss now: Which creates the bigger “aha”: discovering a fast ladder line to the door, or a bomb shortcut through a wall?
+- Tools, Items & Resource Use
+- Core tools:
+  - Ladders – placeable to climb; limited stock.
+    - place on a single tile and are consumed even if you misplace one. You can’t reclaim it; a common newbie mistake is “ladder spam” that traps you beneath ceilings.
+  - Bridges/Stone slabs – span gaps or create safe footing.
+    - extend one tile at a time. You often need two to make a safe gap. Placing one on the wrong height wastes it and can block your jump arc.
+  - Bombs/Dynamite – open passages, clear enemies/rocks; unsafe up close.
+    - have knockback. If you bomb too close, the blast pops you backward into pits or falling rocks. Bombs also alter the tile map, so a careless blast can destroy the only safe foothold to a ledge.
+  - Armor/helm – reduce damage (rarer pickups).
+  - Shovel – default weapon/dig tool. You also collect rocks which are used depending based on distance to the enemy
+ (Tool set and usage described across manual and guides.) (Manual PDF, StrategyWiki)
+- Economy: Treasure → shops (later levels) → buy more tools to stabilize routes. (Wikipedia)
+- Shops appear later. Early caverns rely on what you find; only from mid-game do villages let you convert treasure into a stack of ladders/bridges/bombs.
+- Enemies & Environmental Hazards
+- Creatures: Moles, mosquitoes, dragons, and other cave pests; all can be swatted with the shovel or avoided with placement tools. (Wikipedia)
+- Cave-ins & falls: Digging can drop rocks; careless mining creates new hazards or blocks your own path. Fatal falls are common if you over-dig. He’s got the jumpman death where you can’t uncommit your death (Wikipedia)
+- One-way slides & pipes: Some shafts commit you to lower areas; know the route before hitting the pillar. (GameFAQs guide)
+- Discuss now: Do the enemies matter, or is self-inflicted danger (bad digs, missed placements) the true boss?
+- Difficulty & Mastery (NES tips)
+- Pre-plan routes: Find the door first, then the pillar, and mentally mark a ladder/bridge line back to the door before starting the timer. (SDA overview)
+- Tool discipline: Don’t “ladder spam.” Many jumps are tuned to single-tile placements; over-placing traps you later. (StrategyWiki)
+- Bomb safety: Place, step away, then dig; close detonations knock you into pits or cave-ins. (Manual PDF)
+- DINOSAUR Boss ending. You blow up the first few with dynamite to get them to move back. The last one, you need to suddenly give a diamond too.
+- After that CONGRATS YOU FOUND THE LOST CITY. What the hell is Digger T supposed to do now? Live down there? It was a perilous journey down, hes gotta do it all again? TO BE CONTINUED ending? Were they planning a mirror mode where you go in the other direction?
+- Discuss now: What single habit moved you from “timed-door panic” to consistent clears—map-first scouting or tool rationing?
+- Comparisons & Legacy
+- Peers: Sits between puzzle-platformers (route planning, consumable tools) and arcade platformers (timers, enemy pressure).
+- Rare lineage: Early example of Rare experimenting with mechanical mash-ups on NES. Included later in Rare Replay, preserving its original quirks. (Wikipedia, Rare Replay)
+- Discuss now: If you pitched a modern indie remake, do you lean puzzle (longer timers, puzzles) or lean arcade (short timers, leaderboards)?
+- Version Notes (NES specifics)
+- Single-player only; three lives default; passwords not standard—designed for session play. (General NES spec per manual). (Manual PDF)
+- Shops/villages appear only in later caverns; early stages rely on found tools. (Wikipedia)
+- Fun Facts
+- Title gag: The hero’s name is literally “Digger T. Rock”—on-brand for a digging/platform hybrid. (Wikipedia)
+- Reception snapshot: Contemporary reviews were mixed—mechanics praised, presentation dinged. Cult following grew later via collectors and Rare Replay exposure.
+- In June 2018, a youth soccer team and their assistant coach became trapped in the Tham Luang cave system in northern Thailand after heavy rains flooded the passages.
+- The 12 boys, aged 11 to 16, and their 25-year-old coach had gone into the cave on 23 June after practice, not realizing the monsoon rain was coming.
+- Rising water and strong currents cut them off from the entrance and left them with no contact with the outside world for more than a week.
+- A huge international rescue effort formed, drawing in specialized divers, rescue workers, and officials from many countries as global attention focused on the cave.
+- On 2 July, British divers John Vol-anthen and Rick Stanton finally reached the group, finding them alive on a small ledge about four kilometres from the cave mouth.
+- Rescuers debated several options, including teaching the boys to dive out, drilling a new entrance, or waiting months for the floodwaters to recede.
+- After days of pumping water and a short break in the rain, teams launched a high-risk operation between July 8-10th to guide each boy and the coach out through the flooded tunnels, and all of them were successfully rescued.
+- The mission involved up to 10,000 people and enormous resources, but it also cost the lives of former Thai Navy SEAL Sah-mahn Koo-nahn, who died of asphyxiation on July 6th, and SEAL Beirut Pack-bara, who later died from a blood infection linked to the operation.
+- YOU HAVE TO IMAGINE THAT’S WHAT HAPPENED IN THE SEARCH FOR DIGGER T ROCK AS WELL
+- Time to see if Digger T Rock can excavate a place in the ESSENTIAL GAMES LIST.
+- Digger T. Rock: Legend of the Lost Fun

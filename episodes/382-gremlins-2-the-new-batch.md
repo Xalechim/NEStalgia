@@ -1,0 +1,58 @@
+# 382 - Gremlins 2: The New Batch
+
+- Alright so welcome to the pitch meeting for Gremlins 2 the video game. Sean, what’s your idea for a Gremlins 2 video game?
+- I did own a Gizmo doll that worked a lot like Furby, but I owned it in like 1999…guess Gremlins was having a resurgence
+- Do graphics have any right to be this good? Those gizmo and gremlin cutscenes are gorgeous. And the wizard shopkeeper too (Mr. Wing)
+- I knew this game was Sunsoft the second I started playing it. They have a look and sound to them now in a way I don’t think even Konami or Capcom do.
+- Isometric Viewpoint:
+  - Discussion of the unique isometric perspective and how it affects platforming precision and combat.
+  - Comparison to other NES games that use similar angles (e.g., Snake Rattle 'n' Roll).
+- Controls:
+  - Gizmo’s movement and jump responsiveness.
+    - Gizmo has a great jump and shadow for an isometric platformer
+  - Use of projectile-based combat (starting with the matchstick shooter).
+    - I hated this at first
+  - How weapon upgrades are handled and how they change the gameplay pace.
+- Level Design:
+  - Breakdown of the 5 main areas (lobby, labs, TV studio, etc.).
+  - Environmental hazards and puzzles (conveyor belts, lava, etc.).
+    - Not really any rhyme or reason to the locations and the obstacles
+  - Emphasis on verticality and traps.
+- Difficulty Curve:
+  - Starts manageable but ramps up quickly with more enemies and obstacles
+  - Enemy placement and trap frequency can feel punishing.
+  - Lack of mid-level checkpoints.
+- 🔫 Weapons & Power-ups
+- Weapon Evolution:
+  - Starting with matches, upgrading to bow & arrow, and eventually to more powerful ranged weapons.
+  - Time-limited power-ups like The Pogo Stick
+- Collectibles:
+  - Crystal balls (currency) and hearts for HP
+  - Use of shops and what can be purchased from Mr. Wing.
+- Inventory & Items:
+  - Limited item system — some strategy involved in when to use healing items or power weapons.
+- 👾 Enemies & Bosses
+- Gremlin Variety:
+  - Different types of Gremlins with unique attack patterns. Or just giant tomatoes
+  - The crazy movie personalities (electric Gremlin, spider Gremlin, brainy Gremlin).
+- Boss Battles:
+  - Unique boss mechanics in each stage.
+  - Final boss battle with Mohawk, you’re just thrown into it
+- 🎨 Graphics & Sound
+- Visual Style:
+  - Detailed sprite work, especially for Gizmo and enemy Gremlins.
+  - Creative use of the NES color palette, especially in the lab and TV studio levels.
+- Music & Sound Design:
+  - Composed by Naoki Kodaka — high-energy soundtrack with memorable themes.
+  - Effective sound cues for pickups, damage, and enemies.
+- 🎥 Faithfulness to the Film
+- Tone & Setting:
+  - Comparison between the game’s atmosphere and the movie’s satirical tone.
+  - Use of movie locations: Clamp Center, labs, TV studio.
+- Character Representation:
+  - Gizmo as the main playable character instead of Billy.
+  - No real cutscenes but still manages to reference key movie moments through boss design and level names.
+- Sequels and Spinoffs
+- Hi Tech Expressions also released a DOS game[4] in 1991, but it was poorly received.
+- https://www.youtube.com/watch?v=K6wxSCeBOeU
+- You do play as Billy and man is it boring. You’re like pest control trying to clean up the gremlins

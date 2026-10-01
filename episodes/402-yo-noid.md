@@ -1,0 +1,77 @@
+# 402 - Yo! Noid
+
+- Introduction
+- What it is: A 1990 Capcom‑published side‑scrolling platformer starring Domino’s mascot The Noid, adapted from the Japanese game Kamen no Ninja Hanamaru (by Now Production).
+- Why it matters: A rare, well‑built advergame on NES—tight platforming, tough stage design, and a quirky end‑of‑level pizza contest system that plays like a card duel.
+- The Noid — a (very) brief history
+- Birth (1986): Created by ad agency Group 243 for Domino’s; The slogan: “Avoid the Noid.” The gremlin-in-a-red-bodysuit embodied everything that could ruin a 30-minute delivery. Wikipedia
+- Peak late-’80s run: The character became a minor pop-culture star (planned CBS cartoon, constant TV spots, merch). Voice work credited to Pons Maar. Wikipedia
+- Games & tie-ins (1989–1990): PC/Commodore game Avoid the Noid (1989), then NES platformer Yo! Noid (1990) from Capcom/Now Production
+- 1989 hostage incident: A Georgia man named Kenneth Lamar Noid, suffering from mental illness, held two Domino’s employees hostage; he surrendered after several hours. The case is often (wrongly) cited as the reason Domino’s retired the mascot. Contemporary reporting confirms the incident; Domino’s later said it wasn’t the direct cause of retirement. Los Angeles Times+2The Washington Post+2
+- Dormancy & brief revivals:
+  - 2011: 25th birthday promo with Facebook game Noid’s Super Pizza Shootout. ir.dominos.com+1
+  - 2016: Licensed Domino’s pinball machine featured the Noid. Wikipedia
+  - 2021: Full comeback in ads tied to Nuro self-driving delivery tests; cross-promo with Crash Bandicoot: On the Run! iSpot.tv+1
+- Fun facts & good radio tidbits
+- Why he looks like… that: The red suit with rabbit-like ears and a big “N” reads well in claymation and on cheap ’80s TV sets; he’s literally the embodiment of delay and damage to your pizza. Wikipedia
+- Nearly had a cartoon: CBS developed “The Noids” for Saturday morning (1988) but dropped it after pushback that it was ads-as-TV. Wikipedia
+- Video-game double life:
+  - Avoid the Noid (ShareData/BlueSky) is a timed delivery game where you dodge Noids across an office tower. Internet Archive
+  - Yo! Noid is actually a reskinned Japanese platformer (Kamen no Ninja Hanamaru) with a quirky pizza-eating card duel for “bosses.” Wikipedia
+- Headline writers feasted: After the 1989 incident, papers rolled out lines like “Couldn’t Avoid the Noid”—you can find original reports from the LA Times and Detroit Free Press archives. Los Angeles Times+1
+- Merch & cameos: Limited shirts (2009), Facebook game (2011), Spooky Pinball machine (2016), and a 2021 Noid spot literally attacking a driverless robot. iSpot.tv+3Wikipedia+3ir.dominos.com+3
+- Modern echoes: 2023 indie hit Pizza Tower includes a mischievous boss called The Noise, a knowing homage to the Noid’s chaos gremlin energy. Wikipedia
+- Discuss now
+- Can a licensed mascot platformer earn a seat next to Capcom’s original NES greats?
+- Release, Credits, & Context
+- Release: 1990 (NA/EU).
+- Developer/Publisher: Now Production for Capcom (localization/art swap from Hanamaru to Domino’s Noid).
+- Brand tie‑in: Timed to the peak of Domino’s “Avoid the Noid” ad campaign; manual/story pivots to the Noid stopping a chaos‑causing doppelgänger across New York.
+- Discuss now
+- Was there an appetite for the Noid as something bigger than a Dominos mascot?
+- Core Controls & Feel (teach early)
+- A = jump (precise, short hop to full arc). B = yo‑yo attack (quick, short range). Start pauses; Select cycles/uses special items (see Spells).
+- Physics: Snappy acceleration and low air‑control; enemies and hazards often one‑hit you—Mario forgiveness doesn’t apply here.
+- Readability: Tight hitboxes; many jumps demand edge‑pixel takeoffs.
+- Discuss now
+- Did the short‑range yo‑yo force you to play more patiently than you expected?
+- Stage Structure & Variety
+- Linear world map through NYC set pieces: streets, piers, rooftops, parks, subways, sewers, and late‑game industrial zones.
+- Set‑piece levels:
+  - Skateboard run—auto‑scroll with jump rhythm checks.
+  - Ice platforms—reduced traction, tighter windows.
+  - Wind/fan corridors—subtle push/pull that alters jump arcs.
+  - Rope/chain climbs—vertical pacing, falling hazards.
+  - Final gauntlets—enemy spam + tiny ledges where yo‑yo commitment matters.
+- Discuss now
+- Share the first level where you finally said, “Okay, I get the jump cadence now.”
+- Collectibles, Points & Spells (the Noid’s toolkit)
+- Pizza points: Dropped by foes/boxes; act as currency for spells used in boss contests and occasionally in‑stage.
+- Spell scrolls/cards (examples; availability varies by stage):
+  - x2 / x3: Multiplies your next pizza play in the contest.
+  - Freeze/Skip: Stalls opponent or voids a round.
+  - Pepper/Hot: Modifiers that shift topping values (contest math).
+  - Restore: Heals contest damage or tops up slices.
+- In‑stage power‑ups: Temporary invulnerability, time extensions, or yo‑yo damage boosts (brief windows).
+- Discuss now
+- Boss System — The Pizza Contest (card duel)
+- How it works: Instead of fighting, end‑of‑level “bosses” are pizza‑eating contests. Each round, you and the rival play a numbered card (0–9) to determine how many slices you eat.
+- Math & modifiers: Toppings/mod cards (yours or theirs) can add or subtract from values; some stages give forecast info on the opponent’s hand.
+- Win condition: First to hit the target total (or to outpace when the deck runs out) wins the stage. Spells let you multiply or cancel plays.
+- Strategy: Track which cards have been used; bait their high cards with a multiplier in hand; keep a 0 or 1 to block last‑round snipes.
+- Discuss now
+- Love the left‑turn into a mathy mini‑game, or would you rather a traditional boss fight?
+- Difficulty & Mastery
+- Learn the stride: Many jumps are built around a full‑stride takeoff—hesitation shortens the arc.
+- Edge discipline: Step to the lip before pressing A; buffer the input as the foot hits the edge.
+- Yo‑yo rules: Hit on the enemy’s hurt window; whiff recovery is short, so micro‑step between taps.
+- Contest prep: Enter boss doors with 30–50 pizza points when possible; a dry spell leaves you at math’s mercy.
+- Discuss now
+- Hanamaru vs. Yo! Noid — What Changed
+- Graphics/Theme: Ninjas and masks → pizza mascot & NYC gags; many enemy sprites re‑skinned.
+- Mini‑games: Hanamaru’s quizzes/bonuses replaced with the pizza contest format and brand nods.
+- Balance: Several enemy patterns and item placements adjusted; Western version leans a touch harder in some mid‑levels.
+- Discuss now
+- Does the advergame reskin cheapen it, or is this a smart localization that gave a solid platformer mainstream visibility?
+- Yo! I’m Annoyed
+- Now that the Pizza’s delivered. Slice it or skip it on the ESSENTIAL GAMES LIST.

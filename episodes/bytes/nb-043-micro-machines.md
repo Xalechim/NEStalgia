@@ -1,0 +1,83 @@
+# NB 043 - Micro Machines
+
+- Introduction
+- What it is: Top‑down, household‑scale racer based on Galoob’s Micro Machines toys.
+- Broader Context: Toys, Ads, and Culture (Beyond the Game)
+- The Toy Phenomenon
+  - Micro Machines (Galoob) launched in 1987; at peak, outsold Hot Wheels & Matchbox in the US by dollar share. Playsets (toolboxes/cities) amplified the line.
+- Advertising Masterstroke
+  - John Moschitta Jr., “Micro Machines Man,” fronted over 100 fast‑talking TV spots. His Guinness‑certified rapid‑fire delivery became the brand’s sonic logo; slogan: “If it doesn’t say Micro Machines, it’s not the real thing!”
+- Pop‑Culture Cameo
+  - Home Alone (1990): Kevin’s Micro Machines booby‑trap
+- Legal Drama Cross‑Over
+  - Galoob (Game Genie US distributor) vs. Nintendo (1990–1992): landmark ruling that Game Genie did not create infringing derivative works—paved space for accessories and colored the climate in which Camerica released Micro Machines.
+- Developed by Codemasters; published on NES by Camerica (unlicensed). Originally released in 1991.
+- Why it matters: One of the NES’ purest “read‑the‑track, memorize‑the‑lines” arcade racers; a showcase of clever design workarounds for NES hardware and Nintendo’s lockout policies.
+- General Overview
+- Origins & Pitch
+  - Began as “California Buggy Boys” prototype (1989) by Andrew Graham; evolved when Galoob asked Codemasters for a game based on the toy brand.
+  - Two‑player design inspired by Rally Speedway (1983): one screen, no split‑screen; leader earns points by pushing the opponent off‑screen.
+- Release & Platforms
+  - NES (1991) by Camerica (unlicensed); later ports to Mega Drive/Genesis, Amiga, SNES, Game Boy, etc.
+- Core Loop
+  - Race miniature vehicles across everyday locations (breakfast table, desks, pool table, bathtub, garden, bedroom/garage). Learn layouts, manage traction, avoid hazards, and—in some vehicle classes—attack.
+- Story & Objective
+- No narrative—pure competition.
+  - But in a nutshell, you’re trying to collect all the micro machine toy cars by winning their respective classes race
+- Modes
+  - Micro Machines Challenge: 24 events against three AI rivals; finish 1st/2nd to advance; every 3 races triggers an elimination; periodic RuffTrux time‑trial bonuses to win extra lives.
+  - Head‑to‑Head: 1v1 on a single screen. Score points by getting a full‑screen length ahead; eight lights track the tug‑of‑war; sudden death if tied after three laps.
+- Gameplay Mechanics (Deep Dive)
+- Vehicles (9 types, each with distinct handling)
+  - Jeeps (Breakfast table): Slow, grippy; course marked with cereal bits that act as bumps; watch for honey patches and cereal‑box jumps.
+  - Sports Cars (Classroom desks): Very fast, poor grip; narrow bridges (rulers) and desk‑to‑desk jumps punish imprecision; heavy memorization required.
+  - Warriors (Garage): Mid‑speed; ramming causes mutual explosions—chaos risk in traffic; glue patches cause spins.
+  - Turbo Wheels / Dune Buggies (Sandbox): Slippy with low grip; sand dunes launch you—airtime often equals drift off‑line into puddles.
+  - Formula One (Pool table): Fastest class with better grip; recurring ledge‑lap around the table lip—easy to fall off.
+  - Powerboats (Bathtub): “Walls” of bubbles constrain path; surface ripples act like bumps; steering latency vs. water inertia.
+  - Choppers (Garden): Not fast, but worst “grip”—skittish, jagged hedge walls snag you; throttle discipline matters.
+  - Tanks (Bedroom): Slow, perfect traction; A+B fires cannon to blow up rivals; chessboard and book piles create choke points.
+  - RuffTrux (Backyard time trials): Big, planted; slalom‑style obstacle courses over pebbles/water; strict timers (50–55s tiers in later trials).
+- Track Reading & Checkpoints
+  - Courses are open‑ish but gated by invisible checkpoints to prevent big skips; corner‑cutting is often allowed; learning which props are solid vs. cosmetic is key.
+- Physics & Rubber‑Banding
+  - NES version features noticeable rubber‑band AI; “third‑lap syndrome” can punish late mistakes—front‑running matters.
+- Character Select & Handicap
+  - WHO DO YOU WANT TO BE? Colorful roster (e.g., Spider, Bonnie, Jethro, Cherry, Emilio, Anne, Chen, Mike, Dwayne, Walter). Some characters apply handicaps in Head‑to‑Head to balance skill gaps. SEE MANUAL
+- Graphics & Sound
+- Visual Identity
+  - Bright, readable sprites; smart prop‑based signposting (cheerios, pencil shavings, billiard balls). Household scale sells the fantasy.
+- Audio
+  - Composer (NES): Matt Gray. No music during races. chunky engine SFX; tire screeching, mix supports constant spatial awareness over melody.
+- Development & Tech Corner
+- Reverse‑Engineered NES
+  - Codemasters built without Nintendo docs; reverse‑engineered hardware; split‑screen avoided due to NES constraints; single‑screen multiplayer became a signature.
+- The Infamous “Reverse‑to‑Crash” Bug
+  - Late bug discovered where reversing on race one could crash the game. Many ROMs had shipped—Camerica installed a tiny on‑cart patch device (mini Game‑Genie‑like) to fix it at runtime.
+- Unlicensed Hardware & Lockout
+  - Camerica’s gold/silver carts used circuitry (and a rear switch on many releases) to stun/bypass Nintendo’s 10NES/CIC lockout, enabling play across NTSC/PAL consoles and avoiding the reset‑blink.
+- Aladdin Deck Enhancer (1992)
+  - Compact‑cart system by Camerica/Codemasters to cut costs on cartridges, no noticeable benefit to the player; Micro Machines was one of seven released games for it. Poor sales; Camerica went bankrupt in 1993.
+- Versions & Comparisons
+- Mega Drive/Genesis (1993): Handling tuned “on rails,” sprite rotation for smoother motion; generally no rubber‑banding—easier to build big leads.
+- SNES/GB/Amiga, etc.: Same core tracks; audiovisual redraws; supported multiplayer.
+- Sequels: Micro Machines 2: Turbo Tournament (1994) expands track gimmicks and multiplayer innovations (e.g., J‑Cart on Mega Drive with extra ports).
+- Micro Machines V3 (1997, PlayStation; 1999 on N64 as Micro Machines 64 Turbo)
+  - First fully 3D entry in the series, preserving single‑screen racing and the “push‑off‑screen to score” rules.
+  - Pad‑share party play: Up to 8 players locally by sharing four controllers (two people per pad; vehicles auto‑accelerate in this mode). Became a defining couch‑multiplayer showcase.
+  - N64 port adds extras/tuning while retaining chaotic household tracks.
+- Micro Machines V4 (2006, PS2/PSP/PC/DS)
+  - Developed by Supersonic Software on RenderWare; leans into weapons and pick‑ups and a huge collectible car roster (hundreds to unlock/trade).
+  - Online options where supported; reception mixed: content‑rich but criticized for shallow feel and camera/clarity issues versus earlier entries.
+- Micro Machines: World Series (2017, PS4/Xbox One/PC/macOS/Linux)
+  - Built in Unity with a pivot toward online play (up to 12 players), plus 10 race tracks and 15 battle arenas.
+  - Hasbro crossovers (NERF, G.I. Joe, Ouija, Hungry Hungry Hippos) appear as vehicles/arena set‑pieces; modes include Elimination, Capture the Flag, and Control Point.
+  - Noted for fun local skirmishes but criticized for limited career/progression and shaky online performance at launch.
+- Difficulty & Mastery Angles (for on‑air discussion)
+- Line Discipline: Commit to lines early with Sports Cars/Turbo Wheels; tiny corrections beat aggressive saw‑toothing.
+- Hazard Ownership: Turn props into landmarks—e.g., pencil sharpener apex, pool‑table ledge entries, cereal‑box ramp approaches.
+- Mind Games in Head‑to‑Head: Feints near edges; deliberate lifts to bait overshoots; tank shell timing at chokepoints.
+- Reset Etiquette: When to restart after a botched lap vs. salvage a 2nd‑place for survival in Challenge.
+- Legacy & Reception
+- Influence: Codemasters’ path leads toward later racing expertise (GRID, DiRT, F1). The household‑scale shtick echoes in modern micro‑racers and kart‑track prop‑design.
+- Collectability: Camerica gold‑cartridge variants and Aladdin compact carts are conversation pieces; condition/region switch can fascinate non‑collectors on mic.

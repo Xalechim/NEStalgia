@@ -1,0 +1,58 @@
+# 395 - Muppet Adventure: Chaos at the Carnival
+
+- Introduction
+- Hosts: Mike (run of show), Joe (excited contrarian), Sean (cynical historian).
+- What it is: 1990 NES compilation of four carnival rides (plus a finale), starring Kermit, Fozzie, Animal, and Gonzo on a rescue run for Miss Piggy who has been PIGNAPPED.
+- Why it matters: Snapshot of Hi Tech Expressions licensing on NES and one of the few core‑cast Muppet outings on the system. The NES version reshapes the 1989 computer releases and assigns one Muppet to each stage.
+- Release, Credits, and Context
+- Platform and year: NES, 1990. Publisher: Hi Tech Expressions. Developer: Mind’s Eye Technology (NES conversion). Earlier Apple II, C64, DOS versions arrived in 1989 with different minigames and some two‑player support.
+- Story Setup (use right after the intro bumper)
+- Inciting incident: Dr. Grump and his pet Grumpasaurus pignap Miss Piggy.
+- Objective: Clear four rides in any order, collect four keys, and storm Grumpasaurus Cave.
+- Quick question
+- Do you like the free order or would a fixed sequence have built better difficulty ramp?
+- Game Structure and Shared Rules
+- Single player only. HUD shows score, hearts for Power, and Rides for lives.
+- Select often quits a ride to the hub. Start pauses.
+- The Carnival Rides (insert questions and prompts where they occur)
+- 1) Raging River Ride — Kermit (vertical river run)
+- Controls: D‑Pad left or right to steer, hold down to speed up, hold up to slow down.
+- Hazards and pickups: Swaying logs, rocks, whirlpools that can pin you, and a raft‑riding critter that tracks you briefly. Red periscopes restore health, red buoys award extra Rides. You can drift past the end key; doing so loops the stage back to the start.
+- Tips: Read shoreline bends early, pre‑steer before speeding up, treat whirlpools as zones to exit quickly rather than fight against.
+- Discuss now
+- Did anyone accidentally skip the key and reset the level, and does that feel like a funny gag or bad signposting?
+- near‑miss with the whirlpools
+- 2) Crash Car Course — Animal (overhead bumper‑car circuit)
+- Controls: D‑Pad left or right rotates the car in eight directions, A is throttle with slight auto brake when released.
+- Course objects: Oil slicks, bombs, bouncy walls, rising gates. Red flags are points; green flags respawn one at a time and refill Power after you collect enough in a row.
+- Tips: Favor a two‑wide line on straights so rebounds do not chain into hazards. Ease off before slicks and correct gently after contact. Later patterns require fitting through small gaps at low speed.
+- Discuss now
+- Momentum and eight‑way steering can feel slippery. Good arcade feel or clumsy for kids?
+- Which obstacle felt the most unfair, and what was your trick to get through the late narrow gates?
+- 3) Lost in Space Ride — Gonzo (auto‑scroll shooter with thrust)
+- Controls: Left or right rotates the ship in eight directions, A thrusts forward in the facing direction, B fires.
+- Hazards and pickups: Drifting rocks, satellites, turrets, space dogs in pods, and electric barriers that can be destroyed with repeated shots. Fuel canisters restore health. Rescuing Camilla gives an extra life. You can accidentally shoot powerups before collecting them. The autoscroll is very slow and the ride ends with a boss.
+- Tips: Center lane for aim time, edge drift to dodge clumps, short controlled taps to reduce flicker and misses.
+- Discuss now
+- Does the slow scroll kill momentum, or does it give room for younger players to read lanes? Did you ever blast your own powerups?
+- 4) Amazing Ice Cream Maze — Fozzie (single‑screen maze chain)
+- Goal and rules: Each screen spawns three prizes in order (bow tie, gift box, bow tie). Clear the set to advance. Some screens include throwable distractions like bones, hearts, or banana bunches. You can only hold one, they throw in a short, odd arc, and they are often less useful than they look. Large patrolling enemies blend into the background and only move periodically, which means you can safely pass through them when they stop. Background color shifts every few screens as a progress indicator.
+- Tips: Hug outer walls to break aggro loops. Aim throws short so enemies walk into them. Expect many screens and steady pacing rather than big spikes.
+- Discuss now
+- Does the maze overstay its welcome, or is it a relaxing change of pace? Does the throw arc help or hinder?
+- Finale: Grumpasaurus Cave — Kermit (side‑view platformer and two bosses)
+- Controls: Left or right to walk, B to jump, A to wave Kermit’s feather. Hold up or down to aim high or low. Note the unusual B‑button jump muscle memory.
+- Stage items and hazards: P papers, Miss Piggy’s lipstick, and her necklace grant extra Rides. Fireballs, pits, bats, and tight brick‑to‑brick jumps appear near the end. The feather does not affect enemies, so dodging matters.
+- Boss 1: Grumpasaurus on small ledges. He punches to knock you back, then creeps forward. The solution is to tickle his armpit when his arm is extended, which pushes him backward. A consistent method is to jump and drag the feather across his body on the way down, timing your swipe with his punch. Sometimes you need two pushes per block gap. If both of you fall at once, a quick‑kill outcome can still count in your favor.
+- Boss 2: Dr. Grump. Toss hearts upward so they land on his head. He blocks rising hearts and throws bombs. Keep throws low so they drop onto him.
+- Discuss now
+- Fair challenge or difficulty spike that undoes the easy four‑ride loop? How did the B‑button jump and armpit tickle timing sit with you?
+- Graphics and Sound (place after the first ride segment)
+- Visuals: Readable Muppet sprites with plain backgrounds. Perspective variety keeps things visually fresh even if tiles repeat.
+- Audio: Short carnival loops and clear SFX for hits and pickups. Tone can feel a bit dark for a carnival.
+- Discuss now
+- Does the soundtrack fit the setting, or does it clash with the bright Muppet tone?
+- Speedrun and Replay Notes (drop after Finale segment)
+- Leaderboard note: World record around the mid‑20 minutes, with a route that often starts on Car Course, then Space Race, then Maze, then River. Space Race consumes a large chunk of the run time, and a Grumpasaurus quick kill exists where both fall and it still counts.
+- Prompt
+- Would you route the rides to front‑load failure points like Car Course, or do the slow Space Race early to get it out of the way?

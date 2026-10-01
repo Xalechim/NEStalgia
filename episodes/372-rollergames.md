@@ -1,0 +1,64 @@
+# 372 - Rollergames
+
+- STOP THE MOST BARBARIC CRIME WAVE ON BALL BEARINGS
+- RollerGames debuted in 1989 as a more theatrical take on roller derby, featuring a figure-8 track and modified rules. The teams were T-Birds, Violators, Maniacs, Bad Attitude, Rockers, and Hot Flash. The show lasted one season due to syndicator bankruptcies.
+- Bill Griffiths Sr. served as commissioner, while his son, Bill Griffiths Jr., managed the L.A. T-Birds, who sought revenge on the Violators (led by Skull) for cheating in the Commissioner’s Cup.
+- Yes, the television show "RollerGames," which aired in the late 1980s and early 1990s, was a scripted form of sports entertainment, similar to professional wrestling, featuring storylines, characters, and staged events.
+- Game Overview
+- The NES version is a side-scrolling platformer featuring characters from the TV show but unrelated to the actual sport.
+- The plot revolves around a mysterious alien aiding the Eastern Empire teams (Violators, Maniacs, Bad Attitude) and their managers (Skull, Guru Drew, Ms. Georgia Hase) in sabotaging the sport and kidnapping Commissioner Bill Griffiths.
+- Story Setup
+- Announcers Chuck Underwood and David Sams introduce the game, explaining Griffiths' capture.
+- The Western Alliance (T-Birds, Hot Flash, Rockers) must rescue him.
+- Shelley Jamison prompts the player to choose a team at the start of each stage.
+- Playable Characters
+- T-Birds: Robert Smith ("Icebox")
+- Hot Flash: Vicki McEuen ("Sly Fox")
+- Rockers: Mike Flannigan ("California Kid")
+- Gameplay Mechanics
+- Stage Structure
+- Each stage consists of a combination of combat and platforming challenges.
+- Odd-numbered stages have a time limit and require players to fight through enemies and defeat a boss.
+- Even-numbered stages (except the final one) focus on avoiding hazards like barrels, flamethrowers, and helicopter bombs.
+- Combat System
+- The player can attack enemies using punches or kicks.
+- Momentum affects combat—attacking while moving is more effective.
+- Each skater has different attack animations, but similar effectiveness.
+- Obstacles and Hazards
+- Players must avoid pits, moving platforms, and crumbling terrain.
+- Special obstacles include conveyor belts, spike pits, and moving vehicles.
+- The game features death pits—falling means instant death.
+- Final stage:
+  - Time-limited stage leading to a boss fight against a nameless villain.
+  - Victory shows the skaters celebrating with Bill Griffiths and a congratulatory message from halftime commentator Wally George.
+- Tips & Strategies
+- Use momentum in combat: Attacks are stronger when moving.
+- Be cautious with jumps: Many areas have instant-death pits.
+- Memorize enemy patterns: Bosses and enemies have predictable movements.
+- Stay centered on obstacles: Conveyor belts and platforms can throw you off.
+- ARCADE GAME
+- Scoring & Gameplay Changes
+- Scores are halved from the real show and rounded up.
+- Each game consists of four 99-second cycles (instead of 45-second cycles within four 6-minute periods).
+- Game Flow
+- Players control two jetters.
+- After referee Don Lastra's whistle, the first lap leads to the Wall of Death, where:
+  - 3 steps between red lines = 1 point
+  - Above the top line = 3 points
+- Jet Jump:
+  - Beyond 12-foot marker = 3 points
+  - In front of marker = 1 point
+- Main Scoring:
+  - 1 point for passing/fighting blockers.
+  - 3 points for lapping/fighting the opposing jetter.
+- Winning: The team with the most points wins. Tied games go into extra cycles until a winner is determined.
+- The alligator pit from the show’s sudden death overtime is not included.
+- Progression & Completion
+- Players must win each game to advance.
+- Defeating all five teams triggers a credits sequence with the Commissioner's Cup and skater lineup.
+- The game then restarts from the first team.
+- Bonus Fight Sequences
+- Fighting Game style combat occurs randomly to reflect in-game rivalries.
+- Winning a fight grants extra energy.
+- These fights do not impact the game score, only providing a small power boost to the winner.
+- In 1999, TNN debuted RollerJam, which used the classic rules and banked oval track, but allowed inline skates (although some skaters wore traditional quad skates). Jerry Seltzer was commissioner for this version.

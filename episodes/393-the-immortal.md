@@ -1,0 +1,113 @@
+# 393 - The Immortal
+
+- Introduction
+- What it is: An isometric, trap‑heavy action‑adventure where a nameless wizard descends a labyrinth to find his mentor Mordamir. NES port of Will Harvey’s computer classic; published by Electronic Arts.
+- Why it matters: A rare NES title that blends adventure‑game logic, 1v1 dueling, and environmental puzzle‑solving. The NES version is 1 level shorter than the computer/Genesis versions yet retains the series’ signature set‑pieces and many infamous deaths.
+- General Overview
+- Release & Lineage
+  - Originally a 1990 Apple IIgs/Amiga/Atari ST title; NES version released in North America the same year.
+  - Designer: Will Harvey (of Zany Golf, Music Construction Set) [BOX SAYS WILL HARVEY PRESENTS]. NES developer credits: Sandcastle/EA.
+- Premise
+  - You follow messages from Mordamir through a dungeon of traps, warring goblins and trolls, opportunistic merchants, and cryptic NPCs.
+  - Sleep on straw pallets between gauntlets to replenish and receive dream hints about the world’s backstory (dragons, the city of Erinoch, and the source of the labyrinth’s curse).
+- Story & Objective (Spoiler‑lite beats for on‑air narration)
+- Hook: A note meant for Dunric begs for rescue—why did you receive it? (Mystery seed.)
+- Midgame: Navigating the goblin–troll war; choosing to spare or slay key enemies affects dialogue and route friction.
+- Endgame: The truth behind Mordamir, Dunric, and the dragons; moral weight behind the final confrontation.
+- Gameplay Mechanics (Deep Dive)
+- Two Modes of Play
+  - Isometric exploration: Tile‑by‑tile movement through traps, switches, pits, and environmental hazards. Real‑time projectiles (e.g., fireballs) can clear pests and light torches.
+  - Close‑up duels: Contact with major enemies transitions to a combat screen with jab, forehand/backhand slashes, and ducking left/right. Success is timing, stamina management, and varying attacks.
+- Core Systems
+  - Vitality & Lives: A vitality bar for chip damage (bats, hazards) plus three lives per level. Losing all restarts the level.
+  - Inventory (“Wizard’s Pack”): Keys, gold, scrolls, rings, and situational items. Some items are single‑use or lethal when misused; others must be set down to activate.
+  - Spells & Tools: Fireball is the early workhorse (lights torches, counters flyers). Later set‑pieces introduce mobility aids (levitation, vehicles/rideables) and specialty magic.
+  - Sleep & Dreams: Stand on straw to sleep; dreams provide lore and puzzle nudges.
+  - Certificates (Passwords): End‑of‑level codes to resume progress.
+- Teaching Puzzles (early examples)
+  - Shades & Torches: Dark rooms conceal shades; lighting wall torches reveals their positions so you can route safely.
+  - Oil/Slime Rooms: Floor goo slows/locks movement unless prepped—often solved by sourcing a light or burn.
+  - Merchant Encounters: Pay for heals, potions, or niche items; limited gold means deliberate shopping.
+- Combat Micro
+  - Vary attacks: Repeating one strike gets countered; alternate jab ↔ slash and bait with ducks.
+  - Read tells: Animations telegraph mace swings, spear thrusts, and bite ranges; duck away from the blow.
+- Prologue
+- Trap: two hollow floor tile clusters trigger a giant worm. Heed “move” or die.
+- Candle: smoke message from Mordamir calls you “Dunric” even though you are not. Only exit is the door.
+- Level 1
+- Hazards: floor flame jets kill, wall fireballs only hurt. Bats nibble.
+- Key pickups: chest with gold, bait, spores; later chest with bottle and a Will-o’-the-Wisp charm scroll.
+- Arrow corridor puzzle: Wrong path fires lethal arrows.
+- Shades: invisible in darkness. Light wall torches to see their shadows; dodge or flee.
+- Reflective amulet room: hold the amulet in the light beam to reveal an invisible ladder between two wall shooters. Do not read the incantation or you vaporize the room and yourself.
+- One straw bed heal per level.
+- Level 2
+- Green blobs: instant death on contact. Merchant sells temporary resist potion. He offers it for 100 gold which is impossible to have. You have to refuse for him to come down to 80 (you can only have that if you collected every gold so far)
+- Will-o’-the-Wisps: chase them together, cast charm to pacify, cast again to sic them on enemies.
+- Goblin drop: Dust of Compliance. Save it.
+- Dwarf puzzle: use Dust of Compliance to make him hand over a red gem.
+- Goblin King setup: plant spores on the dirt patch to grow poisonous fungus, leave, return, give him the water from Level 1. He gives a clue and a key.
+- Granite Rock trick: lure a blob over the rock to dissolve it and get another red gem.
+- Three-symbol gate: place the three red gems in order right, left, center to open the floor ladder.
+- Level 3
+- Protean Ring: lets you look like a goblin. You cannot cast or climb while wearing it; taking it off reveals you.
+- Door opener: in the south room, keep the goblin alive so he unlocks the door.
+- Goblin King courtesy: if you gave water earlier, he lets you pass and warns of trolls.
+- Teleporter pillar: the central beam cycles red to green. When green, stand in it and drop a red gem to teleport across the opening chasm.
+- Level 4
+- Timed magic carpet gauntlets: worm fields plus flame traps. Mount a few tiles early, never step off over worm tiles, bump walls to pivot fast.
+- Ring find: Dunric’s ring lies in the first carpet maze.
+- Ana: return the ring to her to receive another ring and the clue “clockwise, three rings around the triangle.”
+- Triangle floor glyph: run three clockwise laps to reveal a ladder.
+- Level 5
+- Goblin alliance: plan to flush the Norlac via a sluice and whirlpool.
+- Merchant: buy shrinking potion, then crawl the crack. The potion drains health until you drink water from the chest.
+- Chest rewards: gold, bottle, and a worm-sensor device listing the only safe route through the red worm room.
+- Red worm room path: follow the device’s left/down/right sequence exactly; the sensor beeps faster near danger.
+- Dev room easter egg: if you bring coffee, the designers give you overpowering BO that knocks out all enemies
+- Egg and bait plate: hatch the egg into a flying lizard, drop bait on the round floor sigil to hold the lizard there and trigger a trap door ladder.
+- Level 6
+- Dunric chained: give him his ring to gain Statue of Gold and Magnetic Hands spells.
+- Norlac boss in the channel:
+  - Barrel steering. Tease the black beast near the sluice until music changes, then flee.
+  - Enter the whirlpool center, wait until the wake is close, then dive so the Norlac follows and drowns.
+- Level 7
+- Dragon trial after a pit trap:
+  - Time Blink casts to dodge the first six flame blasts. Cast just after the dragon lifts its head.
+  - Use Fire Protection for the seventh, “double-breath” super blast. Open inventory on the second inhale and fire it late so it lasts through the blast.
+- Amulet standoff:
+  - Lift the amulet to the light but do not read. Mordramir appears and taunts.
+  - Time Statue of Gold to block his lightning once the dragon’s head starts turning toward you.
+  - Cast Magnetic Hands to yank the amulet from Mordramir. The dragon instantly roasts him. Rope descends and you escape.
+- Misc secrets and instant-death notes
+- Reading the amulet incantation nukes the room. Planting spores anywhere but the intended dirt patch kills you. Using bait on open ground summons a worm under you.
+- Wearing the Protean Ring while “meeting” the Goblin King gets you killed
+- You can only fully rest once per level. Save it for after the long gauntlets or before bosses.
+- Graphics & Sound
+- Visuals: Crisp, readable isometric tiles; heavy use of light/dark contrast; impact frames in duels sell hits despite NES limits.
+- Audio: Menacing dungeon drones; stingy SFX that keep you on edge (bat screes, trap clicks). Battle stings punctuate successful counters and finishers.
+- Ports & Differences (Quick Compare)
+- Computers/Genesis: Longer campaign (8 levels) with an extra spider lair set‑piece; more elaborate death vignettes and finishing moves.
+- NES: Tighter pacing, smaller sprites, reduced gore, and some altered encounters; still notorious for instant‑death traps and cruel puzzles.
+- Difficulty & Mastery (On‑air Tips)
+- Slow feet win: Advance one tile at a time in new rooms; pause to read environmental “tells.”
+- Light first: Dark areas are solvable once you find a light source—don’t brute‑force them.
+- Merchant math: Buy heals only when a long gauntlet is ahead; hoard gold for single‑solution items.
+- Duel discipline: Mix your attack types and duck away from the swing; don’t mash.
+- Sleep smart: If you’re near a straw pallet after a big win, sleep to bank vitality and snag a dream hint.
+- Beyond the Game (Culture & Context)
+- Design lineage: Will Harvey’s background (music tools, physics‑toy sensibility) shows up in Immortal’s “systems first” puzzle design.
+- Nintendo era tone: An unusual example of a grim, violent adventure that still cleared Nintendo’s content standards—memorable for kids who found it after bedtime.
+- Magazine presence: Contemporary coverage (strategy pages, maps, warnings about trap density) framed it as a “think fast or die” curio versus straight RPG.
+- Discussion Questions
+- What single room best teaches the game’s logic without text? (Torch/shade? Mushrooms?)
+- Did you value combat mastery or environmental knowledge more by the end?
+- Which merchant purchase felt absolutely required—and which felt like a trap?
+- Is the NES cut (7 levels) better paced, or do you miss the longer, nastier computer/Genesis campaign?
+- What’s the fairest death in the game—and what’s the most “gotcha”?
+- If you remade The Immortal today, what two systems do you deepen without losing the bite?
+- Listener Prompts
+- Share your first brutal death story and the room where it happened.
+- Wrap‑Up
+- Where does The Immortal (NES) rank among NES “adventure‑adjacent” titles (e.g., Shadowgate, Solstice)?
+- Tease next episode.

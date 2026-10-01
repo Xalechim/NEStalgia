@@ -1,0 +1,69 @@
+# 377 - Thunderbirds
+
+- FLY WITH THE BEST
+- SUPER MARIO NATION
+- Presentation & Theme
+- Based on the British TV show Thunderbirds, but:
+  - Cover art gives no indication of this connection.
+  - Game avoids references to the source material in U.S. release.
+- Game avoids being a “flight sim” and opts for arcade-style shmup gameplay.
+- Opening cinematic is overly long with awkward-looking stills of characters.
+- Production & Background
+- British
+- Filmed from 1964 to 1966 using:
+  - "Supermarionation" (electronic marionette puppetry).
+  - Scale model special effects.
+- Consisted of 2 series totaling 32 fifty-minute episodes.
+- Setting & Premise
+- Set in the 2060s.
+- Follows International Rescue, a secret life-saving organization.
+  - Operates from a hidden Pacific island base.
+  - Uses a fleet of advanced vehicles, including five Thunderbird machines.
+- Main characters:
+  - Jeff Tracy, ex-astronaut and leader of International Rescue.
+  - His five adult sons, each piloting one of the Thunderbird vehicles.
+- Adaptations & Spin-offs
+- Two feature films: Thunderbirds Are Go and Thunderbird 6.
+- Radio adaptation in the 1990s.
+- Other adaptations include:
+  - Anime reimagining (Thunderbirds 2086).
+  - Live-action film (Thunderbirds).
+  - Part-CGI, part-live-action remake (Thunderbirds Are Go).
+  - Three supplementary episodes using original puppet techniques, based on audio plays.
+- Structure & Gameplay Design
+- Mission select screen features multiple starting points across the globe.
+- Time-based challenge:
+  - 60 in-game days to defeat the villain, The Hood.
+  - Time is consumed when undertaking missions.
+  - Failing a mission penalizes players by forcing time-consuming ship repairs.
+- Allows switching between different team members and vehicles, but not at your own leisure.
+- “The planet’s crust is unstable,” this probably isn’t a job for a single tank.
+- Gameplay Mechanics
+- Core gameplay is serviceable but underwhelming:
+  - All ships (air, sea, land) control and play identically.
+  - Visual differences in design don’t affect mechanics.
+  - Power-up system is standard: one-up/one-down style.
+- Most standout feature:
+  - Ships gain orbiting turrets over time.
+  - Turrets can be repositioned for strategic advantage.
+- Critique
+- Missed opportunity:
+  - Wasted potential in not differentiating the vehicles.
+  - Could have delivered more variety given the Thunderbirds source material.
+- Solid but uninspired:
+  - Game is functional and decently enjoyable.
+  - Never becomes egregiously bad or lazy—just lacks innovation.
+- Conclusion
+- Despite flaws, reviewer found Thunderbirds enjoyable.
+- Likely wouldn’t revisit it, but still considers it worth trying for shmup fans.
+- Recommends it more as a novelty than a must-play.
+- Sequels and Spinoffs
+- 1985: First Thunderbirds video game released for Commodore 64 and ZX Spectrum; players pilot Thunderbird 1 and 2 through an Egyptian-style labyrinth.
+- 1989: Grandslam Entertainment launched a game for multiple platforms, including Commodore 64, Amiga, Amstrad CPC, Atari ST, MSX, and ZX Spectrum.​
+- 1990: Activision released a NES version of the Thunderbirds game.​
+- 1993: Super Famicom game titled Thunderbirds: Kokusou Kyuujotai Shutsudou Seyo! released exclusively in Japan.​
+- 2000: SCi Games published a Thunderbirds title for Game Boy Color.​
+- 2001: SCi Games released "F.A.B Action Pack," a collection of Microsoft Windows themes and screensavers, and Thunderbirds: International Rescue for Game Boy Advance.​
+- 2004: Vivendi Universal Games released another Thunderbirds title for Game Boy Advance.​
+- 2007: A new Thunderbirds video game launched for PlayStation 2 in Europe; North American release was canceled.​
+- 2015: Co-operative Thunderbirds board game designed by Matt Leacock released to coincide with the series' 50th anniversary; three expansion sets followed in 2016.

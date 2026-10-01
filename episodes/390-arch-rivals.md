@@ -1,0 +1,64 @@
+# 390 - Arch Rivals
+
+- Introduction
+- Hosts: Mike (keeps focus), Sean (cynical historian)
+- What it is: 2-on-2 “basket brawl” arcade basketball, arcade by Midway in 1989, NES port in Nov 1990 by Rare for Acclaim. Known for legal hitting, slapstick hazards, and fast breaks. Wikipedia
+- Why it matters: Prototype for Midway’s later arcade style that led to NBA Jam in 1993. WikipediaRetronauts
+- General Overview
+- Origins
+  - Arcade design and art: Jeff Nauman and Brian Colin, music by Dan Forden. WikipediaMobyGames
+  - NES conversion: Developed by Rare, music by David Wise, published by Acclaim. Wikipedia
+- Release & Platforms
+  - Arcade 1989, NES 1990, Genesis and Game Gear in 1992 (Arc Developments, Flying Edge brand on Sega). WikipediaSega Retro
+- Modes, Objective, Flow
+- Four quarters, NES defaults to 3 minutes each. Overtime is sudden death if tied.
+  - Ideal quarter length for best couch play—default or shorter/longer?
+- Single player or two player head-to-head. On NES, partner AI runs with you, you can call for passes or shots. digitpress.com
+- Gameplay Mechanics (Deep Dive)
+- Controls (NES)
+  - Offense: A = shoot or ask teammate to shoot, B = pass or ask teammate to pass. Defense: A = steal or punch, B = jump. D-pad to move. digitpress.com
+- Legal Violence
+  - Punches and tackles steal possession without fouls; ref only calls shot clock. “Flying leap” tackle can send you rolling if you miss.
+    - Does the shot clock being the only real penalty push the game toward constant pressure?
+  - In arcades, the leap could pull an opponent’s shorts down, gag not present in home play. Wikipedia
+  - How does the legal punching/tackling change your approach to offense and defense?
+  - Is there meaningful risk/reward to jumping vs. punching on defense?
+    - Mix punch, steal, and jump to bait turnovers. The shot clock is your only real penalty, so press constantly. Wikipedia
+- On-court Hazards
+  - Floor litter like soda cans and candy wrappers trips ballhandlers. You can also collide with the ref. Wikipedia
+- Players & Traits
+  - Eight selectable personas with flavor traits (Tyrone defensive giant, Vinnie great player, Hammer rebound king, Moose real champ, Lewis top shooter, Blade crowd-pleaser, Mohawk tough and mean, Reggie All-American).
+  - Traits are mostly guidance rather than hard stats on NES. digitpress.comdigitpress.comGiant Bomb
+- Teams & Presentation
+  - Teams are non-NBA. Arcade ops could rename colors and teams via “Hometown Heroes,” a local branding feature that let operators mirror real cities. Wikipedia
+- Broadcast-style Flair
+  - NES includes between-quarter “Coaches Corner” segments and halftime cheerleaders, with visible British Knights signage, a snapshot of late-80s sportswear marketing in games. digitpress.com
+  - How smart is the AI teammate—when do you trust it to cut or take a shot?
+  - Where does Arch Rivals sit in the arc of late-80s/early-90s sports-game “attitude”?
+- Development & Port Differences
+- Arcade DNA
+  - Second Midway basketball title after TV Basketball (1974). Wikipedia
+- Beyond the Game: Culture, Ads, and Media
+- Sportswear Tie-ins
+  - British Knights brand appears in NES presentation segments. Good springboard to discuss sneaker wars and TV sports branding circa 1988–1992. digitpress.com
+    - British Knights was one of the first brands to use hip hop artists as endorsers, enlisting Kool Moe Dee for the brand's introduction to TV. “How Ya Like Me Now” was broadcast on the worldwide music channel MTV.
+    - In 1990, British Knights launched their most ambitious marketing campaign by signing rapper MC Hammer. The brand sponsored his tour, held in-store events and contests, and even featured him in a British Knights–branded anti-drug TV campaign.
+- Cartoon Crossover
+  - “Tyrone” appears as a character in The Power Team segments of the Video Power TV show, one of the first multi-game brand crossovers on kids’ TV. Wikipedia
+    - TV show hosted by Johnny Arcade
+    - The cartoon was an adventure featuring Johnny Arcade and a team of heroes from different NES games and a Game Boy game published by Acclaim: Max Force, a policeman from NARC; Kuros, the knight from Wizards and Warriors; Tyrone, a basketball player from Arch Rivals; Kwirk, a tomato from the game of the same name; and Bigfoot, a monster truck that had its own video game.
+- Arcade to Jam
+  - Arch Rivals established the blueprint for contact-heavy, high-pace, 2-on-2 arcade basketball that NBA Jam refined with an NBA license and digitized players. RetronautsWikipedia
+- Versions & Comparisons
+- Arcade vs. NES
+  - Arcade has more animation gags and operator customization. NES adds helpful UI cues like off-screen arrows, simple team stats screens, and quick halftime interludes. digitpress.comdigitpress.com
+- Genesis/Game Gear
+  - Arc Developments handled the Sega versions, published as Flying Edge. Faster pace and slightly different camera feel compared to NES. Sega Retro
+- Re-releases
+  - Arcade version later bundled in Midway Arcade Treasures collections. Useful for listeners who want to compare original arcade timing. Wikipedia
+- Legacy & Reception
+- Seen as a forerunner that made contact basketball fun and readable, paving the way for NBA Jam’s mainstream breakout. RetronautsWikipedia
+- Trivia & Quick Hits
+- The manual openly jokes “there are no rules,” then teaches you to exploit fast breaks and desperation shots. Good passage to read verbatim for comedic contrast. digitpress.com
+- Post-game statistics screen on NES lets you recap scoring, rebounds, and team averages on-air, which is handy for post-match banter. digitpress.com
+.

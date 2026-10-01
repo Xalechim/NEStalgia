@@ -1,0 +1,99 @@
+# 394 - Mega Man 3
+
+- Introduction
+- What it is: 1990 action platformer by Capcom, the third main Mega Man on NES. Introduces the slide and the Rush transformations, and folds in a new mid-game chapter with Doc Robot.
+- Why it matters: Polishes the Mega Man 2 blueprint while adding mobility, companion versatility, and a larger campaign. For many players this is the most expansive of the NES classics.
+- General Overview
+- Release: North America and Japan in 1990, Europe in 1992.
+- Core loop: Choose any of eight Robot Master stages, win their weapon, and use weaknesses to route the rest of the bosses. After the eight are cleared the game reopens altered stages with Doc Robot encounters, then moves to Wily stages and the endgame.
+- Headliners: First appearance of Proto Man, first appearance of Rush, and Mega Man’s slide.
+- Story and Objective
+- Dr. Light and a seemingly reformed Dr. Wily build the peacekeeping robot Gamma. Eight industrial robots go rogue and steal energy elements. Mega Man must retrieve the elements to complete Gamma.
+- The Japanese subtitle is “Dr. Wily no Saigo!?” (“The End of Dr. Wily!?”)
+- Proto Man appears across the journey as a mysterious red rival who tests you in mid-stage duels. He later reveals himself and shows up as Break Man before the Wily fortress.
+- Endgame reveals Wily’s coup to seize Gamma. Final battles occur inside Wily’s fortress and around the reactivated Gamma.
+- Gameplay Mechanics (Deep Dive)
+- Movement
+  - Slide by pressing Down + A. Grants burst speed, a low profile, and slide-cancel options. Used to dodge patterns, cross low tunnels, and skip small platforming waits.
+  - Ladder behavior is snappier than MM2. Slide cannot be used on ladders, so dismount timing matters in high traffic rooms.
+- Combat
+  - Mega Buster tap fire with rapid rhythm is still king for popcorn enemies. Charge shot does not exist yet.
+  - Contact damage is high in this entry. Enemy knockback near pits is a core risk.
+- Companion system: Rush
+  - Rush Coil is a springboard to reach high items and mid-boss ledges.
+  - Rush Jet allows free horizontal travel with limited vertical correction. It consumes energy and promotes sequence breaks.
+  - Rush Marine is a water-only sub. Niche but stylish in Gemini waterways.
+- Items and economy
+  - E-Tanks return and are crucial for Doc Robot consistency and late fortress safety.
+  - Extra lives are common in risky side corridors. Route knowledge converts lives into fortress learning attempts.
+- Passwords and pacing
+  - Password grid returns for long play sessions. Doc Robot chapter increases total playtime and resource pressure.
+- Robot Masters and Stage Flavor
+- Fan-designed Robot Masters (huge contest). As with MM2, Capcom solicited boss designs from fans—reports put ~50,000 submissions, eight of which became the game’s Robot Masters.
+- Runner ups received a pencil tin and ID card
+- Top Man
+  - Spinning platforms and simple fodder teach slide timing. Weapon reward is Top Spin, a contact-based attack with quirky energy use.
+- Shadow Man
+  - Dark rooms and quick fall traps stress caution. Shadow Blade is a short-range boomerang that angles upward, great for air control.
+- Spark Man
+  - Vertical shafts with battery lifts and timed discharges. Spark Shock is a stunning shot with limited boss utility but useful for certain mid-bosses.
+- Magnet Man
+  - Magnetic pulls, suspended magnet blocks, and sniper bots. Magnet Missile tracks in a gentle homing arc.
+- Hard Man
+  - Bee swarms and petrify drops. Hard Knuckle is a slow, heavy projectile that can be steered slightly after firing and can break certain walls.
+- Gemini Man
+  - Water galleries, reflective surfaces, and twin-boss mirror fight. Gemini Laser bounces off walls which enables creative lines and also wastes ammo if mis-aimed.
+- Needle Man
+  - Tight corridors and porcupine hazards. Needle Cannon is a fast tap-fire that shreds many minibosses.
+- Snake Man
+  - Serpentine platforms that wrap around the screen. Search Snake crawls along floors and up small steps, excellent for low targets.
+- Weakness Web and Routing Notes
+- The game supports many viable route orders. Players often open with Top Man or Snake Man to secure a safe first win.
+- There’s a small stage-select oddity: MM3’s weakness chart isn’t a perfect loop—you’ll typically defeat at least two bosses without having their primary weakness because the cycle splits into a 5-boss loop and a 3-boss loop.
+- Doc Robot requires you to think in terms of Mega Man 2 bosses. Keep a spread of weapon energy before entering those rooms since several MM2 patterns are best countered by specific MM3 tools.
+- Practical tip: conserve Rush Jet for two notorious jumps in the Wily stages and a couple of Doc Robot rooms with sparse platforms.
+- Doc Robot Chapter
+- After the eight Robot Masters, four of the earlier stages are rebuilt with new layouts and enemies.
+- Each of these remix stages contains two Doc Robot fights. Each Doc Robot loads the move set of a different Mega Man 2 boss. You fight eight MM2 patterns in total.
+- Design purpose: a victory lap through MM2’s best ideas inside MM3’s weapon ecosystem. Difficulty spikes here, which is why E-Tank planning and Rush usage matter.
+- Wily Fortress and Endgame
+- Fortress maps lean into long autoscrollers, spike halls, and ammo checks. Several rooms are balanced around Rush Jet consistency.
+- The final boss sequence culminates with the Gamma fight. Damage windows encourage careful positioning and selective weapon use.
+- Post-fight story beat: Wily’s fortress collapses, Proto Man intervenes off-screen, and the credits tease his identity.
+- Graphics and Sound
+- Visuals
+  - Colorful industrial themes with large set piece sprites, like Gemini’s reflective pools and Magnet Man’s cranes.
+  - Animated backgrounds and screen-space gimmicks sell the factory, lab, and cavern motifs.
+- Music
+  - Iconic stage music for Snake Man, Gemini Man, and Needle Man are fan favorites. Proto Man’s whistle leitmotif debuts here.
+  - Sound effects emphasize slide friction, Rush transforms, and weapon distinctiveness.
+- Development and Context
+- Shipped during a very busy period for Capcom. The team expanded the scope with the Doc Robot replay and the new mobility kit.
+- Development on Mega Man 3 began at Capcom over a year after the release of Mega Man 2. Akira Kitamura, the lead supervisor for the first two games quit his job at the company during that gap of time.[2] Artist Keiji Inafune, credited as "Inafking", considered Mega Man 3 as one of his least favorite entries in the series due to "[...] what went into the game and what was behind the release of the game
+- Difficulty and Mastery Tips
+- Slide early and often. Sliding through contact does not grant full invulnerability but it reduces exposure windows.
+- Learn a safe first clear. Needle Man with Mega Buster and controlled jumps is a common early target if you do not like Top Man openers.
+- Map your Rush Jet usage. Treat weapon energy as a limited mobility budget, not only as offense.
+- Doc Robot discipline. Enter each Doc Robot room with near-full weapon energy and at least one E-Tank until you internalize patterns.
+- Boss practice. Several Robot Masters have simple counters that punish impatience more than poor aim. Do not jump into Needle Man on reaction. Wait and punish.
+- Beyond the Game
+- Proto Man as character seed. The rival archetype here blossoms into playable forms and story beats in later entries.
+- OST legacy. Mega Man 3 tracks are frequent subjects of fan covers, live VGM sets, and chiptune competitions.
+- The game shipped with a famous quirk: plugging in a second controller lets you do things like super-high jumps (hold Right on pad 2). TCRF documents this and notes it’s removed in the European version.
+- The PS1 Rockman Complete Works version adds Navi Mode (on-screen hint popups) and optional arranged music; these features were later included (in modified form) in Mega Man Anniversary Collection
+- Versions and Availability
+- Original NES cart. Included later in compilation releases like Anniversary Collection and Legacy Collection.
+- Wily Wars on Mega Drive remakes Mega Man 1 through 3 with 16-bit art and slightly different physics. It is an interesting curio for MM3 routing conversations.
+- Discussion Questions
+- What single mechanic makes MM3 feel the most different from MM2: slide, Rush Jet, or Doc Robot remixes?
+- Which stage best teaches slide value without text, and which abuses it?
+- Favorite track and why does it fit the stage pacing?
+- Is the Doc Robot chapter a clever encore or a momentum breaker?
+- What one change would you make in a remaster without losing the 1990 feel?
+- Listener Prompts
+- First stage you cleared as a kid and why.
+- Your go-to opening route today.
+- One Rush Jet skip you still find satisfying.
+- Wrap-Up
+- Where does Mega Man 3 rank in the NES run compared to 2 and 4.
+- Tease next episode.

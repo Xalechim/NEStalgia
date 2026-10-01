@@ -1,0 +1,58 @@
+# 373 - Skate or Die 2: The Search for Double Trouble
+
+- The Search for Double Trouble
+- General Information
+- A skateboarding-themed action/adventure game for the Nintendo Entertainment System (NES).
+- Developed and published by Electronic Arts (unlike the original NES port, which was developed by Konami and published under Ultra Games).
+- One of only two NES games self-published by Electronic Arts (the other being The Immortal).
+- We received listener mail about this! The skater on the cover is Jef Whitehead, later known as the sole member of the black metal project Leviathan.
+- Characters
+- Everyone has this punk or skater aesthetic to them in this game, and then you meet the hero. The most vanilla character
+- The Hero – Unnamed male skateboarder, starts with a paintball gun and throwable weapons.
+- CJ – The hero's girlfriend.
+- Rodney (dangerfield) – Returning character from Skate or Die!, sells new skateboards.
+- Lester – Rodney’s son, teaches new tricks in exchange for collected items.
+- Icepick – The main villain, a thug who kidnaps CJ.
+- Gameplay
+- Side-scrolling action skateboarding game
+- Customizable controls for skateboarding moves and weapons.
+- Weapons: Paintball gun (primary), eggs, and firecrackers.
+- Bartering system: Items like CDs, cassette tapes, fries, and tacos can be traded for tricks and boards.
+- Five skateboards available:
+  - Default board – Slow, low jumps.
+  - Two upgraded boards (faster, higher jumps).
+  - Two specialty boards (one fast but with poor jumping, one slow but jumps high).
+  - Must acquire boards in stage one to access upgrades in stage three.
+- Skipping story mode: Players can jump straight to the Double Trouble half-pipe from the title screen.
+- Plot Overview
+- Opening Cutscene
+  - Set in Elwood, the hero accidentally runs over the mayor’s wife's poodle.
+  - She convinces the mayor to ban skateboarding.
+  - The hero must confront her with a paintball gun in a warehouse.
+- Stage One – Streets of Elwood
+  - The hero fights skaters and collects items.
+  - Can meet Rodney and Lester for new tricks and boards.
+  - Ends with a paintball showdown against the mayor’s wife.
+- Stage Two – Shopping Mall
+  - The hero gets a job as a delivery boy to earn money for a new half-pipe.
+  - Navigates shoppers, skaters, and security guards.
+  - Earns tips (extra weapons and items) for timely deliveries.
+- Stage Three – Beach
+  - The hero must recover scattered blueprints for the half-pipe.
+  - Faces roller skaters, crabs, seagulls, and bodybuilders.
+  - Can meet Rodney and Lester again for more upgrades.
+- Stage Four – Warehouse (Icepick’s Hideout)
+  - The hero must navigate a multi-floor maze to rescue CJ and retrieve the building permit.
+  - Climaxes in a rooftop battle against Icepick.
+- Conclusion
+  - With CJ rescued (she has this batting eyelash animation) and the permit secured, the new half-pipe is built.
+  - The game ends with the player using Double Trouble.
+- Double Trouble (Half-Pipe Mode)
+- Larger than the original Skate or Die! half-pipe, featuring two screens.
+- Time limit: 3 minutes to perform tricks.
+- Game over after 3 wipeouts (unless using a cheat code for unlimited boards).
+- Scoring streak bonus: CJ appears in a window, doubling points temporarily.
+- Reactions based on score:
+  - Worst reaction: Hero smashes board on his head and exclaims, "No way, dude!"
+  - Best reaction: Hero spins board on his finger and shouts, "Way cool, dude!" (earned by exceeding 30,000 points).
+- This breakdown provides a detailed yet digestible summary of Skate or Die 2, covering gameplay, characters, plot, and mechanics. Let me know if you need any tweaks!

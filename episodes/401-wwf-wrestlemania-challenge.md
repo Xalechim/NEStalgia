@@ -1,0 +1,49 @@
+# 401 - WWF Wrestlemania Challenge
+
+- Go head-to-head with eight of the biggest WWF Superstars
+- Introduction
+- Hosts: Mike (run of show), Joe (excited contrarian), Sean (cynical historian).
+- What it is: 1990 LJN-published, Rare-developed WWF game with a distinctive isometric ring view, a simple timing-based grapple/strike system, and multiple match types (1v1, Tag, Survivor Series).
+- Why it matters: A big leap over the first NES WWF WrestleMania—cleaner visuals, a more readable ring, and the debut of the “Yourself” custom-named wrestler for single-player title climbs.
+- On‑air openers
+- The isometric camera or the roster?
+- Did you main a real superstar or stick with “Yourself” to run the ladder?
+- YOURSELF as the birth of the iconic character creator in sports games?
+- Release, Credits & Context
+- Year/Platforms: NES (1990, NA/EU).
+- Developer/Publisher: Rare for LJN (WWF license).
+- Place in series: Follows NES WWF WrestleMania (1989); precedes WrestleMania: Steel Cage Challenge (1992).
+- Presentation: Ring announcer-style title cards, short anthemic themes, large TV-broadcast ring angle.
+- Modes & Match Types (teach early; drop questions inside)
+- Exhibition (1v1): Pick any superstar or Yourself for a quick match.
+- Tag Team: 2‑on‑2 with on‑the‑apron partner; hot tags swing momentum.
+- Survivor Series: 3‑on‑3 elimination—pin or count‑out to remove opponents until one side remains.
+- Championship / Title Run (solo): As Yourself, climb a gauntlet of WWF stars to win the belt.
+- Roster (call out highlights; not exhaustive)
+- Hulk Hogan, Ultimate Warrior, “Macho King” Randy Savage, Andre the Giant, Brutus “The Barber” Beefcake, Ravishing Rick Rude, Big Boss Man, HACKSAW JIM DUGGIN plus the player‑avatar Yourself.
+- Each superstar has stat‑tuned tendencies (damage/pace) but no unique animated finishers—wins come from timing, positioning, and stamina management rather than signature moves.
+- Discuss now
+- Did you pick based on kayfabe fandom or on who “felt” strongest in-game?
+- Which entrance theme snippet lives rent‑free in your head—and does it match the in‑ring feel?
+- Controls, Camera & Core Mechanics
+- Isometric ring: Does the isometric angle feel intuitive or does it cause missed lines and whiffs?
+- Strikes & grapples:
+  - A/B perform light/heavy strikes depending on distance and timing.
+  - Close‑in clinch triggers a simple grapple resolution—who pressed at the right time gets the throw/slam.
+  - Running attacks off the ropes and corner strikes are context‑sensitive.
+- Tag basics: Stand near your corner and input to tag; partner recovers slowly off‑screen.
+- Defense: Step off‑angle to make strikes miss; bait whiffs and counter‑clinch.
+- Pins & Kick‑outs: Pin a weakened foe; the defender mashes to kick out before the 3‑count.
+- Ring‑out & Count‑outs: You can spill outside—ref counts toward 10; re‑enter to break the count.
+- Stamina/Health & Momentum Flow
+- Health bars drain toward the center of the HUD; red → yellow → critical.
+- Do Momentum swings exist: Hot tags, rope rebounds, etc.
+- Discuss now
+- Better to grind with jabs or fish for early grapples—what wins more often for you?
+- Single‑Player Ladder (Yourself → Champion)
+- Yourself: Enter a custom name; balanced stats.
+- Gauntlet: Face mid‑carders first, then top stars
+- Continue/Retry: Password or limited continues depending on region; losing late in the gauntlet stings.
+- Discuss now
+- Does the sparse audio help the “arena” vibe, or does it need more pump‑up music between falls?
+- The bell has rung and the ref is counting. Is this a three-count for the ESSENTIAL GAMES LIST?

@@ -1,0 +1,148 @@
+# 420 - Ultima: Quest of the Avatar
+
+- FREE 64 PAGE FULL COLOR HINT BOOK INSIDE! A $10 VALUE
+- 1. General Overview (NES version)
+- What it is: An open-world, party-based RPG where the win condition is not “kill the Dark Lord,” it is prove you can live as an Avatar by mastering eight virtues. Wikipedia
+- Where it sits in the series: Ultima IV (1985) is the pivot point from the earlier “Age of Darkness” games into the “Age of Enlightenment” trilogy. Wikipedia
+- NES release identity: On NES it was released as Ultima: Quest of the Avatar (FCI and Pony Canyon), and it is a major redesign rather than a straight port. Wikipedia+1
+- Offbeat questions7
+- What do you think about an RPG you “behave,” your way through rather than one you “beat”
+- 2. Quick recap of Ultima I to III (how they evolved, not just plot)
+- Ultima I (1981): the blueprint, and a kitchen sink
+- Core shape appears: Overworld exploration plus dungeon crawling, early “open world” vibes. Wikipedia
+- Wild design swing: It even includes a first-person space combat segment, which is very “early PC RPG trying everything.” Wikipedia
+- Ultima II (1982): scale, assembly speed, and time travel as structure
+- Bigger scope: Explicitly described as having a larger world and gameplay advances vs Ultima I. Wikipedia
+- Time travel becomes the gimmick and navigation puzzle: multiple eras linked by time doors, plus optional Solar System travel. Wikipedia
+- Series tradition starts: It is cited as the first Ultima to include a map in the box, a tradition that became part of the franchise identity. Wikipedia
+- Ultima III: Exodus (1983): the party game and tactical combat “click”
+- Huge mechanical leap: You now control a party of four, not a single hero. Wikipedia
+- Tactical battles: When combat triggers, it shifts to a separate tactical battle screen where each party member takes turns. Wikipedia
+- Classes expand the “build” conversation: Multiple classes, party composition becomes a real decision. Wikipedia
+- 3. What Ultima IV changes (the big franchise evolution moment)
+- New mission statement: Ultima IV shifts away from “hack and slash, dungeon crawl” priorities into a more ethically driven, story-forward structure focused on moral self-improvement. Wikipedia+1
+- Virtue-first design: Your actions change how NPCs treat you, and your progress is measured through the Eight Virtues, not a final boss checklist. Wikipedia+1
+- World and interactivity expand: Larger world than earlier entries, more dialogue focus, more travel systems. Wikipedia
+- Offbeat questions
+- Is Ultima IV basically “a philosophy class disguised as an RPG,” or is it still a classic grindy RPG with a smarter framing? The New Yorker+1
+- NES vs PC: what you gain and lose (Ultima IV)
+- What you gain on NES
+- A cleaner, console-native presentation: Graphics and music were completely redone for the NES release, so it feels like a bespoke console RPG, not a straight computer port. Wikipedia
+- Less spell friction: Spellcasting is simplified, including removing the need to mix spells. (In practice, the NES spell list and recipes are also adjusted, with some spells removed and others added.) Wikipedia+1
+- Party size as a convenience lever: Since the game caps you at four party members, battles can be quicker and simpler to manage than the full “bring everyone” computer experience. Wikipedia+1
+- What you lose on NES
+- Conversation depth and world texture: The original computer versions are built around a typed keyword conversation system, and the NES port greatly reduces dialogue options, which can flatten investigation and role-play nuance. Wikipedia+1
+- Less of the “big PC RPG” feel: The NES changes are explicitly tied to cartridge constraints versus multi-disk computer releases, so the game is more curated and condensed overall. Wikipedia
+- 4. NES version specifics (what makes this version its own thing)
+- This is the part worth treating like a “remake design document.”
+- Redone presentation: Graphics and music were completely redone. Wikipedia+1
+- Conversation system heavily reduced: Dialogue options are greatly reduced compared to other versions. Wikipedia
+- Party management changes:
+  - You cannot have all seven recruitable characters available at once
+  - Party is limited to four, others stay at a hostel in Castle Britannia and you have to return to swap Wikipedia+1
+- Combat and convenience:
+  - Adds an automated combat option Wikipedia
+- Magic simplified:
+  - Spellcasting simplified, including removing the need to mix spells Wikipedia
+- Offbeat questions
+- Do you think you are playing Ultima IV, or “Ultima IV: The Highlights”?
+- 5. Story and Objective (Ultima IV in one breath)
+- Setting: After the first trilogy’s villains are gone, Lord British believes the world needs a new purpose, so he declares the Quest of the Avatar. Wikipedia
+- Goal: Achieve enlightenment in all eight virtues, then descend into the Stygian Abyss and reach the Codex of Ultimate Wisdom. Wikipedia+1
+- Three quarters of the world disappeared, continents rose and sank, and new cities were built to replace the ones that were lost.
+- The Significance of 8
+  - 8 virtues
+  - 8 towns
+  - 8 characters
+  - 8 directions
+  - 8 moon gates
+- 6. Character creation and “Virtue as build”
+- The gypsy test: Instead of point-allocated stats, you answer ethical dilemmas that determine your starting profession tied to a virtue. players must rank the Eight Virtues and whichever stands as their highest priority determines the type of character they will play.
+- Human-only: Ultima IV locks you to human race. Earlier games allowed other races. Wikipedia
+- Virtue profession quick hits (1–2 lines each)
+- Honesty: Mage
+- Compassion: Bard
+- Valor: Fighter
+- Justice: Druid
+- Sacrifice: Tinker (or Julius in NES)
+- Honor: Paladin
+- Spirituality: Ranger
+- Humility: Shepherd
+- Offbeat questions
+- Does it feel cool that your “class” comes from your answers, or does it feel like a quiz you want to game immediately? Wikipedia
+- 7. Core gameplay loop (what you do for dozens of hours)
+- Explore Britannia: Towns, castles, wilderness, dungeons, shrines. It is open-ended and most objectives can be tackled in many orders. Wikipedia
+- Talk and learn: Gather clues, learn mantras, find runes, locate shrines. Wikipedia
+- Manage virtue: Your choices in mundane actions (stealing, running, bragging, giving) matter as much as your combat wins. Wikipedia
+- Train, gear up, and survive: Leveling and equipment still matter, but they support the virtue quest rather than replace it. Wikipedia
+- 8. Combat and party play
+- Core system: Like Ultima III, the series uses party-based tactical battles. Wikipedia+1
+- Terrain matters: Battle landscapes shift based on where you are when combat begins. crpgaddict.blogspot.com
+- The battle command list (what each one really does)
+- The NES battle menu is basically five options:
+- 1) AUTO
+- AUTO lets the computer decide what that character should do.
+- The manual notes that AUTO often repeats the last command you input and that it rarely uses projectile weapons or magic. So it’s convenience-first, not “smart tactics.” Digital Press
+- 2) ATTACK (and how it chooses melee vs ranged)
+- This is a big one on NES.
+- If you are in range for a hand-held (melee) attack, the character uses their hand-held weapon.
+- If you are out of melee range, the character will use a projectile weapon (if equipped). Digital Press
+- 3) CAST (spells in battle)
+- CAST opens your spell list, you choose a spell, and then you choose a target using the same target box idea used for projectiles. Digital Press
+- Spells depend on your herb (reagent) supply. The manual notes that if you don’t have the required herbs, the target box won’t appear, and you’ll get a message indicating the entire party does not have the herbs for that spell. Digital Press
+- 4) USE (items in battle)
+- USE in battle works like USE in the normal command list: you pick any item the party is carrying and use it with that character. Digital Press
+- 5) MOVE (positioning, spacing, and retreat)
+- MOVE puts an arrow next to the party member and you select a direction for them to move. Digital Press
+- Retreating is not a separate button. To retreat, you use MOVE and walk a character off any edge of the screen.
+- And it’s not “one command and everyone escapes.” Each character must retreat off-screen individually. Digital Press
+- Important Ultima IV flavor: the manual warns that retreating can lower your Virtue level. Digital Press
+- Ranged weapons are disproportionately strong on NES
+- Because ATTACK naturally swaps between melee and ranged based on distance, ranged setups become very dominant:
+- StrategyWiki flat-out notes that ranged weapons give a strategic advantage by hitting enemies before they can reach you, and that if the whole party is equipped with bows, you’ll often win before enemies land even one hit. StrategyWiki
+- That matches the “shape” of NES fights: lots of enemies, lots of spacing, and your first priority is often to start removing threats before they close in.
+- 9. Virtue system (the part you build your episode around)
+- Eight Virtues and how you raise or lose them:
+  - Honesty: Pay fair prices (blind merchants), do not steal. Wikipedia
+  - Compassion: Give to beggars. Wikipedia
+  - Valor: Do not flee. Wikipedia
+  - Sacrifice: Donate blood at healers, help others at a cost. Wikipedia
+  - Humility: Choose humble dialogue responses, avoid boasting. Wikipedia
+  - (And the other virtues are supported via a mix of combat restraint, exploration, shrine progress, and choices.) Wikipedia
+- Shrines, runes, mantras: Find the rune for a virtue, learn its mantra, then meditate at the shrine to advance. Wikipedia
+- 10. Travel systems and “world logic”
+- Multiple travel modes: Foot, horse, ship, and even air travel
+- Time matters: The clock runs while the game runs; certain actions or systems depend on time. Wikipedia
+- 12. Things you’d only know if you played this a lot (especially on NES)
+- Virtue landmines are everywhere: The “wrong” mundane action (stealing from chests, short-changing, bragging, fleeing) can quietly wreck progress. Wikipedia
+- Mini deeper dives with prompts (no jokes)
+- Deeper dive A: Ultima IV as “systemic role-play”
+- Prompt: Is the virtue system encouraging you to role-play a person, or just to obey a rulebook with a halo on it? The New Yorker+1
+- ENDING
+- Confirm you’re truly “maxed”: all 8 virtues are fully mastered (and you have the full party of 8 companions).
+- Gather the Abyss key trio (if you don’t already have them):
+- Bell of Courage
+- Book of Truth
+- Candle of Love
+- Bring the full set of virtue items you’ll need:
+- All 8 Runes
+- All 8 Virtue Stones
+- Go to the entrance of the Great Stygian Abyss and use the Bell, Book, and Candle to open the way.
+- Descend through the Abyss (multi-floor dungeon crawl): survive traps, monsters, and long navigation while pushing deeper.
+- At the virtue “gates”/checkpoints inside the Abyss, use the matching Rune + Virtue Stone to pass each virtue trial and continue downward.
+- Reach the deepest chamber and claim the Codex of Ultimate Wisdom.
+- Return and “complete the quest” by reading/using the Codex to affirm the truths of the virtues, which marks you as the Avatar.
+- 13. Ultima V to VII (how the franchise kept evolving after IV)
+- Ultima V: Warriors of Destiny (1988)
+- Simulation leap: Introduces a time-of-day system and NPCs with daily schedules. Towns start feeling like machines with routines, not static screens. Wikipedia
+- Conversation depth remains: Continues the keyword-based conversation style, with chaining keywords for more detail. Wikipedia
+- Tone shift: The game pushes a more oppressive Britannia and uses systems like the Shadowlords to make the world react to power. Wikipedia
+- Ultima VI: The False Prophet (1990)
+- World continuity jump: Moves to a single-scale, continuous world rather than separate world maps and zoomed-in city maps. Wikipedia
+- Interactivity expands: More object manipulation and a more streamlined interface (including icon-based input), pushing toward modern “immersive world” expectations. Wikipedia+1
+- Perspective change: Dungeons shift away from earlier first-person dungeon style into the same general perspective as the world. Wikipedia
+- Ultima VII: The Black Gate (1992)
+- Major engine and interface transformation: Fully mouse-driven with drag-and-drop item handling. Wikipedia
+- World no longer “feels grid-based”: Movement and item placement are less constrained by visible tiles, and the world becomes more layered and stackable. Wikipedia
+- UI invention that echoes forward: Introduces “gumps” (graphical pop-up interfaces for containers, books, etc). Wikipedia
+- Essential Games List segue

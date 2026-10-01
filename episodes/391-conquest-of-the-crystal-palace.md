@@ -1,0 +1,77 @@
+# 391 - Conquest of the Crystal Palace
+
+- Which opening crystal (Life/Spirit/Flight) do you pick and why?
+- does the game communicate danger well?
+- Is there a fair “no-Zap” or “no-shop” challenge worth recommending?
+- How does the in-game “news report” gag (QNN/Kim) work as early meta-UI storytelling?
+- Introduction
+- Hosts: Mike (on rails), Joe (excited contrarian), Sean (cynical historian).
+- What it is: 1990 side-scrolling action platformer; developed by Quest, published by Asmik in North America; Japanese title Matendōji. Wikipedia
+- Why it matters: Early Quest release that foreshadows talent (e.g., Yasumi Matsuno / Masaharu Iwata collaboration) later known for Ogre Battle / FFT. Wikipedia
+- General Overview
+- Release & Platforms
+  - JP release Aug 24, 1990 (Quest); US release Nov 1990 (Asmik). NES only. GameFAQs
+- Elevator Pitch
+  - Prince Farron + guardian dog Zap reclaim a demon-occupied kingdom across five stages with boss fights and shops mid-level. MobyGames
+- Story & Objective
+- Setup
+  - Demon Zaras usurps the Crystal Palace; Zap spirits infant prince away; years later, you return to retake the realms. Wikipedia
+- Goal
+  - Clear five realms, defeat bosses, and leverage items/companions to survive.
+- Gameplay Mechanics (Deep Dive)
+- Core Controls (NES)
+  - A = jump; B = attack; Down+A cycles sword / Zap / sub-weapon; Select has a hidden function; Start = pause. GameFAQs
+- Companion System: Zap
+  - Summon Zap to attack and screen-control crowds; precise Down + A cursor call from the manual. world-of-nintendo.com
+- Crystals (opening choice)
+  - Flight (higher jump), Life (more HP), Spirit (unlimited fireballs). Power-up effects can also be bought/found. Wikipedia
+- Economy & Shops
+  - Mid-stage shopkeeper Kim sells food, items, and weapons; she also appears as a QNN news reporter with tips/lore. world-of-nintendo.com
+- Sub-Weapons / Scrolls
+  - Ranged scrolls supplement sword; inventory rotation matters in boss phases. (Documented across manual/GameFAQs.) GameFAQs
+- Stage Structure
+  - Horizontal and vertical segments with platforming gauntlets; five themed zones mapped by VGMAPS (useful for on-air descriptions). vgmaps.com
+- Graphics & Sound
+- Look
+  - Distinct Japanese mythic vibe (pagodas, spirits), large bosses for NES limits (contemporary Nintendo Power noted this aesthetic). Internet Archive
+- Music
+  - Credits list Tomohisa Mitsuyasu (composer) and Masaharu Iwata (sound). Up-tempo stage loops aid rhythm play. MobyGames
+- Development & Version Differences
+- Studio / Talent
+  - Built at Quest; sources credit designer Yasumi Matsuno and highlight his first pairing with Iwata (later of Ogre/Tactics). Wikipedia
+- JP ↔ US Changes
+  - Enemy/visual edits (some spooky child motifs toned down), lowered difficulty, and cheat functions added in the US release. Wikipedia
+- Tech Flavor
+  - Smooth scrolling with frequent enemy counts; occasional slowdown reported late-game (review consensus, useful color commentary). classic-games.net
+- Beyond the Game: Culture, Ads, and Media
+- Asmik Context
+  - North American publisher Asmik (pink mascot, later Asmik Ace in film/TV) is a snapshot of early-’90s Japanese media companies straddling games and entertainment. Wikipedia
+- In-Game “News” Gag
+  - Kim of QNN is basically a shopkeeper + broadcaster—nice segue into early meta-UI storytelling in NES games. world-of-nintendo.com
+- Design Lineage Hook
+  - From here to Ogre Battle/Tactics Ogre: discuss how economy, assist systems, and deliberate difficulty telegraph Quest’s taste for tactical play. Wikipedia
+- Versions & Comparisons
+- Matendōji (JP) vs. US
+  - Visual/thematic edits and challenge tuning differences; JP presentation reads a bit darker. Wikipedia
+- Peers on NES
+  - Compare to Vice: Project Doom / Ninja Gaiden / Faxanadu for pacing, shop utility, and late-game spike.
+- Difficulty & Mastery (On-air Tips)
+- Crystal Choice
+  - Spirit trivializes fodder but demands careful boss pattern reads; Flight opens skips; Life is safest blind. (Mechanics per overview.) Wikipedia
+- Zap Timing
+  - Use Zap to regain footing during spawn swarms; don’t over-summon—cooldown leaves you exposed. world-of-nintendo.com
+- Shop Routing
+  - Memorize Kim locations and plan cash for heals vs. weapons; buy before boss gates. world-of-nintendo.com
+- Legacy & Reception
+- Hidden-Gem Reputation
+  - Frequently cited as an overlooked late-era NES title with great music/visuals and uneven difficulty curve; modern retrospectives echo this. classic-games.netReddit
+- Credit Roll Nuggets
+  - Staff list shows several pseudonyms; Iwata appears as sound staff; MobyGames captures the dev roster for name checks on-air. MobyGames
+- Trivia & Quick Hits
+- Select Button “It’s a secret to everyone.” The game winks at NES culture via its own manual/FAQ notes. GameFAQs
+- Map Talker
+  - Use VGMAPS to describe the Stage-1 pagoda ascent and the Staff of Rain Cave layouts on air. vgmaps.com
+- Segment Starters & Listener Prompts
+- “Shop Talk”: Best buy at Kim’s before a boss? (Weapon vs. heal.) world-of-nintendo.com
+- “Companion Corner”: Zap vs. other NES helpers (e.g., options/familiars) and why this one feels proactive. The Cutting Room Floor
+- “Quest Trajectory”: From Matendōji to Ogre Battle/Tactics Ogre—what design DNA carries forward?

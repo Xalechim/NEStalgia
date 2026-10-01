@@ -1,0 +1,57 @@
+# 376 - Street Fighter 2010: The Final Fight
+
+- General Info
+- Released by Capcom for NES in 1990.
+- Side-scrolling action platformer, not a traditional fighting game.
+- Marketed as a sci-fi spin-off of Street Fighter.
+- English localization changed protagonist from Kevin (original Japanese version) to Ken (from Street Fighter).
+- Plot
+- “A LITTLE BACKGROUND”
+- Set in 2010, where interplanetary travel via warp gates is common.
+- Ken, now a scientist, creates a substance called Cyboplasm to enhance organisms.
+- After his partner Troy is murdered and Cyboplasm is stolen, Ken goes on a galactic manhunt.
+- Twist: Troy faked his death and plans to build a superhuman army.
+- Final twist: Ken was secretly dosed with Cyboplasm himself. (Jaws theme playing, Total Recall erased memory)
+- Ken defeats Troy and returns to Earth to stop the spread of the substance.
+- Gameplay
+- Player controls Ken, a retired martial arts champion with cybernetic implants.
+- Objective: Defeat target enemies to gather energy and open a portal to the next level.
+- Must enter portal before timer runs out or lose a life.
+  - That portal SFX is pretty great, like a glow and all music stops
+- Ken can:
+  - Jump, wall-climb, hang, and perform flip jumps.
+  - Fire energy projectiles in multiple directions with punches or kicks.
+  - Upgrade projectile power with capsules (up to 5 levels).
+  - Gain additional power-ups like shields and backup fire support.
+- Damage reduces power level; death resets it to base.
+- Level Design & Structure
+- Many “levels” are just multi-screen rooms with a single enemy and warp gate.
+- Some stages require defeating multiple enemies to spawn the gate.
+- Static levels and auto-scrolling ones.
+  - The first autoscroller requires near perfect timing to clear the area
+  - The second autoscroller is vertical, how does Ken climb on water?
+- Includes psychedelic "interlude" zones that serve little gameplay purpose.
+- Sometimes re-used bosses appear unexpectedly in these zones.
+- Difficulty & Learning Curve
+- Brutally hard from the very start—early boss likely to kill players repeatedly.
+- Defeating the first boss feels like a rite of passage; skills learned there help throughout the game.
+- Gameplay requires mastery of directional shooting, backflips, and angling shots.
+- Weapon weakens when Ken takes damage, making fights harder.
+- Enemies often attack from awkward angles, challenging the player’s timing and positioning.
+- Specific Challenges
+- Auto-scrolling level with back-and-forth motion and tricky timing.
+- Boss with a snake companion that can drag Ken into a sub-level.
+- Final level includes a boss rush + 2-part final boss under strict time limits.
+- Reviewer couldn’t finish the game as a high school rental due to time constraints.
+- Localization Differences
+- Japanese Version:
+  - Protagonist is Kevin Straker, a Galaxy Police cyborg.
+  - Enemies are "Parasites" – humans/aliens enhanced by parasitic insects.
+  - Troy is Dr. Jose, the scientist behind the Parasites.
+  - Kevin himself is revealed to be a Parasite in the final battle.
+- English version heavily altered to connect to Street Fighter lore.
+- Common myth: only the US version referenced Street Fighter — false; Japanese title also includes the name and Kevin appears in official tie-ins.
+- Reception
+- GameSpot: Criticized Ken’s cyborg backstory; compared to Street Fighter movie’s Dhalsim changes.
+- 1UP.com: Called it a “bastard offshoot” with “terrible localization.”
+- ScrewAttack: Not a bad game, just extremely hard; marketing hurt its reputation.

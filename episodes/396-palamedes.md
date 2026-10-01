@@ -1,0 +1,77 @@
+# 396 - Palamedes
+
+- THE ULTIMATE DICE SHOOTING CHALLENGE
+- Introduction
+- Palamedes was a figure in Greek mythology. He is said to be the inventor of dice, which is why a game revolving around dice is named after him. Still a really obscure reference.
+- What it is: A 1990 puzzle game where you choose your next piece on the fly. You hold a die, change its face, and throw it to match dice in a rising wall while banking combos to clear multiple lines.
+- Why it matters: Arrives during the 1990 puzzle boom but carves its own lane with the risk-versus-reward combo tray.
+- On-air questions to open
+- Does the dice-and-hands theme make this feel more like poker
+- Release, Credits, and Context
+- Arcade origin: Taito, 1990. Home versions the same year.
+- NES and Famicom publisher: HOT-B. Development commonly credited to Natsume for the NES home version.
+- Where it sits: Launched alongside Dr. Mario. Palamedes is not a falling-block game. You choose what to throw and when to cash out.
+- Core Rules and Controls
+- Avatar and the held die: Your character stands at the bottom. You always hold one die that you can change.
+- Inputs: B cycles the die 1 through 6. “A” throws the held die straight up to remove the topmost matching die above you. Left and Right move. Down cashes in any completed hand in your tray.
+- Pressure system: New rows creep upward on a timer. If the stack reaches you, you lose.
+- Discuss now
+- Do you prioritize survival clears or play greedy to finish a higher-tier hand before pressing Down?
+- The Hands System - Multi-line clears and risk management
+- How the tray works: Each successful throw also banks that number in a six-slot tray. Cashing in converts hands to line clears and empties only the dice used.
+- Hand tiers and line clears
+  - Sets: 3-of-a-kind clears 1 line, 4-of-a-kind 2 lines, 5-of-a-kind 3 lines, 6-of-a-kind 4 lines.
+  - Runs: 3 in sequence clears 1 line, 4 in sequence 2 lines, 5 in sequence 3 lines.
+  - Three pairs: clears 3 lines.
+  - Blackjack 21: clears 1 line if the six tray dice sum to 21.
+  - 1 through 6 Straight Flush: counts as a run and 21. Clears up to 5 lines and is the biggest swing.
+- Timing and routing
+  - Press Down to cash in. Waiting for a better hand risks a new row spawning while you hold.
+  - Pre-build faces with B while scanning the field. Keep middle numbers 3 and 4 handy so your plan can pivot to runs or sets.
+- Discuss now
+- Do you prioritize survival clears or play greedy to finish a higher-tier hand before pressing Down?
+- Is the six-slot tray the secret sauce that makes this more replayable than a standard match game?
+- THROWING A DIE THAT DOESN’T MATCH SHOULD’VE MADE IT STICK
+- Modes and Structure
+- 1-Player ladder: 20 stages with increasing speed. You can set starting difficulty.
+- 2-Player versus: Each line you clear adds the same number of rows to your opponent. Optional handicaps add extra pressure per clear.
+- Tournament mode: Solo bracket against four CPU opponents. This is the easiest way to see the ending.
+- Discuss now
+- Multiplayer
+- Listener prompt
+- What is your favorite best-of format for tense sets?
+- Feel and Presentation
+- Readable dice faces with strong color coding. That clarity is why high speed is playable.
+- Music is energetic and short-looping. There is a title sound test and simple character flavor in the versus portraits.
+- Discuss now
+- Does the clean UI hold up or did we need more flair?
+- Tips, Tactics, and Skill Ceiling
+- Beginner
+  - Start on difficulty 1 or 2. Favor 3- and 4-length runs or simple 4-of-a-kind sets. Treat 21 and 1-6 as bonus only.
+- Intermediate
+  - Plan two throws ahead. Use quick cash-ins when the add-row timer is low. Keep tray flexibility with 3s and 4s.
+- Versus
+  - Watch your opponent’s tray if visible to predict spikes. Quick 3-line cash-ins during their add-row timing can force a top-out.
+- Discuss now
+- What is one habit that instantly improves new players?
+- Sequel and Follow-ups
+- Palamedes II: Star Twinkles (Famicom)
+- Availability: Japan only on Famicom.
+- Design changes
+  - Field rises from the bottom. You stand on the stack and lose if you get pinned at the ceiling.
+  - NEW chain rule: you can only take a die equal to, plus one, or minus one from the last die taken, which both players influence.
+  - Hands use 4 dice, so cash-outs are frequent and rounds swing faster.
+- Feel
+  - Plays like a pressure cooker. Some players prefer the deliberate planning in Palamedes 1, others love the chaos in Star Twinkles.
+- which game produced the best two-player arguments?
+- Other versions
+- Game Boy Palamedes: Same core rules with a tighter window that often feels faster. Popular for portable sessions, but harder to read at max speed.
+- Microcomputer and Japanese computer ports exist. These are curios outside Japan and do not change the core rules.
+- Community chatter and collecting
+- Hidden-gem reputation: Frequently recommended in NES puzzle threads for quick two-player sessions.
+- Tournament talk: Many players mention that Tournament mode is the path to credits.
+- Sequel sentiment: Palamedes II is often called faster and nastier, with CPU swings that can steamroll inattentive players.
+- Collecting: NES cart is usually affordable. Famicom sequel is more niche but not rare.
+- Wrap-Up
+  - What house rules would you add to freshen two-player night?
+    - Banning 3 pairs?

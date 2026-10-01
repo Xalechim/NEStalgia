@@ -1,0 +1,86 @@
+# 384 - Mendel Palace
+
+- Candy needs your help!
+- Manual
+- Longplay
+- 🕹️ General Overview
+- Title: Mendel Palace (Japan: Quinty)
+- Platform: Nintendo Entertainment System (NES)
+- Genre: Action, Puzzle
+- Modes: Single-player, Multiplayer
+- Developed by: Game Freak (their debut game)
+- Published by:
+  - Japan: Namco (June 27, 1989)
+  - North America: Hudson Soft (October 1990)
+- Key Staff:
+  - Director/Producer/Designer: Satoshi Tajiri
+  - Programmer: Yuji Shingai
+  - Artist: Ken Sugimori
+  - Composer: Junichi Masuda
+- 👤 Story & Objective
+- Plot Summary:
+  - In the American version, you play as Bon-Bon, aiming to rescue his girlfriend Candy, who is trapped in her own dream.
+  - In the Japanese version, the protagonist is Carton, whose girlfriend Jenny has been kidnapped by his jealous younger sister, Quinty.
+- Objective: Navigate through various palaces to defeat enemy dolls and rescue the protagonist's girlfriend.
+- 🎮 Gameplay Mechanics
+- Level Design:
+  - Each level is a single room with a 5x7 grid of floor tiles.
+  - Surrounded by boundary walls.
+- Player Actions:
+  - Flip adjacent floor tiles to propel enemy dolls away.
+  - Revealing new floor tiles underneath.
+- Enemies:
+  - Various enemy dolls with distinct behaviors per palace.
+  - Defeated by flipping them into walls or impassable blocks.
+- Winning Conditions:
+  - Destroy all enemy dolls.
+  - In some cases, create a "stalemate" where all tiles are unflippable.
+- Multiplayer:
+  - Supports two-player cooperative mode.
+- 🧠 Puzzle & Strategy Elements
+- Did it feel more like a puzzle game or an action game to you?
+- Enemy Behaviors:
+  - Each palace introduces dolls with unique actions, such as:
+    - Basic walking.
+    - Swimming.
+    - Aggressive tile flipping.
+- Strategic Play:
+  - Recognize patterns and behaviors to effectively eliminate enemies.
+  - Utilize tile flipping to control enemy movements and create advantageous positions.
+- Did the grid-based movement ever limit your sense of control?
+- 🧸 Enemy Doll Types
+- Variety of Dolls:
+  - Each palace features a specific type of doll with unique behaviors.
+  - Examples include:
+    - Dolls that flip tiles randomly.
+    - Dolls that move in specific patterns.
+    - Dolls that can swim across certain tiles.
+- Boss Levels:
+  - Each world culminates in a boss level with more challenging enemy configurations.
+- 🎨 Graphics & Sound
+- Visuals:
+  - Bright, colorful, and cheerful graphics with chibi-style sprites.
+  - Clear and readable grid layout enhances strategic gameplay.
+- Did the game’s dreamlike or surreal theme come through in the design?
+- Audio:
+  - Energetic and catchy music composed by Junichi Masuda.
+  - Whimsical sound effects complement the game's playful aesthetic.
+- 🤝 Multiplayer
+- Cooperative Play:
+  - Two players can play simultaneously.
+  - Adds an element of teamwork and coordination.
+  - Potential for unintentional sabotage if players are not synchronized.
+- Could the game have worked as a competitive mode, like Bomberman?
+- 🌟 Unique Features & Legacy
+- Game Freak's Debut:
+  - First game developed by Game Freak, founded by Satoshi Tajiri.
+  - Success of Mendel Palace inspired Tajiri to create the Pokémon series.
+  - Did you know this was Game Freak’s first game? Can you see any Pokémon DNA in it?
+- Cancelled Remake:
+  - A remake for the Super Nintendo Entertainment System (SNES) was planned for Japanese distribution via the Nintendo Power service but was never released.
+- Legacy:
+  - Recognized as a hidden gem on the NES.
+  - Noted for its unique blend of action and puzzle mechanics.
+- 💭 Fun & Speculative
+- Which doll should be a Pokemon?
+- If you had to design your own palace with a custom doll type, what would it be?

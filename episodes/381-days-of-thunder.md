@@ -1,0 +1,63 @@
+# 381 - Days of Thunder
+
+- Core Features:
+- 1. Racing Action
+- The game features stock car racing, where players take control of the driver, Cole Trickle, as they race against a field of competitors on different tracks.
+- There are various tracks to race on, some based on real-life NASCAR courses, with a top-down perspective and scrolling roads.
+- Players can race in both single-player mode or two-player split-screen mode, which adds some competitive multiplayer fun.
+- 2. Car Handling & Controls
+- The driving mechanics are relatively simple, with the player controlling the car’s speed and direction while avoiding obstacles.
+- Players can shift gears, manage fuel and tires in pit stops, and deal with the challenges of maintaining speed and handling, including navigating through other cars.
+- 3. Pit Stops
+- In true NASCAR fashion, players must pit during races to repair damage and refuel their car.
+- Pit stops are a unique minigame within the game, requiring players to complete a series of tasks in a short time to minimize their loss in time.
+- 4. Qualification & Progression
+- The game features a qualification mode where players must race to secure a spot in the main race.
+- Players must race through different stages, including preliminary qualifying events leading up to the major races, culminating in the championship event.
+- 5. AI Competitors & Rubberbanding
+- The game features AI-controlled competitors that can be quite aggressive. They tend to follow a rubberbanding AI model, meaning they can catch up if you make a mistake but also fall behind if you're doing well.
+- The difficulty can sometimes feel unfair as the AI seems to adapt to the player's progress, making it challenging to maintain the lead.
+- 6. Graphics & Visuals
+- The graphics are basic by today’s standards, but considering the limitations of the NES, the game’s visuals aim to provide a sense of speed and excitement.
+- The top-down view offers a bird’s-eye perspective of the car and the track, with fairly simple sprite work for the cars and the environments.
+- Scrolling backgrounds represent the racecourse and the other cars in a somewhat repetitive manner.
+- 7. Audio & Music
+- The game features a limited soundtrack with sound effects that enhance the racing experience, but it lacks a memorable or catchy tune.
+- The engine sounds and crash effects are standard for a racing game of its time, but the overall audio design is rather sparse compared to other games of the era.
+- 8. Movie Tie-In & Story
+- The game loosely follows the plot of the movie, where players assume the role of Cole Trickle, aiming to win the NASCAR championship.
+- The licensed characters and names from the film, such as Cole Trickle and the antagonist Rowdy Burns, make brief appearances in the game, but the story is largely absent except for some pre-race introductions.
+- 9. Two-Player Mode
+- Days of Thunder supports a two-player split-screen mode, where both players race simultaneously. This adds an extra layer of competition, but the lack of refined multiplayer dynamics makes it a bit of a chaotic experience.
+- Summary of Features:
+- Stock Car Racing: Authentic NASCAR experience with car handling, pit stops, and qualifying.
+- Pit Stops: Minigame mechanic for refueling and repairs.
+- Qualification Mode: Earn your way to the championship through qualification rounds.
+- AI Opponents: Challenging, with rubberbanding mechanics.
+- Graphics & Sound: Simple visuals and sound, aiming for immersive racing feel.
+- Multiplayer: Two-player split-screen racing.
+- Movie Tie-In: Based loosely on the Days of Thunder film.
+- Driving Mechanics & Controls
+- Did you find the car handling responsive, or was it more like wrestling a shopping cart on ice?
+- How easy was it to stay on the track at high speeds—was there any room for finesse?
+- Was downshifting and upshifting intuitive, or did the gear system just get in the way?
+- Pit Stops
+- The pit stop minigame is infamous—how long did it take you to figure out how to do it correctly?
+- Did the game explain the pit mechanics at all, or was it trial and error every time?
+- Did managing your fuel and tires add to the strategy, or just break the pacing?
+- AI & Difficulty
+- The computer racers seem to have rubberband AI—did that make the races feel tense or unfair?
+- Was there a real learning curve to beating opponents, or did wins feel random?
+- Did the other drivers feel like competitors, or just obstacles?
+- Game Progression & Design
+- Did it feel rewarding to qualify and progress through the different races, or did it all blur together?
+- Did the game do a good job creating a sense of progression from the Daytona race to the championship?
+- Were the qualifying laps genuinely important, or just frustrating roadblocks?
+- Visuals & Audio
+- How well does the game replicate the NASCAR atmosphere with its limited NES graphics?
+- Did the perspective and speed feel immersive or disorienting?
+- The music during races is basically nonexistent—was that a good choice to focus on sound effects, or did it make things dull?
+- Licensed Tie-In Elements
+- Did Days of Thunder feel like a faithful adaptation of the movie, or just a generic racing game with a logo slapped on?
+- Was there any actual story or character involvement, or just a name-drop of Cole Trickle?
+- Did knowing the film make you appreciate the game more, or did it set expectations it couldn’t meet?

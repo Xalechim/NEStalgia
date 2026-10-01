@@ -1,0 +1,38 @@
+# 398 - Puzznic
+
+- Be Prepared for Many long nights of frustration and excitement
+- Introduction
+- Do you want to describe your game as Frustrating?
+- What it is: Taito’s 1990 NES port of the 1989 arcade tile‑matcher. Slide pieces so identical shapes touch and vanish while gravity and stage gadgets rearrange the board.
+- LIGHT STORY: You apparently play as someone maybe even yourself who has solved all the other video games and now its time for Puzznic. Its like you’re retired.
+- Why it matters: A pure logic puzzler on NES with two distinct modes (Puzznic & Gravnic), generous continues, and a 160‑puzzle campaign.
+- On‑air openers
+- Are you a “count the pairs” methodical solver or a “feel the cascade” improviser?
+- Release, Credits, and Context
+- Arcade by Taito (1989) → NES/Famicom by Taito (1990); home computer ports by Ocean around the same time.
+- NES cartridge: single‑player only, password support, unlimited continues.
+- Modes & Core Rules (teach early; ask questions inside each)
+- Mode 1: PUZZNIC (classic)
+- Goal & structure: 16 stages × 10 puzzles each (160 total). Clear every piece by matching like symbols in 2 or more combos. before the timer hits zero.
+- Input/flow: Move the red cursor onto a block, hold A or B, then press Left/Right to slide that block horizontally; release to drop. Gravity pulls pieces down, creating cascades when supports disappear.
+- Matching rule: Any two or more identical shapes touching (adjacent or stacked) vanish. Odd counts require a three‑in‑one move or creative cascade.
+- Shapes you’ll see: diamonds, cubes, plus signs, grids, spheres, pyramids, X’s, shields. (Icons vary by level theme.)
+- Stage widgets: ledges, wells, one‑tile shafts, and moving platforms that ferry pieces across gaps (timing puzzles).
+- Safety nets: Retry the current puzzle up to two times; unlimited continues (score resets) and passwords between levels.
+- Discuss now
+- Does the timer enhance focus or discourage experimentation? How often do you burn a Retry versus ride out a bad board?
+- Strategy beats (sprinkle while solving on-air)
+- Temporary pairs: Make a pair just to drop a third into place, then cash all three.
+- Trap awareness: Avoid sliding a unique piece into a dead pocket you can’t reopen.
+- Mode 2: GRAVNIC (gravity shifter)
+- Goal & vibe: No direct block sliding—you change gravity to move all pieces at once.
+- Input/flow: D‑Pad sets gravity (Left/Right/Up/Down); tap A or B to activate gravity so every free piece slides/falls in that direction. Repeat to steer the pile into matches. (No per‑piece movement.)
+- Win/fail: Same match rule (touching identicals vanish); some layouts have fewer “safe” states, so one bad shift can strand singles.
+- Discuss now
+- Which mode clicks faster for new players? Does Gravnic feel clever or chaotic on a first play?
+- What’s one mental trick for predicting where the whole field will end up after two shifts?
+- Difficulty & Mastery (insert after first tough board)
+- Read ahead: Before moving, count symbols and mark where a third piece could land.
+- Edge play: Use ledges to stage two pieces, then drop the third from above.
+- Platform timing: In moving‑platform puzzles, set passengers before toggling the ride; don’t chase it.
+- Fail smart: Learn when a board is unwinnable (e.g., solitary symbol sealed in a pit) and tap Retry.

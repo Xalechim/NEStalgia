@@ -1,0 +1,89 @@
+# 385 - A Nightmare on Elm Street
+
+- It’s a horrible nightmare come true!
+- 🕹️ General Overview
+- Released: 1990 (North America)
+- Developer: Rare
+- Publisher: LJN
+- Based on: The Nightmare on Elm Street film series (primarily the first few films)
+- Genre: Platformer, Action
+- Players: 1–4 player support with NES Four Score
+- Notable: One of the rare NES games to support 4-player simultaneous gameplay.
+- 👻 Story & Objective
+- You’re a teenager in Springwood trying to stop Freddy Krueger once and for all.
+- Collect the bones of Freddy scattered across various locations and burn them in the boiler room.
+- Freddy appears at random to attack—especially if you fall asleep!
+- 🧠 Gameplay Mechanics
+- Platforming action with light combat against dream creatures and zombies.
+- Game takes place across Elm Street locations: junkyard, cemetery, school, Freddy’s house, etc.
+- Each level has bones to collect (necessary to complete the stage).
+- Sleep Meter: If you stay inactive too long or get hit, your character falls asleep.
+  - Once asleep, enemies become harder, but you gain dream warrior powers.
+- Was falling asleep more of a benefit or a punishment?
+- ☕ Sleep Mechanic Adds Strategic Depth
+- The game features a sleep meter that depletes over time or when you take damage. When it runs out, you fall asleep and enter the dream world, facing tougher enemies but gaining dream powers.
+- You can wake yourself up with coffee cups or a boombox. This system adds a clever layer of strategy to platforming.
+- 🌙 Awake vs. Dream World
+- In the real world, enemies are basic (zombies, bats).
+- In the dream world, enemies are more intense, with unique sprites.
+- Players get special powers in dream state:
+  - Ninja (shurikens, wall jump)
+  - Acrobat (flying kick)
+  - Necromancer (magic projectile)
+- Can be awakened by collecting coffee cups or a boombox item.
+- “Which Dream Warrior was the most fun—or most broken?”
+- This mechanic is a nod to the movie A Nightmare on Elm Street 3: Dream Warriors, where kids had powers in their dreams.
+- 🕷️ Enemies & Bosses
+- 👻 Freddy Factor
+- What’s the scariest Freddy transformation in the game?
+- Does Freddy's random appearance still hold tension today?
+- Freddy forms include:
+  - Freddy Snake
+  - Freddy’s ghost form
+  - Freddy’s head
+  - Full Freddy
+- Regular enemies are fairly generic monsters.
+- Boss battles are frequent and typically occur after collecting all bones in a stage.
+- 🧤 1. You Were Originally Going to Play as Freddy
+- In the game’s early concept, players would control Freddy Krueger himself, hunting down teenagers trying to collect his bones.
+- Nintendo, wary of the optics of letting players embody a supernatural child murderer, rejected the idea, prompting Rare to flip the design and cast Freddy as the antagonist instead.
+- Source: Nintendo Power
+ Also noted on MobyGames and VGMPF
+- 🎨 Graphics & Sound
+- Visuals:
+  - Dark, atmospheric palette with occasional vibrant sprites.
+  - Enemies and Freddy are nicely detailed, given NES limitations.
+- Sound:
+  - Music by David Wise (Donkey Kong Country fame).
+  - Theme is eerie and repetitive—adds to the tension.
+  - Freddy’s entrance is punctuated by an iconic “Freddy’s coming!” audio cue.
+- 🤝 Multiplayer
+- Supports 1–4 players via NES Four Score.
+- All players are identical teenagers, but dream powers vary.
+- Coordination is key when collecting bones—if one player dies, everyone restarts.
+- 🧩 Controls & Design Quirks
+- Controls are serviceable but can feel stiff or floaty.
+- Hit detection is spotty—common issue in LJN games.
+- Bone collection can be tedious—easy to miss one and get stuck.
+- Design is nonlinear in some areas, but progression is mostly stage-to-stage.
+- 🎤 Podcast Questions & Talking Points
+- 🎙️ General Thoughts
+- Did this game surprise you for being an LJN title?
+- How well does it capture the feel of A Nightmare on Elm Street?
+- 🧠 Big Picture
+- How does this stack up against Friday the 13th or other horror NES titles?
+- Do you think A Nightmare on Elm Street could work as a modern indie remake?
+- 💀 Theme & Atmosphere
+- “Does this game actually feel scary, or just weird?”
+- “Did the sleep/dream mechanic change how you played or felt tension?”
+- “Was there a moment when you felt truly ‘in a nightmare’ while playing?”
+- 🎬 Movie Tie-In Comparison
+- “Which movie moment would’ve made a great level or boss fight that wasn’t included?”
+- 🛌 Weird Sleep Mechanics
+- “Would you play other NES games if they had this sleep/dream system (like Mario or Zelda)?”
+- “Any other horror games that toy with the dream state like this one did?”
+- 🧠 Speculative & Hypothetical
+- “What’s scarier: the dream world, or the real-world street punks who uppercut you to death?”
+- 😂 Just for Laughs
+- “Is this secretly a beat-’em-up disguised as a horror game?”
+- “Would Freddy have been OP as a Smash Bros character?”

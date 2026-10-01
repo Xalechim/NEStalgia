@@ -1,0 +1,61 @@
+# NB 039 - Metal Slader Glory
+
+- When it comes to video games, most people hate em, some few love em. Where do you stand on Visual Novels?
+- Are they video games?
+- Is anything that runs on a game console a video game?
+- Given its a VN, we’re going to be very heavy on spoilers for the game so if you haven’t played yet, this is a warning to go play because plot spoilers are basically the gameplay experience.
+- Before we get into the plot though, let’s talk about the Gameplay elements. You’re allowed to reference spoilers.
+- How did you feel about the way the game handled your exploration? It’s not a toolbox of actions, on particular screens you only have what the game wants you to do. Does this simplification trivialize your role in the game?
+- Sometimes you need to ASK someone a subject you’ve already asked them to get new dialogue
+- So does the game sometimes feel like just brute forcing the available options to unlock the next screen?
+- The visual presentation of the game. This is a visual novel
+- Liftoff and opening credits felt amazing for an 8 bit game
+- How’s the quality of the dialogue/descriptions from a translation POV
+- There’s a lot of cringe dialogue in the “side content of this game”
+  - Tadashi mentions that he can see his sisters panties, she says they’re cute, and he agrees? WTF
+- When the game opens up and you have open ended choices (Fighting the alien that kidnaps your sister, persuading Catty to help you)
+- The characters
+- Elina deserves better than Tadashi
+- The Plot
+- Gundam meets The Thing meets Blade Runner
+- Key Events in Metal Slader Glory
+- Introduction and Setup
+  - Year: 2062, eight years after a war between space colonies.
+  - Tadashi, a heavy machine operator on Earth, buys a mech for his business with his girlfriend Elina.
+  - They discover the mech is actually Glory, a powerful, military-grade "Metal Slader" from the war.
+  - A secret message warns that Earth is in danger and urges them to seek the “creator.”
+- Initial Investigation
+  - Tadashi, Elina, and Tadashi’s younger sister Azusa decide to investigate the mech’s origins.
+  - They travel to nearby space stations and colonies near Earth and the Moon.
+- Revelations About Glory and the War
+  - They learn Glory is a one-of-a-kind model once piloted by Tadashi’s deceased father.
+  - The war was not between colonies but against shape-shifting aliens.
+  - The colony rebellion narrative was a cover-up to hide the alien threat.
+- Encounter with the Alien Threat
+  - An alien infiltrates their ship and kidnaps Azusa.
+  - Tadashi and Elina search for Azusa while continuing to investigate Glory.
+- The Secret Organization
+  - They meet Catty, a leader of a secret organization of Slader pilots.
+  - The organization was formed by a deceased Slader designer and works in secrecy because the aliens can mimic humans and infiltrate society.
+  - Catty reveals that they are preparing for an attack on the aliens and want Tadashi to join since only he can pilot Glory.
+- Rescue and Battle Preparation
+  - Tadashi, Elina, and Catty locate Azusa in an abandoned colony after battling several aliens.
+  - Upon returning, they learn that the secret base has been compromised.
+  - They escape on a large ship and prepare the Sladers for a final battle.
+- Final Battle and Resolution
+  - Tadashi pilots Glory in the climactic battle against the aliens.
+  - He successfully destroys the alien ship and saves Earth.
+- It becomes a real time shooter
+- Colony 3 comes and all of a sudden WE HAVE GAMEPLAY
+- Musings
+- KFC guy (Colonel Sanders) at the restaurant
+- A lot of breaks are inconsequential. Going to places should be more interactive and help define characters.
+- We should see if there’s a data room and then a GO action pops up and its to the Data Room
+- Your actions can create interesting dialogue similar to MGS. Going back to somewhere you just were even though no one was there will cause Elina to create new dialogues
+- A lot of recapping even after small events
+- Elina nude bathroom scene
+- Possible mistranslation. McBerry’s restaurant initials need to be M-H to match your fathers, but how would we learn that? Should it have ben McHarry’s
+- After you persuade Catty to help you she tells Enkai to go get her guns. Then lists off like 3 guns from her now distant past. Walther PPK can’t be the latest guns in 2070
+- Getting called out for only talking to Catty in front of Elina
+- The long development time and advanced graphics made Metal Slader Glory the largest Famicom game and one of the costliest to develop. It required a special chip which made the carts expensive to produce. Nintendo only sold enough chips to HAL so they could produce one run. The game was met with mixed reviews, and although the first run sold out, it did not cover the game's advertising budget. The game placed a large financial strain on HAL Laboratory. As the company drove towards bankruptcy, they ceased independently publishing console games and entered a close affiliation with Nintendo.
+- A remake for the Super Famicom was released in 2000 on Nintendo Power flash cartridges, and was the last game released for the system. Both the original and remake were later released on the Virtual Console in Japan.

@@ -1,0 +1,100 @@
+# NB 049 - Idol Hotline: Nakayama Miho no Tokimeki High School
+
+- 1) Elevator Pitch
+- A late-1987 Famicom Disk System “event game” that combines:
+  - A command-based adventure / early dating-sim template
+  - A real-world phone hotline for hints and Miho Nakayama voice messages
+  - A Disk Fax contest where you could register completion for prizes
+- 2) Release and Credits Snapshot
+- Platform: Famicom Disk System (Japan-only)
+- Release date: December 1, 1987
+- Developer collaboration: Square + Nintendo R&D1
+- Key staff to call out on mic:
+  - Director/Writer: Yoshio Sakamoto (Metroid)
+  - Producer: Gunpei Yokoi (Designer of Game and Watch and Game Boy)
+  - Designer: Hironobu Sakaguchi (Final Fantasy)
+  - Composer: Nobuo Uematsu (the GOAT)
+  - Artist: Takashi Tokita (Director of Live A Live, Parasite Eve and Chrono Trigger)
+- Why those names matter: This is a bizarre “parallel universe” where foundational Nintendo and Square talent made a celebrity romance adventure as a short-lived seasonal event.
+- 3) Historical Context You Can Set Up Early
+- A) Idol culture meets games as marketing “events”
+- Miho Nakayama was used as name, likeness, and voice as part of the hook.
+- Framing for the audience: this is closer to a limited-time collab than a “timeless” cartridge game.
+- She made her debut in the 1985 drama Maido Osawagase Shimasu
+- Released her debut single, "C", shortly after,
+- and finished the year with her film debut in the blockbuster Be-Bop High School.
+- She became one of the most popular idols during its "Golden Age" in the 1980s.
+- B) The Disk System as Nintendo’s experimentation lab
+- Rewritable disks, kiosks, and network-ish services created a world where “game + store visit + contest” made sense.
+- This game is noted as Disk Fax compatible, and used Disk Fax in a way other games did not.
+- 4) What Is Disk Fax and Why This Game Used It Differently
+- Disk Fax basics (quick explainer)
+- Players could bring disks to participating kiosks and upload data for rankings or special programs.
+- Most Disk Fax games used it for score/time records.
+- What Tokimeki High School did instead
+- It used Disk Fax to register that you completed the game to qualify for prizes.
+- Contest dates to mention clearly:
+  - December 19, 1987 to February 29, 1988
+- Prize structure (great podcast detail):
+  - 8,000 winners got an autographed phonecard for the “normal” ending
+  - 8,000 winners got a special VHS tape for the “best” ending
+- Discussion angle: “This game was designed to expire.” It is almost a prototype for modern limited-time game events.
+- 5) The Other Gimmick: The Real-World Phone Hotline
+- What it was
+- The game reveals toll-free phone numbers you could call to hear:
+  - Hints
+  - A “personal message” voiced by Miho Nakayama
+- Why it matters
+- It turns a basic adventure game into a cross-media experience.
+- It also creates “lost feature” nostalgia: the hotline ended shortly after release, and later versions reportedly display the information in text instead.
+- Segment prompt: “Was the hotline caller fees the feature, and the game the excuse?”
+- 6) Game Structure and Player Objective
+- Premise
+- You are a student navigating school-life scenes and conversations, centered around a girl tied directly to Miho Nakayama
+- Your goal, practically
+- Progress scenes, make correct social choices, avoid dead ends, and reach an ending
+- 7) Gameplay Mechanics
+- Core format
+- Command-style adventure progression with choices and scene navigation.
+- The “dating sim” angle
+- Why people call it an early dating sim: it is choice-driven romance and relationship management, not stats-and-schedule like later classics.
+- Notable interaction wrinkle
+- In key moments, you are choosing not only what to say, but how to “present” yourself (facial expression/attitude style choices).
+- Endings and branching
+- Podcast-friendly way to describe it:
+  - There are multiple outcomes, with community playthroughs describing at least a “good” vs “bad” present outcome and variations on good.
+  - Tie back to the official framing: “normal” vs “best” connected to Disk Fax prizes.
+- Play feel notes to cover during discussion:
+- How much is “logic puzzle adventure” vs “social intuition”
+- Does it feel fair, or like you are guessing what the designers want
+- 8) Presentation: Graphics, Audio, and “Event Flavor”
+- Visual identity
+- School setting, portraits, scene framing.
+- Mention that this is an idol tie-in first, so the presentation often wants to “sell the star.”
+- Music and sound
+- Big highlight: Nobuo Uematsu on a strange side quest in 1987.
+- If you want a listening segment:
+  - “Does this sound like early Square DNA?”
+  - “Does any track feel like it is reaching beyond what the game needs?”
+- 9) What Playing It Today Feels Like
+- What still works
+- Novelty of the concept
+- Time-capsule design
+- Interesting to see major creators doing something outside their “canon”
+- What cannot be restored
+- The literal hotline experience (calling numbers for voiced hints)
+- The contest ecosystem (Disk Fax kiosk upload, physical prize chase)
+- Modern access note (brief)
+- There is a fan translation, which is relevant for anyone actually trying to play it now.
+- 10) Legacy and Why It Belongs on NEStalgia
+- Often cited as an early dating-sim forerunner.
+- It topped a Famitsu bi-weekly sales chart in December 1987, which helps explain why Nintendo thought the “event game” model could work.
+- It is also a clean example of Disk System weirdness: hardware services, kiosks, limited-time tie-ins, and experiments that do not map cleanly to the NES cartridge legacy.
+- 11) Podcast Discussion Questions
+- If you remove the hotline and prize contest, is the remaining game compelling, or is it mostly cultural artifact?
+- Does the celebrity element add immersion, or does it date the game instantly?
+- Is this more “early dating sim” or “adventure game with romance dressing”?
+- Which is the more interesting innovation:
+  - Real phone integration
+  - Disk Fax completion registration
+- How would Nintendo do this concept today: QR codes, app companion, voicemail drops, ARG?

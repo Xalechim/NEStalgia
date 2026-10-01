@@ -1,0 +1,118 @@
+# SNES 001 - Super Mario World
+
+- What to talk about (grounded): SMW is a new hardware debut, but it deliberately does not turn into a tech demo. The team has said they explored what Super Famicom could do, but avoided “cool tricks” that harmed balance and flow.
+- Tezuka: Many people at Nintendo who saw Super Mario World being developed remarked to us, “it doesn’t look all that different from the Famicom games.” We felt the same way. (laughs)
+- Miyamoto: That’s true, but just because we found something cool the hardware could do, something that made us go “whoa!”—if it ruined the balance or flow of the game, we didn’t want to include it. Also, while Super Mario World was upgraded to a 4MBit cart (SMB3 used 3MBit, in comparison), more memory was needed for the expanded colors, so the memory limitations were actually more strict this time.
+- —How about on the programming side?
+- Nakago: The biggest thing was not having to worry about the hardware limitations like we did in the Famicom days. One specific example would be Mario riding Yoshi: we came up with that idea a long time ago, but couldn’t do it on the Famicom. I’m really happy we finally got to realize that in SMW.
+- The “SMB3 test port” moment, and what it taught them
+- What to talk about: The dev team described porting SMB3 to Super Famicom as a hardware experiment, and realizing “more detailed” alone is not enough, they needed new experiences.
+- 3) The Overworld as the real innovation: progression becomes player-authored
+- SMB3’s map is world-by-world and mostly linear. SMW’s Overworld is one connected space with loops, branches, and routes that reconfigure based on secret exits. This is not a “menu,” it is a system that responds to knowledge.
+- Prompts
+- When you find a secret exit, you do not just get a reward, you redraw the world. How does that change motivation?
+- 4) Secret exits as a design philosophy, not a collectible
+- What to talk about: SMW doesn’t just hide 1-ups. It hides alternative outcomes (different exits) that reshape your path, and it formalizes it into the “96 exits” identity. Wikipedia+1
+- Prompts
+- In SMW, secrets are not optional garnish. They are a parallel campaign. Does that make SMW feel bigger than SMB3 even if you ignore some levels?
+- Are secret exits a kindness (player choice) or a trap (you now feel incomplete)?
+- Secret exits test Observation, risk, patience, and mechanical mastery. It’s not always just another key you need to put in a hole.
+- Switch Palaces and dotted outline blocks: global state that rewrites difficulty
+- What to talk about: SMW’s Switch Palaces change the entire game world, turning outline blocks into solid blocks across many stages. In the 1990 dev interview, the team explicitly calls dotted-line blocks “the key” to adjusting difficulty, and notes that activating switches makes the game much easier. shmuplations.com
+- Prompts
+- This is effectively a built-in “assist” system, but it’s diegetic. Is that more satisfying than a menu difficulty slider?
+- Should there have been post-game switch palaces that change the game more dramatically after you beat the game once?
+- Yoshi: the first Mario “companion system,” and the birth of a franchise pillar
+- What to talk about: SMW is Yoshi’s first appearance. Nintendo And the team had wanted “Mario riding Yoshi” for years but could not do it on Famicom hardware, according to the 1990 interview. shmuplations.com
+- Prompts
+- Is Yoshi a power-up, a second hit point, a mobility tool, or a pet you are emotionally attached to?
+- How does the game teach you the rules of Yoshi without a tutorial? What is the first moment you understand what he is for?
+  - And for some players he is there to sacrifice to get an extra jump
+- Yoshi creates a new kind of tension: you can lose him and keep going. Does that feel worse than dying?
+- Forever-franchise angle
+- Yoshi becomes a permanent Mario pillar starting here, not a one-off gimmick.
+- 7) Cape Feather: “mastery power-up” design and playstyle divergence
+- What to talk about: Cape Feather first appears here and introduces sustained flight plus cape-specific combat and movement. Mario Wiki In the 1990 interview, Tezuka talks about cape control being adjusted based on test player feedback because it was initially too difficult. shmuplations.com
+- Prompts
+- Does the cape make SMW better, or does it let you bypass too much of what makes the levels good?
+- The cape is a different genre layered on top of platforming: gliding, lift, dive, recovery. Does it turn the game into a physics toy?
+- What does it say that Nintendo was willing to “nerf” or smooth the cape based on playtests? What did they prioritize?
+- SMB3 comparison
+- SMB3’s raccoon tail is powerful, but SMW’s cape feels like an entire movement suite. How does that change level design expectations?
+- Spin Jump: the moment Mario gets a “precision verb” that lasts forever
+- What to talk about (grounded): The spin jump is a distinct jump mode with different interactions (timing, bounce behavior, and hazard handling) that becomes a series staple in later 2D Marios.
+- Prompts
+- Why is adding “another jump” such a big deal? What new kinds of problems can designers ask once Mario has two jump verbs?
+- 9) “Friendly to beginners” as a stated goal, with design receipts
+- What to talk about: In the 1990 interview, Miyamoto contrasts SMB3 (made for experienced players) with SMW, which aimed to be friendly to beginners while still exciting for SMB3 players. shmuplations.com
+- Prompts
+- Where does SMW spend generosity? Extra power-ups, safer openings, mid-level pace breaks, or clearer reads?
+- 11) Development team scale: the small-team era of Nintendo magic
+- What to talk about: The 1990 interview puts the core staff at about 10 people, with a handful of key roles (Miyamoto, Tezuka, Nakago, Konno, Kondo, plus others). shmuplations.com
+- Prompts
+- How does a small team affect cohesion? Does SMW feel like it has one “voice” because fewer hands touched it?
+- If modern Mario teams are massive, what do you gain and lose?
+- Branded as “Super Mario Bros. 4” in Japan
+- 14) Mechanics that became “forever Mario” because SMW normalized them
+- New characters and recurring cast introductions
+- Yoshi (and the broader Yoshi species as Mario’s ridable companion concept) Mario Wiki+2Mario Wiki+2
+- Yoshi’s friends (the other colored Yoshis as “friends” concept in SMW) Mario Wiki
+- Reznor Mario Wiki
+- Big Boo (also shows up on the “enemy firsts” list) Mario Wiki+1
+- Podcast angle prompt: “Is Yoshi the biggest ‘design expansion pack’ a Mario game ever added in one jump, or is it actually the overworld and secret-exit structure?” Wikipedia
+- New power-ups and new “forms”
+- Cape Feather (and Cape Mario as a distinct form) Mario Wiki+2Mario Wiki+2
+- Power Balloon (P-Balloon) Mario Wiki+1
+- Yoshi’s Wings (Winged Yoshi, Coin Heaven subgame route) Mario Wiki+1
+- 3-Up Moon (rare collectible that grants 3 lives) Mario Wiki+1
+- Podcast angle prompt: “SMB3 treated flight like a reward you had to manage. SMW treats flight like a skill you can practice (cape tech). Which philosophy won the franchise long-term?” Wikipedia+1
+- New player mechanics that become franchise staples
+- Spin Jump (debut move) Mario Wiki+1
+- Sliding down slopes
+- Item storage / Reserve Item Box (store a power-up in the HUD and drop it on demand or when hit) Mario Wiki+1
+- Podcast angle prompt: “Item storage is secretly the most modern system in SMW. Does it make the game more strategic, or does it flatten the danger curve?” Mario Wiki+1
+- New progression and “post-game” style ideas
+- Secret exits as a defined Mario-series concept (with levels having two exits that open alternate paths). Mario Wiki
+  - The game explicitly positions Donut Plains as the first place this exists in-franchise. Mario Wiki+1
+- Special Zone (Special World) as the hidden final area gated behind the secret Star Road route. Mario Wiki+1
+- Fall (Autumn) unlock: a persistent aesthetic remix that changes overworld palette and alters certain enemy appearances after clearing the Special Zone (with different unlock rules in the GBA version). Mario Wiki+1
+- Podcast angle prompt: “SMW doesn’t have ‘New Game Plus,’ but Fall is basically an early version of ‘the world remembers what you did.’ Does that count as post-game?” Mario Wiki+1
+- New enemies introduced in Super Mario World (first appearances)
+- These are the enemies whose first appearance is Super Mario World per the franchise-wide first-appearance list. Mario Wiki
+- Lots of new Boos
+- Blargg
+- Chargin’ Chuck
+- Fuzzy
+- Jumping Piranha Plant
+- Magikoopa
+- Mechakoopa
+- Sumo Bro
+- Super Koopa
+- Thwimp (smaller sized Thwomps)
+- Torpedo tube
+- Torpedo Ted
+- Unshelled Koopa
+- Wiggler
+- New course objects, collectibles, and interactables introduced in SMW
+- These are items/objects whose first appearance is Super Mario World (again, pulled from the franchise-wide first-appearance list). Mario Wiki
+- Dragon Coin
+- 3-Up Moon
+- Fruit
+  - Three kinds of berries can be found in Super Mario World.
+  - Eating 10 Red berries in the same stage causes an egg to hatch a Super Mushroom
+  - Eating two Pink Berries in the same stage spawns a Yoshi Cloud that drops ten Bonus Coins, followed by a 1-Up Mushroom if all of the coins are collected.
+  - The rare Green Berries found only in Funky add 20 seconds to the timer.
+- Koopa Clown Car
+- Two “big deal” callouts from that list that are easy to underrate:
+- Dragon Coins: the start of “5-per-level collectible sets” becoming part of Mario’s completion DNA. Mario Wiki+1
+- Keyhole: ties into secret exits being a core map-routing mechanic, not just a warp. Mario Wiki+1
+- Saving structure as a franchise step forward
+- SMW formalizes continuing from save points tied to beating certain major stages (castles, fortresses, ghost houses) and uses that as the backbone for a much bigger, more explorable overworld.
+- Prompts
+- Is SMW the “face” of SNES because it is the best, or because it is the first thing so many people played?
+- What does a launch title need to do differently than a mid-generation sequel?
+- If SMW had been released later, would we talk about it the same way?
+- I’d like to close by asking what kind of games each of you would like to make in the future.
+- Nakago: Since I may collapse of exhaustion from all the overtime before long (laughs), I’d like a game I can play while I’m hospitalized. I remember being completely absorbed in these old simple games like marbles. I could get lost in them for hours. Any genre and medium are fine, but I’d like there to be more games like that, I think.
+- Miyamoto: I want to see console games become a “destination for play” — a world that kids feel a kind of affection and attachment to, and want to return to again and again. And how awesome is it that kids have all these worlds they can visit, all inside a console and game library small enough to fit in a dresser?
+- Also, as a parent my eyes have been opened to something new recently. I’ve noticed that when a parent sees their child reading a book, they think that’s a good, proper thing. But sitting their children down in front of a TV to play a video game somehow makes parents feel guilty, even though games are an active experience. Why is that, I wonder? I’d like to make a game that, when a Mother sees her child playing it for the first time, she thinks, “Ah, good! My child is old enough to play video games now!”

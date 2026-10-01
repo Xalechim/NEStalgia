@@ -1,0 +1,54 @@
+# NB 045 - Cocona World
+
+- Introduction
+- What it is: 1987 Sofel life‑sim/adventure hybrid for the Famicom Disk System starring Princess Cocona of Planet Pine. Explore a compact forest hub, keep Cocona healthy and happy, and dip into fortune‑telling, bingo, and other mini‑games.
+- Why it matters: Early console sandbox with mood + health meters and daily‑life tasks—often compared to a proto‑Tamagotchi/Animal Crossing vibe decades before it was mainstream.
+- On‑air openers
+- First impression: cozy life‑sim or cryptic 80s adventure?
+- Release, Credits, and Platform Snapshot
+- Release: Japan‑only, April 10–11, 1987 (listings vary by day); Sofel developed/published
+- Core Loop & Systems (teach early; ask questions inside)
+- Meters: Health and Mood; letting either hit zero = game over.
+- Requests: Cocona periodically asks for things (rest, food, play); fulfilling them boosts Mood and can unlock events.
+- Hub & Travel: Overhead forest with screen‑to‑screen movement ala Legend of Zelda; NPCs, hazards, and simple combat with woodland critters.
+- Time & Consequence: Short play sessions; returning home to sleep restores health and may trigger dream hints.
+- Discuss now
+- Does tying progress to Cocona’s requests feel charming or fussy?
+- Places to Visit & Things to Do (mini‑games and events)
+- Fortune‑telling tent: Daily horoscope‑style hints; may flag what Cocona wants next.
+- Bingo/lottery: Lightweight gambling/score diversion that feeds small rewards.
+- Fishing/foraging: Simple loops for food items; some creatures are friendly if approached gently.
+- Shops & gifts: Food, snacks, and trinkets that map to request types.
+- LOST WOODS: Unless you have the Jizo statue, the woods section will never take you to the next tile, it randomly generates the next part of the map.
+- Discuss now
+- Mini‑games as “mood medicine”: does bingo feel like a reward or an errand?
+- Listener prompt
+- Did you want more of any of these activities? Something you’d expand into a whole mode.
+- Combat & Hazards (light touch)
+- Attacks: Basic ranged spell/throw; some enemies are non‑hostile unless provoked.
+- Risk: Chip damage vs. sudden mood hits from cold/ignored requests.
+- Tip: Read sprites—critter behavior often telegraphs whether to engage or avoid.
+- Progress, Goals & End Conditions
+- Soft objectives: Keep Cocona healthy/happy, unlock mini‑events, complete collection bits.
+- Ending: In order to trigger the ending, you must have three of your stats at the 10 point maximum (you don't have to have your Magic stat at the maximum, just the other three) and you must have all nine items. She is in a wedding dress on the ending screen. Who is she getting married to you?
+- Passwords/Saves: FDS write saves; short sessions encourage “check in and do a few tasks.”
+- Discuss now
+- Is a vague goal state cozy or confusing for 1987 audiences?
+- Listener prompt
+- What’s your personal “win condition” for Cocona—max meters, see all events, or just vibe?
+- Presentation & Feel
+- Visuals: Pastel forest tiles; cute spritework on Cocona/NPCs; readable HUD meters.
+- Audio: Gentle loops with short stings for request prompts and mood changes.
+- Discuss now
+- Does the presentation sell “storybook” well enough to invite non‑action gamers in?
+- Tips for First‑Timers (on‑air quick hits)
+- Watch the request bubble: Prioritize Cocona’s ask before wandering.
+- Route errands: Combine a snack run with a fortune‑tent stop, then rest.
+- Touch with care: Test whether a critter is hostile before attacking; mood loss isn’t worth it.
+- Sleep smart: Ending a “day” near home banks health and moves forward progess.
+- Beyond the Game (context to weave between segments)
+- Sandbox ancestry: Japanese retrospectives compare it to a very early life‑sim/mini‑game box, even joking it’s “proto‑Animal Crossing.”
+- FDS moment: Represents a strand of 1986–88 non‑arcade experiments on Disk (horoscopes, toy‑boxes, light RPGs) made viable by save‑anytime design.
+- Sofel’s arc: Same publisher later known for Wall Street Kid; staff overlap appears across credits. So you gotta hand it to them trying new approaches in video games
+- Discuss now
+- If Square’s Cleopatra no Mahou is an adventure‑RPG hybrid, where does Cocona World fit on that spectrum?

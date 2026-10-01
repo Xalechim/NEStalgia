@@ -1,0 +1,22 @@
+# 378 - Time Lord
+
+- CAN YOU WIN THIS WAR IN TIME?
+- Take notes, this is how you title a video game. Time Lord can be anything, it could be a soulslike, it could be a platformer, it could be a metroidvania, but you gotta find out what a TIME LORD is
+- In the year 2999, Earth is under attack by aliens from the planet Drakkon. They've used time travel to send their forces into four different eras of human history, aiming to change the past and weaken humanity in the present. The player takes on the role of the "Time Lord," who must defeat these invaders before January 1, 3000 AD—or risk being destroyed along with his time machine.
+- Start in the Milton Bradley Time Travel Research Centre
+- Progresses through four levels based on periods in human history
+- Medieval England 1250
+  - Boss: Dragon
+- Western United States 1860
+  - Sombero Man - Where the best way to fight him is to shoot him in the back…
+- Caribbean 1650 AD
+  - Giant Clam
+- France 1943
+  - Big Soldier - He’s a TANK
+- After the Drakkon forces have been eliminated, the player returns to the present to do battle with the Drakkon King.
+  - 3-Headed Alien
+- Not a wide range of human history
+- Depending on the time period the player is in, weapons such as swords, throwing knives, firearms, grenades, and laser weaponry can be used. The player begins each level unarmed, but can acquire these weapons by collecting gift wrapped packages.
+- To advance to the next level, the player needs to collect five golden orbs to fuel the time machine. In each historical stage, four orbs are hidden throughout the level, while the fifth is earned by defeating a Drakkon Lord.
+- The aforementioned year 3000 deadline is in effect in game. One day in present time transpires in six seconds, meaning the player has 36 minutes and 30 seconds of gameplay time to complete the game or the game is lost.
+- The time limit remains in effect even when the player has returned to the present.

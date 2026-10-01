@@ -1,0 +1,67 @@
+# 400 - Werewolf: The Last Warrior
+
+- SLAMMIN VIDEO GAME ACTION JUST BUSTIN OUT
+- Introduction
+- What it is: A 1990 Data East side‑scrolling action game starring War Wolf, a man‑to‑werewolf hero out to stop Dr. Faryan and his bio‑monsters.
+- Why it matters: Famous for its transformations (human → Werewolf → Super Werewolf), unusual wall/ceiling traversal, and a high‑risk, high‑reward power economy that feels different from typical NES brawlers.
+- On‑air openers
+- BOX ART: Werewolf busting out of the game?
+- What’s more interesting in a strict one‑character action game what you are or what you do? Werwolf vs abilities like hanging to ceilings
+- Release, Credits & Setup
+- Premise (manual): On colony world Red Earth, Dr. Faryan awakens an ancient evil and enslaves humanity with mutants. Ken, last of a changeling tribe, can become War Wolf (Werewolf) and fight back.
+- Did you know this wasn’t set on “our” Earth? Did the Red Earth framing change your expectations?
+- Core Controls & Forms (teach early; ask inside each)
+- Human
+  - Basic punch/kick, short jump; vulnerable but precise.
+  - Collect red W icons to transform to Werewolf (or to refill anger while wolfed‑out). Blue W icons revert you to human.
+- Werewolf
+  - Longer‑reach claw attacks (≈2× human damage), wall climb, ceiling hand‑walk, crawl into low tunnels, invincible backflip (press A+B together), and a screen‑wide Power Ray that costs your own health.
+  - You remain Werewolf until health drops to ~¼, then you revert to human.
+- Super Werewolf
+  - Collect five white “bubble” orbs to fill the anger meter and briefly trigger a powered state (higher jump, double damage, improved reach). Time‑limited; damage drains it.
+  - The manual says there is a way to use the red and blue orbs so that you can easily become Super Werewolf, but that doesn’t appear to be true
+- Discuss now
+- Is spending health on the Power Ray ever smart, or is it a trap for new players?
+- Presentation & Feel (drop after Stage 1)
+- Visuals: Large player sprite, readable enemy tells; occasional background/foreground confusion near ceiling hooks.
+- Audio: Punchy Data East‑style tunes; stings sell transformations.
+- Level Flow & Structure
+- Five stages, each with mid‑sections and a boss; defeat all to reach Dr. Faryan.
+- Frequent vertical segments built around wall/ceiling routes; some rooms are designed to make you rethink being only on the floor
+- Long stretches between checkpoints; death sends you back a chunk.
+- Stage & Boss Talking Points (sprinkle between beats)
+- Stage 1 — Outskirts & Base
+- Teaches wall cling (jump into wall to grab); first taste of blue vs. red W
+ management.
+- Boss: Mutant brute with simple tells—great place to practice A+B backflip timing.
+- Stage 2 — Jungle/Facility Mix
+- Adds ceiling‑hand‑walk sections; enemy placement punishes ground‑only routes.
+- Boss: Spirit of Kinju‑style encounter (floating spirit patterns); safer as Super Werewolf.
+- Stage 3 — Industrial Complex
+- Tight shafts and conveyor‑like edges; crawl‑only tunnels hide orbs/powerups.
+- Boss: Projectile patterns that reward backflip over standard jumps.
+- Stage 4 — Caverns
+- Tricky odd‑angle wall grabs and spike pits; long sections between health refills.
+- Boss: The infamous Giant Head sequence—target cycles/lower safe lanes.
+- Final Stage — Tower & Lab
+- Tests everything: mid‑air wall catches, blue/red W management under pressure, and anger‑meter planning for boss phases.
+- Final Boss: Dr. Faryan—multi‑phase; entering as Super Werewolf shrinks the fight.
+- Beyond the Game
+- Where “werewolves” come from
+- Classical roots. Stories of humans turning into wolves go back to ancient Greece and Rome. The Greek tale of King Lycaon—punished by Zeus by being turned into a wolf—helped anchor the idea in religion and ritual; Romans used the term versipellis (“turn-skin”) for magical shapeshifters. Encyclopedia Britannica+2Encyclopedia Britannica+2
+- Medieval Europe. By the Middle Ages, European folklore standardized the werewolf as a cursed person whose change might be tied to the full moon
+- Trials and panics. Early modern Germany saw sensational “werewolf” trials—most famously Peter Stumpp (executed 1589), whose tortured confession fed pamphlets and art that spread the legend.
+- Recent pop culture: the 2000s → today
+- YA boom. Twilight (2008–2012) mainstreamed the “werewolves vs. vamps vs. romance” triangle, though its use of the real Quileute tribe drew criticism and cultural-accuracy debate. Screen Rant
+- TV revivals. MTV’s Teen Wolf (2011–2017) reimagined the 1985 comedy as a supernatural teen drama, leading to Teen Wolf: The Movie on Paramount+ in 2023.
+- Marvel’s spin. Werewolf by Night (Disney+ special, Oct 2022; “in color” version Oct 2023) framed a black-and-white monster-mash homage inside the MCU, boosting the character’s profile. EW.com+1
+- Notable Werewolf Video Games — Quick Guide (Printable)
+- A compact reference with one‑sentence blurbs and a simple “start here” path by interest.
+- Play AS a Werewolf (core fantasy)
+- Werewolf: The Apocalypse – Earthblood — modern action/stealth take on the World of Darkness IP.
+- The Elder Scrolls III: Bloodmoon — expansion where you become a werewolf.
+- World of Warcraft: Cataclysm — playable Worgen race
+- Wolfchild — 16‑bit platformer centered on human→wolf transformations.
+- Sonic Unleashed — nighttime “Werehog” levels shift to brawling platformer.
+- Zelda: Twilight Princess — Link’s wolf form drives traversal and puzzle design.
+- The Wolf Among Us — neo‑noir adventure starring Bigby Wolf (The Big Bad Wolf in Fables) as a detective

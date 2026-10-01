@@ -1,0 +1,102 @@
+# 380 - Caveman Games
+
+- This game was originally subtitled the UGH-Lympics
+  - UGHHHHH
+- Manual refers to them as Cave-Athletes. Are NFL Players Mansion-Athletes?
+- They never let poor Rudy join in any Caveman Games
+- The bios for these characters, I ain’t reading all that
+- The Games
+  - Mate Toss
+    - similar to the hammer throw, where the player has to spin their wife/husband and try to throw them as far as they can.
+  - Fire Making
+    - where the player races an opponent to create a full-burning fire.
+  - Dino Race
+    - where the player sits on a dinosaur and races against an opponent, avoiding obstacles on the course.
+  - Saber Race
+    - player races against an opponent avoiding both obstacles and the sabre tooth tiger running behind.
+  - Clubbing
+    - where the player faces off against an opponent holding clubs on a cliff, trying to club the other off the cliff sides or deplete their life meter.
+  - Dino Vault
+    - where the player has to pole vault over a Tyrannosaurus rex.
+- Is this game better with the Flintstones Franchise?
+- 🎮 General Info
+- Title: Caveman Games
+- Platform: NES (also released on Commodore 64, DOS)
+- Release Year: 1990 (NES)
+- Developer: Malibu Interactive
+- Publisher: Data East
+- Genre: Sports/Party Game (Stone Age Olympics parody)
+- Mode: Single-player, 2-player competitive
+- 🧱 Theme & Style
+- Setting: Prehistoric times; exaggerated cartoonish caveman world
+- Tone: Comedic and satirical
+- Visuals: Chunky, expressive sprites; minimal backgrounds
+- Music/SFX: Primitive drum-heavy soundtrack; goofy sound effects
+- 🏆 Playable Events (Mini-Games)
+- Each event parodies a modern Olympic sport in a prehistoric way:
+- Clubbing
+  - Players duel with clubs on a narrow platform.
+  - Win by knocking opponents off or depleting their health.
+  - Has timed blocks, swings, and a rage meter.
+- Mate Toss
+  - Like hammer throw, but you spin and throw your "mate" (a cavewoman).
+  - Distance-based; comedic physics.
+- Dino Race
+  - Race on the back of a dinosaur.
+  - Must dodge obstacles (like rocks, pits).
+  - Button-mashing and rhythm-based timing.
+- Dino Vault
+  - Pole vault over a dinosaur.
+  - Requires precise timing of run, plant, and vault.
+- Saber Race
+  - Sprint event while being chased by a saber-tooth tiger.
+  - Jump and duck over obstacles.
+- Fire Making
+  - Rapid button-pressing to rub sticks and make fire fastest.
+  - Requires stamina management.
+- 🧍 Characters
+- Each has a name and exaggerated traits, though differences are cosmetic:
+- Krog
+- Glunk
+- Gronk
+- Thag
+- Vinny
+- Ugha (only female character; often the “mate” in mate toss)
+- 👾 Gameplay & Mechanics
+- Controls: Vary between button-mashing and timed inputs.
+- AI Difficulty: Simple but reactive in later events.
+- Multiplayer Mode: Best aspect of the game; fun with friends.
+- Replayability: Limited solo but decent in party settings.
+- 📜 Humor & Presentation
+- Tongue-in-cheek humor (e.g., mate tossing, caveman grunts)
+- Caveman names and dialogue are intentionally silly.
+- Over-the-top animations and reactions (e.g., flailing, pratfalls).
+- 🧠 Legacy & Reception
+- Critical Reception: Mixed to positive for humor; gameplay seen as shallow.
+- Cult Following: Known for its absurd concept and party game appeal.
+- Similar Games: Shares DNA with Track & Field and World Games.
+- Clubbing
+- The clubbing event is basically a side-scrolling stick fight—did it feel strategic, or like a button-masher?
+- Was there any real way to block or dodge effectively, or was victory just about who swung first?
+- Dino Race
+- Did you figure out how to avoid the dinosaur throwing you off its back?
+- Did the race feel balanced between player skill and random chance?
+- Was the track’s design (with pits and jumps) satisfying, or just frustrating?
+- Mate Toss
+- How did you feel about the premise of literally tossing your mate—funny or just awkward?
+- Did you ever figure out the perfect angle/power combo, or was it inconsistent?
+- Firemaking
+- Firemaking requires rapid button pressing—did this event work as a test of endurance, or was it a weak mini-game?
+- Was there any satisfaction in figuring out the rhythm, or did it just feel like filler?
+- Saber Race
+- Did you manage to consistently avoid the obstacles and saber-tooth tiger, or did it feel like a luck-based sprint?
+- How does this compare to similar timed chase sequences in other NES games?
+- Dino Vault
+- Dino Vault is arguably the most technical event—did you ever manage to time the jump correctly over the dinosaur?
+- Was it clear how the mechanics worked, or did you have to trial-and-error your way through?
+- Overall Game Design
+- The events don’t seem to share a common control scheme—did this hurt the game’s cohesion?
+- Some characters seem better suited to certain events. Did you notice any real differences in stats or just visual variety?
+- With only six events, did Caveman Games feel too short, or was that enough for what it offered?
+- Humor & Tone
+- The announcer laughs at you if you fail

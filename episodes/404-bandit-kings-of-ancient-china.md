@@ -1,0 +1,152 @@
+# 404 - Bandit Kings of Ancient China
+
+- We keep getting these games, but its like a ton of text to translate. Usually in the SNES->PS3 days that would mean the games would just stay locked in the region. But the fact we keep getting these means it must have sold well.
+- Introduction
+- What it is: Koei’s historical strategy/RPG hybrid about the Water Margin outlaws (c. 12th‑century Song dynasty) leading bands against the tyrant Gao Qiu. NES port of the 1989 console/PC classic. (Wikipedia, StrategyWiki overview)
+- Why it matters: A dense, menu‑driven Koei sim that predates Suikoden by years—famous for its huge cast, loyalty politics, and seasonal warfare loop on 8‑bit hardware. (HardcoreGaming101 – Koei Sims)
+- Discuss now: When you think “NES,” is there room in your mental shelf for a grand strategy game next to platformers and action titles?
+- Release, Credits, & Context
+- Release: Famicom/NES 1989–1990 (JP/NA). Also on MSX2, PC‑88, DOS, and later platforms. (Wikipedia)
+- Developer/Publisher: Koei (Shibusawa Kou). NES cart uses password saves vs. battery in some regions. (Manual scan – NES)
+- Source material: Based on the Chinese classic Water Margin (a.k.a. Outlaws of the Marsh), with officers modeled on novel characters. (Wikipedia – novel)
+- Discuss now: What do you value in a historical sim on console—accuracy, role‑play, or board‑game feel?
+- WHAT’S DIFFERENT
+- Different win conditions (story goal, not total conquest). Instead of unifying the map, your campaign’s purpose is to build enough strength and reputation to topple the corrupt minister Gao Qiu. The manual explicitly calls this out as “unlike past KOEI games.” Abandonware DOS
+- Outlaw-reputation loop (Support/Popularity) that gates progress. Each prefecture tracks Support (local popularity) that affects taxes, riots, prices and annual January events. You also build Popularity through actions like hunting wild beasts; specific Popularity thresholds are checked in January to unlock late-game progress. This “do good deeds to win hearts” loop is far more central than in the other titles. GameFAQs+3digitpress.com+3digitpress.com+3
+- Sworn brotherhood & “Good Fellows.” You recruit named outlaws and can swear an oath of brotherhood with trusted followers; sworn allies lock loyalty at 100, and some recruits only join if your reputation is high. That loyalty mechanic (and the Good Fellow/Chieftain cast) is unique to Bandit Kings’ Water Margin setting. koei.fandom.com+1
+- Virtue stats matter (Mercy & Integrity). Ruler “Mercy” influences January income from Support; hero “Integrity” affects how effective training is. Moral attributes directly shaping economics and growth aren’t a focus in the earlier NES entries. digitpress.com
+- Seasonal world events with civilian consequences. January brings taxes/aging/unrest; seasons bring typhoons, snowstorms, epidemics, festivals, and roaming wild beasts that terrorize citizens until you deal with them—blending public order with your strategy. digitpress.com
+- Month-by-month turns, day-by-day battles. Strategic turns are monthly, but once a war starts the battle lasts that month and is divided into 30 days, with each hero issuing one command per day. That “calendar inside a battle” pacing is a distinct wrinkle versus the older titles. digitpress.com
+- Civics tools tuned for bandits. Commands like Feast (boosts Body Points and loyalty across the crew) and Give to Citizens (directly raise Support, quell riots) tie your internal management to your outlaw image more tightly than in GK/ROTK/NA. digitpress.com+1
+- Local infrastructure & markets that swing with Support. Prefectures can have smithies and shipyards; market Rate swings monthly and prices/outputs scale with Support and wealth—making “be good to the people” an economic strategy, not just flavor.
+- Core Gameplay Loop (one season at a time)
+- Domestic phase (per fief): Appoint leaders → Recruit officers → Farm/Develop to raise rice/gold → Trade for supplies → Search for new outlaws → Diplomacy with neighbors. (Manual)
+- Military phase: March to neighboring fiefs, choose tactics (archers/cavalry/infantry), set formations, and fight on hex maps; seize cities or retreat. (StrategyWiki – Battle)
+- Upkeep & seasons: Rice consumption each season; disasters and events fire; loyalty drifts if unpaid or mistreated. (Manual)
+- Discuss now: Does this feel closer to a board game cadence or a proto‑4X on NES?
+- Scenario & Win Conditions
+- Scenarios: Multiple start dates covering the rise of the Liangshan bandits; choose a leader (e.g., Song Jiang, Wu Yong, etc.), each with different neighbors and officer pools. (StrategyWiki – Scenarios)
+- Goal: Unite the outlaw hosts and ultimately defeat Gao Qiu (and his puppet emperor) before the time limit. Fail states include starvation, bankruptcy, or capture. (Manual)
+- Discuss now: Which matters more to your run—map position or officer lineup at start?
+- Officers, Stats & Loyalty
+- Key stats: LEA (leadership), WAR, INT, CHR, Loyalty; some have Archery/Cavalry proficiencies and unique events. (StrategyWiki – Attributes)
+- Loyalty economy: Pay stipends, gift items, share loot; captured foes can be recruited or ransomed—disloyal officers may defect. (Manual)
+- 2) “If you forget pay, loyalty drops next season”
+- What you see:
+- Each officer has a Loyalty number (0–100).
+- In the Domestic menu there’s a command to Pay (stipends/salaries).
+- What happens if you skip it:
+- When the game ticks to the next season, several officers’ Loyalty will drop (often 5–15 points).
+- On NES you will not get a big warning. You’ll just open Domestic next season and notice Loyalty numbers are lower. Some officers may defect if they get too low.
+- What to do:
+- During every Domestic phase, open Pay in each fief and pay all officers before you do anything else.
+- Concrete example:
+- Officer has Loyalty 78 in Summer. You don’t Pay. In Autumn you open Domestic and he’s at 64. Do that twice and he may leave you, right before a war.
+- Role‑play hook: Assemble your own “108 Stars” vibe; the cast is sprawling for an NES cart. (Wikipedia – 108 Stars)
+- Discuss now: Best gift economy in a retro sim—this, Romance of the Three Kingdoms, or Nobunaga’s Ambition?
+- Domestic Management (rice, gold, disasters)
+- Rice is life: Plant in spring, harvest in autumn; price swings let you speculate or stabilize. (Manual)
+- 1) “Rice cycle” — what that actually means on NES
+- What you see:
+- The game runs on four seasonal turns: Spring → Summer → Autumn (Harvest) → Winter.
+- Your rice stock only jumps up during Autumn. On NES, when you advance past Autumn you’ll hear a short chime and the rice number for each fief increases all at once.
+- Why it matters:
+- Rice feeds troops every season. If you don’t have enough by Winter, your army starves and loyalty drops.
+- What to do (every year):
+- Spring (Domestic menu): Use Farm/Develop (wording depends on translation) in each fief to raise the agriculture value.
+- Summer: Keep developing or trading for rice if you’re short.
+- Autumn: After your domestic actions, end the season; you’ll get the harvest automatically (audio chime + rice number jumps).
+- Winter: Don’t launch big wars unless you have rice to cover the extra consumption.
+- Concrete example:
+- Start Spring with 800 rice in Fief A. You choose Farm twice. In Autumn, after ending the turn, Fief A jumps to ~1,400 rice (exact amount varies). That jump is the “rice cycle.”
+- Infrastructure: Develop (public order), Fortify (city walls), Smith (weapons/armor), Train (troops). (StrategyWiki – Domestic)
+- Random events: Flood, fire, plague, bandit uprisings—mitigated by high INT officers and development. (Manual)
+- Discuss now: The autumn harvest crunch: hoard rice for winter wars or sell high and risk famine?
+- 9) “High-rice fiefs are your safety net”
+- What you see:
+- Some fiefs reliably produce more rice at harvest.
+- What to do:
+- Target one of these as your first conquest. It makes Winter upkeep painless and lets you train/develop instead of constantly trading for food.
+- Concrete example:
+- Without a rice-rich fief, you spend Summer trading gold→rice. With one, you focus Summer on Train/Develop and enter Autumn strong.
+- “Do fief chores left-to-right” — why and how
+- Why people say this:
+- The NES port has nested menus and no big reminders. It’s easy to miss a step (like Pay) if you hop around.
+- A simple left-to-right routine keeps you from forgetting something.
+- A safe seasonal routine (repeat for each fief, in order on the map/list):
+- Pay (stipends)
+- Train (raise troop training)
+- Develop/Farm (raise public order/agriculture)
+- Fortify/Smith (walls/weapons) — optional, when needed
+- Recruit/Search (only if you have time and officers available)
+- Concrete example script:
+- Select Fief 1 → Pay → Train → Develop.
+- Move to Fief 2 → Pay → Train → Develop.
+- After all fiefs are “clean,” then go to March and plan wars.
+- Warfare Mechanics (hex battles on NES!)
+- Army makeup: Troops + morale + weapons (bows, spears, horses); terrain affects movement/attack—forests slow cavalry, rivers choke lines. (StrategyWiki – Battle)
+- 6) “Morale drop sound = pull back or Rally”
+- What you see/hear:
+- After a bad exchange, you’ll hear a short low tone and see your unit’s morale bar dip.
+- What to do:
+- Don’t press that unit forward. Either Rally (if you have the order), rotate it behind another unit, or retreat a hex to stabilize.
+- Concrete example:
+- Your frontline cavalry trades twice, you hear the low tone twice, morale is now orange/red. If you keep charging, they’re likely to break and get captured.
+- 10) “Winter wars feel bad (by design)”
+- What you see:
+- In Winter, movement is a little slower overall and rice consumption keeps ticking.
+- What to do:
+- Unless you have a clear advantage, avoid launching big offensives in Winter. Use it to heal, train, and pay instead.
+- Concrete example:
+- You start a siege in Winter with minimal rice. By the time you breach, your stores are empty and loyalty took a hit. If you’d waited for Spring, you’d have moved and fed cheaper.
+- Tactics: Ambush, Fire attack, Charge, Rally; success often checks LEA/INT and terrain. (Manual)
+- Sieges & retreats: Breach gates or starve defenders; retreat costs morale and may trigger captures. (Manual)
+- Discuss now: Favorite NES hex‑battle—this or Gemfire/Nobunaga—and why?
+- Unique Systems & Little Quirks
+- Amnesty & recruitment: High‑CHR leaders flip enemies after battles—classic “join me or rot” scenes right on 8‑bit. (StrategyWiki – Diplomacy)
+- Ransom & prisoners: Monetize captures or trade officers—adds a criminal‑enterprise flavor missing from feudal sims. (Manual)
+- 7) “Captured officers pile up unless you act”
+- What you see:
+- After battles, you may capture enemy officers. They sit in your roster as prisoners.
+- Why it’s a problem:
+- They still show up in your officer list and can clutter decision-making.
+- If you never act, you miss chances to recruit them (good officers!) or ransom them (get gold).
+- What to do:
+- After each war, go to Diplomacy/Prisoner actions and either Recruit (if their Loyalty will take), Ransom, or Release.
+- Concrete example:
+- You win two sieges and snag four prisoners. Next season you forget them. During Pay, you scroll past a longer list and miss paying a real officer—now two problems.
+- Outlaw culture: Periodic events name‑drop novel set‑pieces, giving the campaign a folk‑hero tone instead of dynasty formalism. (Wikipedia – Water Margin)
+- Discuss now: Is this secretly the most role‑playable of the 8‑bit Koei slate because you aren’t a king yet—you’re a bandit coalition?
+- Difficulty & Mastery (NES tips)
+- Pick starts wisely: Avoid early multi‑front wars; prioritize fiefs with high rice yields and recruitable talent. (StrategyWiki – Walkthrough)
+- 5) “Terrain really changes how units feel” (rivers/forests on hex maps)
+- What you see:
+- Battles are on hex grids.
+- Forests slow cavalry. Rivers block or slow movement and favor archers on the far bank.
+- What to do:
+- If you expect rivers, buy/bring bows; park archers behind the river and let enemies wade in.
+- If you expect open plains, bring horses and use cavalry for flanking.
+- Concrete example:
+- You attack across a river with horses and no bows → your cavalry crawls, gets shot on the bridge, and morale drops.
+- Same map with two archer units on your side of the river → enemy melts trying to cross.
+- 4) “Search fails a lot unless you use a smart officer”
+- What you see:
+- Search tries to find hidden officers or items in a fief.
+- If you send a random or low-INT officer, you’ll often get “nothing found” several seasons in a row.
+- What to do:
+- Assign an officer with high INT to Search (the stat is visible on the officer screen).
+- You’ll notice a clear uptick in “found” results versus sending anyone.
+- Concrete example:
+- Sending a WAR-heavy 40 INT officer might whiff three seasons. Switching to an 80 INT officer usually finds someone within a season or two.
+- Comparisons & Legacy
+- Sister series: Shares DNA with Romance of the Three Kingdoms (officer sim) and Nobunaga’s Ambition (territory/economy), but the outlaw theme changes incentives. (Wikipedia – Koei sims)
+- Echoes in later games: Suikoden (1995) channels 108 Stars into a JRPG base‑building framework—spiritual resonance if not a direct adaptation. (Wikipedia – Suikoden)
+- Discuss now: Which modern series scratches the Bandit Kings itch best: Mount & Blade, Total War: Three Kingdoms bandit factions, or indie kingdom‑builders?
+- Version Notes (NES specifics)
+- Interface concessions: NES uses more condensed menus and slower cursoring than PC; passwords instead of save slots in some versions. (Manual)
+- Content: Core officer lists and scenarios intact, with minor portrait/translation differences vs. microcomputer releases. (StrategyWiki)
+- Fun Facts
+- Box copy flex: Koei marketed this as part of its “Historical Simulation Series,” which sat beside Nobunaga and Romance on NES shelves—a bold niche for 8‑bit. (Wikipedia – Koei sims)
+- Name game: The villain Gao Qiu is a real historical official vilified in the novel—Koei leans hard into the literature. (Wikipedia – Gao Qiu)
+- Host Notes
+- For on‑air clarity, keep a season tracker (Spring→Winter) and a rice ledger handy. Use StrategyWiki’s battle pages for a quick terrain refresher during recording. Links above are placed inline where each topic appears.

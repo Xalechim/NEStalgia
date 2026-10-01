@@ -1,0 +1,68 @@
+# 407 - Dirty Harry
+
+- It's an all-out war of good vs. bad. Go ahead. Make your day.
+- General Overview
+- Quick elevator pitch
+ Side scrolling action game where you play as Dirty Harry cleaning up San Francisco’s drug trade, moving through city streets, buildings, sewers, docks, and finally Alcatraz. Developed by Gray Matter, published by Mindscape in 1990 as an NES exclusive. Wikipedia+1
+- 2. Story & Objective
+- Basic plot
+ A Colombian kingpin called The Anaconda unites San Francisco’s drug gangs and wipes out the previous top criminal “The Dealmaker.” Harry ignores his chief and goes rogue to find and take down Anaconda, culminating in a showdown on Alcatraz. Wikipedia+2Take on the NES Library+2
+- Moment to moment objective
+ In each stage you are basically hunting down gang leaders, recovering drugs and money, and working your way toward information that points you to the next area. Streets, docks, then Alcatraz as the final stronghold. Take on the NES Library+1
+- Thing you only know if you played
+  - The game quietly tracks how thorough you are in searching for drugs and cash. If you do “police work” and sweep everything, you can get a special ending with a medal from the mayor instead of just credits. GameFAQs
+- WHO STARTS A GAME LIKE THIS?
+- Level immediately starts
+- 3 guys beating you up, more on the way
+- A+B to jump
+- Fall in a manhole
+- It’s pitch black
+- Things are attacking you and shocking you. There’s an invisible wall in the sewer so you can’t even progress.
+- 3. Level Structure & “Where the hell do I go?” Navigation
+- Stage breakdown
+  - City streets: Horizontal streets with doorways, alleys, and building interiors that crawl all over the place.
+  - Waterfront / docks: More verticality and entrances into warehouses, plus sewer access.
+  - Alcatraz Island: Feels more like a traditional final gauntlet, still maze like but narrower. Take on the NES Library+1
+- Layered navigation
+  - Streets are not simple left to right. You can walk “into” alleys or through doors to side areas, and go down into sewers that connect parts of the map. It is easy to get totally turned around. It’s an impressive city traversal game if the controls didn’t make getting around so tough
+  - Interiors add “fake 3D” hallways where foreground and background doors lead to different rooms, so it is more like a light adventure game than a straight brawler. MobyGames+1
+- Things you only know if you played
+  - The infamous “Ha, ha, ha” room: if you enter a certain door, the exit is replaced by giant letters “HA HA HA” on the wall. You are soft locked and have to reset the game. It feels like a literal developer troll. How the fuck did he get in that room?
+  - You can fall into the sewers from manhole covers and suddenly be dealing with snakes. MobyGames+1
+- 4. Core Mechanics & Controls
+- Basic move set
+  - D pad to move. Up/down for ladders, doors, alleys.
+  - B to punch, Up + B for a higher kick.
+  - A + B together to jump
+- Gun handling
+  - Press A once to draw and aim the .44 Magnum, then press A again to fire. You can aim in multiple angles
+  - Ammo is limited enough that you never feel free to just blast. You are always counting bullets in the back of your mind, which sort of fits the character, but also makes the game more stressful.
+- Things you only know if you played
+  - You can threaten enemies by pulling the gun without firing. It is not a system mechanic like a morality gauge, but it weirdly matches the fantasy of Harry pointing the Magnum first, shooting second
+  - Jumping and shooting do not mix. The game will punish any attempt to be a run and gun hero. You basically have to stop, aim, and accept that you might eat a knife while lining up a shot.
+- 5. Enemies, Hazards, Weapons & Power Ups
+- Standard enemies
+ Endless thugs that punch, shoot, throw dynamite, nets, or use bats. They respawn often, which makes traversal feel like grinding through the same guys over and over. MobyGames+1
+- Weirder hazards
+  - Snakes in the sewer that crawl at your feet while you try to line up stiff jumps.
+  - Laser floors in building interiors, which feel more sci fi than cop movie.
+- Harry’s arsenal
+  - Beyond the Magnum: rockets, harpoon, and remote controlled explosive cars. All of it feels wildly over the top for a street cop, more like James Bond.
+  - Health is refilled by eating hot dogs you find on the streets. I hope NOBODY and I MEAN NOBODY put ketchup on those hot dogs.
+- Things you only know if you played
+  - Remote cars are finicky to control and easy to waste. You often blow them up on nothing, then immediately wish you had them for an actual cluster of enemies.
+  - Enemies sometimes appear right in your face when entering a room, so your “strategy” becomes punching people who spawn on you before they can chip your tiny life bar.
+- 6. Difficulty, Cheap Shots & Fail States
+- Cheapness
+  - Instant mistakes like falling into pits or sewers you did not see, entering the trap “Ha Ha Ha” room, or walking into rooms with enemies already mid attack.
+- Hidden alternate ending
+  - If you play like a real cop and search all the streets thoroughly for contraband, you can trigger a different ending where the mayor rewards you. If you just beeline for the boss, you never see it. GameFAQs
+- 7. Graphics, Sound & Movie Flavor
+- Visuals
+  - Does that look like Clint Eastwood?
+- Audio
+  - Starts with digitized “Go ahead, make my day” and also uses “Do I feel lucky? Well, do ya, punk?” at the end of the game after you defeat the guy who looks like Kingpin. The samples are crunchy but it is cool fan service for the time. Wikipedia+1
+  - Composers Steven Samler and Elliot Delman are credited not just in game and manual, but on the back of the box, which is extremely rare for NES music. Wikipedia
+- Password film references
+  - Infinite lives code CLYDE (Every Which Way But Loose), plus MISTY (Play Misty for Me), BIRD (Bird), and a dummy password GUNNY (Heartbreak Ridge). They are all Clint Eastwood nods, but not Dirty Harry movies, which feels like a subtle dev joke. Wikipedia
+  - “Does this game feel lucky? Let’s find out as we put Dirty Harry up against the ESSENTIAL GAMES LIST.”

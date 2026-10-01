@@ -1,0 +1,157 @@
+# 434 - Double Dragon III: The Sacred Stones
+
+- “Only one man knows the real story behind Marion's disappearance… and he's dead!”
+
+## I. Setup & Premise
+
+- Core Story
+- Takes place one year after Billy and Jimmy defeat the Shadow Warriors
+- Marion is kidnapped again
+- Only witness (Brett) dies before revealing anything
+- A fortune teller named Hiruko appears:
+  - Says kidnappers are searching for three Sacred Stones of Power
+  - Only way to save Marion is to collect them first
+- The Lee brothers travel across:
+  - United States
+  - China
+  - Japan
+  - Italy
+  - Egypt
+- Development & Release Context
+- Developed by Technos Japan
+- Published in North America by Acclaim Entertainment
+- Released February 1991
+- Initially:
+  - 7th best-selling console game that month in the U.S.
+  - Which doesn’t sound that high
+- After:
+  - Massive overproduction by Acclaim
+  - ~500,000 unsold copies sitting in warehouses
+- Split Development Situation
+- Arcade version: Double Dragon 3: The Rosetta Stone (1990)
+  - Outsourced to East Technology
+  - We’ll get into it later
+- NES version:
+  - Developed internally by Technos
+  - Not a port
+  - Built in parallel
+- Outcome:
+  - Two completely different games sharing a premise
+  - No shared code or design coordination
+
+## II. What Makes It Notable
+
+- Playable Character System (Strong Point)
+- New playable characters beyond Billy and Jimmy:
+  - Chin Seimei:
+    - Slower
+    - Larger health bar
+    - Powerful double jump kick
+  - Yagyu Ranzou:
+    - Fastest character
+    - Starts with a katana
+  - Those names aren’t quite as memorable as Billy and Jimmy
+- Swap system:
+  - Press Select to switch characters anytime
+- Gameplay impact:
+  - Do different characters make different sections easier?
+- Combat System (Mixed)
+- Returns to original setup:
+  - Dedicated punch and kick buttons
+- Adds:
+  - Dash (double tap direction)
+  - Running jump kick
+  - Wall-bounce triangle kick
+  - Midair grab/throw via somersault
+- Returns:
+  - Hair grab
+- Missing from DDII:
+  - Shoulder throw
+  - Flying knee kick
+- Life System (Mixed to Negative)
+- No traditional lives system
+- Start with Only one life
+- Extra lives Earned mid-game only
+- Player experience:
+  - Early deaths feel punishing and confusing
+  - No safety net for new players
+  - Difficulty spike that isn’t clearly communicated
+- Five-Country Structure (Mixed)
+- Five themed stages:
+  - U.S., China, Japan, Italy, Egypt
+- Each includes:
+  - Unique visuals
+  - Themed enemies (e.g., gladiators, ninjas)
+- Problem:
+  - Stages are very short
+- Result:
+  - Feels like a “world tour” instead of a full campaign
+  - Like a lot of these NES games scope is implied, not delivered
+- Difficulty Issues
+- Key problems:
+  - One-life system
+  - Higher enemy damage in U.S. version vs Japan
+  - Poor hit detection (example: oversized hitboxes)
+- Result:
+  - Starts to feel unfair rather than skill-based
+- Final Boss Confusion
+- Final boss is:
+  - Cleopatra
+  - Or Princess Noiram (changed from Famicom to NES)
+  - Or Marion
+  - Or Marion under a spell as Cleopatra
+  - Only revealed after the fight
+- Result:
+  - Narrative confusion instead of payoff
+- The “Bimmy” Typo Legacy
+- In two-player mode:
+  - “Jimmy” is misspelled as “Bimmy”
+- Only appears in U.S. version
+- Gotta be a coding error, not translation
+- Legacy:
+  - Became iconic NES-era typo
+  - Referenced in:
+    - Merchandise
+    - Retrospectives
+    - Later games like Double Dragon Neon
+- Takeaway:
+  - A mistake that outlived the game
+
+## III. Pop Culture, Legacy & Connections
+
+- Arcade Microtransactions (Important Context)
+- The arcade version known as Double Dragon 3: The Rosetta Stone pioneered something that gaming would spend the next three decades arguing about. The North American arcade release contained an in-game shop where players could insert additional quarters to purchase power-ups, weapons, extra moves, and new playable characters. These weren't continues — they were in-game advantage purchases, mid-session, using real money. The Japanese arcade release, which arrived roughly six months after the American version, had the entire shop system removed after negative feedback during location testing. In Japan, weapons were distributed through the stages, all moves were available by default, and characters could be selected freely.
+- The Rosetta Stone is a 2,200-year-old granodiorite stele crucial for deciphering Egyptian hieroglyphs, as it features the same decree issued in 196 BC in three scripts: hieroglyphic, Demotic, and Greek. Discovered in 1799, this key artifact enabled modern understanding of ancient Egyptian history and is currently on display at the British Museum
+- The Final Fight Problem
+- I haven’t played, but Critics compare DD3 to Final Fight
+- Final Fight improved on it:
+  - Bigger sprites
+  - Better combat
+  - More polish
+- By 1990–1991:
+  - Double Dragon was no longer leading
+- Double Dragon III:
+  - Failed to compete at that higher standard
+- Technos Japan’s Fate
+- Follow-ups:
+  - Super Double Dragon (SNES, 1992)
+  - Neo Geo fighting game spinoff (1995)
+- Outcome:
+  - Technos went bankrupt in 1996
+- Rights passed to:
+  - Million (former staff)
+  - Later acquired by Arc System Works (2015)
+- Modern entries:
+  - Double Dragon IV (2017)
+    - Poorly reviews
+  - Double Dragon Gaiden: Rise of the Dragons (2023)
+    - Better reviewed, but nothing earth shattering
+- Key Comparisons
+- Double Dragon II: The Revenge
+  - Shows exactly what III regressed on
+- Final Fight
+  - Raised the genre standard
+- Battletoads & Double Dragon
+  - Better understanding of co-op chaos
+- Streets of Rage 2
+  - Genre peak shortly after

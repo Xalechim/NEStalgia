@@ -1,0 +1,57 @@
+# 403 - The Adventures of Rad Gravity
+
+- Introduction
+- What it is: A sci‑fi platform‑adventure game where space hero Rad Gravity and the lone active Compumind (Kakos) try to re-activate the galaxy’s other Compuminds. Developed by Interplay and published by Activision on NES. (Manual, Wikipedia)
+- Why it matters: A Western‑made NES oddball with big ideas—planet hopping, an infamous reverse‑gravity world (Turvia), and a hub ship for free routing as you find coordinates. (Wikipedia, Take On The NES Library)
+- “This doesn’t look like an NES game” (Art & Presentation)
+- Western palette & shapes: Big, chunky sprites; loud neons on Cyberia; grime greens on Effluvia—reads more like Western computer art than Famicom house styles. (Take On The NES Library)
+- Discuss now: Use this opener to kick off a quick riff on Western‑developed NES titles that felt tonally different—e.g., A Boy and His Blob, Maniac Mansion.
+- What kind of media (movies/TV) is similar to Rad Gravity
+- Saturday-morning space opera: Scrappy hero + chatty computer buddy feels like Flash Gordon and Galaxy Rangers
+- Comic Book Manual Story
+- Premise: In the far future, galactic civilization ran on AI brains called Compuminds. Agathos, once a human, now a giant brain, rules over the galaxy. He turned the AI brains offline; only Kakos remains to guide Rad to re-activate the rest.
+- Release, Credits, & Context
+- Release: US Dec 1990; EU/AU 1991 (Mattel in AU). (Take On The NES Library)
+- Developer/Publisher: Interplay Productions / Activision. (Wikipedia)
+- Key creative / OST: Credits include Brian Fargo (design/program), Bruce Schlickbernd (art), and composers David Warhol & George Sanger. (Wikipedia)
+- Banter weave‑in: Cue a chiptune craft sidebar—play 15–20 seconds and compare Western NES sound to Capcom/Konami schools. Does Warhol/Sanger read “space opera” or “Saturday‑morning sci‑fi”? (Credits on Wikipedia)
+- Structure
+- Loop: Pick a world from the ship monitor, grab codes/parts, reactivate that world’s Compumind, beam out, unlock the next coordinates. (Manual)
+- Agency: You can discover multiple coordinates and route your own order (within reason) before the Telos finale. (Take On The NES Library)
+- Kit growth: Start with short-range saber, then blaster, crystal bombs, armor—small expansions that change how you tackle chokepoints. (GameFAQs – FAQs)
+- Discuss now: Is this closer to Metroid’s authored route or The Guardian Legend’s hub freedom? Where’s the sweet spot? (Refs: Metroid manual, Guardian Legend)
+- Planet‑by‑Planet Flavor (set pieces, quick tips, and built‑in segment ideas)
+- Planet identity via tilesets: Every world re-skins the rules with bold, readable motifs (cloud catwalks on Vernia, lava ledges on Volcania). (VGMaps – NES)
+- Cyberia — Neon corridors, turret lines, beginner secrets. (Manual, GameFAQs)
+- Effluvia — Toxic trash world; falling‑junk cadence; use vertical shafts to funnel enemies. (Take On The NES Library)
+  - Banter tie‑in: “Trash‑punk 1990” — pollution chic across late‑’80s media and how NES palettes sell “gross” with a few tiles.
+- Turvia — Entire planet drawn upside‑down; gravity reversed. Inputs are normal but collision is mirrored—practice “ceiling” ledge checks. (Wikipedia)
+  - Segment idea: Inverted Level Hall of Fame — compare to Strider’s ceiling boots and Mega Man 5 – Gravity Man’s flip where art stays upright. Which is kinder, and why? (Refs: Strider, Mega Man 5)
+- Sauria — Jungle with aggressive hatchlings; bombs trivialize nests. (Take On The NES Library)
+- Vernia — Cloud city; wind‑feel scroll and thin catwalks—tap jumps. (VGMaps, Take On The NES Library)
+  - Segment idea: Wind levels we love/hate — bring in Ninja Gaiden II’s gust rooms for readability talk. (Ref: Ninja Gaiden II)
+- Asteroid Belt — Derelict ship interlude; pockets of low‑ceiling platforming. (VGMaps)
+- Odar — Underground maze; mark ladders mentally—lots of loopbacks. (Take On The NES Library)
+  - Segment idea: Mapping on paper — compare to Metroid notebook maps from childhood. (Ref: Metroid manual)
+- Utopia — Two‑sided planet (surface/underside) with factory below; dead‑ends teach route logic. (Take On The NES Library)
+- Volcania — Lava timing + projectile spam; learn safe ledge stutter‑steps. (VGMaps, Take On The NES Library)
+  - Banter tie‑in: Risk budget talk—compare to lava/attrition set‑pieces in other NES action (e.g., Castlevania’s clock‑tower‑style stress math).
+- Telos — Final planet; Agathos showdown after Compuminds are online. (General plot: Wikipedia)
+- Passwords & Progression
+- Passwords: Necessary. Whole game only has 1 life (GameFAQs passwords)
+- Soft order suggestion: Cyberia / Effluvia → Sauria / Turvia → Vernia / Odar → Utopia / Volcania → Telos. (Routing notes: Take On The NES Library, GameFAQs)
+- Difficulty & Mastery
+- Friendly Fire - Enemies can kill each other
+- Is there enough gravity manipulation to warrant the title?
+- Short answer: Mostly no—except Turvia.
+- Is there enough Radness to warrant the title?
+- Name & era tone: “Rad” is pure 1990 energy—quippy manual blurbs, neon cityscapes, and a hero with a saber
+- In practice: The attitude reads more goofy pulp
+- Segment angle: Define “radness” with a checklist (stunt, style, soundtrack sting). Does Rad hit 2/3?
+- “The music is terrible”
+- Fun Facts & Trivia
+- No Japan release: NES‑exclusive in the West (later EU/AU distribution). (Take On The NES Library)
+- Composer duo: David Warhol & George Sanger share credit—title track has a cult following. (Wikipedia)
+- Strider vibes: Press often compared Rad’s sword + upside‑down stage to Strider’s ceiling walk. (Wikipedia – Strider)
+- We’ve orbited every oddball planet. Do we land this one on the ESSENTIAL GAMES LIST?
+- The misadventures of Sad Gravity

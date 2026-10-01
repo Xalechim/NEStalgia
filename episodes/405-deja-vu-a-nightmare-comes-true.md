@@ -1,0 +1,70 @@
+# 405 - Deja Vu: A Nightmare Comes True!!
+
+- Ironically maybe, Deja Vu is about amnesia.
+- Introduction
+- What it is: A MacVenture-series point-and-click adventure set in December 1941 Chicago. You’re amnesiac PI Ace Harding, waking in a dingy bathroom and unraveling a frame-job. NES port by Kemco/Seika of ICOM Simulations’ 1985 classic. (Wikipedia, HG101 – MacVenture overview)
+- Why it matters: A rare cursor-driven adventure on NES with a full verb panel, multi-pane UI, and real fail states (arrest, overdose, bad wrap-up). (StrategyWiki, Manual)
+- amnesiac PI as a trope
+- Release, Credits, & Context
+- Release: Originated on Mac (1985), later Apple II/DOS; NES localization ~1990 (Famicom prior). (Wikipedia)
+- Developer/Publisher: ICOM Simulations (original) / Kemco/Seika (NES). First of the MacVenture trilogy on NES with Shadowgate and Uninvited. (Wikipedia – MacVenture)
+- Nintendo content tweaks: Drug/alcohol/violence wording softened; puzzle logic largely intact. (TCRF comparison)
+- Discuss now: Which MacVenture is the best gateway—Déjà Vu, Shadowgate, or Maniac Mansion—and why?
+- Core Gameplay Loop (sleuthing cadence, with “only-if-you-played” details woven in)
+- Loop in one line: Search → EXAMINE text → OPEN containers → USE/SHOW items → Travel by cab → Cross-check alibis → Manage meds/money until your timeline and evidence clear Ace. (StrategyWiki)
+- How the NES UI actually behaves: You move a cursor with the D-pad, choose a verb, then click a target. Many actions are two-step; the confirmation appears only in the text pane. If you skip reading, it feels like nothing happened. (Wikipedia – MacVenture)
+  - Hands-on cue: To loot a wallet, you must OPEN → wallet to reveal contents, then EXAMINE each found item. EXAMINE on a closed wallet just says “It’s a wallet,” and you’ll miss cash/ID.
+- Cab travel is learned info + money: New destinations appear only after you’ve EXAMINED an address (note, matchbook, card). Every ride costs cash, so wasted trips reduce options until you find money (e.g., bank access after proving ID). (Manual)
+- “Show, don’t tell” NPC logic: SPEAK often does nothing; NPCs react when you SHOW/USE the right item on them. Example: at the bank, showing the correct ID moves things forward, showing the wrong one gets you flagged. (StrategyWiki)
+- Medicine is a real timer: Take too few pills and text hints get vague/you pass out; take too many and you OD. There’s no big meter—only text like “you feel dizzy,” so you must space doses. (Wikipedia)
+- Discuss now: Does the medicine timer add meaningful tension, or just stress players out?
+- Locations & Travel Economy (how places actually play, spoiler-light)
+- Area flavor & what you learn by doing:
+  - Bathroom & Office (tutorial) — Teaches container logic: OPEN to reveal, then EXAMINE/USE. First evidence cascade happens here. (StrategyWiki walkthrough)
+  - Back Alleys / Toughs — The game lets you try HIT; most of the time it backfires (knockouts, robbery, arrest). Safer to leave or SHOW a relevant item.
+  - Pawn Shop / Bank / Bars — NPCs respond to proof, not talk. Bring the right ID or document. The wrong item can close off an option temporarily.
+  - Hotels / Hideouts — High info, high risk. Scenes can escalate if you were seen elsewhere carrying the wrong item.
+  - Endgame “cleanup” spots — The city effectively grades whether you wiped prints, disposed of incriminating objects properly, and stopped walking around with evidence. Get this wrong and you hit a bad ending. (General refs: StrategyWiki, Manual)
+- Puzzles, Consequences & Fail States (the “combat” of a noir adventure)
+- The game assumes you’re a PI, not a brawler: HIT is in the verb list, but it’s rarely the intended first move. Use EXAMINE/SHOW/USE to prove things; fighting often leads to knockouts or cops. (StrategyWiki – Endings)
+- Evidence procedure matters: The logic checks what you actually did with items—did you wipe surfaces, did you dispose of items in sensible places, did you carry incriminating gear into official buildings.
+  - Hands-on cue: Tossing everything into one obvious bin may still fail. Wiping and staged disposal in the right order is safer.
+- Multiple easy fail states: Arrest for carrying the gun or bloody items into the police station; OD by double-dosing meds; get jumped at a rough spot while low on health. Keep two saves: a roaming save and a pre-cleanup save. (TCRF)
+- Text window is the hint system: Clues are often one line. Read before you move.
+- Discuss now: What’s the right ratio of punishment vs. forgiveness for a console adventure like this?
+- THE FUN STUFF
+- Use SPEAK on everything—the corpse, the toilet, the safe, your hat. The game dishes out snarky “you’re talking to a ___” replies that feel like a stand-up routine.
+- HIT OR SHOOT YOURSELF yourself. Ace will actually take the punch; keep it up and you can knock yourself out. Detective work! Game says GO OUT WITH A BANG before you shoot yourself.
+- Chug the wrong meds from Dr. Brody’s stash or take them in the wrong order. Side effects include wooziness, blackouts, and hilarious “welp, you died” text.
+- Flush random items in Joe’s Bar bathroom or toss stuff into the sewer whirlpool out back—yes, including crucial evidence or your cash. Congratulations, you just soft-locked your own life.
+- Refuse to pay the cabbie or try to tip him with nonsense. He doesn’t think it’s funny; your ribs will disagree.
+- Call the police while still carrying incriminating items (gun, bloody evidence). Watching Ace get instantly arrested for his own “confession by inventory” is grimly funny.
+- Try to PUT the dead body in your inventory or drag it around. The game claps back with “he’s a bit heavy,” noir deadpan.
+- SPEAK to the gagged woman in the trunk before you untie or dose her—enjoy a chorus of muffled non-answers.
+- HIT doors, safes, and furniture like a caveman detective. The game keeps a straight face and lets you.
+- PAY random NPCs with wildly wrong items (keys, notes, syringes). It’s like bartering on a different planet.
+- OPEN things that obviously don’t open (street lamps, toilets, phones). The UI will try very hard not to laugh.
+- USE truth serum on yourself. Spoiler: you don’t become a better witness.
+- Leave the murder weapon where cops can find it, then swagger into the station to clear your name. Comedy = handcuffs.
+- Hit “GO” to the wrong neighborhood repeatedly with no cash. Enjoy the loop of getting dumped and/or shaken down.
+- Examine every piece of trash like it’s the Rosetta Stone. The game rewards obsessive rummaging with wry one-liners.
+- STORY BEATS
+- You wake up in the bathroom of Joe’s Bar in Chicago with amnesia, a sore needle mark, and only a few items to go on. GameFAQs
+- Exploring the bar leads you upstairs to a secret office with a murdered man (Joey Siegel) and a wall safe you can’t yet open. StrategyWiki
+- Clues in the bar (like a doctor’s bill) point you to Dr. Brody’s office—evidence you’ve been drugged and a hint at how to treat it. GameFAQs+1
+- You follow the paper trail around the city to regain your bearings:
+- Dr. Brody’s office supplies the drugs/info needed to counter your condition.
+- Your own P.I. office (Stanford Arms) helps re-establish that you’re Ace Harding and arms you with more leads. walkthroughking.com
+- You track Joey Siegel’s apartment and connections, gathering addresses, combinations, and names that tie the players together. StrategyWiki
+- A tip takes you behind Joe’s Bar to a car trunk with a bound woman; under truth serum she gives you a key address that advances the case. walkthroughking.com
+- You visit the Auburn Road estate, rough-and-tumble your way past the staff, and uncover ransom notes/notepad impressions that expose motive and timeline. walkthroughking.com
+- With more searching, you finally open the safe in Joey Siegel’s office, pulling a folder and key that link the murder, the money, and who’s framing you. StrategyWiki
+- To avoid getting pinned with the killing, you ditch the murder weapon in the sewer whirlpool behind Joe’s Bar. walkthroughking.com
+- Armed with the diary, notepad impression, letters, and the safe’s contents, you go to the police; the compiled evidence clears your name and wraps the case.
+- Comparisons & Legacy
+- Follow-up: Déjà Vu II: Lost in Las Vegas continues Ace’s story (Wikipedia)
+- A port for the Nintendo Entertainment System was advertised in an issue of Nintendo Power in 1993, but was cancelled mid-development, possibly due to it being released after the NES's lifespan had ended.[1] A version for the Game Boy Color, developed by Kemco, was released as part of Deja Vu I & II: The Casebooks of Ace Harding in 1999. Like its predecessor, elements were censored in this version, such as replacing the game over screen depicting a gun wielding Grim Reaper with a gravestone. However, some scenes, including the ending, were expanded upon with more detail.
+- Deja Vu II received generally mixed reviews; critics praised the story but were divided on the gameplay and puzzles.
+- Discuss now: If you modernized this, which QoL (hotkeys, text logs, hint tiers) keeps the soul intact without removing the challenge?
+- We’ve been here before, or have we. It’s time for THE ESSENTIAL GAMES LIST.
+- Ironically maybe, Deja Vu is about amnesia.

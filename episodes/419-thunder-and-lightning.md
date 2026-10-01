@@ -1,0 +1,60 @@
+# 419 - Thunder and Lightning
+
+- The Thunder warrior is not pleased with Mr. Chin’s meal chasing escapade
+- General Overview
+- What it is: A Breakout/Arkanoid-style paddle game where Mr. Chin bats a “Demoe Ball” into block patterns called the Walls of Regret. MobyGames+2GameFAQs+2
+- Alt title: Known in Japan as Family Block (published by Athena, release listed as 04/12/1991). GameFAQs+1
+- Big hook: It is a paddle game, but with a goofy story wrapper, power-up “carriers,” and nuisance enemies that actively sabotage your paddle and ball. MobyGames+2DigitPress+2
+- Offbeat questions
+- Is this “Arkanoid with personality,” or “Arkanoid with distractions”?
+- Does the Mr. Chin framing make it memorable, or just confusing?
+- Franchise and Context
+- Mr. Chin continuity: The manual positions this as another Mr. Chin misadventure, that’s cause he was in a Game Boy, Mr. Chin's Gourmet Paradise. It was not an arkanoid game. It was a puzzle platformer.
+- Story and Objective
+- Setup: Mr. Chin’s endless search for delicacies lands him in trouble with the Thunder Warrior, who traps him within the Thirty Walls of Regret. DigitPress+1
+  - Shouldn’t it be a 7 deadly sins thing and he’s in the thirty walls of gluttony?
+- Goal: Break through wall after wall by clearing the block patterns, keeping the Ball in play, and surviving hazards long enough to escape. DigitPress+1
+- Why does the manual frame this as punishment and regret, instead of a simple arcade challenge? https://www.world-of-nintendo.com/manuals/nes/thunder_and_lightning.shtml
+- Core Gameplay Loop
+- Moment to moment
+  - Move
+  - Hit the ball into blocks
+  - Deal with enemies that interfere with your control or rebuild the wall. DigitPress+1
+- Offbeat questions
+- Do you prefer your Breakout games as clean puzzles?
+- Speed tech
+  - The manual notes Mr. Chin can run faster if you hold direction + B. DigitPress
+- Is the “run faster” trick a convenience, or secretly mandatory once the game speeds up? DigitPress
+- Game Types and Multiplayer
+- 1 Player: Three lives. DigitPress
+- 2 Player Type A: Alternating play, separate screens and scores. DigitPress
+- 2 Player Type B: Simultaneous play, each player controls one side, scores are totaled, and you effectively share fate. DigitPress+1
+- In Type B, do you naturally divide responsibilities (left player controls low angles, right player controls high angles), or do you both chase everything?
+- Power-Ups and How You Actually Use Them
+- How power-ups appear: Carriers float by (flying saucer, submarine, airplane). Hit them with the ball to drop an item, then catch it with your paddle. DigitPress+1
+- Notable items
+  - Glove: Catch and hold the ball, release with A. DigitPress+1
+  - Long: Longer paddle. DigitPress+1
+  - 1-Up: Extra life. DigitPress+1
+  - Missile: Fire a missile (A), can stack for two missiles. DigitPress+1
+  - Big: Big ball that smashes through blocks. DigitPress+1
+  - Slow: Slows the ball. DigitPress+1
+  - 3-Arrow / 6-Arrow: Multi-ball chaos (three balls or six balls). DigitPress+1
+- Offbeat questions
+- Does multi-ball feel like a power-up or a panic button you immediately regret?
+- Is there anything better than Globe?
+- Enemies, Hazards, and “Why am I losing control”
+- These are the game’s real personality.
+- Sea Anemone (Uh-nem-oh-nee): Captures the ball and splits it into two smaller balls. DigitPress+1
+- Octopus: Pops out of a vase and latches onto your stick, slowing your movement. DigitPress+1
+- Turtles: Walk over the wall and turn into blocks that hinder progress. DigitPress+1
+- Bird: If you hit it, you temporarily lose control as it smashes through blocks, then leaves. DigitPress+1
+- Thunder Warrior event: Appears in cloud scenes, surrounded by lightning. Hit him with the ball to stun him briefly, but if lightning hits Mr. Chin you get paralyzed. DigitPress+1
+- Arcade Original and Ports
+- Arcade roots: Thunder & Lightning also exists as an arcade release (1990), with Seta involved in the arcade version’s production/publishing history. MobyGames+1
+- NES version: US release via Romstar, Japan release as Family Block via Athena. GameFAQs+1
+- Later re-release: MobyGames lists a Windows release (2016) of the NES game.
+- Sequels and Spinoffs
+- Thunder & Lightning 2 / Block Carnival: There is a follow-up commonly associated with Thunder & Lightning 2, also known as Block Carnival, listed as a 1992 release in arcade databases. Arcade Italia+1
+- Much more food focused (you hit food instead of blocks), but it looks like shovelware.
+- Essential Games List segue

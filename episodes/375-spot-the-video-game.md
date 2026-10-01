@@ -1,0 +1,24 @@
+# 375 - Spot: The Video Game
+
+- Warning: Not recommended for Squares
+- 1. Introduction
+- Overview of Spot: The Video Game.
+- Released in 1990 by Virgin Mastertronic.
+- Featured 7-Up’s mascot, Spot.
+- 2. Gameplay Mechanics
+- Based on Othello/Reversi. If there’s one way to make my soda mascot stand out its going to be by reinventing the rules to a 100+ year old game.
+- Played on a 7x7 board, with ability to edit the board to lose as many squares as you want
+- Two to four players alternated turns, with each player controlling pieces of a specific color. On each turn, a player selects an existing piece of their color, and then an empty position one or two squares away. If the selected location is one square away, a new piece is created in that location; otherwise, the chosen piece moves from its original location to the new location. In either case, all adjacent pieces are then changed to that player's color.
+- Animated Spot character adds charm with moves like dancing and roller skating.
+- 3. Development History
+- Origins: Created as Infection by Dave Crummack and Craig Galley in 1988 for Wise Owl Software.
+- Commercial Path: Virgin Mastertronic UK acquired rights, but Infection versions for Amiga, C64, and Atari ST never saw release.
+- Arcade Version: Licensed to Leland Corporation, released as Ataxx in 1990.
+- 7-Up Branding: Virgin Mastertronic US added branding and released it as Spot: The Video Game.
+- Development: NES version created in six weeks with minimal resources.
+- Promotion: NES version was briefly offered for $24.99 with four 7-Up bottle labels.
+- 4. Versions & Platforms
+- Available on NES, Game Boy, Amiga, MS-DOS, and Atari ST.
+- Differences in multiplayer and graphics across platforms.
+- 6. Cultural Impact
+- Paved the way for Spot: The Cool Adventure (Game Boy) [a port of the NES game, M.C. Kids.], Cool Spot (Genesis) and Spot Goes to Hollywood (Genesis)m
