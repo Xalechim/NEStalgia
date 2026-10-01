@@ -1,0 +1,594 @@
+{
+  "episode": 447,
+  "title": "447 - Bill Elliot Nascar Challenge",
+  "generated": "2026-10-01",
+  "model": null,
+  "method": "sample: written by Claude Code from the transcript, links verified by script",
+  "transcript_hash": "3b54fbd600c9",
+  "items": [
+    {
+      "name": "Bill Elliott's NASCAR Challenge",
+      "kind": "game",
+      "description": "The episode's game: Konami's 1991 NASCAR-licensed simulation racer, first-person with tuning and pit stops.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bill_Elliott's_NASCAR_Challenge",
+          "label": "Wikipedia: Bill Elliott's NASCAR Challenge",
+          "source": "wikipedia",
+          "note": "1991 video game by Distinctive Software"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/nes/587139-bill-elliotts-nascar-challenge",
+          "label": "Bill Elliott's NASCAR Challenge for NES - GameFAQs",
+          "source": "reference"
+        },
+        {
+          "url": "https://tcrf.net/Bill_Elliott's_NASCAR_Challenge_(NES)",
+          "label": "Bill Elliott's NASCAR Challenge (NES) - The Cutting Room Floor",
+          "source": "reference"
+        },
+        {
+          "url": "https://takeontheneslibrary.com/finished/81-bill-elliotts-nascar-challenge/",
+          "label": "Take on the NES Library #81: Bill Elliott's NASCAR Challenge",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Bill Elliott",
+      "kind": "person",
+      "description": "The NASCAR champion who co-designed the game, shows up in the credits, and wins nearly every race in it.",
+      "timestamp": "00:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bill_Elliott",
+          "label": "Wikipedia: Bill Elliott",
+          "source": "wikipedia",
+          "note": "American racing driver and team owner (born 1955)"
+        }
+      ]
+    },
+    {
+      "name": "NASCAR",
+      "kind": "company",
+      "description": "Racing series whose license this is believed to be the first video game to use.",
+      "timestamp": "00:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NASCAR",
+          "label": "Wikipedia: NASCAR",
+          "source": "wikipedia",
+          "note": "American automobile racing company"
+        }
+      ]
+    },
+    {
+      "name": "Distinctive Software",
+      "kind": "company",
+      "description": "Developer credited on the game's title screen.",
+      "timestamp": "06:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/EA_Vancouver",
+          "label": "Wikipedia: EA Vancouver",
+          "source": "wikipedia",
+          "note": "Canadian video game developer owned by Electronic Arts"
+        }
+      ]
+    },
+    {
+      "name": "Konami",
+      "kind": "company",
+      "description": "The game's publisher, which ran the contest to win a trip to the 1992 Daytona 500.",
+      "timestamp": "22:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami",
+          "label": "Wikipedia: Konami",
+          "source": "wikipedia",
+          "note": "Japanese entertainment and video game company"
+        }
+      ]
+    },
+    {
+      "name": "Days of Thunder",
+      "kind": "game",
+      "description": "The earlier NES game based on the NASCAR movie, but without the NASCAR license.",
+      "timestamp": "01:20",
+      "links": [],
+      "episode_key": "381-days-of-thunder",
+      "episode_title": "Days of Thunder"
+    },
+    {
+      "name": "Days of Thunder (movie)",
+      "kind": "film_tv_music",
+      "description": "The Tom Cruise NASCAR movie the earlier NES game was based on.",
+      "timestamp": "01:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Days_of_Thunder",
+          "label": "Wikipedia: Days of Thunder",
+          "source": "wikipedia",
+          "note": "1990 sports action drama film by Tony Scott"
+        }
+      ]
+    },
+    {
+      "name": "Cars (movie)",
+      "kind": "film_tv_music",
+      "description": "Mike's joke about Lightning McQueen saying \"I am speed\".",
+      "timestamp": "00:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cars_(film)",
+          "label": "Wikipedia: Cars (film)",
+          "source": "wikipedia",
+          "note": "2006 film by John Lasseter"
+        }
+      ]
+    },
+    {
+      "name": "Lightning McQueen",
+      "kind": "film_tv_music",
+      "description": "The Cars character behind the \"I am speed\" line.",
+      "timestamp": "00:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lightning_McQueen",
+          "label": "Wikipedia: Lightning McQueen",
+          "source": "wikipedia",
+          "note": "Fictional character from Cars franchise"
+        }
+      ]
+    },
+    {
+      "name": "Cars 2",
+      "kind": "film_tv_music",
+      "description": "Where Mike guessed \"if you ain't first, you're last\" came from.",
+      "timestamp": "01:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cars_2",
+          "label": "Wikipedia: Cars 2",
+          "source": "wikipedia",
+          "note": "2011 film by John Lasseter"
+        }
+      ]
+    },
+    {
+      "name": "Talladega Nights",
+      "kind": "film_tv_music",
+      "description": "The actual source of \"if you ain't first, you're last\".",
+      "timestamp": "01:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Talladega_Nights%3A_The_Ballad_of_Ricky_Bobby",
+          "label": "Wikipedia: Talladega Nights: The Ballad of Ricky Bobby",
+          "source": "wikipedia",
+          "note": "2006 American sports comedy film"
+        }
+      ]
+    },
+    {
+      "name": "Dodgeball",
+      "kind": "film_tv_music",
+      "description": "The other movie Mike confused the quote with.",
+      "timestamp": "01:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dodgeball%3A_A_True_Underdog_Story",
+          "label": "Wikipedia: Dodgeball: A True Underdog Story",
+          "source": "wikipedia",
+          "note": "2004 sports comedy film by Rawson Thurber"
+        }
+      ]
+    },
+    {
+      "name": "Jordan vs Bird: One on One",
+      "kind": "game",
+      "description": "Mentioned when the hosts debate whether the NES ever got a proper NBA game.",
+      "timestamp": "02:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jordan_vs._Bird%3A_One_on_One",
+          "label": "Wikipedia: Jordan vs. Bird: One on One",
+          "source": "wikipedia",
+          "note": "1988 sports video game"
+        }
+      ],
+      "episode_key": "209-jordan-vs-bird-one-on-one",
+      "episode_title": "Jordan VS Bird: One on One"
+    },
+    {
+      "name": "Super Cars",
+      "kind": "game",
+      "description": "The racing game from the previous episode, used to talk about capturing a sense of speed.",
+      "timestamp": "04:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Cars",
+          "label": "Wikipedia: Super Cars",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "445-super-cars",
+      "episode_title": "Super Cars"
+    },
+    {
+      "name": "Talladega Superspeedway",
+      "kind": "other",
+      "description": "The track Sean attended a NASCAR race at, and where Bill Elliott set the qualifying speed record.",
+      "timestamp": "04:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Talladega_Superspeedway",
+          "label": "Wikipedia: Talladega Superspeedway",
+          "source": "wikipedia",
+          "note": "Motorsport track in the United States"
+        }
+      ]
+    },
+    {
+      "name": "Al Unser Jr.'s Turbo Racing",
+      "kind": "game",
+      "description": "The earlier NES racer Mike calls the closest thing to this game's simulation approach.",
+      "timestamp": "09:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Al_Unser_Jr.'s_Turbo_Racing",
+          "label": "Wikipedia: Al Unser Jr.'s Turbo Racing",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "278-al-unser-jrs-turbo-racing",
+      "episode_title": "Al Unser Jr's Turbo Racing"
+    },
+    {
+      "name": "Rad Racer",
+      "kind": "game",
+      "description": "The arcade-style NES racer that a four-year-old can pick up, unlike this one.",
+      "timestamp": "09:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rad_Racer",
+          "label": "Wikipedia: Rad Racer",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "077-rad-racer",
+      "episode_title": "RAD RACER"
+    },
+    {
+      "name": "Watkins Glen International",
+      "kind": "other",
+      "description": "The road course Sean tried first and found too hard.",
+      "timestamp": "10:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Watkins_Glen_International",
+          "label": "Wikipedia: Watkins Glen International",
+          "source": "wikipedia",
+          "note": "Motorsport track in the United States"
+        }
+      ]
+    },
+    {
+      "name": "Daytona International Speedway",
+      "kind": "other",
+      "description": "The oval Sean moved to after Watkins Glen.",
+      "timestamp": "10:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Daytona_International_Speedway",
+          "label": "Wikipedia: Daytona International Speedway",
+          "source": "wikipedia",
+          "note": "Motorsport track in the United States"
+        }
+      ]
+    },
+    {
+      "name": "Daytona USA",
+      "kind": "game",
+      "description": "The arcade racer with a third-person view that Mike contrasts with this game's cockpit view.",
+      "timestamp": "11:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Daytona_USA",
+          "label": "Wikipedia: Daytona USA",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Spy Hunter",
+      "kind": "game",
+      "description": "What the top-down pit stop mini-game reminds Sean of.",
+      "timestamp": "13:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spy_Hunter",
+          "label": "Wikipedia: Spy Hunter",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "067-spy-hunter",
+      "episode_title": "Spy Hunter"
+    },
+    {
+      "name": "Gran Turismo",
+      "kind": "game",
+      "description": "The series where Mike always has to copy someone else's tuning setup.",
+      "timestamp": "14:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gran_Turismo_(series)",
+          "label": "Wikipedia: Gran Turismo (series)",
+          "source": "wikipedia",
+          "note": "Series of racing video games"
+        }
+      ]
+    },
+    {
+      "name": "Restrictor plate",
+      "kind": "event_or_term",
+      "description": "Why Bill Elliott's 212.809 mph qualifying record can never be broken.",
+      "timestamp": "19:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Restrictor_plate",
+          "label": "Wikipedia: Restrictor plate",
+          "source": "wikipedia",
+          "note": "Device installed at the intake of an engine to limit its power"
+        }
+      ]
+    },
+    {
+      "name": "Bobby Allison",
+      "kind": "person",
+      "description": "His 1987 Talladega crash led NASCAR to mandate restrictor plates.",
+      "timestamp": "19:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bobby_Allison",
+          "label": "Wikipedia: Bobby Allison",
+          "source": "wikipedia",
+          "note": "American racing driver (1937–2024)"
+        }
+      ]
+    },
+    {
+      "name": "Dale Earnhardt",
+      "kind": "person",
+      "description": "Mike's \"Raise hell, praise Dale\" aside.",
+      "timestamp": "19:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dale_Earnhardt",
+          "label": "Wikipedia: Dale Earnhardt",
+          "source": "wikipedia",
+          "note": "American racing driver (1951–2001)"
+        }
+      ]
+    },
+    {
+      "name": "Major League Baseball Featuring Ken Griffey Jr.",
+      "kind": "game",
+      "description": "The N64 baseball game whose cheat lets Griffey homer every time, as an example of a toggleable star-player cheat.",
+      "timestamp": "21:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Major_League_Baseball_Featuring_Ken_Griffey_Jr.",
+          "label": "Wikipedia: Major League Baseball Featuring Ken Griffey Jr.",
+          "source": "wikipedia",
+          "note": "1998 baseball video game"
+        }
+      ]
+    },
+    {
+      "name": "Kobe Bryant in NBA Courtside",
+      "kind": "game",
+      "description": "The other N64 game Sean cites with a star athlete on the cover.",
+      "timestamp": "21:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kobe_Bryant_in_NBA_Courtside",
+          "label": "Wikipedia: Kobe Bryant in NBA Courtside",
+          "source": "wikipedia",
+          "note": "1998 basketball video game"
+        }
+      ]
+    },
+    {
+      "name": "Dwayne Johnson",
+      "kind": "person",
+      "description": "The \"can't lose a fight in a movie\" contract clause the hosts argue about.",
+      "timestamp": "21:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dwayne_Johnson",
+          "label": "Wikipedia: Dwayne Johnson",
+          "source": "wikipedia",
+          "note": "American actor and professional wrestler (born 1972)"
+        }
+      ]
+    },
+    {
+      "name": "Vin Diesel",
+      "kind": "person",
+      "description": "The actor the clause is sometimes mixed up with.",
+      "timestamp": "21:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Vin_Diesel",
+          "label": "Wikipedia: Vin Diesel",
+          "source": "wikipedia",
+          "note": "American actor (born 1967)"
+        }
+      ]
+    },
+    {
+      "name": "Fast & Furious",
+      "kind": "film_tv_music",
+      "description": "The franchise where the Rock and Vin Diesel's feud became public.",
+      "timestamp": "21:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fast_%26_Furious",
+          "label": "Wikipedia: Fast & Furious",
+          "source": "wikipedia",
+          "note": "Universal Pictures media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Daytona 500",
+      "kind": "event_or_term",
+      "description": "The race the contest winner got a trip to in 1992.",
+      "timestamp": "22:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Daytona_500",
+          "label": "Wikipedia: Daytona 500",
+          "source": "wikipedia",
+          "note": "Auto race held in Daytona, Florida, United States"
+        }
+      ]
+    },
+    {
+      "name": "Ford Thunderbird",
+      "kind": "other",
+      "description": "The car reportedly given to the contest winner; the real Bill Elliott drove one.",
+      "timestamp": "23:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ford_Thunderbird",
+          "label": "Wikipedia: Ford Thunderbird",
+          "source": "wikipedia",
+          "note": "Luxury car model by Ford (1955–2005)"
+        }
+      ]
+    },
+    {
+      "name": "Chevrolet Lumina",
+      "kind": "other",
+      "description": "The car Sean drove in the game; the hosts joke the NASCAR car is a Malibu.",
+      "timestamp": "25:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chevrolet_Lumina",
+          "label": "Wikipedia: Chevrolet Lumina",
+          "source": "wikipedia",
+          "note": "Chevrolet nameplate used for a sedan, coupé, and minivan"
+        }
+      ]
+    },
+    {
+      "name": "Xbox Game Pass",
+      "kind": "other",
+      "description": "Where Mike says the newer NASCAR games have been free to try.",
+      "timestamp": "25:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xbox_Game_Pass",
+          "label": "Wikipedia: Xbox Game Pass",
+          "source": "wikipedia",
+          "note": "Video game subscription service by Microsoft"
+        }
+      ]
+    },
+    {
+      "name": "MLB The Show",
+      "kind": "game",
+      "description": "Used in Sean's analogy for a career mode that starts in high school.",
+      "timestamp": "27:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/MLB%3A_The_Show",
+          "label": "Wikipedia: MLB: The Show",
+          "source": "wikipedia",
+          "note": "American baseball video game series"
+        }
+      ]
+    },
+    {
+      "name": "R.C. Pro-Am",
+      "kind": "game",
+      "description": "Cited with Rad Racer as the arcade racers still fun today.",
+      "timestamp": "31:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/R.C._Pro-Am",
+          "label": "Wikipedia: R.C. Pro-Am",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "097-r-c-pro-am",
+      "episode_title": "R.C. PRO-AM"
+    },
+    {
+      "name": "Bill Elliott's NASCAR Fast Tracks",
+      "kind": "game",
+      "description": "The Game Boy cousin, released the same year, that keeps the first-person cockpit view.",
+      "timestamp": "32:54",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/game/31864/bill-elliotts-nascar-fast-tracks/",
+          "label": "Bill Elliott's NASCAR Fast Tracks (1991) - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/gameboy/585631-bill-elliotts-nascar-fast-tracks",
+          "label": "Bill Elliott's NASCAR Fast Tracks for Game Boy - GameFAQs",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy",
+      "kind": "hardware",
+      "description": "Handheld that got the cockpit-view cousin of this game.",
+      "timestamp": "32:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy",
+          "label": "Wikipedia: Game Boy",
+          "source": "wikipedia",
+          "note": "Handheld Nintendo game console"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Bytes",
+      "kind": "website_or_article",
+      "description": "The hosts' Patreon show about Famicom games; Mike wonders about an episode on Game Boy ports of NES games.",
+      "timestamp": "32:54",
+      "links": [
+        {
+          "url": "https://www.patreon.com/nestalgia",
+          "label": "NEStalgia on Patreon",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "Where the hosts' verdicts are collected; this one was a clear no.",
+      "timestamp": "28:46",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

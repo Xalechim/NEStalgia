@@ -403,7 +403,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 444 | Ski or Die | [notes](444-ski-or-die.md) |
 | 445 | Super Cars | [notes](445-super-cars.md) |
 | 446 | Touchdown Fever | [notes](446-touchdown-fever.md), [transcript](../transcripts/446-touchdown-fever.md) |
-| 447 | Bill Elliot's NASCAR Challenge | [notes](447-bill-elliots-nascar-challenge.md) |
+| 447 | Bill Elliot's NASCAR Challenge | [notes](447-bill-elliots-nascar-challenge.md), [transcript](../transcripts/447-bill-elliot-nascar-challenge.md) |
 | 448 | Harlem Globetrotters *(unreleased)* | [notes](448-harlem-globetrotters.md) |
 | 449 | Indiana Jones and the Last Crusade *(unreleased)* | [notes](449-indiana-jones-and-the-last-crusade.md) |
 | 450 | MetalMech: Man & Machine *(unreleased)* | [notes](450-metalmech-man-machine.md) |

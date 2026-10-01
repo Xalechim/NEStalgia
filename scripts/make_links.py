@@ -110,11 +110,18 @@ def wikipedia_page(title):
     if not title:
         return None
     api = "https://en.wikipedia.org/api/rest_v1/page/summary/" + urllib.parse.quote(title.replace(" ", "_"), safe="")
-    try:
-        data = json.loads(http(api).read())
-    except urllib.error.HTTPError:
-        return None
-    except Exception:
+    data = None
+    for attempt in range(3):  # retry temporary trouble; a real 404 means the page doesn't exist
+        try:
+            data = json.loads(http(api).read())
+            break
+        except urllib.error.HTTPError as e:
+            if e.code in (404, 400):
+                return None
+        except Exception:
+            pass
+        time.sleep(1.5 * (attempt + 1))
+    if data is None:
         return None
     if data.get("type") != "standard":  # disambiguation, missing, etc.
         return None
@@ -127,6 +134,8 @@ def wikipedia_page(title):
 def wikipedia_lookup(title, name, kind):
     """Exact title first; otherwise search Wikipedia and accept only a closely matching result."""
     page = wikipedia_page(title)
+    if page and kind == "game" and "game" not in page["description"].lower():
+        page = None  # e.g. "Days of Thunder (video game)" redirects to the movie; don't link a game to a film
     if page or not name:
         return page
     q = urllib.parse.urlencode({"action": "query", "list": "search", "srsearch": name + (" video game" if kind == "game" else ""), "srlimit": 8, "format": "json"})
@@ -152,6 +161,8 @@ def url_alive(url):
             http(url, method=method).close()
             return True
         except urllib.error.HTTPError as e:
+            if e.code in (301, 302, 303, 307, 308):
+                return True  # a redirect (older Pythons don't follow 308): the page exists
             if e.code in (401, 403, 405, 429, 999) and method == "GET":
                 return True  # exists, but won't talk to scripts
             if e.code in (404, 410) or e.code >= 500:

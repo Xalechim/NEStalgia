@@ -1,0 +1,211 @@
+# 447 - Bill Elliot Nascar Challenge
+
+_Auto-generated transcript. Speakers identified from the hosts' separate microphone tracks. The opening name introductions are left as "Hosts"._
+
+**Mike** [00:00]: Bill Elliott's NASCAR Challenge, experience life in the fast lane.
+
+**Mike** [00:20]: And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+**Hosts** [00:28]: I'm Mike. And I'm Sean.
+
+**Mike** [00:31]: And I'm Bill Elliott. Now, could you imagine?
+
+**Sean** [00:34]: What a guest spot. Is he still around?
+
+**Mike** [00:38]: I don't know. I didn't look up before the episode, so maybe that was in bad taste.
+
+**Sean** [00:42]: That's okay. He goes fast. We all know it.
+
+**Mike** [00:45]: Yeah. Yeah, he's actually, he is speed.
+
+**Sean** [00:49]: Is that what he said?
+
+**Mike** [00:51]: No, that's, what's his name from Cars? Lightning McQueen? He's like, I am speed. It's like, I feel like every NASCAR driver should say that if they grew up watching Cars. Because those kids that grew up watching Cars are now driving the Cars.
+
+**Sean** [01:06]: And if he ain't first, you're last.
+
+**Mike** [01:08]: Yeah, that was probably in Cars 2.
+
+**Sean** [01:10]: Well, that's Talladega Nights. Oh, perfect.
+
+**Mike** [01:14]: Yes, of course. I was thinking it was Dodgeball for some reason.
+
+**Sean** [01:18]: Yeah, same thing. Similar vibe.
+
+**Mike** [01:20]: Yeah. Now, we've kind of had a similar vibe to this kind of game before when we played Days of Thunder, the game based on the movie. Yes. And that movie had the NASCAR, had the NASCAR license and obviously all took place in the NASCAR environment. But the game did not. And so this is now the first time that a racing game, of which we've had many, they don't usually go for the realistic. But here we are with Bill Elliott's NASCAR Challenge, NASCAR in the title on the starting screen. Right. On the starting screen, the NASCAR logo beautifully recreated here in 8-bit. So this is like a big deal because at this point, I feel like every other major sport has been represented, right?
+
+**Sean** [02:13]: Maybe not the NBA, actually.
+
+**Mike** [02:15]: Did we get an NBA game?
+
+**Sean** [02:17]: Well, we got some NBA players. I don't know. I think that counts, right?
+
+**Mike** [02:22]: Yeah. Michael Jordan, if Jordan and Bird are version each other, that's basically the whole NBA at that point anyway.
+
+**Sean** [02:28]: Yeah, exactly. But no, I don't think we actually got an NBA game yet.
+
+**Sean** [02:34]: Anyway, NASCAR, do you have any history with NASCAR?
+
+**Mike** [02:38]: I don't have any history with NASCAR. I have watched a few races. It is a thing you can do, especially with a drink.
+
+**Sean** [02:47]: Yeah, nobody tells you to not do it. You can just do it.
+
+**Mike** [02:51]: Yeah, yeah. So I have watched a few. Don't think I understand enough about like, or maybe I do understand enough and that's why I'm out of it. But to me, both F1 and NASCAR have this problem, which is unavoidable. There's really no way around it. They can't drive while the cars are like fucked up on the track. But when that happens, it causes a, you know, a safety car to come out and everybody has to slow down. And, you know, any like sort of lead that was gained is now like, you know, you still keep your position. Yeah. But you now have to drive slowly around. And I've seen NASCAR races where they just end on the safety lap. And that just feels like such bullshit. Yeah. I just, it's like, that would be like if, you know, in the, well, I guess actually the equivalent, the closest I can think of is in the NFL when they just can have the ability to just run the clock.
+
+**Sean** [03:43]: Like, no, I'm not playing anymore. You can just kneel. You're just going to kneel. Yeah. It's funny. I grew up with NASCAR on in the house, but I don't think anyone really gave a shit. Like even like my, my stepdad who would have it on didn't seem to be reacting in any way to whatever was happening in the race. It was just, he was just on his rocking chair, just staring at the screen. And I was just like, oh, NASCAR. And he'd be like, yep. And he would just kind of look at it. And that's just sort of the relationship that I developed with it. Like I never really, unless something was actually crashing into another thing. Um, I wasn't paying too much attention to NASCAR.
+
+**Mike** [04:31]: Now to defend the NASCAR fans out there, I don't want them to think that we think that, uh, we're objectively correct here. We just didn't grow up in the NASCAR landscape. Like there's no NASCAR races coming to Buffalo.
+
+**Sean** [04:43]: Uh, and there were certainly none coming to Long Island. Yeah, but they come to Lockheed Glen. And that's right between both of us.
+
+**Mike** [04:48]: Okay. But you, but would you go?
+
+**Sean** [04:50]: I would go. I have been to a Talladega race.
+
+**Mike** [04:53]: I, okay. So this is exciting. Cause that's what I was going to ask you next is like, I was going to say that to me, the, the core appeal of a NASCAR race cannot be captured on TV for something that we were talking about in the supercars episode, which is that like, you know, you just can't capture that sense of speed. It's like, it's kind of unbelievable how fast those cars are going, but when they're all going that speed and the cameras tracking them all on TV, it's just not nearly as exciting as just hearing and feeling and being there. You know? Yeah, exactly. That is, that's like the difference. That's the NASCAR experience.
+
+**Sean** [05:29]: Yeah. So when I went, I was way too young to really fully take advantage of it. Like if I went there in my twenties, it probably would have been like a near religious experience, um, with just how centered, uh, the drinking culture is there. But, um, yeah, it was very fast. Uh, they, they really get back past you. It was very loud. Um, but I'd say after the first 15 or so laps, it does kind of get like hypnotic and like in a bad way, kind of repetitive. And you're sort of waiting, like how long does this go? Um, but I was too young to fully enjoy the atmosphere.
+
+**Mike** [06:14]: And while this is believed to be the very first video game to ever use the NASCAR license, I thought what was more interesting is that as the, um, after the opening screen with the NASCAR splash, you have, uh, the credits for the game. It has the logo for distinctive software. And in the credits, in the design and program section is Bill Elliott. Like that's the kind of thing that like you usually put as like a special thanks or a featuring. Right. But he's like, I'm supposed to believe he coded the game.
+
+**Sean** [06:45]: I have to imagine that like, I don't know. There, there's something about now to actually talk about the game. There is something that feels very authentic about this game. I don't know if it's because it actually feels like a bit more realistic than most, whether it's visually or, um, the way that the vehicles handle, but like they, anytime you have to tune a car. Yeah. In a video game.
+
+**Mike** [07:12]: I'm automatically sold that it's more realistic than the ones that just let you hop in and do automatic.
+
+**Sean** [07:16]: Well, I completely like ignored all of the shit I could sort of, uh, mess around with. Cause I didn't know what any of it meant. Um, I, I, but I made sure to use manual because I'm not a coward.
+
+**Mike** [07:30]: Um, but like, can you, can you say a little more about that, Sean, though? Cause you gave an interesting perspective to me when we were, um, at long Island retro gaming expo, uh, when we were doing the arcade racers. And obviously those have, you know, they have a wheel, they have pedals, they have, um, the gearbox. So you, you said something very interesting about your philosophy behind choosing manual, even though you would not drive a manual car in real life.
+
+**Sean** [07:56]: I don't entirely remember what I told you.
+
+**Mike** [07:58]: Um, I know, I know we talked about this, but you said, what's the point of, of playing a racing video game? If, if I'm not like, it's like, it's basically like having at that point, why steer too, right? Like if it's going to do the gears for you and what, what are, you know, I totally agree because for the longest time I was an automatic transition, uh, kid growing up just because I couldn't even understand the concept because we didn't own a manual car. But once I like got into it, I was like, not only does it make you a faster, better driver in these games, but it's also just like, it's more immersive. Yeah. You kind of, you kind of have to, like, even if you do a bad job, it's like you're a bad driver then.
+
+**Sean** [08:36]: Exactly. And I'm not going to blow a trans, well, you could blow your transmission in this game, but I'm not blowing my transit transmission, uh, and then having to spend thousands of dollars to replace it. I just have to do the race again. Um, so yeah, it's, it's fun. So, I mean, that's all to say that I totally buy that Bill Elliott or one of Bill Elliott's people advised on maybe some like game feel or like systems in this. Cause like, I just don't, it feels way too good compared to a lot of other racers that we've played.
+
+**Mike** [09:20]: Yeah. I would definitely agree there, especially on the simulation front. I think the closest thing we have is the F1 counterpart, um, Al Unser Jr.'s, uh, turbo racing, I think was the name of the game.
+
+**Sean** [09:31]: Was that F1 or was that Indy?
+
+**Mike** [09:33]: Oh, right. Maybe that was Indy. Yeah. Sorry. Um, now I can't, or was that the one that you work up to F1? Like is the last car you can get an F1 car?
+
+**Sean** [09:42]: Oh, that's a good question.
+
+**Mike** [09:43]: I do remember that one too.
+
+**Sean** [09:44]: I think that's different.
+
+**Mike** [09:46]: Maybe I'm merging two games together. Yeah. Anyway, that was, you know, this has never been done with these kinds of cars and this kind of speed behind them and everything. So I do agree with you. Um, and I will just say too, it's like, it's the kind of thing that is intimidating at the same time. Like part of the appeal of having Rad Racer on the NES is that you can just literally be four years old, plug in that game and get the concept of trying to win a race. Like that, that, that, that comes across easy now with the tuning and you know, the difference between manual and your engine and all that and the different cars. And then like learning the track layouts, doing the qualifying laps, like this is definitely, um, a step above in the polish of a racing game, but it is also an intimidating kind of racing game as a result. Do you think that this is the kind of thing that, um, you know, that, uh, you can just jump into and play or do you kind of, do you kind of suck at first for a long time before you get good?
+
+**Sean** [10:44]: Well, well, Mike, the first thing that happened when I got into the race was I immediately just tailspinned and I had everybody blow by me because I didn't entirely know how to accelerate slash shift. So the first turn that you take is just going to make you lose complete control. That was what, that was my experience. Um, and then, yeah, it took a few more tries. To even like clear a turn without hitting the wall. Uh, and then I, then I decided I'm playing on hard mode. I got to get out of Watkins Glen road courses probably shouldn't be the first thing you do. So then I moved to just a typical like oval ish circuit. Like I think I did Daytona first. Um, and there was a little bit easier, but I'm still hitting the wall. I'm still, I'm still wiping out. Um, but I'd say it took like six or seven races to even get a good, a good feel for the game.
+
+**Mike** [11:52]: Yeah. I spent a lot of time in the qualifying, um, just to kind of even learn, you know, you know, cause it's NASCAR too. It's like, am I, am I breaking? Like, am I just always supposed to be accelerating? Like, how do I do the turns? You know, I know that the, the turns are also very forgiving in these kinds of tracks. It's not like indie racing. So I just was like, I needed to have that kind of, um, cause it's a, it's a first person view through the driver's seat. So it's maybe a little easier in like a less realistic game, like, um, Daytona USA, where you have this third person POV and you can see the track, your car, how you're turning and everything in, in this cockpit, which is again, super immersive. And you're able to see even like your little rear view, uh, mirror up at the top and you have your, your temperature and how much gas you have left. Like all, all these things are amazing and they all function too. Yeah. But it's the kind of thing where it's like, I just, I don't know if I know enough yet to like do a race and, and place properly. And I think maybe that's where like the simulator got, like got too into it. Like it needed to have more of like a, we'll get to the really challenging stuff that only skilled people can do. But we also need to make sure that like, if you buy this game, it's not just wasted on you.
+
+**Sean** [13:11]: If you don't understand NASCAR racing. Yeah. I think the first time I was completely caught off guard with what it expected me to do was when I, like first I wasn't expecting to get the low fuel, uh, notification that quickly or the alarm for that. And then I was like, Hmm, I don't remember seeing a pit stop, but I'll just look for something weird on the side of the road. And then on this next lap, um, then I found it and then I'm like, okay, there's going to be some cut scene. That's my team working on my car and I can just take a breather. And then it brings you to a completely other like game mode that is top down. So you're no longer first person. It's like you're playing spy hunter now. Um, and you have to like find your pit or your pit crew and stop in like right in a parking spot. And you can just blow right by them. Like if you weren't paying attention or know that this was coming, you would have no idea what to do. I guess we didn't read the manual. Um, so, uh, that didn't work out quite the way I wanted it to the first time I tried. I was able to kind of get it the next time. Uh, but yeah, uh, then you have to pick what kind of work you want done and then you have to decide when enough's enough and start going. Then it gives you a little bit of like, hey, can you make up some positions if you have other people in the, uh, the pit with you? It's a lot to do that. I just was not prepared for.
+
+**Mike** [14:49]: Right. And, and, you know, we should specify that there are difficulties to choose from. Uh, there starts on rookie.
+
+**Sean** [14:55]: Easiest. Yeah.
+
+**Mike** [14:56]: It starts on rookie. You can move even down below to novice and novice makes it so that, uh, you cannot crash. Oh. Uh, which I, I guess is a useful feature if you want to play bumper cars against the, the rails and just hit the walls every time on the turns. Uh, an acceptable strategy. Maybe you will obviously lose your speed, uh, by doing that, but that's like, that's Gran Turismo, uh, shit. It's kind of funny that they still don't allow those cars to get beat up or anything.
+
+**Sean** [15:23]: You can't show our car with damage, Mike.
+
+**Mike** [15:26]: Right. Uh, and then the pro version, um, which is the step up from rookie, uh, is, is basically the same thing except for now the, uh, the AI, it's not necessarily that they're smarter. It's that they drive faster, apparently, according to the, um, to the manual here. So that's an interesting like update is that like, they're both competent drivers at the rookie and pro level, but specifically at the pro level, they just like are no longer like put in their pants. Pinky toe on the gas. Yeah. They're finally going all out. Um, that to say, of course, I never tried a pro race. I, I wasn't up to the, to the challenge. And if you look at the rest of the manual, I, I, I'm not asking for like diagrams or anything, but it is very text heavy about every single thing that you can do in this game. And I, I just feel like, you know, for a racing game, there's gotta be a better way to like explain, um, you know, drafting and slingshotting and passing all these things that are awesome and can be done in like real NASCAR strategies can be done in this game. Um, but I just feel like sometimes instead of a paragraph, it's like, just show me a diagram of like, yep. Drafting is when this car is behind this car. It's like, I know that now, but it would have like helped, you know, at the time in the manual.
+
+**Sean** [16:38]: Yeah, I could not actually find, I usually have no problem finding a scan of the, of a manual. I couldn't find one for this. Um, so I was just, I actually ended up finding a, an AI overview of the controls and I'm not proud of it, but I use that. Uh, and because it also like just at the very beginning, it took me a while to learn how to shift correctly. So that, that added to that number of races it took to get to being able to drive through the road. Um, but yeah, I didn't even actually know that drafting was modeled here. I mean, I kind of, now I feel it like remembering sort of just how it was to like be able to, uh, pass at all. Like, I feel like there had to be something like that going on, but yeah.
+
+**Mike** [17:30]: Yeah. And they do, they do have a practice mode, um, for a few of those strategies, uh, which is also very helpful. They probably could have had more of them, honestly, but, uh, for drafting, passing, following a line and most importantly, pitting, because if the pitting is the one that's going to like, you could be a great driver, but if you can't pit properly and get this stuff out,
+
+**Sean** [17:49]: you're just going to lose places every time.
+
+**Mike** [17:51]: Also in this manual though, because it is kind of a gold mine, it does have that section that probably, you know, we're not car guys. It would have, it definitely stumps me. It still stumps me in all the Gran Turismo games I play. I usually have to just like look up like insert car name tuning and then like use somebody else's build, uh, and then adjusted a little bit for the track that I'm racing on. But even in this game, you know, there are, you, you have your spoiler, you have, uh, your gearbox ratio, and then you have, um, the tire stagger. And the manual kind of explains like a basic concept of each one, but more importantly, it has a little like tip from Bill for each section, just about like what you should kind of be adjusting for based on the course. And I feel like that's the biggest thing that this, that this, that, you know, this manual is like kind of required for that reason is unless you kind of design the game, like, like, like a bill Elliot, uh, you wouldn't really know what, what exactly you're looking for here. And so this stuff was very helpful to get me up to speed.
+
+**Sean** [18:53]: Yeah. I was driving stock each time. So I'm sure that didn't help. I was only ever able to place like ninth tops, um, after like simulating my qualification. Um, so I was never really doing too great. I, I'm sure some of that would have helped, but I'm also just not a great like race game, make player mechanically. I I'm always way too, way too fast going into turns and into hitting walls usually. So it just takes a lot more self-control for me, but, uh, um,
+
+**Mike** [19:32]: and we're talking about speed here. Uh, the real Bill Elliot set NASCAR's all time qualifying speed record at Talladega. Uh, 212.809 miles per hour. And believe it or not, that mark still stands because NASCAR mandated restrictor plates, uh, following a serious crash with, uh, Bobby Allison's car just four days later. So now that's like that record's just going to stand because it's too dangerous to go that fast. Raise hell, praise Dale, man.
+
+**Sean** [20:07]: And also you have to kind of like, you know, just going back to what you were saying about the manual, uh, you have to listen to what Bill says, because if you don't win, he's going to win every race, at least every race that I was a part of. I don't know if like, I have to imagine that the rest of these names are made up, but every, every race that I was a part of Bill Elliot, just one handily. I feel like that's just a part of the game. I mean, Sean, to be fair, if you're going to, if you're going to design a game,
+
+**Mike** [20:38]: are you not going to make yourself the best driver? I didn't. Okay. I, he didn't design the game. I'm pretty sure he just sort of like, yeah, he put, he worked in assembly on this. I think maybe again, like his, his assistant said like, yeah, make sure that the spoiler thing, you can do something with the spoiler. I think they have to be a little more like reserved about it. You can't win every race bill, right?
+
+**Sean** [21:03]: Like it's kind of, sometimes it's like a, a cheat that you can put in depending on. So I know for N64, we had Ken Griffey Jr.'s baseball and we had Kobe Bryant corpse at court side.
+
+**Mike** [21:13]: And in those like, yeah, their stats alone are like pretty good, but they're not going
+
+**Sean** [21:17]: to like single-handedly win you a game.
+
+**Mike** [21:19]: But there was like a cheat you could put in so that Ken Griffey would just hit a home run every time that he made contact with the ball. And it's like, that's fine because it's like toggleable.
+
+**Sean** [21:28]: I feel like Bill should have had some more restraint to be like, I just want to finish
+
+**Mike** [21:32]: in the top three. Like, I don't need to win every race. Just put me in the top three or whatever.
+
+**Sean** [21:37]: It's kind of like that, you know, the rock has that clause in his contract. That's like, I can't be seen losing a fight in a movie. And it's like, the rock has that clause. It's pretty, it's pretty weak. I thought it was Vin Diesel. I think, well, I'm pretty sure that you're thinking of that because I think it came out because of like a fast and furious movie or something like that, that the rock was in. And it's like where it got leaked from him and Vin Diesel don't get along. So I don't think either one of them would lose a fight to the other one on purpose. Family, man. Family matters.
+
+**Mike** [22:10]: Family does matter.
+
+**Sean** [22:40]: I'll tell you something exciting, though, if you are good at this game, unlike me and
+
+**Mike** [22:42]: Sean. And we just haven't had enough time yet, guys. Okay? We're enjoying the systems. Yeah. We'll get there. I'm going to get that visit to the race that you could get.
+
+**Sean** [22:53]: Oh, okay. You know about this.
+
+**Mike** [22:55]: I did see this on the Wikipedias. Yeah. Did we know, did anybody actually win this? Or was it a lie? Yeah. Konami ran the contest. Players had to mail in a photo of their championship season score. And, you know, I don't know if it was like Tygos or whatever. But yes, the winner of the trip did receive a trip to the 1992 Daytona 500.
+
+**Sean** [23:21]: Got to meet Bill Elliott. And apparently, a real 1992 Ford Thunderbird. That's crazy.
+
+**Mike** [23:31]: That part I'm skeptical of. Yeah. That's got to be like, and a down payment on a Ford Thunderbird. Or you get a lease for two years of a Ford Thunderbird. Like, were they giving away cars back then? Right. Did they have that kind of money back then? I mean, I guess, you know, I mean, this is Konami. It is Konami, right? It is Konami. Yeah, yeah. Konami's the publisher. Yes. They're like, yeah, we'll jump on this.
+
+**Sean** [23:57]: This is a quality game.
+
+**Mike** [23:58]: We'll jump on this. And then, you know, obviously, like, further you get into the championship season and everything, you have different cars to race. You got to tune appropriate to the laps and everything. So there is still a gameplay loop here. It is not just like, you know, race on the same track over and over again against the same set of cars until you're ready to drive pro. That said, you know, outside of like, outside of the strategies for the actual racing and everything, there isn't like, there's not too much in the sense of a career mode here. Yeah. There isn't like a, oh, buy better parts thing like we saw on supercars and stuff like
+
+**Sean** [24:38]: that. It's almost as if Bill Elliott's NASCAR challenge.
+
+**Mike** [24:42]: It's like a game made specifically to facilitate that sweepstakes. Just with the naming.
+
+**Sean** [24:52]: But yeah, I mean, I guess, you know, this is a simulation racing game. I guess it's like one of those games, like the fun is just the tweaking and the and trying to optimize. I'm not trying to say that that is like an excuse for not having an actual campaign or
+
+**Mike** [25:17]: anything of the like. I would prefer it. I guess it's just what I would assume would be there to their reason why. Right. Well, it's also like it's a it's a NASCAR car. So why should it not be perfect? Right. Like, why should it? Were you riding the Chevy Lumina or were you in the Thunderbird? I was in the Lumina. I mean, because, yeah, because for me, a NASCAR car is a Chevy Malibu.
+
+**Sean** [25:42]: So I was the closest I could get. But got it. And have you played any of these NASCAR games, even if they were like free on Game Pass for a little bit? Have you tried any of these newer ones? Because I will say they are they are kind of fun, too, because they understand the concept
+
+**Mike** [25:59]: of like nobody wants to drive that many laps. So they kind of like truncate everything. And and you could you could adjust that. Obviously, there are sliders and stuff. But there's also like a real career mode where you kind of just start off in like, you know, dirt road races and stuff like that and just kind of make your way up through the ranks. And it's kind of like it's almost like too easy in a way that it's like, yeah, of course, I'm going to win these races and eventually move up. But it's like it's also an interesting approach from NASCAR to be like, yeah, you won't be doing any real NASCAR driving for a while in this NASCAR game. You know, it takes a while to actually like get to Daytona or anything like it. But it's funny that like, you know, NASCAR and I guess just motorsport in general, I have the same relationship with these with this as I do like wrestling. Like I think stories about NASCAR a lot more interesting to me than NASCAR itself.
+
+**Sean** [26:54]: I watched this sort of fumbling history of NASCAR and how like they handle their playoffs or like the fact that there even is a playoffs.
+
+**Sean** [27:07]: And like it's just very funny that what you're saying about like, yeah, there's going to be a lot of not NASCAR racing in this NASCAR game kind of plays into what I've been seeing of just like how mismanaged the league as it is has been. Or is it a league or is it? I don't know what it is. I think it is a league. I feel like there's got to be a different word for that when it's not like franchise teams, but whatever.
+
+**Mike** [27:35]: It doesn't matter. It's an association. An association of racing gentlemen. Yes. There you go.
+
+**Sean** [27:43]: I don't know. It's just fun. I find the whole concept fun, even though like I just can't.
+
+**Mike** [27:49]: I can't watch a race.
+
+**Sean** [27:51]: And I guess the equivalent would be like if you were in like MLB the show and you're creative player and you had to start in like high school and still like go to class and shit, but also
+
+**Mike** [28:00]: play like high school baseball. Well, that's basically college football games now, but you still play a lot of football. For me, it's going to MLB the show and being stuck in double A for multiple seasons and just kind of stick with it. But I see what you're saying. I guess to my analogy, it would have to be like you start off as a three-year-old playing t-ball and like you. So you're not able to do the real MLB experience like technically actually high school though and definitely college. They use metal bats. So that is kind of weird. Well, actually, I think the better analogy for this would be like you have to first like build and play a few levels as the player's father to see if he will be kind of psychotic
+
+**Sean** [28:46]: enough to force the kid into that kind of like regimen so that he would be good enough to be drafted. It's kind of like what I'm having you do every week when we record the podcast is just kind of like, you know, cheering you on, corralling you and forcing you to record these episodes. I feel like there's some venom there. But well, it's just like I always corralled the listeners to our final section, the essential games list. Sean. Hey, Mike. Your vote. Oh, yes. Yeah, I we've been we've been pretty generous to this game. It it's you know, it's a simulation racing game. It's it's it's very pretty like it does a very good job of like giving the faux 3D effect. It feels right. There's a lot of like presentation going on and just like authenticity that I wasn't expecting
+
+**Mike** [29:55]: out of NES game.
+
+**Sean** [29:56]: But I think what we haven't really given too much airplay to is just that like, you know,
+
+**Mike** [30:04]: it's a simulation game with not too much content. There's no way this is ever going to make the essential games list. It's way too niche and I'm not saying that niche games can't make it.
+
+**Sean** [30:16]: We know from what's on the essential games list right now that they can. But yeah, a simulation racing game. Probably. Yeah, I can't I can't put that on the essential games list. Yeah, I think you're onto something there.
+
+**Mike** [30:31]: It's very one note. And even though it's like technically impressive for an 8-bit video game to be doing this kind of simulation work, there's also like flight simulators on, you know, running on Microsoft
+
+**Sean** [30:45]: basic and shit like that, that are like, you know, wow, it's really impressive that they're able to calculate that, you know, that level of physics and stuff in a flight simulator on a old computer. But just because it's technically impressive doesn't mean that it's actually like fun to play. And I think of that this in that same regard where it's like, this is technically very, very impressive in terms of the other racing games that we've seen on the on the console.
+
+**Mike** [31:12]: And I'm sure to the NASCAR fans, this is the answer to the kind of racing game they were
+
+**Sean** [31:17]: looking for. I would just argue that in terms of like that video game fun factor that I am looking for
+
+**Mike** [31:25]: when it comes to the essential games list, the kind of games that you would keep going back to decades later, the more arcade racers like Rad Racer and RC Pro-Am are the things that are still fun today. And this is now just kind of like a tech demo of what's possible on the NES.
+
+**Sean** [31:42]: And we have much newer and better simulator games across every, you know, it happened on 16 bit. It'll probably happen on the PS1, PS2. It just keeps getting better. So there's really no reason to think about including this on the essential games list. Definitely a fun game for NASCAR fans, though, as they can finally, you know, do it, do it the right way rather than trying to force it into these other racing games. Because it's not, you know, in baseball, on the NES, the Nintendo one, you don't have teams that you can pick, but it doesn't like make it so it's not baseball. It's not like, oh, well, I can't pretend like I'm playing as the Mets and, you know, and those are the Yankees. It's like, you can still do all that shit. It's just that now, you know, you finally have a game with the licenses. Here, it's like it's actually simulating a different experience than those other racing games. And so I feel like at the very least, this was kind of an important add for the library. It's nice that they included a NASCAR game in the racing lineup. But just another quick note just on like the technical prowess of this game. Like if they just sort of, you know, loosened up the handling a bit or like not like made it
+
+**Mike** [32:54]: a bit tighter so that you could be a bit more loose with it and maybe had a bit more, uh, uh, just a bit more chaos. I would play the shit out of the arcade version of this game with like whatever this quote, maybe it's an engine or just however they did this stuff. I would play this. I think that would be an amazing racing game. If it would just, if it just felt a bit more arcadey, but otherwise played like this, uh, it looks very cool. Maybe we should try it's, um, Game Boy cousin, Bill Elliott's NASCAR fast tracks, which, uh, also came out the same year, probably developed at the same time. Uh, I cannot imagine that the Game Boy game, um, gets the simulator part as, as like thoroughly as it's done here, but believe it or not, it is still in the first person cockpit view with the, the fuel gauge and the gearbox and, uh, the steering wheel and all that shit. Even a rear view mirror all on the Game Boy. So that's just again, uh, incredible. It's wild. But yeah, I guess I don't think too much about these Game Boy versions of these NES games. I don't know if I'd ever make that into an episode of our, um, uh, Patreon, uh, show Nostalgia Bites. I don't think I would ever like be like, Hey, let's just take all the Game Boy games that are NES ports and see how they fare. I feel like for the most part, I feel like you're going to make us do it. Yeah, I don't know. I don't know. Maybe I will. Maybe I won't. Let, I guess I'm, I'm throwing it to the listeners. Let us know if that's something you'd be interested in hearing and maybe we'll do it in a future episode. Bye.

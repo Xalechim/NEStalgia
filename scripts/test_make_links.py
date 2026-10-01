@@ -74,6 +74,14 @@ def main():
     assert dropped == 2
     assert verified[1]["episode_key"] == "164-tecmo-bowl"
 
+    # a "game" must not be linked to a page that isn't about a game (redirect to the movie, etc.)
+    real_page = m.wikipedia_page
+    m.wikipedia_page = lambda t: {"url": "https://en.wikipedia.org/wiki/Days_of_Thunder", "title": "Days of Thunder", "description": "1990 sports action drama film"}
+    del m.wikipedia_lookup
+    import importlib; lookup = importlib.reload(m).wikipedia_lookup
+    m.wikipedia_page = lambda t: {"url": "u", "title": "Days of Thunder", "description": "1990 sports action drama film"}
+    assert lookup("Days of Thunder (video game)", "", "game") is None
+    assert lookup("Days of Thunder", "", "other") is not None
     assert m.parse_results("no json here") == {}
     assert m.parse_results('{"results": [{"index": 3, "links": [{"url": "https://a.b/c"}]}]}')[3][0]["url"] == "https://a.b/c"
     assert m.parse_numbers(["401-403", "446,450"]) == [401, 402, 403, 446, 450]
