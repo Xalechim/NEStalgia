@@ -360,7 +360,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 399 | The Silver Surfer | [notes](399-the-silver-surfer.md) |
 | 400 | Werewolf: The Last Warrior | [notes](400-werewolf-the-last-warrior.md) |
 | 401 | WWF Wrestlemania Challenge | [notes](401-wwf-wrestlemania-challenge.md) |
-| 402 | Yo! Noid | [notes](402-yo-noid.md) |
+| 402 | Yo! Noid | [notes](402-yo-noid.md), [transcript](../transcripts/402-yo-noid.md) |
 | 403 | The Adventures of Rad Gravity | [notes](403-the-adventures-of-rad-gravity.md) |
 | 404 | Bandit Kings of Ancient China | [notes](404-bandit-kings-of-ancient-china.md) |
 | 405 | Deja Vu: A Nightmare Comes True!! | [notes](405-deja-vu-a-nightmare-comes-true.md) |
