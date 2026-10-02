@@ -1,395 +1,117 @@
 # 416 - SMBDHWCTM
 
-_Auto-generated transcript. Speaker names are matched automatically by voice and are not perfect, especially on short interjections. The opening name introductions are left as "Hosts"._
+_Auto-generated transcript. Each paragraph starts with its timestamp. Speakers are not identified._
 
-**Mike** [00:00]: Super Mario Bros. Duck Hunt World Class Track Meet. You'll have to think fast and move even faster. Your trusty hunting dog wades into the marshes to flush out your prey in this action-packed game that turns your home into an exciting stadium.
+[00:00] Super Mario Bros. Duck Hunt World Class Track Meet. You'll have to think fast and move even faster. Your trusty hunting dog wades into the marshes to flush out your prey in this action-packed game that turns your home into an exciting stadium.
 
-**Mike** [00:31]: And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+[00:31] And welcome to NEStalgia, a chronological exploration of every NES game released in North America. I'm Mike. I'm Sean. And I'm Joe. And we mean every game released in North America, even if we've covered Super Mario Bros. now three times on this show. Last time it was with just Duck Hunt. This time they've added World Class Track Meet. Before we talk about the reasoning for this or whatever, can we just quickly get out of the way how we still feel about these games? Anybody want to like controversially take Super Mario Bros. off the essential games list?
 
-**Hosts** [00:39]: I'm Mike. I'm Sean. And I'm Joe.
+[01:11] Good, good, and I don't really remember to be honest. Yeah, I never liked any of these like Track Meet or Track Meet clone type things, but Duck Hunt is still probably the game that I play in real life the most from the NES. Because it's just so easy to boot up. I've got it. I got my CRT here. Whenever I'm booting up the CRT, I'm like, well, I got to play a little bit of Duck Hunt. You boot up a CRT, right?
 
-**Mike** [00:43]: And we mean every game released in North America, even if we've covered Super Mario Bros. now three times on this show. Last time it was with just Duck Hunt. This time they've added World Class Track Meet. Before we talk about the reasoning for this or whatever, can we just quickly get out of the way how we still feel about these games? Anybody want to like controversially take Super Mario Bros. off the essential games list?
+[01:38] Yeah, sure. You can power on. No, I boot it up. It goes through like a whole like Windows. And then connect it to the internet? Yeah, yeah. Okay. The funny thing about not remembering World Class Track Meet is that it's also technically the third time we're talking about this game. Because it was originally, you know, a niche little video game called Stadium Events, which now sells for like $25,000 complete in box. Before it was rebranded and removed from shelves as World Class Track Meet. Yeah, the whole Stadium Events controversy really needed to take that name off of it after what happened.
 
-**Sean** [01:11]: Good, good, and I don't really remember to be honest.
+[02:17] Right. There will be no events in stadiums. Damn. But obviously, if you haven't made the connection yet, Super Mario Bros. Duck Hunt World Class Track Meet. It's a compilation. It's all in one cart, which is pretty impressive. But it's a compilation because it was a pack-in game for a new NES bundle that included two controllers, an NES, a zapper, and a power pad. So with the previous set of Super Mario Bros. and Duck Hunt, you were getting a zapper with it, but you weren't getting the power pad. And that was known as the action set. What would you call this new set that has the power pad included? The clearance set.
 
-**Joe** [01:16]: Yeah, I never liked any of these like Track Meet or Track Meet clone type things, but Duck Hunt is still probably the game that I play in real life the most from the NES. Because it's just so easy to boot up. I've got it. I got my CRT here. Whenever I'm booting up the CRT, I'm like, well, I got to play a little bit of Duck Hunt.
+[03:04] Yeah, I'm trying to think because action, I get it. The gun, it's like an action movie, a lot of guns. But I feel like literally the power pad is probably the most action-based peripheral you can have. This has to be like they just have too many power pads and they've got a clean house.
 
-**Sean** [01:36]: You boot up a CRT, right?
+[03:22] Right. It is a Nintendo. That is another part of the reasoning is that if you remember, it was the Family Fun Fitness pad before Nintendo basically bought the rights to it and put the Nintendo branding all over it and rebranded it to the power pad because, of course, with the NES and Nintendo, now you're playing with power. And so giving it away, it is the power set we are talking about. Hmm. Now you're kicking with gas. Yep. And the power set retailed for $179, which is $455 in 2026. So, I don't know, not unfair. I mean, I don't know any console today giving you three games. Even two controllers. Right. Three games, two controllers, and two accessories.
 
-**Mike** [01:38]: Yeah, sure. You can power on.
+[04:10] Damn. Yeah, for like, I mean, by your translation there, it's for still less than like a base PS5, right? Or a Switch 2. Yeah. But is this the best of the pack-ins just because it adds another game? Like, does it make the most sense? Is there a different game that they could pack in, with or without all the accessories, for a better value? Like, could we have pushed for just a- Almost any game. Yeah, right. I guess what I meant is- I mean, I think the elf still had the ethos of like, this is going to be cool.
 
-**Joe** [01:40]: No, I boot it up.
+[04:55] I guess if you're trying to get the power pad worked in, I see why they went with this. I know that we kind of have some time dilation going on with like how we actually experience every release on this like console. But like, you know the Kinect, like I feel like this is at the time when everyone already knew that the Kinect was a joke. And now Xbox is just like, and then you get a Kinect with every purchase. And then you also get the Star Wars Just Dance release along with Gears of War. Like, I feel like this is something along those lines. It would have been along those lines if they released Rob in the set as well. That's true. Like if it included a copy of Gyromite.
 
-**Sean** [01:41]: It goes through like a whole like Windows.
+[05:43] Rob was a bundle though as well. He was one of the original bundles. So you could either get the, what they called the Control Deck, which was two NES controllers and then NES for $199. Or the deluxe set, which came with Rob, Gyromite, Duck Hunt, and a Zapper for $299. Still a pretty freaking great deal. What's going on here? You didn't get Mario though with that. You didn't get Mario, no. Yeah, you got the game and some controllers and the system, some controllers, and then a game that you'll never want to play after playing it once.
 
-**Mike** [01:44]: And then connect it to the internet? Yeah, yeah. Okay. The funny thing about not remembering World Class Track Meet is that it's also technically the third time we're talking about this game. Because it was originally, you know, a niche little video game called Stadium Events, which now sells for like $25,000 complete in box. Before it was rebranded and removed from shelves as World Class Track Meet.
+[06:20] Assuming it works too because we recently had a great experience with Rob at Long Island Retro Gaming Expo last year where the three of us and a like 11-year-old boy who wanted me to adopt him tried to all play. We all tried to play with Rob and he was barely responding to our commands and it was such a win to just clear one level of the game. We were all so proud and then when we were leaving that night and we were heading back to the car, he was just waiting by the car. That was so weird. And now get him on. He's still in your house, right? Yeah. So I guess what I was saying when I was like, do pack-ins make sense? I agree, Sean.
 
-**Sean** [02:09]: Yeah, the whole Stadium Events controversy really needed to take that name off of it after what happened.
+[07:03] Anything else but the power pad would have made sense, but it is a cool selling point. So what else would have been a great selling point? And to me, the obvious thing I could think of is a Super Mario Brothers 1 through 3 collection. Now, I don't think that would ever fit on one cart. So they would just sell it to you like, here's an NES, here's two controllers, and here's Super Mario Brothers 1, 2, and 3.
 
-**Mike** [02:17]: Right. There will be no events in stadiums. Damn. But obviously, if you haven't made the connection yet, Super Mario Bros. Duck Hunt World Class Track Meet. It's a compilation. It's all in one cart, which is pretty impressive. But it's a compilation because it was a pack-in game for a new NES bundle that included two controllers, an NES, a zapper, and a power pad. So with the previous set of Super Mario Bros. and Duck Hunt, you were getting a zapper with it, but you weren't getting the power pad. And that was known as the action set. What would you call this new set that has the power pad included?
+[07:24] But then there's the business side, unfortunately, that we have to cover here as well of like, okay, but why would they do that, right? Like, why not just release one of those mall things where it's like an NES, two controllers, and 2,000 games in one? You know, it's like there's a reason why they don't do that. Well, and, you know, I'm trying to, I'm just right now realizing that like, there's a cost, a much more significant cost, I imagine, to making a cartridge than a disc.
 
-**Sean** [03:01]: The clearance set.
+[07:53] Whereas, because I was thinking like, you know, today you'll get bundles, but it'll just be like, yeah, they just pack in four games or three games or whatever. And they're all digital. They're digital games, right? Well, that, yeah, even more so today. But like, I was like, why would they just, yeah, maybe like part of the reason they're not putting bigger games in there is because they got to fit as many onto one cartridge in order to keep the cost down. Just a total guess there. Yeah, but what about like Tetris or something?
 
-**Joe** [03:04]: Yeah, I'm trying to think because action, I get it. The gun, it's like an action movie, a lot of guns. But I feel like literally the power pad is probably the most action-based peripheral you can have. This has to be like they just have too many power pads and they've got a clean house.
+[08:19] That can't be that big. No, that's a good call. Tetris being a bundle because it was bundled with the Game Boy. It doesn't solve the problem of clearing out your back stock of power pads, but I mean, it's probably better value for the customer. Yeah, that's a good point. If they had to make new power pads to justify this set, then from a hardware standpoint, this is a lot of hardware. Two controllers, a zapper, a power pad, but more than likely they had this shit laying around. I think so. The power set also on the box says, now you're playing with power. Again, that classic slogan, but then it adds on in a whole new way. Where'd that come from?
 
-**Mike** [03:22]: Right. It is a Nintendo. That is another part of the reasoning is that if you remember, it was the Family Fun Fitness pad before Nintendo basically bought the rights to it and put the Nintendo branding all over it and rebranded it to the power pad because, of course, with the NES and Nintendo, now you're playing with power. And so giving it away, it is the power set we are talking about.
+[09:03] Now you're playing with power in a whole new way. It's like, now you're playing with power squared. Like, is that what they're trying? You know, like you leveled up. No, I don't know. I think that's quite a jump. I think it's like a new, it's a new cartridge. Yeah. It's like, you don't have to. Ostensibly, those who buy this might, the NES might be new to them.
 
-**Sean** [03:46]: Hmm. Now you're kicking with gas.
+[09:28] You know, it could mean anything. Yeah. Or maybe it's saying like, well, nobody ever bought this power pad ever. So it's new to everyone. Yeah, I like that. And I guess I'll just get in front of it now, but next week we are going to cover another compilation game of World Cup and Super Spike V-Ball.
 
-**Mike** [03:48]: Yep. And the power set retailed for $179, which is $455 in 2026. So, I don't know, not unfair. I mean, I don't know any console today giving you three games.
+[09:48] And I have a whole nother slew of things to talk about in that episode. So don't worry. I'm just going to continue on with the bundles here. And this was the NES Sports Set Bundle, which came with this compilation of these two sports games, an NES 4 controllers, and an NES satellite, the wireless 4-player thing that like received on to your NES. So this way you could play from like very far away. And here's the real value, six C batteries. Wait, what do we see batteries?
 
-**Sean** [04:04]: Even two controllers. Right.
+[10:25] Six of them, too. But the NES satellite, I guess. Oh, wow. What are we going to talk about next week now that you covered everything about that? Oh, don't worry. I've got a whole nother thing. Because this episode is actually going to take a turn, too. If anybody's looking at the runtime, it's not about to end. Oh, okay. I was just looking at the runtime. Well, you're constantly looking at the runtime live. Like, it looks like it's constantly. I was like, yeah, this is the end. It's 11 minutes. Right. As of right now. But I think like, okay, so let's compare them right now. You got the power set, and you got the sports set, and you have the previous action set.
 
-**Mike** [04:06]: Three games, two controllers, and two accessories.
+[11:03] Did it ever... Two questions. We'll start with the first one. Does it ever make sense to wait? Like, should you have just gotten the NES as soon as possible? Or was the action set with the Super Mario Bros. Duck Hunt pack in the jump-in point? Or are you finally getting, like, the best bang for your buck, even though you had to wait two extra years, and now you got either a choice of four controllers with an adapter or two additional accessories? I guess it really depends on the price.
 
-**Joe** [04:10]: Damn. Yeah, for like, I mean, by your translation there, it's for still less than like a base PS5, right?
+[11:34] But... So the prices were pretty, like... So the NES originally was $199. Then the action set, which comes in 89, was $149. So you only dropped $50 over four years. And then the power set and the sports set seem to be retailing at $179 and $199. So quite a... Plus inflation. Quite a jump up. So it sounds like, you know, if you're trying to be cost-effective, you should probably wait. You should have waited for the Duck Hunt slash Super Mario thing. Yeah, I think to me that sounds like the best bundle because you don't have to, like, figure out a place to store this power pad after you figure out it doesn't work. And you have two essential games right off the bat. Which two? Super Mario Bros. and Duck Hunt. Oh, okay. Just making sure. Yep.
 
-**Sean** [04:18]: Or a Switch 2.
+[12:28] All right. So where I'm going to take this episode next is just pack in bundles or just, like, launch games in general. And I just wanted to get from you guys, you know, because we didn't grow up with the NES.
 
-**Mike** [04:20]: Yeah. But is this the best of the pack-ins just because it adds another game? Like, does it make the most sense? Is there a different game that they could pack in, with or without all the accessories, for a better value? Like, could we have pushed for just a-
+[12:42] Were there ever consoles that you didn't buy at launch but, like, had a bundle and you were like, okay, now is, like, the time for me to jump into this console? For me, for both the PS4 and the PS5, it took, like, a Spider-Man and Spider-Man 2 bundle to finally, like, convince me to pull that trigger. So clearly, like, all of these publishers, regardless of, like, you know, whatever they set out to do with their launches, they've given up on the whole, like, and it comes with this game, right? Like, that just, it didn't happen with the NES and it doesn't happen now.
 
-**Sean** [04:36]: Almost any game.
+[13:19] The most recent example I can think of is PS4 came with Astro's Playroom, which was freaking awesome, but that was digital. And everything since then and kind of for a while before that wasn't, like, it wasn't a game that, a physical game that came with it that you had on day one. You basically had to buy this thing and then buy the game that you wanted alongside of it. So for the bundle question of consoles, do you remember any specific bundles that you bought growing up? I mean, the bundles still exist. It's just that they usually add the cost of the game to the cost of the bundle.
 
-**Joe** [04:38]: Yeah, right. I guess what I meant is-
+[13:59] Right, but the bundle's also, like, the bundle is a digital game. Sure. So you want a hard copy. I think that's what I'm thinking of is, like, you're getting something cool out of this. Like, for instance, in the power set, you're also getting a light gun and a power pad. I feel like you need to sweeten the pot here a little bit. I think the only time I ever had that, I got the original Xbox however many, maybe a year or two years into the life cycle of that console. And it came with GT 2002 and Jet Set Radio Future, I think. Yes, that's correct. It was one of my examples.
 
-**Mike** [04:50]: I mean, I think the elf still had the ethos of like, this is going to be cool.
+[14:46] Oh, okay. I was going to say that, like, I definitely didn't ever buy bundles. But now that you said that, I do remember that my PS2 definitely came with a Gran Turismo because I never would have bought that game on my own. I think it was, like, still the cellophane for, like, most of my life. Like, I don't even know if we ever, like, took it out. But, like, I don't know, my parents must have found a deal on it when we got it for Christmas one year.
 
-**Joe** [04:55]: I guess if you're trying to get the power pad worked in, I see why they went with this.
+[15:10] But otherwise, like, I don't think I ever, like, sought out, even, like, when I got a little older, like, PS3 came out or even PS4, I was just, like, the pack-in games were never, like... I'm very particular with, like, the games I play or the movies. There's always, like, there's, like, specific things that I know I want. And, like, it takes a lot for me to just, like, try some random new game. So, like, the PS4 or 3 or whatever comes out with, like, a Killzone game, I'm like, well, I don't know what that is and I don't really care. You know, so it's, like, I'm sure it was good. But, like, I think I usually... That was the killer app, Joe. That was the Halo killer.
 
-**Sean** [04:59]: I know that we kind of have some time dilation going on with like how we actually experience every release on this like console. But like, you know the Kinect, like I feel like this is at the time when everyone already knew that the Kinect was a joke. And now Xbox is just like, and then you get a Kinect with every purchase. And then you also get the Star Wars Just Dance release along with Gears of War. Like, I feel like this is something along those lines.
+[15:41] Oh, yeah. That was what... And it did. It did. Halo's good. No one talks about Halo anymore. Everyone talks about Killzone. Yeah. But, yeah, I think I just, like, liked more to build my own library from scratch rather than, you know, fall into it. Unless there was, like, a really great deal. But I don't remember, you know, ever getting things together like that. Yeah, that was my only... That was the only time I've ever had a bundle like that.
 
-**Mike** [05:34]: It would have been along those lines if they released Rob in the set as well. That's true. Like if it included a copy of Gyromite.
+[16:07] The most recent example I can think of of just a pack-in game that not only made sense but practically boosted the sales of the console everywhere is a console celebrating its 20th anniversary this year. And that's the Wii with Wii Sports. There are some people who, like, got a Wii just to have these four sports games with motion controls and then they never bought another Wii game. Like, how many retirement homes just have Wii Sports running on a Wii still to this day?
 
-**Mike** [05:43]: Rob was a bundle though as well. He was one of the original bundles. So you could either get the, what they called the Control Deck, which was two NES controllers and then NES for $199. Or the deluxe set, which came with Rob, Gyromite, Duck Hunt, and a Zapper for $299. Still a pretty freaking great deal. What's going on here?
+[16:38] Just on. It's been on since... Yeah, it never gets turned off. But you guys had Wiis or no? I did have a Wii and, yes, it did come with... I mean, like, I think it was, like, my sisters, but, like, it was our families. And I do... Yeah, I mean, I think they all came with Wii Sports, right? Like, every single one of them. Which is why it's, like, the best-selling game of all time or whatever. Yeah, can you count that? I mean, there are some Wiis that eventually they dropped it and I think the...
 
-**Sean** [06:07]: You didn't get Mario though with that.
+[17:04] There was even, like, a Wii Mini that came out that... I don't know what made it a Mini. Like, if it didn't have a disk drive or... I think it actually dropped the GameCube support. There were no GameCube ports and you couldn't play GameCube games, which is, like... I don't know. I guess not a deal-breaker for the retirement home crowd, but certainly would have sucked for me. I think the retirement home crowd, big Super Mario Sunshine fans. I heard that. Sorry, can you repeat your question, Mike? Like... No, did you ever own a Wii? Oh, I didn't get a Wii until 2024.
 
-**Mike** [06:09]: You didn't get Mario, no.
+[17:37] Okay, great. Yeah. That's what a magical time for you. How have the last two years been treating you? I've played it, like, three or four times. As soon as I finished... As soon as I finished Silent Hill Shattered Memories, it's kind of gone into storage, but... That was the reason I bought it. And if you forget, pack in games for a minute and just remember that Nintendo's first console, even before the Famicom Disk System was one of those plug-and-play, like, TV Color 6 and TV Color 15 consoles where you just plug it in and it has 15 games in it, that's kind of... That's a version of a pack-in.
 
-**Joe** [06:11]: Yeah, you got the game and some controllers and the system, some controllers, and then a game that you'll never want to play after playing it once.
+[18:17] I don't know. It's all it ever had. Yeah, I think that's... It's all it ever had. It was like, that's the offering. I think that's just being kind of cute with verbiage. Verbiage. And then how about, like, limited edition consoles? Like, isn't it weird that the NES didn't get, like, a color reskin or something or, like, a cool Super Mario Bros. version? Is there... I'm thinking... Is there an official top-loader NES or do I... I always see, like... You know, they're real. There is. So is that kind of that? That's a console variation. Yeah, it's like the PS spelled out one, kind of. Yeah, yeah. Yeah. Right, which I still don't understand what that is. I think it's just a smaller PlayStation.
 
-**Mike** [06:20]: Assuming it works too because we recently had a great experience with Rob at Long Island Retro Gaming Expo last year where the three of us and a like 11-year-old boy who wanted me to adopt him tried to all play. We all tried to play with Rob and he was barely responding to our commands and it was such a win to just clear one level of the game. We were all so proud and then when we were leaving that night and we were heading back to the car, he was just waiting by the car. That was so weird. And now get him on. He's still in your house, right? Yeah. So I guess what I was saying when I was like, do pack-ins make sense? I agree, Sean. Anything else but the power pad would have made sense, but it is a cool selling point. So what else would have been a great selling point? And to me, the obvious thing I could think of is a Super Mario Brothers 1 through 3 collection. Now, I don't think that would ever fit on one cart. So they would just sell it to you like, here's an NES, here's two controllers, and here's Super Mario Brothers 1, 2, and 3. But then there's the business side, unfortunately, that we have to cover here as well of like, okay, but why would they do that, right? Like, why not just release one of those mall things where it's like an NES, two controllers, and 2,000 games in one? You know, it's like there's a reason why they don't do that.
+[18:55] Yeah, but there's, like, one where... I mean, this is going off on a tangent, but there's one where you can, like... There's a screen that plugs into it and you, like, take it on the go. I always wanted that screen. Yeah. It's probably useless and terrible, terrible color and everything, but that did look cool. And why not have that on the NES, too? Like, why not just release an NES with a screen? Yeah, like, a little NES with a screen, like, a yellowish screen that could have four AA batteries and purple buttons. And you know the tech existed. Like, I still see those tiny TVs that you can get, like... You used to be able to get, like, you know, satellite or antenna broadcasts.
 
-**Joe** [07:40]: Well, and, you know, I'm trying to, I'm just right now realizing that like, there's a cost, a much more significant cost, I imagine, to making a cartridge than a disc. Whereas, because I was thinking like, you know, today you'll get bundles, but it'll just be like, yeah, they just pack in four games or three games or whatever.
+[19:37] So you could have just had, like, a bigger version of that that had NES hardware in it, too. But are you saying, then, like, I mean, basically something the size of an NES that has a screen?
 
-**Sean** [08:00]: And they're all digital.
+[19:50] Yeah, like a really tiny, crappy, five-inch CRT television. Because, like, what would the point of that be, really? Just to satisfy this perspective thing that we're making up. Yeah. Because even the PS1, like, as cool as it sounded, like, where am I going that has electricity that I don't have a TV? You know what I mean? Like, I'm like, oh, I can take it on, like, a long car ride. No, I can't. I can't plug it in. You know? But the primary use of the PS1 spelled out wasn't to also have that TV.
 
-**Mike** [08:02]: They're digital games, right?
+[20:25] I don't even know if they sold that anywhere, aside from, like, probably Japan. I'm making this up. I don't know. Right, who even knows? It might be, like, a third-party company made that screen. No, I swear there was an actual, like, product that was, like, a PS1 with its own little screen, right? Am I making that up? Like, its own? No, the screen was probably a peripheral.
 
-**Joe** [08:03]: Well, that, yeah, even more so today. But like, I was like, why would they just, yeah, maybe like part of the reason they're not putting bigger games in there is because they got to fit as many onto one cartridge in order to keep the cost down. Just a total guess there.
+[20:45] Yes, that's right. Because I bought a PS1 to have in a separate room than, like, PlayStation 2 at the time, I think. Yeah, I think you're right. It is a peripheral, but it does say Sony on it. Yeah. Okay, great. Cool. So you just debunked my part of it. You made me look stupid, but Sean looks good. As long as one of you. Yes, I do look good. Yeah.
 
-**Sean** [08:16]: Yeah, but what about like Tetris or something?
+[21:08] I was going for either one of you. It was nothing personal. So here's the thing about why not just take an NES and put, like, a screen on it. They did that. It was this Sharp TV that had an NES built into the bottom of it. I don't think it ever came out here. I actually don't know what region it came out in. Maybe it did come out here. Sharp TVs were around here. But this is an oddity for sure and probably very rare and expensive. But basically, it's just a CRT that looks like instead of where a VCR might be, it's an NES control deck that you can just pop cartridges into. And it even has controller ports. So that's pretty cool. And they even followed that up for Super Nintendo. First one I found on eBay. Any guesses on the price?
 
-**Mike** [08:19]: That can't be that big. No, that's a good call. Tetris being a bundle because it was bundled with the Game Boy.
+[21:56] $495 starting bid. $3,999. Okay. It's between those two. Mike's a lot closer. Damn. $2,700 or best offer. So maybe I'll make an offer. Oh, so Sean can still be close, actually. Yeah, exactly. We don't know what the best offer is. And now, Sean, you posted a picture of illegal paraphernalia here. It seems like there's some blue hedgehog or something on the screen. But he's on a digital alarm clock. So this is just like an alarm clock. Well, it's a radio slash TV slash alarm clock.
 
-**Sean** [08:27]: It doesn't solve the problem of clearing out your back stock of power pads, but I mean, it's probably better value for the customer.
+[22:34] Great. It's a 5.5 inch CRT television. It's color. Usually they weren't color. I remember in 2003, my dad for Christmas, my mom got him a watch that was supposed to have like, it was supposed to be able to pick up TV channels. Oh, wow. And I just thought that was the coolest thing ever. I was like, what? And of course, it never worked. Yeah. He was close. He was so close to the Apple Watch. How big was it? Wasn't that big, but it had an antenna too. You had to pull out the antenna. That's so funny. That is cool. He basically looked like James Bond. I would have been in the world.
 
-**Mike** [08:36]: Yeah, that's a good point. If they had to make new power pads to justify this set, then from a hardware standpoint, this is a lot of hardware. Two controllers, a zapper, a power pad, but more than likely they had this shit laying around.
+[23:12] So talking about limited edition consoles, though, in the true spirit of it, I was thinking about like the N64 version with Pikachu on it, where like when you power it on, which the power on is a Pokeball, and then Pikachu's cheeks light up when it's powered on, or the R2-D2 Xbox 360 that is very tastefully done. So it still looks totally like an Xbox 360. It didn't reshape anything, but it's got like all the right color in the right places to basically trick you into looking like that's R2-D2. And it comes with a gold controller to have like C3PO next to it.
 
-**Sean** [08:49]: I think so.
+[23:54] So it's very nicely done. Those are the nice limited editions. I don't think I own any nice limited editions. I own like color variants of things. I never had a translucent version of a console. I know the N64 did those. I own some translucent controllers, which I think looks nice. What do you guys think of that whole translucent aesthetic? I mean, I had the atomic purple Game Boy Color. Hell yeah, brother. And then the, I want to say it was something like Arctic Freeze Game Boy Advance, which was like less purple, more blue.
 
-**Mike** [08:50]: The power set also on the box says, now you're playing with power. Again, that classic slogan, but then it adds on in a whole new way. Where'd that come from?
+[24:27] But in other circumstances, if we're talking about standard home consoles, I think I would pay more for them not to be like super garish. Like to, to be not the giant. Like stop, just give me a stock PlayStation, Xbox, whatever. So you would prefer the first version of the PS3, which I know you own, but you would take that over the slim? Well, I do prefer that because it are, it has like actual backwards compatibility in it. But in terms of. But it weighs 600 pounds.
 
-**Mike** [09:03]: Now you're playing with power in a whole new way. It's like, now you're playing with power squared. Like, is that what they're trying? You know, like you leveled up.
+[25:01] Yeah. But like that was, that was a rebrand entirely. Like there was a point where the original was the only way to get it. And then they stopped making that. And now the slim was the only way you could get it. So I don't, I'm saying that I would prefer to have a stock Xbox, PlayStation, whatever, than one that has Pikachu's cheeks on it. Yeah. I think I agree too. I do like that, like the clear plastic aesthetic and everything, but it feels like so of its time that now it's like, oh, that's like a really cool retro design, you know? But yeah, I do think like most of the time I look at a console, I'm like, oh, they got it right the first time, you know?
 
-**Sean** [09:10]: No, I don't know. I think that's quite a jump. I think it's like a new, it's a new cartridge. Yeah. It's like, you don't have to. Ostensibly, those who buy this might, the NES might be new to them. You know, it could mean anything.
+[25:42] And like, I know it doesn't really, it doesn't really matter at all. But in my brain, I'm like, yeah, if I had an R2D2 console and I'm playing a, you know, a Star or I'm playing a Harry Potter game, I'd be like, well, this doesn't make sense.
 
-**Joe** [09:30]: Yeah. Or maybe it's saying like, well, nobody ever bought this power pad ever.
+[25:57] I feel like I'd only feel comfortable playing Star Wars games if I had an R2D2 console. So I need it to be just like a blank console. Right. So that SpongeBob Xbox One that goes for like crazy money is like useless because there's like one SpongeBob game. That's exclusively a SpongeBob machine.
 
-**Sean** [09:34]: So it's new to everyone. Yeah, I like that.
+[26:14] Yeah. What about now? What about a controller like that? Like there is a SpongeBob controller for GameCube that is crazy expensive. Would you only play a SpongeBob game with that controller? Like, would you be able to play Soul Calibur 2 with the SpongeBob controller? I mean, obviously I'm being like a little silly here, but like, I think that it just comes down to like, even when I'm a kid, I'm like the, a PlayStation controller already looks like sleek and cool and like futurey to me. You know, it's like this cool piece of tech. So like to then put even something that I like to put like a SpongeBob face on it. Well, now I look like a kid. Yeah. Like I'm an adult. Like you can't show that. A serious gaming system.
 
-**Mike** [09:37]: And I guess I'll just get in front of it now, but next week we are going to cover another compilation game of World Cup and Super Spike V-Ball. And I have a whole nother slew of things to talk about in that episode. So don't worry. I'm just going to continue on with the bundles here. And this was the NES Sports Set Bundle, which came with this compilation of these two sports games, an NES 4 controllers, and an NES satellite, the wireless 4-player thing that like received on to your NES. So this way you could play from like very far away. And here's the real value, six C batteries.
+[26:55] Yeah. That's funny because, uh, my Switch 2, I needed like a protector case for it so I could put it in my backpack while I commute. I got the most kiddie-ish looking, uh, protector case with like Mario, Donkey Kong, Luigi, like the whole gang just like smiling and waving at you as if it's like a lunchbox, you know? And I'm like, I'm pulling this thing out on the train next to a guy with a suit. It being a case, that's, that's a little different. You know, if it's just a console, I just feel too locked into like one theme. Nah, nah. A case, console, controller, I don't want anything on anything.
 
-**Sean** [10:22]: Wait, what do we see batteries? Six of them, too.
+[27:36] No branding. Sean, you had mentioned, uh, Sega GT 2002 Jet Set Radio Future, uh, combo for the Xbox and that was all on one disc too, but there was a weirder release, uh, combo pack for the Xbox. Do you know it?
 
-**Mike** [10:27]: But the NES satellite, I guess.
+[27:53] Um, I don't. It's okay because I don't know, I don't expect anyone to know this. I don't know why this exists, but it is, uh, Tetris Worlds, which is a pretty mediocre Tetris game, uh, combo pack with Star Wars The Clone Wars. Huh. Can't figure out, uh, one's, one's published by THQ, the other one by LucasArts. Can't figure out the connection here. Um, they both have, uh, Xbox Live, uh, so maybe it was like, oh, go online, but like who's selling Tetris Worlds as like a go online game? Well, I, now did, did Sega make Jet Set Radio Future? Sega did and they also made Sega GT 2002. Okay, well that, that makes sense. Well, okay, so yeah, now there's no, there's no precedent for this at all.
 
-**Sean** [10:29]: Oh, wow. What are we going to talk about next week now that you covered everything about that?
+[28:41] Right. And the way I was thinking about it too with Sega's thing is like a lot of people did see the Xbox as like the successor to the Dreamcast, uh, even if it was so close to it of, you know, like all the Sega, Sega was putting a lot of stuff on the Xbox, so it made sense to have this double pack, uh, here, especially when the Dreamcast audience, especially the people I knew who had Dreamcast, they all owned Xboxes too. So it's like, you guys get together and talk? Like, why do I own a GameCube? How do, how do, how do I like exist in a vacuum? Well, you were still a kid that didn't like grown up games like Halo.
 
-**Mike** [10:34]: Oh, don't worry. I've got a whole nother thing. Because this episode is actually going to take a turn, too. If anybody's looking at the runtime, it's not about to end.
+[29:17] That's, you know what, that's actually true, but I did eventually get not only this Sega GT 2002 and Jet Set Radio Future combo pack, I did get Halo and I did play it and I did remember thinking that this is awesome because I had never really played a first person shooter before that, uh, and then the final level with the Warthog, I was like, oh, this sucks.
 
-**Sean** [10:42]: Oh, okay.
+[29:40] You remember that? It was like a really difficult to control, whatever it was with the Warthog controls and it was like, it was really difficult on the original Xbox to like maneuver that. No, no, no, no. You just, you just had to get the feel of it, man. It's all about vibes. I know. I think I was just trying to like brute force my way through everything.
 
-**Joe** [10:43]: I was just looking at the runtime.
+[29:58] The Xbox wound up paying off for itself though, because that's where I experienced Knights of the Old Republic, which, uh, when I finished that game, I remember saying, this is my favorite video game of all time. Hell yeah, brother.
 
-**Mike** [10:46]: Well, you're constantly looking at the runtime live. Like, it looks like it's constantly.
+[30:11] It's no longer that, but it was there for a little bit. All right. I think I've ran out of things to ramble about. Um, unless you guys want to go back to supermariobrothers.com world-class track meet, do we want to close the loop? Yeah. I mean, should we, should we all just quickly say that it's not applicable for the essential games list during the essential games list boat? Yeah. Should we just like do like a little legal ease here and do it really fast, you know? Yeah. Make them sound play fast. Supermariobrothers.com world-class track meet is currently not applicable for the essential games list. Yeah. Perfect. Consult your doctor if you're allergic to supermariobrothers.com. Speed that up, right?
 
-**Sean** [10:50]: I was like, yeah, this is the end.
-
-**Mike** [10:51]: It's 11 minutes.
-
-**Sean** [10:52]: Right. As of right now.
-
-**Mike** [10:54]: But I think like, okay, so let's compare them right now. You got the power set, and you got the sports set, and you have the previous action set. Did it ever... Two questions. We'll start with the first one. Does it ever make sense to wait? Like, should you have just gotten the NES as soon as possible? Or was the action set with the Super Mario Bros. Duck Hunt pack in the jump-in point? Or are you finally getting, like, the best bang for your buck, even though you had to wait two extra years, and now you got either a choice of four controllers with an adapter or two additional accessories?
-
-**Sean** [11:31]: I guess it really depends on the price.
-
-**Mike** [11:34]: But... So the prices were pretty, like... So the NES originally was $199. Then the action set, which comes in 89, was $149. So you only dropped $50 over four years. And then the power set and the sports set seem to be retailing at $179 and $199. So quite a...
-
-**Joe** [11:57]: Plus inflation.
-
-**Sean** [11:59]: Quite a jump up. So it sounds like, you know, if you're trying to be cost-effective, you should probably wait. You should have waited for the Duck Hunt slash Super Mario thing.
-
-**Mike** [12:08]: Yeah, I think to me that sounds like the best bundle because you don't have to, like, figure out a place to store this power pad after you figure out it doesn't work. And you have two essential games right off the bat.
-
-**Sean** [12:21]: Which two? Super Mario Bros.
-
-**Joe** [12:24]: and Duck Hunt. Oh, okay. Just making sure. Yep.
-
-**Mike** [12:28]: All right. So where I'm going to take this episode next is just pack in bundles or just, like, launch games in general. And I just wanted to get from you guys, you know, because we didn't grow up with the NES. Were there ever consoles that you didn't buy at launch but, like, had a bundle and you were like, okay, now is, like, the time for me to jump into this console? For me, for both the PS4 and the PS5, it took, like, a Spider-Man and Spider-Man 2 bundle to finally, like, convince me to pull that trigger. So clearly, like, all of these publishers, regardless of, like, you know, whatever they set out to do with their launches, they've given up on the whole, like, and it comes with this game, right? Like, that just, it didn't happen with the NES and it doesn't happen now. The most recent example I can think of is PS4 came with Astro's Playroom, which was freaking awesome, but that was digital. And everything since then and kind of for a while before that wasn't, like, it wasn't a game that, a physical game that came with it that you had on day one. You basically had to buy this thing and then buy the game that you wanted alongside of it. So for the bundle question of consoles, do you remember any specific bundles that you bought growing up?
-
-**Sean** [13:49]: I mean, the bundles still exist. It's just that they usually add the cost of the game to the cost of the bundle.
-
-**Mike** [13:59]: Right, but the bundle's also, like, the bundle is a digital game.
-
-**Sean** [14:02]: Sure. So you want a hard copy.
-
-**Mike** [14:06]: I think that's what I'm thinking of is, like, you're getting something cool out of this. Like, for instance, in the power set, you're also getting a light gun and a power pad. I feel like you need to sweeten the pot here a little bit.
-
-**Sean** [14:18]: I think the only time I ever had that, I got the original Xbox however many, maybe a year or two years into the life cycle of that console. And it came with GT 2002 and Jet Set Radio Future, I think.
-
-**Mike** [14:44]: Yes, that's correct. It was one of my examples.
-
-**Joe** [14:46]: Oh, okay. I was going to say that, like, I definitely didn't ever buy bundles. But now that you said that, I do remember that my PS2 definitely came with a Gran Turismo because I never would have bought that game on my own. I think it was, like, still the cellophane for, like, most of my life. Like, I don't even know if we ever, like, took it out. But, like, I don't know, my parents must have found a deal on it when we got it for Christmas one year. But otherwise, like, I don't think I ever, like, sought out, even, like, when I got a little older, like, PS3 came out or even PS4, I was just, like, the pack-in games were never, like... I'm very particular with, like, the games I play or the movies. There's always, like, there's, like, specific things that I know I want. And, like, it takes a lot for me to just, like, try some random new game. So, like, the PS4 or 3 or whatever comes out with, like, a Killzone game, I'm like, well, I don't know what that is and I don't really care. You know, so it's, like, I'm sure it was good.
-
-**Mike** [15:36]: But, like, I think I usually...
-
-**Sean** [15:37]: That was the killer app, Joe. That was the Halo killer.
-
-**Joe** [15:41]: Oh, yeah. That was what... And it did. It did. Halo's good. No one talks about Halo anymore.
-
-**Mike** [15:46]: Everyone talks about Killzone.
-
-**Joe** [15:48]: Yeah. But, yeah, I think I just, like, liked more to build my own library from scratch rather than, you know, fall into it. Unless there was, like, a really great deal. But I don't remember, you know, ever getting things together like that.
-
-**Mike** [16:03]: Yeah, that was my only...
-
-**Sean** [16:04]: That was the only time I've ever had a bundle like that.
-
-**Mike** [16:07]: The most recent example I can think of of just a pack-in game that not only made sense but practically boosted the sales of the console everywhere is a console celebrating its 20th anniversary this year. And that's the Wii with Wii Sports. There are some people who, like, got a Wii just to have these four sports games with motion controls and then they never bought another Wii game. Like, how many retirement homes just have Wii Sports running on a Wii still to this day? Just on.
-
-**Sean** [16:39]: It's been on since...
-
-**Mike** [16:40]: Yeah, it never gets turned off. But you guys had Wiis or no?
-
-**Joe** [16:45]: I did have a Wii and, yes, it did come with... I mean, like, I think it was, like, my sisters, but, like, it was our families. And I do... Yeah, I mean, I think they all came with Wii Sports, right? Like, every single one of them. Which is why it's, like, the best-selling game of all time or whatever. Yeah, can you count that?
-
-**Mike** [16:59]: I mean, there are some Wiis that eventually they dropped it and I think the... There was even, like, a Wii Mini that came out that... I don't know what made it a Mini. Like, if it didn't have a disk drive or... I think it actually dropped the GameCube support. There were no GameCube ports and you couldn't play GameCube games, which is, like... I don't know. I guess not a deal-breaker for the retirement home crowd, but certainly would have sucked
-
-**Joe** [17:23]: for me. I think the retirement home crowd, big Super Mario Sunshine fans.
-
-**Sean** [17:28]: I heard that. Sorry, can you repeat your question, Mike?
-
-**Mike** [17:31]: Like... No, did you ever own a Wii?
-
-**Sean** [17:34]: Oh, I didn't get a Wii until 2024.
-
-**Mike** [17:37]: Okay, great. Yeah. That's what a magical time for you. How have the last two years been treating you?
-
-**Sean** [17:42]: I've played it, like, three or four times. As soon as I finished... As soon as I finished Silent Hill Shattered Memories, it's kind of gone into storage, but...
-
-**Mike** [17:52]: That was the reason I bought it. And if you forget, pack in games for a minute and just remember that Nintendo's first console, even before the Famicom Disk System was one of those plug-and-play, like, TV Color 6 and TV Color 15 consoles where you just plug it in and it has 15 games in it, that's kind of... That's a version of a pack-in. I don't know.
-
-**Sean** [18:18]: It's all it ever had. Yeah, I think that's... It's all it ever had. It was like, that's the offering. I think that's just being kind of cute with verbiage.
-
-**Mike** [18:24]: Verbiage. And then how about, like, limited edition consoles? Like, isn't it weird that the NES didn't get, like, a color reskin or something or, like, a cool Super Mario Bros. version? Is there... I'm thinking... Is there an official top-loader NES or do I...
-
-**Joe** [18:39]: I always see, like...
-
-**Sean** [18:41]: You know, they're real. There is.
-
-**Joe** [18:43]: So is that kind of that?
-
-**Mike** [18:44]: That's a console variation.
-
-**Sean** [18:46]: Yeah, it's like the PS spelled out one, kind of.
-
-**Joe** [18:49]: Yeah, yeah. Yeah.
-
-**Mike** [18:51]: Right, which I still don't understand what that is. I think it's just a smaller PlayStation. Yeah, but there's, like, one where...
-
-**Joe** [18:57]: I mean, this is going off on a tangent, but there's one where you can, like... There's a screen that plugs into it and you, like, take it on the go.
-
-**Mike** [19:03]: I always wanted that screen.
-
-**Sean** [19:04]: Yeah. It's probably useless and terrible, terrible color and everything, but that did look cool.
-
-**Mike** [19:11]: And why not have that on the NES, too? Like, why not just release an NES with a screen?
-
-**Joe** [19:15]: Yeah, like, a little NES with a screen, like, a yellowish screen that could have four AA batteries
-
-**Mike** [19:23]: and purple buttons. And you know the tech existed.
-
-**Sean** [19:26]: Like, I still see those tiny TVs that you can get, like... You used to be able to get, like, you know, satellite or antenna broadcasts. So you could have just had, like, a bigger version of that that had NES hardware in it, too.
-
-**Joe** [19:42]: But are you saying, then, like, I mean, basically something the size of an NES that has a screen?
-
-**Sean** [19:50]: Yeah, like a really tiny, crappy, five-inch CRT television.
-
-**Joe** [19:56]: Because, like, what would the point of that be, really?
-
-**Sean** [19:58]: Just to satisfy this perspective thing that we're making up.
-
-**Joe** [20:04]: Yeah. Because even the PS1, like, as cool as it sounded, like, where am I going that has electricity
-
-**Sean** [20:11]: that I don't have a TV?
-
-**Joe** [20:13]: You know what I mean? Like, I'm like, oh, I can take it on, like, a long car ride.
-
-**Mike** [20:16]: No, I can't. I can't plug it in.
-
-**Sean** [20:18]: You know? But the primary use of the PS1 spelled out wasn't to also have that TV.
-
-**Joe** [20:25]: I don't even know if they sold that anywhere, aside from, like, probably Japan.
-
-**Sean** [20:29]: I'm making this up.
-
-**Mike** [20:30]: I don't know. Right, who even knows? It might be, like, a third-party company made that screen.
-
-**Joe** [20:34]: No, I swear there was an actual, like, product that was, like, a PS1 with its own little screen, right? Am I making that up?
-
-**Sean** [20:41]: Like, its own? No, the screen was probably a peripheral.
-
-**Mike** [20:45]: Yes, that's right.
-
-**Sean** [20:46]: Because I bought a PS1 to have in a separate room than, like, PlayStation 2 at the time, I think.
-
-**Joe** [20:54]: Yeah, I think you're right. It is a peripheral, but it does say Sony on it.
-
-**Mike** [20:57]: Yeah. Okay, great. Cool. So you just debunked my part of it. You made me look stupid, but Sean looks good.
-
-**Sean** [21:04]: As long as one of you. Yes, I do look good. Yeah.
-
-**Joe** [21:08]: I was going for either one of you.
-
-**Mike** [21:10]: It was nothing personal. So here's the thing about why not just take an NES and put, like, a screen on it. They did that. It was this Sharp TV that had an NES built into the bottom of it. I don't think it ever came out here. I actually don't know what region it came out in. Maybe it did come out here. Sharp TVs were around here. But this is an oddity for sure and probably very rare and expensive. But basically, it's just a CRT that looks like instead of where a VCR might be, it's an NES control deck that you can just pop cartridges into. And it even has controller ports. So that's pretty cool. And they even followed that up for Super Nintendo.
-
-**Joe** [21:51]: First one I found on eBay. Any guesses on the price?
-
-**Sean** [21:56]: $495 starting bid.
-
-**Mike** [21:59]: $3,999.
-
-**Joe** [22:01]: Okay. It's between those two.
-
-**Sean** [22:03]: Mike's a lot closer. Damn. $2,700 or best offer.
-
-**Mike** [22:10]: So maybe I'll make an offer. Oh, so Sean can still be close, actually.
-
-**Sean** [22:13]: Yeah, exactly. We don't know what the best offer is.
-
-**Mike** [22:16]: And now, Sean, you posted a picture of illegal paraphernalia here. It seems like there's some blue hedgehog or something on the screen. But he's on a digital alarm clock. So this is just like an alarm clock.
-
-**Sean** [22:30]: Well, it's a radio slash TV slash alarm clock. Great. It's a 5.5 inch CRT television. It's color. Usually they weren't color.
-
-**Mike** [22:40]: I remember in 2003, my dad for Christmas, my mom got him a watch that was supposed to have like, it was supposed to be able to pick up TV channels. Oh, wow. And I just thought that was the coolest thing ever. I was like, what? And of course, it never worked. Yeah. He was close. He was so close to the Apple Watch.
-
-**Joe** [23:01]: How big was it?
-
-**Mike** [23:03]: Wasn't that big, but it had an antenna too. You had to pull out the antenna.
-
-**Sean** [23:07]: That's so funny. That is cool.
-
-**Mike** [23:08]: He basically looked like James Bond.
-
-**Sean** [23:09]: I would have been in the world.
-
-**Mike** [23:12]: So talking about limited edition consoles, though, in the true spirit of it, I was thinking about like the N64 version with Pikachu on it, where like when you power it on, which the power on is a Pokeball, and then Pikachu's cheeks light up when it's powered on, or the R2-D2 Xbox 360 that is very tastefully done. So it still looks totally like an Xbox 360. It didn't reshape anything, but it's got like all the right color in the right places to basically trick you into looking like that's R2-D2. And it comes with a gold controller to have like C3PO next to it. So it's very nicely done. Those are the nice limited editions. I don't think I own any nice limited editions. I own like color variants of things. I never had a translucent version of a console. I know the N64 did those. I own some translucent controllers, which I think looks nice. What do you guys think of that whole translucent aesthetic?
-
-**Sean** [24:13]: I mean, I had the atomic purple Game Boy Color.
-
-**Mike** [24:17]: Hell yeah, brother.
-
-**Sean** [24:19]: And then the, I want to say it was something like Arctic Freeze Game Boy Advance, which was
-
-**Joe** [24:24]: like less purple, more blue.
-
-**Sean** [24:27]: But in other circumstances, if we're talking about standard home consoles, I think I would pay more for them not to be like super garish.
-
-**Mike** [24:39]: Like to, to be not the giant.
-
-**Sean** [24:42]: Like stop, just give me a stock PlayStation, Xbox, whatever.
-
-**Mike** [24:46]: So you would prefer the first version of the PS3, which I know you own, but you would take that over the slim? Well, I do prefer that because it are, it has like actual backwards compatibility in it.
-
-**Sean** [24:58]: But in terms of.
-
-**Mike** [25:00]: But it weighs 600 pounds.
-
-**Joe** [25:01]: Yeah. But like that was, that was a rebrand entirely.
-
-**Sean** [25:03]: Like there was a point where the original was the only way to get it. And then they stopped making that. And now the slim was the only way you could get it. So I don't, I'm saying that I would prefer to have a stock Xbox, PlayStation, whatever, than one that has Pikachu's cheeks on it.
-
-**Joe** [25:22]: Yeah. I think I agree too. I do like that, like the clear plastic aesthetic and everything, but it feels like so of its time that now it's like, oh, that's like a really cool retro design, you know? But yeah, I do think like most of the time I look at a console, I'm like, oh, they got
-
-**Mike** [25:39]: it right the first time, you know?
-
-**Joe** [25:42]: And like, I know it doesn't really, it doesn't really matter at all. But in my brain, I'm like, yeah, if I had an R2D2 console and I'm playing a, you know, a Star or I'm playing a Harry Potter game, I'd be like, well, this doesn't make sense.
-
-**Sean** [25:57]: I feel like I'd only feel comfortable playing Star Wars games if I had an R2D2 console.
-
-**Joe** [26:01]: So I need it to be just like a blank console.
-
-**Mike** [26:04]: Right. So that SpongeBob Xbox One that goes for like crazy money is like useless because there's like one SpongeBob game.
-
-**Joe** [26:11]: That's exclusively a SpongeBob machine.
-
-**Mike** [26:14]: Yeah. What about now? What about a controller like that? Like there is a SpongeBob controller for GameCube that is crazy expensive. Would you only play a SpongeBob game with that controller? Like, would you be able to play Soul Calibur 2 with the SpongeBob controller?
-
-**Joe** [26:30]: I mean, obviously I'm being like a little silly here, but like, I think that it just comes down to like, even when I'm a kid, I'm like the, a PlayStation controller already looks like sleek and cool and like futurey to me. You know, it's like this cool piece of tech. So like to then put even something that I like to put like a SpongeBob face on it. Well, now I look like a kid.
-
-**Sean** [26:50]: Yeah. Like I'm an adult. Like you can't show that.
-
-**Joe** [26:53]: A serious gaming system.
-
-**Mike** [26:55]: Yeah. That's funny because, uh, my Switch 2, I needed like a protector case for it so I could put it in my backpack while I commute. I got the most kiddie-ish looking, uh, protector case with like Mario, Donkey Kong, Luigi, like the whole gang just like smiling and waving at you as if it's like a lunchbox, you know? And I'm like, I'm pulling this thing out on the train next to a guy with a suit.
-
-**Joe** [27:22]: It being a case, that's, that's a little different. You know, if it's just a console, I just feel too locked into like one theme.
-
-**Sean** [27:29]: Nah, nah. A case, console, controller, I don't want anything on anything.
-
-**Joe** [27:36]: No branding.
-
-**Mike** [27:38]: Sean, you had mentioned, uh, Sega GT 2002 Jet Set Radio Future, uh, combo for the Xbox and that was all on one disc too, but there was a weirder release, uh, combo pack for the Xbox. Do you know it?
-
-**Sean** [27:53]: Um, I don't.
-
-**Mike** [27:55]: It's okay because I don't know, I don't expect anyone to know this. I don't know why this exists, but it is, uh, Tetris Worlds, which is a pretty mediocre Tetris game, uh, combo pack with Star Wars The Clone Wars. Huh. Can't figure out, uh, one's, one's published by THQ, the other one by LucasArts. Can't figure out the connection here. Um, they both have, uh, Xbox Live, uh, so maybe it was like, oh, go online, but like who's selling Tetris Worlds as like a go online game?
-
-**Sean** [28:28]: Well, I, now did, did Sega make Jet Set Radio Future?
-
-**Mike** [28:33]: Sega did and they also made Sega GT 2002.
-
-**Sean** [28:35]: Okay, well that, that makes sense. Well, okay, so yeah, now there's no, there's no precedent for this at all.
-
-**Mike** [28:41]: Right. And the way I was thinking about it too with Sega's thing is like a lot of people did see the Xbox as like the successor to the Dreamcast, uh, even if it was so close to it of, you know, like all the Sega, Sega was putting a lot of stuff on the Xbox, so it made sense to have this double pack, uh, here, especially when the Dreamcast audience, especially the people I knew who had Dreamcast, they all owned Xboxes too. So it's like, you guys get together and talk? Like, why do I own a GameCube? How do, how do, how do I like exist in a vacuum?
-
-**Sean** [29:12]: Well, you were still a kid that didn't like grown up games like Halo.
-
-**Mike** [29:17]: That's, you know what, that's actually true, but I did eventually get not only this Sega GT 2002 and Jet Set Radio Future combo pack, I did get Halo and I did play it and I did remember thinking that this is awesome because I had never really played a first person shooter before that, uh, and then the final level with the Warthog, I was like, oh, this sucks.
-
-**Mike** [29:40]: You remember that? It was like a really difficult to control, whatever it was with the Warthog controls and it was like, it was really difficult on the original Xbox to like maneuver that.
-
-**Sean** [29:49]: No, no, no, no. You just, you just had to get the feel of it, man.
-
-**Joe** [29:53]: It's all about vibes.
-
-**Mike** [29:54]: I know. I think I was just trying to like brute force my way through everything. The Xbox wound up paying off for itself though, because that's where I experienced Knights of the Old Republic, which, uh, when I finished that game, I remember saying, this is my favorite video game of all time.
-
-**Sean** [30:09]: Hell yeah, brother.
-
-**Mike** [30:11]: It's no longer that, but it was there for a little bit. All right. I think I've ran out of things to ramble about. Um, unless you guys want to go back to supermariobrothers.com world-class track meet, do we want to close
-
-**Sean** [30:23]: the loop? Yeah.
-
-**Joe** [30:24]: I mean, should we, should we all just quickly say that it's not applicable for the essential games list during the essential games list boat?
-
-**Mike** [30:30]: Yeah. Should we just like do like a little legal ease here and do it really fast, you know?
-
-**Joe** [30:35]: Yeah. Make them sound play fast.
-
-**Mike** [30:36]: Supermariobrothers.com world-class track meet is currently not applicable for the essential games list. Yeah.
-
-**Sean** [30:40]: Perfect. Consult your doctor if you're allergic to supermariobrothers.com. Speed that up, right?
-
-**Mike** [30:45]: I'll try my best. Joe was talking over me. That's what I do. No, but you did that on purpose. This way some people couldn't hear in, so it sounded faster because they were like, Hey, what's that other guy saying? Yeah. Uh, all right. Next week, it's all about sports games because we're covering super spike V ball, Nintendo world cup. Uh, so gentlemen and listeners get ready to talk about all things sports video game. Okay. Thank you.
+[30:45] I'll try my best. Joe was talking over me. That's what I do. No, but you did that on purpose. This way some people couldn't hear in, so it sounded faster because they were like, Hey, what's that other guy saying? Yeah. Uh, all right. Next week, it's all about sports games because we're covering super spike V ball, Nintendo world cup. Uh, so gentlemen and listeners get ready to talk about all things sports video game. Okay. Thank you.
