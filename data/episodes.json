@@ -1,6 +1,23 @@
 [
   {
     "type": "episode",
+    "number": 448,
+    "title": "Harlem Globetrotters",
+    "feed_title": "448 - Harlem Globetrotters",
+    "published": "2026-10-02",
+    "duration_seconds": 2141,
+    "description": "Support NEStalgia directly by becoming a member of our Patreon at https://www.patreon.com/Nestalgia  Members at the $5 and above level get access to our brand new show NEStalgia Bytes. A look at the famicom games you can play without any Japanese knowledge! For More NEStalgia, visit www.NEStalgiacast.com",
+    "audio_url": "https://traffic.megaphone.fm/APO1388331860.mp3",
+    "episode_page": "https://podcasters.spotify.com/pod/show/nestalgia/episodes/448---Harlem-Globetrotters-e3njquu",
+    "art": "assets/episode-art/448-harlem-globetrotters.jpg",
+    "notes": [
+      "episodes/448-harlem-globetrotters.md"
+    ],
+    "transcript": "t",
+    "guid": "58c29ea7-2dd9-4bfb-bc54-6dda1f07024e"
+  },
+  {
+    "type": "episode",
     "number": 447,
     "title": "Bill Elliot's NASCAR Challenge",
     "feed_title": "447 - Bill Elliot's NASCAR Challenge",
