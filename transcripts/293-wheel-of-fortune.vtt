@@ -1,0 +1,1516 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.140
+Wheel of Fortune Family Edition, the exciting software version of television's number one game show has an all new Family Edition.
+
+00:00:25.300 --> 00:00:34.820
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:35.040 --> 00:00:37.220
+I'm Mike. And I'm Sean.
+
+00:00:37.220 --> 00:00:45.280
+And when I say every, you know I mean it when I have us play the third iteration of the same Wheel of Fortune game.
+
+00:00:45.480 --> 00:00:47.460
+We do these pretty often.
+
+00:00:47.900 --> 00:00:55.280
+Yeah, between Wheel of Fortune, Jeopardy, and I mean all the other game show games basically all function the same and have the same kind of notes for the NES version.
+
+00:00:55.500 --> 00:01:00.220
+So there's not much ground to cover here on Wheel of Fortune Family Edition.
+
+00:01:00.220 --> 00:01:12.160
+In case you didn't know, it's basically the things that the puzzles that you solve are now more oriented for the whole family versus the championship edition that came before it.
+
+00:01:12.280 --> 00:01:18.140
+Which, to be honest, didn't really feel any different than the regular version of Wheel of Fortune.
+
+00:01:18.340 --> 00:01:20.340
+And to be honest, a family edition doesn't feel that different.
+
+00:01:20.340 --> 00:01:21.460
+It just feels like you're paying.
+
+00:01:21.460 --> 00:01:22.700
+Yeah, this one doesn't feel any different either.
+
+00:01:22.880 --> 00:01:24.900
+Yeah, you're just paying for puzzles.
+
+00:01:25.080 --> 00:01:29.020
+You're just saying like, hey, I finished every single puzzle in the other Wheel of Fortune, so give me this one.
+
+00:01:29.680 --> 00:01:30.880
+You know what they should do?
+
+00:01:31.000 --> 00:01:32.620
+They should do a puzzle designer.
+
+00:01:33.180 --> 00:01:34.820
+For, like, for Wheel of Fortune.
+
+00:01:35.560 --> 00:01:39.040
+Yeah, yeah. So, like, you could put the letters where you want them.
+
+00:01:40.000 --> 00:01:41.660
+Okay. It would be awesome.
+
+00:01:41.840 --> 00:01:45.160
+Great. Yeah, and actually, I just want to get everybody on the same page.
+
+00:01:45.300 --> 00:01:48.200
+I said championship edition, but it was junior edition.
+
+00:01:48.540 --> 00:01:50.440
+Jeopardy has a championship edition.
+
+00:01:50.740 --> 00:01:52.340
+My bad. I mean, tomato, tomato.
+
+00:01:52.540 --> 00:01:54.480
+No, I am really bad for not knowing that.
+
+00:01:54.620 --> 00:01:58.820
+That's like, if there's one thing you have to know about Wheel of Fortune, it's the three versions that Rare released.
+
+00:01:59.120 --> 00:02:02.220
+I think that might be a question on Jeopardy.
+
+00:02:02.380 --> 00:02:05.060
+Yeah, actually, Sean, that was another trivia thing.
+
+00:02:05.240 --> 00:02:06.200
+Rare didn't release them.
+
+00:02:06.320 --> 00:02:07.120
+They just made them.
+
+00:02:07.280 --> 00:02:08.800
+Game Tech released them.
+
+00:02:08.800 --> 00:02:11.860
+So, am I getting them wrong, or am I just quizzing you?
+
+00:02:12.040 --> 00:02:13.080
+Is this a game show?
+
+00:02:13.580 --> 00:02:15.560
+I have a feeling you're about to make it one.
+
+00:02:16.020 --> 00:02:18.700
+It's going to be a joke episode, actually, instead, okay?
+
+00:02:19.360 --> 00:02:22.700
+Because I couldn't figure out what else to talk about, and we need to fill the time.
+
+00:02:22.900 --> 00:02:30.960
+One of our patrons on patreon.com slash nostalgia, where you can join two for just $1 a month, or $5 a month if you want even more episodes of Nostalgia.
+
+00:02:31.380 --> 00:02:37.200
+One of our patrons suggested that we eat beans whenever we say something wrong, so I would have had to eat two beans already.
+
+00:02:38.200 --> 00:02:43.300
+I actually don't know if it was saying, like, cups of beans at a time, or individual beans.
+
+00:02:43.580 --> 00:02:46.040
+Just beans? Did they have to be cooked beforehand?
+
+00:02:46.260 --> 00:02:47.300
+What type of bean? Black bean?
+
+00:02:47.300 --> 00:02:49.340
+I didn't come prepared with any beans, Mike.
+
+00:02:49.460 --> 00:02:50.600
+Well, we don't need that, okay?
+
+00:02:50.760 --> 00:02:57.200
+Because the next thing after we rejected the beans idea was I suggested that we bring our family on for this episode.
+
+00:02:57.200 --> 00:03:03.740
+We all just have our family gather around one mic, you have your whole family on one mic, and we just all talk at the same time.
+
+00:03:03.740 --> 00:03:05.600
+And that didn't go over well either.
+
+00:03:06.120 --> 00:03:08.320
+No, I don't have any of my family here.
+
+00:03:08.400 --> 00:03:15.700
+Yeah. And then Sean suggested we just spin a wheel for an hour and talk about how great and handsome and all-knowing the wheel was.
+
+00:03:15.700 --> 00:03:19.040
+And I thought that was strange because I don't even know the wheel.
+
+00:03:19.260 --> 00:03:28.140
+But I would think the thing that people care about the least, I suppose, in Wheel of Fortune is the wheel, right?
+
+00:03:28.260 --> 00:03:32.400
+Like, you watch that for either Pat Sajak or Vanna White, or to solve the puzzles.
+
+00:03:32.580 --> 00:03:34.600
+Nobody gives a shit what happens on that wheel.
+
+00:03:34.600 --> 00:03:36.640
+Yeah, the wheel kind of sucks.
+
+00:03:37.540 --> 00:03:39.820
+I like that it's sparkly sometimes, though.
+
+00:03:40.080 --> 00:03:41.140
+Like, I like sparkly wheels.
+
+00:03:41.460 --> 00:03:42.780
+Those were cool to look at.
+
+00:03:43.280 --> 00:03:50.900
+Like, my favorite part of the wheel is, like, when it says bankrupt, and then, like, it's all dark.
+
+00:03:52.840 --> 00:03:54.180
+Well... And then there was all their money.
+
+00:03:54.680 --> 00:03:59.340
+And, you know, particularly when you go bankrupt, it's really sad for the whole family.
+
+00:03:59.800 --> 00:04:01.240
+Sean, that was going to be my first...
+
+00:04:01.240 --> 00:04:06.140
+And if you miss, like, if you, like, have to, like, skip your turn, that sucks too sometimes.
+
+00:04:06.140 --> 00:04:07.520
+But it's sparkly, so it's okay.
+
+00:04:08.420 --> 00:04:10.000
+Sean, that was going to be my...
+
+00:04:10.000 --> 00:04:11.180
+Don't actually walk around.
+
+00:04:11.440 --> 00:04:19.900
+I'm sorry. Sean, that was going to be my first question, actually, is how would you change Wheel of Fortune?
+
+00:04:20.080 --> 00:04:20.940
+Not the video game.
+
+00:04:21.280 --> 00:04:25.440
+Wheel of Fortune itself, and I think we can all agree, it's to make the wheel more exciting.
+
+00:04:25.680 --> 00:04:27.680
+I don't know why it's just money.
+
+00:04:27.780 --> 00:04:31.360
+They've learned nothing about the excitement of the bankrupt thing.
+
+00:04:31.360 --> 00:04:33.220
+Like, you know, everybody likes to...
+
+00:04:33.220 --> 00:04:39.520
+Everybody other than the person who spun it likes to see it land on bankrupt, and you get that fun slide whistle, and all their money disappears.
+
+00:04:39.820 --> 00:04:41.540
+There should be more things, not necessarily...
+
+00:04:41.540 --> 00:04:45.460
+More negatives. Not negatives, necessarily, but just more things that happen.
+
+00:04:45.620 --> 00:04:51.020
+Like, you spin it, and you land on the activity thing, and now you have to do physical activity.
+
+00:04:51.800 --> 00:04:59.900
+No, okay. People watched Jumanji because it was based on a board game where really nothing but bad shit happened to you.
+
+00:05:00.440 --> 00:05:03.060
+So, that's what made it, like, fun to watch.
+
+00:05:03.240 --> 00:05:06.360
+Americans like to watch bad things happen to other people.
+
+00:05:06.840 --> 00:05:18.740
+Exactly. So, you would instead, like, if we're talking about a real game show, I want there to be, like, you know, more negative things, and not just losing money.
+
+00:05:18.900 --> 00:05:28.400
+I want you to have to, like, disclose all of the, like, your medical history.
+
+00:05:28.400 --> 00:05:31.520
+Like, or you get kicked out of the game, you know?
+
+00:05:31.820 --> 00:05:38.940
+Or you have to confront an ex that you're still not over, or you get kicked out of the game.
+
+00:05:39.320 --> 00:05:40.460
+You know, stuff like that.
+
+00:05:40.600 --> 00:05:42.380
+Like, make it actually bad.
+
+00:05:42.660 --> 00:05:46.640
+Yeah, or, you know, make the players put some money on the line.
+
+00:05:46.760 --> 00:05:51.140
+Isn't it weird when you go on these game shows and it's only about winning the company's money?
+
+00:05:51.140 --> 00:05:53.360
+Like, they have no skin in the game, right?
+
+00:05:53.480 --> 00:06:05.440
+Yeah. This could be a much more profitable venture if not only are you getting ad revenue for the commercials, but that you're actually taking money from your client.
+
+00:06:05.580 --> 00:06:08.020
+Not client. Taking money from the contestants.
+
+00:06:09.260 --> 00:06:10.540
+My next question.
+
+00:06:11.290 --> 00:06:18.900
+Is there any comparison to be made to Game Show Network on TV and Twitch.tv on the internet?
+
+00:06:18.900 --> 00:06:28.340
+I ask this because, you know, the older age demographics can't seem to understand why kids watch video games be played on Twitch,
+
+00:06:28.520 --> 00:06:34.040
+yet they themselves are watching Wheel of Fortune reruns from the 80s on the Game Show Network.
+
+00:06:34.040 --> 00:06:41.120
+So, do you see my point here that maybe the Game Show Network and Twitch.tv have something in common other than just that they're on different platforms?
+
+00:06:41.400 --> 00:06:42.640
+I guess.
+
+00:06:43.220 --> 00:06:44.720
+I think there is.
+
+00:06:45.040 --> 00:06:47.000
+There's something else going on.
+
+00:06:47.160 --> 00:06:56.600
+I think a game show, it's closer to reality television than it is somebody watching somebody else play a video game.
+
+00:06:56.740 --> 00:06:58.940
+But you're watching it for the person, right?
+
+00:06:58.940 --> 00:07:04.040
+Like, it's more like you're not watching somebody play the game because you're interested in the game necessarily, right?
+
+00:07:04.040 --> 00:07:07.760
+You're interested in that person's take on the game or the personality of the...
+
+00:07:07.760 --> 00:07:08.560
+I think it could be both.
+
+00:07:08.740 --> 00:07:17.820
+Interesting. I mean, I got into, you know, during the pandemic, I got into watching Resident Evil 2 speedruns.
+
+00:07:17.820 --> 00:07:22.520
+And, you know, it was a plus if the person doing them had a personality.
+
+00:07:23.120 --> 00:07:30.180
+But I guess I'm also not the core demographic or just the core audience for Twitch.
+
+00:07:30.500 --> 00:07:33.880
+Whereas I'll watch Jeopardy because I'll play along.
+
+00:07:34.040 --> 00:07:39.200
+You can't play along in a video game when someone's playing a video game for you.
+
+00:07:39.300 --> 00:07:46.160
+I don't know. That's a good point because I guess, like, there is some kind of level of interaction with the chat, right?
+
+00:07:46.160 --> 00:07:52.420
+Like, that is why a lot of people go to Twitch and they hope to interact directly with the streamer,
+
+00:07:52.500 --> 00:07:55.780
+which is something you can't do on the game show side of things.
+
+00:07:55.960 --> 00:07:59.440
+But on the game show side of things, you can also play along with the puzzles themselves.
+
+00:07:59.800 --> 00:08:03.780
+I watch and play a lot of Marvel Snap.
+
+00:08:04.060 --> 00:08:07.000
+But I won't watch anybody play Marvel Snap.
+
+00:08:07.140 --> 00:08:11.720
+It's not about, like, who's playing, who has the most people viewing their stream right now or anything.
+
+00:08:11.720 --> 00:08:17.020
+It's like, there are specific guys that I've, like, you know, I tuned into their channel for, like, a minute and was like,
+
+00:08:17.060 --> 00:08:19.360
+oh, you know, they're pretty interesting dudes.
+
+00:08:19.360 --> 00:08:21.880
+So I'll watch them play Marvel Snap.
+
+00:08:21.880 --> 00:08:25.200
+But I won't just watch anybody play Marvel Snap.
+
+00:08:26.000 --> 00:08:31.640
+Okay. What could be a video game only version of a game show?
+
+00:08:31.820 --> 00:08:36.200
+Something that is a game show but couldn't possibly have a 2 p.m.
+
+00:08:36.300 --> 00:08:37.860
+weekday slot. I'm sorry.
+
+00:08:38.260 --> 00:08:43.960
+Say that again? So it's a game show, but it's only on video games.
+
+00:08:44.200 --> 00:08:45.080
+So think about it.
+
+00:08:45.080 --> 00:08:47.520
+You were in the right headspace earlier with Jumanji, right?
+
+00:08:47.720 --> 00:08:51.680
+Yeah. Jumanji can't be something that they put on 2 p.m.
+
+00:08:51.980 --> 00:08:55.040
+in the afternoon to have people watch on TV.
+
+00:08:55.500 --> 00:09:00.740
+Instead, this would be something that is a game show but couldn't possibly happen in real life.
+
+00:09:01.100 --> 00:09:04.660
+This has happened in many video game iterations already.
+
+00:09:04.660 --> 00:09:08.880
+There have been, like, Panasonic 3DO had, like, a game, I think, called Twisted.
+
+00:09:09.540 --> 00:09:13.820
+And it was, you know, not a real game show or whatever, but they made it a game show.
+
+00:09:14.180 --> 00:09:23.260
+Okay. So are you saying, like, it's a game show, like, it's just a fiction being presented as a game show?
+
+00:09:23.640 --> 00:09:25.480
+Exactly. Okay.
+
+00:09:25.480 --> 00:09:28.600
+All right. You want me to, like, just think of something on the spot?
+
+00:09:28.760 --> 00:09:30.360
+I would love to hear what your thoughts are.
+
+00:09:30.520 --> 00:09:33.000
+You know, you're pitching it right now to the dev team.
+
+00:09:33.480 --> 00:09:43.680
+Okay. Um, it's a game show in which you, um, you are the demigod of a little pocket dimension.
+
+00:09:43.680 --> 00:09:52.180
+And you have these little, like, lemming-like things or just some sort of, like, low, sentient being.
+
+00:09:52.460 --> 00:09:58.620
+Um, and you need to basically god them in the right direction.
+
+00:09:58.620 --> 00:10:04.440
+And whoever, like, invents fire first wins or, like, is able to control fire.
+
+00:10:04.440 --> 00:10:13.240
+Get your little lemming people, your mini-lemming people to, you know, hit, like, a societal milestone, you know?
+
+00:10:13.940 --> 00:10:15.040
+That'd be pretty fun.
+
+00:10:15.220 --> 00:10:18.920
+Okay. And so other, there are other demigods doing the same thing?
+
+00:10:18.920 --> 00:10:32.520
+Yeah. So you would, like, you'd cut between, like, oh, it looks like, uh, uh, contestant A was able to engineer a scenario where they, he's got farming all figured out.
+
+00:10:32.520 --> 00:10:37.300
+But, like, uh, over here, it looks like it's contestant B.
+
+00:10:37.560 --> 00:10:40.620
+They went extinct because they kept eating poison.
+
+00:10:40.780 --> 00:10:43.640
+And they never really learned what poison is, you know?
+
+00:10:43.860 --> 00:10:46.700
+And then you just keep, like, you'd keep resetting it.
+
+00:10:46.800 --> 00:10:47.720
+You went more to be-
+
+00:10:47.720 --> 00:10:54.300
+I don't know. Yeah, you went more, like, the survivor direction, which could, I guess, like, is a game show, but is also more of a reality show, right?
+
+00:10:54.720 --> 00:11:02.320
+No, I mean, there's a, I guess, but, um, it would be, there would be, um, similar scenarios.
+
+00:11:02.320 --> 00:11:03.460
+Every week, you know?
+
+00:11:03.880 --> 00:11:09.900
+Or maybe there'd be different, uh, uh, different things that you have to, different obstacles.
+
+00:11:09.900 --> 00:11:13.260
+Like, you can only do it with sea life now.
+
+00:11:13.660 --> 00:11:15.000
+Like, make the, yeah, you know?
+
+00:11:15.480 --> 00:11:17.460
+I'm just, I'm lost.
+
+00:11:17.520 --> 00:11:25.800
+Yeah, no, I hear you. Because, see, I would argue that every minigame in Mario Party ever is also a ripe opportunity for a game show.
+
+00:11:25.800 --> 00:11:31.380
+Like, there's always X amount of people against another X amount of people, and there's always a winner, right?
+
+00:11:31.500 --> 00:11:33.720
+And they win some coins, which is basically money.
+
+00:11:33.840 --> 00:11:39.740
+So these minigames have somehow created hundreds of potential game shows for us.
+
+00:11:39.800 --> 00:11:41.680
+Or maybe just one game show called Mario Party.
+
+00:11:41.820 --> 00:11:44.300
+That's what, actually, we need in the 2 p.m.
+
+00:11:44.380 --> 00:11:49.720
+weekday slot, is a giant board game that people stand around, step on spaces or whatever.
+
+00:11:49.720 --> 00:11:53.760
+They're built very elaborately, and then they all play these minigames afterwards.
+
+00:11:53.780 --> 00:11:57.940
+We need Mario Party the show on the game show network.
+
+00:11:58.260 --> 00:12:04.140
+You know what? I might have thought of something that elegant if, um, I had some time to think about it, Mike.
+
+00:12:04.300 --> 00:12:06.040
+No, that's not, that's not allowed.
+
+00:12:06.140 --> 00:12:08.160
+And also, don't worry, I just thought of that, too.
+
+00:12:08.340 --> 00:12:10.220
+So, it can happen to anybody.
+
+00:12:10.580 --> 00:12:11.920
+It doesn't happen to, yep, these are not notes.
+
+00:12:11.920 --> 00:12:13.120
+Now, here's, here's an idea.
+
+00:12:13.320 --> 00:12:22.160
+Please. Um, like, you know that scene in the first Harry Potter, one of the only two of the Harry Potter movies that I saw, where they got, like, full-scale chess?
+
+00:12:22.380 --> 00:12:24.960
+Yeah, yeah. Which, where the rules don't make any sense?
+
+00:12:25.340 --> 00:12:26.780
+Yeah, I don't remember that part.
+
+00:12:27.000 --> 00:12:28.340
+It's been a while since I saw it.
+
+00:12:28.680 --> 00:12:36.500
+Um, and I know that, you know, there, in the past, there have been, there have been chess games between rich people with, like, real people.
+
+00:12:36.900 --> 00:12:43.360
+But I would watch, like, full-scale chess, and, like, if there's a little bit of blood sport in there, too, that'd be pretty cool.
+
+00:12:44.100 --> 00:12:50.360
+Yeah, yeah. Where is, like, the, you know, to bring it back to video games, too, you could do, like, deal or no deal, right?
+
+00:12:50.440 --> 00:12:53.860
+But in, in three of the briefcases, there's a bomb, right?
+
+00:12:54.000 --> 00:12:58.840
+Like, clearly, you can't have that on, uh, on the real TV, but in a video game, it's harmless.
+
+00:12:59.560 --> 00:13:13.460
+Absolutely. I would, like, just, like, you know, it's Game Show Network Extreme, and it's just a collection of, you know, like, Family Feud, uh, Lingo, uh, Whammy, all those, all those classic game shows that they just feel the need to run.
+
+00:13:13.540 --> 00:13:16.220
+And over and over again, that nobody's watched since the 80s.
+
+00:13:16.340 --> 00:13:20.760
+But they're playing them, and now it's the extreme version, where it's video game-only rules, so.
+
+00:13:21.060 --> 00:13:24.540
+Yeah. So, like, Spoopersmash TV is probably another classic one.
+
+00:13:24.660 --> 00:13:31.860
+There you go. That is, uh, the, the, that actually doesn't make any sense either, but it's got all the trappings of a TV show.
+
+00:13:39.040 --> 00:13:42.140
+What game show would you want to be on?
+
+00:13:42.640 --> 00:13:46.320
+And then, for that game show, do you think you'd be good at it?
+
+00:13:46.400 --> 00:13:51.040
+Like, there is, there is, like, you know, I want to be on this one, but you might not necessarily be good at it.
+
+00:13:51.080 --> 00:13:57.960
+For instance, if you put me on Wheel of Fortune, I don't think I'm going to be that good at guessing what those phrases are faster than anybody else.
+
+00:13:57.980 --> 00:14:00.120
+But I don't want to be on Wheel of Fortune either.
+
+00:14:00.120 --> 00:14:05.840
+Yeah, to, to some extent, you'd think that, um, I forgot what it's actually called.
+
+00:14:05.980 --> 00:14:19.800
+Maybe it's the, not, not the American Ninja Warrior or anything, but it's the one where it's just based on people hitting, uh, curved surfaces and then falling off that curved surface into water.
+
+00:14:20.220 --> 00:14:24.180
+Um, and I keep watching it, and I'm like, why do you keep jumping like that, you idiot?
+
+00:14:24.560 --> 00:14:25.800
+Like, jump on it this way.
+
+00:14:25.800 --> 00:14:37.040
+Or, you know, back in, like, Nickelodeon when I was a kid days, watching, like, Gas and watching the stupid kids on the Agro Crag try and figure out how to do that.
+
+00:14:37.260 --> 00:14:38.380
+Guts. Sorry, I was thinking of that.
+
+00:14:38.380 --> 00:14:41.860
+No, no, Agro Crag is the, uh, is the final destination on Guts.
+
+00:14:41.900 --> 00:14:43.420
+Yeah, on Guts, yes.
+
+00:14:43.980 --> 00:14:47.780
+Um, and that was, it always looked so silly.
+
+00:14:48.200 --> 00:14:55.140
+Um, so I think any of those games where children are playing, I, as an adult, could probably do it better than them.
+
+00:14:55.360 --> 00:15:05.940
+The funny thing, now that, you know, this is now a Nickelodeon Guts, uh, episode, now that you mention that, I always felt the same way, too, about both the Agro Crag and, uh, Legends of the Hidden Temple.
+
+00:15:06.160 --> 00:15:07.120
+Hidden Temple, too, yeah.
+
+00:15:07.160 --> 00:15:13.220
+You know, like, when you're watching the kids, it's so frustrating, but then I remember, like, I've got the, you know, the panoramic view.
+
+00:15:13.360 --> 00:15:16.200
+I'm able to see where the other kids are, I'm able to see from far away.
+
+00:15:16.200 --> 00:15:22.160
+I bet it's very disorienting in there with all the fucking smoke screen that they throw at you and, like, just the fact.
+
+00:15:22.160 --> 00:15:23.920
+Loud noises. They did it.
+
+00:15:24.000 --> 00:15:25.320
+They did my idea from earlier.
+
+00:15:25.320 --> 00:15:29.100
+Remember I said it should be Mario Party, the board game, the show on TV?
+
+00:15:29.120 --> 00:15:32.040
+That's basically what a lot of those Gas shows were.
+
+00:15:32.480 --> 00:15:34.100
+Um, Gas, by the way, is just.
+
+00:15:34.140 --> 00:15:34.980
+Gas was the channel.
+
+00:15:34.980 --> 00:15:36.200
+Yeah, games and sports.
+
+00:15:36.200 --> 00:15:37.920
+It was a spinoff channel of Nickelodeon.
+
+00:15:37.920 --> 00:15:43.360
+And these shows all aired on Nickelodeon back in the late 80s, early 90s, and then they made an old channel for them.
+
+00:15:43.460 --> 00:15:44.760
+We weren't around for that.
+
+00:15:44.900 --> 00:15:47.060
+We were little kids, um, babies, if you will.
+
+00:15:47.140 --> 00:15:48.700
+Yeah, Double Dare would have been fun, I think.
+
+00:15:48.700 --> 00:15:50.020
+Yeah, all these games.
+
+00:15:50.200 --> 00:15:58.340
+But instead, what we have here is what game show, uh, that's, you know, that's either very popular or was on TV.
+
+00:15:58.540 --> 00:16:01.040
+I, I said Deal or No Deal earlier with bombs.
+
+00:16:01.260 --> 00:16:03.600
+Remove the bombs and now just give me Deal or No Deal.
+
+00:16:03.780 --> 00:16:06.780
+I got sick, really sick, in college one time.
+
+00:16:06.780 --> 00:16:08.640
+And it took me like a week and a half.
+
+00:16:08.720 --> 00:16:10.520
+And all I did was watch Deal or No Deal.
+
+00:16:11.380 --> 00:16:14.400
+Uh, probably not the whole entire time, but it certainly felt like it.
+
+00:16:14.560 --> 00:16:18.400
+And I feel like I really understood a lot of things about the Deal or No Deal system.
+
+00:16:18.600 --> 00:16:22.300
+But also, more importantly, I understood how the banker worked.
+
+00:16:22.520 --> 00:16:28.160
+Deal or No Deal is a game where you pick a suitcase from, like, a selection of, I think it's like 20 suitcases or whatever.
+
+00:16:28.340 --> 00:16:29.480
+You just pick the suitcase.
+
+00:16:29.660 --> 00:16:31.140
+So there's no trivia, right?
+
+00:16:31.220 --> 00:16:32.560
+You don't need to know anything or whatever.
+
+00:16:32.620 --> 00:16:33.460
+You're just picking numbers.
+
+00:16:33.700 --> 00:16:35.300
+And they say, okay, pick these numbers.
+
+00:16:35.300 --> 00:16:38.000
+And they range from $1 to $1 million.
+
+00:16:38.460 --> 00:16:39.960
+And first, you pick a suitcase.
+
+00:16:40.060 --> 00:16:41.300
+And that's your suitcase.
+
+00:16:41.820 --> 00:16:44.420
+And you can either eliminate other suitcases.
+
+00:16:44.580 --> 00:16:46.520
+And so you want to try to eliminate low numbers.
+
+00:16:46.560 --> 00:16:49.500
+So this way, the banker is like, oh, shit, I think he has the million dollars.
+
+00:16:49.900 --> 00:16:53.720
+And the one thing I learned is that it doesn't really matter whether you picked the million dollar suitcase.
+
+00:16:53.720 --> 00:16:56.100
+Because you have terrible odds of picking the million dollar suitcase.
+
+00:16:56.100 --> 00:17:05.960
+But you have a great odd of getting an amazing offer from the banker early on, provided you don't fuck up and pick all the big numbers right in the very first round.
+
+00:17:06.080 --> 00:17:10.440
+You can get an immediate offer of, like, $25,000.
+
+00:17:10.840 --> 00:17:12.720
+Like, quit the game right now and I'll give you $25,000.
+
+00:17:12.720 --> 00:17:16.800
+And there are some game shows where the max prize isn't even $25,000.
+
+00:17:17.220 --> 00:17:18.900
+So get me on deal or no deal.
+
+00:17:19.120 --> 00:17:20.760
+I'm taking the first deal right away.
+
+00:17:20.900 --> 00:17:22.120
+I'm their worst nightmare.
+
+00:17:22.440 --> 00:17:23.940
+I'm not going to have any fun on the show.
+
+00:17:23.960 --> 00:17:26.020
+Not interesting. But I'm going to audition.
+
+00:17:26.020 --> 00:17:27.340
+Like, I want the million.
+
+00:17:27.340 --> 00:17:28.580
+I'll do anything for the million.
+
+00:17:28.660 --> 00:17:29.780
+My family needs a million.
+
+00:17:29.860 --> 00:17:32.940
+Like, I will make them believe that I am in it for the whole thing.
+
+00:17:32.940 --> 00:17:35.240
+And then I will take the deal on the first round.
+
+00:17:35.840 --> 00:17:37.340
+I think you're right.
+
+00:17:37.580 --> 00:17:38.540
+That takes no skill.
+
+00:17:38.800 --> 00:17:47.260
+All you need is a little bit of game theory and statistics and, you know, the opposite of greed, contentment.
+
+00:17:48.360 --> 00:17:49.220
+And you win.
+
+00:17:49.340 --> 00:17:50.780
+It's the perfect game show for me.
+
+00:17:50.920 --> 00:17:55.800
+Unlike a game I remember, I think, like, early 2000s maybe.
+
+00:17:55.880 --> 00:17:56.880
+Maybe mid-2000s.
+
+00:17:56.920 --> 00:17:59.580
+It was called Dog Eat Dog.
+
+00:17:59.760 --> 00:18:01.320
+Do you remember that? No.
+
+00:18:01.540 --> 00:18:03.000
+It was a weird game show.
+
+00:18:03.140 --> 00:18:04.640
+It probably got, like, one season or whatever.
+
+00:18:04.640 --> 00:18:11.560
+But it was very physically challenging oriented with, like, a – it was almost, like, a little bit like Ninja Warrior.
+
+00:18:11.700 --> 00:18:12.800
+But it all happened at once.
+
+00:18:12.800 --> 00:18:15.060
+And there was always this pool that you could fall into.
+
+00:18:16.100 --> 00:18:17.420
+And it was, like, teams.
+
+00:18:17.480 --> 00:18:18.960
+And I just – I hate all of that.
+
+00:18:19.040 --> 00:18:20.180
+I hate working with other people.
+
+00:18:20.500 --> 00:18:26.800
+I hate the physicality of it because it was all, like, climbing ropes and stuff.
+
+00:18:26.940 --> 00:18:29.200
+Things that, like, you know, scared me in fourth grade.
+
+00:18:29.500 --> 00:18:33.160
+And then there was also, you know, trivia rounds in between.
+
+00:18:33.160 --> 00:18:35.720
+And so don't ask me trivia questions.
+
+00:18:36.040 --> 00:18:37.280
+That's why I ask you guys.
+
+00:18:37.300 --> 00:18:39.060
+That's why I put you guys on the spot for the questions.
+
+00:18:40.580 --> 00:18:45.520
+Now, was – did Fear Factor ever have any, like, physical challenges?
+
+00:18:45.520 --> 00:18:49.720
+Or was it always just, like, they bet you wouldn't want to eat bull testicle?
+
+00:18:49.880 --> 00:18:52.940
+Yeah. You know, I do recall other physical challenges.
+
+00:18:53.260 --> 00:18:57.100
+Okay. Yeah. Because otherwise that'd be pretty – because they're not going to, like, get you sick.
+
+00:18:57.100 --> 00:18:58.340
+That's a liability issue.
+
+00:18:58.380 --> 00:19:02.760
+So if it's just eating bull testicle, I guess I would do that.
+
+00:19:02.760 --> 00:19:05.940
+Yeah, if they were just making a bull testicle the whole time, they would just call it the
+
+00:19:05.940 --> 00:19:07.000
+bull testicle show, right?
+
+00:19:07.000 --> 00:19:08.200
+Bull testicle show with Joe Rogan.
+
+00:19:08.340 --> 00:19:11.440
+Yeah. Okay.
+
+00:19:11.440 --> 00:19:12.380
+Who's the better wheel?
+
+00:19:12.920 --> 00:19:15.900
+Wheel of Fortune or the wheel on the price is right?
+
+00:19:15.900 --> 00:19:18.200
+The one where, you know, you try not to go over a dollar?
+
+00:19:18.580 --> 00:19:19.500
+Oh, you know what?
+
+00:19:19.840 --> 00:19:22.720
+I think it was the wheel on the price is – okay.
+
+00:19:22.720 --> 00:19:28.680
+The fact that it's, like, a vertical wheel where the – on the face is, like, on the
+
+00:19:28.680 --> 00:19:31.640
+spine of the wheel, I just like that better.
+
+00:19:32.000 --> 00:19:36.480
+That always felt like it would be much more fun to spin than the Wheel of Fortune wheel.
+
+00:19:36.600 --> 00:19:39.720
+It has great beeps, too, as you go between things.
+
+00:19:40.560 --> 00:19:43.660
+See, that's what I don't like about the Wheel of Fortune wheel is it has this sound of,
+
+00:19:43.780 --> 00:19:48.780
+like, an engine starting up and then, you know, there's no, like – there should be
+
+00:19:48.780 --> 00:19:53.660
+by now it should be – they should be taking a note from casinos with the slot machines
+
+00:19:53.660 --> 00:19:55.780
+and everything, and it should be completely digital.
+
+00:19:55.920 --> 00:19:57.880
+It should be something that lights up.
+
+00:19:58.100 --> 00:20:02.820
+It should have, like, cool, like, okay, kids at home, put your phone up on the screen to
+
+00:20:02.820 --> 00:20:05.480
+see the AR graphics on the Wheel of Fortune wheel, right?
+
+00:20:05.580 --> 00:20:09.440
+Like, it needs shit like that, whereas the price is right wheel already understood the
+
+00:20:09.440 --> 00:20:14.880
+assignment and it's very colorful colors and there's the cool beeps and the idea of not
+
+00:20:14.880 --> 00:20:16.200
+going over a certain amount.
+
+00:20:16.200 --> 00:20:20.060
+In Wheel of Fortune, it doesn't matter where you land, really, that's just the result.
+
+00:20:20.400 --> 00:20:27.060
+In Price is Right, you actually get the opportunity to spin again and risk going over a dollar.
+
+00:20:27.600 --> 00:20:33.300
+Ruh-roh. So I would actually prefer at this point, now that we're on our third iteration of Wheel
+
+00:20:33.300 --> 00:20:38.600
+of Fortune for the NES, I would have preferred an entire, you know, NES game where it's just
+
+00:20:38.600 --> 00:20:43.780
+spinning the wheel on the Price is Right and trying not to go over a dollar than ever having
+
+00:20:43.780 --> 00:20:45.180
+to play a third Wheel of Fortune.
+
+00:20:45.180 --> 00:20:51.720
+And I think that's basically how you feel in general, like, about just these games.
+
+00:20:52.180 --> 00:20:53.900
+Because, again, like...
+
+00:20:53.900 --> 00:20:59.220
+That's a great question because I was going to ask you, you know, have your thoughts on
+
+00:20:59.220 --> 00:21:02.980
+NES Wheel of Fortune changed at all since August 5th of 2022?
+
+00:21:03.120 --> 00:21:08.820
+Because that was, you know, basically a year ago was the last time we played Wheel of Fortune.
+
+00:21:08.820 --> 00:21:13.700
+And remember, we first reviewed Wheel of Fortune on May 22nd, 2020.
+
+00:21:13.700 --> 00:21:18.300
+So it has been three years in the making for us to change our opinion.
+
+00:21:18.300 --> 00:21:23.900
+And I don't really have, you know, any different opinions than what I had in the first episode.
+
+00:21:23.900 --> 00:21:27.820
+No, it's basically, like, again, it's fine.
+
+00:21:28.080 --> 00:21:29.440
+It's a fine...
+
+00:21:30.600 --> 00:21:31.680
+Like, this is...
+
+00:21:31.680 --> 00:21:34.180
+These are the things that happen when you watch Wheel of Fortune.
+
+00:21:34.440 --> 00:21:36.320
+But the fact that they just...
+
+00:21:36.320 --> 00:21:41.780
+Like, you pick a picture of the thing that you want and then it just says that you got that.
+
+00:21:42.160 --> 00:21:44.040
+That just feels so insulting.
+
+00:21:44.040 --> 00:21:49.340
+I know that there really isn't much that you can do, but that...
+
+00:21:49.340 --> 00:21:52.500
+The whole prize thing is what really turns me off to these games.
+
+00:21:53.340 --> 00:21:57.320
+If there's no actual intrinsic prize, I do not care.
+
+00:21:57.740 --> 00:22:00.360
+Absolutely. Final question here.
+
+00:22:00.420 --> 00:22:03.140
+Actually, it's a two-parter, so let's start with the first part.
+
+00:22:03.580 --> 00:22:09.260
+Is Wheel of Fortune Family Edition a remake, a re-release, a remaster, or something else?
+
+00:22:09.260 --> 00:22:14.540
+Yes. So, I'd say that this is just a version.
+
+00:22:14.840 --> 00:22:16.580
+Like, this is a release.
+
+00:22:17.700 --> 00:22:19.260
+It's not a re-anything.
+
+00:22:20.040 --> 00:22:21.080
+It's a release.
+
+00:22:21.300 --> 00:22:22.980
+This is a game. Sorry, that is a re-something.
+
+00:22:23.180 --> 00:22:26.220
+No, you're right. It's sort of like...
+
+00:22:26.220 --> 00:22:28.080
+It's not even blue and red.
+
+00:22:28.280 --> 00:22:35.320
+Like, blue and red Pokemon are the same game with a different roster, basically.
+
+00:22:36.060 --> 00:22:40.900
+And this is the same game with different letters and words.
+
+00:22:41.280 --> 00:22:43.660
+So, yeah. It's the same exact game.
+
+00:22:43.820 --> 00:22:45.900
+I think even the prizes are the same.
+
+00:22:46.240 --> 00:22:52.920
+Yeah. Would they have done any better just releasing Wheel of Fortune Red and Wheel of Fortune Blue
+
+00:22:52.920 --> 00:22:56.420
+instead of these three different versions spaced out across a couple different years?
+
+00:22:56.420 --> 00:23:03.920
+I think it would be more clear because nothing in this tells me that it's Family Edition.
+
+00:23:04.380 --> 00:23:06.900
+Nothing in the other one told me it was whatever that was.
+
+00:23:07.100 --> 00:23:07.920
+Junior. Whatever you said it was.
+
+00:23:08.020 --> 00:23:10.740
+Junior. Maybe they were simpler, but...
+
+00:23:11.200 --> 00:23:14.200
+I mean, how often are you going to be able to compare, you know?
+
+00:23:14.560 --> 00:23:15.660
+So, yeah.
+
+00:23:15.780 --> 00:23:21.140
+Just call them Edition 1, Edition 2, Edition 3.
+
+00:23:21.880 --> 00:23:28.460
+And so, with this whole Wheel of Fortune, you know, multiple releases, thought process that
+
+00:23:28.460 --> 00:23:31.180
+we're going on here, have you ever bought a game twice?
+
+00:23:31.700 --> 00:23:36.880
+Was there a promise of a dramatically different experience for a reason to buy it the second
+
+00:23:36.880 --> 00:23:39.880
+time? Or was it just, well, now I need it on this platform?
+
+00:23:40.720 --> 00:23:44.320
+It's... With older games, it's a little bit of both.
+
+00:23:44.520 --> 00:23:45.980
+I just want it on this platform.
+
+00:23:45.980 --> 00:23:49.220
+And I lost it, like, physically.
+
+00:23:50.900 --> 00:23:53.800
+But other than that, I don't think there is a reason.
+
+00:23:54.380 --> 00:23:55.840
+Unless you're like...
+
+00:23:55.840 --> 00:24:02.140
+Again, like, maybe you have the OG Standard Edition, but now you want the one that comes
+
+00:24:02.140 --> 00:24:10.060
+with a card deck and other Fallout New Vegas things that you have that I don't, that I
+
+00:24:10.060 --> 00:24:14.420
+want. So, maybe that's the only other reason I'd buy a game again, you know?
+
+00:24:14.560 --> 00:24:19.980
+Yep, yep. I was thinking just because, you know, Nintendo's been using this strategy for a little bit
+
+00:24:19.980 --> 00:24:26.460
+now with the Wii U games going on Switch, and they did, for Super Mario 3D World, they added
+
+00:24:26.460 --> 00:24:29.880
+in a new Bowser's Fury mode inside of it.
+
+00:24:30.020 --> 00:24:33.280
+So, it's like, technically, that's a whole other game, right?
+
+00:24:33.880 --> 00:24:36.800
+But you have to buy Super Mario 3D World.
+
+00:24:36.860 --> 00:24:38.580
+And I was actually one of those guys who didn't.
+
+00:24:38.700 --> 00:24:43.860
+I played many, many hours on the Wii U version and just didn't think it was worth $60 to get
+
+00:24:43.860 --> 00:24:50.280
+this cool little Bowser's Fury five-hour game in addition to a great game, Super Mario 3D
+
+00:24:50.280 --> 00:24:51.580
+World, but I didn't need it again.
+
+00:24:51.620 --> 00:24:53.240
+So, I didn't buy that game twice.
+
+00:24:53.240 --> 00:24:58.420
+But there was promise of a dramatically different experience, just like how Wheel of Fortune
+
+00:24:58.420 --> 00:25:01.200
+Family Edition is proposing all new puzzles, right?
+
+00:25:01.300 --> 00:25:05.240
+Like, they're saying, like, I know it's crazy, but I'm making that mental leap here.
+
+00:25:05.480 --> 00:25:10.080
+Wheel of Fortune Family Edition is promising something that is different than Wheel of Fortune
+
+00:25:10.080 --> 00:25:11.300
+the first time around.
+
+00:25:11.960 --> 00:25:17.620
+Yeah, but that's like, it's the loosest definition of content, you know?
+
+00:25:18.120 --> 00:25:25.680
+That's why they should just have a build a, you know, build a puzzle mode, and you can
+
+00:25:25.680 --> 00:25:26.520
+just do whatever you want.
+
+00:25:26.680 --> 00:25:28.120
+I'm sticking to that.
+
+00:25:28.120 --> 00:25:34.800
+And buying a game twice isn't something like buying Metal Gear Solid 3 and the new Metal
+
+00:25:34.800 --> 00:25:37.680
+Gear Solid 3 Delta, if you choose to buy that.
+
+00:25:37.840 --> 00:25:40.780
+That's, you know, that falls into, well, it's a remake.
+
+00:25:40.960 --> 00:25:41.980
+That's a remake. Yeah.
+
+00:25:42.080 --> 00:25:50.280
+But I would say, even if it was an HD remaster or technically the final mix version of a game,
+
+00:25:50.300 --> 00:25:53.380
+I have bought many versions of Kingdom Hearts 2.
+
+00:25:53.380 --> 00:25:55.020
+So, I am...
+
+00:25:55.020 --> 00:25:57.560
+Are they... Do they work the same way as, like, Persona?
+
+00:25:57.680 --> 00:26:05.200
+Because I've never played anything other than the first 10 hours of the regular Persona
+
+00:26:05.200 --> 00:26:10.660
+5, but I know that Persona 5 Deluxe Golden whatever, like, that's almost...
+
+00:26:10.660 --> 00:26:12.480
+Okay. That's even, like...
+
+00:26:12.480 --> 00:26:15.060
+They've added so much that it could be called a different game.
+
+00:26:15.180 --> 00:26:18.660
+Is that sort of like how the Kingdom Hearts games work?
+
+00:26:19.400 --> 00:26:20.280
+Theoretically, yes.
+
+00:26:20.280 --> 00:26:23.240
+So, you could have done that once in your life.
+
+00:26:23.360 --> 00:26:26.980
+There could have been a moment where you bought Kingdom Hearts 2 and you played that game and
+
+00:26:26.980 --> 00:26:32.780
+then you heard about this final mix and got that one and it had, you know, a lot of new
+
+00:26:32.780 --> 00:26:37.940
+boss fights and some additional story cut scenes and stuff like that.
+
+00:26:38.100 --> 00:26:43.780
+Not a completely different game, but still enough to warrant the, like, final mix edition.
+
+00:26:44.020 --> 00:26:48.500
+But then you also have to remember that they made an HD version of that on the PS3.
+
+00:26:48.500 --> 00:26:52.660
+And then an HD version of that on the PS4 and you could buy it again on Switch if you like.
+
+00:26:52.820 --> 00:26:58.280
+It's like, they just keep finding ways to re-release Kingdom Hearts 2 and I keep finding excuses to buy it.
+
+00:27:00.900 --> 00:27:02.900
+So, I am guilty of buying that game twice.
+
+00:27:03.040 --> 00:27:05.580
+I think it is a lot different, though, than the Wheel of Fortune thing.
+
+00:27:05.660 --> 00:27:10.460
+I, of course, being the host, like to stretch the premises of these questions as far as possible.
+
+00:27:10.840 --> 00:27:12.300
+And I appreciate that about you.
+
+00:27:12.300 --> 00:27:17.760
+Now, speaking of stretching the premise of this whole show as far as possible, believe it or not,
+
+00:27:17.980 --> 00:27:24.660
+even though we have barely talked about the game, we do need to do the thing that we do every single week, Sean.
+
+00:27:24.860 --> 00:27:29.460
+And that is vote for Wheel of Fortune Family Edition on the Essential Games list.
+
+00:27:32.440 --> 00:27:34.120
+Wheel of Fortune Family Edition.
+
+00:27:34.400 --> 00:27:38.860
+I'm sure you know it by now, but it's not essential because they haven't changed anything.
+
+00:27:38.860 --> 00:27:40.280
+This is a problem.
+
+00:27:40.580 --> 00:27:44.020
+You have to at least change your game enough.
+
+00:27:44.200 --> 00:27:45.660
+The puzzles are not enough.
+
+00:27:45.800 --> 00:27:50.360
+The puzzles are basically, you know, ROM hacks at this point.
+
+00:27:50.700 --> 00:27:54.440
+Other people could have changed the puzzles, you know, nowadays.
+
+00:27:54.620 --> 00:27:57.840
+Like, I'm surprised there aren't 30 ROM hacks of Wheel of Fortune.
+
+00:27:57.920 --> 00:28:01.660
+You know why that is? Because nobody cares that the puzzles are being changed.
+
+00:28:01.660 --> 00:28:05.080
+It's not enough to warrant the work that goes into this.
+
+00:28:05.080 --> 00:28:10.860
+And I would be shocked to find out that people owned more than one version of Wheel of Fortune that weren't collectors.
+
+00:28:11.100 --> 00:28:16.220
+Like, I seriously doubt a family had so much fun with Wheel of Fortune and then was in Toys R Us.
+
+00:28:16.260 --> 00:28:18.360
+And the kid's like, mom, mom, family edition.
+
+00:28:18.360 --> 00:28:19.380
+We can all play together.
+
+00:28:19.520 --> 00:28:23.740
+Like, if that worked, kudos to Game Tech for figuring out that market.
+
+00:28:23.880 --> 00:28:25.660
+But I highly doubt it existed.
+
+00:28:25.680 --> 00:28:27.820
+I think you bought one of these and you called it a day.
+
+00:28:27.820 --> 00:28:36.020
+And we're calling it a day on Wheel of Fortune, not only for this episode, for this vote, but also for nostalgia as a whole.
+
+00:28:36.160 --> 00:28:38.500
+Like, this is the last time we hopefully talk about Wheel of Fortune.
+
+00:28:38.940 --> 00:28:42.300
+Sean? Yeah, that had a lot of finality.
+
+00:28:43.000 --> 00:28:47.680
+So I don't want to stretch this beyond that because you said it.
+
+00:28:47.880 --> 00:28:49.720
+This game doesn't need to exist.
+
+00:28:50.040 --> 00:28:51.660
+Not essential. All right.
+
+00:28:52.580 --> 00:28:57.040
+Next week we are playing, you know, the game show, Win, Lose, or Draw.
+
+00:28:57.620 --> 00:28:58.780
+What's going on right now, man?
+
+00:28:58.860 --> 00:29:02.560
+Game show. That just sounds like a state.
+
+00:29:02.800 --> 00:29:06.620
+Like, that's just describing, like, end states of a game, not a game.
+
+00:29:06.900 --> 00:29:09.700
+Yeah, well, theoretically that's the play on words, right?
+
+00:29:09.700 --> 00:29:11.000
+But I have some thoughts on that.
+
+00:29:11.140 --> 00:29:12.720
+I'll save them for the actual episode.
+
+00:29:12.940 --> 00:29:18.260
+But, yeah, Win, Lose, or Draw was also an actual game show, not just a video game game show.
+
+00:29:18.940 --> 00:29:26.220
+And if you're tired of game shows, don't worry, they're going to end because the week after that, oh, wait, it's Double Dare.
+
+00:29:26.460 --> 00:29:27.880
+What the heck is going on?
+
+00:29:28.060 --> 00:29:31.900
+Did everybody figure out this is a great time to release game shows on the NES?
+
+00:29:32.180 --> 00:29:35.800
+Is this just a quirk of, like, the historic list?
+
+00:29:36.080 --> 00:29:38.120
+Like, this is very strange.
+
+00:29:38.120 --> 00:29:47.100
+The quirk there is that, obviously, Wheel of Fortune, Win, Lose, or Draw, and, you know, those are Ws.
+
+00:29:47.240 --> 00:29:54.100
+Yeah, those are Ws, though, so they end the month, obviously, when things don't have an actual day attached to them, just a release date.
+
+00:29:54.200 --> 00:29:57.020
+So these both released in March of 1990.
+
+00:29:57.500 --> 00:30:04.980
+But the crazy thing is that in April of 1990 there were many games that released, and Double Dare is the first alphabetically.
+
+00:30:04.980 --> 00:30:09.740
+So it just looks like they all released, but it's still weird that they released all around the same time.
+
+00:30:10.140 --> 00:30:12.540
+Yeah, this is, I'm unhappy.
+
+00:30:12.540 --> 00:30:13.480
+But I can't wait.
+
+00:30:13.620 --> 00:30:17.560
+I also can't wait to play more game shows with you.
+
+00:30:17.700 --> 00:30:23.620
+Yes, absolutely. And I'm sure we'll think of creative things for our Win, Lose, or Draw episode and our Double Dare episode,
+
+00:30:23.620 --> 00:30:26.880
+because a few of us are very familiar with Double Dare.
+
+00:30:26.880 --> 00:30:32.940
+And if that wasn't enough nostalgia for you, as I mentioned at the top of the episode,
+
+00:30:33.080 --> 00:30:39.680
+you can go to patreon.com slash nostalgia, and for $5, you can become a Nostalgia Bite-sized patron,
+
+00:30:39.680 --> 00:30:42.800
+and that gets you access to Nostalgia Bites, another show.
+
+00:30:42.960 --> 00:30:44.760
+We just finished our 20th episode.
+
+00:30:45.000 --> 00:30:47.520
+It was on the original, the very first Fire Emblem.
+
+00:30:47.520 --> 00:30:48.460
+That's pretty cool.
+
+00:30:48.620 --> 00:30:57.500
+But we also have done Nuts and Milk, Devil World, Exerion, Etartic Adventure, Dig Dug, Starluster, Chaos World,
+
+00:30:57.820 --> 00:30:59.880
+Bio-Miracle Bokute Upa.
+
+00:31:00.120 --> 00:31:01.900
+You know that you want to check out these games.
+
+00:31:02.240 --> 00:31:09.080
+And the next game on our list is The Glory of Heracles 2, Titan's Downfall.
+
+00:31:09.100 --> 00:31:11.520
+And that is a sequel to a game that we didn't cover.
+
+00:31:11.520 --> 00:31:16.620
+However, funny, a lot of people ask that question of like, do you, not people to me specifically,
+
+00:31:16.880 --> 00:31:24.860
+but people always ask like, do you need to play the game in order to understand the sequel or whatever?
+
+00:31:24.940 --> 00:31:26.540
+And how many times is that actually true?
+
+00:31:27.160 --> 00:31:29.100
+Like a game that we would play?
+
+00:31:30.460 --> 00:31:31.600
+Or any game, yeah.
+
+00:31:31.780 --> 00:31:35.540
+Like, just like, you know, oh, do I have to play the first one to understand this?
+
+00:31:35.640 --> 00:31:36.560
+Like, I feel like...
+
+00:31:36.560 --> 00:31:39.020
+I'd say it's not uncommon.
+
+00:31:39.700 --> 00:31:41.700
+Interesting. I feel like it's less common.
+
+00:31:41.860 --> 00:31:42.780
+Like, it doesn't really matter.
+
+00:31:42.980 --> 00:31:49.860
+I think if it's a very, like, narrative-focused game, it's a linear narrative-focused game,
+
+00:31:49.940 --> 00:31:53.060
+then yeah, you probably should play the first couple.
+
+00:31:53.360 --> 00:32:01.160
+But if it's more so like a narrative game that just takes place in a world like a Dungeons & Dragons game,
+
+00:32:01.160 --> 00:32:09.300
+or if it's a game that's maybe released on an 8-bit system where storytelling isn't really at a point where it matters,
+
+00:32:09.940 --> 00:32:11.620
+then no, you don't need to play the first one.
+
+00:32:11.620 --> 00:32:13.120
+Yeah, sorry. I guess that was my point.
+
+00:32:13.380 --> 00:32:21.300
+Like, in the context of the show, you know, like, how many times is it like, you can't play Castlevania 2 because you didn't beat Castlevania 1?
+
+00:32:21.400 --> 00:32:23.420
+Like, there is a story, theoretically, right?
+
+00:32:23.520 --> 00:32:27.120
+Like, there are different Belmonts and stuff like that, but no one cares if you beat...
+
+00:32:27.120 --> 00:32:38.360
+Well, I want to see if there's much, like, how much canon and lore has carried over when we eventually and soon play Snake's Revenge.
+
+00:32:38.360 --> 00:32:39.960
+So, I'm looking forward to that.
+
+00:32:40.120 --> 00:32:41.180
+All right. Sounds good.
+
+00:32:41.480 --> 00:32:43.360
+Look forward to many more episodes of Nostalgia.
+
+00:32:43.360 --> 00:32:48.980
+Remember, you can always write to us on the website, www.nostalgiacast.com.
+
+00:32:49.080 --> 00:32:50.180
+There's a little contact form there.
+
+00:32:50.320 --> 00:32:54.560
+It'll send me an email. That'd be the best way to contact us because we used to say you could find us on Twitter.
+
+00:32:54.760 --> 00:32:58.780
+Now that thing's called X, and now it's collecting, like, data on people.
+
+00:32:58.960 --> 00:33:01.720
+So, we'll see how longer we stay on there.
+
+00:33:01.800 --> 00:33:02.880
+But technically, we're still on there for now.
+
+00:33:02.960 --> 00:33:03.920
+I'm just not checking it.
+
+00:33:04.060 --> 00:33:09.200
+So, if you're tweeting us there or X-ing us there, I'm sure a thousand people have made that joke,
+
+00:33:09.900 --> 00:33:12.640
+just know that there's other ways to get in contact with us.
+
+00:33:12.860 --> 00:33:13.940
+I'm Michael Esposito.
+
+00:33:14.140 --> 00:33:17.320
+You can find me up on that X platform.
+
+00:33:17.320 --> 00:33:20.620
+Not anymore. That's the last time I'm going to say that joke.
+
+00:33:20.900 --> 00:33:22.000
+Why don't we just leave?
+
+00:33:22.000 --> 00:33:47.440
+I'm Michael Esposito.

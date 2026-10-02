@@ -248,114 +248,114 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 282 | Code Name: Viper | [notes](282-code-name-viper.md) |
 | 283 | Conflict | [notes](283-conflict.md) |
 | 286 | Heavy Barrel | [notes](286-heavy-barrel.md) |
-| 287 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | [notes](287-jack-nicklaus-greatest-18-holes-of-major-championship-golf.md) |
-| 288 | Kid Kool | [notes](288-kid-kool.md) |
-| 289 | Magic Johnson's Fast Break | [notes](289-magic-johnsons-fast-break.md) |
-| 290 | Target: Renegade | [notes](290-target-renegade.md) |
-| 291 | Terra Cresta | [notes](291-terra-cresta.md) |
-| 292 | Vegas Dream | [notes](292-vegas-dream.md) |
-| 293 | Wheel of Fortune: Family Edition | [notes](293-wheel-of-fortune-family-edition.md) |
-| 294 | Win, Lose, or Draw | [notes](294-win-lose-or-draw.md) |
-| 295 | Double Dare | [notes](295-double-dare.md) |
-| 296 | Dynowarz | [notes](296-dynowarz.md) |
-| 297 | Ghostbusters II | [notes](297-ghostbusters-ii.md) |
-| 298 | Ivan "Ironman" Stewart's Super Off Road | [notes](298-ivan-ironman-stewarts-super-off-road.md) |
-| 299 | Phantom Fighter | [notes](299-phantom-fighter.md) |
-| 300 | Pin*Bot | [notes](300-pin-bot.md) |
-| 301 | Snake's Revenge | [notes](301-snakes-revenge.md) |
-| 302 | Snoopy's Silly Sports Spectacular | [notes](302-snoopys-silly-sports-spectacular.md) |
-| 303 | Super C | [notes](303-super-c.md) |
-| 304 | Tecmo World Wrestling | [notes](304-tecmo-world-wrestling.md) |
-| 305 | WCW: World Championship Wrestling | [notes](305-wcw-world-championship-wrestling.md) |
-| 306 | Wrath of the Black Manta | [notes](306-wrath-of-the-black-manta.md) |
-| 307 | Xexyz | [notes](307-xexyz.md) |
-| 308 | Ninja Gaiden II: The Dark Sword of Chaos | [notes](308-ninja-gaiden-ii-the-dark-sword-of-chaos.md) |
-| 309 | Remote Control | [notes](309-remote-control.md) |
-| 310 | Disney Adventures in the Magic Kingdom | [notes](310-disney-adventures-in-the-magic-kingdom.md) |
-| 311 | Arkista's Ring | [notes](311-arkistas-ring.md) |
-| 312 | Bad News Baseball | [notes](312-bad-news-baseball.md) |
-| 313 | Boulder Dash | [notes](313-boulder-dash.md) |
-| 314 | Cabal | [notes](314-cabal.md) |
-| 315 | Captain Skyhawk | [notes](315-captain-skyhawk.md) |
-| 316 | Castle of Dragon | [notes](316-castle-of-dragon.md) |
-| 318 | Dragon Spirit: The New Legend | [notes](318-dragon-spirit-the-new-legend.md) |
-| 319 | Heavy Shreddin' | [notes](319-heavy-shreddin.md) |
-| 320 | ImageFight | [notes](320-imagefight.md) |
-| 321 | Jeopardy 25th Anniversary Edition | [notes](321-jeopardy-25th-anniversary-edition.md) |
-| 322 | The Last Starfighter | [notes](322-the-last-starfighter.md) |
-| 323 | The Mafat Conspiracy | [notes](323-the-mafat-conspiracy.md) |
-| 324 | Mechanized Attack | [notes](324-mechanized-attack.md) |
-| 325 | Michael Andretti's World GP | [notes](325-michael-andrettis-world-gp.md) |
-| 326 | Pinball Quest | [notes](326-pinball-quest.md) |
-| 327 | Puss 'n Boots: Pero's Great Adventure | [notes](327-puss-n-boots-peros-great-adventure.md) |
-| 328 | Rad Racer II | [notes](328-rad-racer-ii.md) |
-| 329 | Rocket Ranger | [notes](329-rocket-ranger.md) |
-| 330 | Shingen The Ruler | [notes](330-shingen-the-ruler.md) |
-| 331 | Silkworm | [notes](331-silkworm.md) |
-| 332 | Solstice | [notes](332-solstice.md) |
-| 333 | Starship Hector | [notes](333-starship-hector.md) |
-| 334 | Wall Street Kid | [notes](334-wall-street-kid.md) |
-| 335 | The Adventures of Gilligan's Island | [notes](335-the-adventures-of-gilligans-island.md) |
-| 336 | Battle Chess | [notes](336-battle-chess.md) |
-| 337 | Circus Caper | [notes](337-circus-caper.md) |
-| 338 | Crystalis | [notes](338-crystalis.md) |
-| 339 | Dungeon Magic: Sword of the Elements | [notes](339-dungeon-magic-sword-of-the-elements.md) |
-| 340 | Dusty Diamond's All-Star Softball | [notes](340-dusty-diamonds-all-star-softball.md) |
-| 341 | Final Fantasy | [notes](341-final-fantasy.md) |
-| 342 | Little League Baseball: Championship Series | [notes](342-little-league-baseball-championship-series.md) |
-| 343 | Mad Max | [notes](343-mad-max.md) |
-| 344 | Pictionary | [notes](344-pictionary.md) |
-| 345 | Snake Rattle N Roll | [notes](345-snake-rattle-n-roll.md) |
-| 346 | Wizardry: Proving Grounds of the Mad Overlord | [notes](346-wizardry-proving-grounds-of-the-mad-overlord.md) |
-| 347 | Barker Bill's Trick Shooting | [notes](347-barker-bills-trick-shooting.md) |
-| 348 | Bigfoot | [notes](348-bigfoot.md) |
-| 349 | Dick Tracy | [notes](349-dick-tracy.md) |
-| 350 | Narc | [notes](350-narc.md) |
-| 352 | Swords and Serpents | [notes](352-swords-and-serpents.md) |
-| 353 | Total Recall | [notes](353-total-recall.md) |
-| 354 | Back to the Future Part II & III | [notes](354-back-to-the-future-part-ii-iii.md) |
-| 355 | Garry Kitchen's Battle Tank | [notes](355-garry-kitchens-battle-tank.md) |
-| 356 | The Bugs Bunny Birthday Blowout | [notes](356-the-bugs-bunny-birthday-blowout.md) |
-| 357 | Castlevania III: Dracula's Curse | [notes](357-castlevania-iii-draculas-curse.md) |
-| 359 | Destiny of an Emperor | [notes](359-destiny-of-an-emperor.md) |
-| 360 | Dragon Warrior II | [notes](360-dragon-warrior-ii.md) |
-| 361 | Gauntlet II | [notes](361-gauntlet-ii.md) |
-| 362 | Journey to Silius | [notes](362-journey-to-silius.md) |
-| 363 | Kickle Cubicle | [notes](363-kickle-cubicle.md) |
-| 364 | Little Nemo: The Dream Master | [notes](364-little-nemo-the-dream-master.md) |
-| 365 | Low G Man | [notes](365-low-g-man.md) |
-| 366 | M.u.l.e | [notes](366-m-u-l-e.md) |
-| 367 | Maniac Mansion | [notes](367-maniac-mansion.md) |
-| 368 | Mission: Impossible | [notes](368-mission-impossible.md) |
-| 369 | NES Play Action Football | [notes](369-nes-play-action-football.md) |
-| 370 | Pipe Dream | [notes](370-pipe-dream.md) |
-| 371 | Rally Bike | [notes](371-rally-bike.md) |
-| 372 | Rollergames | [notes](372-rollergames.md) |
-| 373 | Skate or Die 2: The Search for Double Trouble | [notes](373-skate-or-die-2-the-search-for-double-trouble.md) |
-| 374 | Solar Jetman: Hunt for the Golden Warpship | [notes](374-solar-jetman-hunt-for-the-golden-warpship.md) |
-| 375 | Spot: The Video Game | [notes](375-spot-the-video-game.md) |
-| 376 | Street Fighter 2010: The Final Fight | [notes](376-street-fighter-2010-the-final-fight.md) |
-| 377 | Thunderbirds | [notes](377-thunderbirds.md) |
-| 378 | Time Lord | [notes](378-time-lord.md) |
-| 380 | Caveman Games | [notes](380-caveman-games.md) |
-| 381 | Days of Thunder | [notes](381-days-of-thunder.md) |
-| 382 | Gremlins 2: The New Batch | [notes](382-gremlins-2-the-new-batch.md) |
-| 383 | Loopz | [notes](383-loopz.md) |
-| 384 | Mendel Palace | [notes](384-mendel-palace.md) |
-| 385 | A Nightmare on Elm Street | [notes](385-a-nightmare-on-elm-street.md) |
-| 386 | Orb-3D | [notes](386-orb-3d.md) |
-| 387 | Sesame Street Big Bird's Hide & Speak | [notes](387-sesame-street-big-birds-hide-speak.md) |
-| 388 | Super Glove Ball | [notes](388-super-glove-ball.md) |
-| 389 | Dr. Mario | [notes](389-dr-mario.md) |
-| 390 | Arch Rivals | [notes](390-arch-rivals.md) |
-| 391 | Conquest of the Crystal Palace | [notes](391-conquest-of-the-crystal-palace.md) |
-| 392 | Formula One: Built to Win | [notes](392-formula-one-built-to-win.md) |
-| 393 | The Immortal | [notes](393-the-immortal.md) |
-| 394 | Mega Man 3 | [notes](394-mega-man-3.md) |
-| 395 | Muppet Adventure: Chaos at the Carnival | [notes](395-muppet-adventure-chaos-at-the-carnival.md) |
-| 396 | Palamedes | [notes](396-palamedes.md) |
-| 397 | The Punisher | [notes](397-the-punisher.md) |
-| 398 | Puzznic | [notes](398-puzznic.md) |
+| 287 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | [notes](287-jack-nicklaus-greatest-18-holes-of-major-championship-golf.md), [transcript](../transcripts/287-jack-nichols.md) |
+| 288 | Kid Kool | [notes](288-kid-kool.md), [transcript](../transcripts/288-kid-kool.md) |
+| 289 | Magic Johnson's Fast Break | [notes](289-magic-johnsons-fast-break.md), [transcript](../transcripts/289-magic-johnson.md) |
+| 290 | Target: Renegade | [notes](290-target-renegade.md), [transcript](../transcripts/290-target-renegade.md) |
+| 291 | Terra Cresta | [notes](291-terra-cresta.md), [transcript](../transcripts/291-terra-cresta.md) |
+| 292 | Vegas Dream | [notes](292-vegas-dream.md), [transcript](../transcripts/292-vegas-dream.md) |
+| 293 | Wheel of Fortune: Family Edition | [notes](293-wheel-of-fortune-family-edition.md), [transcript](../transcripts/293-wheel-of-fortune.md) |
+| 294 | Win, Lose, or Draw | [notes](294-win-lose-or-draw.md), [transcript](../transcripts/294-winlosedraw.md) |
+| 295 | Double Dare | [notes](295-double-dare.md), [transcript](../transcripts/295-double-dare.md) |
+| 296 | Dynowarz | [notes](296-dynowarz.md), [transcript](../transcripts/296-dynowarz.md) |
+| 297 | Ghostbusters II | [notes](297-ghostbusters-ii.md), [transcript](../transcripts/297-ghostbusters-ii.md) |
+| 298 | Ivan "Ironman" Stewart's Super Off Road | [notes](298-ivan-ironman-stewarts-super-off-road.md), [transcript](../transcripts/298-super-off-road.md) |
+| 299 | Phantom Fighter | [notes](299-phantom-fighter.md), [transcript](../transcripts/299-phantom-fighter.md) |
+| 300 | Pin*Bot | [notes](300-pin-bot.md), [transcript](../transcripts/300-pinbot.md) |
+| 301 | Snake's Revenge | [notes](301-snakes-revenge.md), [transcript](../transcripts/301-snakes-revenge.md) |
+| 302 | Snoopy's Silly Sports Spectacular | [notes](302-snoopys-silly-sports-spectacular.md), [transcript](../transcripts/302-snoopy.md) |
+| 303 | Super C | [notes](303-super-c.md), [transcript](../transcripts/303-super-c.md) |
+| 304 | Tecmo World Wrestling | [notes](304-tecmo-world-wrestling.md), [transcript](../transcripts/304-tecmo-wrestling.md) |
+| 305 | WCW: World Championship Wrestling | [notes](305-wcw-world-championship-wrestling.md), [transcript](../transcripts/305-wcw.md) |
+| 306 | Wrath of the Black Manta | [notes](306-wrath-of-the-black-manta.md), [transcript](../transcripts/306-wrath-of-the-black-manta.md) |
+| 307 | Xexyz | [notes](307-xexyz.md), [transcript](../transcripts/307-xexyz.md) |
+| 308 | Ninja Gaiden II: The Dark Sword of Chaos | [notes](308-ninja-gaiden-ii-the-dark-sword-of-chaos.md), [transcript](../transcripts/308-ninja-gaiden-2.md) |
+| 309 | Remote Control | [notes](309-remote-control.md), [transcript](../transcripts/309-adventures-in-the-magic-kingdom.md) |
+| 310 | Disney Adventures in the Magic Kingdom | [notes](310-disney-adventures-in-the-magic-kingdom.md), [transcript](../transcripts/310-adventures-in-the-magic-kingdom.md) |
+| 311 | Arkista's Ring | [notes](311-arkistas-ring.md), [transcript](../transcripts/311-arkistas-ring.md) |
+| 312 | Bad News Baseball | [notes](312-bad-news-baseball.md), [transcript](../transcripts/312-bad-news-baseball.md) |
+| 313 | Boulder Dash | [notes](313-boulder-dash.md), [transcript](../transcripts/313-boulder-dash.md) |
+| 314 | Cabal | [notes](314-cabal.md), [transcript](../transcripts/314-cabal.md) |
+| 315 | Captain Skyhawk | [notes](315-captain-skyhawk.md), [transcript](../transcripts/315-captain-skyhawk.md) |
+| 316 | Castle of Dragon | [notes](316-castle-of-dragon.md), [transcript](../transcripts/316-castle-of-dragon.md) |
+| 318 | Dragon Spirit: The New Legend | [notes](318-dragon-spirit-the-new-legend.md), [transcript](../transcripts/318-dragon-spirit.md) |
+| 319 | Heavy Shreddin' | [notes](319-heavy-shreddin.md), [transcript](../transcripts/319-heavy-shreddin.md) |
+| 320 | ImageFight | [notes](320-imagefight.md), [transcript](../transcripts/320-imagefight.md) |
+| 321 | Jeopardy 25th Anniversary Edition | [notes](321-jeopardy-25th-anniversary-edition.md), [transcript](../transcripts/321-jeopardy-25.md) |
+| 322 | The Last Starfighter | [notes](322-the-last-starfighter.md), [transcript](../transcripts/322-the-last-starfighter.md) |
+| 323 | The Mafat Conspiracy | [notes](323-the-mafat-conspiracy.md), [transcript](../transcripts/323-the-mafat-conspiracy.md) |
+| 324 | Mechanized Attack | [notes](324-mechanized-attack.md), [transcript](../transcripts/324-mechanized-attack.md) |
+| 325 | Michael Andretti's World GP | [notes](325-michael-andrettis-world-gp.md), [transcript](../transcripts/325-michael-andrettis-world-gp.md) |
+| 326 | Pinball Quest | [notes](326-pinball-quest.md), [transcript](../transcripts/326-pinball-quest.md) |
+| 327 | Puss 'n Boots: Pero's Great Adventure | [notes](327-puss-n-boots-peros-great-adventure.md), [transcript](../transcripts/327-puss-n-boots.md) |
+| 328 | Rad Racer II | [notes](328-rad-racer-ii.md), [transcript](../transcripts/328-rad-racer-ii.md) |
+| 329 | Rocket Ranger | [notes](329-rocket-ranger.md), [transcript](../transcripts/329-rocket-ranger.md) |
+| 330 | Shingen The Ruler | [notes](330-shingen-the-ruler.md), [transcript](../transcripts/330-shingen-the-ruler.md) |
+| 331 | Silkworm | [notes](331-silkworm.md), [transcript](../transcripts/331-silkworm.md) |
+| 332 | Solstice | [notes](332-solstice.md), [transcript](../transcripts/332-solstice.md) |
+| 333 | Starship Hector | [notes](333-starship-hector.md), [transcript](../transcripts/333-starship-hector.md) |
+| 334 | Wall Street Kid | [notes](334-wall-street-kid.md), [transcript](../transcripts/334-wall-street-kid.md) |
+| 335 | The Adventures of Gilligan's Island | [notes](335-the-adventures-of-gilligans-island.md), [transcript](../transcripts/335-the-adventures-of-gigligans-island.md) |
+| 336 | Battle Chess | [notes](336-battle-chess.md), [transcript](../transcripts/336-battle-chess.md) |
+| 337 | Circus Caper | [notes](337-circus-caper.md), [transcript](../transcripts/337-circus-caper.md) |
+| 338 | Crystalis | [notes](338-crystalis.md), [transcript](../transcripts/338-crystalis.md) |
+| 339 | Dungeon Magic: Sword of the Elements | [notes](339-dungeon-magic-sword-of-the-elements.md), [transcript](../transcripts/339-dungeon-magic.md) |
+| 340 | Dusty Diamond's All-Star Softball | [notes](340-dusty-diamonds-all-star-softball.md), [transcript](../transcripts/340-dusty-diamond.md) |
+| 341 | Final Fantasy | [notes](341-final-fantasy.md), [transcript](../transcripts/341-final-fantasy.md) |
+| 342 | Little League Baseball: Championship Series | [notes](342-little-league-baseball-championship-series.md), [transcript](../transcripts/342-little-league-baseball.md) |
+| 343 | Mad Max | [notes](343-mad-max.md), [transcript](../transcripts/343-mad-max.md) |
+| 344 | Pictionary | [notes](344-pictionary.md), [transcript](../transcripts/344-pictionary.md) |
+| 345 | Snake Rattle N Roll | [notes](345-snake-rattle-n-roll.md), [transcript](../transcripts/345-snake-rattle-roll.md) |
+| 346 | Wizardry: Proving Grounds of the Mad Overlord | [notes](346-wizardry-proving-grounds-of-the-mad-overlord.md), [transcript](../transcripts/346-wizardry.md) |
+| 347 | Barker Bill's Trick Shooting | [notes](347-barker-bills-trick-shooting.md), [transcript](../transcripts/347-barker-bill.md) |
+| 348 | Bigfoot | [notes](348-bigfoot.md), [transcript](../transcripts/348-bigfoot.md) |
+| 349 | Dick Tracy | [notes](349-dick-tracy.md), [transcript](../transcripts/349-dick-tracy.md) |
+| 350 | Narc | [notes](350-narc.md), [transcript](../transcripts/350-narc.md) |
+| 352 | Swords and Serpents | [notes](352-swords-and-serpents.md), [transcript](../transcripts/352-swordsandserpents.md) |
+| 353 | Total Recall | [notes](353-total-recall.md), [transcript](../transcripts/353-total-recall.md) |
+| 354 | Back to the Future Part II & III | [notes](354-back-to-the-future-part-ii-iii.md), [transcript](../transcripts/354-back-to-the-future-2-and-3.md) |
+| 355 | Garry Kitchen's Battle Tank | [notes](355-garry-kitchens-battle-tank.md), [transcript](../transcripts/355-battle-tank.md) |
+| 356 | The Bugs Bunny Birthday Blowout | [notes](356-the-bugs-bunny-birthday-blowout.md), [transcript](../transcripts/356-the-bugs-bunny-birthday-blowout.md) |
+| 357 | Castlevania III: Dracula's Curse | [notes](357-castlevania-iii-draculas-curse.md), [transcript](../transcripts/357-castlevania-3.md) |
+| 359 | Destiny of an Emperor | [notes](359-destiny-of-an-emperor.md), [transcript](../transcripts/359-destiny-of-an-emperor.md) |
+| 360 | Dragon Warrior II | [notes](360-dragon-warrior-ii.md), [transcript](../transcripts/360-dragon-warrior-2.md) |
+| 361 | Gauntlet II | [notes](361-gauntlet-ii.md), [transcript](../transcripts/361-gauntlet-ii.md) |
+| 362 | Journey to Silius | [notes](362-journey-to-silius.md), [transcript](../transcripts/362-journey-to-silius.md) |
+| 363 | Kickle Cubicle | [notes](363-kickle-cubicle.md), [transcript](../transcripts/363-kickle-cubicle.md) |
+| 364 | Little Nemo: The Dream Master | [notes](364-little-nemo-the-dream-master.md), [transcript](../transcripts/364-little-nemo.md) |
+| 365 | Low G Man | [notes](365-low-g-man.md), [transcript](../transcripts/365-low-g-man.md) |
+| 366 | M.u.l.e | [notes](366-m-u-l-e.md), [transcript](../transcripts/366-mule.md) |
+| 367 | Maniac Mansion | [notes](367-maniac-mansion.md), [transcript](../transcripts/367-maniac-mansion.md) |
+| 368 | Mission: Impossible | [notes](368-mission-impossible.md), [transcript](../transcripts/368-mission-impossible-edit.md) |
+| 369 | NES Play Action Football | [notes](369-nes-play-action-football.md), [transcript](../transcripts/369-play-action-football.md) |
+| 370 | Pipe Dream | [notes](370-pipe-dream.md), [transcript](../transcripts/370-pipe-dream.md) |
+| 371 | Rally Bike | [notes](371-rally-bike.md), [transcript](../transcripts/371-rally-bike.md) |
+| 372 | Rollergames | [notes](372-rollergames.md), [transcript](../transcripts/372-rollergames.md) |
+| 373 | Skate or Die 2: The Search for Double Trouble | [notes](373-skate-or-die-2-the-search-for-double-trouble.md), [transcript](../transcripts/373-skate-or-die-2.md) |
+| 374 | Solar Jetman: Hunt for the Golden Warpship | [notes](374-solar-jetman-hunt-for-the-golden-warpship.md), [transcript](../transcripts/374-solar-jetman.md) |
+| 375 | Spot: The Video Game | [notes](375-spot-the-video-game.md), [transcript](../transcripts/375-spot.md) |
+| 376 | Street Fighter 2010: The Final Fight | [notes](376-street-fighter-2010-the-final-fight.md), [transcript](../transcripts/376-street-fighter-2010.md) |
+| 377 | Thunderbirds | [notes](377-thunderbirds.md), [transcript](../transcripts/377-thunderbirds.md) |
+| 378 | Time Lord | [notes](378-time-lord.md), [transcript](../transcripts/378-time-lord.md) |
+| 380 | Caveman Games | [notes](380-caveman-games.md), [transcript](../transcripts/380-caveman-games.md) |
+| 381 | Days of Thunder | [notes](381-days-of-thunder.md), [transcript](../transcripts/381-days-of-thunder.md) |
+| 382 | Gremlins 2: The New Batch | [notes](382-gremlins-2-the-new-batch.md), [transcript](../transcripts/382-gremlins-2.md) |
+| 383 | Loopz | [notes](383-loopz.md), [transcript](../transcripts/383-loopz.md) |
+| 384 | Mendel Palace | [notes](384-mendel-palace.md), [transcript](../transcripts/384-mendel-palace.md) |
+| 385 | A Nightmare on Elm Street | [notes](385-a-nightmare-on-elm-street.md), [transcript](../transcripts/385-a-nightmare-on-elm-street.md) |
+| 386 | Orb-3D | [notes](386-orb-3d.md), [transcript](../transcripts/386-orb-3d.md) |
+| 387 | Sesame Street Big Bird's Hide & Speak | [notes](387-sesame-street-big-birds-hide-speak.md), [transcript](../transcripts/387-sesame-street-hide-and-speak.md) |
+| 388 | Super Glove Ball | [notes](388-super-glove-ball.md), [transcript](../transcripts/388-super-glove-ball.md) |
+| 389 | Dr. Mario | [notes](389-dr-mario.md), [transcript](../transcripts/389-dr-mario.md) |
+| 390 | Arch Rivals | [notes](390-arch-rivals.md), [transcript](../transcripts/390-arch-rivals.md) |
+| 391 | Conquest of the Crystal Palace | [notes](391-conquest-of-the-crystal-palace.md), [transcript](../transcripts/391-conquest-of-the-crystal-palace.md) |
+| 392 | Formula One: Built to Win | [notes](392-formula-one-built-to-win.md), [transcript](../transcripts/392-f1-btw.md) |
+| 393 | The Immortal | [notes](393-the-immortal.md), [transcript](../transcripts/393-the-immortal.md) |
+| 394 | Mega Man 3 | [notes](394-mega-man-3.md), [transcript](../transcripts/394-mega-man-3.md) |
+| 395 | Muppet Adventure: Chaos at the Carnival | [notes](395-muppet-adventure-chaos-at-the-carnival.md), [transcript](../transcripts/395-muppets.md) |
+| 396 | Palamedes | [notes](396-palamedes.md), [transcript](../transcripts/396-palamedes.md) |
+| 397 | The Punisher | [notes](397-the-punisher.md), [transcript](../transcripts/397-the-punisher.md) |
+| 398 | Puzznic | [notes](398-puzznic.md), [transcript](../transcripts/398-puzznic.md) |
 | 399 | The Silver Surfer | [notes](399-the-silver-surfer.md), [transcript](../transcripts/399-silver-surfer.md) |
 | 400 | Werewolf: The Last Warrior | [notes](400-werewolf-the-last-warrior.md), [transcript](../transcripts/400-werewolf.md) |
 | 401 | WWF Wrestlemania Challenge | [notes](401-wwf-wrestlemania-challenge.md), [transcript](../transcripts/401-wwf-wrestlemania-challenge.md) |

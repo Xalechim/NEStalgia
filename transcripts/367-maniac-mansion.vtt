@@ -1,0 +1,2974 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.840
+Maniac Mansion!
+
+00:00:02.240 --> 00:00:04.720
+Why is there a chainsaw in the kitchen?
+
+00:00:20.280 --> 00:00:29.040
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:29.420 --> 00:00:30.960
+I'm Mike. I'm Sean.
+
+00:00:31.300 --> 00:00:32.320
+And I'm Joe.
+
+00:00:33.080 --> 00:00:34.980
+Guys, why is there a chainsaw in the kitchen?
+
+00:00:35.880 --> 00:00:44.240
+You know, I didn't think about it until I realized that that's what they put on the back of the box, and now I'm like really questioning, yeah, why is there a chainsaw in the kitchen?
+
+00:00:44.600 --> 00:00:46.980
+It's one of the main questions of our time, actually.
+
+00:00:47.860 --> 00:00:53.160
+It's just to mess with you, though, because as far as I know, you can't use the chainsaw for anything in the game.
+
+00:00:53.600 --> 00:00:55.300
+Is there not any way to get gas?
+
+00:00:55.420 --> 00:00:57.400
+I tried to use it and said it doesn't have any gas.
+
+00:00:57.540 --> 00:01:10.140
+It's useless. You're starting with a great reference already, Joe, because, listen, I know Maniac Mansion has many fans, and they're gonna ask you like, you know, hey, you didn't say this, you didn't include this, you didn't mention this.
+
+00:01:10.140 --> 00:01:29.620
+It's like, I know it's gonna happen, but I might as well say that the cans of gas, it is kind of famously known that the cans of gas do show up in other Lucasfilm games as like maybe a reference, you know, and they don't do anything in those games as maybe a reference to like, oh, we accidentally put them in this game instead.
+
+00:01:29.620 --> 00:01:31.880
+Ha ha ha. Oh, I buy it.
+
+00:01:31.880 --> 00:01:33.600
+I love that, actually.
+
+00:01:33.880 --> 00:01:36.960
+That gives very this game energy.
+
+00:01:37.480 --> 00:01:38.620
+Yes, yes.
+
+00:01:38.780 --> 00:01:54.380
+And this game, before we even like go into what it is and all that, like, Maniac Mansion is not something that like I ever heard of, like growing up in the, you know, away from computers and away from the NES.
+
+00:01:54.380 --> 00:02:07.700
+Like, it wasn't known to me, but it is known to me now as a pretty big deal, not even just from like my research and everything, but just like from our listeners who have written in or are on our Discord.
+
+00:02:07.700 --> 00:02:10.440
+They've all like, you know, expressed this game pretty highly.
+
+00:02:10.600 --> 00:02:12.340
+Did you guys know about Maniac Mansion?
+
+00:02:13.040 --> 00:02:26.760
+Yeah, I never really had a really compelling reason to play it because I also, like I learned about Maniac Mansion when I was learning about what I, what then turned out to be its sequel.
+
+00:02:26.980 --> 00:02:35.300
+Like, they have Tentacle and other point and click adventures like Monkey Island and some Sierra stuff.
+
+00:02:35.300 --> 00:02:46.720
+Like, I was always kind of interested in this kind of game and just every time someone would complain about it and be like, oh, but the logic and like you have to get cat hair to make a mustache.
+
+00:02:46.800 --> 00:02:51.900
+Like, I, it kind of turned me off to the whole genre.
+
+00:02:53.400 --> 00:02:56.200
+But it's always been something I've been interested in.
+
+00:02:56.760 --> 00:03:00.120
+Wait, people would complain about Maniac Mansion with the cat hair?
+
+00:03:00.380 --> 00:03:03.560
+No, that's a different game, but just adventure game logic.
+
+00:03:03.560 --> 00:03:06.180
+Okay, I was going to say, like, I didn't get to anything with cat hair.
+
+00:03:06.340 --> 00:03:08.120
+No, no, no, I forgot what game that is.
+
+00:03:09.360 --> 00:03:21.160
+Yeah, so I, I had heard of Maniac Mansion, like the title resonates in my head as just something I've heard a million times, but really was not even aware it was a point and click adventure game until like a few days before I picked it up.
+
+00:03:22.360 --> 00:03:28.820
+So yeah, it's just something where I'm like, I recognize that this is a well known game for better or for worse before I started playing it.
+
+00:03:28.820 --> 00:03:39.160
+Right. And so it's a point and click adventure game, as both of you have mentioned, that originated on computers like the Commodore 64 and the Apple II before eventually making its way over here on the NES.
+
+00:03:39.160 --> 00:03:50.840
+It is notable for being made by mostly two guys, Ron Gilbert and Gary Winnick on a completely custom video game engine of their own called Scum.
+
+00:03:51.120 --> 00:04:00.860
+Scum. The script creation utility for Maniac Mansion and plenty of other podcasts out there will cover like the making of this game and all that.
+
+00:04:00.980 --> 00:04:02.380
+So I don't want to get too in the weeds there.
+
+00:04:02.380 --> 00:04:06.920
+But I will just say that like, you know, it's already got a pretty impressive start here.
+
+00:04:07.040 --> 00:04:16.100
+Like you can tell that these two guys were pretty passionate about this project and pretty passionate about bringing it to life and, and having people experiment with what they can do.
+
+00:04:16.260 --> 00:04:19.060
+And experiment is really what this game is all about.
+
+00:04:19.120 --> 00:04:29.220
+We have experienced point and click adventure games on the podcast before the most famous example, Shadowgate, which, you know, is, is on our essential games list.
+
+00:04:29.220 --> 00:04:34.880
+This is not like Shadowgate, but it is the, you know, the rule, the same rules kind of apply.
+
+00:04:35.060 --> 00:04:52.560
+But the way that the Scum engine works specifically is with this, you know, verb noun mechanic where you kind of have to say, you know, I'm going to use and then click on something and then click on the next thing that you want to do in order to do it.
+
+00:04:52.700 --> 00:04:58.600
+So use and then key and then click on door and you will use the key to open the door.
+
+00:04:58.600 --> 00:04:59.960
+It's that kind of system.
+
+00:05:00.140 --> 00:05:01.780
+And it, it's so much more than that.
+
+00:05:01.880 --> 00:05:05.300
+There's push, open, get, pull, close.
+
+00:05:05.580 --> 00:05:08.200
+You get the idea. There's, there's a lot of, you know, list them all off.
+
+00:05:08.460 --> 00:05:12.660
+No, no, there's just a lot of verbs, which I think like, you know, that's an interesting way of doing it.
+
+00:05:12.720 --> 00:05:22.100
+And I don't know anything about point and click adventure games, but it might be like one of, if not the earliest example of that kind of system.
+
+00:05:22.100 --> 00:05:32.160
+Yeah. I just got to say that with what surprised me the most about the system, because yeah, I'm playing this, you know, from the benefit of being from the future.
+
+00:05:32.160 --> 00:05:36.220
+And I've played other games with this kind of thing before.
+
+00:05:36.620 --> 00:05:52.140
+And just my knowledge of the NES so far, I was impressed with how much they added like quality of life things to that system where they gave you the ability to have your, your most commonly used verbs in a hot key on select.
+
+00:05:52.140 --> 00:06:07.080
+And that like, that took away a, I feel like any other game that had this kind of style, if it were made on the NES, like would not do that just based on the track record of NES and, and like quality of life improvements.
+
+00:06:07.520 --> 00:06:16.440
+So like, it seems like a lot with all these verbs and stuff, but it, it, it moves pretty quickly because it seems like they thought about that.
+
+00:06:16.880 --> 00:06:39.360
+Yeah. The whole, um, like, cause you know, from, I think you might be right that this is the first that uses this, this kind of like, you can click on the actions that you need to use instead of, um, instead of like a, like Zork where you have to type in like turn left or go East, whatever.
+
+00:06:41.140 --> 00:06:50.400
+Um, and the amount of, not even just that whole, that, that whole system being equality of life improvement on the entire genre.
+
+00:06:50.960 --> 00:07:03.260
+Um, but also the, the hockey stuff, like I just wouldn't have imagined that cause like, you know, we've played a lot of, uh, we've played a lot of ports and we've played a lot of games that just like did not make full use of the controller.
+
+00:07:03.260 --> 00:07:06.740
+And we always kind of point out like, Oh, they could have just done this.
+
+00:07:06.800 --> 00:07:08.620
+Like, Oh, hold this button down and do that.
+
+00:07:08.780 --> 00:07:17.080
+And the fact that they, on the first try did something like this, uh, made, made it a lot like simpler and more digestible.
+
+00:07:17.260 --> 00:07:18.080
+It's, it's great.
+
+00:07:18.200 --> 00:07:29.240
+I agree. And a large appeal of the game besides the, uh, exploration or experimentation is the actual plot and setting of this maniac mansion.
+
+00:07:29.520 --> 00:07:31.720
+Uh, the story follows three teenagers.
+
+00:07:31.800 --> 00:07:36.900
+Uh, you must always play as Dave, but you get to choose two other, uh, characters.
+
+00:07:36.900 --> 00:07:42.460
+And they're not just like, Oh, this one's a male, this one's female, or, Oh, this one does this, this one.
+
+00:07:42.460 --> 00:07:48.280
+It's like, they actually have the potential to open up different endings and solve puzzles in different ways.
+
+00:07:48.440 --> 00:07:54.420
+So, uh, there's some replayability just there choosing which one, uh, which three teens you go with.
+
+00:07:54.840 --> 00:08:02.520
+And these three teens are going to this mansion because Dave's girlfriend, Sandy pants has been kidnapped by Dr.
+
+00:08:03.180 --> 00:08:10.080
+Fred Edison. Uh, and you know, somehow I'm sure it's going to tie into the story and we know it does by now, obviously.
+
+00:08:10.080 --> 00:08:16.000
+But in the beginning of the game, you also learn that, uh, a meteor had crashed near the mansion, uh, a while back.
+
+00:08:16.000 --> 00:08:22.720
+So all of this just from the start immediately gave me like Rocky horror picture show vibes.
+
+00:08:22.880 --> 00:08:31.840
+Did, did, did you guys find any like allusions, not necessarily to that, but just like, uh, you know, those kinds of like hokey horror films or cheesy stuff.
+
+00:08:32.540 --> 00:08:39.200
+I've never seen Rocky horror picture show, but I've seen the logo and I think it feels a lot like the logo in maniac mansion.
+
+00:08:40.020 --> 00:08:42.140
+So I think, uh, yeah, for sure.
+
+00:08:43.220 --> 00:08:51.900
+I've also never seen it, but I just, regardless, I think right away playing this game, you, you kind of, you get that it has a sense of humor pretty quickly.
+
+00:08:52.020 --> 00:08:53.260
+I mean, I, I don't know about you guys.
+
+00:08:53.400 --> 00:09:01.420
+I had Bernard in my party and, um, right away he, he, Dave says like, all right, like, thanks for coming with me guys.
+
+00:09:01.580 --> 00:09:03.060
+Like, you know, it's going to be dangerous.
+
+00:09:03.060 --> 00:09:07.960
+So if anyone wants to leave and then Dave like kind of gets up and does like, Oh, I'm getting out of here and like runs away.
+
+00:09:08.160 --> 00:09:11.240
+And then, you know, like you got to bring him back and it's yeah.
+
+00:09:11.360 --> 00:09:12.560
+Yeah. They call it Tuna head.
+
+00:09:12.760 --> 00:09:13.700
+That's right. Yeah.
+
+00:09:13.740 --> 00:09:18.180
+Tuna head. But that is a censorship, uh, from the original where it was don't be a shit.
+
+00:09:18.360 --> 00:09:19.600
+No, no. It was don't say that.
+
+00:09:19.860 --> 00:09:20.920
+Don't say that on air.
+
+00:09:21.240 --> 00:09:24.320
+Well, I actually think what's funnier is dub over it with Tuna head later.
+
+00:09:25.160 --> 00:09:29.560
+Right. But isn't Tuna head like even just the better line if we're, if we're being objective about it.
+
+00:09:29.560 --> 00:09:33.500
+Like, I feel like that's the one that's, that's like, that would stick with people.
+
+00:09:33.660 --> 00:09:35.980
+I feel like don't be a shit head is just like, wow, Dave's a dick.
+
+00:09:36.180 --> 00:09:39.960
+You know, don't be a Tuna head is like, Oh, that's actually pretty funny.
+
+00:09:39.980 --> 00:09:41.240
+It helps with the vibe.
+
+00:09:43.660 --> 00:09:53.640
+Exactly. Uh, and, and just like, you know, I think they allegedly were going for more of like a, uh, nightmare on Elm street, Friday the 13th kind of vibe.
+
+00:09:53.640 --> 00:09:57.660
+But I stand by my Rocky Horror Picture Show thing just because of like, Dr.
+
+00:09:57.840 --> 00:09:59.100
+Fred could be Dr.
+
+00:09:59.700 --> 00:10:04.260
+Frankenfurter, uh, dead Ted, you know, it's like that could be the meatloaf character.
+
+00:10:04.720 --> 00:10:06.340
+It depends on how you want to look at it.
+
+00:10:06.480 --> 00:10:10.080
+Is it on record somewhere that they were going for a more nightmare on Elm street thing?
+
+00:10:10.200 --> 00:10:11.240
+It's like throughout the whole game.
+
+00:10:11.400 --> 00:10:13.940
+It's all like, it's all humorous.
+
+00:10:14.100 --> 00:10:17.700
+Like the whole thing. I mean, it's like teen horror, but like it's parody of teen horror.
+
+00:10:18.020 --> 00:10:20.660
+Yeah. Right. But Joe, have you ever seen nightmare on Elm street?
+
+00:10:20.660 --> 00:10:25.480
+Because I actually do think that movie is kind of funny, but it's like ill intentionally funny.
+
+00:10:25.660 --> 00:10:27.500
+Right. Like it's not like, Oh, I don't know.
+
+00:10:27.540 --> 00:10:30.300
+I think it, I think Wes Craven knows what he's leaning into.
+
+00:10:30.660 --> 00:10:32.100
+No. Okay. I've never seen it.
+
+00:10:32.180 --> 00:10:34.220
+So I don't know. I just assumed it was like maybe.
+
+00:10:34.460 --> 00:10:35.740
+No, it's not grim dark.
+
+00:10:36.020 --> 00:10:39.720
+It is campy. Well, wait, so is it intentionally funny or not?
+
+00:10:40.360 --> 00:10:41.320
+You know what? Campy.
+
+00:10:41.940 --> 00:10:48.620
+Yeah. I think, I think there was, there's always, there's always some, some humor and horror.
+
+00:10:48.620 --> 00:10:53.360
+I think they go hand in hand, but I mean, just, this is like almost slapstick.
+
+00:10:54.260 --> 00:10:59.560
+Absolutely. I mean, I mean, you give, you give the plant a can of Coke or Pepsi because Pepsi is probably
+
+00:10:59.560 --> 00:11:02.220
+a sponsor. This is scary movie level.
+
+00:11:02.420 --> 00:11:05.200
+Right. Yes. But it does have to be slapstick though.
+
+00:11:05.340 --> 00:11:09.760
+Just given the nature of like, you know, you've, you've done the input and now you need
+
+00:11:09.760 --> 00:11:10.660
+the result. Right.
+
+00:11:11.020 --> 00:11:15.200
+What do you mean? Like, like almost everything is like, you know, you did this thing.
+
+00:11:15.200 --> 00:11:17.220
+So now as a result, this happens.
+
+00:11:17.340 --> 00:11:22.020
+And I feel like that leans itself into the slapstick nature of like, you know, because
+
+00:11:22.020 --> 00:11:24.900
+you did this to the tentacle, the tentacle reacts by doing this.
+
+00:11:25.060 --> 00:11:26.480
+I am.
+
+00:11:26.580 --> 00:11:30.660
+Yeah. But I mean, even it just being like this, speaking of the tentacle, like you, you know,
+
+00:11:30.860 --> 00:11:34.120
+getting into spoilers here, but like you can't get past tentacle later on.
+
+00:11:34.220 --> 00:11:36.660
+It's like, he's depressed because he'll never get his band started.
+
+00:11:36.660 --> 00:11:39.400
+And he feels down because he ate too much food.
+
+00:11:39.660 --> 00:11:43.900
+Like, I don't know if that's the right way to go about it because like we already played
+
+00:11:43.900 --> 00:11:46.980
+a sweet home on our other podcast.
+
+00:11:47.300 --> 00:11:53.220
+And like, that is definitely going for a more straight horror vibe.
+
+00:11:53.320 --> 00:11:59.800
+But that also is just like, I mean, it's not like, uh, it's not quite as clockwork puzzle
+
+00:11:59.800 --> 00:12:04.900
+box. Uh, but there's still like, you have to do this to do that, to do this, to do that.
+
+00:12:05.420 --> 00:12:11.840
+Um, I, I think that it is intentionally leaning towards, uh, humor as a choice and not just
+
+00:12:11.840 --> 00:12:14.300
+because like, oh, well it can't be a video game and scary.
+
+00:12:14.700 --> 00:12:17.220
+Well, what's funnier than microwaving a hamster?
+
+00:12:17.820 --> 00:12:18.960
+You can do that.
+
+00:12:19.160 --> 00:12:22.740
+I don't know if that's like, I actually, I never tried to do that.
+
+00:12:23.040 --> 00:12:26.480
+You can do it depending, you can do it depending on the version of the game.
+
+00:12:26.740 --> 00:12:28.340
+Exactly. Yeah. Can you do it in this one?
+
+00:12:28.480 --> 00:12:30.900
+Nintendo did not catch it, uh, immediately.
+
+00:12:31.280 --> 00:12:34.700
+Like they, they had them censor a lot of stuff, but they didn't catch it, catch it initially.
+
+00:12:34.960 --> 00:12:39.440
+And so I don't know if that like raises the value of some of those copies.
+
+00:12:40.240 --> 00:12:44.880
+Probably, but like, I don't know if like, I don't know if price charting like differentiates
+
+00:12:44.880 --> 00:12:49.800
+them, but they should, uh, because that is, um, you know, that actually like has a gameplay
+
+00:12:49.800 --> 00:12:56.900
+consequence where, uh, if you microwave the hamster, uh, and then show it, you will be murdered.
+
+00:12:56.900 --> 00:12:58.640
+So like that can't happen.
+
+00:13:00.360 --> 00:13:01.580
+Well, I got it.
+
+00:13:01.760 --> 00:13:06.280
+I mean, just already, what are we, what are we 10 minutes into this episode already?
+
+00:13:06.280 --> 00:13:09.840
+Just with everything we're saying, like it's making me realize even more than I already
+
+00:13:09.840 --> 00:13:13.500
+had, how much else is in this game that I didn't experience.
+
+00:13:13.660 --> 00:13:15.480
+Like, and I beat the game.
+
+00:13:15.800 --> 00:13:19.260
+Like I, like this game just has branches and branches.
+
+00:13:19.260 --> 00:13:23.140
+It seems like, like I did, I, as you're talking about, I don't know what you're supposed to
+
+00:13:23.140 --> 00:13:25.040
+do with the microwave, but I forgot about the microwave.
+
+00:13:25.060 --> 00:13:29.240
+I opened it when I first got in the building and like, the microwave never went back.
+
+00:13:29.460 --> 00:13:32.240
+It does bad things, but yeah, there is, there is one key moment.
+
+00:13:32.820 --> 00:13:37.280
+Yes. Uh, and Chunt, you know, I don't think we're, I don't think we're doing the plot in order
+
+00:13:37.280 --> 00:13:39.500
+anyway. So just go ahead and talk about that key moment.
+
+00:13:39.640 --> 00:13:45.340
+Cause I think this again, just like just shows either the ridiculousness or the brilliance
+
+00:13:45.340 --> 00:13:46.740
+of this game. Yeah.
+
+00:13:46.880 --> 00:13:48.340
+It does like the old timey.
+
+00:13:48.460 --> 00:13:55.920
+I don't really know where else I've seen this like trope of steaming an envelope to get
+
+00:13:55.920 --> 00:14:00.720
+it open. Like I know that it's a thing that could be done when people used envelopes.
+
+00:14:01.000 --> 00:14:08.240
+Um, but I, I didn't know how burned into my brain that was as like a pop culture thing.
+
+00:14:08.680 --> 00:14:12.380
+Um, but you need to open an envelope without breaking open the envelope.
+
+00:14:12.560 --> 00:14:13.520
+And it makes sense.
+
+00:14:13.720 --> 00:14:20.260
+Yeah. You can do that in the microwave with some non radioactive water and the envelope.
+
+00:14:20.940 --> 00:14:23.720
+So, but you don't need to open that.
+
+00:14:23.880 --> 00:14:25.040
+Like there's always like a way around.
+
+00:14:25.040 --> 00:14:29.000
+Yeah. There's a, there, it's a one way to do one of the endings.
+
+00:14:29.260 --> 00:14:30.960
+Yeah. Which is the one ending I saw.
+
+00:14:31.260 --> 00:14:32.900
+Which is the envelope open. And I assume.
+
+00:14:32.900 --> 00:14:34.240
+Yeah. Now it's a useless envelope.
+
+00:14:34.660 --> 00:14:42.980
+Yeah. But I assume just based on context that if I wanted to, I could, I'm guessing I could like
+
+00:14:42.980 --> 00:14:46.720
+either take pictures of what's going on and then send them to get published.
+
+00:14:47.240 --> 00:14:48.340
+Uh, you're close.
+
+00:14:48.880 --> 00:14:51.420
+Okay. Because there's, there's a, there's a TV that has like.
+
+00:14:51.480 --> 00:14:53.680
+Yeah. We publish anything infomercial on it.
+
+00:14:53.800 --> 00:14:54.760
+And I don't know.
+
+00:14:54.760 --> 00:14:56.980
+So if we don't care about spoilers, I mean.
+
+00:14:57.060 --> 00:15:03.640
+We don't. It's the, it's the meteor that has a, uh, a memoir that he wants published.
+
+00:15:03.940 --> 00:15:11.160
+And then that's how you, that's how you beat the meteors, flatter his ego and get him published.
+
+00:15:11.860 --> 00:15:13.400
+And then he goes on a talk show.
+
+00:15:13.960 --> 00:15:14.920
+Yeah. Wow. Okay.
+
+00:15:14.920 --> 00:15:15.960
+That's totally, yeah.
+
+00:15:16.200 --> 00:15:18.440
+See, like, this is adventure game logic.
+
+00:15:19.220 --> 00:15:26.060
+Well, Joe, what happened for you though is great too, because again, that's, that's the,
+
+00:15:26.100 --> 00:15:31.320
+that's the genius of the game is that like, you will play with different characters and
+
+00:15:31.320 --> 00:15:35.280
+solve the puzzles or, or solve basically, they're different puzzles too.
+
+00:15:35.280 --> 00:15:40.540
+So you'll solve the, uh, end game state differently than Sean will.
+
+00:15:40.720 --> 00:15:42.120
+And then you'll talk about it.
+
+00:15:42.220 --> 00:15:46.000
+And then you'll be like, shit, I want to go see the, uh, the meteor memoir ending.
+
+00:15:46.160 --> 00:15:50.320
+And then it's like, well, don't you want to also see like, don't you want to get the,
+
+00:15:50.320 --> 00:15:52.400
+the tentacle, his recording contract thing?
+
+00:15:52.500 --> 00:15:55.000
+Like you don't always have to do all of these beats.
+
+00:15:55.000 --> 00:16:01.560
+And so I think it's really funny that, uh, the best part of this game in the exploration
+
+00:16:01.560 --> 00:16:07.800
+is that it kind of rewards those who really just try everything and anything and go a little
+
+00:16:07.800 --> 00:16:09.000
+absurd with it.
+
+00:16:09.480 --> 00:16:15.500
+And the whole thing about like steaming the envelope, like is a, is kind of a source of
+
+00:16:15.500 --> 00:16:20.320
+frustration. I think like, that's not inherently clear, but it's the kind of thing that like, I don't
+
+00:16:20.320 --> 00:16:24.040
+know, somebody will do eventually, or you'll read about in a magazine.
+
+00:16:24.040 --> 00:16:27.480
+It's like, it's not necessarily because it's not the only way to beat the game.
+
+00:16:27.800 --> 00:16:32.300
+It's fine that it's kind of like challenging to, to, to come up with that in your head.
+
+00:16:32.440 --> 00:16:38.360
+Yeah, I agree. There are enough stupid combinations that you're bound to hit at least one of them.
+
+00:16:38.760 --> 00:16:47.760
+Yeah. And I'll say that it's, I was surprised at how much was not like, how much was able to
+
+00:16:47.760 --> 00:16:50.200
+be solved almost intuitively.
+
+00:16:50.800 --> 00:16:55.360
+Like there are a lot of things that were tough, like hot, that were like tough combinations
+
+00:16:55.360 --> 00:16:57.700
+that I figured out without a guide.
+
+00:16:58.000 --> 00:17:00.980
+And I feel like that is like, that speaks to this game.
+
+00:17:01.540 --> 00:17:04.060
+What was it? Putting things that have like a level of intuition.
+
+00:17:04.280 --> 00:17:05.400
+I won't say that as everything.
+
+00:17:05.540 --> 00:17:08.580
+There were definitely a few things, especially towards the end where I was like, what am I
+
+00:17:08.580 --> 00:17:13.760
+supposed to do here? And you know, I like to think that with unlimited time and if I wasn't like kind of trying to
+
+00:17:13.760 --> 00:17:18.160
+finish this game a couple of times before the podcast that I could have figured that stuff
+
+00:17:18.160 --> 00:17:21.600
+out, but I did have to use a guide for a few things at the end.
+
+00:17:21.780 --> 00:17:28.460
+But like a lot of the other things, you know, I'm just doing trial and error and like surprisingly
+
+00:17:29.260 --> 00:17:30.520
+making decent progress.
+
+00:17:30.520 --> 00:17:33.320
+And it feels, it feels good to make that progress in this game.
+
+00:18:00.120 --> 00:18:03.300
+I would say I kind of felt a little bit the opposite.
+
+00:18:03.300 --> 00:18:08.800
+But just from my own like exploration nature, like I first played the game without a guide
+
+00:18:08.800 --> 00:18:12.980
+and did just kind of get like lost in there doing things, which was fine.
+
+00:18:13.080 --> 00:18:17.060
+Like that was kind of fun in itself to just poke around at things without having like a
+
+00:18:17.060 --> 00:18:21.240
+clear, you know, like it's very obvious when they tell you at the beginning that the key,
+
+00:18:21.560 --> 00:18:22.920
+you know, I should check under the doormat, right?
+
+00:18:22.940 --> 00:18:25.000
+So you do and there's the key and then you get inside.
+
+00:18:25.080 --> 00:18:29.540
+But there's not like that next step thing where like someone says like, oh, now we need
+
+00:18:29.540 --> 00:18:34.420
+to feed the plant or now we need to get down to the dungeon, right?
+
+00:18:34.420 --> 00:18:35.400
+Like a modern game might.
+
+00:18:35.740 --> 00:18:36.600
+Right, exactly.
+
+00:18:36.940 --> 00:18:39.100
+There's so no, but I'm fine with all of that.
+
+00:18:39.280 --> 00:18:45.880
+This is not a complaint. I'm saying like that was also just like it's a completely different thing for me where like
+
+00:18:45.880 --> 00:18:50.120
+now I'm just poking around at things and learning how the system works and having fun and seeing
+
+00:18:50.120 --> 00:18:51.320
+some weird things.
+
+00:18:51.320 --> 00:18:55.540
+I got captured by that nurse, the blue nurse, and she took me down to the dungeon.
+
+00:18:55.540 --> 00:18:59.860
+So I had to get another kid in the house and like that stuff's all, all fun.
+
+00:19:00.560 --> 00:19:05.880
+Once I used a guide to, you know, again, to experience more of this game, it was kind
+
+00:19:05.880 --> 00:19:10.340
+of like, you know, oh, I would have, I don't know if I would have thought of that on my own.
+
+00:19:10.900 --> 00:19:13.060
+I don't know if I was, you know, that's a, that's a me thing.
+
+00:19:13.140 --> 00:19:14.620
+Like I was like, oh, I don't know if I was that clever.
+
+00:19:14.820 --> 00:19:18.640
+Yeah. I mean, and for me, it was a lot more like, I agree with what you're saying.
+
+00:19:18.780 --> 00:19:22.360
+I do think it was like, it wasn't like you go in there and you know what to do next.
+
+00:19:22.360 --> 00:19:26.560
+It's like you go in there and you experiment around, but then each thing you learn about
+
+00:19:26.560 --> 00:19:30.120
+the house gives you like a hint about something else you could maybe do.
+
+00:19:30.340 --> 00:19:36.300
+And the way those elements compound on each other has like this really satisfying conclusion
+
+00:19:36.300 --> 00:19:43.900
+oftentimes where you're, you find out, oh wait, I have this, you know, I have this food
+
+00:19:43.900 --> 00:19:46.140
+and there's this tentacle that wants food upstairs.
+
+00:19:46.140 --> 00:19:50.380
+And I, you know, I can't open this garage door cause I'm not strong enough, but there's
+
+00:19:50.380 --> 00:19:54.520
+a hunk-o-matic, you know, uh, workout machine upstairs.
+
+00:19:54.720 --> 00:19:57.020
+Maybe I go try that, come back down, open the door.
+
+00:19:57.120 --> 00:20:01.860
+It's like the more you're discovering, it felt like I was able to put most of these things
+
+00:20:01.860 --> 00:20:03.540
+together without a guy.
+
+00:20:03.620 --> 00:20:06.860
+And I did play with multiple people as I, as I like to do.
+
+00:20:07.240 --> 00:20:11.240
+And, uh, so that was helpful too, cause we were like, we were like talking it through
+
+00:20:11.240 --> 00:20:15.280
+a lot of times and you had, you had, you know, we had four brains among us to try and like,
+
+00:20:15.900 --> 00:20:18.160
+to try and like figure some things out.
+
+00:20:18.520 --> 00:20:23.020
+But, um, like, yeah, that is what, and I think that you're saying the same thing, Mike, it
+
+00:20:23.020 --> 00:20:27.180
+seems like that, like, that's to me what the beauty was here was that like, it's not holding
+
+00:20:27.180 --> 00:20:31.960
+your hand that you're exploring and your exploration is what's kind of giving you progress.
+
+00:20:33.320 --> 00:20:38.600
+Yeah. And for the first time ever, I'm also saying like, you know, in a way it's a positive thing
+
+00:20:38.600 --> 00:20:40.860
+that you kind of need, and maybe this is just who I am right now.
+
+00:20:41.000 --> 00:20:46.580
+Like I'm doing a lot of this stuff, but like you need to read the manual or, or, uh, own
+
+00:20:46.580 --> 00:20:51.540
+that copy of Nintendo power, you know, like it's, it's, it's funny how like in the manual,
+
+00:20:51.540 --> 00:20:54.840
+there's a thing about being sent to the dungeon isn't bad.
+
+00:20:54.840 --> 00:20:55.960
+It can even be good.
+
+00:20:56.080 --> 00:20:59.260
+And it's followed by, and there's a loose brick in the dungeon.
+
+00:20:59.440 --> 00:21:04.220
+Like that's not like, that's pretty important knowledge that like, I don't think I would ever
+
+00:21:04.220 --> 00:21:05.300
+know if I didn't look at the manual.
+
+00:21:05.500 --> 00:21:06.980
+I didn't scanning around.
+
+00:21:07.220 --> 00:21:09.620
+I don't know. Yeah. I didn't read the manual.
+
+00:21:09.820 --> 00:21:13.920
+I didn't, that was one thing that I just found because I was like hopelessly looking for something
+
+00:21:13.920 --> 00:21:14.880
+and then that pops up.
+
+00:21:14.980 --> 00:21:20.480
+Like, I think it's actually a lot easier to find than it seems because you're, you're
+
+00:21:20.480 --> 00:21:21.740
+game. Sorry.
+
+00:21:21.820 --> 00:21:22.800
+Go ahead. Yeah.
+
+00:21:22.820 --> 00:21:27.820
+I just say you're all you're doing is, is hovering over everything you possibly can to see if
+
+00:21:27.820 --> 00:21:29.900
+it like, if an indicator comes up.
+
+00:21:30.100 --> 00:21:31.260
+So like it just came up.
+
+00:21:31.420 --> 00:21:35.780
+I mean, it probably took us like three or four minutes of like aimlessness before we're like,
+
+00:21:35.840 --> 00:21:37.020
+Hey, what was that? Yeah.
+
+00:21:37.140 --> 00:21:40.620
+I think this game has a lot of situations that you can fail.
+
+00:21:40.800 --> 00:21:48.780
+Like there's a lot of fail states, but they are real fail states and they are also the,
+
+00:21:48.880 --> 00:21:52.120
+I just don't think that there's a, there's too many ways to soft block yourself.
+
+00:21:52.120 --> 00:21:57.900
+And even if you do do that, your character would probably like, will comment on like, well,
+
+00:21:57.980 --> 00:21:59.840
+that was a waste or something along those lines.
+
+00:22:00.480 --> 00:22:08.220
+And what, so that makes me think that like, Oh, if my only option is to flail around in
+
+00:22:08.220 --> 00:22:12.720
+this dungeon, like it's not going to put me in a position where this character is just
+
+00:22:12.720 --> 00:22:16.200
+now locked in the dungeon forever, unless he's like the only character left.
+
+00:22:16.200 --> 00:22:22.600
+Uh, so I think I could read that from the game that there was always some way forward
+
+00:22:22.600 --> 00:22:25.300
+if he didn't waste an item or something like that.
+
+00:22:25.820 --> 00:22:29.360
+Um, and to know that it's probably going to tell you when he wasted that item.
+
+00:22:30.280 --> 00:22:33.360
+Yeah. Plus it's generous with the, uh, save ability.
+
+00:22:33.360 --> 00:22:35.280
+I mean, you can save the game.
+
+00:22:36.140 --> 00:22:41.080
+It's funny. Cause even when you go into, when you press the start and get that menu, uh, that kind
+
+00:22:41.080 --> 00:22:43.020
+of feels like computer game to me.
+
+00:22:43.120 --> 00:22:45.320
+Like that, just that whole like layout and everything.
+
+00:22:46.500 --> 00:22:48.220
+No, yeah, yeah, sure.
+
+00:22:48.360 --> 00:22:52.620
+Absolutely. But like even just the way, the way it looks, it just looked like it was like, this must
+
+00:22:52.620 --> 00:22:54.300
+be directly from the computer game.
+
+00:22:54.420 --> 00:22:59.880
+Like it doesn't read NES to me the way it has like different icons and pictures and blocks
+
+00:22:59.880 --> 00:23:01.980
+for saving and zooming.
+
+00:23:02.300 --> 00:23:08.040
+And, uh, but to go back to the soft lock thing, uh, I agree that I, you know, it's not the
+
+00:23:08.040 --> 00:23:11.460
+end of the world if there are dead ends, but apparently there are, there are a lot of dead
+
+00:23:11.460 --> 00:23:17.040
+ends in this game. It's, it is like known and I don't have an exhaustive list in front of me, but I can see
+
+00:23:17.040 --> 00:23:21.000
+from here, there's at least 12 different dead ends.
+
+00:23:21.260 --> 00:23:23.000
+Yeah. Did you guys run into any dead ends?
+
+00:23:23.020 --> 00:23:25.320
+Because I don't think I did.
+
+00:23:25.440 --> 00:23:29.860
+Now my first playthrough, I did eventually die and I started over and I might've had a
+
+00:23:29.880 --> 00:23:33.460
+a dead end because I did use the paint thinner on the wrong thing.
+
+00:23:33.760 --> 00:23:35.160
+Yes. That is one of the dead ends.
+
+00:23:35.380 --> 00:23:36.260
+That's a dead dead end.
+
+00:23:36.400 --> 00:23:40.260
+Okay. Well, so I died before I got to the point where I was like, well, I guess I can't complete
+
+00:23:40.260 --> 00:23:44.960
+this game. But even that dead end, like that's, that's actually the example I was using is when you
+
+00:23:44.960 --> 00:23:46.960
+do that, like, you know, you fucked up.
+
+00:23:47.260 --> 00:23:51.940
+Right. It was before when I did that, it was before I realized that I could just save it at any
+
+00:23:51.940 --> 00:23:59.520
+time. I remember reading about, I really forgot again, which, which adventure game this was, but if
+
+00:23:59.520 --> 00:24:04.720
+you do something in the first 15 minutes of playing it, and I really wish I could be
+
+00:24:04.720 --> 00:24:08.320
+more illustrative and interesting to listen to by knowing exactly what it was.
+
+00:24:09.540 --> 00:24:10.840
+Is it the mirror shard?
+
+00:24:11.560 --> 00:24:13.540
+No, I forgot what it's either.
+
+00:24:13.720 --> 00:24:15.500
+You like drink something or you eat something.
+
+00:24:15.500 --> 00:24:21.360
+And then it's like hours later in the third act, it's like, oh, you did that thing way
+
+00:24:21.360 --> 00:24:23.360
+back then. You died.
+
+00:24:23.920 --> 00:24:30.340
+And it's like that, like that, that would infuriate me and turn me off of the genre entirely.
+
+00:24:30.480 --> 00:24:34.280
+If that happened to me, I wish I knew what this was.
+
+00:24:34.540 --> 00:24:36.300
+Somebody, somebody will know.
+
+00:24:36.300 --> 00:24:42.020
+And then, and then tell me how goofy I am to bring up something that I only know very
+
+00:24:42.020 --> 00:24:43.280
+tertiary details of.
+
+00:24:44.060 --> 00:24:45.300
+You're so goofy.
+
+00:24:46.780 --> 00:24:48.800
+I don't know the mirror shard thing either.
+
+00:24:48.980 --> 00:24:53.120
+I saw it in a YouTube video coverage of the making of Maniac Mansion.
+
+00:24:53.260 --> 00:24:58.480
+And allegedly the story goes that there was an adventure game where it was, it wasn't what
+
+00:24:58.480 --> 00:25:03.920
+you're describing where you get punished hours later, but there were shards of a mirror.
+
+00:25:03.920 --> 00:25:06.800
+And when you pick it up, it's an insta death.
+
+00:25:06.940 --> 00:25:08.520
+It cuts you and kills you.
+
+00:25:08.660 --> 00:25:09.820
+Apparently it got really deep.
+
+00:25:10.520 --> 00:25:16.120
+And that frustrated the Maniac Mansion developer to the point where they were like, I'm going
+
+00:25:16.120 --> 00:25:19.140
+to make sure that that doesn't happen in my game.
+
+00:25:19.260 --> 00:25:23.220
+Like that you would just have a, like I can pick up a piece of glass and know that I'm
+
+00:25:23.220 --> 00:25:24.460
+not going to die in real life.
+
+00:25:24.580 --> 00:25:26.520
+Why did I die in this video game?
+
+00:25:27.460 --> 00:25:32.220
+And I think that's an interesting quote because there are some things in this game that don't
+
+00:25:32.220 --> 00:25:35.220
+necessarily have like real world logic to it.
+
+00:25:35.980 --> 00:25:40.080
+I don't think I would feed a plant Pepsi, even if it was talking to me.
+
+00:25:40.560 --> 00:25:42.520
+I mean, it's 12 full ounces though.
+
+00:25:42.920 --> 00:25:44.720
+That's true. Yeah.
+
+00:25:44.760 --> 00:25:49.160
+So I think, you know, even though we're talking about a lot about the various gameplay puzzle
+
+00:25:49.160 --> 00:25:54.280
+solutions or how intuitive they were, I think we do need to come back to just the setting
+
+00:25:54.280 --> 00:26:00.780
+and characters of this game because it really is a large part of the, of the charm and will
+
+00:26:00.780 --> 00:26:05.660
+be the kind of the make or break, I think for a lot of people is whether you dig this,
+
+00:26:05.860 --> 00:26:07.480
+uh, this adventure, right?
+
+00:26:07.580 --> 00:26:12.240
+Like I think of some other point and click games that I've played on like steam for like
+
+00:26:12.240 --> 00:26:15.020
+five minutes and I was just like, nope, not digging this aesthetic.
+
+00:26:15.280 --> 00:26:18.760
+You know, like I just, I'm not going to play this game because it looks like this.
+
+00:26:18.760 --> 00:26:24.720
+I feel like maniac mansion could have that problem, but also it can be incredibly enhanced
+
+00:26:24.720 --> 00:26:25.620
+as a result.
+
+00:26:25.780 --> 00:26:29.000
+You know, like Joe, you were talking about the, the hunko machine earlier where you,
+
+00:26:29.240 --> 00:26:33.740
+you know, use that to, to get stronger, like silly things like that.
+
+00:26:33.860 --> 00:26:35.560
+Like that's the kind of stuff that appeals to me.
+
+00:26:35.660 --> 00:26:37.080
+Cause again, it's an easy clue.
+
+00:26:37.340 --> 00:26:38.700
+It's communicated well.
+
+00:26:38.760 --> 00:26:43.520
+It doesn't have real world logic because obviously you wouldn't get that strong that fast, but
+
+00:26:43.520 --> 00:26:48.220
+like, right. It works in the sense of it works in the gameplay and it works for the world that they built.
+
+00:26:48.760 --> 00:26:54.120
+Yeah. And it does have a, it has a logic to it that I'm like, you know, I wonder if that will
+
+00:26:54.120 --> 00:26:55.460
+work and I'll try it, you know?
+
+00:26:56.820 --> 00:27:37.320
+Yeah. We were talking about the, uh, endings, uh, at the beginning of the episode, which is
+
+00:27:37.320 --> 00:27:43.140
+funny, but, uh, there were, there were, uh, a lot of interesting endings that I found online
+
+00:27:43.140 --> 00:27:48.560
+that like made me think like, Oh, maybe, maybe there's even more endings than I know.
+
+00:27:48.940 --> 00:27:54.040
+And one of the interesting endings that I didn't see in a YouTube video, but saw described,
+
+00:27:54.800 --> 00:27:58.800
+uh, on like a fan website was the same thing with the meteor.
+
+00:27:58.800 --> 00:28:00.760
+You get its, uh, memoir published.
+
+00:28:00.760 --> 00:28:09.660
+It goes on a talk show, but there's an alternate ending to that ending where if you, um, call
+
+00:28:09.660 --> 00:28:15.000
+the police and then get the meteor, uh, his, his, uh, memoir.
+
+00:28:15.220 --> 00:28:20.980
+Yeah. If you call the meteor police and get the, uh, meteor book published like immediately after
+
+00:28:20.980 --> 00:28:28.680
+it will do the talk show, but the meteor police will interrupt the talk show and arrest him
+
+00:28:29.360 --> 00:28:30.400
+on the show.
+
+00:28:30.920 --> 00:28:33.420
+I can't believe that they like planned for that.
+
+00:28:33.580 --> 00:28:35.100
+Joe, did you know about the meteor police?
+
+00:28:35.740 --> 00:28:37.100
+Yeah. That's how I beat the game.
+
+00:28:37.240 --> 00:28:38.220
+Oh, okay. The meteor police.
+
+00:28:38.420 --> 00:28:42.600
+So I went a totally different direction than you guys, I think, but not in, not with the,
+
+00:28:42.600 --> 00:28:47.280
+um, talk show meteor police, not them coming out of the talk show, but, uh, yeah, just the
+
+00:28:47.280 --> 00:28:53.140
+arrest. I think I laughed like actually legitimately out loud when I finally got that code for the
+
+00:28:53.140 --> 00:28:56.120
+radio and I fixed the radio with the, with the tube or whatever.
+
+00:28:56.120 --> 00:28:59.780
+And then I call it, it's just like this alien and he's like, hello, meteor police.
+
+00:29:00.380 --> 00:29:02.080
+Like, yeah, it's just like, what is happening?
+
+00:29:04.540 --> 00:29:07.600
+And I don't know about you guys, but like when I saw the meteor thing at the beginning,
+
+00:29:07.800 --> 00:29:13.620
+like I wasn't expecting, I don't know what I was expecting, but I wasn't expecting, uh,
+
+00:29:13.860 --> 00:29:15.920
+like a sentient meteor.
+
+00:29:16.300 --> 00:29:20.840
+And I wasn't expecting like that the meteor is actually possessing like Dr.
+
+00:29:20.840 --> 00:29:23.300
+meteor, uh, right to do all that stuff too.
+
+00:29:23.440 --> 00:29:29.000
+In the first place. Like it, it, it, it got pretty like, it got pretty weird in a good way for me, but like
+
+00:29:29.000 --> 00:29:33.220
+maybe not like in the most comprehensible way for like kids.
+
+00:29:34.880 --> 00:29:36.360
+Yeah. I mean, I don't know.
+
+00:29:36.500 --> 00:29:41.180
+It's, uh, yeah, I didn't really think about like how, I mean, honestly, as much as I'm
+
+00:29:41.180 --> 00:29:46.900
+like, I'm kind of raving about how like intuitive and how you, how these things like are easier
+
+00:29:46.900 --> 00:29:50.580
+to figure out than, than I would think I stand by that.
+
+00:29:50.820 --> 00:29:54.660
+But I do think that like, yeah, if I'm 10 years old, I'll probably just play this game
+
+00:29:54.660 --> 00:29:58.160
+infinitely and never beat it because like, I'll be like, what am I supposed to do?
+
+00:29:58.440 --> 00:30:01.760
+Like, I'm not going to know at 10 years old to put the envelope in the microwave.
+
+00:30:01.800 --> 00:30:05.960
+I think like, no, I think you're not giving your 10 year old self enough credit.
+
+00:30:06.120 --> 00:30:11.020
+I think again, if you played this game enough, you, you just try everything.
+
+00:30:11.020 --> 00:30:17.260
+But I think to Mike's point, uh, the, the, the humor and like the kinds of things that
+
+00:30:17.260 --> 00:30:25.040
+happen, like the, the turns that this, that this game takes, such as having a meteorite
+
+00:30:25.040 --> 00:30:30.640
+be sentient and then all those other things, I think I'd be more into it then than I am
+
+00:30:30.640 --> 00:30:37.380
+now. Like now, like this just kind of falls into like, oh, this is all, this is almost like a
+
+00:30:37.380 --> 00:30:44.280
+lull, so random kind of thing where I, it doesn't, I'm not fully turned on by the, the,
+
+00:30:44.700 --> 00:30:50.660
+I can imagine myself not being fully into all the like, oh, so there's, there's, there's
+
+00:30:50.660 --> 00:30:55.020
+a, first of all, the, the meteor is sentient and now there's a police force in the sky.
+
+00:30:55.340 --> 00:30:56.580
+This is not believable at all.
+
+00:30:56.820 --> 00:31:05.100
+Like I think my, my, uh, my unimaginative, my unimaginative stupid adult brain won't let
+
+00:31:05.100 --> 00:31:06.200
+myself have fun.
+
+00:31:06.380 --> 00:31:10.100
+Whereas I think as a kid, like maybe I'd be like, oh, maybe there are meteor police,
+
+00:31:10.740 --> 00:31:12.300
+you know? I don't know.
+
+00:31:13.040 --> 00:31:14.040
+Maybe that's not the case.
+
+00:31:15.460 --> 00:31:20.020
+I think I could, I could see, I could see a case for both for me because I, I think that
+
+00:31:20.020 --> 00:31:21.880
+when I was a kid, I would just kind of like go with it.
+
+00:31:22.000 --> 00:31:23.480
+I'd be like, oh yeah, this is like what's happening.
+
+00:31:23.580 --> 00:31:25.600
+This is what's happening in this game is like, yeah, there's meteor.
+
+00:31:25.600 --> 00:31:32.540
+And now I am like, this is ridiculous, but as long as it's not interfering with my ability
+
+00:31:32.540 --> 00:31:36.760
+to figure out what to do next, like I'm fully on board for this weird ride.
+
+00:31:36.940 --> 00:32:33.780
+Like, I love it. There was also another ending, uh, that I'm not entirely sure if you have to do anything
+
+00:32:33.780 --> 00:32:37.700
+specific other than make sure Dave is dead for it to happen.
+
+00:32:37.700 --> 00:32:45.160
+But if Dave is dead and you still finish the game, you can apparently have, uh, Razor, uh,
+
+00:32:45.480 --> 00:32:51.300
+the girl with the music talent, uh, Razor and Sandy kiss at the end, you know, and I'm sure
+
+00:32:51.300 --> 00:32:56.760
+a lot of, uh, you know, young boys wanted to see that happen, even as crude as the graphics
+
+00:32:56.760 --> 00:33:01.540
+were. Or maybe had their parents found out and then they write a letter.
+
+00:33:01.980 --> 00:33:02.880
+Uh, yeah.
+
+00:33:03.480 --> 00:33:04.320
+Right, right.
+
+00:33:05.500 --> 00:33:11.440
+Thinking about the verb system, any verbs you guys like would have wanted to add?
+
+00:33:11.440 --> 00:33:15.920
+I don't, I say that not having anything like at the ready, but I do.
+
+00:33:16.400 --> 00:33:17.320
+Yeah. Inspect.
+
+00:33:17.560 --> 00:33:18.840
+A hundred percent. Um, there you go. That's a good one.
+
+00:33:18.980 --> 00:33:23.560
+I used read a lot and hoped that I would like see it, but I was like never clear.
+
+00:33:23.700 --> 00:33:26.480
+Like, does read mean like look at, can I just see what this is?
+
+00:33:27.320 --> 00:33:28.960
+Examine? Yeah.
+
+00:33:28.960 --> 00:33:34.100
+I mean, for definitely for things that have text read is what you'd use, but like, I would
+
+00:33:34.100 --> 00:33:41.320
+think that, uh, there would be, you know, cause this is very low res even compared to
+
+00:33:41.320 --> 00:33:42.720
+the OG game.
+
+00:33:43.200 --> 00:33:48.860
+Um, so I would think that there would be situations where you would want to take a closer look
+
+00:33:48.860 --> 00:33:53.980
+or at least hear a short paragraph of what you're actually looking at.
+
+00:33:53.980 --> 00:34:00.000
+But, and I, I, it did feel kind of like there was something missing that that wasn't there,
+
+00:34:00.100 --> 00:34:06.060
+but I think that also speaks to the, the clarity that the game has, not so much in what you're
+
+00:34:06.060 --> 00:34:12.600
+supposed to do with each item, but at least the clarity that when you point at something,
+
+00:34:12.740 --> 00:34:15.100
+it tells you what it is in the most general sense.
+
+00:34:15.560 --> 00:34:23.320
+And then the, the art is clear enough that you don't really need that explanation of like
+
+00:34:23.900 --> 00:34:28.920
+uh, like instead of looking at the radio and say like, this is a radio, it looks like it's
+
+00:34:28.920 --> 00:34:29.780
+20 years old.
+
+00:34:30.040 --> 00:34:32.540
+It kind of, it looks like I could probably break it open.
+
+00:34:32.700 --> 00:34:37.440
+Like, no, it's just, you see a radio, you can press open radio if you want and you'll
+
+00:34:37.440 --> 00:34:39.060
+get batteries or something out of it.
+
+00:34:39.380 --> 00:34:43.020
+But, uh, yeah, I don't think it really needed that inspect button.
+
+00:34:43.720 --> 00:34:47.900
+Yeah. The only reason that I ever wanted it was like, sometimes there would be like, there would
+
+00:34:47.900 --> 00:34:50.920
+be, I mean, there'd be like a poster and I feel like, I feel like most of the time
+
+00:34:50.920 --> 00:34:55.260
+read worked on that, but then other times, other times it didn't, or like, I, like there
+
+00:34:55.260 --> 00:34:56.320
+were just times where I wasn't sure.
+
+00:34:56.440 --> 00:34:59.520
+Like, is this something I, I don't know, like, what is this?
+
+00:34:59.640 --> 00:35:00.520
+You know what I mean?
+
+00:35:00.560 --> 00:35:04.300
+Like sometimes I'd be like, you know, there'd be something on the wall and I would be like,
+
+00:35:04.360 --> 00:35:05.240
+do I read this?
+
+00:35:05.320 --> 00:35:07.040
+Is this a picture? Is this a switch?
+
+00:35:07.180 --> 00:35:08.440
+Like, I can't tell what this is.
+
+00:35:08.560 --> 00:35:12.260
+Cause, cause some of it is like hard to interpret.
+
+00:35:12.400 --> 00:35:17.780
+Like, I don't think I, it hindered my ability to do anything, but I, what I, I did several
+
+00:35:17.780 --> 00:35:20.400
+times be like, can I just look at this and tell me what this is?
+
+00:35:20.400 --> 00:35:23.840
+Because whenever you hover over it, it at least gives you a name of the thing.
+
+00:35:24.700 --> 00:35:26.180
+Yeah. That's true.
+
+00:35:26.260 --> 00:35:30.020
+But like, there's like picture, like there's pictures of, at the top of the stairs and I
+
+00:35:30.020 --> 00:35:31.580
+don't think they actually ended up mattering.
+
+00:35:31.700 --> 00:35:34.880
+So like, maybe this is me wanting something that wouldn't have helped because it was never
+
+00:35:34.880 --> 00:35:39.220
+actually needed. But at the time I wasn't sure if it was needed, but there's pictures at the top of the first
+
+00:35:39.220 --> 00:35:43.000
+set of stairs of, of Edna and I don't know, son, whatever.
+
+00:35:43.520 --> 00:35:44.600
+I don't know. Yeah.
+
+00:35:44.760 --> 00:35:45.760
+Whatever. Whoever these people are.
+
+00:35:45.760 --> 00:35:51.640
+And like, I'm, I want to see like what there is, like what it is, but it's pixelated.
+
+00:35:51.780 --> 00:35:52.640
+So it's hard to really tell.
+
+00:35:52.780 --> 00:35:56.840
+I don't know. There were just a few times where I'm like, yeah, I'm just like, I would like to be able
+
+00:35:56.840 --> 00:35:57.780
+to, there's a wanted poster.
+
+00:35:57.800 --> 00:35:58.740
+I mean, that's obviously Reed.
+
+00:35:59.180 --> 00:36:01.720
+There were definitely situations and I cannot think of one right now.
+
+00:36:01.720 --> 00:36:05.940
+There are definitely situations where I was like, I want to like look at this thing to
+
+00:36:05.940 --> 00:36:06.940
+just to see what it is.
+
+00:36:07.520 --> 00:36:09.540
+I can't believe we couldn't smell anything.
+
+00:36:09.820 --> 00:36:12.660
+I don't think that that's a joke.
+
+00:36:13.040 --> 00:36:14.600
+Sniff. I don't think that's appropriate.
+
+00:36:14.600 --> 00:36:16.260
+Should have been able to sniff everything knowing that.
+
+00:36:16.720 --> 00:36:17.640
+And then you'd have it described.
+
+00:36:17.960 --> 00:36:19.460
+Well, I could see some hilarious situations.
+
+00:36:19.460 --> 00:36:21.200
+You microwave the hamster and then you sniff.
+
+00:36:21.820 --> 00:36:23.400
+Yeah. That's, that's inappropriate.
+
+00:36:24.360 --> 00:36:27.800
+Speaking of inappropriate and censorships, it goes beyond the hamster.
+
+00:36:27.880 --> 00:36:31.120
+Obviously the hamster is just obvious, a very famous example.
+
+00:36:31.840 --> 00:36:36.100
+There were like Playboy calendars.
+
+00:36:36.340 --> 00:36:38.360
+There was, or maybe it wasn't Playboy.
+
+00:36:38.500 --> 00:36:39.400
+Maybe it was like a swimsuit.
+
+00:36:39.900 --> 00:36:41.240
+No, it was a swimsuit calendar.
+
+00:36:41.240 --> 00:36:43.660
+It was turned into a regular calendar in this game.
+
+00:36:44.280 --> 00:36:48.040
+There was a sculpture with boobies, like all that stuff out.
+
+00:36:48.320 --> 00:36:50.080
+Can't have it in my Nintendo game.
+
+00:36:50.860 --> 00:36:55.620
+Which is funny in a way that Nintendo had to be like, like, I don't know.
+
+00:36:55.800 --> 00:36:57.140
+I feel like occasionally we've seen.
+
+00:36:58.500 --> 00:36:59.900
+We have. Yeah.
+
+00:37:00.100 --> 00:37:01.940
+Not full frontal, but we've seen enough.
+
+00:37:03.660 --> 00:37:05.860
+Yeah. Weren't there like mermaids in some game or something?
+
+00:37:06.140 --> 00:37:12.700
+Yeah. Right. Yeah. Do you guys know about the television adaptation of Maniac Mansion?
+
+00:37:13.280 --> 00:37:14.180
+I do.
+
+00:37:15.060 --> 00:37:17.920
+Did you watch the 10th anniversary special?
+
+00:37:18.260 --> 00:37:21.360
+Very confused if that was actually the first episode or not.
+
+00:37:22.260 --> 00:37:23.860
+I didn't watch any of it.
+
+00:37:23.960 --> 00:37:28.680
+I just had it read to me on a Wikipedia article of like what this was.
+
+00:37:29.160 --> 00:37:32.500
+Yeah. I saw some screenshots of it or just like some stills.
+
+00:37:32.500 --> 00:37:36.740
+And I wanted to watch it.
+
+00:37:36.960 --> 00:37:40.580
+I just, I really, I couldn't fit into my very busy schedule.
+
+00:37:40.880 --> 00:37:42.020
+Yes, of course. Tell us.
+
+00:37:42.540 --> 00:37:46.840
+Well, what's interesting about it is that the first episode is called the 10th anniversary special.
+
+00:37:47.240 --> 00:37:50.820
+And it's meta in all the ways that you can imagine.
+
+00:37:51.660 --> 00:37:55.080
+But like, it's also just like, it was confusing to me at first.
+
+00:37:55.200 --> 00:38:00.000
+Like, I was like, is this the 10th anniversary special of the first episode of Maniac Mansion?
+
+00:38:00.040 --> 00:38:01.740
+Is this actually the first episode?
+
+00:38:01.740 --> 00:38:03.680
+Like, that took me a while to like confirm.
+
+00:38:03.920 --> 00:38:06.640
+But I did confirm that the episode is just called the 10th anniversary special.
+
+00:38:07.140 --> 00:38:12.560
+And what's interesting is that if you were to make a Maniac Mansion TV show, in my opinion,
+
+00:38:12.860 --> 00:38:17.880
+you would focus on the kids that went around the mansion and explored it.
+
+00:38:18.040 --> 00:38:21.460
+And like, I'm not saying make a whole show where they're walking around a mansion.
+
+00:38:21.480 --> 00:38:22.320
+That's boring.
+
+00:38:22.540 --> 00:38:24.400
+But like, I would focus on the kids.
+
+00:38:24.680 --> 00:38:25.900
+They didn't go that route.
+
+00:38:26.200 --> 00:38:29.260
+They didn't focus on Dave and Sandy and all that.
+
+00:38:29.260 --> 00:38:40.300
+And what you get is kind of like just the mansion and like the aesthetic of that and a very, very big departure from the game.
+
+00:38:40.640 --> 00:38:46.600
+Otherwise, to the point where like, obviously, if it's going to be three seasons, like you're going to have to get away from the game.
+
+00:38:46.600 --> 00:38:51.080
+But like, man, how did Maniac Mansion, the TV show, get three seasons?
+
+00:38:51.420 --> 00:38:52.620
+That is insane.
+
+00:38:52.780 --> 00:38:56.660
+And then hearing that like Eugene Levy had a hand in it.
+
+00:38:56.960 --> 00:39:07.280
+Yes. Also, like, because when I first saw this coming up and read the Wikipedia article, I saw that like, oh, and there's a TV show.
+
+00:39:08.200 --> 00:39:12.740
+And I would never have guessed that the game came first.
+
+00:39:12.740 --> 00:39:22.880
+Like, we've played so many TV and movie adaptations that I was like, oh, this must be a really fun way to adapt a TV show with all the characters from the show.
+
+00:39:22.880 --> 00:39:25.180
+But it turns out it was the complete opposite.
+
+00:39:25.460 --> 00:39:27.320
+Like, I did not know that that would be the case.
+
+00:39:28.580 --> 00:39:29.860
+Yeah, I thought the same thing.
+
+00:39:30.300 --> 00:39:33.720
+And the show is, you know, it's referential.
+
+00:39:34.080 --> 00:39:35.120
+It's a little meta.
+
+00:39:35.460 --> 00:39:38.240
+You have characters specifically in the first episode.
+
+00:39:38.320 --> 00:39:41.240
+But I believe the trend continues breaking the fourth wall.
+
+00:39:41.940 --> 00:39:48.540
+It kind of feels like it's following in like in the footsteps of Twin Peaks a little bit.
+
+00:39:48.800 --> 00:39:49.760
+That's what I was going to say.
+
+00:39:50.120 --> 00:39:51.760
+It has that kind of vibe to it.
+
+00:39:52.400 --> 00:39:55.020
+You know, maybe more, maybe a little more family friendly.
+
+00:39:55.680 --> 00:39:57.400
+Although I don't know. But Twin Peaks wasn't out yet.
+
+00:39:58.120 --> 00:39:59.980
+Well, when was Twin Peaks?
+
+00:40:00.080 --> 00:40:01.040
+Was that 90 as well?
+
+00:40:01.400 --> 00:40:03.080
+Yeah, it is. Okay, yeah.
+
+00:40:03.140 --> 00:40:04.420
+So they're like fighting each other.
+
+00:40:04.540 --> 00:40:11.420
+So technically, I agree with you, Sean, that they couldn't both be like doing it at the same time and copying each other.
+
+00:40:11.420 --> 00:40:12.460
+But like, I don't know.
+
+00:40:12.580 --> 00:40:14.520
+Maybe that was just a sign of the times, right?
+
+00:40:14.620 --> 00:40:18.660
+That like two shows came out very close together and feel kind of related.
+
+00:40:19.580 --> 00:40:21.780
+And, you know, loosely related, obviously.
+
+00:40:21.920 --> 00:40:25.740
+Well, also, I mean, we're talking about a game that came out on the NES in 1990.
+
+00:40:26.120 --> 00:40:27.420
+This was 87.
+
+00:40:27.420 --> 00:40:29.540
+87. Yeah, no, yeah, for sure.
+
+00:40:29.580 --> 00:40:32.360
+Yeah. I'm talking about the TV shows right now because the TV show came out.
+
+00:40:32.360 --> 00:40:33.300
+Oh, you're right. You're right.
+
+00:40:33.380 --> 00:40:34.280
+Okay. Copy, copy.
+
+00:40:34.620 --> 00:40:37.080
+Which is funny because that means that maybe they were thinking about that.
+
+00:40:37.240 --> 00:40:42.000
+Like, you know, we should get it on the NES because we're about to have this TV show.
+
+00:40:43.020 --> 00:40:46.400
+And we need people to become more familiar with it because let's be honest.
+
+00:40:46.600 --> 00:40:51.660
+Like, did everyone growing up have a Commodore 64?
+
+00:40:52.600 --> 00:40:53.480
+A television?
+
+00:40:54.340 --> 00:40:56.240
+Yeah, what is this? What is that?
+
+00:40:56.300 --> 00:40:58.800
+Back to the Future where he's like, yeah, we got one in every room.
+
+00:40:58.940 --> 00:41:02.260
+And they're like, what? I like the idea of people having NESs but not televisions.
+
+00:41:03.080 --> 00:41:04.220
+Right. What are they doing?
+
+00:41:05.340 --> 00:41:09.980
+No, I meant like those kinds of computers capable of playing those video games.
+
+00:41:09.980 --> 00:41:15.700
+Like, I don't know about you guys, but like we eventually got Windows 95 and it was amazing.
+
+00:41:15.700 --> 00:41:18.060
+But that was in 95, you know?
+
+00:41:18.200 --> 00:41:22.260
+Like, we didn't really have a computer capable of playing video games before that.
+
+00:41:22.680 --> 00:41:23.720
+I don't know, you know, like...
+
+00:41:23.720 --> 00:41:25.120
+You mean your house personally?
+
+00:41:25.480 --> 00:41:26.280
+My house personally.
+
+00:41:26.280 --> 00:41:34.640
+That's what I'm saying. Like, I don't know how many other people, though, have that experience of like, yeah, like we had a ZX Spectrum and my dad would always let me, you know, buy video games for me.
+
+00:41:34.640 --> 00:41:41.360
+And it's like, I don't think computer games were selling anywhere near the amount that NES games were selling.
+
+00:41:41.620 --> 00:41:47.040
+I don't know the numbers, but your vibes sound correct to me.
+
+00:41:48.200 --> 00:41:49.940
+Like, this is an expensive computer.
+
+00:41:50.180 --> 00:41:53.100
+I feel like they're not going to let, like, you know, the kid game on it.
+
+00:41:54.020 --> 00:41:55.100
+But again, just a vibe.
+
+00:41:55.500 --> 00:41:56.760
+We go by vibes here.
+
+00:41:56.880 --> 00:41:58.060
+Sorry. That's okay.
+
+00:41:58.160 --> 00:41:59.160
+Yeah, we're going by vibes.
+
+00:41:59.160 --> 00:42:01.940
+And speaking of vibes, the music in this game.
+
+00:42:02.080 --> 00:42:03.040
+What a vibe.
+
+00:42:03.460 --> 00:42:04.400
+Fantastic music.
+
+00:42:04.700 --> 00:42:09.280
+It's funny because I had in my notes, you know, I write my notes as I'm playing the game.
+
+00:42:09.440 --> 00:42:17.880
+I had that it's like a little annoying that the music is playing like in the house at full blast all the time as you're like exploring it.
+
+00:42:18.000 --> 00:42:19.340
+But I take that back.
+
+00:42:20.300 --> 00:42:24.860
+Like, I learned to love the, like, that each character has a song.
+
+00:42:25.100 --> 00:42:31.460
+And, you know, at first I guess I was thinking more like I wanted the mansion to have, like.
+
+00:42:31.660 --> 00:42:32.900
+A soundscape to it.
+
+00:42:32.980 --> 00:42:34.300
+Like, yeah, a soundscape to it.
+
+00:42:34.400 --> 00:42:35.580
+But, like, I don't know.
+
+00:42:35.820 --> 00:42:40.820
+These are pretty rocking tracks all throughout the game, including the main menu.
+
+00:42:41.080 --> 00:42:45.060
+The main menu is maybe one of my favorites so far on the NES.
+
+00:42:45.060 --> 00:42:49.640
+Yes. But, and I liked all of, I think all of these songs were great.
+
+00:42:49.840 --> 00:42:53.860
+I think they were some of the top tier NES songs we've had so far.
+
+00:42:54.060 --> 00:42:58.380
+But I did get annoyed with them after, you know, 10 minutes of each other.
+
+00:42:58.780 --> 00:43:00.340
+I turned them off.
+
+00:43:00.460 --> 00:43:03.440
+I was on as high on this, the soundtrack as you guys are.
+
+00:43:03.780 --> 00:43:07.520
+In fact, one of the first things I did was turn off each CD player.
+
+00:43:08.320 --> 00:43:11.760
+And. Yeah. I mean, I think it took me like 10 minutes to turn off the music.
+
+00:43:11.760 --> 00:43:16.400
+But. And then, like, I don't know if it was a bug or if this is just how it's, like, designed.
+
+00:43:17.020 --> 00:43:20.540
+But I went into another room and then the CD player turned on again.
+
+00:43:20.840 --> 00:43:24.680
+And then. But I hadn't turned the CD player back on.
+
+00:43:24.860 --> 00:43:31.100
+So I couldn't turn off the CD player until I then turned on the CD player again and turned it off again.
+
+00:43:31.680 --> 00:43:34.020
+And maybe it was just, like, going into the library.
+
+00:43:34.020 --> 00:43:35.500
+Is this where that bug is?
+
+00:43:35.600 --> 00:43:37.220
+Because I didn't really run into it again later.
+
+00:43:38.120 --> 00:43:40.920
+But that was like, is this game going to do this the whole time?
+
+00:43:40.920 --> 00:43:47.080
+Yeah. And the Famicom version of Maniac Mansion is.
+
+00:43:48.440 --> 00:43:52.440
+It's a bit different in the art style from the NES one.
+
+00:43:52.520 --> 00:43:53.480
+They're not the same.
+
+00:43:53.740 --> 00:43:55.540
+The characters are redrawn.
+
+00:43:55.680 --> 00:43:58.140
+Not to be, like, chibi or anything.
+
+00:43:58.140 --> 00:44:01.000
+But they don't look like how they look in the NES version.
+
+00:44:01.460 --> 00:44:07.020
+And that, like, the house in general is just, like, pretty damn empty.
+
+00:44:07.020 --> 00:44:08.580
+Like, it's a little strange.
+
+00:44:08.740 --> 00:44:12.300
+Like, you have to pull it up on your own to kind of see it, what I'm talking about.
+
+00:44:12.440 --> 00:44:16.080
+But, like, it is a different game in that regard.
+
+00:44:16.300 --> 00:44:18.120
+Like, even the UI is different.
+
+00:44:18.320 --> 00:44:19.460
+It's in boxes.
+
+00:44:20.120 --> 00:44:27.200
+Maybe it was just, like, they wanted to make it more familiar to the kind of adventure games that Japanese players were playing.
+
+00:44:27.200 --> 00:44:35.360
+But it's kind of weird that they're not just, like, you know, identical ports of each other with, like, maybe some difficulty changes or something like we're used to talking about.
+
+00:44:35.580 --> 00:44:40.160
+They're kind of two different games that ultimately play the same exact way.
+
+00:44:40.160 --> 00:44:43.840
+Just the way that they look is completely presented differently.
+
+00:44:44.200 --> 00:44:50.860
+If I'm looking at them correctly, it does look like it comes from a different system entirely.
+
+00:44:51.620 --> 00:44:54.440
+Like, it looks worse, right?
+
+00:44:54.800 --> 00:44:56.480
+Oh, yeah, way worse. It looks Game Boy-ish or something.
+
+00:44:56.680 --> 00:44:59.360
+Yeah, yeah, yeah. Yeah. Game Boy-ish is what I would say.
+
+00:45:00.160 --> 00:45:03.960
+I don't know if the Game Boy could do this, but I know what you're saying.
+
+00:45:04.240 --> 00:45:05.620
+But even just, like, you know what I'm talking about?
+
+00:45:05.680 --> 00:45:08.540
+Like, why is the house so empty?
+
+00:45:08.800 --> 00:45:11.880
+Like, I feel like there's barely anything to find inside of it.
+
+00:45:12.060 --> 00:45:16.460
+Yeah, I'm just looking at stills, so I can't really see the emptiness of the house.
+
+00:45:16.600 --> 00:45:17.800
+But the style looks very different.
+
+00:45:17.800 --> 00:45:23.120
+It's also, all the rooms are as wide as can be.
+
+00:45:23.680 --> 00:45:26.880
+You see everything in them from when you enter the room.
+
+00:45:27.020 --> 00:45:33.820
+Yeah, it looks less like we're trying to go for some sense of, like, perspective.
+
+00:45:34.480 --> 00:45:38.000
+And more, like, here's a video game room.
+
+00:45:38.180 --> 00:45:42.500
+I don't know. And, Sean, you talked about the sequel, Day of the Tentacle.
+
+00:45:42.600 --> 00:45:54.040
+Did you play it? No, that was, like, you know, that's one of the, like, highest rated, or not rated, but, like, the most respected point-and-click adventure games of all time.
+
+00:45:54.240 --> 00:45:58.760
+And I had no idea that it was related to this game at all until starting to play this.
+
+00:45:58.840 --> 00:46:00.880
+So I kind of want to play it now.
+
+00:46:01.840 --> 00:46:03.120
+What system is it on?
+
+00:46:03.540 --> 00:46:04.880
+PC. Oh, okay.
+
+00:46:06.140 --> 00:46:09.920
+Day of the Tentacle is, like, in huge green letters.
+
+00:46:10.460 --> 00:46:15.280
+And then, like, Maniac Mansion is just, like, tucked in there in the top left.
+
+00:46:15.420 --> 00:46:16.460
+Like, Maniac Mansion.
+
+00:46:16.580 --> 00:46:17.480
+Day of the Tentacle.
+
+00:46:17.640 --> 00:46:19.320
+You know, it's like, I can understand that.
+
+00:46:20.000 --> 00:46:21.960
+It looks like... I didn't know that was part of that.
+
+00:46:22.280 --> 00:46:27.020
+Yeah. I have not played the game, but it does look like that's the mansion in the background.
+
+00:46:27.040 --> 00:46:34.940
+And the Tentacle, obviously, is hopefully the same tentacles that we had fun with in the first Maniac Mansion.
+
+00:46:35.260 --> 00:46:39.320
+That's funny. Where was the day of the Tentacle TV show for three seasons?
+
+00:46:40.700 --> 00:46:45.600
+If you did get stuck as a kid, you weren't stuck forever.
+
+00:46:45.600 --> 00:46:46.980
+However, you had...
+
+00:46:46.980 --> 00:46:49.700
+Nintendo Power actually got a...
+
+00:46:50.100 --> 00:46:52.580
+Maniac Mansion got a cover issue of Nintendo Power.
+
+00:46:52.740 --> 00:46:54.840
+That's pretty big. To be on the cover?
+
+00:46:55.060 --> 00:46:57.060
+Yeah. Like, that means you're going to get...
+
+00:46:57.060 --> 00:47:02.000
+You know, you're going to basically get, like, half a game guide inside your issue and everything.
+
+00:47:02.240 --> 00:47:05.100
+So, which it did. So you could have found out about things that way.
+
+00:47:05.420 --> 00:47:07.780
+Or for just $7.95.
+
+00:47:08.160 --> 00:47:09.560
+And that includes shipping and handling.
+
+00:47:09.660 --> 00:47:11.340
+That was what I was going to talk about, yeah.
+
+00:47:11.340 --> 00:47:16.620
+$7.95, a hint book with puzzle solutions, a map of the mansion.
+
+00:47:17.340 --> 00:47:21.280
+That sounds like a great buy, considering the game was $50.
+
+00:47:21.680 --> 00:47:24.380
+What's another $10 to just, like, figure out what to do?
+
+00:47:25.040 --> 00:47:26.420
+Wow, the game was $50?
+
+00:47:27.500 --> 00:47:29.040
+All of them were, apparently.
+
+00:47:29.600 --> 00:47:31.060
+NES games? Wait, NES games?
+
+00:47:31.800 --> 00:47:33.460
+$49.95 is what I was seeing.
+
+00:47:33.460 --> 00:47:36.860
+Really? Wow. That's a lot higher than I thought they would have been.
+
+00:47:37.160 --> 00:47:40.940
+I think I've heard some Super Nintendo games were selling for, like, $80.
+
+00:47:41.840 --> 00:47:44.980
+Wow. I knew that the N64 got, like, really high.
+
+00:47:45.100 --> 00:47:48.440
+I just didn't realize that before that they were that high.
+
+00:47:48.960 --> 00:47:53.000
+Well, yeah. I feel like N64 games were also $50 for me growing up.
+
+00:47:53.740 --> 00:47:55.440
+Maybe there was an exception here or there.
+
+00:47:55.960 --> 00:47:57.040
+PS1 was $50.
+
+00:47:57.540 --> 00:48:00.960
+Yeah, and then I remember it was, like, PS2 where they became $60, right?
+
+00:48:01.180 --> 00:48:03.340
+Yeah. And it's kind of weird.
+
+00:48:03.340 --> 00:48:05.980
+No, I think it was PS1 and 2 that was $50.
+
+00:48:06.280 --> 00:48:09.040
+And it wasn't until PS3 era.
+
+00:48:09.040 --> 00:48:10.180
+Oh, see, really?
+
+00:48:10.260 --> 00:48:12.440
+I remember $60 for PS2.
+
+00:48:12.760 --> 00:48:16.640
+Well, I'm saying you're wrong, and I'm not going to accept anything else.
+
+00:48:16.800 --> 00:48:21.780
+Oh, okay. Well, it's funny because, like, people are barely accepting of $70, but it's been, like, forever.
+
+00:48:22.060 --> 00:48:29.880
+You know? Yeah. Even if it was the PS3, like, I hate to tell people, but the PS3 came out a long time ago now.
+
+00:48:31.080 --> 00:48:38.320
+So, it's funny how, like, games probably need to be, like, $100 now just to even, like, be profitable.
+
+00:48:39.920 --> 00:48:40.900
+Don't let them hear you.
+
+00:48:41.080 --> 00:48:43.480
+I don't know. It's already happening with Grand Theft Auto 6.
+
+00:48:43.660 --> 00:48:45.680
+Nobody. It's inevitable.
+
+00:48:46.580 --> 00:48:51.020
+But, you see, like, I think that's, like, that's what you have to sell, right?
+
+00:48:51.120 --> 00:48:56.460
+So, like, Grand Theft Auto 6, I know, like, you'll pay the $100, Sean, right?
+
+00:48:56.600 --> 00:49:02.140
+Am I wrong? Of course. So, but what would you, where would you draw the line on Grand Theft Auto 6?
+
+00:49:02.680 --> 00:49:03.620
+Would you pay $110?
+
+00:49:04.220 --> 00:49:06.280
+Probably not. That's funny.
+
+00:49:06.340 --> 00:49:07.160
+So, $100 is the line.
+
+00:49:07.920 --> 00:49:09.100
+Yeah. Yeah, I mean, I get it.
+
+00:49:09.220 --> 00:49:13.140
+Like, especially you, like, we were just talking about, like, N64 games.
+
+00:49:13.340 --> 00:49:17.220
+Like, those were going for, like, $50, $60 at the time, too, right?
+
+00:49:17.900 --> 00:49:18.760
+$50, but yes.
+
+00:49:18.980 --> 00:49:22.780
+They were basically, I mean, inflation adjusted.
+
+00:49:23.080 --> 00:49:25.900
+Probably $70. Yeah, it's like a $100 and something dollar game.
+
+00:49:25.900 --> 00:49:35.560
+I guess, like, I understand that if it's going to be a Rockstar level, like, a Rockstar level
+
+00:49:35.560 --> 00:49:43.860
+of scale and detail and just how much stuff is in there, I'm kind of okay.
+
+00:49:43.860 --> 00:49:49.520
+If I had to pay $100 for Red Dead Redemption 2, I would be okay with it.
+
+00:49:50.680 --> 00:49:54.980
+But I'm not going to pay $100 for some, like, multiplayer game.
+
+00:49:54.980 --> 00:49:57.300
+Assassin's Creed. Yeah, Assassin's Creed or something like that.
+
+00:49:57.660 --> 00:50:02.960
+Right. So, anyway, this is very in the weeds, but you asked.
+
+00:50:03.420 --> 00:50:04.240
+Yeah, well, I did.
+
+00:50:04.240 --> 00:50:09.200
+Well, I've got something to bring us back that I've wanted to mention for a while that I would
+
+00:50:09.200 --> 00:50:10.000
+hate to miss.
+
+00:50:10.760 --> 00:50:16.400
+Just how impressed I am with the fact that there are, like, real-time events that happen
+
+00:50:16.400 --> 00:50:20.960
+in Maniac Mansion that are actually happening in the background while you're playing.
+
+00:50:21.260 --> 00:50:26.600
+Like, you can run into, you can see a cutscene where Ed is like, I gotta run down and get
+
+00:50:26.600 --> 00:50:31.840
+this thing. And then if you go, in the next few seconds, if you go in between where the thing he's
+
+00:50:31.840 --> 00:50:35.760
+going to get is and where he's coming from, you'll see him and he'll catch you.
+
+00:50:35.880 --> 00:50:42.580
+Yeah, but we didn't even talk about, like, the big thing here, which is they coined cutscenes
+
+00:50:42.580 --> 00:50:43.520
+with this game.
+
+00:50:43.680 --> 00:50:46.240
+Like, the term cutscene came from this game.
+
+00:50:46.880 --> 00:50:54.080
+The fact that in the manual, in quotations, it says cut-scene to describe what a cutscene
+
+00:50:54.080 --> 00:50:55.880
+is, that's astounding to me.
+
+00:50:56.160 --> 00:50:58.900
+Well, no, we didn't even talk about the really, really big thing.
+
+00:50:58.900 --> 00:51:03.400
+No, I'm just kidding. But is that the first time that they've ever used cutscenes?
+
+00:51:03.400 --> 00:51:05.580
+I think that's the pointing of the term, is this game.
+
+00:51:05.860 --> 00:51:09.140
+I can't confirm that, but I do know what John's talking about, that there is a section
+
+00:51:09.140 --> 00:51:12.580
+in the manual that just, like, has to tell you what a cutscene is.
+
+00:51:12.580 --> 00:51:18.080
+I mean, it also kind of is, like, the first example of, like, a cutscene, you know, like,
+
+00:51:18.640 --> 00:51:24.220
+where it's, like, an actual animated scene is happening in the middle of you doing other
+
+00:51:24.220 --> 00:51:31.280
+things. It does say that on videogamedictionary.com, which I'm gonna trust, videogamedictionary.com
+
+00:51:31.280 --> 00:51:36.500
+does say that the word cutscene was coined by Ron Gilbert for the game Maniac Mansion.
+
+00:51:36.780 --> 00:51:39.520
+We just stumbled upon history, guys.
+
+00:51:40.380 --> 00:51:42.800
+Wow. That's why we do it chronologically.
+
+00:51:44.640 --> 00:51:46.260
+And we've seen cutscenes before.
+
+00:51:46.560 --> 00:51:49.960
+You know, they just called it, I don't know, game movies?
+
+00:51:50.480 --> 00:51:53.680
+Yeah, yeah. Yep.
+
+00:51:53.920 --> 00:51:55.100
+You know what's interesting about that, Joe?
+
+00:51:55.240 --> 00:52:01.440
+The real-time thing you mentioned is, like, it's actually, it's all faked in a way.
+
+00:52:01.440 --> 00:52:07.320
+Like, there isn't a timer or, like, an end, you know, like, you have to complete in a certain
+
+00:52:07.320 --> 00:52:11.980
+time or whatever. Like, I know what you're talking about, and I'm not saying, like, I'm not trying to misconstrue
+
+00:52:11.980 --> 00:52:15.220
+what you said, but, you know, like, it shows you this event.
+
+00:52:15.220 --> 00:52:19.220
+It's not like there was a clock ticking waiting for that to happen.
+
+00:52:19.220 --> 00:52:23.340
+Like, it's triggered by something else in order to occur.
+
+00:52:23.540 --> 00:52:29.320
+It's not like there is what it kind of convinces you there might be, a actual, like, clock in
+
+00:52:29.320 --> 00:52:34.400
+the game saying, like, oh, now it's 830, like, this person's gonna go do this, right?
+
+00:52:34.580 --> 00:52:39.300
+Well, no, not to that extent, but I think that there, unless I've been tricked even more,
+
+00:52:39.380 --> 00:52:44.200
+I think there is a little bit of a clock where, like, you ring the doorbell, and Ed's like,
+
+00:52:44.220 --> 00:52:48.540
+I gotta go get the door, and now you have, like, 45 seconds to go into Ed's room before
+
+00:52:48.540 --> 00:52:51.360
+he gets the door and then comes back to his room.
+
+00:52:51.600 --> 00:52:53.020
+Yeah, yeah, yeah. I agree with you, yeah.
+
+00:52:53.140 --> 00:52:57.380
+That's what I'm saying is, like, but that only happens because the cutscene triggered it.
+
+00:52:57.480 --> 00:53:00.980
+Right, right, yeah. Right. There apparently is, like, I think there is a timer.
+
+00:53:01.480 --> 00:53:03.580
+Like, I think you can run out of time, though.
+
+00:53:03.960 --> 00:53:06.740
+Like, if you, if you fuck around too much.
+
+00:53:06.920 --> 00:53:08.720
+I thought I heard, I thought I heard that that wasn't true.
+
+00:53:09.320 --> 00:53:12.060
+Okay. No, but this is how rumors work, right?
+
+00:53:12.120 --> 00:53:16.840
+Yeah. Like, yeah. But there's also so much about, like, even when, you know, like I said, I started to get
+
+00:53:16.840 --> 00:53:20.100
+to the end of my, like, second playthrough where I'm like, I really want to beat this
+
+00:53:20.100 --> 00:53:22.320
+this time, and I did have to look some things up.
+
+00:53:22.460 --> 00:53:25.640
+It's not even that easy to look things up because it's like, there's so many things you can
+
+00:53:25.640 --> 00:53:29.060
+do in this game. I feel like even the internet isn't, like, sure about everything.
+
+00:53:29.420 --> 00:53:30.740
+Where it's like, yeah, you could do this.
+
+00:53:30.820 --> 00:53:33.460
+I'm like, well, wait a minute. I went here, and you're not even talking about that.
+
+00:53:33.660 --> 00:53:38.960
+Like, just think it's like, this is a hard game to talk about what actually can and can't
+
+00:53:38.960 --> 00:53:41.060
+happen because it's hard to confirm.
+
+00:53:41.600 --> 00:53:42.740
+No, I love that.
+
+00:53:42.900 --> 00:53:43.820
+I love that. Me too.
+
+00:53:43.980 --> 00:53:46.760
+This is not a factual thing we can talk about.
+
+00:53:46.980 --> 00:53:50.580
+Yeah. I think that's very important because I was just going to say, like, a lot of this game,
+
+00:53:50.600 --> 00:53:54.640
+you have to just, like, you have to talk about a very specific thing that, like, you know,
+
+00:53:54.800 --> 00:53:56.780
+we're not going to give, like, all the context or whatever.
+
+00:53:56.780 --> 00:54:02.880
+But since we have talked about mailing in the memoir, I do think it's worth mentioning
+
+00:54:02.880 --> 00:54:10.540
+that, like, kids today might not be able to, like, recognize why, like, how to do that
+
+00:54:10.540 --> 00:54:17.060
+because you have to lift the flag on the mailbox upwards to indicate that there's mail in there.
+
+00:54:17.060 --> 00:54:20.540
+And so, like, you would be like, I put the mail in the mailbox.
+
+00:54:20.820 --> 00:54:23.440
+Why isn't, why didn't it trigger the next step?
+
+00:54:23.560 --> 00:54:26.140
+And, like, you know, how many people do that?
+
+00:54:26.280 --> 00:54:28.120
+Like, lift their mailbox to the, there's mail in here.
+
+00:54:28.120 --> 00:54:32.580
+I've never even thought about, like, do kids know about lifting the flag on a mailbox anymore?
+
+00:54:32.760 --> 00:54:34.040
+No way. Zero percent chance.
+
+00:54:34.040 --> 00:54:36.440
+Did they not learn this? Yeah.
+
+00:54:36.520 --> 00:54:37.460
+In what class?
+
+00:54:38.060 --> 00:54:39.660
+I mean, in library class.
+
+00:54:39.820 --> 00:54:40.780
+Library class.
+
+00:54:40.780 --> 00:54:46.480
+Yes. I think maybe we're not giving enough credit to, you know, middle America right now,
+
+00:54:46.640 --> 00:54:48.600
+where I'm sure there's still lots of mailboxes.
+
+00:54:48.680 --> 00:54:53.160
+It's just, I don't think it's, it's not very often that you're sending letters anymore.
+
+00:54:53.760 --> 00:54:55.200
+Yeah, I think that's the issue.
+
+00:54:55.340 --> 00:55:00.100
+Yes. Because I think even people who are, who have mailboxes,
+
+00:55:00.240 --> 00:55:02.200
+and I don't have the cool mailbox with the flag.
+
+00:55:02.200 --> 00:55:04.960
+I just have, like, the one that's, like, attached to your house.
+
+00:55:06.000 --> 00:55:06.880
+What does that mean?
+
+00:55:07.020 --> 00:55:08.040
+Why can't that have a flag?
+
+00:55:08.420 --> 00:55:10.400
+No, no, because it's, like, you know, it's the one,
+
+00:55:10.400 --> 00:55:11.660
+well, because it's just flat.
+
+00:55:11.660 --> 00:55:14.000
+It's, like, a flap, and you just lift it up, and there's mail there.
+
+00:55:14.000 --> 00:55:15.300
+Oh, I see. You know what I mean?
+
+00:55:15.360 --> 00:55:20.060
+The flap house. Yeah, the flap house, where, where, where you mail your flaps.
+
+00:55:21.540 --> 00:55:23.720
+No, you know, like, I don't think, like, people are doing that.
+
+00:55:23.860 --> 00:55:26.660
+Like, it's, it's kind of, like, I wonder how many other, like,
+
+00:55:26.700 --> 00:55:28.680
+that was the one that stood out to me as, like, oh,
+
+00:55:28.920 --> 00:55:31.320
+I wonder how many people would not do that now.
+
+00:55:31.420 --> 00:55:34.200
+But, like, I'm sure this game is, you know, made in 1980.
+
+00:55:34.300 --> 00:55:38.200
+I'm sure it's filled with a lot of other, like, dated reference things that, like,
+
+00:55:39.120 --> 00:55:40.300
+might trip people up.
+
+00:55:40.300 --> 00:55:43.120
+The tapes and the cassette recorder and things like that, too.
+
+00:55:43.180 --> 00:55:44.140
+The tapes are back in.
+
+00:55:44.140 --> 00:55:44.980
+They'll get that.
+
+00:55:45.240 --> 00:55:46.060
+Yeah, and I was, I feel like.
+
+00:55:46.100 --> 00:55:47.460
+They're in. Yeah, they're in.
+
+00:55:48.020 --> 00:55:51.240
+Everything's in. I didn't know. Everything's expensive, and everything's collectible,
+
+00:55:51.320 --> 00:55:52.620
+and everybody wants everything.
+
+00:55:52.640 --> 00:55:54.260
+And if they don't have it, and you do,
+
+00:55:54.380 --> 00:55:55.540
+now they want it even more.
+
+00:56:16.100 --> 00:56:17.500
+HyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHy
+
+00:56:25.260 --> 00:57:19.660
+Thank you. Oh, I don't know how interesting that is.
+
+00:57:20.540 --> 00:57:24.000
+Really? Well, yeah, just because I feel like...
+
+00:57:24.000 --> 00:57:26.380
+Go for it. I mean, that's all I want to talk about.
+
+00:57:26.420 --> 00:57:28.900
+What happened differently in my game?
+
+00:57:29.080 --> 00:57:30.200
+And how did your game end?
+
+00:57:30.280 --> 00:57:31.780
+And what did you get? What didn't I get?
+
+00:57:32.120 --> 00:57:35.260
+Joe, please, tell us about your experience.
+
+00:57:35.880 --> 00:57:45.060
+Well, I mean, so I got the ending with using Bernard radioing the meteor police.
+
+00:57:45.940 --> 00:57:48.000
+And he told me he'd come in five minutes.
+
+00:57:48.140 --> 00:57:53.360
+And I had to get to the basement and find a way to unlock within five minutes to unlock the door.
+
+00:57:53.480 --> 00:57:56.640
+Because when he shows up, when the door is not unlocked, he just leaves.
+
+00:57:57.080 --> 00:58:00.120
+Oh, wow. That's kind of a pain in the ass.
+
+00:58:01.380 --> 00:58:04.100
+Yeah. So, but I mean, he leaves, but then you can call him again.
+
+00:58:04.860 --> 00:58:06.740
+So I ended up having to call him again.
+
+00:58:06.980 --> 00:58:10.200
+This is on my second playthrough, so I had already done something like this before.
+
+00:58:10.200 --> 00:58:12.180
+I ended up having to call him again.
+
+00:58:12.380 --> 00:58:13.880
+And he comes down.
+
+00:58:14.080 --> 00:58:14.940
+The thing's open.
+
+00:58:15.200 --> 00:58:18.860
+He, like, arrests someone into the tentacle or whatever.
+
+00:58:19.040 --> 00:58:20.600
+And then I have to go in there.
+
+00:58:20.740 --> 00:58:27.120
+I have to pick up his badge that he dropped, impersonate a meteor police to, like, get past the other tentacle.
+
+00:58:27.540 --> 00:58:35.600
+And then go in, put on a radioactive suit, and disarm the machine that apparently is controlling the doctor.
+
+00:58:36.280 --> 00:58:38.700
+And then he's like, oh, sorry, I'm a good guy.
+
+00:58:38.820 --> 00:58:40.480
+And, like, my bad. What can I do?
+
+00:58:40.620 --> 00:58:41.780
+Let me shut everything down.
+
+00:58:41.900 --> 00:58:48.420
+And, like, that was it. But, like, even as I'm watching things, now I'm seeing people, I'm seeing different endings of, like, them launching into space.
+
+00:58:48.420 --> 00:58:51.220
+I mean, you guys were talking about a totally different ending than I was.
+
+00:58:51.300 --> 00:58:52.980
+Like, I just, to me, that is, like.
+
+00:58:52.980 --> 00:58:54.640
+It was just a car launching into space?
+
+00:58:54.900 --> 00:58:56.260
+It was a car launching into space.
+
+00:58:56.260 --> 00:58:58.040
+Yeah, that's just a thing that can happen.
+
+00:58:58.180 --> 00:59:00.860
+That's not the end. The meteor, the meteor, the one's driving the car, right?
+
+00:59:00.980 --> 00:59:03.040
+Or, yeah, the meteor's the one driving the car, right?
+
+00:59:03.040 --> 00:59:08.420
+No, you can just have it accidentally launch into space and you blow up the garage.
+
+00:59:09.740 --> 00:59:15.080
+Right, right, right. But the good ending would be the meteor driving the car out, right?
+
+00:59:15.120 --> 00:59:16.560
+Oh, okay. I didn't get that ending.
+
+00:59:16.660 --> 00:59:17.720
+I know that was a thing.
+
+00:59:17.940 --> 00:59:20.420
+So did you guys get an ending?
+
+00:59:20.860 --> 00:59:23.660
+Yeah, it was the TV show ending.
+
+00:59:24.400 --> 00:59:26.080
+That's the one I strived for as well.
+
+00:59:26.080 --> 00:59:38.480
+I think what's funny about that one is, other than the talk show part, is that once you get the publishing contract for the meteor, the meteor tells Dr.
+
+00:59:38.640 --> 00:59:41.720
+Fred, release the women, all the women.
+
+00:59:41.940 --> 00:59:43.180
+We're going to be rich.
+
+00:59:43.500 --> 00:59:53.600
+Like, the first plan was, like, hey, if we just, like, take a, if we kidnap a bunch of women, or presumably they only have Sandy, but, like, if we kidnap a bunch of women, this is how we're going to get rich.
+
+00:59:53.600 --> 00:59:56.960
+And then he finds out about the publishing contract, and he's like, screw it.
+
+00:59:57.120 --> 00:59:58.340
+Now we're going to be rich.
+
+00:59:59.020 --> 00:59:59.900
+All the women.
+
+01:00:00.220 --> 01:00:01.720
+All the women is a weird line.
+
+01:00:02.040 --> 01:00:02.980
+It is a weird line.
+
+01:00:03.520 --> 01:00:06.740
+Yeah. All women everywhere are free.
+
+01:00:07.060 --> 01:00:08.480
+Maybe there's a bunch more we didn't know about.
+
+01:00:09.120 --> 01:00:10.000
+That's true, right?
+
+01:00:10.860 --> 01:00:12.960
+How, yeah, how deep did the dungeon go?
+
+01:00:13.320 --> 01:00:14.420
+Not that deep, actually.
+
+01:00:14.420 --> 01:00:23.920
+Yeah. Joe, I think if you're looking for any other endings, though, the other ending is just with Dr.
+
+01:00:24.420 --> 01:00:28.200
+Fred in front of the house and everything after you've called the meteor police.
+
+01:00:28.320 --> 01:00:31.320
+Is that, that's the one that you experienced, where he apologizes to you?
+
+01:00:31.840 --> 01:00:38.740
+Yeah, in front of the house at the very end, but the actual, like, ending action was in the basement, but yes.
+
+01:00:39.080 --> 01:00:43.620
+Yes, okay. So, yeah, so it's, those are, like, the five endings, if you will.
+
+01:00:44.320 --> 01:00:48.260
+Oh, okay. Now, did you guys, who did you guys use, other than Dave?
+
+01:00:48.660 --> 01:00:56.060
+I used Dave, Razor, because I thought, especially after, no, not after reading that alternate ending.
+
+01:00:56.360 --> 01:01:05.040
+I used Dave, Razor, and Bernard, and you made me wonder, is Bernard the only one who gets called the tuna head, or is somebody always going to run away?
+
+01:01:05.040 --> 01:01:07.380
+Because he's the only one that's, like, a bitch?
+
+01:01:07.680 --> 01:01:08.520
+No, that's right, yes.
+
+01:01:08.560 --> 01:01:13.560
+I was just wondering if it was, like, a scripted thing, where, like, someone, like, whoever's, like, the first character, like, runs away.
+
+01:01:13.560 --> 01:01:21.180
+We must have been using, like, the same walkthrough, because I also could not get too far in this on my own, in the time allotted.
+
+01:01:21.180 --> 01:01:39.260
+So, that was my lineup, but, like, he is probably the best character in terms of, like, uses, but that is his one downfall, is he will run away from the tentacle when you have to get into that one room.
+
+01:01:39.820 --> 01:01:41.580
+You need somebody else to do that.
+
+01:01:41.580 --> 01:01:50.760
+And then the worst character is, I think, the blonde guy, which is, I think he can, he can fix a telephone, and that's it.
+
+01:01:51.360 --> 01:01:55.000
+And, but, like, Bernard can do that, as well as other things.
+
+01:01:56.120 --> 01:01:57.600
+So, that's your trade-off there.
+
+01:01:57.700 --> 01:02:06.660
+It's really funny what you're talking about, Sean, because it's, like, Bernard is the nerd who can, like, fix things, and Razor and Sid both are musicians.
+
+01:02:07.100 --> 01:02:08.800
+Wendy's an aspiring novelist.
+
+01:02:08.960 --> 01:02:09.980
+Michael's the photographer.
+
+01:02:09.980 --> 01:02:11.960
+And Jeff can fix the telephone.
+
+01:02:13.200 --> 01:02:16.060
+Right. Well, and also, Dave is just the boyfriend.
+
+01:02:16.480 --> 01:02:19.740
+Right, he is. Yeah, he doesn't have any, he has no.
+
+01:02:19.880 --> 01:02:21.400
+Yeah. He has no identity.
+
+01:02:21.880 --> 01:02:23.880
+Yeah. He's the leader, though, obviously.
+
+01:02:23.980 --> 01:02:25.600
+He's the Tommy Pickles of the group.
+
+01:02:26.000 --> 01:02:26.840
+Yeah, right, right.
+
+01:02:27.100 --> 01:02:36.760
+But, you know, in my game, the one that I actually got through, Dave went to the dungeon pretty quickly, and then he was just exclusively my guy to get everybody else out of the dungeon.
+
+01:02:36.820 --> 01:02:38.100
+I did not use him the whole game.
+
+01:02:38.360 --> 01:02:39.700
+Be captured by the blue nurse?
+
+01:02:40.680 --> 01:02:42.920
+Yes. Yeah, that's what happened to me, too.
+
+01:02:43.780 --> 01:02:51.480
+Yeah. I did also use, at least on my second time, I used Bernard and Razor.
+
+01:02:51.620 --> 01:02:53.600
+So it's funny that we all ended up there.
+
+01:02:53.920 --> 01:02:55.900
+I mean, let's be honest. You can't get rid of Razor.
+
+01:02:56.180 --> 01:02:58.500
+Yeah, that's the canon, is Razor.
+
+01:02:58.500 --> 01:03:00.120
+My first time.
+
+01:03:00.160 --> 01:03:01.960
+Show me a redhead, I'm going to recruit the redhead.
+
+01:03:02.380 --> 01:03:07.560
+I used Bernard and Michael, because I thought the ace photographer was going to come in handy.
+
+01:03:07.900 --> 01:03:10.000
+I get it. You want him to be Spider-Man.
+
+01:03:10.000 --> 01:03:11.200
+Yeah, yeah.
+
+01:03:11.560 --> 01:03:12.840
+And I liked his music.
+
+01:03:13.240 --> 01:03:15.380
+You know what other music we enjoy?
+
+01:03:18.440 --> 01:03:21.660
+Maniac Mansion is an essential game.
+
+01:03:22.060 --> 01:03:24.000
+Whoa. Said it right away.
+
+01:03:24.000 --> 01:03:34.780
+The reason I said it right away, though, is because I stand by something I said in our Shadowgate episode, which is on the Essential Games list, but not with my vote.
+
+01:03:34.780 --> 01:03:37.660
+Shadowgate is also an essential game.
+
+01:03:37.920 --> 01:03:55.020
+One thing that I've been doing while talking about this episode is I've been talking about Maniac Mansion, the amazing game filled with lots of possibilities and plenty of comedic beats and just a great vibe overall.
+
+01:03:55.020 --> 01:03:56.580
+Just a great time with the game.
+
+01:03:56.860 --> 01:03:57.780
+Very chill, cozy.
+
+01:03:58.560 --> 01:04:01.820
+I really did not enjoy playing this on the NES.
+
+01:04:01.820 --> 01:04:15.680
+Now, I know Joe mentioned about the select hotkeys, and I agree that that was a welcome thing because it would have been really bad to have to, you know, constantly go down to the lower half of the screen and select your action.
+
+01:04:16.240 --> 01:04:24.680
+However, I just couldn't stop thinking about how much better this game must be with a mouse and keyboard to the point where I eventually just played it with a mouse and keyboard.
+
+01:04:25.460 --> 01:04:31.860
+Sure, the graphics are also better on the computer games, but I didn't think it was like, apparently, like, a lot of people hate the NES style.
+
+01:04:32.060 --> 01:04:33.900
+Like, I didn't think it was that bad or anything.
+
+01:04:33.960 --> 01:04:43.440
+I'm not keeping this off my, I'm not changing my vote to a no because of anything other than just the fact that I didn't like playing this with an NES controller.
+
+01:04:43.440 --> 01:04:55.120
+You give me a mouse and keyboard, this game still holds up no problem in 2025, but I can't in good faith put the NES version on our NES essential games list.
+
+01:04:55.260 --> 01:05:01.540
+And so I'm going to say no, but I won't be surprised to see a Shadowgate situation where this is on the list anyway.
+
+01:05:02.140 --> 01:05:05.560
+Sean? No, I actually kind of agree with you here.
+
+01:05:06.820 --> 01:05:10.240
+I at no point really had that.
+
+01:05:10.360 --> 01:05:23.440
+I was always charmed by the game, but maybe this is making me think about things and decisions made and about reasons for putting games on lists.
+
+01:05:24.860 --> 01:05:28.920
+Because that's exactly my, that was exactly my thought.
+
+01:05:28.920 --> 01:05:41.760
+Like, I wanted to play Day of the Tentacle because part of it's like, oh, it's this, but it's also like, it's, it, like, I can play it with the, with the input device that it's meant to be played with.
+
+01:05:42.020 --> 01:05:54.760
+Like, I remember I bought Myst on PS1 and I just could not, I could not abide by just using, like, a D-pad and some buttons.
+
+01:05:54.760 --> 01:06:02.900
+Like, I think that this is now me kind of mea culpa-ing Shadowgate in a way.
+
+01:06:03.600 --> 01:06:09.160
+Because again, both great games, but they are definitely not the perfect way to play them.
+
+01:06:09.300 --> 01:06:11.360
+So yeah, I'm going to, I'm going to keep it off as well.
+
+01:06:11.840 --> 01:06:15.600
+Joe, you can't put it on, but you could put it on your personal essential games list.
+
+01:06:15.740 --> 01:06:18.740
+What is your vote? Well, I'm crushed.
+
+01:06:19.700 --> 01:06:21.400
+But yeah, I'm voting this essential.
+
+01:06:21.620 --> 01:06:23.300
+Like, absolutely. I had so much fun with this.
+
+01:06:23.320 --> 01:06:24.840
+And I get what you're, what you guys are both saying.
+
+01:06:24.880 --> 01:06:31.940
+I mean, absolutely. This is clearly, like, would be a little more, would be more comfortable with a mouse, with a mouse and keyboard, I guess.
+
+01:06:32.120 --> 01:06:33.100
+Or just a mouse. Yeah.
+
+01:06:33.600 --> 01:06:35.700
+You wouldn't need the keyboard, actually, now that I'm asking it.
+
+01:06:35.880 --> 01:06:36.900
+I guess, I guess you wouldn't.
+
+01:06:37.060 --> 01:06:41.400
+But, but like, to me, it's just like not that big of a deal.
+
+01:06:41.400 --> 01:06:46.580
+It's not like I'm using, it's not like it's like a mouse where I'm like moving through 3D spam, just moving a cursor around the thing.
+
+01:06:46.700 --> 01:06:51.940
+So it's like, I agree that like it would be better that way, but like, I haven't played it that way to even compare it.
+
+01:06:52.140 --> 01:07:03.020
+And the amount of fun that I had with this game and like how impressed I was with everything you can do, how much this game is working in the background, all the different paths you can go on, the multiple endings.
+
+01:07:03.020 --> 01:07:15.940
+I mean, I mean, like, I'm itching to play this again and try a different ending and try, you know, doing things that, you know, I didn't complete last time and seeing all the things that I can do other, you know, other ways.
+
+01:07:15.940 --> 01:07:27.120
+And maybe I will try it on the, on the PC, but like, just don't know if just the lack of that mouse is like enough of a difference to say like, yeah, this is not an essential NES game.
+
+01:07:27.120 --> 01:07:30.160
+I think that, or like an essential game, like play this game.
+
+01:07:30.320 --> 01:07:36.700
+If you have an NES, like, I don't think you'll, at least I don't regret playing this on the NES.
+
+01:07:36.900 --> 01:07:38.740
+Like, I like. Well, I wouldn't say it's regret.
+
+01:07:38.960 --> 01:07:40.340
+Not enough. What's that?
+
+01:07:40.480 --> 01:07:42.720
+I don't know if it's regret is what we would describe it as well.
+
+01:07:42.720 --> 01:07:44.600
+Well, yeah, I'm not saying you guys regret it.
+
+01:07:44.740 --> 01:07:52.080
+I'm just, I'm just saying like playing it on the NES was a blast for me, regardless of like the, the, the inconvenience of using the D-pad.
+
+01:07:52.400 --> 01:07:53.940
+It just wasn't that big of a deal to me.
+
+01:07:53.940 --> 01:08:00.680
+So like everything else about this game was head and shoulders, like in the essential for me.
+
+01:08:00.760 --> 01:08:02.580
+So I, I got to stick with essential.
+
+01:08:03.420 --> 01:08:04.680
+Yeah, I think that's fair, Joe.
+
+01:08:04.800 --> 01:08:12.880
+And I also think, you know, you're hitting something correct there, which is a lot of, as I was saying in the episode, like, I don't think a lot of people experience this on computers first.
+
+01:08:12.880 --> 01:08:19.660
+Like, I think the NES entry was their, you know, even their gateway to point and click games at all, right?
+
+01:08:19.660 --> 01:08:22.420
+Like they might not have ever played a point and click computer game.
+
+01:08:22.560 --> 01:08:27.520
+And so, uh, maniac mansion opened that world for them with the NES controller.
+
+01:08:27.660 --> 01:08:28.800
+And that's what they had.
+
+01:08:28.940 --> 01:08:31.380
+Uh, obviously Sean and I aren't arguing that.
+
+01:08:31.380 --> 01:08:41.680
+And I think it's funny that somehow we've kept, uh, maniac mansion, which, uh, you know, I had a blast with off the essential games list while we're all agreeing that it is a great game.
+
+01:08:41.680 --> 01:08:43.560
+I stand by what I said, though.
+
+01:08:44.360 --> 01:08:49.700
+What happens so far on the episode to recap is, do you imagine?
+
+01:08:50.060 --> 01:08:55.080
+Uh, yeah, I have a bulletproof, uh, explanation for everything that's gone on so far.
+
+01:08:55.480 --> 01:08:58.540
+Everything, by the way, that we've said, uh, nothing was cut.
+
+01:08:58.780 --> 01:09:00.120
+Nintendo didn't censor us.
+
+01:09:00.220 --> 01:09:02.800
+We don't have to, uh, we can say damn.
+
+01:09:03.060 --> 01:09:07.040
+We can say, uh, shithead on this episode, despite, uh, what Sean thinks.
+
+01:09:07.200 --> 01:09:08.880
+Sean, I appreciate you for getting ahead of things.
+
+01:09:08.880 --> 01:09:17.200
+And speaking of getting ahead of things, if you want to get ahead, uh, we have, uh, next week we are playing, uh, a game that has NES in the title.
+
+01:09:18.220 --> 01:09:19.080
+That's pretty weird.
+
+01:09:19.960 --> 01:09:21.660
+That's, that's pretty, that's pretty hot.
+
+01:09:22.540 --> 01:09:24.220
+Uh, sorry, that's not next week, though.
+
+01:09:24.820 --> 01:09:26.060
+Yeah, it's not next week.
+
+01:09:26.380 --> 01:09:27.680
+It's, uh, the week after that.
+
+01:09:27.780 --> 01:09:28.700
+I was going off memory.
+
+01:09:29.000 --> 01:09:30.260
+Next week's Mission Impossible.
+
+01:09:30.500 --> 01:09:32.500
+Who cares? Who, who fucking cares?
+
+01:09:32.680 --> 01:09:51.160
+Mission Impossible.HyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHyHy Thank you.
