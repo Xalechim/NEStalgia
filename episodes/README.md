@@ -356,7 +356,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 396 | Palamedes | [notes](396-palamedes.md) |
 | 397 | The Punisher | [notes](397-the-punisher.md) |
 | 398 | Puzznic | [notes](398-puzznic.md) |
-| 399 | The Silver Surfer | [notes](399-the-silver-surfer.md) |
+| 399 | The Silver Surfer | [notes](399-the-silver-surfer.md), [transcript](../transcripts/399-silver-surfer.md) |
 | 400 | Werewolf: The Last Warrior | [notes](400-werewolf-the-last-warrior.md), [transcript](../transcripts/400-werewolf.md) |
 | 401 | WWF Wrestlemania Challenge | [notes](401-wwf-wrestlemania-challenge.md), [transcript](../transcripts/401-wwf-wrestlemania-challenge.md) |
 | 402 | Yo! Noid | [notes](402-yo-noid.md), [transcript](../transcripts/402-yo-noid.md) |
