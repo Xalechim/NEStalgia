@@ -10,6 +10,7 @@ import html
 import json
 import os
 import re
+import datetime
 import shutil
 import sys
 import urllib.parse
@@ -231,6 +232,26 @@ def card(r):
 
 
 MIG = SRC / "migrated"
+
+
+def up_next_html():
+    f = REPO / "data/next-episode.json"
+    if not f.exists():
+        return ""
+    n = json.loads(f.read_text())
+    art = ""
+    if n.get("has_art") and (REPO / "data/next-episode.jpg").exists():
+        (OUT / "art").mkdir(exist_ok=True)
+        shutil.copy(REPO / "data/next-episode.jpg", OUT / "art/next.jpg")
+        art = f'<img src="{BASE}/art/next.jpg?v={n["number"]}" alt="" width="200">'
+    when = ""
+    if n.get("publish_date"):
+        d = datetime.date.fromisoformat(n["publish_date"])
+        when = f'<div class="meta">Out {d.strftime("%A, %B")} {d.day}</div>'
+    blurb = f'<p>{E(n["extract"])}</p>' if n.get("extract") else ""
+    more = f'<p><a href="{E(n["wikipedia_url"])}" rel="noopener">Read more on Wikipedia</a></p>' if n.get("wikipedia_url") else ""
+    return (f'<h2>Up next</h2><div class="upnext{" has-art" if art else ""}">{art}<div><span class="n">Episode {n["number"]}</span>'
+            f'<h3>{E(n["title"])}</h3>{when}{blurb}{more}</div></div>')
 
 
 def load_migrated():
@@ -483,6 +504,7 @@ def main():
     body = f"""<div class="hero"><img src="{BASE}/logo.png" alt="NEStalgia">
 <p class="tag">A chronological exploration of <b>every</b> NES game released in North America. Join us and play along.</p>
 <div class="btns">{buttons}</div></div>
+{up_next_html()}
 <h2>Search the show</h2>
 <div id="search"></div>
 <script>window.addEventListener("DOMContentLoaded",function(){{new PagefindUI({{element:"#search",showImages:false,showSubResults:false,resetStyles:false}});}});</script>

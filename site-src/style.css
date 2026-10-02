@@ -245,3 +245,10 @@ button.ts:hover, button.ts:focus-visible { color: #fff; background: var(--red); 
 .mini-top { font: 700 12px var(--mono); color: #ff8a80; text-decoration: none; white-space: nowrap; }
 body.has-mini { padding-bottom: 66px; }
 @media (max-width: 480px) { .mini-top { display: none; } .mini-time { font-size: 11px; } }
+
+.upnext { display: flex; gap: 18px; align-items: flex-start; border: 2px solid var(--dark); padding: 16px; background: #fff; }
+.upnext img { width: 140px; height: auto; flex: none; border: 2px solid var(--dark); }
+.upnext h3 { margin: 2px 0 4px; }
+.upnext .n { font-family: var(--mono); font-size: 12px; color: var(--gray); }
+.upnext p { margin: 8px 0 0; }
+@media (max-width: 520px) { .upnext { flex-direction: column; } .upnext img { width: 120px; } }
