@@ -186,7 +186,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 219 | King's Knight | [notes](219-kings-knight.md) |
 | 220 | Nfl | [notes](220-nfl.md) |
 | 221 | P.O.W.: Prisoners of War | [notes](221-pow-prisoners-of-war.md) |
-| 222 | Sesame Street Abc | [notes](222-sesame-street-abc.md) |
+| 222 | Sesame Street Abc | [notes](222-sesame-street-abc.md), [transcript](../transcripts/222-sesame-street-abc.md) |
 | 223 | Sky Shark | [notes](223-sky-shark.md) |
 | 224 | Who Framed Roger Rabbit? | [notes](224-who-framed-roger-rabbit.md) |
 | 225 | Casino Kid | [notes](225-casino-kid.md) |
