@@ -22,6 +22,7 @@ from PIL import Image
 
 sys.path.insert(0, str(Path(__file__).parent))
 from build_episode_data import local_files  # noqa: E402
+from wikipedia_intros import boilerplate_only  # noqa: E402
 
 REPO = Path(__file__).resolve().parent.parent
 OUT = REPO / "site"
@@ -187,6 +188,14 @@ def render_transcript(path):
         elif ln.startswith("_") and ln.endswith("_"):
             note = ln.strip("_")
     return (f'<p class="note">{E(note)}</p>' if note else "") + "\n".join(parts)
+
+
+WIKI_INTROS = {}
+
+
+def load_wiki_intros():
+    f = REPO / "data/wikipedia-intros.json"
+    return json.loads(f.read_text()) if f.exists() else {}
 
 
 def last_modified():
@@ -480,6 +489,8 @@ def patrons_html():
 def main():
     data = json.loads((REPO / "data/episodes.json").read_text())
     OFFSETS = load_offsets()
+    global WIKI_INTROS
+    WIKI_INTROS = load_wiki_intros()
     # data/episodes.json can be a little stale (it is refreshed on a schedule); what is actually in the repo wins.
     for r in data:
         r["notes"], r["transcript"] = local_files(r["type"], r["number"], r["title"], r["feed_title"])
@@ -520,6 +531,13 @@ def main():
         )
         label = f"{r['number']:03d} · " if r["type"] == "episode" and r["number"] is not None else ""
         desc_html = "".join(f"<p>{linkify(p)}</p>" for p in r["description"].split("\n\n") if p.strip())
+        intro = WIKI_INTROS.get(str(r["number"])) if r["type"] == "episode" and boilerplate_only(r["description"]) else None
+        if intro and intro.get("text"):  # a real description above the Patreon boilerplate, credited to Wikipedia
+            credit = (f'<p class="src">From <a href="{E(intro["url"])}" rel="noopener">Wikipedia: {E(intro["title"])}</a> '
+                      f'(<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener">CC BY-SA 4.0</a>)</p>') if intro.get("url") else ""
+            desc_html = f'<p>{E(intro["text"])}</p>{credit}{desc_html}'
+        else:
+            intro = None
         panels = []  # (id, tab label, html)
         if notes:
             panels.append(("notes", "Show notes", f'<div class="panel">{notes}</div>'))
@@ -562,7 +580,7 @@ def main():
 <div data-pagefind-body>{tabs_html}</div>
 <div class="pn">{pn}</div>{'<script src="' + BASE + '/player.js" defer></script>' if (r["transcript"] or links_html) else ""}"""
         url = f"/episodes/{r['key']}/"
-        desc = r["description"].split("\n")[0]
+        desc = intro["text"] if intro else r["description"].split("\n")[0]
         if r["type"] == "episode" and r["number"] is not None:  # the game's name first: that is what people search for
             game = r["title"].title() if r["title"].isupper() else r["title"]
             seo_title = f"{game} (NES) · Episode {r['number']} · NEStalgia"

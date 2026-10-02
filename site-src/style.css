@@ -252,3 +252,4 @@ body.has-mini { padding-bottom: 66px; }
 .upnext .n { font-family: var(--mono); font-size: 12px; color: var(--gray); }
 .upnext p { margin: 8px 0 0; }
 @media (max-width: 520px) { .upnext { flex-direction: column; } .upnext img { width: 120px; } }
+.desc .src { font-size: 0.85em; color: var(--gray); margin-top: -6px; }
