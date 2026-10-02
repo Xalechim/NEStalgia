@@ -188,7 +188,54 @@ def render_transcript(path):
     return (f'<p class="note">{E(note)}</p>' if note else "") + "\n".join(parts)
 
 
-def page(title, body, path, desc="", image=None, search=False, current=""):
+def jsonld_tag(items):
+    """<script type=application/ld+json> for one or more schema.org objects (what Google reads to understand the page)."""
+    if not items:
+        return ""
+    data = {"@context": "https://schema.org", "@graph": items} if len(items) > 1 else {"@context": "https://schema.org", **items[0]}
+    return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False).replace("</", "<\\/") + "</script>"
+
+
+def iso_duration(seconds):
+    if not seconds:
+        return None
+    h, rem = divmod(int(seconds), 3600)
+    m, sec = divmod(rem, 60)
+    return "PT" + (f"{h}H" if h else "") + (f"{m}M" if m else "") + (f"{sec}S" if sec or not (h or m) else "")
+
+
+SERIES = {"@type": "PodcastSeries", "name": "NEStalgia", "url": f"{SITE_URL}/"}
+
+
+def series_jsonld():
+    return {**SERIES, "description": "A chronological exploration of every NES game released in North America, one game per episode.",
+            "image": f"{SITE_URL}/logo.png", "webFeed": "https://anchor.fm/s/5808ab8/podcast/rss",
+            "sameAs": [u for _, u in LINKS if u != "https://anchor.fm/s/5808ab8/podcast/rss"],
+            "inLanguage": "en"}
+
+
+def episode_jsonld(r, url, desc):
+    ep = {"@type": "PodcastEpisode", "name": r["title"], "url": f"{SITE_URL}{url}", "datePublished": r["published"],
+          "description": desc, "partOfSeries": SERIES, "image": f"{SITE_URL}/art/{r['key']}.jpg"}
+    if r["type"] == "episode" and r["number"] is not None:
+        ep["episodeNumber"] = r["number"]
+        ep["about"] = {"@type": "VideoGame", "name": r["title"].title() if r["title"].isupper() else r["title"],
+                       "gamePlatform": "Nintendo Entertainment System"}
+    if iso_duration(r.get("duration_seconds")):
+        ep["timeRequired"] = iso_duration(r["duration_seconds"])
+    if r.get("audio_url"):
+        ep["associatedMedia"] = {"@type": "AudioObject", "contentUrl": r["audio_url"], "encodingFormat": "audio/mpeg"}
+    return ep
+
+
+def breadcrumbs(*trail):
+    """trail = (name, path) pairs from the home page down; the last is the current page."""
+    return {"@type": "BreadcrumbList", "itemListElement": [
+        {"@type": "ListItem", "position": i, "name": n, "item": f"{SITE_URL}{u}"} for i, (n, u) in enumerate(trail, 1)]}
+
+
+def page(title, body, path, desc="", image=None, search=False, current="", jsonld=None):
+    """`path` is this page's address on the site (like /about/); it becomes the canonical link. Leave it empty for no canonical."""
     desc = desc or "A chronological exploration of every NES game released in North America."
     img = f'<meta property="og:image" content="{SITE_URL}{image}">' if image else f'<meta property="og:image" content="{SITE_URL}/icon.png">'
     pf = (f'<link href="{BASE}/pagefind/pagefind-ui.css" rel="stylesheet">'
@@ -201,11 +248,12 @@ def page(title, body, path, desc="", image=None, search=False, current=""):
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title>
+{f'<link rel="canonical" href="{SITE_URL}{path}">' if path else ""}
 <meta name="description" content="{E(desc[:200])}">
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc[:200])}">{img}
 <meta property="og:type" content="website"><meta name="twitter:card" content="summary">
 <link rel="icon" href="{BASE}/icon.png"><link rel="apple-touch-icon" href="{BASE}/icon.png">
-<link rel="stylesheet" href="{BASE}/style.css">{pf}</head>
+<link rel="stylesheet" href="{BASE}/style.css">{pf}{jsonld_tag(jsonld)}</head>
 <body><a class="skip" href="#main">Skip to content</a>
 <header class="site"><div class="bar"><a class="brand" href="{BASE}/"><img src="{BASE}/logo.png" alt="NEStalgia"></a><nav>{nav}</nav></div></header>
 <main id="main">{body}</main>
@@ -326,7 +374,7 @@ def build_migrated(data, write, card_html):
 <div class="prose">{prose(a["body"], ep_map)}</div></article>"""
         img = a["image"].replace("{BASE}", "") if a.get("image") else None
         write(a["path"].strip("/") + "/index.html",
-              page(f'{a["title"]} · NEStalgia', body, "", desc=a["excerpt"], image=img, current="articles"))
+              page(f'{a["title"]} · NEStalgia', body, "/" + a["path"].strip("/") + "/", desc=a["excerpt"], image=img, current="articles"))
     cards = "".join(
         f'<a class="card wide" href="{BASE}{a["path"]}/">'
         + (f'<img src="{(a["image"] or "").replace("{BASE}", BASE)}" alt="" loading="lazy">' if a.get("image") else "")
@@ -335,7 +383,7 @@ def build_migrated(data, write, card_html):
     features = f"""<h2>Features</h2><div class="btns" style="justify-content:flex-start">
 <a class="btn" href="{BASE}/essential/">Essential Games List</a><a class="btn" href="{BASE}/zapper/">The NES Zapper</a>
 <a class="btn" href="{BASE}/nrd1/">Nintendo R&amp;D1 games</a></div>"""
-    write("articles/index.html", page("Articles · NEStalgia", f'<h1>Articles</h1>{features}<h2>Writing</h2><div class="grid articles">{cards}</div>', "", current="articles"))
+    write("articles/index.html", page("Articles · NEStalgia", f'<h1>Articles</h1>{features}<h2>Writing</h2><div class="grid articles">{cards}</div>', "/articles/", current="articles"))
 
     # Pages
     for name, pg in pages.items():
@@ -344,7 +392,7 @@ def build_migrated(data, write, card_html):
         title = pg["title"]
         body = (f'<div class="rawpage">{inner}</div>' if wide else
                 f'<h1 data-pagefind-meta="title">{E(title)}</h1><div class="prose" data-pagefind-body>{inner}</div>')
-        write(f"{name}/index.html", page(f"{title} · NEStalgia", body, "", current="articles"))
+        write(f"{name}/index.html", page(f"{title} · NEStalgia", body, f"/{name}/", current="articles"))
         real.add(pg["path"].rstrip("/"))
 
     # Contact (the Squarespace form can't move to a static site)
@@ -352,7 +400,7 @@ def build_migrated(data, write, card_html):
 <p class="lede">Questions, corrections, or game suggestions? Join the conversation on Patreon, or tell us about a mistake in the show notes or transcripts by
 <a href="https://github.com/Xalechim/NEStalgia/issues/new">opening an issue on GitHub</a>.</p>
 <div class="btns" style="justify-content:flex-start"><a class="btn" href="https://www.patreon.com/nestalgia">Patreon</a>
-<a class="btn alt" href="https://github.com/Xalechim/NEStalgia/issues/new">Report a correction</a></div>""", ""))
+<a class="btn alt" href="https://github.com/Xalechim/NEStalgia/issues/new">Report a correction</a></div>""", "/contact/"))
     real.add("/contact")
 
     # Redirect pages for every old address that no longer has a real page
@@ -485,8 +533,11 @@ def main():
 <div class="desc">{desc_html}</div></div></div>
 <div data-pagefind-body>{tabs_html}</div>
 <div class="pn">{pn}</div>{'<script src="' + BASE + '/player.js" defer></script>' if (r["transcript"] or links_html) else ""}"""
+        url = f"/episodes/{r['key']}/"
+        desc = r["description"].split("\n")[0]
         write(f"episodes/{r['key']}/index.html",
-              page(f"{label}{r['title']} · NEStalgia", body, "", desc=r["description"].split("\n")[0], image=f"/art/{r['key']}.jpg", current="eps"))
+              page(f"{label}{r['title']} · NEStalgia", body, url, desc=desc, image=f"/art/{r['key']}.jpg", current="eps",
+                   jsonld=[episode_jsonld(r, url, desc), breadcrumbs(("Home", "/"), ("Episodes", "/episodes/"), (r["title"], url))]))
 
     # Episode list
     newest_first = sorted(data, key=lambda r: (r["published"], r["number"] or 0), reverse=True)
@@ -497,7 +548,7 @@ def main():
 <span id="count"></span></div>
 <div class="grid" id="grid">{''.join(card(r) for r in newest_first)}</div>
 <script src="{BASE}/app.js"></script>"""
-    write("episodes/index.html", page("Episodes · NEStalgia", body, "", current="eps"))
+    write("episodes/index.html", page("Episodes · NEStalgia", body, "/episodes/", current="eps"))
 
     # Home
     buttons = "".join(f'<a class="btn{" alt" if i > 1 else ""}" href="{u}" rel="noopener">{n}</a>' for i, (n, u) in enumerate(LINKS))
@@ -513,12 +564,12 @@ def main():
 <p style="margin-top:20px"><a class="btn" href="{BASE}/episodes/">Browse all episodes</a>
 <a class="btn alt" href="{SHEET_URL}" rel="noopener">Spreadsheet</a></p>
 {patrons_html()}"""
-    write("index.html", page("NEStalgia: every NES game, one episode at a time", body, "", search=True, current="home"))
+    write("index.html", page("NEStalgia: every NES game, one episode at a time", body, "/", search=True, current="home", jsonld=[series_jsonld()]))
 
     # Search page
     body = f"""<h1>Search</h1><p class="lede">Search every episode's description, show notes and transcript.</p><div id="search"></div>
 <script>window.addEventListener("DOMContentLoaded",function(){{new PagefindUI({{element:"#search",showImages:false,resetStyles:false}});}});</script>"""
-    write("search/index.html", page("Search · NEStalgia", body, "", search=True, current="search"))
+    write("search/index.html", page("Search · NEStalgia", body, "/search/", search=True, current="search"))
 
     # About
     body = f"""<h1>About</h1><p class="lede">NEStalgia is a podcast that works through every NES game released in North America, in release order, one game per episode.
@@ -530,7 +581,7 @@ Each episode covers the history, the development story, how the game plays and w
 The site updates itself when new episodes come out. Transcript speaker names are matched automatically and can be wrong on short interjections.</p>
 <p>Episode data is also available as <a href="https://github.com/Xalechim/NEStalgia/blob/main/data/episodes.json">JSON</a> and
 <a href="https://github.com/Xalechim/NEStalgia/blob/main/data/episodes.csv">CSV</a>.</p>"""
-    write("about/index.html", page("About · NEStalgia", body, "", current="about"))
+    write("about/index.html", page("About · NEStalgia", body, "/about/", current="about"))
     extra = build_migrated(data, write, card)
     urls = ["/", "/episodes/", "/search/", "/about/"] + extra + [f"/episodes/{r['key']}/" for r in data]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
