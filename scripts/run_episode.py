@@ -124,16 +124,8 @@ def transcribe_one(n: int, dry_run: bool) -> bool:
     return True
 
 
-def main() -> int:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("numbers", nargs="*")
-    ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--yes", action="store_true", help="publish without asking")
-    a = ap.parse_args()
-
-    raw = " ".join(a.numbers) or input(
-        "Which episode(s)? One number (401), several (401 402 405), or a range (401-410): "
-    )
+def run_batch(raw: str, a) -> int:
+    """Transcribe the episodes named in `raw`, then offer to publish them. Returns 0 if all went fine."""
     nums = parse_numbers(raw)
     if not nums:
         print("I couldn't read that. Use numbers like: 401   or   401 402 405   or   401-410. Nothing was done.")
@@ -159,6 +151,26 @@ def main() -> int:
     else:
         print("Okay, not published. They're saved on your Mac.")
     return 0
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("numbers", nargs="*")
+    ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--yes", action="store_true", help="publish without asking")
+    a = ap.parse_args()
+
+    raw = " ".join(a.numbers) or input(
+        "Which episode(s)? One number (401), several (401 402 405), or a range (401-410): "
+    )
+    code = run_batch(raw, a)
+    # Offer another round once this one is finished (and published, if you chose that). Only when someone is at the keyboard.
+    while not a.dry_run and sys.stdin.isatty():
+        if not input("\nTranscribe other episodes? (y/n): ").strip().lower().startswith("y"):
+            break
+        raw = input("Which episode(s)? One number (401), several (401 402 405), or a range (401-410): ")
+        code = run_batch(raw, a)
+    return code
 
 
 if __name__ == "__main__":
