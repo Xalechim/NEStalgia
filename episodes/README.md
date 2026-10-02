@@ -278,6 +278,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 314 | Cabal | [notes](314-cabal.md), [transcript](../transcripts/314-cabal.md) |
 | 315 | Captain Skyhawk | [notes](315-captain-skyhawk.md), [transcript](../transcripts/315-captain-skyhawk.md) |
 | 316 | Castle of Dragon | [notes](316-castle-of-dragon.md), [transcript](../transcripts/316-castle-of-dragon.md) |
+| 317 | Disney's Chip 'n Dale: Rescue Rangers | [transcript](../transcripts/317-chip-n-dale.md) |
 | 318 | Dragon Spirit: The New Legend | [notes](318-dragon-spirit-the-new-legend.md), [transcript](../transcripts/318-dragon-spirit.md) |
 | 319 | Heavy Shreddin' | [notes](319-heavy-shreddin.md), [transcript](../transcripts/319-heavy-shreddin.md) |
 | 320 | ImageFight | [notes](320-imagefight.md), [transcript](../transcripts/320-imagefight.md) |
@@ -311,12 +312,14 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 348 | Bigfoot | [notes](348-bigfoot.md), [transcript](../transcripts/348-bigfoot.md) |
 | 349 | Dick Tracy | [notes](349-dick-tracy.md), [transcript](../transcripts/349-dick-tracy.md) |
 | 350 | Narc | [notes](350-narc.md), [transcript](../transcripts/350-narc.md) |
+| 351 | Punch-Out!! Featuring Mr. Dream | [transcript](../transcripts/351-punch-out-featuring-mr-dream.md) |
 | 352 | Swords and Serpents | [notes](352-swords-and-serpents.md), [transcript](../transcripts/352-swordsandserpents.md) |
 | 353 | Total Recall | [notes](353-total-recall.md), [transcript](../transcripts/353-total-recall.md) |
 | 354 | Back to the Future Part II & III | [notes](354-back-to-the-future-part-ii-iii.md), [transcript](../transcripts/354-back-to-the-future-2-and-3.md) |
 | 355 | Garry Kitchen's Battle Tank | [notes](355-garry-kitchens-battle-tank.md), [transcript](../transcripts/355-battle-tank.md) |
 | 356 | The Bugs Bunny Birthday Blowout | [notes](356-the-bugs-bunny-birthday-blowout.md), [transcript](../transcripts/356-the-bugs-bunny-birthday-blowout.md) |
 | 357 | Castlevania III: Dracula's Curse | [notes](357-castlevania-iii-draculas-curse.md), [transcript](../transcripts/357-castlevania-3.md) |
+| 358 | Classic Concentration | [transcript](../transcripts/358-classic-concentration.md) |
 | 359 | Destiny of an Emperor | [notes](359-destiny-of-an-emperor.md), [transcript](../transcripts/359-destiny-of-an-emperor.md) |
 | 360 | Dragon Warrior II | [notes](360-dragon-warrior-ii.md), [transcript](../transcripts/360-dragon-warrior-2.md) |
 | 361 | Gauntlet II | [notes](361-gauntlet-ii.md), [transcript](../transcripts/361-gauntlet-ii.md) |
@@ -337,6 +340,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 376 | Street Fighter 2010: The Final Fight | [notes](376-street-fighter-2010-the-final-fight.md), [transcript](../transcripts/376-street-fighter-2010.md) |
 | 377 | Thunderbirds | [notes](377-thunderbirds.md), [transcript](../transcripts/377-thunderbirds.md) |
 | 378 | Time Lord | [notes](378-time-lord.md), [transcript](../transcripts/378-time-lord.md) |
+| 379 | Ultimate Basketball | [transcript](../transcripts/379-ultimate-basketball.md) |
 | 380 | Caveman Games | [notes](380-caveman-games.md), [transcript](../transcripts/380-caveman-games.md) |
 | 381 | Days of Thunder | [notes](381-days-of-thunder.md), [transcript](../transcripts/381-days-of-thunder.md) |
 | 382 | Gremlins 2: The New Batch | [notes](382-gremlins-2-the-new-batch.md), [transcript](../transcripts/382-gremlins-2.md) |
@@ -374,6 +378,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 414 | Shadow of the Ninja | [notes](414-shadow-of-the-ninja.md), [transcript](../transcripts/414-shadow-of-the-ninja.md) |
 | 415 | StarTropics | [notes](415-startropics.md), [transcript](../transcripts/415-startropics.md) |
 | 416 | Super Mario Bros/Duck Hunt/World Class Track Meet | [notes](416-super-mario-bros-duck-hunt-world-class-track-meet.md), [transcript](../transcripts/416-smbdhwctm.md) |
+| 417 | Super Spike V'Ball / Nintendo World Cup | [transcript](../transcripts/417-super-spike-vball-world-cup.md) |
 | 418 | TMNT II: The Arcade Game | [notes](418-tmnt-ii-the-arcade-game.md), [transcript](../transcripts/418-tmnt-ii-the-arcade-game.md) |
 | 419 | Thunder and Lightning | [notes](419-thunder-and-lightning.md), [transcript](../transcripts/419-thunder-and-lightning.md) |
 | 420 | Ultima: Quest of the Avatar | [notes](420-ultima-quest-of-the-avatar.md), [transcript](../transcripts/420-ultima-iv.md) |

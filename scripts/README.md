@@ -21,7 +21,14 @@ Local, free transcripts (paragraphs with timestamps, no speaker labels). Nothing
   serves (Megaphone inserts pre-rolls: 56-60 s on most recent episodes, 0 on others). It aligns loudness envelopes using only the first
   and last few MB of the hosted file (a full alignment is the fallback if the shift changes mid-episode) and writes
   `data/audio-offsets.json` as `{"446": [[0, 60.2]]}`. The site's `player.js` adds it when a timestamp is clicked. Run by `run_episode.py`.
-- Tests: `python3 scripts/test_paragraphs.py`, `python3 scripts/test_make_links.py`.
+- `new_episodes.py` (double-click `Check for New Episodes.command`) is the whole workflow for new episodes: fetch the feed, find episodes not yet
+  handled (state in `data/pipeline-state.json`: guids seen + a waiting list for episodes without a final mix), run `update_from_feed.py`
+  (data, art, index), `transcribe.py`, `audio_offsets.py`, optionally `make_links.py`, commit only its own paths, `git pull --rebase -X theirs`,
+  push, then watch the `Deploy website` run for that commit (via `gh`) and check the new pages return 200. First run baselines the back catalog
+  except recent untranscribed episodes. `--dry-run`, `--no-publish`, `--episodes N`, `--redo`, `--links`, `--use-hosted-audio`,
+  `--install-schedule` (a launchd agent, opt-in). Logs to `~/Library/Logs/nestalgia-new-episodes.log`. The Friday GitHub Action
+  (`update-from-feed.yml`) still refreshes data/art on its own; the two don't conflict (generated files from this script win a rebase).
+- Tests: `python3 scripts/test_new_episodes.py`, `python3 scripts/test_paragraphs.py`, `python3 scripts/test_make_links.py`.
 
 ## Auto-update from the feed
 

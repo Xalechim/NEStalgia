@@ -36,6 +36,13 @@ def main():
             table[num] = [title, []]
             order.append(num)
         table[num][1].append(f"[{kind}]({name})")
+    # Episodes that have a transcript but no show notes yet still get a row (title from the feed data).
+    feed_titles = {f"{r['number']:03d}": r["title"] for r in data if r["type"] == "episode" and r["number"] is not None}
+    for num in transcripts:
+        if num not in table and num in feed_titles:
+            table[num] = [feed_titles[num], []]
+            order.append(num)
+    order.sort(key=int)
     lines = []
     for num in order:
         title, links = table[num]

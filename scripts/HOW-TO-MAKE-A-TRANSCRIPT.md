@@ -10,7 +10,29 @@ Make sure the finished episode MP3 is in your iCloud NEStalgia folder, in `Mixes
 
 (That's how you already name them.)
 
-## Steps
+## The easy way: do everything for a new episode in one go
+
+When a new episode comes out, **double-click `Check for New Episodes.command`** (in the same `scripts` folder). It:
+
+1. checks your podcast feed for new episodes,
+2. adds the episode's information and cover art to the repo,
+3. makes the transcript from your final mix in `Mixes` (the file must be named like `NES 449 - Game Name.mp3`),
+4. measures the audio shift so the clickable timestamps land correctly,
+5. uploads everything to GitHub, and
+6. waits for the website to rebuild and tells you whether the new page is live.
+
+Things to know:
+- **The first time you run it**, it marks the episodes already in the feed as handled so it never redoes your back catalog. Any recent
+  episode that still has no transcript (like one that came out this week) is treated as new.
+- **If the final mix isn't in `Mixes` yet**, the episode goes on a waiting list and is picked up automatically the next time you run it.
+- **It only commits its own files**, so anything else you have in progress is left alone. Safe to run again: if nothing is new it says so.
+- **To preview without changing anything**, run `python3 scripts/new_episodes.py --dry-run` in Terminal.
+- **To make it run by itself every Friday** (Fridays 9:00 and 14:00, Saturdays 10:00, whenever your Mac is awake), run
+  `python3 scripts/new_episodes.py --install-schedule` once. A notification appears when it finishes. Turn it off with `--uninstall-schedule`.
+  The log is `~/Library/Logs/nestalgia-new-episodes.log`.
+- It does **not** write show notes, and it only finds web links if you ask (`--links`, needs an Anthropic key; otherwise use `/make-links`).
+
+## Making a transcript for one specific episode
 
 1. Open **Finder**.
 2. Go to your home folder, then **Developer**, then **nestalgia**, then **scripts**.
