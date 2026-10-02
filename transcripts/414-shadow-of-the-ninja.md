@@ -1,0 +1,417 @@
+# 414 - Shadow of the Ninja
+
+_Auto-generated transcript. Speaker names are matched automatically by voice and are not perfect, especially on short interjections. The opening name introductions are left as "Hosts"._
+
+**Mike** [00:00]: Shadow of the Ninja, use the arts of ninjitsu to overthrow the emperor. Shadow of the Ninja, and welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+**Hosts** [00:29]: I'm Mike. I'm Sean. And I'm Joe.
+
+**Mike** [00:32]: Well, we have a lot to discuss today because it's been a while since we had a ninja game on the show.
+
+**Joe** [00:37]: Yeah. Have we ever had a ninja game on the show?
+
+**Mike** [00:40]: Yeah, we've had a lot of shadow games. You know, you'll recall Shadowgate. Yeah. So we're very familiar on that topic.
+
+**Sean** [00:48]: Is there... I mean, I guess it's sort of like a superhero thing at this point, but like, I've never heard of, at least in the more recent years, of pop culture. Everything just being like one kind of thing. Like, is there some like more modern ninja, like in pop culture?
+
+**Joe** [01:12]: Right now? Yeah. I was saying not right now, but maybe like vampires 10 years ago.
+
+**Sean** [01:18]: Vampires. Yeah. But like, you weren't like, oh, this is so cool. Everyone's a vampire.
+
+**Mike** [01:24]: I mean, I guess... Actually, you were for a little bit. Yeah. I think everybody was doing that. And zombies. Remember when...
+
+**Sean** [01:30]: Yeah. Zombies. Walking dead. Yeah.
+
+**Mike** [01:31]: That's true. Zombies was getting kind of like so played out that I was just like, why don't they know... When were you going to get the one that like they knew about the zombies because they read about them in books first and then it happened? Like, why do they never have the zombie pop culture first?
+
+**Joe** [01:46]: That's true. I think that's like an interesting... There's two versions of possible worlds. One where these stories exist and one's where these stories came from.
+
+**Mike** [01:56]: Sure. But it's not like nobody ever heard of... Like, they were like, oh, ninjas. What's that from? Right? Well, yeah.
+
+**Joe** [02:01]: Ninjas are... Ninjas are not like... Ninjas don't translate to zombies in that sense that like one day everyone wakes up and suddenly zombies exist.
+
+**Mike** [02:08]: I know that. Yeah.
+
+**Sean** [02:10]: But you kind of did just wake up today in New York City in 1990. And there's just so many ninjas everywhere.
+
+**Joe** [02:20]: That is true. Like, every other episode of this podcast is about ninjas.
+
+**Mike** [02:24]: And a lot of them, Sean, do take place in New York City.
+
+**Sean** [02:28]: Yeah. Apparently, we're the ninja capital of the United States.
+
+**Mike** [02:33]: Yeah. Of the United States is important because they're coming from Japan and then they're saving America.
+
+**Sean** [02:37]: Well, there's nothing that's to say that they're from Japan, Mike.
+
+**Mike** [02:41]: That's very presumptuous of me.
+
+**Sean** [02:44]: I think that one of you mentioned recently on one of our many ninja episodes that like, oh, I wonder if it's a Ninja Turtles thing.
+
+**Joe** [02:51]: And the New York part kind of adds to that theory. Like, Ninja Turtles becoming popular might have just made ninjas in general popular.
+
+**Mike** [03:00]: Probably. And if you just forget the whole like, ninjas are popular at the moment, it's all coming out in December of 1990. If you didn't get a ninja game for Christmas that year and, you know, you were like old enough to tell the tale, like, your parents screwed up, right? They weren't into you. Like, they had like six options at Toys R Us. And they were like, nah, he doesn't need these.
+
+**Sean** [03:22]: Yeah. Probably weren't a very good son.
+
+**Mike** [03:26]: Shadow of the Ninja, though, to try to figure out what separates it, I guess, you know, it is a side-scrolling action game, just like a Ninja Gaiden, just like most ninja games are. But it has a heavy emphasis on the platforming part. Not that the other ones didn't, but that I feel like there's a lot of moving platforms. There's a lot of scrolling in the levels themselves, both vertically and horizontally, a lot of pitfalls. So while there is still like, you know, primarily a, I wouldn't call it a hack and slash, but some kind of like action game format where you're mostly just attacking enemies and moving to the right. There is this reliance on the platforms and specifically the, like the hanging from platforms. That's like a notable feature in this game is they want you to grip onto platforms from underneath them and kind of use them to monkey bar across to other platforms. Like a Ninja would.
+
+**Joe** [04:27]: Yeah, and I do appreciate that there's like this thing in this that's not just the design of the character or like the fact that like they have a sword or whatever that makes you feel ninja-like. Like, yeah, climbing onto these, you know, the ceiling or whatever, the top of, you know, having this like agility and also just the platforming being kind of part of the fight and not just part of the navigation where I did feel a lot of the times I had to like jump between attacks or like duck under someone and jump up to reach them, but jump back down. Like platforming felt like part of battling the enemies and not just how I get around.
+
+**Sean** [05:05]: Yeah, I agree. I appreciate that. And it also like the enemies that are also ninjas, like they actually, well, you can't do a lot of the cool ninja moves. They must be like higher. They must have like graduated in a higher class of ninja. Black belts. Yeah, because they can do like, they can do like roll jumps and at least maybe at least that like they are ninjas that can do these things. It's funny. You're right.
+
+**Joe** [05:34]: I just like until right now, I never really interpreted anyone else on screen as a ninja.
+
+**Sean** [05:41]: But me. There's definitely other things. There's only like so many ninjas, but ninjas do exist.
+
+**Mike** [05:47]: Yes. Yeah.
+
+**Joe** [05:48]: I mean, I'm seeing some of them now. I just thought like, oh, like this guy is just throwing shit.
+
+**Sean** [05:51]: You might also be like the most plotting, like least agile ninja. Yeah. Except when it comes to monkey bars.
+
+**Joe** [06:00]: Even that. I mean, I think it's a really cool mechanic, but it did. I think actually functionally that part, the monkey bar part sort of slowed me down more than, you know, as much as it looked cool. I feel like a lot has put me in the way of a of an attack that like and gave me like just that like one extra second of like time it took to get out of there. That got me killed.
+
+**Mike** [06:26]: But it's also very useful to like hang before you before you move up on the platform. Right. Like so you hang there and the enemy is above it and then you can choose like, OK, he fired his gun. Now I can swing up there and attack.
+
+**Joe** [06:42]: It's useful in the context of this game because it's because it's there. It's useful to do what you're saying. But would it not be more useful to just be standing below it and jump up and then jump back down?
+
+**Sean** [06:52]: Sure. Yeah. You can do that, too.
+
+**Joe** [06:54]: You can. See, I always had trouble doing that. Every time I tried to do that, I would just grab onto the ledge and then my timing would be off.
+
+**Mike** [07:00]: So I felt like I had to grab onto the ledge.
+
+**Sean** [07:02]: What I mean is that there are certain platforms that don't have. Yes. That are not flagged as monkey bars that you can do that, too.
+
+**Joe** [07:11]: I think part of my problem, too, was recognizing which ones were flagged as monkey bars and which weren't. So then sometimes I would think like, oh, I'm about to jump up and then I would grab the monkey bars. I'm being a little bit of a curmudgeon because it is a it is a cool mechanic that's like fun because it makes you feel like a ninja. But, you know, let's complain.
+
+**Mike** [07:26]: This is like an observation on my part. I don't know if it's intentional by the developer, but this was like one of the rare side scrolling games that I'm I might I'm not going to confirm it. But in my playthrough, enemies only ever showed up to the right of me as well. So kind of like as I'm progressing, there were no like back attack enemies. There were no like, you know, above from above, like nobody swooped in on you. And so it was kind of like even if there were multiple enemies in front of you, there was this like plan of attack to move forward, like always clear out the state, you know, the elements in front of you before you move on. And I feel like that's actually pretty smart in the game because the difficulty of some of these enemies, it is like it is hard to just go around them, to dodge them and just say, like, forget it. Like you kind of do want to fight them to move on.
+
+**Sean** [08:20]: I could have swore there were some that's sort of spawned behind you, but I I'll take your word for it.
+
+**Mike** [08:26]: Well, that's what I'm saying. I'm not saying that there's in my like head memory of this game. It was very rare or or again, like maybe not even at all until the later stages where it just feels like everything is coming in front of you. So you almost have like your little one on one encounters with everything if you played it slow enough. Yeah. And you kind of slowly pace through these battles as you move along the stages because the stages themselves are pretty short. There there's five total levels, but they're broken into different sections. So I guess there's like 14 total stages, but it's meant to be this, you know, I guess like if you're really good at the game, speed runnable, quick burst game. And if you're not, it's you could take it slower and really fight these enemies one by one and move continue to move to the right.
+
+**Sean** [09:13]: Yeah. No, there were there were definitely certain situations where I was just like, screw this. I'm going to try and jump over them and skip this fight. Right. And then I think the hit boxes of them are a little taller than it looks like, because I definitely could not do that. You are kind of forced to face off against the vast majority of these guys.
+
+**Joe** [09:37]: Yeah. And I do recognize, too, that, you know, a lot of them, if not definitely not all of them, but a lot of them do feel like little one on one duels, which I've praised in other games before. Where specifically Zelda 2, I really liked that in actually. But, um, but yeah, there's sometimes like I was like, also just like, I'm just going to like tank some damage and run through this guy because I'm not dealing with this right now. Particularly the guys, I think it's like in stage two. There's like these mecha looking guys, these robot looking guys that like you hit them once they like detach from their legs and fly up above you and start shooting you. Oh, yeah. And I'm like, I'm just going to take the hit and walk away. It's like I'll take less damage, definitively less damage because I'm going to get my ass kicked once this guy starts flying around.
+
+**Sean** [10:21]: That's a good point because they are pretty generous with the health here. Um, and I did end up making that game time decision of just like, I'll just walk through them. Yeah. And hopefully they'll despawn if I get far enough away. Um, uh, but yeah, I, I appreciated that this wasn't like a Ninja Ninja Gaiden, like one hit kill situation.
+
+**Mike** [10:46]: Was Ninja Gaiden one hit kill? I feel like it had a health bar.
+
+**Sean** [10:50]: Oh shit. Well, one of them is.
+
+**Mike** [10:52]: I'm sure. I'm sure one of them is every NES game ever is one hit. One of the Ninja games is.
+
+**Joe** [10:57]: There was a recent Ninja one that was one hit, I believe.
+
+**Mike** [11:00]: Yeah. Uh, anyway, the, uh, the mixture though of the, the, what we're talking about, the one-on-one battles and the platforming of it all. It does feel like it is the, the first of these Ninja side-gall action games that kind of rewards, uh, like your movement, like your control over the character more than just like being stronger or brute force or like attacking, you know, without care. Or I'm not trying to say that the game thought those things out, but like the enemy attack patterns and the spacing and everything, there is a way to like interpret where the projectile, because a lot of the enemies are projectile based. I thought that was kind of strange too, that they're not melee focused and they're mostly shooting lasers or other weird things at you. There's like a way to read where they shoot, how often they shoot, and then like how to go in for the kill. And whether that's like fun or not is up to the, the player themselves because it's a large part of the game and kind of slows down the game for the, uh, for the less skilled player. But it seems like the design intention. It is the year 2029 and, uh, Emperor Garuda has taken over New York City. Uh, I, I, I don't know though, in the manual, it just refers to it as the largest city in America. So are we just.
+
+**Sean** [12:22]: So he's the emperor and he just rules New York.
+
+**Joe** [12:27]: Yeah, a city. Yes.
+
+**Sean** [12:28]: He's like the mayor emperor. I guess we are the empire state. So. Yeah, yeah, yeah.
+
+**Mike** [12:34]: Yeah, the emperor state.
+
+**Sean** [12:37]: Yeah, I guess I, I need a little bit more, a little bit more details to, to see how, to see how seriously I should take this guy.
+
+**Mike** [12:44]: Well, is he just, maybe he's already taken over like Japan or Asia and now it's like he finally like took over the first part of America and it's like shit. He, he got New York City. It's just a matter of time before he gets, um, Iron Mountain, New Jersey.
+
+**Joe** [13:04]: Logical progression.
+
+**Mike** [13:06]: Yeah, yeah. So on in that order.
+
+**Sean** [13:08]: People only, like, New York City is only a target because you have to get through that to get to Iron Mountain, New Jersey.
+
+**Mike** [13:15]: Exactly. And Iron Mountain is, it just sounds strong. Like, whoever controls Iron Mountain has the respect of a lot of people.
+
+**Sean** [13:22]: Is this a real place, Mike?
+
+**Mike** [13:24]: Iron Mountain's a real place in New Jersey, yeah.
+
+**Joe** [13:26]: Yeah, it's where we would get our, uh, it's where we would get our tapes at Nickelodeon. Is that where you go?
+
+**Mike** [13:31]: All the VHS tapes.
+
+**Sean** [13:33]: The Jersey Shore? No, no, no.
+
+**Joe** [13:36]: This way I never realized that Iron Mountain was like a city. I thought it was like a company only that like we just think of it.
+
+**Mike** [13:40]: I don't think it's a city. I think that's why I chose it because I tried to pick as obscure a place as possible. But anyway, my point being, it's the year 2029. This can still happen. We have three years to find out if, you know, I'm not saying Emperor Garuda specifically, but there is still time for an emperor to take over New York City. Emperor Mondami? Dude. Okay. Maybe not. We'll workshop it. And there's only two ninjas up for the task? Or is it like, because they're part of a clan. Is it like they just send two ninjas? I don't know about you guys, but if they took over New York City, you'd think you'd ask for a little more help than just two ninjas.
+
+**Sean** [14:23]: Maybe they're all left. Or do they work best?
+
+**Mike** [14:24]: Yeah. Well, no, because it's like, yeah, they're the two ninjas of the Ega clan, Hayate and Lady Cade. And I guess I'm trying to figure out what is, yeah. Is it like an apocalypse situation where it's like, they're the only two left and they have to go in? Or is it like, these two only work well with each other?
+
+**Sean** [14:42]: I think that there's just better things that they can be doing, more ninja stuff.
+
+**Joe** [14:47]: Here's like, my headcanon is not that it's a low priority, that it's like, it's trying to be low profile. Where it's like, this, you know, this faction that's taken over New York City, like you cannot take them on head-to-head combat. You bring your army up against them, they're going to destroy you. They've got giant robot spider things and they're just, you need someone that can be a ninja, that can sneak in there, infiltrate, get to the heart of the conflict and take out the issue.
+
+**Mike** [15:13]: Ninja. But see, the interesting thing is that they can't, they can't be going on the stealth route because the manual also mentions that Garuda is aware that they have breached the outskirts of his city's defenses. And for the first time ever, he feels an inner chill.
+
+**Mike** [15:32]: He's supposed to be some badass emperor, but he's nervous that ninjas have infiltrated
+
+**Joe** [15:37]: New York City? Yeah, well, I think it's like, that's the thing. It's like, let's say you have a, you have a gun and somebody is coming at you like, okay, I can deal with this. But let's say you have a gun and there's a venomous ant coming for you. It's like, that's a lot harder to deal with right now. Or like a fly that's going to kill you if it bites you. That's, I feel like that's your ninjas where they're like, he knows they're there, but he just can't get ahold of them. They're too fast. They're too quick. They're, they're sneaky. They're, uh, they're agile. Whereas like an army, it's like, okay, yeah, we can fight an army.
+
+**Sean** [16:07]: Now what if the ants had little tiny guns too?
+
+**Joe** [16:10]: Well, then you're screwed. Yeah. Then, uh, it's, you know, I think about this whenever I play a game like God of War or Shadow of the Colossus, where I'm just like, if I'm like, if I'm putting myself in the, in the perspective of Colossus, but like, I'm just Joe and I'm standing there and there's a, there's a bug. There's a bug the size of like my, my pinky fingernail just jumping around my head, stabbing chains into my head. Cannot get it. I cannot swipe it just for like 20 minutes. It's like slowly, methodically taking me down. Uh, I don't know why I'm describing it.
+
+**Sean** [16:41]: Just a funny image to me, but I do. I have had dreams about, about insects.
+
+**Mike** [16:46]: Oh, that's it?
+
+**Sean** [16:47]: No, no, no dream that you want to share with us.
+
+**Mike** [16:50]: I think we're going to share like one dream. No, no, no. You just get to know that.
+
+**Joe** [16:54]: I don't think I believe that you've had dreams about insects.
+
+**Sean** [16:57]: I've had dreams about them, Joe.
+
+**Mike** [16:59]: Yeah. Okay. So the weapons of the ninjas, uh, there's the katana. That's your main weapon. Uh, you have the throwing stars. You have the, uh, chain and sickle, which gets a sick name. I don't know if I'm going to say this right, but it's the Kusari Gama. That sounds amazing. Ooh. That's apparently like, that's not even like the name of the web, like the nickname. That is the official like Japanese name for a chain and sickle weapon. It's a Kusari Gama.
+
+**Sean** [17:26]: Is that, I was going to say, maybe it's like, uh, like heartburn.
+
+**Mike** [17:31]: Okay. Yeah. If you say it the right way, maybe a little more emphasis. Kusari Gama. Um, no, I'm, I'm bailing out of this episode. Like I'm doing, that's over two now.
+
+**Sean** [17:42]: I'm on watch.
+
+**Mike** [17:44]: Uh, the last, I, the last weapon you get is a grenade. Should, should ninjas have grenades?
+
+**Joe** [17:50]: I think it might be kind of part, like more like a smoke grenade or like a poison thing. Right? Like that's like, I feel like I never really understood. I never knew ninjas to be like, have like explosives and, and poisons and like things like that until I, uh, played Pokemon. And like, that's what Koga was all about. And then I realized like, oh, it's like a big part of ninjas.
+
+**Mike** [18:09]: Isn't it? It is a big part of ninjas, but the smoke, the smoke part. Sure. You know, uh, uh, in actual, this is, this is referred to in the manual as a bomb. I was calling it because it just, you know, you toss it and then it blows up and it does hurt the enemies. It doesn't like, it would be interesting if instead it was a smoke thing to actually allow you to pass the enemies in a limited amount of time before it like wore off or something.
+
+**Sean** [18:33]: That would be cool. Uh, yeah. I don't know how, uh, lore appropriate the, the ninja bombs are. Uh, but I mean, I, I liked them. I think they, they, they handled well as a, as like a short term weapon.
+
+**Joe** [18:49]: It's my turn to mispronounce things here. The Horuku Haya are hand grenades that were used by ninjas centuries before firearms.
+
+**Mike** [18:58]: That's all. Oh, that's, that's metal. Then the whole game is actually lore accurate.
+
+**Joe** [19:03]: There's a small bomb typically thrown by hand. This is on Reddit. So it's true.
+
+**Mike** [19:08]: Hmm. And then if you're, you know, if you're really desperate, there is a way to just do a immensely powerful, practically screen clearing attack. Uh, that as a trade-off, you lose a chunk of your health. It's not something that has like limited uses. It's like you actually, uh, lose a lot of your health in exchange to, to get rid of a bunch of enemies. But it is a really cool, what I think of with ninjas is like, kind of like, uh, teleporting all around, attacking everything. And then the enemies just die. Like that's, that's amazing.
+
+**Sean** [19:42]: With that like really high pitched, like, shoot, shoot, shoot noise, right?
+
+**Mike** [19:48]: That's, yeah, that's not even just for effects. That's like something that actually would happen if it was done in real life.
+
+**Sean** [19:52]: Um, now I've been seeing this in gameplay footage, but when I played the game, I didn't know you could do that. What do you do to do that?
+
+**Mike** [20:02]: It's a great question. I was looking in the manual and can't find the answer in front of me, but I know I did it in my playthrough. So I just think it's weird that the manual doesn't call out how to do that thing.
+
+**Sean** [20:14]: Maybe it's select.
+
+**Mike** [20:15]: Uh, yeah, but you would think that they would say that, right?
+
+**Sean** [20:18]: You'd think. One would assume.
+
+**Mike** [20:20]: Maybe it was A and B together.
+
+**Sean** [20:23]: Now this is like some people and like not knowing could turn to a, into a tiger in that other tiger, that tiger, that other ninja game.
+
+**Mike** [20:31]: Ninja Crusaders. Yes. Which I was going to, thank you for teeing this up, Sean. I was going to ask about Ninja Crusaders is also like ninjas in the future in a city having to stop an invasion. But that was an alien invasion with robots. This one is more like a little, a little more grounded, at least like there's no aliens. There's no cyborgs. But eventually it does kind of just, they resort to using robots towards the end of the levels. Well, it is 2029.
+
+**Sean** [21:00]: So, I mean, we just made our own.
+
+**Mike** [21:02]: My question is like, which one is, which one's cooler? Forget about the plot wise, right? Like forget about hearing this one's about battling aliens and this one's about battling an emperor. Which game actually has like the cooler enemies in presentation?
+
+**Sean** [21:16]: I mean, I think this one, because it's like, a lot of them are like, there's a guy with a boomerang, which I think is cool. Like there's, you can't really beat the coolness of a guy with a boomerang. Um, and then there's a guy that has like a giant, like a giant tank that has like an energy sword underneath it. I'm not really sure what that was supposed to be, but that's how I'm, um, that's how I'm going to see it. Um, and then you've, you've got like that, this is that they didn't really change anything about the New York city skyline. Like it just is that, but that we also have robots and stuff. Um, so I'm going to go, I'm going to go with shadow of the ninja for, for, for cool, cooler vibe.
+
+**Joe** [22:05]: Yeah. I also, I do like that at least in the earlier levels and there are just like a lot of, yeah, other. Like humanoids, which I often like prefer over like some crazy mecha robot. If you're, if you're a human ninja, I want to fight other like ninja like enemies. Something about that just seems like more badass or like more intense than like fighting something completely different than what you are.
+
+**Sean** [22:30]: And there are, there are sections where you just fight a bunch of like, I don't know, Roombas. I want to call them like Roombas that are going too fast.
+
+**Joe** [22:40]: Yeah. I thought there were snails, but I'm like, I don't know why there'd be snails.
+
+**Sean** [22:44]: But there's still, there's still people.
+
+**Mike** [22:47]: That's good. There's people. Yeah. And to compare the two games on a different level, I also feel like size wise shadow of the ninja gets like the scale of everything better than a ninja crusaders did. Uh, they're really not even that far apart, but the, the, the viewpoint is a lot wider in, uh, ninja crusaders and shadow of the ninja just looks more like how NES games were looking in 1990. And ninja crusaders was looking more like 1987. If that makes sense. Like just, just, you know, now I look at these games on the NES and I can just tell you what year they look like they were made in.
+
+**Sean** [23:23]: Well, if you even want to talk about relative scale and like, yeah, this game has a B2 because if I'm going to turn into a, a freaking dragon, I better be more than like, uh, a sprite and a half of what I was before.
+
+**Mike** [23:40]: You know, you actually get smaller if you're the tiger too. Like you, you, you're like half the size. You're like a cat actually, not a tiger.
+
+**Sean** [23:48]: A house cat.
+
+**Mike** [23:49]: Yeah. Whereas like ninja, uh, shadow of the ninja, the, the boss battles in here, like especially some of those, uh, mechanical ones, like they're pretty big sprites.
+
+**Sean** [24:00]: I have another point about the boss battles. Um, please. I found it strange that I don't know if it's just that they only chose to show the bottom of their health bar or if there's some weird, uh, like trigger that you have to hit before you actually start taking away their health. Um, that like that maybe there's just health overflow that you're not seeing. Um, but did you guys like run into a situation where like you weren't actually taking any health away from these bosses until way into the fight?
+
+**Mike** [24:35]: Yes. Yeah.
+
+**Sean** [24:37]: See, I didn't notice that.
+
+**Mike** [24:38]: There's a few, there's a few times, especially later on where like you do have to hit them a few times before you will ever like knock off, like, and start seeing some chip damage.
+
+**Sean** [24:47]: I might've just thought I was being blocked or. Yeah. Like just make the, the health bar bigger.
+
+**Mike** [24:54]: Right. They should almost, or they should just make like each block representative of more. So this way it's like, okay, it does take like seven hits, but he does lose a block of health. And then another seven hits will lose that second block. Right. I think what you're saying, Sean, is that there's actually just like this invisible second bar that you can't see.
+
+**Sean** [25:14]: Because it took forever. Like I, I got to the final boss, but I, I was, you know, dying enough times, losing your power ups. It got to the point where I just had my regular sword and I was fighting the guy for like several minutes. Never got to a point where the damage was actually coming off of the enemy health bar. And I was just like, I'm going to watch how this game ends.
+
+**Joe** [25:38]: I think I, uh, might be conditioned to, to not be concerned about that from my experience with Kingdom Hearts. Cause that's, uh, that's how the Sephiroth boss battle, super boss in Kingdom Hearts is, is an invisible health bar.
+
+**Sean** [25:51]: Uh, and it used to really drive me crazy.
+
+**Joe** [25:54]: I didn't know like, well, what do I, how do I get this health to start going down?
+
+**Mike** [25:57]: And I didn't realize it was going down. I just couldn't see it. It's also cool when, uh, also in Kingdom Hearts, like, you know, when they have like multiple health bars where it's like different colors and it goes down. Yeah. It's like, okay, cool. I got rid of orange. Now I got to get rid of yellow.
+
+**Joe** [26:11]: Yes. I always loved that, uh, that mechanic. And I was always a little sad that they never went back to it and I never saw really anyone else do that either.
+
+**Mike** [26:19]: Yeah. I will say, you know, I, I just finished, um, the Legend of Zelda Tears of the Kingdom and that had a whole new take on the health bar for the final boss that, uh, I won't spoil. But I thought it was really, uh, well done and cool and a little cheeky.
+
+**Sean** [26:37]: Uh, the whole world is the health bar.
+
+**Mike** [26:40]: You know what, Sean? We should make a game. If you've got ideas like that, we should make a game.
+
+**Sean** [26:45]: Open world health bars.
+
+**Mike** [26:48]: The whole world is the health bar. And, uh, it's basically, um.
+
+**Joe** [26:54]: The more, it's like a, oh my God, it's like a PUBG, like, or like the more you hit the enemy, the world shrinks.
+
+**Sean** [27:00]: The more you hit the enemy, the world shrinks.
+
+**Joe** [27:03]: The world is the health bar. So you're, the health bar goes down.
+
+**Mike** [27:06]: Is that PUBG?
+
+**Joe** [27:08]: Yeah. Isn't that what that, like, uh, PUBG or Fortnite? The world shrinks. Fortnite.
+
+**Sean** [27:13]: The map shrinks. Fortnite is where the map closes. Okay. I get it.
+
+**Joe** [27:16]: Yeah. Is that not PUBG also? I thought that was like. Well, maybe.
+
+**Sean** [27:19]: I've never played PUBG, but I just, uh, I, I guess I, I'm thinking of the entire world shrinking.
+
+**Joe** [27:25]: Like the outside of the game.
+
+**Mike** [27:27]: I see. Yes. Yeah. I, I thought you were going to say, Joe, that this game, this proposed game that we're making is like Raid on Bungling Bay, where it's like. Where they break out of the game? No, everything's getting destroyed. And that, like, you know, you have to stop the threat from destroying your, your world. And your world is truly your health bar because if they destroy all your cities or something.
+
+**Sean** [27:48]: Oh, it's your own health bar.
+
+**Mike** [27:50]: Right. It's your own health bar.
+
+**Sean** [27:51]: I like it. Sure.
+
+**Joe** [27:53]: Let's make that.
+
+**Mike** [27:54]: In addition to all this that we're making, in addition to a podcast and a monthly bites episode, let's make a video game. Why not? That's how all video games started.
+
+**Joe** [28:03]: A monthly video game. How hard could it be?
+
+**Mike** [28:06]: Expedition 33 started as a Reddit post. The guy was like, hey, anybody know how to make games? And then they wound up making that.
+
+**Sean** [28:14]: I'm sure no one with expertise helped him along the way.
+
+**Mike** [28:17]: Right, right, right. But that is the truth, actually. It was like seven years ago. He was like asking if anybody wanted to like, I think, be the voice actors of the demo and also compose music. And that's how they found their composer or something.
+
+**Sean** [28:33]: Very interesting.
+
+**Mike** [28:34]: No, they found their composer on SoundCloud. I'm mixing stories. But whatever, this is not an Expedition 33 podcast, so it's fine.
+
+**Mike** [29:23]: And then probably the biggest thing that only Joe and I can talk about is that there is once again, multiplayer, two playable characters at the same time.
+
+**Sean** [29:33]: Every goddamn time. You know what, though, Sean?
+
+**Joe** [29:37]: If it makes you feel better? Until this moment, once again, I forgot that we played this one.
+
+**Mike** [29:42]: Well, because we played this one the same. We played this one almost in succession to Ninja Crusaders. So they're probably just blending to you as games. Because it's like, yeah, another one of these.
+
+**Joe** [29:51]: They felt exactly the same. Yeah.
+
+**Mike** [29:52]: But here's the interesting thing. Here's the hook. And I think it's actually a negative hook, but it's a good challenge, at least. We were talking about how Ninja Crusaders, you use continues. You kind of like gamify it with two players to help progress. In Shadow of the Ninja, the two players share all the resources. So continues are shared.
+
+**Sean** [30:17]: Is your health bar shared?
+
+**Mike** [30:18]: Is it shared? The health bar is not shared. Okay. But basically, like, you know, any items you have and stuff like that. So it's very, it becomes more of like a cooperative experience for real. Like, you know, we have to really make sure that one of us isn't just dying all the time or else we'll run out and continue together.
+
+**Joe** [30:38]: Remind me, is it like if I pick up the chain weapon and you have the chain weapon as well?
+
+**Mike** [30:44]: No, no, because that's, well, actually, that I didn't, I don't think we ran into in our playthrough. So I don't want to speak to that. But I'm pretty sure that's not the case. That'd be an interesting idea, right?
+
+**Sean** [30:56]: Yeah. That'd be super annoying.
+
+**Mike** [30:59]: Yeah, that's what I'm saying. It's like, it's kind of interesting because I feel like two player on the NES should always just, like, it should awake the power of having friends and games should be easier because you brought along a second driver. You know, it's like the game doesn't need to scale up difficulty with the two of you. It's just like you brought, like, your cheat code in real life.
+
+**Joe** [31:23]: Yeah, I think that there's a balance. Like, I don't think it needs to scale up too much. You also don't want it to be, yeah, you don't want it to be like, oh, this isn't a game anymore or, like, it's not a challenge because there's two of us or, you know.
+
+**Mike** [31:36]: Yeah, this isn't a video game anymore now that there's a second player.
+
+**Joe** [31:41]: Yeah, right, and that's how that works. Right. I think for me what's more important is that the game is designed around co-op and it's not like new Super Mario Brothers where it's like, oh, we're just all screwing each other over endlessly because, like, it's really just kind of a, I don't want to say it was, like, shoehorned in the multiplayer, but it's like the game's designed for single player. I think that makes the most difference for me.
+
+**Mike** [32:06]: Sure, that makes sense. There are two sequels and spinoffs, but neither one, well, let's start with the first one that's interesting, is that there was a Game Boy version being worked on of Shadow of the Ninja, but the project was reworked and re-released as Ninja Gaiden Shadow, which is very interesting because that's not even the same publisher. Like, this is now Ninja Gaiden's under Tecmo, so they took a Shadow of the Ninja game and turned it into a Ninja Gaiden game, and if you look at Ninja Gaiden Shadow, which I guess keeps, it's kind of like a combination of the two, a lot of it is obviously with Ryu, but he, it looks like Ninja Gaiden, but it plays like Shadow of the Ninja, that there is still a lot of, you know, hanging from platforms and a lot of similar, like enemies and mechanics from this NES game brought over to the Game Boy 1, so I see it for sure that it was going to be Shadow of the Ninja. I just wonder, how do you change, like, hands that far, that it becomes a completely different franchise that you don't own?
+
+**Sean** [33:19]: It sounds like, from what you're saying, it sounds like they made Ninja Gaiden Gaiden. Right, right. Like a true Gaiden game that has nothing really to do with the original, with the actual franchise, and it's like, oh, we'll still put the name on it. That might not be how, like, Gaiden games get made, but that's how I'm choosing to see it.
+
+**Mike** [33:40]: And then in 2024, two years ago, we would have said last year, not too long ago, Shadow of the Ninja Reborn.
+
+**Sean** [33:50]: And next year, right.
+
+**Mike** [33:52]: Shadow of the Ninja Reborn was released on basically everything, Switch, PS5, Xbox Series X, Steam. And this looks, they simultaneously made a very good-looking game, in my view, like, kind of a metal slug-looking-ish game, but also retaining a lot of the aesthetic of this NES game, so kudos to them on that. But this game looks very flashy and fun, from what I'm seeing here. It looks like they just took the ideas from this NES game and expanded on it times 100. Even the enemies behave similarly to the way they behaved in the NES game, but everything just, like, you know, again, it's just, it's more colorful, more polished, more, just a beautiful art style here. However, the game seems to have a reputation for being very hard, too. So I don't know if I would pay the bucks to see this one, but visually, just looking at a gameplay thing, like, it's very mesmerizing to look at. So if anyone's played it, would love to hear if it holds up. Because it, yeah, it looks like a true, like, we're inspired by the original game, and we finally went back and made it. Like, that's very interesting that Netsumi seems to be doing this
+
+**Sean** [35:13]: with their games, going back into the catalog.
+
+**Mike** [35:16]: I could be convinced to play this. Could I convince you to move on and do the Essential Games list?
+
+**Mike** [35:27]: Shadow of the Ninja is coming in as a recommend from me, especially if you've been enjoying these other ninja games that we've had. And this might just be where it falls in the list, and it just gets, like, shitty, which is kind of upsetting because it's also alphabetical when it comes down to month. But at this point, I'm a little tired. We've had Little Ninja Brothers. We've had Ninja Crusaders. Now we have Shadow of the Ninja. Technically, I guess you could count Jackie Chan's Action Kung Fu in there as well. So it just feels like all a little played out for me, and it's not sticking anymore. Like, this game doesn't stand out enough to warrant it. And that also makes me worried about, I remember Joe voting Essential on Ninja Crusaders, and I was like, I want to hold off. Now I'm worried that I'm not going to be too hype on that game. So I guess what I'm saying is that, like, there actually is genre fatigue, even when you're exposed to it, like, years later. Like, I'm somehow as fatigued as probably people were at this time with ninja stuff. Of, like, you know, all of a sudden, Digger T-Rock Legend of the Lost City is looking pretty good. Like, yeah, we don't have enough caveman games.
+
+**Mike** [36:39]: So it's a no from me.
+
+**Sean** [36:41]: Sean? I'd say of the ninja games that we've played, I've had the most fun with this one. I don't really have real, like, complaints with the game, aside from some, like, like, not being very clear on if you're doing damage to bosses,
+
+**Mike** [37:01]: even though some of them are very,
+
+**Sean** [37:04]: it's very obvious that you're doing damage. There's a guy that just sort of, like, blows up when you hit him a few times.
+
+**Mike** [37:12]: But he comes back together at the end.
+
+**Sean** [37:15]: Yeah, so I really like this game. I also might have some ninja fatigue, though, with just how frequently they're coming up recently. So I don't know if I can put this on the essential games list right now. But, you know, I don't quite remember Ninja Crusaders. So maybe once we've sort of done a once-over, we can think about it. So not essential for now.
+
+**Mike** [37:44]: Joe? Yeah, this was pretty fun.
+
+**Joe** [37:46]: I thought it was a fun game. I think that the word mediocre is kind of, like, a mean word. And I feel like mediocre means, like, you know,
+
+**Sean** [37:58]: it's not terrible, but, like, it's not great.
+
+**Joe** [38:00]: And it's used in, like, a negative way.
+
+**Sean** [38:03]: And I want to find, like, the other side of mediocre where it's like...
+
+**Joe** [38:06]: Solid. Yeah, it's not amazing, but, like, it's all right. You know, like, that's kind of, like, I think that mediocre also technically might count there, but it just doesn't sound like it. But that's what I mean.
+
+**Sean** [38:15]: It's fine. You know, I had fun.
+
+**Joe** [38:18]: I think you should play this. But, like, I'm not... I would not feel right voting at essential. So I'm going to say no.
+
+**Mike** [38:25]: Sean, your comment about the exploding bosses reminded me that this was something that I read about but could definitely not, like, recreate in my playthrough is that there was a theory, I guess, online that how close you are to the explosion of the boss, like, dictates how much health replenishes. But in my experience, your health just replenishes a little bit, like, X amount once you defeat the boss and it doesn't matter where in the room or how close to the boss you were.
+
+**Sean** [38:57]: Interesting. And you're talking about the one specific boss
+
+**Mike** [39:01]: or you're talking about bosses in general? No, no, yeah, that first boss.
+
+**Sean** [39:05]: Oh, yeah. I was also confused because sometimes, like, he would explode at you and sometimes he would explode away from you and I wasn't sure if that was just completely random. So it seems like there's a lot of, like, just weird randomness going on with that boss.
+
+**Mike** [39:22]: Yeah. But also, you know, the bosses in general, while it is weird about their hitboxes, I did like even just the one-on-one human or humanoid characters that you fight in this game. They had good behaviors and made for interesting boss fights, not just, like, hide in a corner or this is too fucking hard. Yeah. But we're not going to revisit the game. It's much too soon for that. We'll wait till our best of 1990 episode, which is coming up. We have Star Tropics next week. Pretty big game. A lot of people said that they're going to unsubscribe if we don't vote at Essential. I'm immune to your threats, people. You can't. That stuff doesn't work on me. You see what I've done with Zelda 2. Don't make me do that to Star Tropics. On a similar note, though, and I don't really know what I meant by that,
+
+**Sean** [40:17]: so don't read it. It's too late. Cannon, ring that bell.
+
+**Joe** [40:22]: You heard it here first. He only did it as a political statement.
+
+**Sean** [40:26]: I, for one, genuinely don't really like Zelda 2.
+
+**Joe** [40:29]: It doesn't matter. Me and Mike do, so it would be essential if he wasn't so political.
+
+**Mike** [40:33]: Well, we'll see. Anyway, after Star Tropics, we have a weird thing going on, okay? And I want to make the audience aware of it. There are two combo games or compilation games. One of them is Super Mario Brothers Duck Hunt World Clash Track Meet, and one of them is Super Spike V-Ball Nintendo World Cup. We've already played these games, obviously. All five of these. Yeah, they're being compiled because I'm sure Nintendo wanted to bundle up some new stuff for the holidays, and so I just want to prepare people that we will still do these episodes, and we might talk a little bit about these games, but I also have other topics that I would like to discuss on these episodes. So when you see the titles, don't automatically assume that I'm just going to paste three episodes together and count that as a new episode. We will have some offbeat shenanigans in those episodes.
+
+**Sean** [41:27]: We can't do a Mr. Dream thing anymore.
+
+**Joe** [41:30]: I was just going to say, we should take the word track meet and replace it with Mr. Dream every time.
+
+**Mike** [41:35]: Right. That was a fun episode, too, though. People should listen to that one. We'll be right back.

@@ -6,25 +6,23 @@ _Auto-generated transcript. Speakers identified from the hosts' separate microph
 
 **Sean** [00:02]: the Space Mutants. Space Mutants are invading Springfield.
 
-**Mike** [00:21]: Nostalgia And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+**Mike** [00:21]:  And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
 
 **Hosts** [00:30]: I'm Mike. I'm Sean. And I'm Joe.
 
-**Mike** [00:34]: Nostalgia The whole gang is here. We got Mike, Sean, and Joey Jojo Jr.
+**Mike** [00:34]:  The whole gang is here. We got Mike, Sean, and Joey Jojo Jr. Shabadoo. 
 
-**Joe** [00:40]: Shabadoo. Nostalgia
+**Joe** [00:41]: Hey, don't say my full name, okay?
 
-**Mike** [00:41]: Hey, don't say my full name, okay?
+**Sean** [00:43]:  I can't believe you just doxxed it.
 
-**Sean** [00:43]: Nostalgia I can't believe you just doxxed it.
+**Mike** [00:44]:  Yeah, we never revealed that.  Yeah, Joey Jojo Jr. Shabadoo.  Yeah, Joe, that's the worst name I've ever heard.
 
-**Mike** [00:44]: Nostalgia Yeah, we never revealed that. Nostalgia Yeah, Joey Jojo Jr. Shabadoo. Nostalgia Yeah, Joe, that's the worst name I've ever heard.
+**Sean** [00:51]:  Yeah, that's why I don't use it.
 
-**Sean** [00:51]: Nostalgia Yeah, that's why I don't use it.
+**Mike** [00:53]:  Now, you guys wouldn't know this because I think we have to tell our audiences like you guys don't give a shit about The Simpsons.
 
-**Mike** [00:53]: Nostalgia Now, you guys wouldn't know this because I think we have to tell our audiences like you guys don't give a shit about The Simpsons.
-
-**Sean** [01:01]: Nostalgia I like Futurama Nostalgia Two episodes is nuts.
+**Sean** [01:01]:  I like Futurama  Two episodes is nuts.
 
 **Mike** [01:06]: Same Yeah So, yeah, so it's not like Matt Groening ever did anything to you guys.
 
@@ -36,7 +34,7 @@ _Auto-generated transcript. Speakers identified from the hosts' separate microph
 
 **Sean** [01:17]: Present-a-rama? Yeah, present-a-rama
 
-**Mike** [01:47]: Nostalgia
+**Mike** [01:47]: 
 
 **Mike** [02:19]: They happen to make a game that features The Simpsons. And this one especially with Bart versus the Space Mutants. I'm aware that like some of the movies that Bart would see featured Space Mutants and stuff like that. But there was they are not characters in the show. This is not like a this is not even a reference that you should know. It's kind of weird that Bart is fighting anything right?
 

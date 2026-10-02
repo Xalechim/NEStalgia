@@ -1,0 +1,1369 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.540
+<v Mike>The Untouchables, live an American legend.
+
+00:00:19.630 --> 00:00:27.160
+<v Mike>And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:27.460 --> 00:00:28.300
+<v Hosts>I'm Mike.
+
+00:00:28.480 --> 00:00:29.300
+<v Hosts>And I'm Sean.
+
+00:00:29.300 --> 00:00:36.620
+<v Mike>Sean, without Joe here, I'm going to be expecting to see some enthusiasms from you today.
+
+00:00:37.280 --> 00:00:41.900
+<v Sean>Enthusiasm. Are you implying that I don't usually have enthusiasm?
+
+00:00:42.860 --> 00:00:49.240
+<v Mike>Uh, it's just a line from the movie of which the game is based on, and I couldn't help but
+
+00:00:49.240 --> 00:00:54.160
+<v Mike>work it in because I have to reward myself for watching the movie, something I probably should
+
+00:00:54.160 --> 00:00:55.080
+<v Mike>have done a long time ago.
+
+00:00:55.080 --> 00:01:00.500
+<v Mike>But, um, I did watch this movie in advance this episode, mostly because I saw it was a De Palma
+
+00:01:00.500 --> 00:01:02.580
+<v Mike>film and I haven't seen one of those.
+
+00:01:02.580 --> 00:01:04.160
+<v Mike>I haven't liked. So I was like, sure.
+
+00:01:04.800 --> 00:01:05.880
+<v Mike>Yeah. Give me more. Yeah.
+
+00:01:06.020 --> 00:01:09.760
+<v Sean>I definitely had the thought cross my mind to watch it.
+
+00:01:09.760 --> 00:01:12.960
+<v Sean>And I'll definitely do that someday.
+
+00:01:13.560 --> 00:01:14.580
+<v Mike>I would say it was.
+
+00:01:15.180 --> 00:01:20.620
+<v Mike>Okay. So I'm not putting it up there in like the pantheon of great movies or anything, but like
+
+00:01:20.620 --> 00:01:26.580
+<v Mike>it was one of those ones where like 40 minutes into the movie was, you know, like I'm still
+
+00:01:26.580 --> 00:01:27.640
+<v Mike>not looking at the watch.
+
+00:01:27.640 --> 00:01:29.760
+<v Mike>Like I'm just, I'm enjoying everything has it.
+
+00:01:29.820 --> 00:01:30.620
+<v Mike>There's set pieces.
+
+00:01:31.040 --> 00:01:34.780
+<v Mike>There's a lot of like homages to like classic film stuff.
+
+00:01:34.780 --> 00:01:39.520
+<v Mike>A lot of, a lot of, you remember in film school, we would always have to watch Battleship
+
+00:01:39.520 --> 00:01:41.780
+<v Mike>Podikin. Potemkin.
+
+00:01:43.120 --> 00:01:44.100
+<v Mike>Yeah. I can never say it right.
+
+00:01:44.660 --> 00:01:45.740
+<v Mike>Uh, we had to watch a lot of that.
+
+00:01:45.860 --> 00:01:48.640
+<v Mike>There's actually like an entire scene that's just like an homage to that.
+
+00:01:48.660 --> 00:01:49.600
+<v Sean>It's the baby in the thing, right?
+
+00:01:50.080 --> 00:01:51.260
+<v Mike>Yeah. In the, his stroller.
+
+00:01:51.380 --> 00:01:53.240
+<v Sean>Yeah. Because we'll get to it.
+
+00:01:53.900 --> 00:01:55.400
+<v Mike>Yeah. Sure. Of course we'll get to it.
+
+00:01:55.400 --> 00:02:00.220
+<v Mike>Um, but whether we're talking about the game or we're talking about the movie, uh, in the
+
+00:02:00.220 --> 00:02:05.900
+<v Mike>untouchables, uh, video game, you are Elliot Ness in the, um, film.
+
+00:02:06.100 --> 00:02:12.000
+<v Mike>It's Kevin Costner and, uh, Al Capone, who in the film is played by Robert De Niro run
+
+00:02:12.000 --> 00:02:18.840
+<v Mike>Chicago. Uh, you have a gun that holds two bullets at a time and, uh, good luck.
+
+00:02:19.720 --> 00:02:22.360
+<v Mike>I mean, that's, that's part of it.
+
+00:02:22.940 --> 00:02:24.260
+<v Mike>Yeah. That's most of it.
+
+00:02:24.260 --> 00:02:33.300
+<v Mike>Um, now the, the film, the film was made in 87, the, the game in 91, but the film is
+
+00:02:33.300 --> 00:02:41.260
+<v Mike>based on a 1959 TV show itself based on the 1957 memoir itself based on, of course, the
+
+00:02:41.260 --> 00:02:43.360
+<v Mike>actual prohibition era federal investigation.
+
+00:02:44.060 --> 00:02:49.760
+<v Mike>So by the time this game reached the NES in January of 1991, the source material has been
+
+00:02:49.760 --> 00:02:53.700
+<v Mike>adapted, readapted, uh, you know, loosely of course too.
+
+00:02:53.840 --> 00:02:55.360
+<v Mike>Like none of this shit actually happened.
+
+00:02:55.580 --> 00:02:59.620
+<v Mike>Uh, so it's been filtered through so many layers that the question really isn't whether
+
+00:02:59.620 --> 00:03:02.360
+<v Mike>the game would be faithful to the real untouchables.
+
+00:03:02.360 --> 00:03:05.380
+<v Mike>It's just which version of the legend it was even trying to be.
+
+00:03:05.380 --> 00:03:10.400
+<v Mike>Like why, why make a game based on a movie that happened four years ago?
+
+00:03:10.760 --> 00:03:13.740
+<v Sean>I mean, we, we've had this several times already.
+
+00:03:14.040 --> 00:03:18.720
+<v Sean>Like, uh, we didn't, we have jaws like 13, maybe not.
+
+00:03:19.200 --> 00:03:21.140
+<v Mike>But I think jaws is like iconic enough, right?
+
+00:03:21.260 --> 00:03:23.060
+<v Mike>Like jaws warrants it.
+
+00:03:23.160 --> 00:03:24.940
+<v Mike>Indiana Jones franchise play.
+
+00:03:25.060 --> 00:03:29.800
+<v Mike>It warrants it. You know, I'm not sure that like we're ever going to get the untouchables too.
+
+00:03:30.100 --> 00:03:34.520
+<v Sean>Do you think maybe we just, they just thought maybe it was going to be that like it just
+
+00:03:34.520 --> 00:03:39.080
+<v Sean>had enough staying power that it was still like a must see.
+
+00:03:39.280 --> 00:03:43.220
+<v Sean>Whereas today it's just like you, you've probably seen.
+
+00:03:44.360 --> 00:03:48.580
+<v Mike>Well, you know, I usually save this for like sequels and spinoffs, but it's worth mentioning
+
+00:03:48.580 --> 00:03:52.860
+<v Mike>because we're talking about it right now, but the delayedness of it all it, this game
+
+00:03:52.860 --> 00:03:55.780
+<v Mike>then also gets a super Nintendo version in 1993.
+
+00:03:56.560 --> 00:03:57.780
+<v Sean>That that's insane.
+
+00:03:58.180 --> 00:03:59.540
+<v Sean>Right. Like, like, like, I just felt the need.
+
+00:03:59.640 --> 00:04:03.120
+<v Mike>Like where was, I bet, I'm sure people were waiting for the PlayStation version.
+
+00:04:03.320 --> 00:04:05.900
+<v Sean>Yeah. The N64 version of untouchables.
+
+00:04:05.900 --> 00:04:08.180
+<v Mike>Like it's just supposed to come with every console generation.
+
+00:04:08.180 --> 00:04:10.000
+<v Mike>You're supposed to get an untouchables game.
+
+00:04:10.560 --> 00:04:11.600
+<v Sean>That's pretty wild.
+
+00:04:12.340 --> 00:04:17.440
+<v Mike>And it was developed by special FX software and published by ocean software.
+
+00:04:17.440 --> 00:04:20.900
+<v Mike>Now special FX was formed by X ocean employees.
+
+00:04:20.900 --> 00:04:27.700
+<v Mike>So they, I guess, wanted to become independent and ocean knowing the talent that was there.
+
+00:04:27.840 --> 00:04:32.460
+<v Mike>They basically offered them a deal that gave them the publishing rights to anything special
+
+00:04:32.460 --> 00:04:37.280
+<v Mike>effects developed in exchange, I guess, for their like licenses.
+
+00:04:37.620 --> 00:04:41.720
+<v Mike>So that's how they wound up making a lot of these movie games like the untouchables.
+
+00:04:41.780 --> 00:04:47.000
+<v Sean>So you say like just knowing the talent that was there as if like this is it should, should
+
+00:04:47.000 --> 00:04:50.920
+<v Sean>I know ocean is this, is this like kind of like knowing.
+
+00:04:51.220 --> 00:04:55.180
+<v Mike>Oh, no, I guess I'm saying like, it's just, it's just an inside thing, you know, like they
+
+00:04:55.180 --> 00:04:56.340
+<v Mike>know what they're losing.
+
+00:04:56.540 --> 00:04:59.360
+<v Mike>So rather than lose the employees are like, yeah, you can still make the games and we'll
+
+00:04:59.360 --> 00:05:00.860
+<v Sean>publish them. I see.
+
+00:05:00.960 --> 00:05:02.020
+<v Sean>Okay. Yeah.
+
+00:05:02.120 --> 00:05:03.800
+<v Mike>So there was like a deal between them.
+
+00:05:03.800 --> 00:05:07.520
+<v Mike>Uh, and no, the, the game itself.
+
+00:05:07.720 --> 00:05:12.060
+<v Mike>I mean, this is a game that changes what kind of game it is almost every level.
+
+00:05:12.060 --> 00:05:13.580
+<v Mike>It's a shooting gallery.
+
+00:05:13.580 --> 00:05:14.940
+<v Mike>It's a side scroller.
+
+00:05:14.960 --> 00:05:16.120
+<v Sean>It's a top down action.
+
+00:05:16.700 --> 00:05:22.760
+<v Sean>The, uh, Ghostbusters slash back to the future philosophy of movie games.
+
+00:05:23.400 --> 00:05:28.580
+<v Mike>Yeah. I mean, it's really like, it's just an anthology of gameplay styles stitched together around
+
+00:05:28.580 --> 00:05:33.260
+<v Mike>these newspaper headlines, uh, that, you know, call back to the prohibition era.
+
+00:05:33.740 --> 00:05:39.580
+<v Mike>And I think the, the, that's what we have to talk about first is just that, that genre
+
+00:05:39.580 --> 00:05:42.000
+<v Mike>hopping structure is what makes it so notable.
+
+00:05:42.000 --> 00:05:47.340
+<v Mike>So if we want, we can just kind of go through each game and talk about it a little bit.
+
+00:05:47.720 --> 00:05:49.280
+<v Mike>Yeah, sure. All right.
+
+00:05:49.280 --> 00:05:54.820
+<v Mike>So we start on, uh, they're, they're called scenes and, uh, it's scene one, but also scene
+
+00:05:54.820 --> 00:05:57.080
+<v Mike>four are both, uh, alley shootouts.
+
+00:05:57.240 --> 00:05:59.600
+<v Mike>And these are third person shooting galleries.
+
+00:05:59.940 --> 00:06:01.840
+<v Mike>Gangsters pop out of windows and doorways.
+
+00:06:02.020 --> 00:06:08.020
+<v Mike>You are hiding behind, uh, a brick wall and then come out and you move across hair to fire.
+
+00:06:08.540 --> 00:06:09.380
+<v Sean>Sounds great.
+
+00:06:09.600 --> 00:06:14.740
+<v Mike>But, uh, one, as I mentioned early on, Ness brings a gun that can only hold two rounds
+
+00:06:14.740 --> 00:06:17.400
+<v Mike>at a time, which in real life, you know, sure.
+
+00:06:17.400 --> 00:06:18.820
+<v Mike>That totally makes sense.
+
+00:06:19.060 --> 00:06:22.540
+<v Mike>But, but like in a video game, that's not going to be very fun.
+
+00:06:23.200 --> 00:06:28.340
+<v Mike>Um. The premise is you peek out, peek out of cover, shoot your two shots, go back into cover to
+
+00:06:28.340 --> 00:06:33.880
+<v Mike>reload. But I guess what I'm saying is like the, the cursor moves so slowly.
+
+00:06:34.140 --> 00:06:39.280
+<v Mike>Yes. And the enemies appear and disappear so quickly that when you're, when you're doing all of
+
+00:06:39.280 --> 00:06:44.300
+<v Mike>this, this is the one where it's like, oh, this would have been so much better if it
+
+00:06:44.300 --> 00:06:45.400
+<v Mike>had light gun compatibility.
+
+00:06:45.400 --> 00:06:53.400
+<v Sean>Yeah. I mean, I wouldn't say that the whole premise of having two shots per, like, I don't know,
+
+00:06:53.700 --> 00:06:55.980
+<v Sean>pop out isn't itself bad.
+
+00:06:55.980 --> 00:07:04.120
+<v Sean>I think that if you found a way to use the, uh, the light gun in a better way, or no, sorry,
+
+00:07:04.220 --> 00:07:09.400
+<v Sean>just like use a control, uh, control scheme in a better way, uh, then that could be pretty
+
+00:07:09.400 --> 00:07:15.200
+<v Sean>cool. Namely, in this case would be using a light gun, but no, we get another, we get another
+
+00:07:15.200 --> 00:07:19.440
+<v Mike>sort of cursor, cursor shooter, which.
+
+00:07:19.560 --> 00:07:22.220
+<v Mike>Yeah. And the cursor shooters are, yeah, it's just so tough.
+
+00:07:22.280 --> 00:07:28.260
+<v Mike>Cause like I, I even find for FPSs in general, which I am ready to completely admit that I
+
+00:07:28.260 --> 00:07:30.040
+<v Mike>am bad at them. Like laughably bad.
+
+00:07:30.520 --> 00:07:37.120
+<v Mike>If, if I'm in, uh, if I'm playing doom or unreal with somebody, uh, they're always going
+
+00:07:37.120 --> 00:07:39.920
+<v Mike>to get to me first. Like I just, I don't have the reflexes for it.
+
+00:07:39.920 --> 00:07:41.240
+<v Mike>Even with a mouse and keyboard.
+
+00:07:41.240 --> 00:07:47.580
+<v Mike>I, yeah, I don't have it, but especially with a D pad, I definitely don't have it.
+
+00:07:47.740 --> 00:07:51.640
+<v Mike>And these guys are not like peeking their head out and being like, Hey, what's going
+
+00:07:51.640 --> 00:07:52.500
+<v Mike>on out here?
+
+00:07:52.580 --> 00:07:54.640
+<v Mike>And looking around and then going back inside.
+
+00:07:54.640 --> 00:07:58.240
+<v Mike>They're like peeking out, shooting at you and then they're right back in there.
+
+00:07:58.340 --> 00:08:02.520
+<v Sean>Like every time you see a gunshot is hitting you in the chest.
+
+00:08:02.980 --> 00:08:08.160
+<v Sean>Um, if, if your health bar is to be believed and I'm not sure why you're wearing a really
+
+00:08:08.160 --> 00:08:11.720
+<v Mike>good bulletproof vest because you have, you can take a crazy amount of shots.
+
+00:08:13.180 --> 00:08:18.180
+<v Sean>Um, now when you, did you read the manual first?
+
+00:08:18.860 --> 00:08:20.720
+<v Mike>I did not read the manual first.
+
+00:08:20.720 --> 00:08:29.420
+<v Sean>Why? Because you don't realize you can do this if, or it wouldn't just be intuitive to do this
+
+00:08:29.420 --> 00:08:30.680
+<v Sean>unless you read the manual.
+
+00:08:31.060 --> 00:08:38.140
+<v Sean>Um, but not only do you have a good amount of health, but you can also like, you know,
+
+00:08:38.160 --> 00:08:43.100
+<v Sean>hot swap your character, which doesn't really change anything aside from your health bar
+
+00:08:43.100 --> 00:08:47.460
+<v Sean>and a sort of mugshot next to the health bar.
+
+00:08:47.680 --> 00:08:55.240
+<v Sean>But it's a way in which you can sort of spread the pain or spread the love of like just getting
+
+00:08:55.240 --> 00:08:58.500
+<v Sean>shot at point blank rage in a, in a, in an alleyway.
+
+00:08:58.920 --> 00:09:05.500
+<v Sean>Um, and it doesn't really, in this first level, it's not that big of a deal, but when they,
+
+00:09:05.500 --> 00:09:13.240
+<v Sean>they like recycle the whole concept in scene four, it's like, I think it's kind of impossible
+
+00:09:13.240 --> 00:09:15.380
+<v Sean>to do this without doing that.
+
+00:09:15.660 --> 00:09:22.700
+<v Mike>Right. It was, it wasn't something I realized the, the character swapping until, um, until the
+
+00:09:22.700 --> 00:09:27.700
+<v Mike>third stage on the, uh, the bridge where you're just like rolling around on the ground.
+
+00:09:28.560 --> 00:09:34.080
+<v Mike>And I was like, they changed the, I felt like they changed a little bit of the controls or
+
+00:09:34.080 --> 00:09:37.780
+<v Mike>maybe I took too long of a break between the first stage and the third stage to realize,
+
+00:09:37.780 --> 00:09:42.380
+<v Mike>but like, I felt like something about the controls was different than the alley shooting.
+
+00:09:42.820 --> 00:09:47.340
+<v Mike>Yeah. So I was hitting, I was just like hitting buttons to see what they did and I hit select.
+
+00:09:47.340 --> 00:09:50.520
+<v Mike>And that was how I like noticed that my character changed, which is great.
+
+00:09:50.620 --> 00:09:52.820
+<v Mike>Cause it is the untouchables is not just Ness.
+
+00:09:52.880 --> 00:09:55.640
+<v Mike>It's a group of guys. So it's great that you get all four of them as well.
+
+00:09:57.100 --> 00:10:01.180
+<v Sean>Yeah. Did, did, are they all great characters in the movie?
+
+00:10:01.400 --> 00:10:02.560
+<v Sean>You have to tell me about them.
+
+00:10:03.400 --> 00:10:04.840
+<v Sean>Yeah. My favorite's Wallace.
+
+00:10:04.840 --> 00:10:06.700
+<v Mike>Cause he just looks like a very old guy.
+
+00:10:08.400 --> 00:10:15.140
+<v Mike>I would say that, um, Sean Connery's character who, uh, what is his name?
+
+00:10:15.920 --> 00:10:17.840
+<v Sean>It's, is he supposed to be British?
+
+00:10:17.840 --> 00:10:20.880
+<v Sean>Cause I did watch the trailer and he still sounds very British.
+
+00:10:21.020 --> 00:10:22.820
+<v Mike>He's not, he's supposed to be Irish.
+
+00:10:22.820 --> 00:10:24.300
+<v Sean>Uh, got it.
+
+00:10:24.460 --> 00:10:26.260
+<v Sean>Yeah. Uh, yeah.
+
+00:10:26.460 --> 00:10:27.420
+<v Mike>I believe it's Maloney.
+
+00:10:27.800 --> 00:10:31.660
+<v Mike>Uh, and, um, yeah, he, well, you gotta keep in mind too.
+
+00:10:31.880 --> 00:10:38.420
+<v Mike>This is like Sean Connery, uh, embracing his like old age for the first time.
+
+00:10:38.540 --> 00:10:42.900
+<v Mike>Like he was still doing James Bond stuff pretty like deep into the eighties.
+
+00:10:42.900 --> 00:10:49.460
+<v Mike>So it's like pretty good that like, you know, this is like a role for him where he can be
+
+00:10:49.460 --> 00:10:56.020
+<v Mike>the old man without the toupee and, uh, and, you know, kind of mentor Kevin Costner into
+
+00:10:56.020 --> 00:10:57.380
+<v Mike>this like leadership role.
+
+00:10:57.380 --> 00:10:59.580
+<v Mike>So I really liked Connery in the film.
+
+00:10:59.880 --> 00:11:05.920
+<v Mike>Uh, the other guys are just fine, but really it's like Connery's film to win because, uh,
+
+00:11:06.180 --> 00:11:09.420
+<v Mike>Costner is, he's just not, I don't know.
+
+00:11:09.540 --> 00:11:11.020
+<v Mike>Some of the, some of his deliveries.
+
+00:11:11.020 --> 00:11:11.880
+<v Sean>Kevin Costner.
+
+00:11:12.260 --> 00:11:15.280
+<v Mike>Yeah. He doesn't have quite the charisma that Sean Connery has.
+
+00:11:15.520 --> 00:11:18.140
+<v Sean>Even if you know that Sean Connery is a charisma guy.
+
+00:11:18.780 --> 00:11:23.040
+<v Mike>Right. Even if you know, he's like barely getting the words out correctly and it sounds like
+
+00:11:23.040 --> 00:11:23.860
+<v Mike>he's slurring his speech.
+
+00:11:23.940 --> 00:11:27.160
+<v Mike>It's like, you're still just like, he's got so much charisma that you have to love it.
+
+00:11:27.280 --> 00:11:34.860
+<v Mike>Yeah. Oh, so we were talking about, um, the alley shootouts and then that led to the, uh, the
+
+00:11:34.860 --> 00:11:37.020
+<v Mike>bridge raid thing with the bridge raid.
+
+00:11:37.200 --> 00:11:44.640
+<v Sean>No, you know, okay. Yeah. Which shares most of its, uh, components of like how you actually control the thing with
+
+00:11:44.640 --> 00:11:49.800
+<v Sean>the alley shootouts, except you don't get cover, but what you do get to do, and I'm going
+
+00:11:49.800 --> 00:11:52.420
+<v Sean>to ask you another like movie question here.
+
+00:11:52.820 --> 00:11:55.940
+<v Sean>Um, what you do get to do is flop like a fish.
+
+00:11:55.940 --> 00:12:04.040
+<v Sean>Uh, just across sort of a grass field in front of a bunch of people, uh, that are shooting
+
+00:12:04.040 --> 00:12:09.080
+<v Sean>at you. Um, is that sort of how the, the, is that how the, the scene goes in the movie?
+
+00:12:09.660 --> 00:12:11.860
+<v Sean>Okay. So are you not allowed to stand?
+
+00:12:12.440 --> 00:12:17.320
+<v Mike>Yeah. That's what I'm saying. That's the confusing part is like, I totally get it because they did have to essentially,
+
+00:12:17.320 --> 00:12:23.660
+<v Mike>um, the trucks are halted on the bridge and then they have to like take cover over behind
+
+00:12:23.660 --> 00:12:27.540
+<v Mike>the hill and shoot at them to make sure that they don't take off in the trucks.
+
+00:12:28.820 --> 00:12:33.460
+<v Mike>But sure. They do that part on the ground, but like, why are they, it was kind of funny in the game
+
+00:12:33.460 --> 00:12:37.880
+<v Mike>that like they ground you to the floor and you just literally have to roll around the
+
+00:12:37.880 --> 00:12:39.700
+<v Mike>entire time. You look ridiculous.
+
+00:12:40.000 --> 00:12:43.220
+<v Sean>You get nowhere. You have to roll from end to end.
+
+00:12:43.560 --> 00:12:47.360
+<v Mike>Right. And, and you're looking for the evidence, which is just the beer bottles.
+
+00:12:47.360 --> 00:12:51.100
+<v Mike>And the only way to collect them is to shoot them.
+
+00:12:51.260 --> 00:12:55.800
+<v Mike>So you actually look like you're destroying evidence, uh, in the process, but it's like,
+
+00:12:56.180 --> 00:12:57.760
+<v Mike>when did, I just don't know.
+
+00:12:58.140 --> 00:13:04.380
+<v Mike>I appreciate the game as a whole for trying to, to basically like take moments from the
+
+00:13:04.380 --> 00:13:08.080
+<v Mike>movie and recreate them as different video game segments.
+
+00:13:08.080 --> 00:13:14.640
+<v Mike>Like that, that idea tracks for me, except for the fact that like, they, they then like
+
+00:13:14.640 --> 00:13:16.600
+<v Mike>built themselves into very strict rules.
+
+00:13:16.600 --> 00:13:19.140
+<v Mike>Like, like this flopping on the ground thing.
+
+00:13:19.220 --> 00:13:20.620
+<v Mike>Like you have to roll the whole time.
+
+00:13:20.720 --> 00:13:21.600
+<v Mike>It's like, is he on fire?
+
+00:13:21.720 --> 00:13:23.100
+<v Mike>Is he trying to put himself out of fire?
+
+00:13:23.360 --> 00:13:24.740
+<v Sean>What is going on here?
+
+00:13:25.060 --> 00:13:32.760
+<v Mike>Uh, and it's such a long screen and the bottles seem to spawn randomly that, uh, you, you know,
+
+00:13:32.840 --> 00:13:37.280
+<v Mike>like if you, if you find one piece of evidence, you now have to like flop around the whole
+
+00:13:37.280 --> 00:13:40.640
+<v Mike>screen again, just to look for the next bottle, which may very well spawn right next to you,
+
+00:13:40.720 --> 00:13:42.680
+<v Mike>but could also be in the entire opposite side.
+
+00:13:43.000 --> 00:13:46.420
+<v Mike>And that counts as like 5% of evidence.
+
+00:13:46.460 --> 00:13:48.380
+<v Mike>So you have to do this like 20 times.
+
+00:13:48.720 --> 00:13:49.960
+<v Joe>It takes a very long time.
+
+00:13:50.540 --> 00:13:54.460
+<v Sean>And I think I would forgive a lot of it.
+
+00:13:54.900 --> 00:13:56.680
+<v Sean>I'm just how silly it is.
+
+00:13:57.140 --> 00:14:02.860
+<v Sean>If it weren't also a massive pain in the ass to control, because you are moving.
+
+00:14:02.860 --> 00:14:07.960
+<v Sean>And this also wasn't the first time that you have moved and aimed with the same, with,
+
+00:14:07.960 --> 00:14:15.120
+<v Sean>with the D pad at the same time, but it was done much better in that other game that we
+
+00:14:15.120 --> 00:14:16.540
+<v Sean>played that I kind of liked.
+
+00:14:16.780 --> 00:14:18.520
+<v Mike>Uh, the Punisher, the Punisher.
+
+00:14:18.660 --> 00:14:20.700
+<v Sean>Yeah. It was done much better in the Punisher.
+
+00:14:20.980 --> 00:14:27.540
+<v Sean>Uh, whereas in this, uh, you can just sort of try and flick a little bit to the right.
+
+00:14:27.540 --> 00:14:34.820
+<v Sean>And instead of aiming that little flick to the right, you then wrote a roll, which maybe
+
+00:14:34.820 --> 00:14:40.300
+<v Sean>means you can't shoot, which means you're just taking damage without any kind of, uh,
+
+00:14:40.920 --> 00:14:42.220
+<v Mike>like offensive output.
+
+00:14:42.220 --> 00:14:44.280
+<v Sean>And it's just not great.
+
+00:14:44.460 --> 00:14:46.700
+<v Mike>And who taught these guys how to be in the police?
+
+00:14:46.700 --> 00:14:48.640
+<v Mike>Because they have no cover whatsoever.
+
+00:14:48.640 --> 00:14:51.100
+<v Mike>Like they are just out there on the floor.
+
+00:14:51.220 --> 00:14:54.600
+<v Mike>Yeah. Uh, in the field or sorry, in, in a sand pit really.
+
+00:14:54.960 --> 00:15:02.020
+<v Mike>Uh, and, and everybody else, all the enemies have cover and like, you just, you're just
+
+00:15:02.020 --> 00:15:02.920
+<v Mike>out there in the open.
+
+00:15:02.920 --> 00:15:07.420
+<v Mike>And when you roll, you can't do anything about like, you don't, you just lose control of the
+
+00:15:07.420 --> 00:15:11.760
+<v Mike>cursor obviously, cause you're now spinning over, but it's like this whole animation that
+
+00:15:11.760 --> 00:15:14.420
+<v Mike>you have to watch each time before you gain control again.
+
+00:15:14.960 --> 00:15:19.860
+<v Mike>And the game isn't, this part of the game at least, isn't about killing all these guys.
+
+00:15:19.860 --> 00:15:21.340
+<v Mike>It's just about finding the evidence.
+
+00:15:21.340 --> 00:15:26.160
+<v Mike>So you're really not incentivized at all to, uh, to fire back at anyone.
+
+00:15:26.320 --> 00:15:28.660
+<v Mike>Like just find the bottles as quickly as you can and get out of there.
+
+00:15:29.080 --> 00:15:38.660
+<v Sean>Yeah. I think that I started trying to shoot people thinking that I would need to just to reduce
+
+00:15:38.660 --> 00:15:45.240
+<v Sean>the amount of shots coming my way because it was like just taking like my, your health
+
+00:15:45.240 --> 00:15:47.800
+<v Sean>just melts in this scene.
+
+00:15:47.800 --> 00:15:50.020
+<v Sean>So you end up having to change characters.
+
+00:15:50.180 --> 00:15:54.560
+<v Sean>Thankfully you still have the ability to change characters so that your health pool, uh, can
+
+00:15:54.560 --> 00:16:01.980
+<v Sean>refill slowly while that character is not, uh, on the screen, but it was still, uh, it was,
+
+00:16:02.080 --> 00:16:03.540
+<v Sean>I was still cutting it pretty close there.
+
+00:16:03.540 --> 00:16:06.920
+<v Mike>It's just kind of conflicted.
+
+00:16:08.280 --> 00:16:14.400
+<v Mike>It's just kind of conflicted.
+
+00:16:15.140 --> 00:16:18.120
+<v Mike>It's just kind of conflicted.
+
+00:16:18.240 --> 00:16:19.320
+<v Mike>It's just conflicted.
+
+00:16:19.920 --> 00:16:21.720
+<v Mike>It's conflicted.
+
+00:16:32.960 --> 00:16:47.420
+<v Mike>conflicted conflicted. so
+
+00:16:57.600 --> 00:17:02.500
+<v Mike>in between these shooting stages there is a warehouse raid which is a side scrolling
+
+00:17:02.500 --> 00:17:08.260
+<v Mike>action level where you're finding and shooting men with gray hats who are carrying evidence
+
+00:17:08.260 --> 00:17:14.540
+<v Mike>through Capone's bootlegging warehouse it's probably the closest to the conventional NES
+
+00:17:14.540 --> 00:17:18.940
+<v Mike>action game that we've seen definitely like mechanically the most straightforward stage
+
+00:17:18.940 --> 00:17:26.600
+<v Mike>you're just kind of running through the side scrolling level shooting at the enemies and
+
+00:17:26.600 --> 00:17:33.120
+<v Mike>i don't know it's like you're you're not like it's not like last week's game which uh you didn't you
+
+00:17:33.120 --> 00:17:38.220
+<v Mike>weren't here for sean but oh yeah no joe joe and i aren't on speaking terms right now in peter pan
+
+00:17:38.220 --> 00:17:43.260
+<v Mike>and the pirates you had to kill every single pirate before you could leave the stage they didn't do
+
+00:17:43.260 --> 00:17:48.200
+<v Mike>that here at least and they made it just about again collecting evidence yeah totally know what
+
+00:17:48.200 --> 00:17:56.140
+<v Sean>you mean um i do i have i did play that game um i just you know for my own reasons couldn't record
+
+00:17:56.140 --> 00:18:06.280
+<v Sean>but anyway yeah um i this was also i think this is this felt worse to me than even uh rolling around
+
+00:18:06.280 --> 00:18:13.260
+<v Sean>on the ground um and i think is it because they switched like what is supposed to be the jump
+
+00:18:13.260 --> 00:18:22.040
+<v Sean>button and the shoot button did they do that i did i i feel like we've had we've had this complaint
+
+00:18:22.040 --> 00:18:29.420
+<v Sean>in the past but i i just it i was able to intuit myself into the opposite like control scheme
+
+00:18:29.420 --> 00:18:35.920
+<v Sean>whereas in this i just could not get it the entire time i was just jumping at guys and shooting at
+
+00:18:35.920 --> 00:18:43.180
+<v Sean>crates that i meant to jump on it this was this was me i was really struggling with this it's also
+
+00:18:43.180 --> 00:18:49.240
+<v Mike>funny because like the the game changes the control layout on you so much that in the manual where there's
+
+00:18:49.240 --> 00:18:54.780
+<v Mike>usually like a picture of the nes controller and it tells you like what the buttons do it's just
+
+00:18:54.780 --> 00:19:00.420
+<v Mike>telling you actually like the technical name of each button like this is the control pad this is the b
+
+00:19:00.420 --> 00:19:03.940
+<v Mike>button right right this is the start button it's like what do these things do it's like oh well then
+
+00:19:03.940 --> 00:19:10.200
+<v Mike>you got to go into the individual page for each one and learn it's like why like just keep it
+
+00:19:10.200 --> 00:19:18.440
+<v Mike>consistent have some rhyme or reason to this shit uh i also like just because it's what we're used to
+
+00:19:18.440 --> 00:19:24.340
+<v Mike>it's it's not maybe that's more boring right like maybe it was more interesting to have like
+
+00:19:24.340 --> 00:19:29.760
+<v Mike>these third person uh duck and cover sequence shootout sequences i think you're right one and
+
+00:19:29.760 --> 00:19:35.740
+<v Mike>three than it was to like be like yeah and we also know how to just do the bare minimum guys we know
+
+00:19:35.740 --> 00:19:40.020
+<v Sean>how to phone it in like you know what it is i think you're absolutely right with that because at least
+
+00:19:40.020 --> 00:19:46.520
+<v Sean>it's a different art style the different perspective it's just something new to look at aside from
+
+00:19:46.520 --> 00:19:56.340
+<v Sean>that size sprite on that kind of screen and i was just like okay at least at least the like characters
+
+00:19:56.340 --> 00:20:05.380
+<v Mike>like the the at least the art is higher resolution than normal scene five now we're at the train station
+
+00:20:06.040 --> 00:20:13.940
+<v Mike>which is uh listen in the movie it totally works like it's not it's it's the signature set piece of
+
+00:20:13.940 --> 00:20:22.720
+<v Mike>the film uh it's a like nine minute long slow motion uh shootout that involves a baby carriage
+
+00:20:22.720 --> 00:20:28.420
+<v Mike>falling down some steps and like you know is somebody gonna accidentally shoot the baby is kevin
+
+00:20:28.420 --> 00:20:33.380
+<v Mike>costner accidentally gonna shoot the baby is the baby going to be saved does the baby have a gun
+
+00:20:33.380 --> 00:20:38.300
+<v Mike>right maybe the baby that would have been like something for like a good parody film to do
+
+00:20:38.300 --> 00:20:44.820
+<v Mike>like just all of a sudden the baby shoots everybody uh but the game turning that into
+
+00:20:45.720 --> 00:20:53.020
+<v Mike>like a level is kind of hilarious yeah like it's just kind of hilarious because if i i think like
+
+00:20:53.020 --> 00:21:00.240
+<v Mike>why stop there in the beginning of this film a uh like i'm gonna assume her age is like five years old
+
+00:21:00.240 --> 00:21:07.060
+<v Mike>this little girl uh is in a bar uh for reasons i can't remember right now at this moment but she's
+
+00:21:07.060 --> 00:21:12.300
+<v Mike>at a bar and somebody leaves their briefcase there and she's like mr mr you forgot this and
+
+00:21:12.300 --> 00:21:16.140
+<v Mike>she's holding the briefcase and of course it's got a fucking bomb in it because the guy who runs the
+
+00:21:16.140 --> 00:21:23.180
+<v Mike>bar wouldn't buy their uh illegal alcohol so uh so she blows up and it's like why wasn't that
+
+00:21:23.180 --> 00:21:27.160
+<v Mike>turned into a level why wasn't it a level where like you play as a little girl and you got to get
+
+00:21:27.160 --> 00:21:37.780
+<v Sean>rid of the bomb damn i yeah so in this in this level uh which which they you know what give them
+
+00:21:37.780 --> 00:21:42.960
+<v Mike>credit where it's due it's ambitious uh on a totally different front than mechanically it's
+
+00:21:42.960 --> 00:21:47.080
+<v Mike>pretty straightforward but like it's just fun to be like yeah how do we take that slow motion
+
+00:21:47.080 --> 00:21:54.180
+<v Mike>shootout scene and turn it into a level and uh essentially it sean's right it's in the objective
+
+00:21:54.180 --> 00:21:59.800
+<v Mike>is to protect a baby carriage so it is an escort mission and it's just kind of rolling down through
+
+00:21:59.800 --> 00:22:05.360
+<v Mike>a train station for not just one staircase but the entirety of the train station and at multiple
+
+00:22:05.360 --> 00:22:11.960
+<v Sean>times like you you should have the ability to just grab like if we're to believe you should be able to
+
+00:22:11.960 --> 00:22:16.840
+<v Sean>stop it yeah for to believe the space that the game the game space that the game gives you
+
+00:22:16.840 --> 00:22:24.240
+<v Sean>you would think that a person would stop the baby carriage and tuck it into a corner but no you
+
+00:22:24.240 --> 00:22:30.980
+<v Sean>apparently are also playing edward 40 hands and cannot grab anything all you can do is nudge the
+
+00:22:30.980 --> 00:22:39.680
+<v Sean>carriage while also shooting guns at the people shooting the baby and you um and if it touches any
+
+00:22:39.680 --> 00:22:47.560
+<v Sean>surface the baby carriage falls over which immediately gives the baby uh exploding brain
+
+00:22:47.560 --> 00:22:54.540
+<v Mike>damage i guess yes yeah i mean no matter what happens uh if if the baby take if the baby carriage
+
+00:22:54.540 --> 00:23:00.420
+<v Mike>takes too much damage you fail if you accidentally push it into a wall you fail if you let it run into
+
+00:23:00.420 --> 00:23:06.160
+<v Mike>a wall you fail like there are the same problems that we always have with escort missions in games i don't
+
+00:23:06.160 --> 00:23:11.880
+<v Mike>know too many people that like them uh they're all present here and then it's also the absurdness of
+
+00:23:11.880 --> 00:23:18.820
+<v Mike>it all because you could just grab the baby carriage right and like why are the wheels so uh loose why are
+
+00:23:18.820 --> 00:23:25.340
+<v Mike>they able to like just roll on their own like that the staircase made sense you know in the staircase it
+
+00:23:25.340 --> 00:23:30.680
+<v Mike>was like okay it's falling downstairs like momentum's on its side here it's like did they build this thing
+
+00:23:30.680 --> 00:23:37.180
+<v Mike>on a giant slant like is the whole thing just like uh or maybe a degree angle arc i would imagine at this
+
+00:23:37.180 --> 00:23:47.460
+<v Sean>point uh they had just they just invented the uh horseless baby carriage that was a joke well done you
+
+00:23:47.460 --> 00:23:54.500
+<v Sean>can you can laugh at that you're allowed to laugh at that and then the very next stage we have the
+
+00:23:54.500 --> 00:24:00.960
+<v Mike>hostage uh shootout and this is one of those weird ones where like it is a scene in the movie
+
+00:24:00.960 --> 00:24:06.600
+<v Mike>but like the game hasn't given us enough context for anything like it it is basically assuming that
+
+00:24:06.600 --> 00:24:12.060
+<v Mike>you have seen the movie the events of the game because it doesn't tell you like who the gunman
+
+00:24:12.060 --> 00:24:16.780
+<v Mike>like you don't have any reason to like to know who the gunman is or who the hostage is like what are
+
+00:24:16.780 --> 00:24:23.000
+<v Mike>the stakes and if in the game it kind of just looks like this bad dude that you've been shooting at
+
+00:24:23.000 --> 00:24:29.140
+<v Mike>this whole time since stage one is just holding some random person hostage but actually that person
+
+00:24:29.140 --> 00:24:35.980
+<v Mike>is the bookkeeper who is able to prove that al capone is uh you know evading his taxes and is
+
+00:24:35.980 --> 00:24:40.180
+<v Mike>actually receiving all this money and because he hasn't filed an income tax in a while like yeah
+
+00:24:40.180 --> 00:24:45.920
+<v Sean>really interesting stuff i forgot this was the this is the treasury department yeah right right yeah
+
+00:24:45.920 --> 00:24:51.640
+<v Mike>another really interesting you know like everybody every kid says all right if i can't be in the marines
+
+00:24:51.640 --> 00:24:58.260
+<v Sean>put me in the treasury yeah everybody wants to root for the irs right so well you know now that
+
+00:24:58.260 --> 00:25:03.880
+<v Mike>you mention it if i could talk about the movie for one second that it is kind of funny and like
+
+00:25:04.760 --> 00:25:12.560
+<v Mike>in 2026 to be watching a movie like this and being like man so many people like died in chicago
+
+00:25:12.560 --> 00:25:15.480
+<v Mike>over something that should obviously be legal
+
+00:25:17.080 --> 00:25:21.740
+<v Mike>like just because we decided that we weren't going to drink alcohol for like you know a few
+
+00:25:21.740 --> 00:25:28.300
+<v Mike>years like so many people died over this i think it's that's also i mean it's funny because in this
+
+00:25:28.300 --> 00:25:34.500
+<v Sean>movie you're supposed to root for um supposed to root for the guys that work for the treasury department
+
+00:25:34.500 --> 00:25:40.280
+<v Sean>um but and that's why it's so much easier to watch boardwalk empire and root for
+
+00:25:40.280 --> 00:25:49.340
+<v Sean>nucky thompson or nucky i don't know uh steve buscemi because the guy that like you the the enemy
+
+00:25:49.340 --> 00:25:59.540
+<v Sean>is uh is the marshal that wants you to pay taxes on your illegal booze and so it's just you know what
+
+00:25:59.540 --> 00:26:07.000
+<v Sean>it is you know what it is it's just don't make me don't make me not drink that's all we're asking
+
+00:26:07.000 --> 00:26:12.060
+<v Mike>that's all we're asking society we're just asking for a little booze every now and every now and then
+
+00:26:12.620 --> 00:26:19.060
+<v Mike>and steve buscemi the problem the problem with this hostage level is that uh it's barely it's not
+
+00:26:19.060 --> 00:26:23.380
+<v Sean>even a level you just shoot them the one time right yeah you just shoot them the one time you have one
+
+00:26:23.380 --> 00:26:29.180
+<v Mike>chance if you fail it's game over if you hit them you go to the final stage i had to ask because i did
+
+00:26:29.180 --> 00:26:36.700
+<v Sean>give up uh in the in the baby carriage level because there's too many things to to die on so
+
+00:26:36.700 --> 00:26:44.400
+<v Mike>from now on you're the only uh authority figure here well i don't even know what to really what
+
+00:26:44.400 --> 00:26:49.120
+<v Mike>else to say about this either that depending on which way you look at it like if your goal is
+
+00:26:49.120 --> 00:26:55.080
+<v Mike>to to beat this game this this stage has a lot on the line here right because it could either be
+
+00:26:55.080 --> 00:26:59.800
+<v Mike>the most intense moment in the game or the most unfair depending on how you feel about
+
+00:26:59.800 --> 00:27:07.440
+<v Mike>a game taking away that much time over you know a few pixels like basically saying like hey you shot
+
+00:27:07.440 --> 00:27:14.540
+<v Mike>the guy uh it's game over go back to the beginning like that sucks the whole big like you can't just
+
+00:27:14.540 --> 00:27:21.180
+<v Sean>continue i thought there are no continues in this game oh maybe i was only yeah you're right you're
+
+00:27:21.180 --> 00:27:28.980
+<v Mike>right i know it sucks so after you shoot the right guy right right if you do succeed you get to the
+
+00:27:28.980 --> 00:27:35.240
+<v Mike>rooftop duel and uh it's still the same guy believe it or not so that's uh oh no wait it looks like
+
+00:27:35.240 --> 00:27:43.860
+<v Mike>michael jackson actually right it's not the same guy yes it's uh capone's uh what a goon yeah he's a
+
+00:27:43.860 --> 00:27:51.480
+<v Mike>goon okay uh he's gang goons frank frank nitty uh and uh frank nitty's a real person if he's not
+
+00:27:51.480 --> 00:27:58.100
+<v Sean>michael jackson why does he strike michael jackson poses that's a good question but maybe that's why
+
+00:27:58.100 --> 00:28:02.360
+<v Mike>they waited to they were like we don't have the tech yet so we'll make it in 1991 when we have the
+
+00:28:02.360 --> 00:28:08.620
+<v Mike>tech to make him do michael jackson's that's true yeah and it's just the shootout on the roof um
+
+00:28:08.620 --> 00:28:13.600
+<v Mike>kind of similar to the shooting gallery stages except there's only one enemy uh and you have to
+
+00:28:13.600 --> 00:28:19.640
+<v Mike>shoot him multiple times i i guess like so here's the here's the interesting thing is like the movie
+
+00:28:19.640 --> 00:28:24.360
+<v Mike>is the movie and the story in general of the untouchables is weird because this is a real
+
+00:28:24.360 --> 00:28:31.660
+<v Mike>person who uh they have written this ending for him where essentially he gets uh thrown off the roof
+
+00:28:31.660 --> 00:28:39.680
+<v Mike>and falls through uh a ford model t and dies and that's just not what happened to him in real life
+
+00:28:39.680 --> 00:28:46.060
+<v Sean>so it feels like it feels like you can't do that i feel like if i haven't heard of him um
+
+00:28:46.680 --> 00:28:53.140
+<v Sean>it's okay to make up how he died me specifically not having knowledge of him i feel like it's okay
+
+00:28:53.140 --> 00:28:57.560
+<v Mike>in like inglorious bastards to do that because that's like wish fulfillment i don't know if like
+
+00:28:57.560 --> 00:29:01.260
+<v Mike>frank nitty was one of those guys that we were like yeah we're gonna fucking torture him because
+
+00:29:01.260 --> 00:29:06.440
+<v Sean>he's such a bad dude in real life it's like i i just don't know where the line ends right like
+
+00:29:06.440 --> 00:29:12.080
+<v Mike>can we really just be changing how people died in in movies that we're calling true stories
+
+00:29:13.220 --> 00:29:19.280
+<v Sean>is it but it's based on a true story mike yeah that's true right right ah it's based on a true
+
+00:29:19.280 --> 00:29:25.360
+<v Mike>story uh and you know the ending it's the same as the movie though too where like you know you're not
+
+00:29:25.360 --> 00:29:31.600
+<v Mike>fighting capone capone's not gonna get involved but he does end up in jail it's how the movie works
+
+00:29:31.600 --> 00:29:41.120
+<v Mike>too capone goes down for tax evasion not a gunfight and uh you just see him behind uh behind bars and
+
+00:29:41.120 --> 00:29:47.240
+<v Mike>he's looking kind of creepy yeah he does look very creepy like a skin disorder he doesn't look like uh
+
+00:29:47.240 --> 00:29:54.180
+<v Mike>robert de niro at all no not at all uh i i guess what i suppose though is that the game just doesn't
+
+00:29:54.180 --> 00:29:59.500
+<v Mike>have the narrative space to make this capone jail scene thing feel earned because it was you barely
+
+00:29:59.500 --> 00:30:07.760
+<v Sean>interacted with him at all like why wasn't there why wasn't there the big like round table uh fancy
+
+00:30:07.760 --> 00:30:13.060
+<v Mike>restaurant scene from the trail oh yeah right and you should be able to play as capone in that scene
+
+00:30:13.060 --> 00:30:20.100
+<v Mike>beating uh whoever you choose like duck duck go style with a baseball bat is that what happens i can't
+
+00:30:20.100 --> 00:30:25.840
+<v Mike>believe i said duck duck go i wasn't gonna say anything yeah duck duck goose but you know you really
+
+00:30:25.840 --> 00:30:30.520
+<v Sean>like i don't know my preferred browser of choice right yeah oh yeah that's actually what happens
+
+00:30:30.520 --> 00:30:36.240
+<v Mike>yeah he's talking about how much he loves baseball and why and you know beautiful scene can all relate
+
+00:30:36.240 --> 00:30:41.680
+<v Mike>to it we all know why we how can you not get romantic about baseball exactly and he does and he gets so
+
+00:30:41.680 --> 00:30:46.680
+<v Mike>romantic that it makes him pound the shit out of one guy's head like 14 times with a baseball bat
+
+00:30:46.680 --> 00:30:52.560
+<v Mike>that that that sounds pretty romantic to me every uh in a game where the rules change every stage
+
+00:30:52.560 --> 00:30:57.440
+<v Mike>it's weird to have a timer like you're being given barely enough time to figure out what you're
+
+00:30:57.440 --> 00:31:02.320
+<v Mike>supposed to do let alone do it well now they're like you know hey you're in a totally new environment
+
+00:31:02.320 --> 00:31:09.080
+<v Mike>but uh don't forget you only have 100 seconds to figure it all out well at least in this one it
+
+00:31:09.760 --> 00:31:18.800
+<v Sean>it like mattered like i was timing out a lot um i'm not saying that i liked it but it was sort of
+
+00:31:18.800 --> 00:31:26.280
+<v Sean>in an opposition of the kind of just there to be there mario timer which sure you kind of ignore
+
+00:31:26.280 --> 00:31:36.260
+<v Sean>um but i guess like it is simple enough that you know i still quit because i found it frustrating but
+
+00:31:36.260 --> 00:31:44.240
+<v Sean>it's not it's not super difficult so i guess having one other uh constraint isn't isn't the worst
+
+00:31:44.240 --> 00:31:49.160
+<v Mike>in the world and then as we mentioned with the newspapers between uh scenes the game delivers
+
+00:31:49.160 --> 00:31:56.140
+<v Mike>like the results via newspaper front pages if you win scene one it's elliot ness wins fight with the
+
+00:31:56.140 --> 00:32:03.320
+<v Mike>mob if you die in scene two it's elliot ness dies in warehouse bust uh they kind of function just as
+
+00:32:03.320 --> 00:32:08.880
+<v Mike>win lose screens but i think the framing is maybe the only thing that helps ground the game in its
+
+00:32:08.880 --> 00:32:16.020
+<v Mike>period piece besides the um you know besides like the fashion uh of the time the movie goes
+
+00:32:16.020 --> 00:32:22.180
+<v Mike>you know like really really really well done with the uh with the set design and uh yeah what happens
+
+00:32:22.180 --> 00:32:28.840
+<v Mike>the new game over in the movie you know i don't know what happens because i i won on my first try
+
+00:32:28.840 --> 00:32:36.300
+<v Mike>watching the movie but uh i was gonna say that the wardrobes were even done by uh giorgio armani so
+
+00:32:36.300 --> 00:32:42.020
+<v Mike>like they you know they really took great care here yeah he shows up uh not in the movie himself
+
+00:32:42.020 --> 00:32:47.840
+<v Mike>but he showed up to work which is enough that's all we can ask for uh but i just feel like it's it's
+
+00:32:47.840 --> 00:32:52.160
+<v Mike>the the newspaper thing here is it's like it's one of the few places where the story progresses
+
+00:32:52.160 --> 00:32:58.080
+<v Mike>it gives weight to your successes and failures and it grounds the game in its period so it's like
+
+00:32:58.540 --> 00:33:03.100
+<v Sean>no it's doing a lot more work than most of the game yeah yeah yeah i mean that's the kind of stuff
+
+00:33:03.100 --> 00:33:11.920
+<v Sean>that i would uh i'd really be into if i were super young and didn't know bad side scrolling gameplay
+
+00:33:11.920 --> 00:33:18.560
+<v Mike>a little closer to the release of the actual movie uh the untouchables was a hit on european home
+
+00:33:18.560 --> 00:33:27.460
+<v Mike>computers first the zx spectrum and the commodore 64 versions oh pulling in a 96 positive review score
+
+00:33:27.460 --> 00:33:36.040
+<v Mike>from uk magazines uh that's is it basically the same game it's it's basically the same game but it is
+
+00:33:36.040 --> 00:33:44.020
+<v Mike>developed it's um that that other version was developed by ocean's in-house team and it's unclear
+
+00:33:44.020 --> 00:33:49.200
+<v Mike>to me if that was also just special effects before they had turned into that you know like before they
+
+00:33:49.200 --> 00:33:53.440
+<v Mike>left i feel like it's gotta be like yeah that's what i'm saying so it's functionally the same game
+
+00:33:53.440 --> 00:33:59.820
+<v Mike>which is true of the super nintendo version too the super nintendo version is still the same idea of
+
+00:33:59.820 --> 00:34:07.840
+<v Mike>like switching you know to these various different uh uh mini game stuff in the game and mini games in
+
+00:34:07.840 --> 00:34:15.340
+<v Mike>it but it's also like it's way higher fidelity like it they have changed a bit about the games as well
+
+00:34:15.340 --> 00:34:19.980
+<v Mike>and so it's like it's not just like a lazy port where they just were like hey we can put this on the
+
+00:34:19.980 --> 00:34:25.260
+<v Mike>super nintendo in 16 bit like they did change enough that it was kind of like huh this is a weird one
+
+00:34:25.260 --> 00:34:33.680
+<v Mike>because i get it like the super nintendo is um is coming out in 91 so like they're we're gonna start
+
+00:34:33.680 --> 00:34:38.120
+<v Mike>seeing that where there are nes games and there are super nintendo games and i thought even like wow is
+
+00:34:38.120 --> 00:34:43.060
+<v Mike>this the first example but it's not because this one comes out in 93 so that's like kind of weird
+
+00:34:43.060 --> 00:34:49.260
+<v Mike>that's a weird lag yeah we're not ready for the games that come out like dual release though on nes
+
+00:34:49.260 --> 00:34:52.680
+<v Mike>and super nintendo at the same time because we have to review the nes one
+
+00:34:54.740 --> 00:35:03.900
+<v Mike>oh no any other like um thinking about uh dick tracy which was a totally different kind of game but it
+
+00:35:03.900 --> 00:35:11.160
+<v Mike>was another prohibition error crime film turned nes game uh so like is this is there anything like
+
+00:35:11.160 --> 00:35:15.020
+<v Mike>this like is there any like that was a pretty niche genre and yet i managed to think of two
+
+00:35:15.020 --> 00:35:20.280
+<v Mike>entries i suppose you could even include hogan's alley into this depending on if you wanted to put
+
+00:35:20.280 --> 00:35:29.760
+<v Mike>a time period to that uh and um that that cartoon live action movie that happened who framed roger
+
+00:35:29.760 --> 00:35:36.520
+<v Mike>rabbit of course i that's like i was about to say that yeah that's true but how is that similar to
+
+00:35:36.520 --> 00:35:44.440
+<v Sean>this uh they got like a guy with uh there's a little bit of like a vaguely vaguely noir influences
+
+00:35:44.440 --> 00:35:51.580
+<v Mike>uh okay cool cool the most vaguest of vagues yep all right so i agree and you know what uh can you
+
+00:35:51.580 --> 00:35:57.140
+<v Mike>also explain to me how this is like the hunt for red october uh it's got sean connery in it that
+
+00:35:57.140 --> 00:36:02.200
+<v Sean>also doesn't really have sean connery in it because it and the only time that you can play as sean
+
+00:36:02.200 --> 00:36:10.880
+<v Sean>connery is in a really bad side scrolling section yeah that's worth mentioning you swap through the
+
+00:36:10.880 --> 00:36:17.880
+<v Mike>characters in this game but you don't swap sprites yeah swap face plates yeah you're just sort of
+
+00:36:17.880 --> 00:36:24.840
+<v Sean>nondescript back of dude's head number one the whole time right it's like well or maybe that's like
+
+00:36:24.840 --> 00:36:31.900
+<v Mike>some kind of like robot or um or power ranger he's the avatar put their right and then they put their
+
+00:36:31.900 --> 00:36:38.820
+<v Mike>ids into into the driver's seat and then they control that that cop yeah this is actually a
+
+00:36:38.820 --> 00:36:49.720
+<v Mike>pretty cyberpunk adjacent thing yeah uh cyberpunk or um steampunk or magipunk all the punks just punk it
+
+00:36:49.720 --> 00:36:56.600
+<v Mike>up um and you know what we're gonna finish this episode punk with the essential games list
+
+00:37:00.560 --> 00:37:07.380
+<v Mike>now sean you gave joe the right to go first in all future episodes in 1991 the essential games list
+
+00:37:07.380 --> 00:37:13.280
+<v Mike>but he's not here today so i will allow you to once again go first well i think that we should still
+
+00:37:13.280 --> 00:37:19.960
+<v Sean>hold a moment of silence just uh for the uh the rating that joe would give joe would have loved this
+
+00:37:19.960 --> 00:37:27.180
+<v Mike>game can we we're gonna count joe as one essential vote so that so that that yeah so now it's out of
+
+00:37:27.180 --> 00:37:39.880
+<v Sean>three and he gives one yes so sean your vote please um i'm gonna give it a no uh simply because uh
+
+00:37:39.880 --> 00:37:49.540
+<v Sean>most of it is just a shooting gallery some of it is a less than a replacement level side scroller
+
+00:37:49.540 --> 00:37:58.200
+<v Sean>um and it has one of the worst escort missions in video game history so i i still think you know
+
+00:37:58.200 --> 00:38:07.240
+<v Sean>it looks nice and if you really love untouchables like it sounds like mike mike does uh it's a cool
+
+00:38:07.240 --> 00:38:16.000
+<v Sean>companion piece um but not not a good game yeah the untouchables tries to make every uh major scene
+
+00:38:16.000 --> 00:38:21.520
+<v Mike>at least from the film into a different type of game seven levels at least four distinct gameplay
+
+00:38:21.520 --> 00:38:29.580
+<v Mike>styles in 1991 is that kind of ambition admirable or is it just misguided we've talked about this
+
+00:38:29.580 --> 00:38:35.420
+<v Mike>before if a game does five things at a c plus does that make it more interesting than a game that does
+
+00:38:35.420 --> 00:38:43.720
+<v Mike>one thing at an a and i guess in the broader context of movie to nes adaptations uh which is a
+
+00:38:43.720 --> 00:38:49.300
+<v Mike>genre currently that's filled almost entirely by disappointment does the untouchables deserve
+
+00:38:49.300 --> 00:38:55.620
+<v Mike>credit for at least trying to match the film's scope and including uh almost all the major characters
+
+00:38:55.620 --> 00:39:01.640
+<v Mike>uh even if it couldn't match the film's quality no none of those things are gonna put it on the
+
+00:39:01.640 --> 00:39:06.420
+<v Mike>essential games list there are good questions to ask yourself as you're playing the game but they
+
+00:39:06.420 --> 00:39:11.820
+<v Mike>i think you will come to the same conclusion we are in that this is not an essential game but we have a
+
+00:39:11.820 --> 00:39:18.700
+<v Mike>chance next week for an essential game with the great one wayne gretzky and his hockey
+
+00:39:22.720 --> 00:39:23.520
+<v Sean>okay
+
+00:39:24.340 --> 00:39:25.140
+<v Mike>you

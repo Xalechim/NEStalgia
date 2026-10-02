@@ -368,30 +368,30 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 408 | Dragon's Lair | [notes](408-dragons-lair.md), [transcript](../transcripts/408-dragons-lair.md) |
 | 409 | Jackie Chan's Action Kung-Fu | [notes](409-jackie-chans-action-kung-fu.md), [transcript](../transcripts/409-jackie-chans-action-kung-fu.md) |
 | 410 | Little Ninja Brothers | [notes](410-little-ninja-brothers.md), [transcript](../transcripts/410-little-ninja-brothers.md) |
-| 411 | Ninja Crusaders | [notes](411-ninja-crusaders.md) |
-| 412 | Nintendo World Cup | [notes](412-nintendo-world-cup.md) |
-| 413 | North and South | [notes](413-north-and-south.md) |
-| 414 | Shadow of the Ninja | [notes](414-shadow-of-the-ninja.md) |
-| 415 | StarTropics | [notes](415-startropics.md) |
-| 416 | Super Mario Bros/Duck Hunt/World Class Track Meet | [notes](416-super-mario-bros-duck-hunt-world-class-track-meet.md) |
-| 418 | TMNT II: The Arcade Game | [notes](418-tmnt-ii-the-arcade-game.md) |
-| 419 | Thunder and Lightning | [notes](419-thunder-and-lightning.md) |
-| 420 | Ultima: Quest of the Avatar | [notes](420-ultima-quest-of-the-avatar.md) |
-| 421 | Advanced Dungeons and Dragons: Heroes of the Lance | [notes](421-advanced-dungeons-and-dragons-heroes-of-the-lance.md) |
-| 422 | Fun House | [notes](422-fun-house.md) |
-| 423 | G.I. Joe: A Real American Hero | [notes](423-g-i-joe-a-real-american-hero.md) |
-| 424 | The Hunt for Red October | [notes](424-the-hunt-for-red-october.md) |
-| 425 | Kabuki Quantum Fighter | [notes](425-kabuki-quantum-fighter.md) |
-| 426 | The Krion Conquest | [notes](426-the-krion-conquest.md) |
-| 427 | Fox's Peter Pan and the Pirates: The Revenge of Captain Hook | [notes](427-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.md) |
-| 428 | Qix | [notes](428-qix.md) |
-| 429 | The Untouchables | [notes](429-the-untouchables.md) |
-| 430 | Wayne Gretzky Hockey | [notes](430-wayne-gretzky-hockey.md) |
-| 431 | Zombie Nation | [notes](431-zombie-nation.md) |
-| 432 | Adventure Island II | [notes](432-adventure-island-ii.md) |
-| 433 | Conan: The Mysteries of Time | [notes](433-conan-the-mysteries-of-time.md) |
-| 434 | Double Dragon III: The Sacred Stones | [notes](434-double-dragon-iii-the-sacred-stones.md) |
-| 435 | Flying Warriors | [notes](435-flying-warriors.md) |
+| 411 | Ninja Crusaders | [notes](411-ninja-crusaders.md), [transcript](../transcripts/411-ninja-crusaders.md) |
+| 412 | Nintendo World Cup | [notes](412-nintendo-world-cup.md), [transcript](../transcripts/412-world-cup.md) |
+| 413 | North and South | [notes](413-north-and-south.md), [transcript](../transcripts/413-north-and-south.md) |
+| 414 | Shadow of the Ninja | [notes](414-shadow-of-the-ninja.md), [transcript](../transcripts/414-shadow-of-the-ninja.md) |
+| 415 | StarTropics | [notes](415-startropics.md), [transcript](../transcripts/415-startropics.md) |
+| 416 | Super Mario Bros/Duck Hunt/World Class Track Meet | [notes](416-super-mario-bros-duck-hunt-world-class-track-meet.md), [transcript](../transcripts/416-smbdhwctm.md) |
+| 418 | TMNT II: The Arcade Game | [notes](418-tmnt-ii-the-arcade-game.md), [transcript](../transcripts/418-tmnt-ii-the-arcade-game.md) |
+| 419 | Thunder and Lightning | [notes](419-thunder-and-lightning.md), [transcript](../transcripts/419-thunder-and-lightning.md) |
+| 420 | Ultima: Quest of the Avatar | [notes](420-ultima-quest-of-the-avatar.md), [transcript](../transcripts/420-ultima-iv.md) |
+| 421 | Advanced Dungeons and Dragons: Heroes of the Lance | [notes](421-advanced-dungeons-and-dragons-heroes-of-the-lance.md), [transcript](../transcripts/421-heroes-of-the-lance.md) |
+| 422 | Fun House | [notes](422-fun-house.md), [transcript](../transcripts/422-fun-house.md) |
+| 423 | G.I. Joe: A Real American Hero | [notes](423-g-i-joe-a-real-american-hero.md), [transcript](../transcripts/423-gi-joe-a-real-american-hero.md) |
+| 424 | The Hunt for Red October | [notes](424-the-hunt-for-red-october.md), [transcript](../transcripts/424-red-october.md) |
+| 425 | Kabuki Quantum Fighter | [notes](425-kabuki-quantum-fighter.md), [transcript](../transcripts/425-kabuki.md) |
+| 426 | The Krion Conquest | [notes](426-the-krion-conquest.md), [transcript](../transcripts/426-krion.md) |
+| 427 | Fox's Peter Pan and the Pirates: The Revenge of Captain Hook | [notes](427-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.md), [transcript](../transcripts/427-peter-pan.md) |
+| 428 | Qix | [notes](428-qix.md), [transcript](../transcripts/428-qix.md) |
+| 429 | The Untouchables | [notes](429-the-untouchables.md), [transcript](../transcripts/429-the-untouchables.md) |
+| 430 | Wayne Gretzky Hockey | [notes](430-wayne-gretzky-hockey.md), [transcript](../transcripts/430-wayne-gretzky.md) |
+| 431 | Zombie Nation | [notes](431-zombie-nation.md), [transcript](../transcripts/431-zombie-nation.md) |
+| 432 | Adventure Island II | [notes](432-adventure-island-ii.md), [transcript](../transcripts/432-adventure-island-2.md) |
+| 433 | Conan: The Mysteries of Time | [notes](433-conan-the-mysteries-of-time.md), [transcript](../transcripts/433-conan.md) |
+| 434 | Double Dragon III: The Sacred Stones | [notes](434-double-dragon-iii-the-sacred-stones.md), [transcript](../transcripts/434-double-dragon-iii.md) |
+| 435 | Flying Warriors | [notes](435-flying-warriors.md), [transcript](../transcripts/435-flying-warriors.md) |
 | 436 | Galaxy 5000: Racing in the 51st Century | [notes](436-galaxy-5000-racing-in-the-51st-century.md), [transcript](../transcripts/436-galaxy-5000.md) |
 | 437 | Ikari III: The Rescue | [notes](437-ikari-iii-the-rescue.md), [transcript](../transcripts/437-ikari-iii.md) |
 | 438 | Isolated Warrior | [notes](438-isolated-warrior.md), [transcript](../transcripts/438-isolated-warrior.md) |

@@ -1,0 +1,327 @@
+# 434 - Double Dragon III
+
+_Auto-generated transcript. Speaker names are matched automatically by voice and are not perfect, especially on short interjections. The opening name introductions are left as "Hosts"._
+
+**Mike** [00:00]: Double Dragon 3, The Sacred Stones. Only one man knows the real story behind Marion's disappearance, and he's dead.
+
+**Mike** [00:24]: And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+**Hosts** [00:33]: I'm Mike. I'm Sean. And I'm Joe.
+
+**Mike** [00:36]: Double Dragon 3. There's a 2 and a 3 going on in there. I'm fine with it. Double Dragon 1 and 2, Essential Games.
+
+**Sean** [00:48]: Single Dragon 2, The Third.
+
+**Mike** [00:51]: Yeah, do we have strong feelings about this franchise? We've put both games on the Essential Games list, and we haven't voted to take them off, but we don't talk about Double Dragon that often.
+
+**Joe** [01:02]: No, we don't. And it's something that I have to admit, it's been a very busy week. I really wanted to go back and play the first two, but I only ended up getting through the third one. Because I want to remind myself, where do these fall on my best games of the NES?
+
+**Sean** [01:20]: I think we don't talk about them too much because they were so competent, and they feel so much like even modern beat-em-ups that we just don't even think of them in the same realm as some of the games we're playing, which very often don't feel like they're from this century, which they're not. So, maybe that's why.
+
+**Mike** [01:47]: That's a good point, Sean, that beat-em-ups, when they're good, are also kind of like turn your brain off. Yeah. You know, you just keep doing punching and kicking, and it just keeps working, and it just feels good to keep clearing enemies and moving forward. It's not the kind of thing of, like, a super satisfying platformer where, like, you kept missing the one jump or the RPG where you had to grind it out and you remember, like, the memorable story or something like that. They do have stories, and this does pick up where Double Dragon 2 ended, but it's not the kind of thing where it's like, that's why I came here to play, was, like, I have to finish out the story like you would maybe in, you know, any Final Fantasy game. Like, you most likely are there for the story first and foremost.
+
+**Sean** [02:37]: Yeah, I don't think I've ever, I mean, aside from maybe some games for this podcast, I don't think I've ever beaten a beat-em-up because you don't really need to. Like, you get your fix, you usually don't have save points, and you move on.
+
+**Joe** [02:56]: Yeah, if anything, maybe I beat one of the TMNT games when I was a kid, but yeah, it was, I played beat-em-ups a lot, but yeah, it's just, you just, you play, you play with a friend, you have fun, and then you're like, alright, shut it off.
+
+**Sean** [03:08]: Like, you don't save it or anything, you're just like, you don't care.
+
+**Mike** [03:11]: And Double Dragon 3 picks up one year after Billy and Jimmy defeated the Shadow Warriors. Marion, who's been kidnapped times before, kidnapped again. Uh, the only witness to that, as mentioned in the back of the box, is dead, that's Brett. Uh, he dies before revealing anything. So, a fortune teller named Haruko shows up and says that the kidnappers are searching for the three sacred stones of power. But my question is, what would Marion have to do with that?
+
+**Sean** [03:42]: I think that she killed her. Like, she's just a regular person.
+
+**Sean** [03:47]: However, how often has she been kidnapped? Yeah, this is the third time. This is the third time she's been kidnapped. The only reason that we know she's been kidnapped is the dying breaths of the guy on the floor in the first screen. I think she just wants to get away from Billy and Jimmy.
+
+**Joe** [04:05]: Maybe she's working with them and just getting kidnapped. She's like a double agent. When she's actually with the enemy and you think she's being held, she's actually working with them. And like, when she's with you, that's when she's with the enemy. They're trying to lure you to find these stones for them. Making all this up right now.
+
+**Sean** [04:21]: People just don't get kidnapped three times. That's all I'm saying.
+
+**Mike** [04:25]: So, you're saying it's kind of like the Princess Peach theory where, like, she wants to be kidnapped by Bowser.
+
+**Sean** [04:31]: Yes. But that makes a lot more sense because it's just like a Mario thing and there's not even lip service to the idea that whatever's happening in a Mario game is a real thing. Whereas this seems to be taking place in the real world.
+
+**Mike** [04:49]: So, different. Now, the Lee brothers, their name's Billy and Jimmy. But maybe that's not true because in Double Dragon 3, if you're playing two-player on the intro screen, it says, A year has passed since Bimmy and Jimmy defeated the Shadow Warriors. An obvious typo. A funny one at that. And did wind up getting referenced in later Double Dragon games as like, okay, okay, we're in on it too now. But there's something funny about their names being Bimmy and Jimmy instead.
+
+**Joe** [05:21]: It's also just funny that it's like, it feels like it's such a blatant typo that it feels like the last second they're like, shit, we didn't do a title screen. They typed it out real quick and shipped it. Like, nobody read it again. It's the first screen you see in the game.
+
+**Sean** [05:36]: And there's like one of the main characters' name is spelled wrong. I don't know. I mean, I have a friend from high school named William and we called him Bimmy. Oh, that's great. Yeah.
+
+**Joe** [05:48]: Maybe it's not a typo. Maybe all the Billys are typos. Every time it says Billy, that's the typo.
+
+**Mike** [05:52]: Or maybe this was just like Bimmy normalization for your friend. Like, they were just trying to make it like, yeah, no, no, it's fine. Some people can be named Bimmy.
+
+**Joe** [06:00]: Do you think Jimmy's full name is Jillium?
+
+**Sean** [06:03]: Yeah. That is awesome.
+
+**Mike** [06:09]: All right. And so as the Lee brothers and two additional fighters, you will travel through the United States, China, Japan, Italy, and Egypt in search of these sacred stones of power. However, in the original arcade version of this game, which came first, though, they weren't sacred stones. It was the Rosetta Stone. And that just feels like a weird thing to change because the Rosetta Stone is like a known thing. And I guess it would make sense about like ending up in Egypt if you have to get the Rosetta Stone. But instead, they made it about the sacred stones. And we will definitely get more into that arcade version because there's some baggage behind that one. But we'll save that and continue talking about the NES release. We're in February of 1991. It's developed by Technos Japan. And apparently, according to the Internet, it was the seventh best selling console game that month in the U.S., which I'll be honest, doesn't sound that high.
+
+**Sean** [07:11]: That's a lot of qualifiers.
+
+**Mike** [07:13]: Right, right. Like in the United States specifically and only seventh, like there was only like 15 games coming out that month. So it was just kind of like middling, you know. So that happens. Apparently, there's a massive overproduction by Acclaim, who's doing the publishing for Technos Japan. And there were 500,000 or more unsold copies just sitting in warehouses after that initial month.
+
+**Sean** [07:39]: That seems like a real operations problem there.
+
+**Mike** [07:44]: Yeah. And it seems like they anticipated a lot of sales, too, because surely Double Dragon 2 would have indicated that. And I don't think word of mouth was what it was now, like that you would have found out if a game was good or bad. But I will say just to like get into it, like Double Dragon 3 is initially like for me was a bit of a head scratcher. And I did have to go back to one and two and be like, wait, are these games good? Like, were they like this? Because this game changed enough things in a confusing way that I wasn't sure if Double Dragon was always this hard and this frustrating. That was what I was going to say.
+
+**Sean** [08:27]: This feels much harder than the others. I don't remember it being so punishing that as soon as you die at any point in the game, you have to start the game over. Was that the case before?
+
+**Mike** [08:42]: No, you had lives in the other games. And I can't understand removing lives from this game entirely. Like that is nuts.
+
+**Joe** [08:51]: But was the idea that they were trying, like this is the third game, it should be harder, like it should feel like progressively harder and they just kind of did it in a cheap way or something? Because yeah, that is like unforgiving and like it's always like the opposite of your characters getting more powerful from game to game, like power creep. It's like power drain, power leak. I don't know. But you also like.
+
+**Sean** [09:13]: I like power leak, yeah.
+
+**Joe** [09:14]: Yeah, I kind of, I like that too, just coined it. But I also just feel the game is, I don't remember, Mike, you can tell me if the first two games were like this, frustratingly slow in the way you move. You're trudging. It's like you're walking, I'm like underwater the whole time. Like that makes, like I feel like the whole time I'm playing, I'm pressing the button, the directional buttons really hard. Because like subconsciously, I'm like, go a little faster as people are attacking you.
+
+**Sean** [09:41]: Well, you got a double tap.
+
+**Joe** [09:42]: Double tap. Well, yeah, you can double tap, but like it still feels stiff and trudging and like, you know, then you run and you can't like stop out of that. But just the whole game feels, it doesn't feel smooth, I guess.
+
+**Mike** [09:57]: Yes. So smooth is the issue because Double Dragon 3 looks a lot like Double Dragon 2, like graphically and how the character, you were asking about movement. Like you do move at the same speed, you are the same size and everything. But something happened with the actual combat of your character specifically. The other character, the enemies, they're doing just fine. They're capable and they seem to always be able to attack. Like there's something slow about your movement and like the hip box of your punches and kicks that just don't always connect and found me kind of like air punching. Like if I was in my dreams, you know, and I'm like, oh, I'm going to give it to this guy. Like that happened a lot more in this one than it did in Double Dragon 2, which I did go back to. So I just feel like something happened here and there was a big change that in Double Dragon 2, the original Double Dragon had this where there was dedicated punch and kick buttons. Double Dragon 2 lost that, but Double Dragon 3 goes back to it. And I don't think that like that alone can be the issue, but there's just something about the timing of your attacks that feels off and winds up making it so that the enemies land a lot more of their hits on you, especially because you're dealing with multiple of them at a time in two different directions. Yeah, and you're right about that.
+
+**Joe** [11:15]: I hadn't even like thought about it as the hit boxes, but that's the huge problem, like especially your punch. Like it just feels like you have to be you have to be so close to them that that you need to have gotten hit once before before you're able to punch them. And, you know, not literally, but it does feel like that a lot of times. And like that that hit box thing combined with like the fact that you're there's like the feedback doesn't seem like as as immediate when you press the button. And then also the fact that every enemy, even the lowest enemies, you have to knock them down like five times to kill them. It just feels almost futile. Like every fight feels like a slog.
+
+**Sean** [11:54]: Yeah, I don't know if it's because the the first and second game didn't have like this super move thing, but I got into a lot of situations like, you know, I was playing the game normally for the first three or four times that I died. But then I just ended up spamming like that, like spinning the spinning kick. Yeah. Or I guess maybe it's a more more Chun-Li kick that. It stopped being a beat him up and I was just cheesing it. And I never really thought to do something like that in the other game.
+
+**Mike** [12:32]: So I think that that that speaks a lot. Yeah, I that's because, you know, and we were joking on the TMNT two episode that like you basically just wind up jump kicking everything because it covers enough ground and it just makes it this way. The enemies get hit back. And then this way you get when they get back up, you can just jump kick again. And that wound up being a similar theme here in Double Dragon three where it's like the punch and the kick maybe have such a limited range that you are just better off doing that spin kick in the air or the I mean, this is really cool. This is a cool one where you like jump on top of them and grab them by their hair and then like throw them down. Like those animations are cool and everything, but you wind up just doing the special moves because they deal more damage because they have more range and you very seldom just do the beat them up part.
+
+**Joe** [13:22]: And that one that you're describing that grabbing them by their hair and flipping them. That's what I did, Sean. Like I the instead of the spinning one, I was constantly flipping these people over to one, get them away from me.
+
+**Sean** [13:34]: And two, because it was just like a move I could do.
+
+**Joe** [13:36]: So it was like the whole game was me just like when someone goes at me, I throw them to the left side of the screen. I throw the other guy to the right side of the screen. By that time, the other guy's coming back at the room, the left side is just throwing these people back and forth as much as I possibly can flipping around, you know, which was maybe fun at the very beginning. But it got very repetitive and tedious very fast.
+
+**Sean** [13:57]: Yeah, that like again, just the spin kick was the only way that I could be the the first boss against the chin man chin man.
+
+**Joe** [14:08]: I've got a I've got a trick a tip for you against the first two bosses is just use the nunchucks.
+
+**Sean** [14:17]: I usually waste that early.
+
+**Joe** [14:19]: But yeah, yeah, I after I like died like on the boss the first time I had to start the game over. It's like I'm just saving the nunchucks until the boss and it was like, yeah, the first boss I could just beat him. One, two, three, four, five hits with one nunchucks. He's down. He doesn't do anything.
+
+**Mike** [14:35]: And chin who that is his actual name. Chin say may say my. He is the first boss that you take down or not. He's in the second stage. But when you take him down, he joins your party. And so he's one of the new playable characters previously just Billy and Jimmy. Now you have chin and Yagyu is the other one. And Yagyu has a katana, which is awesome. They all have tradeoffs and they are the the I guess compensation for not having a live system is that they all have their own health bars. And when one dies, now that you have the others, you you go to them instead. Instead, I'd still much appreciate like some kind of, you know, life system so that it's not just over when everyone dies. But that said, I do like that they didn't just make them, you know, sprite changes and they actually like chin is slower, but he has more health and he has that double jump kick. And Yagyu, as I said, starts with the sword and he has like a cool. Like front flip that gives him more jumping range. That's also useful in some of the later stages just for the platforming side of it. The names aren't quite as memorable as Billy and Jilly.
+
+**Sean** [15:59]: I don't know. Jilly.
+
+**Mike** [16:00]: I did it. I made my new version of Bimmy, Billy and Jimmy. But, you know, chin and Yagyu were welcome additions to the roster.
+
+**Sean** [16:10]: I get that and I appreciate that they have a different play style as sort of not unlockable character. Yeah, they're unlockable characters basically. But I don't think that they're a good replacement or stand in for lives because you then have to immediately adopt a different play style. And which it's not going to be radically different. It's still punch, kick, whatever. But you kind of have to modulate and just adjust. You have to think about the speed changes. And God forbid you end up in one of the actual platforming sections that usually these games don't have. But it's just a weird tradeoff that they made here that I don't think was... Like they didn't need to make that tradeoff.
+
+**Joe** [17:03]: Yeah, I feel like that idea that you're describing, like it could work as a game mechanic but not in this game. Of like, oh, instead of a light, like you die, now you have to play the game a little differently. This game wasn't built around that. It doesn't feel like... I mean, even playing as chin to me doesn't feel like it was as... I don't know, it didn't feel like it fit as well. Like maybe it was just harder for me because I wasn't as used to it. But like after like just trying out playing as chin, I pretty much just went back to Billy until I unlocked Yagu.
+
+**Sean** [17:34]: But like it...
+
+**Mike** [17:35]: Yeah, I just...
+
+**Joe** [17:36]: It like doesn't feel like there's much incentive for me to play as the other character. Maybe it's just because I have a preference.
+
+**Mike** [17:44]: But yeah, that's how I felt. Yeah, the only preference really is like to exchange health, right? Like if you're low on one guy and don't want him to die, you would go to the next. But like they couldn't even have done something like, oh, you need to switch to this character to complete this section because then you would wind up having a bunch of softlock things if they had previously died. But do the different characters even make like sections notably easier? Like is anything like with the katana with Yagu, is that like any better than the... What do you get? You get the... You get the nunchucks with Billy and Jimmy and the iron claw with chin. Like is that any different?
+
+**Sean** [18:31]: I don't think so. I think they're just... It's just a more potent attack. And they're... They basically... They all play the same purpose of getting a few kills with less effort for a little bit. Yeah. I also like...
+
+**Joe** [18:51]: I don't... I get it as a game mechanic. And I even get the logic of like in some cases like a weapon, I guess, breaking after a certain amount of hits. But I hate like a melee weapon having ammo. You know, it's basically what it is. You get five hits with your nunchucks. Nunchucks don't break after five hits.
+
+**Sean** [19:10]: That's just like... Have you ever used nunchucks professionally, Joe? I have actually.
+
+**Joe** [19:14]: Oh, okay. Before this podcast, Mike saved me from the streets of wherever.
+
+**Sean** [19:22]: We couldn't play the other games, but you did have nunchuck training time. I see. I did.
+
+**Joe** [19:28]: Yeah. That's why.
+
+**Sean** [19:29]: But like that...
+
+**Joe** [19:32]: And then there's like the weapons that you pick up that other enemies drop. And you... Like if you get hit, you drop that weapon.
+
+**Mike** [19:39]: Which is good.
+
+**Joe** [19:40]: That's a good game mechanic. But also you get like five hits with that weapon. And then it breaks. And I feel like pick one or the other. Pick one way to punish me or the other. Like one way for me to lose this weapon or the other.
+
+**Sean** [19:50]: It's stupider. It's just like... It's stupider, Joe. The logic is that you can use that weapon all you want. But as soon as the guy that dropped it dies, that weapon is just removed from your inventory.
+
+**Joe** [20:05]: I did notice that by the end. You're right. So, I mean, I guess that is how weapons work.
+
+**Sean** [20:09]: Because they are part of... Yeah, they're all tied to our life force. Life force. Yeah.
+
+**Joe** [20:16]: For a game mechanic, it's almost like they put two mechanics in there to balance it. And that unbalanced it.
+
+**Mike** [20:21]: And even the ones that do have limited uses, you know, the nunchucks only having five or whatever. They're more powerful. So, like, you know, smart money says save them for the boss fights. And then just rotate through your characters once you have them all unlocked. And just go like, okay, five hits of the nunchuck. Five hits of the iron claw. Five hits of the shuriken.
+
+**Sean** [20:43]: You know, it's like you're just gonna be able to take care of the boss faster.
+
+**Mike** [20:47]: But then it makes the regular gameplay a slog. Whereas, like, you could have had... If you were gonna go ammo based, you could have had pickups throughout to at least be like, okay, cool. Now I've got 15 nunchucks. And each time they break, I guess, every time you use them. But that's just how strong the enemies are.
+
+**Joe** [21:04]: Right. And for that reason, too, I did feel like, at least for the first few bosses, I felt like they were easier than any one given regular enemy. Because I was just using the nunchuck on the boss and just hit him five times and he's dead. And, you know, that gets harder as it goes. But, like, every single enemy feels like I gotta square up against them and knock them down a few times. And, like, hitbox problems, you know, abound are just, like, ruining my chances.
+
+**Mike** [21:31]: The five stages, again, the different countries, US, China, Japan, Italy, and Egypt, you know, they have unique visuals and themed enemies around those locations. But, and, you know, this is a problem with other NES games where, like, the scope is just kind of implied. It's not really delivered. It feels like you're just, like, going from, like, one room to the next in these stages, even though you're, like, theoretically traveling the globe. I don't feel like the game delivered on that, even though you have, like, this map screen that shows you, like, where and the... No, you know, but I'm... Maybe, like, maybe I'm asking a little much here, but Ninja Gaiden and games like that are able to do cinematic storytelling on the NES in an appropriate way. And Double Dragon 3, like, is trying between the manual and the dialogue in the game, like, it happens during gameplay. It's trying to deliver a fuller story, and I feel like it just needed a little extra connective tissue between stages to flesh out the third entry in a franchise rather than just feel like, okay, cool, you did US, now it's time to move on to China. It's, like, it needed something else.
+
+**Sean** [22:49]: I guess I don't really know what they could have done. I mean, they do have... I feel like in any other game, all we get is just a palette swap, so...
+
+**Mike** [23:00]: That's what I'm saying. I'm saying it's just a problem with NES games in general, but, like, we're not really... I'm not really feeling like I'm on some epic world tour.
+
+**Sean** [23:09]: I think that the levels are too short to feel like anything like that.
+
+**Mike** [23:13]: You get, like... I agree.
+
+**Sean** [23:14]: You get these rooms that just fill up with enemies until you beat enough that the game decides, all right, you had enough. Walk through the door. Then you get some side-scrolling... A very short side-scrolling area that ends up being another... Just another room that enemies come out of doors because you get to the end of the hallway, basically. Um, and then throw in a couple weird, again, platforming sections, and that's what you get. Um, but I don't even know if it's that because, you know, I know it's not a fighting game, but I feel more globetrotting in Street Fighter than I do here, too. So, and those just have the one screen.
+
+**Joe** [23:58]: Yeah, I think part, like, part of the issue for me was just that these rooms, like, it is just that you don't feel like you're progressing through these stages. You can get to the end of the stage, it doesn't matter. It's just, like, kill ten people, and then you can move on. And the fighting doesn't change enough. Like, you know what I mean? Like, eventually you get, like, new enemies, but, like, they're... In any given level, there's, like, two types of enemies. You fight one, another one comes, another one comes, another one comes, another one comes. That's the level. I feel like I've gotten the experience that I want out of it after fighting, like, two of each person. Because I'm not moving through the level, I'm not seeing any visible progress. I'm just fighting the same two guys over and over again until the game tells me to do that again in another room.
+
+**Mike** [24:46]: But then you fight a boss, and those are different.
+
+**Joe** [24:49]: Yeah, yeah, they're fine.
+
+**Sean** [24:50]: Bigger guys. I think it's weird that, like, back-to-back weeks, like, an enemy is a woman in a desert with a dress that turns into a fire serpent.
+
+**Joe** [25:06]: Do you think that'll be all the games going forward? What do you think the odds are?
+
+**Sean** [25:10]: I think it's all of them now, yeah.
+
+**Mike** [25:12]: It was a big moment in the culture. Fire serpent women?
+
+**Sean** [25:17]: Yeah, yeah.
+
+**Mike** [25:18]: They were thirsting for them. Before we get to the end of the game, though, I just wanted to touch on, too, that, like, it didn't have to be maybe as hard as it was, because the Japanese version of Double Dragon 3, like, basically put everything in the player's favor. Every character has 10 extra points of health. The number of enemies that you have to, like, defeat in order to move on from each area is reduced in the Japanese version. I don't know why they, I think even the enemies deal more damage to you in the U.S. version. We've talked about that in general, that, like, they made these U.S. versions of the games harder or whatever. But it doesn't, when things like that happen and then you learn about them after the fact, like, we're learning about them here, it makes me wonder, like, well, did they playtest it and realize that maybe they pushed everything a little too far? Like, that between having a lower health and greatly increasing the number of enemies that, like, it was going to cause a problem in the balance of your game? Because I couldn't get very far in this game without, like, using some cheats to continue to see the other stages.
+
+**Sean** [26:38]: Yeah, I think we keep going back to the whole rental situation and I can't, I mean, I know it's just sort of playing on repeat, but I feel like it has to be that. There's no reason, there's no way that they think, like, oh, Americans are just better at video games.
+
+**Mike** [26:56]: It's not that. And Egypt being the finale, when you get there looking for the Rosetta Stone, I mean the Sacred Stones, which you have all of them now, so you're uncovering the tomb and eventually fighting a bunch of first mummies, and then the mummy reveals itself to be the final boss, which is, as Sean mentioned, this fire serpent woman who, it's Cleopatra? Or it's actually Princess Noiram, because that was changed, she was Cleopatra in the Famicom version, now in the NES version, she's Princess Noiram.
+
+**Sean** [27:34]: She's Darth Marion.
+
+**Mike** [27:36]: Right, yeah, exactly. It's revealed that Princess Noiram was actually Marion, or Marion under a spell as Cleopatra.
+
+**Sean** [27:44]: First off, pick a final boss, there can't be four.
+
+**Mike** [27:48]: And then also, it's only revealed to you after the fight that that was Marion under a spell. So it's like, I'm sorry, guys, but, like, I wouldn't know that that was Marion. I wouldn't have this, like, oh, shit, dilemma of, like, now I gotta fight my girlfriend? Like, I wouldn't know that that was my girlfriend. I would have thought that was Cleopatra.
+
+**Sean** [28:09]: Like, I'm in Egypt. Like, so it's a very confusing finale for a trilogy. How would you have treated it if you had to fight your girlfriend?
+
+**Mike** [28:19]: Well, I just think that that's an interesting, like, that's a more interesting fight screen in general, right? Like, some kind of text dialogue. Even if she is under a spell, it's an interesting, like, dilemma to have of, like, oh, maybe, you know, maybe the answer here is, like, some, you know, video game bullshit where it's, like, actually, I'm supposed to let her beat me up. And that's how you win.
+
+**Sean** [28:40]: Ooh, that's, I think that doesn't happen until, like, that's, like, five or six years down the line. That's some woke shit, right?
+
+**Mike** [28:48]: That's some mildew solid shit.
+
+**Joe** [28:50]: That's funny. But there's, you know, there's, um, do you think there's, like, a, there's, like, a moral morality system only in the last battle?
+
+**Mike** [28:58]: There's multiple endings.
+
+**Joe** [28:59]: Whether you, whether you, you fight your girlfriend or you somehow, some other method of, like, waking her up, some secret method.
+
+**Sean** [29:06]: And then there's an alternate ending.
+
+**Joe** [29:08]: There's the good ending and the bad ending.
+
+**Sean** [29:10]: Well, this is all starting to sound like Resident Evil 9 now. So, I think we're on to something.
+
+**Mike** [29:13]: Well, I think the weight of what they were going for, though, could have, could have been because in the, the first game, if you, uh, get to the end, you have to fight. If you're, um, Billy, you have to fight Jimmy as, like, Shadow Jimmy or whatever. But if you're doing the two-player mode, you have to fight your brother. So, it's, like, if you're doing two-player, Billy and Jimmy have to fight at the end to the death to, like, determine the winner of who was the best player. And, like, you know, that's not canonical or anything. But that had, like, a cool moment where, like, the whole game you've been doing co-op and now you have to, like, street fighter it out amongst each other. And they could have been trying to go for something like that again by having it be, um, the girlfriend this time instead. But the fact that it's all revealed to you after the fight is over is, like, okay? Like, thanks?
+
+**Joe** [30:04]: Now I know? Yeah, it's like, it's like playing through a game and then, like, the ending screen is, like, the story section of the manual telling you for the first time what was happening in the game.
+
+**Mike** [30:13]: Right, right. Like, you Google it after the fact of, like, who was that in the movie? And it was like, what? That was his girlfriend?
+
+**Joe** [30:19]: See, I think the cleaner way to do it is to just stick with my idea and just reveal that the girlfriend's been working for the bad guys the whole time and just is a bad guy.
+
+**Sean** [30:29]: Like we said, the only way that this entire series makes any sense is if that's the case.
+
+**Mike** [31:06]: We'll see you next time. Well, the series really stopped making sense at Double Dragon 3 because the arcade version is a completely different game developed by a completely different team. It wasn't Technos Japan. It was East Technology. They outsourced it. I'm not sure why. But the arcade version came out first in 1990. And as I mentioned, it is Double Dragon 3, the Rosetta Stone. And it pioneered a feature that gaming would spend, even to this day, arguing about. And that is that the North American arcade version released microtransactions on the arcade machine itself. What? An in-game shop where, like, you could put in additional quarters to purchase power-ups, weapons, extra moves, and new playable characters.
+
+**Joe** [33:05]: Honestly, I cannot believe no other arcade game thought about that before this.
+
+**Mike** [33:10]: Before this, right? Yeah, yeah. After this, sure. It's like all bets are off. But, like, keep in mind, you always have, like, microtransactions in an arcade game with continues, right? Like, you could just outlive a game by just constantly putting in quarters and picking up right where you die. It doesn't, like, say, like, you can continue, but you have to start all the way over. It tells you, like, you can continue right from here. Just give us another quarter. This is saying, like, in the middle of the game, like, when you get to the shop, instead of using, like, points you acquired by defeating enemies, why don't you just give us a quarter and we'll make you stronger?
+
+**Sean** [33:42]: Wow. So it wasn't horse armor.
+
+**Mike** [33:46]: It wasn't horse armor that started. Well, horse armor, I guess, started the whole part of, like, yeah, we could do this in the arcades, but now we can do it at home, too. Like, we can do it right in their house.
+
+**Sean** [33:54]: Well, I guess it would be if in the arcade you could pay a quarter to change your hair color.
+
+**Mike** [33:59]: It was so poorly received that when the Japanese arcade game was released six months later, they removed the entire shop system and just gave everybody all those things. Like, you could pick any character you want right from the beginning.
+
+**Sean** [34:14]: All moves were available.
+
+**Mike** [34:17]: That is just, like, such a funny thing because then they do the same thing with the, I don't know, it's not a port, it's a totally different game. The Sacred Stones version where, like, the Famicom version comes out first and it's easier. And then they're like, all right, well, you know what, now it's too easy. Let's make it harder again for these Americans. Like, they screwed us twice between the arcade release and this NES release. The other problem for just Double Dragon as a franchise by this point is that Capcom has released Final Fight, a beat-em-up series. Only the first one's out by this time. But Final Fight improves on what Double Dragon's doing tremendously to the point where when you look at Double Dragon 3 coming out in the same year, no, the year after Final Fight, they look like they're behind now. Final Fight had not only just bigger sprites, better combat, more fluid animation. Like, when you're at the arcade, that's what catches the eyes first, right? Is, like, the way things look and how cool they look. And then you're like, all right, I'll check this game out. So Final Fight was now, like, making Double Dragon, you know, it failed to compete at that higher standard that Final Fight, which would eventually come to, like, Super Nintendo and Genesis, was laying down.
+
+**Sean** [35:34]: I haven't really played Final Fight. I feel like I've played fighting games that have Final Fight characters in them, but that's a blind spot for me.
+
+**Mike** [35:46]: Now, I know... Yeah, same, I've never played them. I know that Final Fight was supposed to be, like, part of the Street Fighter line. So I don't know if, like, Street Fighter characters are in Final Fight or vice versa. But when I was looking up, like, the history and development of it, it was just going to be, like, a spinoff of Street Fighter called Street Fighter 89. And that's just kind of funny that they were like, nah, you know what, instead, it'll just be its own thing. We'll just make another hit series. Like, we have Street Fighter, let's just make another hit series. What do we got to lose? It would make sense, though, right? To just, like, where's the Street Fighter, like, RPG?
+
+**Sean** [36:23]: No. Just keep doing that, right?
+
+**Mike** [36:25]: No. But Chun-Li.
+
+**Sean** [36:30]: I don't want to have to change Chun-Li's stats. Yeah, her stats.
+
+**Joe** [36:37]: Sean is notoriously anti... Sean is notoriously anti-JRPG.
+
+**Sean** [36:42]: I don't want a fighting game to be a JRPG.
+
+**Joe** [36:46]: Yeah, I think a fighting game should be a puzzle game.
+
+**Sean** [36:50]: Street Fighter 6 has a fighting game JRPG in it. Just as a heads up.
+
+**Mike** [36:56]: The closest we got to a fighting game RPG was with Final Fantasy VI, Final Fantasy III, where you actually had... The name's escaping me now, but the one playable character who you had to put in, like, the directional inputs in order to actually pull off those. Is he the one that suplexes the train? Yes, he's the one who suplexes the train.
+
+**Sean** [37:17]: Who else could do that?
+
+**Joe** [37:18]: Yeah. I want to backpedal a little bit to the arcade game, because I started watching a video of it, and I just noticed... I don't know if this is the end screen or the start screen. There's a, like, badge from the Department of Justice.
+
+**Mike** [37:33]: Oh, that's enough.
+
+**Sean** [37:35]: That is a lot of arcade games at the time. Really? Yeah, because I didn't play a lot of arcade games.
+
+**Joe** [37:39]: The winners don't use drugs. Yeah. From the director of the FBI, quote.
+
+**Sean** [37:43]: Yeah, it's huge. From the director of the FBI. It's huge in the late 90s. Sorry, late 80s through, I think, the 90s. I remember it was, like, even if you go to a barcade in New York, the big arcade is also a bar. Half of those machines have that splash screen on them. Wow. Yeah, never saw it before.
+
+**Mike** [38:08]: Well, thank you, William S.
+
+**Joe** [38:09]: Sessions, director of FBI.
+
+**Mike** [38:12]: And moving on to the rest of Double Dragon. I'm pretty sure we won't see them again on the NES.
+
+**Sean** [38:20]: There's definitely not a 4.
+
+**Mike** [38:21]: 4 came out in 2017, so it's definitely not going to be on the NES. Super Double Dragon. The next natural place to take any game that was on the NES and make it super. However, that'll come out in 1992, so next year. So, not too far off. There was also a Neo Geo fighting game spinoff of Double Dragon. It came out in 1995. Technos goes bankrupt in 1996. So, a company called Million, which is basically former staff from Technos, go on to continue what Technos Japan was doing. They are later acquired by Arc System Works in 2015, who, I believe, made Double Dragon 4. And it was not reviewed well. Very poor reviews for Double Dragon 4. But Double Dragon Gaiden Rise of the Dragons came out in 2023. And that was better reviewed. Nothing earth-shattering. Nothing, like, no pivotal feature worth talking about. But we're just talking about the difference between a game getting, like, in the 40s and 50s and now being in the 60s and 70s.
+
+**Sean** [39:30]: Good for them.
+
+**Mike** [39:32]: And good for us. You know, the series really ends on a high note for us on the podcast. I've been so pumped this whole time. So, maybe that's what we're going to find out on the Essential Games list.
+
+**Mike** [39:49]: Joe. Yeah.
+
+**Joe** [39:51]: I think that this game, like, this sounds really harsh and hear me out, but I think it's worse than boring. And I don't mean it's, like, the worst game we've ever played. I just think it's, like, if it were boring, I wouldn't be as frustrated or pissed off while I'm playing the whole time.
+
+**Sean** [40:07]: I would just be bored.
+
+**Joe** [40:08]: But instead, I'm, like, I'm, like, just, I just want to fight these people. I just want to, like, be able to knock some people down. And it's, like, it just really feels like a slog to just take on every single person for me. I found this a pretty frustrating and trudging experience is the best way I could put it. I think I will have to go back and revisit the other Double Dragons, but I got to imagine that I had a better time with them by far than I did with Double Dragon 3.
+
+**Mike** [40:40]: Not Essential.
+
+**Sean** [40:42]: Sean. Yeah, I wouldn't say I was bored by the game, but definitely frustrating, which gets in the way of any kind of enjoyment. I mean, it's still, like, it still feels a lot like the games that we liked. They just tweaked it in some pretty suboptimal ways. And that, the difficulty spike is always going to draw a lot of noise from us.
+
+**Sean** [41:09]: But mostly, like, the difficulty as, not even just, like, oh, how many punches and kicks will this take, but, like, just the weird nonsensical stuff about, like, your, the weapons and the live system.
+
+**Mike** [41:23]: And it's, it's tough.
+
+**Sean** [41:27]: It was, it was tough to get far. I probably wouldn't put too much into this if I were doing it casually. So, yeah, it's not essential.
+
+**Mike** [41:36]: I think, uh, just going back to Double Dragon 2, it, it will show exactly what 3 regressed on. And does it make me worried that I'm gonna remove 2 from the list anytime soon? Knowing that, like, games like Final Fight and Streets of Rage are out or, you know, will continue to eat Double Dragon's lunch, though, it is just weird that Double Dragon 3 seemed to be, like, maybe it was just too comfortable. Like, uh, oh, we know what players like, and we'll give them more of that. And it's, like, you, if you knew what we liked, you would have just given us more of 2. Uh, so, sometimes it's not a good thing to, you know, like, we're seeing Mega Man doing it successfully, but sometimes it is good to change up the formula. And other times it's best to just keep what worked, uh, you know, keep a good thing going. I did forget in the, uh, spin-off sequel section that, like, we are gonna get a Battletoads and Double Dragon game. Uh, that's, like, an interesting mashup, but we haven't played Battletoads yet, at least for the podcast we haven't played it. I'm sure we've been exposed to it. Um, so, jury's out, but at least, like, one half of that game has me excited. If, like, I think, like, Double Dragon 3 is just, like, probably a weak spot in a good franchise. And the first two games being on the Essential Games list speak more to, uh, their quality than, like, our naïveness.
+
+**Sean** [43:01]: Naïtevide. How do I say that word? Just keep it there, just keep it there.
+
+**Mike** [43:06]: Thank you. Yeah. Uh, so, no, it's not Essential. Um, I forgot to say that part. And, uh, you know what is Essential?
+
+**Sean** [43:13]: The Essential Games list.
+
+**Mike** [43:15]: Uh, and then we just play the song again and we're stuck in a loop. Yeah, perfect. Every, um, no, listening every Friday, because we've got more episodes coming, like Flying Warriors. Uh, thought that would be a shmup. It's not. What do you think Flying Warriors is?
+
+**Joe** [43:31]: I think it's a beat-em-up.
+
+**Mike** [43:33]: Okay. Sean?
+
+**Sean** [43:35]: I think it's a, uh, shop management game.
+
+**Mike** [43:39]: Ooh, let's go. Let's go. It's a, it's a PC simulator game. You build your own PCs and you're, you're the Flying Warriors. That's like your shop name. Yeah, right. Uh, and then, you know, also on, um, the Patreon, patreon.com slash nostalgia. Uh, we're just doing a lot of cool things. I think it's worth, uh, you know, just knowing that if, if you're at all interested, check out, uh, the Patreon website. Even if you don't want to sign up for it because there's some free posts that will show you the kind of stuff we're doing. And, uh, maybe that will hook you in. So all I'm asking, if you're a fish out there, don't eat the bait, but just check out the bait. Take a look from a distance. See, maybe, maybe it's for you. Bye.

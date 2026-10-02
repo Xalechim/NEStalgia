@@ -1,0 +1,463 @@
+# 411 - Ninja Crusaders
+
+_Auto-generated transcript. Speaker names are matched automatically by voice and are not perfect, especially on short interjections. The opening name introductions are left as "Hosts"._
+
+**Mike** [00:00]: Ninja Crusaders, they struck without warning.
+
+**Mike** [00:18]: And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+**Hosts** [00:27]: I'm Mike. I'm Sean. And I'm Joe.
+
+**Mike** [00:32]: You guys sick of ninjas yet?
+
+**Sean** [00:34]: I am.
+
+**Joe** [00:35]: We can't go any further than this. This is my threshold for ninja games in a row.
+
+**Mike** [00:39]: Three in a time? That's rough, because I have bad news. There's definitely another ninja game happening imminently.
+
+**Joe** [00:47]: Well, as long as there's anything in between it.
+
+**Mike** [00:49]: Okay, there is. Yeah, Ninja Crusaders would make you think maybe that this is about ninjas fighting during the Crusades?
+
+**Sean** [00:57]: But it's not that.
+
+**Mike** [00:59]: It's ninjas fighting aliens? But I question that too, because if you play the game versus read the back of the box or the manual, it really looks like they're fighting like robots in the future, not aliens.
+
+**Sean** [01:13]: I mean, what's a robot or an alien? Like, this is just sort of things that kind of blend together. Like, ninjas and aliens. Like, they kind of blend together for me too.
+
+**Joe** [01:25]: Yeah, right, right. And I feel like there are definitely some, you know, biological creatures here and robots. I feel like the robots are just like part of the aliens arsenal.
+
+**Mike** [01:35]: Right. It's like, did they take over Earth's robots or did they bring their own?
+
+**Sean** [01:40]: Oh, I don't know. Well, actually, no, I'm pretty sure that I saw some stuff from Metal Gear Solid 4 in there. But it could be one or the other.
+
+**Mike** [01:49]: And the, like, robots that eventually leads to aliens thing kind of reminds me of Contra. And then the game kind of plays like Ninja Gaiden. So this is like Ninja Gaiden meets Contra, at least in plot.
+
+**Joe** [02:02]: Well, it's somewhat in game design too. Yeah. The two player, you know, focus for Contra.
+
+**Mike** [02:08]: So that sounds like it's going to be great.
+
+**Joe** [02:10]: Only one way to find out.
+
+**Mike** [02:12]: Right, right. I guess that's what we're going to do on the episode. This is a side-scrolling action platformer where two ninjas who have names, Talon and Blade. Blade. Yeah, Blade's always a cool name.
+
+**Sean** [02:24]: You can't actually go wrong with what...
+
+**Mike** [02:26]: There is a really cool, I think it's Hong Kong. There's a Hong Kong movie called The Blade. And it's amazing. It's actually getting a Criterion Collection release.
+
+**Sean** [02:37]: Oh, is that the one where he has to kill off his multiversal versions of himself so he can be the... The Ultimate Being?
+
+**Mike** [02:47]: I don't think so. Oh, that's the one.
+
+**Sean** [02:50]: Sorry. Never mind. Okay.
+
+**Mike** [02:51]: Yeah, there you go. In this one, which has nothing... We're not going to talk about that movie. We're going to talk about this game. As I mentioned, they're taking on an alien invasion with, and this is the twist, the ability to transform into animals. That's right. It's ninjas who transform into animals fighting robots and aliens on Earth.
+
+**Sean** [03:12]: This is incredible.
+
+**Joe** [03:13]: This is the coolest thing that's ever been written.
+
+**Sean** [03:17]: It's the most 1990 thing that has ever happened.
+
+**Mike** [03:21]: I was thinking about Cowboys vs. Aliens, that movie with Daniel Craig and Harrison Ford. And it's like, you know, that movie was kind of lame by comparison to like, what's going on here in 1990? Like, they didn't think big enough.
+
+**Sean** [03:36]: What was it about ninjas in like, the mid to late 80s into mid 90s? Like, what was it about them?
+
+**Mike** [03:47]: I think we need an anthropologist on the show to like, really just break it down. Because, you know, my immediate reaction is that it all has to do with the Ninja Turtles.
+
+**Sean** [03:56]: Like, they start it all.
+
+**Mike** [03:59]: And then like, from there, it's just like, ninjas are so back.
+
+**Sean** [04:02]: And we got to put that that tracks in my head. Like that tracks for me. But that's just because it feels like that's true. Yeah, it just feels right.
+
+**Mike** [04:11]: You know, like, I want to know when Ninja Turtles came out, which I think like the first Laird and Eastman comics were in like 84. And then I want to know like, when Karate Kid happened. Mm hmm. Not exactly a ninja, but he's bringing back like martial arts. And that's kind of cool. That's true. But am I missing like a big ninja movie? I must be. There's gotta be.
+
+**Sean** [04:31]: Yeah, it's it's gotta be a movie that was only very small. Like it was it was very. It was very influential, but nobody saw it. But the guys that made Ninja Turtles.
+
+**Mike** [04:45]: Right, right. I can't think of like a big like like star like a blockbuster ninja movie in the 80s. And so that's gotta say something. It's all happening in video game form. And toy form. It's like really what did ninjas have going for them to that makes them so like repeatable like the.
+
+**Joe** [05:05]: I mean, it's just the it's just the shuriken. It's the stealth.
+
+**Sean** [05:09]: It's the drip.
+
+**Joe** [05:10]: It's the like. I think it's the. Yes. Honestly, that too. The kids say drip. Drip. Yes, they did.
+
+**Joe** [05:18]: Um, it's also yeah, it's just like any type of character that can just be like an unstoppable badass. And like that's just one of the ways for that kind of thing to be delivered. The same way like a cowboy is cool, but like in a totally different style. It's like this is a guy that can systematically take out his enemies and with speed and stealth and all the tools in their arsenal. Just it's just cool.
+
+**Mike** [05:39]: I love ninjas. I'm a target audience. Imagine ninjas turning into animals Joe.
+
+**Joe** [05:45]: I mean, that's I can't even I can't even get my head around it.
+
+**Sean** [05:48]: It's so cool. And now are we considering are we calling a dragon an animal?
+
+**Mike** [05:54]: That's true. It gets a little messy there, right?
+
+**Mike** [05:59]: And also like, you know, I don't know enough about I really fell asleep in biology class, but like a scorpion an animal to the scorpion is an animal.
+
+**Joe** [06:10]: Yes. Okay, because you can like act like a submarine underwater or something.
+
+**Mike** [06:17]: But yeah, so if animals are just blanket, though, then why can't dragons be an animal? I think I wouldn't consider it.
+
+**Joe** [06:22]: I think though, if a dragon were real, it would be an animal.
+
+**Sean** [06:26]: They don't exist is a great reason. I think that, you know, there's there's humans, there's animals, and then there's supreme undying beings. I feel like dragons are probably in that supreme undying being being category.
+
+**Joe** [06:44]: I mean, it depends on the it depends on the the source material, you know, like some dragons and stories could be just like, oh, yeah, they're animals.
+
+**Sean** [06:51]: Yeah, and others are like, yeah, these are like common beasts of burden.
+
+**Mike** [06:55]: Yeah. So the how to train your dragon is like a pet.
+
+**Sean** [06:59]: So he's pretty much an animal. Yeah, it's like a dog. Right, right.
+
+**Mike** [07:03]: They wanted to make a dog thing, but they just figured out that it'd be cooler if it was a dragon. How to train your dog doesn't have it.
+
+**Sean** [07:09]: Yeah, right. That's just a VHS.
+
+**Mike** [07:12]: How to train your dog was the working title.
+
+**Sean** [07:13]: Yeah. And they're like, what?
+
+**Joe** [07:15]: There's no dog in this movie. Why are we calling it this?
+
+**Mike** [07:17]: No, I think some local dog training company like sued them.
+
+**Sean** [07:21]: They were like, you can't use that.
+
+**Mike** [07:22]: That's our name. We're releasing that. Yeah, we have YouTube videos called that.
+
+**Mike** [07:27]: All right. Moving on. When I think about like ninjas transforming animals, I just think about things that transform into animals in general. And my mind goes right to Animorphs, which is something I have like only I only know the concept. I've never watched any Animorphs or I think there's even books.
+
+**Sean** [07:42]: I never read anything about the original. They were mostly books.
+
+**Mike** [07:47]: It didn't turn into a TV show? It did. And I watched part of it.
+
+**Sean** [07:50]: I don't remember why.
+
+**Joe** [07:52]: I recently watched part of like the first episode of the TV show.
+
+**Sean** [07:54]: You recently watched. Yeah, I don't remember why.
+
+**Joe** [07:57]: I was just like, found it somewhere and I was like, oh, I didn't know there was a show about this. I never read the books either.
+
+**Sean** [08:03]: But it was really stupid. So you saw the dying Andalite.
+
+**Joe** [08:06]: Yes. The alien thing, right?
+
+**Sean** [08:08]: Yeah. My cousin was super into Animorphs and I had the book. I had all the books basically. So I've never really read them, but I know too much of the lore.
+
+**Mike** [08:19]: And transforming into animals is like a, I want to say common, but it's been done. Just not yet like in video game form, I guess. I suppose you could make the argument for like some games doing it lightly, but not as like a core mechanic of their game. Okay. Uh, what about little Nemo?
+
+**Joe** [08:38]: Oh, he, he rode on animals, right?
+
+**Sean** [08:40]: Yes. Yeah. Okay. Yeah. I'm going to have to believe you because it feels like it had to have happened before, but maybe you're right.
+
+**Mike** [08:48]: Like Alucard turns into a bad, obviously, but like in Castlevania three, but it's not like, you know, it's just like a part of the game. It's not like, and everybody gets an animal. That's true. Now here's a funny story. Joe and I also played this game during our two player marathon and completely forgot about
+
+**Sean** [09:07]: that until right now. Also, that's, what's going to be so funny about this story.
+
+**Mike** [09:10]: Cause I figured you might've forgotten is that this is a lesson in why you should always when going back to these older games, at least do some kind of homework on the game before you start playing it, read the manual. Basic thing. We never transformed into animals, Joe.
+
+**Joe** [09:28]: That's why we were like, Oh, this is just a basic game.
+
+**Mike** [09:30]: You know? Yeah. It felt incredibly basic. It felt incredibly cheap because it's one hit deaths and it's just kind of like, all right, like he's not there. Their movement isn't nearly as good as, um, as Ninja Gaiden. So like, what's the hook here for a Ninja game? And lo and behold, when I was replaying it to start, uh, writing up the notes for this episode, it's like, hold on, hold on. In the manual, you hold down the B button and it's like, you hold it down for a while too. So it's, it's not something that can happen by accident. It's not like, Oh, you press the B button to transform. And so I hope that there are other people in our shoes who like bought this game, you know, years later for $5 or whatever, a thrift shop or a convention, pop it in and think the same thing. Like what's going on with this game. It's just ninjas, but it's like, no, there's a whole nother, like, depending on the weapon you have, you transform into a different animal. Uh, granted, there's only four weapons. So it's a tiger, a scorpion, a falcon and a dragon.
+
+**Joe** [10:30]: It's pretty good. And I got to imagine that most people that played that, that played the game in the way you're describing, like, unless you look something up or read the manual, you're not transforming
+
+**Sean** [10:40]: into any animals. I don't know. I feel like after enough time playing it, I would have tried to see what holding a button down would do. But I also can see myself in your, in your shoes too. I think so.
+
+**Joe** [10:55]: You have to hold it pretty long. Like Mike says, I feel like even if I tried to hold it down, it's like after the first second and a half and a half, I'm like, all right, nothing happened. I'm not charging anything up or anything like that.
+
+**Mike** [11:05]: Uh, but so there's roughly 10 stages in the game, but each, each one's like they're fairly fast, short stages. Uh, the problem of course is that there's one hit KOs on anything, but if you can, if you know these stages pretty well, you're looking at like a minute or two, uh, in, in each stage. That's of course the challenge. But when you have like, when you have a game with one hit deaths, it's probably for the best that they're actually pretty short stages, right?
+
+**Sean** [11:33]: Mm-hmm. I would think so. I also think though, that it's funny that, you know, you brought up the, uh, the, the, the two player, you guys did this. Um, I only played the single player, but in what the, in the little skimming of the research that I did, it seems like the game is pretty balanced for two player in that if you die, when when your other guy, like your teammate is still alive, it just works like a beat them up where they just kind of respond next to you. And in single player, if you die, you just have to go back to a checkpoint or to the beginning
+
+**Mike** [12:12]: of the level. I think it's the beginning of the level. I think it's very punishing.
+
+**Sean** [12:16]: Yeah. So I, that's a weird little like balance thing that I, I feel like if you played together, this kind of had to be a bit more enjoyable than if you're playing alone.
+
+**Joe** [12:26]: Yeah, I agree. I, I, I wish I had, other than when me and Mike played and didn't know how to play, I wish that I had played through this, um, in multiplayer, but, um, but I, I was less upset about the, um, the, how punishing it was after, as I thought I was going to be, you know, after I kind of got used to it. Um, you know, I, I usually don't like when it, you know, just sends you back to the beginning of the level, a one hit kill. But I do think this game is designed in a way where it compared to most shmups like this or shmups, uh, beat them ups, platformers, whatever, um, that we play. Um, it's a lot easier to knock it hitting this. It's a lot more like reasonable to say, I got to get through this whole, whole stage without taking a hit. And like, yeah, it is a challenge, but it's like, you are running through trying to like
+
+**Mike** [13:13]: learn the stage and whatnot.
+
+**Joe** [13:15]: But I think the game is very forgiving with lives. You get a lot of lives and do you get unlimited continues?
+
+**Mike** [13:23]: You get unlimited continues, which is something I wanted to talk to you specifically about because that was your complaint in Jackie Chan's action Kung Fu. Does it make it better here that like, granted, when you die, you go back to the beginning of the current stage. When you lose all your lives and you get back to the continue part, you start all the way back in the beginning of the area. So if one dash, whatever, uh, two dash, whatever, but the game offers you unlimited continues. So technically the battle's never really over until you give up.
+
+**Joe** [13:51]: I think it does make it a lot better. I do not think it's ideal. It's not my optimal choice. I would still want, um, maybe a little more, a little less repeating things. Um, but it, it, it wasn't as heinous to me as it was in the Jackie Chan game. Um, because I'm not like doing everything over again. And I think maybe it was just a little, I don't want to say it was easier, but it felt, I guess it was easier because it felt cleaner to play. If that makes any sense. Um, like easier to dodge things and, and, you know, I guess snappier. Yeah. So like that made it, that made it a little more like, oh, I feel like I'm playing a game and not just like memorizing everything. And I, and like, after I die and go back to the beginning of the stage, at least I'm not like, oh my God, I have to do all that again. I'm like, I think I can reasonably do all that again pretty quickly. And it's not like that crazy. And it still feels like I'm like getting better as I'm doing it. Um, yeah, still wouldn't be my first choice, but, and I do think it's clearly designed for multiplayer, but, uh, you know, it didn't ruin my experience.
+
+**Sean** [14:58]: Yeah. And single player, I, I, I'm for the first for through the first three levels or the first three areas, stages, whatever you want to call it. Uh, I, I would agree with you. I think then like stage four, there's just a huge like difficulty spike and there's like
+
+**Joe** [15:16]: aircraft carrier.
+
+**Sean** [15:18]: Yeah, I think so. And then there's just much, much faster and less predictable enemies. And there's more of them on the screen. And that just, that was definitely testing my patience a little bit, but I think like in the multiplayer, uh, situation that would be a lot more manageable and less so in the single player or, or you have to be a dragon.
+
+**Mike** [15:42]: We've played a lot of NES games at this point. And I'm used to being like, if it has one hit KOs, I'm just not going to see a lot of it on my own because I'm going to die fairly often and such. This game didn't necessarily have that problem early on. As Sean mentioned, eventually it gets a little more chaotic, but I didn't die as much as I thought I would, especially with the like animal assists, because they are like, if you're the scorpion and it's a water stage, it, you can kind of like breeze through most things. Uh, it's not like they're fast, short levels. And the one hit deaths certainly like hold it back, but it's not cheap. Like, Oh, as soon as you like spawn, you know, like where the enemies spawn based on where your place, like they just show up at a thin air and you're like, how was I supposed to know that? It's like, you weren't now you have to know it. Like if there wasn't a lot of like memorization stuff, just so much as like unlucky hits or like, Oh, you kept that enemy around too long. And you know, now you can't keep track of the projectiles. There was one enemy early on that I'm not even sure what it's supposed to be. Maybe it's like a drone or something, but it was like this long pink, uh, robot thing that like, yeah, clung to the wall and then like would just come out ran, you know, like would just start coming towards you and shooting projectiles. That thing was particularly frustrating and where most of my deaths came on early in this game. But even that it's like, all right, as long as I know it's coming and I've got like, you know, the right weapon, like even the weapon changes between like what the, what the ninja is able to do, like it all helps. And it all really like made the game actually feel pretty good up to a certain point for me. Yeah.
+
+**Sean** [17:23]: I agree. The feel is good throughout. Um, like I, and there is a good difference between the weapons and especially between the animals. Um, it, so I, I agree that there was the, the bone. The bones of the game are very solid.
+
+**Joe** [17:40]: Yeah. And I do think that the weapons feeling different goes a long way where each, each weapon feels like it does have a different play style associated with it. And you can, I mean, you know, there is a, a staff that I have no idea why it exists or why I would ever want to use it.
+
+**Sean** [17:53]: But the other three weapons are like the staff. Yeah. The staff is the, the, the staff will kill anything in like one hit.
+
+**Joe** [18:02]: And then I think, I think you're thinking of the, like the blade, right? No, I'm thinking of the wrong thing. Well, there's a, the thing that turns you into the bird.
+
+**Mike** [18:10]: Yeah. The thing that turns you into the bird is the staff and the staff.
+
+**Joe** [18:13]: I hate it. I never want to get that close to an enemy.
+
+**Sean** [18:15]: Well, sure. But like it is definitely like high risk, high reward with that thing. Like you can basically two shot bosses with it. And, um, it, instead of like taking like chip damage with your shurikens. And I didn't really have the sword all that often. Um, it's supposed to be rare.
+
+**Joe** [18:37]: Yeah. See, I thought it was the sword that did, at least when I had it, like was like, oh, it's killing everything in one hit. But maybe I just never even got close enough to anything with the staff to even get tested
+
+**Sean** [18:46]: out. Yeah. I mean, I'm sure it does that as well, but I was, I couldn't, I couldn't hold my horses and I would just immediately turn into the, uh, the dragon, the dragon as soon as I did.
+
+**Mike** [18:58]: Yeah. So there's an interesting trade-off in all of these, of course, and that you guys are doing a great job walking through them. I just, to be more comprehensive. So you have the shuriken, which, uh, you know, it has the longest range, but the weakest damage and yep, that transforms you into the tiger, tiger, tiger. And the tigers, you know, has a low profile first off. So a lot of like enemy melee attacks won't necessarily hit it, which is great, but it also has a very high jump. And I think that that claw swipe thing does more damage than the shuriken. I can't be certain, but I think it's like, it's in your favor. Basically, if like you have the shuriken to just transform into the tiger.
+
+**Joe** [19:37]: I see. It feels like, it feels like it does do more damage, but to me, I think it's just my play style. I'd rather keep my distance, but yeah.
+
+**Sean** [19:43]: So you want to play a shmup? Yeah. I love shmups.
+
+**Mike** [19:46]: You know, when you called it a shmup though, I had an idea that we should call beat them
+
+**Joe** [19:50]: ups bups. See, we should, but I do think that the scorpion underwater is a shmup for a few minutes.
+
+**Mike** [19:59]: But you know, it's the scorpion. I don't know why, but like another reason I believe that this game isn't cheap is because you get this, you get the, uh, what is it?
+
+**Sean** [20:11]: It's like a, it's like a chain thing.
+
+**Mike** [20:13]: Yeah. Nunchucks. Yeah. Um, you get that right when the sea level would, would start, you know, so it was sea level,
+
+**Sean** [20:21]: water level, you know?
+
+**Mike** [20:22]: And so you're like, you transform into the scorpion right when you should. And then you're like, oh, this thing, like, I wouldn't think the scorpion is great in the water, but like the game waited for that to like, let you know, but it's like slow as ass in the actual like real world.
+
+**Joe** [20:38]: You can't jump either. You couldn't even like jump from like one platform to another as the scorpion.
+
+**Sean** [20:42]: Maybe it's more like, like a lobster with like a laser beam attached to his tail. Cause otherwise I don't think, uh, I don't think the, the scorpion thing with water makes any sense at all.
+
+**Mike** [20:55]: Do they hang out underwater? Are scorpions known to, to, they, they mostly hang out in deserts. I think. So I'm going to look up the opposite. I'm going to see what they say about like what they call that thing. Uh, wow. This game has like no information.
+
+**Sean** [21:11]: I think it's a lobster with a fricking laser beam attached to his tail.
+
+**Mike** [21:14]: It's a, it's, it says it's an armored scorpion.
+
+**Sean** [21:18]: So that's not helpful at all.
+
+**Joe** [21:20]: And the AI overview says, yes, scorpions can survive in water and move around, but they
+
+**Sean** [21:24]: aren't strong swimmers.
+
+**Joe** [21:26]: They often get trapped in pools or sinks.
+
+**Mike** [21:28]: Ah, yes.
+
+**Sean** [21:29]: Thank you. So I don't know.
+
+**Joe** [21:32]: I don't know.
+
+**Mike** [21:33]: This is why we go to the manual, Joe.
+
+**Sean** [21:36]: The AI generated manual.
+
+**Mike** [21:39]: Yeah. The manual tells us that it's an armored scorpion. I'm like, is that, I don't have enough information. Is an armored scorpion a type of scorpion? Or are you just saying like, check the AI wearing armor.
+
+**Sean** [21:49]: Yeah. Have scorpions.
+
+**Mike** [21:51]: Well, scorpions would have wore armor during the crusades, right?
+
+**Sean** [21:54]: Yes. Absolutely.
+
+**Mike** [21:55]: Chain mail. Yeah. All right. Enough of that. Um, you have the bow staff, which turns you into the Falcon. We talked about that one, but I think one thing we've didn't say is that the Falcon doesn't attack. Doesn't do anything. It's just designed to basically like, if you get it at the right level, if you know what you're doing, you can just fly over everything and other levels, it would be kind of to your detriment, but.
+
+**Sean** [22:16]: And there's really no downside to that. Like, yeah, there's power ups, um, that if you continue to pick up the same power up, you'll get an extra life. Um, and then if you want to like queue up what you think will be best for the next level, you can pick up power up for the new animal that you'd like to turn into or the next weapon that you'd like. But I keep saying power ups. They're not really power ups. They're just like weapon drops. Collectibles. Yeah. And aside from score, which we have decided time and again, we don't really care about, uh, there's really no downside to skipping an entire level via Falcon, but it, it is less
+
+**Joe** [22:57]: fun. Did you guys, um, find you were able to do it too much? I just never, like, I never trusted myself to just fly through a whole level. I was like, I'm going to run into something anyways.
+
+**Sean** [23:07]: I need a weapon. Thankfully, they have, they design enough, like upper screen obstacles to make it, uh, less trivial, but you can still do it. Like there's definitely some levels that you can just skip the whole thing.
+
+**Mike** [23:22]: Yeah. And lastly, there's the dragon, which is with the sword weapon. And the dragon is very unique because you can only use it once per time you acquire the sword. So once you use it, you have to pick up another sword in order to summon the dragon again, or rather transform into the dragon. But you fly, you're invincible, and you kill everything. I think in just one fire breath, too. So it sounds pretty awesome, but it's not like until the end of the stage or until the end of the screen. It's just a few seconds and then you can't do it again.
+
+**Sean** [24:39]: This is included. Yes, yeah. Wait for it, basically, is the key.
+
+**Joe** [24:43]: And it's a significant few seconds. Like, it's not just, like, I feel like it's maybe even a little longer than, like, a Mario star. Yeah. It feels good. It feels good to be the dragon.
+
+**Mike** [24:53]: Interestingly, the game will basically take away the dragon and the falcon from you, provided that you're not, like, holding on to them and not collecting new power-ups the deeper you get into the game. It's basically like they don't want, they know that you're either skipping or becoming invincible. And so those two power-ups just kind of go away later in the game. Yeah, they're not, you don't find them again. It's not just random drops. It's, it's planned.
+
+**Sean** [25:17]: I know it's, I knew it was planned, but I didn't think that there was any kind of, like, if-then. I thought they were just, like, static, like, that's how the level was designed.
+
+**Mike** [25:29]: Oh, right, right, yeah. And that's what I'm saying is, is, like, they designed it so that you won't have another bo staff pickup or another sword pickup. So, basically, you would have had to pick up the sword, never transform into the dragon, and save it for a later stage because you otherwise won't be able to become the dragon. I see. I did skip most pickups because I wanted to keep my stick. Yeah, totally.
+
+**Joe** [25:52]: See, I did that mostly with the, um, the shuriken because I do, I do think that the tiger was my favorite, uh, animal also.
+
+**Sean** [26:01]: Definitely my favorite animal.
+
+**Joe** [26:02]: Yeah. Yeah, I know we already talked about it a little bit. I do want to, like, I do want to touch a little more on how the, the tiger, the sprite of the tiger, how it's animated, how it moves, like, it's pretty cool. It feels like you're a tiger. Like, it's not just a sprite swap of your character. Like, you're faster, you jump around, like, all the, all the animals, like, feel designed well, but the tiger particularly felt, um, like, I know it feels like you're controlling an animal and not just, like, the same as controlling the ninja.
+
+**Sean** [26:30]: The one, the one thing that I wish that they did was just, like, you know, like, while, while you're playing as the animals, if they would just, like, let, let you have, and you, maybe you, there would be a button for it, but if, if just during gameplay, it would just, like, make the animal noise every once in a while, like, or, like, uh, like, if you're a birdie, like, I can't believe they didn't spend the big bucks.
+
+**Mike** [26:56]: What if you're the scorpion? The scorpion would just, yeah, he'd make gurgling sounds. He'd make water gurgling sounds.
+
+**Sean** [27:05]: Help, I'm trapped in a sink.
+
+**Mike** [27:11]: Sean, you mentioned about the, you know, we don't care for score, but you could, uh, and that would be a reason to not skip over everything, but do you think this whole, like, short stage, one-hit KO thing design makes this feel more like a score attack arcade game rather than a console get-to-the-end adventure? Like, the story, if any, is in the manual. It's not in the game. And so there isn't really this whole, like, it's kind of, it's kind of Super Mario Brothers 1 in that respect of, like, yeah, if you get to the end, it's great, but you can also just enjoy seeing how far you can get. If you don't make it to World 8-4, and then this one, if you don't make it to 5-2 or 5-3, if you don't make it there, it's like, it's fine. You still played the game.
+
+**Sean** [27:58]: Yeah, I mean, I didn't glance down at my score at all. Um, because, you know, it's just sort of playing the game for its own sake, but I guess that's just always been the, like, the brain problem that we've had with scores. Um, but yeah, I can, I can see it as, like, a Mario thought process. Yes, that makes sense to me.
+
+**Joe** [28:25]: Yeah, I think the difference with this, too, is the, the probably intended focus on multiplayer, where I feel like the, the point of playing this game is to, like, go have, like, a cool adventure with your buddy, you know, like Contra, for a lot of, for a lot of people that are playing this multiplayer.
+
+**Mike** [28:42]: And if there is a story, like I said, it's all in the manual, but, um, what, what I've been able to summarize here is that it seems like the aliens did a surprise attack on Earth, wiped out all of the defenses, uh, so all the cities are destroyed, the army is gone, uh, but the ninjas are left.
+
+**Sean** [29:04]: Well, you see, the ninjas, um, they gathered for a last stand that didn't work, but then, you know, when they realized that they're, the planet was going to fail, they, uh, they all dispersed to, uh, far-flung corners of the planet, and you, they basically are, are leading the guerrilla war against, um, whatever the fuck we're calling them.
+
+**Mike** [29:27]: And then here's something interesting. They, the ninjas themselves weren't, like, it's up to us to take down the aliens. They were just what was left, and apparently the ancient ones is how they're, they're, like, in, in, capitalized T, capital A, capital O, the ancient ones then summoned forth all of their ninja magic, and gave the two chosen warriors, uh, Talon and Blade, their powers to transform into animals. It's like, who are the ancient ones? I want to hear more about that story.
+
+**Sean** [30:00]: It's like, um, it's like the, the World Bank. It's like the European, uh, economic forum. It's the, the ancient ones.
+
+**Mike** [30:11]: Oh, so it's not like some bloodborne thing?
+
+**Sean** [30:13]: No, no, it's just, like, another, like, institution. Yeah, that's, that's, that's correct.
+
+**Mike** [30:21]: That is canonically correct. Yeah. And, and as seen in the Ninja Crusaders, uh, uh, TV show and, uh, three-part movie.
+
+**Sean** [30:30]: Is there? No, I'm joking.
+
+**Mike** [30:33]: Uh, if you didn't read the manual, though, would you know enough from the game to care beyond the gameplay mechanics? No. Is it, is it cool enough to want you to keep going, Sand Story?
+
+**Joe** [30:44]: No. I, I think that this is the kind of game that I would be making up my own story as I went. I'm just like, oh, this is the character, this is what the tiger is, this is what the, you know, like, this is, I guess I'm just describing what making up a story is, but.
+
+**Mike** [30:57]: No, but I think that's what I do with Tantra, too. I, I'm doing it in Tantra, so.
+
+**Sean** [31:00]: Did you care about Mario to, to bring that back?
+
+**Mike** [31:03]: Well, no, because I just knew that he had to save the princess. I'm not, you know, I'm, I'm, I'm not even justifying why I'm stepping on the Goombas. They're just in the way. I didn't, I didn't know they were part of Bowser's army.
+
+**Joe** [31:14]: Did you know that all the bricks were part of, were the citizens of the Mushroom Kingdom?
+
+**Mike** [31:18]: Never knew that, but it was always right there. Yeah. That's why I read the title is important.
+
+**Sean** [31:23]: The atrocities you committed.
+
+**Mike** [31:25]: And when you get to the end of the game, it's just kind of like a quick text wrap up. The evil is destroyed and peace returns to the world. Not long after the war, the ninjas return to their homeland and back into the shadows of mystery. So ends another chapter in the glorious legend of the ninja. Ninja. Interesting. Like, are, are they like talking about ninjas as a whole? Like, this is another chapter in like ninja media?
+
+**Sean** [31:54]: Or is this just like, you know, it's kind of vague.
+
+**Mike** [31:57]: They're not talking about talent and blade at all.
+
+**Sean** [31:59]: Like, like, like I said earlier, like, you know, the ancient ones are just sort of like this organizational, international organization, NGO. The ninjas are a similar situation. Um, it's like more, it's like AFL, CIO, SAG. Um, ninjas is just like a labor union. Um, and there's, you know, they've been a union for a long time. So they have a legend.
+
+**Mike** [32:25]: We, we've seen a lot of games where, uh, the end screens or just text in general is kind of bad English. But do you think it's on purpose that ninjas is imploralized and it's just ninja? The ninja returned to their homeland?
+
+**Sean** [32:42]: No, I think it's, uh, I think that's the, that's, I think that's the plural.
+
+**Mike** [32:46]: The plural of ninja is ninja?
+
+**Sean** [32:49]: Yeah. It's like fish. No, I like that. It sounds right. Yeah. I like it too. I just, I never thought about it.
+
+**Joe** [32:55]: It doesn't bother me to hear like the ninja always.
+
+**Sean** [32:56]: I am making, I am guessing. I'm, I'm kind of just trying to play along. It does kind of sound like it could be a reason, but I don't actually know.
+
+**Mike** [33:07]: Maybe most importantly, what is the message from the devs about this whole return to the animal kingdom to help you stop the aliens from taking Earth? Are they saying we should be kind, uh, to mother nature? Is that, is that the message here?
+
+**Sean** [33:22]: Probably not. I mean, if they're saying that tigers are cool.
+
+**Joe** [33:28]: Yeah, I think maybe, maybe it is. We got to be kind because like this is, these are our allies. When the aliens come, it's going to be the humans and all the other life forms on this planet versus the life forms from the other planet. So we gotta, you know, we gotta keep those relationships strong.
+
+**Mike** [33:42]: Fine. And if you were remaking Ninja Crusaders, would you keep the transformations tied to the weapons or separate them so you could freely pick your form?
+
+**Joe** [33:50]: I like it lore wise that they're tied to the weapons. I'm sure that there's, there, you could make an argument for why gameplay wise it would, uh, there'd be other ways to do it, but I, I like it.
+
+**Sean** [34:00]: I like it because it can, it's like a balancing, uh, like you, you, you can't have the best weapon and the best animal. Um, like you always kind of have to take the drawbacks of one if you want the, the, the strengths of the other.
+
+**Joe** [34:17]: I like that. Yeah. And if you want hard mode, you just take the staff and then you just like, no, nothing of it's good.
+
+**Mike** [34:24]: Do the enemies feel like some kind of cohesive alien army, even with the robots? Or is it just kind of a grab bag of whatever looked cool to design for that level?
+
+**Sean** [34:34]: That one. Okay.
+
+**Joe** [34:37]: I think, I think aesthetically it's that one, but we, we did say earlier, at least gameplay wise that like, it doesn't feel like things are just like coming at you randomly. You didn't like, I think it's yes. Aesthetically. Yes. But the, um, but gameplay design, it is a good, it is a good, uh, cohesion.
+
+**Mike** [34:55]: And the bosses, are they memorable or is it mostly just like a way to stop you from just moving straight in a straight line?
+
+**Sean** [35:03]: The bosses are underwhelming. Okay. Aside from, you know, the typical, okay. The one thing that I know that the eighties and early nineties loved was to just rip off Xenomorphs. We've played enough Xenomorph things that we just, that's just what aliens were at this time. Um, so we get our token Xenomorph boss. We get some other stuff that, and it's not even just that the designs, the designs are fine. Like, aside from the Xenomorph thing, they're fine, but there's no, like the, the patterns are kind of lazy. Um, I think that if they have cut down a little bit on the insanity of enemy placement in like levels four and five and just made the bosses a bit more intricate and maybe take more than three hits to kill with, again, the staff. Um, it would have been a bit more interesting. I think when it comes to games like this, boss design is a lot more important to me than the, the, the standard enemy stuff. So it was a little disappointing on that end.
+
+**Joe** [36:14]: Yeah. I think to me, they were the only way that they were memorable was that they were manageable, um, which I do appreciate compared to other games. But yeah, I mean, like they were just, you know, standard bosses.
+
+**Mike** [36:27]: Uh, I did like that UFO boss battle though. Hey, you can only attack it from one side, which is kind of strange because it's like, it's the same area where the hip, like the hip box is always on the left side of these monsters, uh, for whatever reason. But the, this is a UFO that's symmetrical. So theoretically, whatever weak spot you're attacking should be on the other side as well. But I liked that it sped up as the fight went on. And, uh, you know, again, if you know what you're doing, you probably take these things down before this even happens. But the, the projectiles of it and the speed of it never, it was never cheap. It was dodgeable and it was, you were able to anticipate it, but it also made it somewhat of a more interesting fight than these other ones that were just like, here's a creepy alien monster on. And wheels. Also, and this is something I, like, while I was playing the game, didn't notice. Like, I, I thought that there were like 10 actual stages and not just like broken up into areas of five tech, technically five stages with each one getting a dash one and a dash two to count for the 10. And it doesn't really feel like, even, even if you die over and over again, like, it doesn't feel by the time you get to stage five that you've made any actual progress into the alien, like, world.
+
+**Joe** [37:46]: I will say, I didn't, I didn't finish stage five, but just watching the let's play here, um, while we're, while we're recording this, I saw the end screen come up and I was like, wait, it's over? Like it just, the final boss didn't even look like a final boss. It just felt like, yeah, it didn't feel like it got grand and became like this, this grandiose ending.
+
+**Sean** [38:06]: Yeah, the only real, um, indication that you get that this is the final boss, because he's not big, um, is that he has two forms. Like he has his body and then he's got his skeleton. Um, and other than that, like, I wouldn't have thought that this is, that this is end boss material here.
+
+**Mike** [38:28]: Like I said, kind of disappointing design. Yeah, and it just doesn't really feel like you're going on a journey. It's kind of like you, you started, you started in town and then you just went to the next town over and it's like, hey, that's where the aliens are. You know, it's like part one of an adventure. Yeah. Uh, you know, you should, you should probably, especially with the UFO thing in the fourth stage, it's like, then it's time to, again, do a contra thing and get like, get kind of crazy with it. Like the, now all of a sudden it's like kind of unsettling the area you're in and it's more alien and it's like the, there's, there's heads coming out of the walls and shit. It's like, that never happens. Um, and the boss designs, you know, we talked about like gameplay wise, but they're also just weak designs compared to like the regular enemies.
+
+**Sean** [39:18]: Yeah. There's one that's got a little like googly, like, like little like spindly arms.
+
+**Mike** [39:25]: It's kind of funny looking.
+
+**Joe** [39:27]: And now that you've mentioned this, these levels, I'm like thinking back to it all. And I wonder like, are you supposed, is it supposed to be like, you're just trying to get to this big bad? Like, what is the reason you're in each of these levels? Cause it's like, Hey, you're in the city and then you're in underwater. Then you're in the Canyon. And then you're in a castle, like an old fashioned castle. Then you're in an aircraft carrier. Like were these all just like in your path or like, did you have to go there for something? Was there like a, were there like five people you needed to take out? Or, you know, is that explained in the manual or is it like, is this one straight line adventure? Or are there five missions that have to be completed to win? Things I need to know.
+
+**Sean** [40:04]: We'll never, we'll never know.
+
+**Joe** [40:06]: Well, until the movie comes out, the reboot.
+
+**Sean** [40:09]: Movie we make.
+
+**Mike** [40:10]: There were, there were no sequels for Ninja Crusaders. It's one and done. And maybe the reason why Joe thought this was a shmup was because the developer.
+
+**Sean** [40:21]: I didn't, Sean said. Oh, right, right.
+
+**Mike** [40:24]: No, no, no. Joe said it. Oh, right, right. The reason Joe said that this was a shmup is because NMK, the developer, they basically like abandoned this and moved on to arcade shooters like Thunder Dragon, Blackheart. And what I'm going to probably botch here is Hakka Mecha Fighter, which doesn't really sound, it sounds like a fighting game, but it is a shmup, I confirmed. So these, these games, I looked at them. They're all shmups. Absolutely. They do the things that you expect shmups to do. And they're all available as part of that arcade archive series on PS5 and Switch. And I always want to dive into that. But it's like each one is just too much money. They want like eight bucks just to access to the game. And it's like, I get it that it was restored with love and care and everything, but I'd rather buy one beer at a bar. Yeah, right. Then play a shmup.
+
+**Mike** [41:23]: All right. It looks like.
+
+**Sean** [41:25]: I did say it was a shmup. You did.
+
+**Mike** [41:26]: Oh, okay. Thank you for owning up to that.
+
+**Joe** [41:28]: Yeah, I remember now.
+
+**Mike** [41:29]: All right. Well, it looks like we're about wrapped up here. So now it's our turn to transform into judges and decide whether Ninja Crusaders earns a place on the essential games list.
+
+**Joe** [41:42]: What weapon do we need to be holding to transform into judges? A gavel? The gavel.
+
+**Mike** [41:47]: A hammer? A hammer is actually better, but I would appreciate either.
+
+**Mike** [41:56]: All right, look, here's the scoop on Ninja Crusaders. I started playing this game and I pretty much like wrote it off and then, you know, went about my day. And then I started doing the notes for this game. And I said, let me try this again. And then I was like, wait a minute. There's a game here. And it's really fun. I had a really fun time with Ninja Crusaders. But not like Ninja Gaiden levels of fun. Like not like essential games list levels of fun. Because it's really, it feels kind of unfinished. For as great of a game as it is, it's very short. It's very like lackluster in specific moments. And I think the animal transformation thing was just enough to keep me to be like, no, no, no, wait. This is cool. Like you should see this through. And I did get through this game. I did get through this game, surprisingly, without like, without any trouble or anything after I just continued to go at it. And so I would say like, it's a competent game. It's not too cheap. It respects your time. It's well made. And so like, those are all the things that should put it on the essential games list. But I feel like it's one third of a great game. And we deserve those other two third parts. So like, I definitely think if you have a friend, this is worth checking out. But I don't even think you need the friend. I think if you just have some patience in an afternoon, Ninja Crusaders is a pretty tight game that's worth most NES fans time. But it's not enough to put it on the bigger list of the essential games list. Sean? Yeah.
+
+**Sean** [43:38]: And like Mike said, it's important that it's the afternoon. Do not play this game at night. It's like the Gremlins. Very scary at night. It's very bad things happen if you play this game at night. But anyway, I'm kind of in the same boat here. As much praise as I gave this game in the episode Body, I would say that there's still a lot of jank. Like, especially the way that the enemy behavior is complete jank. Every enemy doesn't feel like it has like a cycle. It just sort of like, they just kind of do shit. And maybe like that, I was kind of put off by it. So, while I said earlier, and I still agree, that your character control is great. And it feels like you have a lot of, like, your failings are your problem. And, you know, kind of stuff like that. The enemies just feel strange. It feels like you're in a world that's just a little off. And that kind of pervades the entire game. So, you know, I won't drag this out anymore. I'll just say it is a play it, but it is not essential.
+
+**Mike** [44:59]: Joe? Oh, I'm kind of sad.
+
+**Joe** [45:02]: I think I, you know, I don't have any power now.
+
+**Mike** [45:05]: But I did want to put this on the essential games list.
+
+**Joe** [45:08]: I had a great time with this game. I know you guys did too. But I feel like I just really didn't have much to complain about for this. At first, I was going to, when I first picked this up, I was like, well, the one hit KO is going to keep it off for me right off the bat. But I did come around on that. I got used to that. And I felt like the game is designed around it in a way that feels fair. And I just had such a good time with the different animals, the balance between, like we were talking about the balance between the animals and the weapons. And each animal, each weapon feeling different and bringing something different to the table. I don't know. It just felt clean. One of the better shmups we've played in a long time. But in seriousness, I do think it's one of the better platformers we've played in a while.
+
+**Sean** [45:57]: So, I don't know.
+
+**Joe** [45:58]: I think this is a great, you know, definitely. If you were playing this in two-player, I'd say this is absolutely 100% an essential game. And even playing in one player, personally, I still say it's essential.
+
+**Sean** [46:13]: But, I don't know. Yeah, go on record.
+
+**Joe** [46:15]: Give it a play and give us your thoughts.
+
+**Sean** [46:17]: What did you say? Go on record and vote this essential. I have. Oh, okay. I thought you were, like, saying, like, I would if you guys did.
+
+**Mike** [46:26]: No, no. No. Listen. Here's, like, the metagame to this is that I kind of felt like Joe. I didn't know if Sean was going to, but I felt like Joe was going to vote it essential. And I wasn't ready to make my call. Like, I have the game pretty recent in my memory. And I just wanted to see where it landed. Because it is a relatively, like, short and small experience. I can't get over that, like, the boss battles are kind of, like, whatever. And so, really, like, the moment to moment is fun. But, like, when I look back on it, it's like, will I remember it? And so, that's why I left it off just thinking, like, you know, we've got the best of coming up soon. Like, I could raise it again there. But I'm kind of worried I'm not going to think about it beyond, like, this week where I was playing a lot of it.
+
+**Sean** [47:16]: I think that's where my complaint about just the enemies in general, like, it includes the bosses. I think that enemy design, they've got so many things locked down here. It's just, that's a pretty important piece.
+
+**Joe** [47:33]: Yeah, I think, I mean, the bosses design, I see it. But I really didn't have any problem with the enemies. I thought the enemies were very, you know, again, usually I feel like we're playing these games and I'm just getting, like, bombarded by enemies. I don't know what they're doing. Like, this I felt like, yeah, they did all have a specific purpose. They were placed very strategically for the gameplay. I felt really good about the enemy design or the enemy layout or whatever.
+
+**Mike** [47:56]: Yeah, it's a skill issue, Sean. Okay. Oh, yeah.
+
+**Sean** [48:01]: Well, it's because you were using the staff. That's why. Yeah, I was trying to. It's just so much easier to hit things once.
+
+**Mike** [48:07]: Next week, we'll be playing Ninja World Cup. And then we have Ninja and South, followed by Shadow of the Ninja. So there's no shortage of ninja stuff coming up. But if anybody has any theories as to why there's so much ninja media and where it all started in the 80s specifically, let us know. And, yeah, I think now that I've completed the end user agreement to say what episode is coming next week, I'm forgiven and I can go back to my life.
+
+**Joe** [49:04]: That was an agreement with only one user. Thank you.

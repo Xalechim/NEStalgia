@@ -1,0 +1,495 @@
+# 423 - GI Joe A Real American Hero
+
+_Auto-generated transcript. Speaker names are matched automatically by voice and are not perfect, especially on short interjections. The opening name introductions are left as "Hosts"._
+
+**Mike** [00:00]: G.I. Joe, a real American hero. Fight the Cobra Searay, one of the game's many bosses. G.I. Joe, a real American hero.
+
+**Mike** [00:23]: And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+**Hosts** [00:31]: I'm Mike. I'm Sean. And I'm Joe.
+
+**Mike** [00:35]: I can't think of a better way to start the- G.I. Joe. What the fuck am I talking or what? G.I. Joe. Who do you think you are?
+
+**Sean** [00:43]: I'm starting the show.
+
+**Joe** [00:46]: I'm G.I. Joe, the show's named after you.
+
+**Sean** [00:48]: I think it was necessary to call out that Joe shares a name with the game.
+
+**Mike** [00:53]: Right. I thought it was weird that Joe didn't say, and I'm G.I. Joe. Well, yeah. Right. And I was going to say that there was no better way to celebrate the year of Joe, but forget that. I'm not even going to say that anymore.
+
+**Sean** [01:04]: I'm not the one who interrupted.
+
+**Mike** [01:06]: I'm super sad that we're celebrating the year of Joe with ungrateful people.
+
+**Sean** [01:11]: I'm only G.I.
+
+**Joe** [01:12]: Joe when I'm having severe gastrointestinal distress.
+
+**Sean** [01:16]: Ooh, yes.
+
+**Mike** [01:17]: Yes. I feel you there. Now, did you guys ever own G.I. Joe's? No.
+
+**Joe** [01:23]: Not even once. I think I had them, but I think I inherited them from cousins or something, so they were
+
+**Mike** [01:30]: just like part of my action figures.
+
+**Joe** [01:32]: But not like, oh, these are my G.I.
+
+**Mike** [01:33]: Joe's. Right. You have like one or two that you're like, I'm not really sure how these got here, but now they're on my shelf. Shelf. Exactly. Yeah. Shelf or bin? Where were you putting your action figures?
+
+**Sean** [01:44]: Garbage. Immediately after first use.
+
+**Mike** [01:47]: You would just smash it up against another action figure and then be like, well, this
+
+**Sean** [01:52]: is trash. Yeah. I mean, who are these people reusing action figures? That's crazy. You rip open the container and then you actually bury the multi-thousand dollar collectible in the ground.
+
+**Mike** [02:10]: It is crazy that just opening anything pre-1997 that was an action figure is just like the equivalent of a college fund today.
+
+**Mike** [02:23]: But yeah, I never owned G.I. Joe's either. There was like two lines of G.I. Joe's too. G.I. Joe started in 1964 as like basically dolls for boys. And I'm not trying to like be mean or anything, but like the action figure part of it, like the action figure line was more like in the eighties when they kind of like reinvented G.I. Joe and they were smaller. They were smaller like figures that did kind of the more like they were more in line with if you were also getting Batman action figures or later on Power Ranger action figures like all that stuff, that kind of scale. The original G.I. Joe's are like kind of big bulky fabric-y guys. And so I'm sure they played with them the same way maybe. But the way I played with action figures was like the way that people sell like Super Smash Brothers nowadays is like I would I wouldn't keep the brands agnostic to each other. Okay, the Power Rangers were fighting Batman were fighting Spider-Man where you know it's like everybody get everybody's here.
+
+**Joe** [03:25]: Oh, 100% was anybody like staying like brand loyal to everything?
+
+**Sean** [03:30]: No, I mean it's not brand loyalty. It's it's copyright infringement.
+
+**Joe** [03:35]: Right. Yeah. Well, you're gonna come knocking.
+
+**Sean** [03:36]: Yeah, you have to be you have to be a good intellectual property steward when you own these. So I think that what you guys are doing was pretty irresponsible.
+
+**Mike** [03:49]: Well, I guess another problem is is that I didn't have like enough of anything in particular to like, you know, there were some action figures that would come with like a piece of like, you know, buy the whole set and then you could build this bigger thing. I never had anything like that. I never completed any any set or had enough to like go with it. So it was like Batman. I would have like Batman the Joker the Riddler and that was like it, you know, now it's like, okay, well, I guess they're fighting the White Ranger and and Goldar and a few others.
+
+**Joe** [04:20]: Yeah, I was the same way. I had all kind just mixes of all different sets of toys and like I wouldn't even necessarily play and be like, you know, I had like a bunch of different Batman. So I'm like, okay, maybe this one's Batman. But then this one is like some other guy I made up because he looks different. He's got like, you know, a different Batman suit on. But I will say I did have a next door neighbor that one of my closest friends when I was a kid and their parents were very organized and they had a wall of bins filled with each bin was filled with a different IP of action figure.
+
+**Mike** [04:52]: That was pretty that's actually kind of like serial killer. Yeah, I believe that those action figures aren't even dented or anything.
+
+**Joe** [05:00]: But I I loved it at the time. I could just go in like I'm going to go to the Star Wars bin and see every possible Star Wars character in there.
+
+**Mike** [05:07]: I'm going to go into the Batman bin.
+
+**Joe** [05:09]: I'm going to go to the Pokemon bin.
+
+**Mike** [05:11]: They had it all next. You're going to tell me their Lego bins were organized, too.
+
+**Joe** [05:15]: I don't remember. They definitely had Lego bins. They might have been organized. There's a good possibility.
+
+**Mike** [05:20]: And now G.I. Joe military action figures. There's also like the army men, you know, the little green guys. And it's like I think I think of them more for military action figures than I think of G.I. Joe. So was I just born at the wrong time? Like G.I. Joe seems to be huge. In the 80s, it had the whole new action figure line. It had an animated television show. It had an ongoing comic book. It has this NES game. But I just kind of like missed all of that. I I know of I know Cobra more than I know any of the G.I. Joe themselves. I would think that a guy named G.I. Joe was a character.
+
+**Sean** [06:00]: Yeah, I think that I think this was before our time. I mean, by virtue of it already having a video game in 1991. And I also didn't really have action figures in general. Like I had those army men you were talking about. I also had that weird castle thing. Oh, yeah. The fish or castle. Everybody had the castle. Exactly. Maybe the pirate ship if you're lucky.
+
+**Mike** [06:28]: Oh, I didn't have the pirate ship.
+
+**Sean** [06:29]: No, I had the pirate ship too. Yeah. I did have the. That was too rich for our blood. But I had that stuff that I had a bunch of things that weren't attached to a property, but also weren't action figure sized. I guess I had more like Hot Wheels and I had like people with opposable appendages. But yeah, I feel like G.I. Joe was more like for people maybe five years older than us.
+
+**Mike** [07:00]: Yeah, I don't think you can deny that G.I. Joe was big. Like I'm not trying. Like sometimes, you know, we're just about Funhouse last episode and I was like, anybody even heard of this game show? And I think that was like a valid question to ask. But G.I. Joe is like, you can't be like, anyone ever heard of these action figures? Like, yeah, they're huge, obviously. And they're still in production today and, you know, across all different media. They did have that weird like movie in the 2010s when it was like ripe for, I guess, like the people in the 80s to like, now I'm adults and I can go see the adult version of G.I. Joe. And that was pretty terrible. But maybe someone's gonna tell me that they like that movie and that's fine too. What I know G.I. Joe for more than the action figures, more than the animated series, more than these video games. I know them for the G.I. Joe PSAs redubbed on YouTube where I was there 18 years ago on YouTube. And I was watching these G.I. Joe PSAs, not understanding a lick of it really.
+
+**Sean** [08:07]: Body massage?
+
+**Mike** [08:08]: Yeah, yeah, just like the nuance was a little like lost on me there. But like, I thought they were so funny. I thought I could watch these things again and again and you would find new ones too in like in your searches. Guys, I watched them again tonight before recording. They're terrible. No.
+
+**Sean** [08:25]: I didn't laugh once. I mean, I haven't watched them in probably, I don't know, close to about that time. But I remember them being goddamn hilarious.
+
+**Mike** [08:35]: Yeah, it's basically like watching gibberish now. It's like watching a foreign language.
+
+**Joe** [08:41]: Well, we've evolved. Our taste and the internet and YouTube has evolved.
+
+**Mike** [08:46]: I think about early YouTube a lot because, you know, I don't want to say like I was there. But I was there in 2006 and that was an exciting time and everything.
+
+**Sean** [08:55]: You would show everyone you knew the history of dance.
+
+**Mike** [08:58]: Right, exactly. I would be the guy to show the video. You know, I wasn't like, I would go over to other people's house. They would try to show it to me. I was like, no, no, I know this.
+
+**Sean** [09:05]: I've seen this. Like, skip, skip.
+
+**Mike** [09:08]: But yeah, I sounded like I was really fun to hang out with. Now, but here's the funny thing is like, that's I guess what I'm saying is like this was peak comedy then. And it couldn't have aged worse, in my opinion, than like the way that memes have developed now. And like, we're going to look back at those memes too. Like, remember, you know, other than like what we have now, there was a time where everything was those derp comics. Like, and that was how we communicated on the internet. Like, that's archaic as well. Yeah, you know, the like, I don't know how to describe those people. But it was a big thing on Reddit. They're like not stick figures, but they're really poorly drawn. But there's like, yeah.
+
+**Sean** [09:50]: Oh, I feel like that's still around too.
+
+**Mike** [09:52]: Oh, yeah. That's really still around for like edgelords.
+
+**Sean** [09:54]: Now, when I think about it, like old memes, I think of like demotivationals. That was sort of the start. And then you get into like the animals with the, why are we talking about memes?
+
+**Mike** [10:08]: Anyway. Well, we are talking about memes on purpose because that's my exposure to G.I. Joe. That's true. I just found out that the derp comics are actually called rage comics.
+
+**Sean** [10:16]: That would be the better meme. Oh, rage comics. Yes, I've seen those.
+
+**Mike** [10:19]: You know, you got the troll face guy.
+
+**Joe** [10:22]: I think I could recognize any of these memes, but I would never know what any of them are called based on like just the name of them. So I'm like Googling every one of these frantically as you're saying them.
+
+**Mike** [10:33]: Yeah, but you do know every SpongeBob meme in alphabetical order.
+
+**Joe** [10:37]: Yes, yeah. Yeah, that's important.
+
+**Mike** [10:39]: That's good. That's going to pay off one day.
+
+**Joe** [10:41]: There's a song that makes it easier to remember.
+
+**Mike** [10:43]: Right. So what was G.I. Joe in video games before this NES game? It turns out there was a G.I. Joe game all the way back on the Atari 2600 G.I. Joe Cobra Strike where you fight a giant cobra.
+
+**Sean** [10:59]: Now, I don't know a lot about G.I.
+
+**Mike** [11:01]: Joe, but I don't think that's how that worked.
+
+**Sean** [11:03]: Is there not like an eldritch cobra that's actually pulling the strings?
+
+**Mike** [11:09]: Is there a cobra like in the like, is he under the beret of one of the G.I. Joe? Like it's some snake charmer bullshit. But Cobra Commander is like to me, that's the coolest thing about G.I. Joe is like Cobra seems like a pretty tight organization and Cobra Commander looks sick. You know, it's not like He-Man where like you'd rather be He-Man all day. It's like G.I. Joe, I think I'd rather be Cobra Commander.
+
+**Joe** [11:35]: Cobra Commander.
+
+**Sean** [11:36]: I mean, it seems like it'd be pretty hard to breathe in that helmet.
+
+**Mike** [11:41]: But wait until you find out the tech features in that helmet.
+
+**Sean** [11:44]: Does it have air conditioning in there?
+
+**Mike** [11:46]: Yeah, HVAC system the whole way. Can do heat in the winter too, yeah.
+
+**Sean** [11:50]: Oh, it looks like maybe this was like a new design, but he's just sort of wearing like a cut-up sheet he's wearing from 15 things you never knew about Cobra Commander.
+
+**Mike** [12:08]: There you go. I can't wait to hear the other 14 throughout the episode, Sean. Thank you. And this NES game for G.I. Joe, it arrives like halfway or mostly through the original toy line era. So there's a lot of like the original characters there, but there's a lot of later era characters as well. Doesn't matter to me because I didn't know any of them. So I'm ready to be exposed to the G.I. Joe team. And that's what this game is. This is a team game. It's a side-scrolling action platformer where there's some, you know, there's shooting, there's platforming, there's exploration, but there's also some light team management elements where you have to kind of pick who's going in to each mission with you. You get assigned a guy, but then you get to pick two additional guys to bring with you. And that seems like a cool little twist on what would otherwise be kind of a Contra-like game where you just kind of go in and run and gun stuff through a stage and get to the boss, defeat the boss, and then move on to the next level. Here they've created a little bit of a like, well, who do I want to bring with me? And can I risk them going out on this mission? Because each one does have some little perks. Since that seems to be the biggest part of the game, can we start there with the team management?
+
+**Joe** [13:28]: Yeah. I mean, I think that it almost, I mean, I don't want to say unintentionally, but it feels like it does have like this unintentional, almost light RPG feel because of it, because you carry over power-ups from whichever characters you've decided to take into new levels. So like you could get into a later level and one character can be way stronger than your others. And, you know, because you've used them so much, I appreciate that. I appreciate it giving you the opportunity to have a little more attachment to the characters you choose.
+
+**Sean** [13:58]: Yeah. And I also think that it would be pretty easy for it to fall into something that I feel like we've seen before with multiple characters, where they all basically just feel the same. Whereas in this, like they all have like a different, like they can all, they all jump different heights. They all move a little. There's like some speed differences. They all have different weapons. They all have different like health bars, which I guess isn't really like a feel thing, but at least like if you got the big health bar,
+
+**Mike** [14:34]: you might feel a little bit more free to make mistakes.
+
+**Sean** [14:38]: But like, yeah, there actually is differences between these characters and not just like cookie cutter.
+
+**Mike** [15:19]: Might be the worst that you see that the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or the characters or So for the characters, we have Duke, who's like the balanced character, the all-arounder. Snake Eyes, who, like, you have to pick. You have to pick Snake Eyes. That's just such a...
+
+**Sean** [15:38]: It's like, immediately, that's the coolest character.
+
+**Mike** [15:40]: Rock and roll. Oh, okay. That's interesting. See, so Snake Eyes, he's the one with the, like, you know, he's the agile guy. He's got high mobility, but he also has a unique ammo saving advantage, too. Rock and roll, Sean's favorite. He's the firepower guy. He's got that spread-style attack. Definitely listens to Lynyrd Skynyrd. Okay. I love it. Can you tell me what Snake Eyes would listen to? He doesn't talk, so you would never know. He doesn't ever talk. Yeah. I like that. Right. Captain Gridiron, which was, like, the first one that made me think, like, okay, they're just making these up. Uh-huh. He's not an actual action figure that you could buy.
+
+**Joe** [16:21]: He's just... Football. Yeah, he's the son of Doug and Melissa Gridiron.
+
+**Mike** [16:28]: And he's the, like, he's the melee specialist.
+
+**Mike** [16:33]: Blizzard, who's, I guess he's got, like, more situational strengths there. He's great at skiing. Yeah, great at skiing, sure. And General Hawk, who's the commander of the team. And, you know, maybe light spoiler here, is both captured and then usable in the final mission. So, Sean, you said rock and roll. I said Snake Eyes. Joe, a favorite here? It seemed like maybe you were leaning towards Captain Gridiron.
+
+**Joe** [16:58]: No, I wasn't. You know, this might be kind of boring, but I gotta love Duke. I mean, the, like, spread shot that he's got as it levels up and everything. I think he was who I used the most.
+
+**Sean** [17:08]: But who would you like to hang out with the most?
+
+**Mike** [17:11]: Hmm. Who looks like they're a cool dude to hang out with?
+
+**Joe** [17:15]: I honestly, Sean, I know this isn't what you were fishing for, but probably Snake Eyes.
+
+**Mike** [17:21]: I don't know. He just reminds me.
+
+**Sean** [17:23]: He's a cool guy. He reminds me too much of, like, the character from The Boys. I was just gonna say that.
+
+**Mike** [17:31]: That's so funny. He'd be like, oh, he's psychotic.
+
+**Joe** [17:34]: Yeah. Actually, me too. I was just thinking, like, maybe he could, like, teach me to, like, jump really high and stuff. But the other guy, just, like, I don't want to hang out with a guy that's just, like, just, like, packed with ammo and guns and just, like, heavy artillery all the time.
+
+**Sean** [17:46]: I was like, ah, kind of scary, actually.
+
+**Mike** [17:48]: We do need more psychopathic superheroes, though. And not that these guys are superheroes by any means, but they are obviously, like, they're doing, like, a light Captain America here where they're clearly, like, super soldiers. Yes. Right? Like, we're just supposed to believe that they're not taking performance-enhancing drugs.
+
+**Sean** [18:06]: They're always on cocaine.
+
+**Mike** [18:09]: Duke is also the guy, you know, that I would think, you know, like, okay, sure, his name's Duke, fine, but he could have also just been named G.I.
+
+**Sean** [18:16]: Joe. That's G.I. Joe right there. Right.
+
+**Mike** [18:19]: That's G.I. Joe, you know, and it's like, I get why there isn't a character named G.I. Joe, but it's also, like, it's free money in the future if they ever want to just make a character who's the name of the brand.
+
+**Joe** [18:29]: Yeah, it's like the prequel.
+
+**Sean** [18:31]: Right, yeah. Where the G.I.
+
+**Joe** [18:32]: Joe has to fight the original giant Cobra.
+
+**Sean** [18:35]: Well, the prequel was G.I.
+
+**Mike** [18:37]: Joseph. Right. All right, so back to the team management for a second. Other than the characters feeling different, is there, like, is there some strategy behind this, too? Is there any planning to, like, all right, like, this guy's got these strengths and weaknesses, so I'm going to save them for these stages, or I don't want to lose this team member here, so I'm not going to use them? Or is it just kind of, like, pick your favorites and just keep going with them until they die?
+
+**Sean** [19:03]: Well, I think it's not so much that, I guess if any level is sort of designed for any specific character, it's probably going to be the one that you're forced to take with you, and that's sort of, as the game goes on, you sort of rotate through who the forced character is, and you get to add whoever else. But beyond that, I'd say that the, like, where the strategy actually comes in isn't really, it's not specific to any particular character. It's just making sure that you're, like, balancing them properly. And that's more, that's not even just, like, oh, I've got to make sure to take this guy out, just to make sure he, like, levels up, too. But that's also, like, just in each level, you've got to rotate out just so that you're kind of spreading the pain a bit, so that you don't have, you're not just, like, killing them all.
+
+**Sean** [20:03]: Between each, like, sub-stage, your health stays the same. So you could get to the end and have your first guy almost dead, and you don't want him to die, so you've got to switch to somebody else.
+
+**Mike** [20:18]: If you guys remember Thunderbirds on the NES, which was also a licensed video game, that was the one that, it had, like, the 60 in-game days to defeat the hood. Yes. But...
+
+**Joe** [20:30]: And they were the marionettes.
+
+**Mike** [20:32]: Right, right, with the marionettes. But, like, it had you rotate between the team members and their vehicles, but not at your own. Like, you couldn't choose who to pick. It just made the missions. This feels like maybe what we wanted, where it's like you can pick the play style that best suits the way that you go through the game. Like, as you continue to, whether you beat the game or not, like, as you continue to keep playing it, you get good with certain characters or learn how to, you know, do better on certain stages with certain characters. You can have it be the loadout that you want, but the missions remain the same rather than the way Thunderbirds laid it out.
+
+**Sean** [21:09]: Yeah, I think anything...
+
+**Joe** [21:10]: Yeah, I think that gives it more replay value.
+
+**Sean** [21:12]: Yeah. I think that anything that sort of gives you any kind of meaningful choice is better than not that. And I think being able to select who you take with you is a way to empower. So I appreciated that.
+
+**Mike** [21:28]: The way the game starts is a little strange. If you don't know anything about G.I. Joe like me, it's just a guy who obviously turns out to be General Hawk. But it's just a guy shows up on a giant TV and says, well, it's time to get rid of the Cobra organization. That doesn't sound like... What's the date today? Yeah, it's time. It's like, that doesn't sound like how this works. Shouldn't we be told that they bombed a school or something and that we have to now get revenge on them?
+
+**Sean** [22:00]: That seems like too much of a bummer, Mike. Nobody wants to do anything after hearing about that.
+
+**Mike** [22:05]: We sound like the terrorist organization.
+
+**Joe** [22:08]: Well, because what you're describing, it's come full circle. This is how I played action figures. Me and my friend, we'd play with our action figures and I would just be like, all right, I'm going to head over to the bad guys base. Yeah. Like, fight the bad guys. Like, that's like literally what we would do. It's like, yeah, that's what we do. We fight the bad guys. There's no reason that they're bad guys. We're good guys. They're just the bad guys and we're just the good guys. And we're just going to go over and fight the bad guys now. It would just be like, it was like I'm going out to grab groceries. It was like, yeah, I'm going to head over to the bad guys base for a bit.
+
+**Sean** [22:35]: I'll be back. Well, what Joe is saying is that we've been trained from a young age to believe that there should be no casus belli. Like, it's just the, they're just, you are always in the right to be an aggressor. If you're the good guy.
+
+**Joe** [22:54]: Yeah, that's what my eight-year-old self was, exactly what he was saying.
+
+**Mike** [22:58]: And just like in real life, I refuse to believe that Cobra Commander believes himself to be a bad guy. Like, he has in his head some twisted, like, right? It's not just like, oh, I just wanted to be bad.
+
+**Sean** [23:13]: He's got to have a belief system. Well, doesn't he want to, like, rule the world? Yeah, but why?
+
+**Mike** [23:17]: What does he believe in?
+
+**Sean** [23:18]: I just don't think that anybody that wants to rule the world is good.
+
+**Mike** [23:23]: Oh, yeah, yeah, no. Undoubtedly, by our American upbringing, he's a bad guy. But I'm saying, like, he has to have some kind of moral compass himself.
+
+**Sean** [23:34]: I mean, he doesn't.
+
+**Mike** [23:35]: I don't think he does.
+
+**Sean** [23:36]: I get what you're saying.
+
+**Joe** [23:38]: I think that's true with a lot of people. It's like, they say, like, nobody thinks they're the bad guy. I think that that's mostly true. But I think there are some people that they're not trying to be the bad guy. They just don't care that they're the bad guy. Like, their goal isn't to be bad. Their goal is to have power.
+
+**Mike** [23:52]: And if they're like, well, that's bad.
+
+**Joe** [23:53]: They're like, well, I don't care. It's going to give me power.
+
+**Sean** [23:54]: I think the simpler explanation is that with a property such as G.I. Joe, like, maybe Cobra Commander does just want to be the bad guy because that's the simplistic nature of it.
+
+**Mike** [24:08]: Is he funded by Hasbro?
+
+**Sean** [24:10]: I think so.
+
+**Mike** [24:11]: Right. So Cobra Commander, the Cobra organization is being funded by Hasbro to keep the G.I. Joe brand alive. This is big news. We should blow this up.
+
+**Sean** [24:21]: It's all an inside game, man.
+
+**Mike** [24:24]: I believe it. And if you believe the, like, let's just say that Cobra is threatening the world again. The context wasn't given to us, but surely they are. It's up to the G.I. Joe team to destroy a series of Cobra bases laid out across six different missions all over the globe. And, you know, it's told kind of like a cartoon with, you know, little briefings and mission leaders. And then you can believe that you're, like, doing the episode when you're actually playing the gameplay part of it. And the plot builds up towards the capture and then rescue of General Hawk before doing a final assault on Cobra Commander. The story, I guess, you know, pretty basic. But if you are a G.I. Joe fan, it is basically what you're looking for, right?
+
+**Sean** [25:16]: It's checking those boxes.
+
+**Mike** [25:18]: I really did.
+
+**Sean** [25:19]: But what he said, the story is told like I was expecting some kind of, like, literary thing.
+
+**Mike** [25:27]: It's not like a cartoon. It's a military cartoon.
+
+**Sean** [25:29]: Yeah, it's like a Bildungsroman about Cobra Commander. Like, no, I get what you mean, though. Yeah, it does feel like episodes and there is sort of an arc with, like, you know, him being captured and all that. And then I think, you know, if you were just playing this the first time, it would be a pleasant surprise that you learn that you get to play as him. I imagine if you knew who that was before playing the game. Because he's cool. He's got, like, jetpack and shit. So he's, like, a pretty overpowered character.
+
+**Mike** [26:08]: Right. I like that trend of just you don't start right away with, like, all the plot at the beginning of a game and then just working towards the rescue of somebody.
+
+**Sean** [26:16]: You start at the end. And then you go.
+
+**Mike** [26:20]: No, it's like it's kind of interesting, though. It's memento. It has a little bit of a twist and turn through it on a very simple scale. And I think it satisfies the fans of the franchise at this point to just tell, like, a very straightforward but satisfying G.I. Joe story. Faux show. But we're not here for story. We're here for gameplay. We're here for what holds up in 2026. And so we've talked about the team management. We've talked about the plot. We've talked about how we really don't know much about G.I. Joe. But how does it feel to play as these guys? Is this a fun game? When I was first playing this, I was comparing it a bit to Contra. And I think that's a little unfair because Contra is an amazing game. And instead, I just thought about, like, if we treat this like any old licensed game, though, it's also, like, the complete opposite. It's like you can't just treat all licensed games like garbage. Like, there's a scale there, too. And so I think just the difference in feel between the actual six, not just being stat-based, but the fact that they do feel like different characters, which is obviously just different modifiers. But the fact that that exists in this game is a strong compliment. But how is the actual level design?
+
+**Sean** [27:39]: So there's also, like, variety in that. Like, before I even answer, like, how is it at all? Like, there's different kinds of levels that follow sort of a pattern between each world, I guess. Where you start off with sort of just a pretty standard, like, go to the end of the level. And then you get kind of a mini boss. Then you get a kind of more open, explore-y level where you have to plant a bunch of bombs. And then you get another boss. There might be another, like, kind of just more straightforward level in the middle there, too. But I like that there's more, like, even within the gameplay that they have, like, they have some variety built into the structure of each level.
+
+**Joe** [28:38]: But, yeah, the actual gameplay itself, it feels good.
+
+**Mike** [28:41]: It's simple, but it feels good.
+
+**Joe** [28:43]: Yeah, and I felt that, like, the bosses kind of coming up in between there. Like, they were, especially early on, there were bosses that were, like, mid-level bosses. I felt like it was almost like a boss rush game at the beginning. Because it was, and I think in a good way. Because it felt like it broke up any possible monotony of, like, level design very nicely. Like, right when it would maybe start to get tired of, like, going through. I think they, like, just know how brief to make some of these levels. That, like, I think a lot of NES games fall into this trap of, like, they get their level down. Then their level takes, like, 40 minutes to get through. And you're like, okay, well, I'm tired of doing this anymore. Where this, I think, has, like, enough variety in the levels. And it changes up with, like, okay, now you're fighting a boss. Or now you're, you know, in a vehicle. That, um, that that makes it feel fresh. Uh, this is, like, not what we were talking about, I don't think.
+
+**Mike** [29:39]: But I, I... Hey, take us there.
+
+**Joe** [29:40]: Take us there. All right, but I think that, uh, I agree that the game feels really good to play. Now, it doesn't feel like Contra. I think Contra is deliberately a faster game. Where this feels like, to me, what, what shined or shown to me more in this was, like, the feel of your, your, particularly your weapon. Not your punch. But, like, your attacks that are with your weapon. That always felt, that always felt good. And that, uh, coupled with the jump and everything. I mean, it just, it, it did not feel NES janky. I guess is what I'm trying to get at.
+
+**Sean** [30:14]: Yeah, I think between the, like, the fact that you can shoot pretty much in any direction, aside from, like, at an angle.
+
+**Mike** [30:21]: But, you know, it's, it's kind of a crapshoot.
+
+**Sean** [30:24]: What game's gonna let you do that? Um, that you can really take advantage of the different kinds of, like, guns that you have between each character. Um, that, that made, that, with the smoothness and the kind of how controllable the jump is, made it feel much more precise. A bit, a little bit more methodical, uh, than a lot of the, sort of, action, uh, side-scrollers that we've played.
+
+**Mike** [30:55]: And I think a lot of these levels, even though they're, uh, you know, they're, they're, like, mission briefings in the game. They really do feel like missions. Like, you're, they are changing it up enough where you're getting in unique vehicles. You're planting C4s. You're fighting giant bosses. Like, some of these bosses are massive. You're, you're doing enough different things throughout where, like, you don't have to learn new, uh, gameplay techniques or anything. But it does feel, um, refreshing each time the mission ends. Because then, when you jump into the next mission, it's not, okay, do that, but now in the desert, right? It, it, it lays itself out a little differently. The enemy placement or, or, or number of enemies. Like, it's not necessarily overwhelming. But it can be a difficult game if, especially if you're learning these characters or learning the game. I don't think this is the kind of game that is naturally easy, but is the kind of thing that, like, as you play the game more, uh, the, the, the control of the characters, but also, like, the patterns of the enemies becomes a lot easier to recognize. And, uh, and getting through these levels becomes a lot easier, too. And so, even if, uh, I, I was dying a lot more frequently in the beginning, or I was, like, man, I'm supposed to take these three guys to the end of the mission, but, uh, the two of them are on low health, and I've just got to rely on this one guy now. It's like, well, maybe I was playing a little too aggressively or something like that. But I do think that there is a lot, um, a lot to like about the moment to moment in this game, and that any sort of, like, pain points in actual gameplay come from, like, particular things that I wasn't doing well at. Like, particular enemies that were just making me take a ton of damage, or, um, particular bosses that I, I couldn't, uh, work out their patterns to. What do you guys think? Were there, were there other pressure points in the game that made, that made it less enjoyable?
+
+**Joe** [32:55]: Uh, the only thing that, like, that really, that really stood out to me, and I think in any other game, this wouldn't bother me as much, but I think because of the perception this game gives you, it bothers me a lot more. Is that you have these, these three characters in, in any given level, and they don't share a health bar, you know, you can, you can, like, look and see who's got more health. Like, you know, I want to switch to this guy, because that guy's low on health. But something about the fact that if you die as one character, you lose that character, fair, but then you go back to the beginning of the level as the other two characters bothered me so much. I was like, well, they didn't die, we don't share a health pool, we're all, why are we going back to the beginning of the level, and we don't get the other guy back? Like, in any other game, you go back to the beginning of the level, it's because you're getting an extra, you're getting a new life with that guy, and the punishment is going back to the beginning. In this game, the punishment is I lost that guy, he's dead. Now I'm just two people, why do I got to go back to the beginning of the stage?
+
+**Mike** [33:49]: Is he dead, or did they have to bring him to, like, the hospital, which they can only do by going backwards, because they killed everybody?
+
+**Joe** [33:55]: If he brought him to the hospital, why is he still not okay?
+
+**Mike** [33:59]: Well, because he's in triage.
+
+**Joe** [34:01]: Yeah, it takes time. Okay, well, there's not a hospital forward?
+
+**Sean** [34:06]: There are no hospitals in here.
+
+**Mike** [34:08]: No, no, no, a forward hospital is risky, though, because then two more people might die.
+
+**Joe** [34:12]: Yeah, but two more people, you gotta go back still.
+
+**Mike** [34:14]: Is anyone ever really dead in G.I.
+
+**Sean** [34:16]: Joe world? That's where I was gonna go.
+
+**Mike** [34:19]: You're raising a great point, though, Joe, it is true, it is true that it stops the momentum of what is otherwise a fun experience.
+
+**Joe** [34:26]: Yeah, and I feel like I'm already being punished by having died, like, that is the punishment.
+
+**Sean** [34:31]: Yeah, maybe they should just all have infinite health.
+
+**Joe** [34:34]: Yeah, that's what I was saying.
+
+**Mike** [34:35]: Right, maybe you should just get a game genie.
+
+**Sean** [34:40]: I guess for me, the stuff that didn't feel great was just sort of the level design itself, like the actual construction of the things you can walk on and walk into felt very random. Like, there's a lot of, I guess, hidden areas that are kind of, like, randomly placed. Some of them are very obvious. But it just, it never, like, when you find a, it never felt like finding a secret. It just felt like sort of clipping through the geometry. And there might be some power-ups there. Like, there was never anything, like, that kind of, like, gave you that, like, dopamine rush of, like, oh, I found this secret. It was just, like, oh, I guess this is a place that I can go. Like, yeah, sometimes there's, like, vehicles there. And, like, but there's also, it just didn't feel very polished in that regard, at least.
+
+**Joe** [35:45]: Yeah, I agree that, yeah, it did feel like there were a lot of, like, yeah, the secret is this wall is not really a wall. It's just, you can just walk right through it and things like that. And I think that bothered me in every level except for one of the later ones, the desert level. I think it's not the same thing, but I think they took that, they took that game design and they, like, turned it to their advantage where you're on the sand dunes at the end. And it's, like, clearly you are on square geometric shapes, but it's covered by a layer of, like, these curvy sand dunes that, like, yeah, you're only walking on, like. Yeah, you can bump into a wall and, like, I can see that being a little frustrating. It's, like, oh, there's a little wall here, but you can't see it because it's, like, you're on, like, the hill of the sand dune. But it feels to me like trudging through sand and you've got to jump when you're going up. And, like, it just looks so much more polished than it would if they were square geometric shapes that were visual. So, like, I think it, like, does a good job of making it look like a more advanced game than it is. Only in that instance.
+
+**Mike** [36:51]: I do think in the rest of it, I agree.
+
+**Joe** [36:52]: It's, like, very, um, it's almost like lazy secrets.
+
+**Mike** [36:56]: Yeah. And you could chalk some of this up to being, like, how you play with your action figures, too. And, you know, things are a little larger than life and stuff. But there is some, there is some cartoony stuff going on in terms of, like, how high these characters, like, there's some scaling problems here in the game. Of, like, how high characters jump and how everything's laid out and how, in general, just, like, the feel of the characters. It does feel more like the way somebody controls them when they're, like, you know, you're holding your hand on the action figure and just moving them, flailing them about. It doesn't move quite correctly for my eyes. Like, I was a little surprised at how high some of these guys jump. And that's fine.
+
+**Sean** [37:43]: It's fun. Yeah, that's what I was going to say.
+
+**Joe** [37:46]: It's fun. It's not, it doesn't look right. But it's, I think it's more fun this way.
+
+**Mike** [37:50]: Right. And it's the same thing with, like, the progression paths, too, of, like, the power-ups that you find. And, you know, it's not like, it didn't need a whole, like, RPG experience system or something. But just picking up the right power-ups to continue to level up your character's weapon is a, you know, a good enough system for the game that it's not trying to, like, overly complicate and introduce too many more systems. This game, first and foremost, is just kind of like a side-scrolling shooter. And shooter even is subjective, too, because you don't have to use the shooter. First off, you can just use your melee weapon. But you don't have unlimited ammo either. It can certainly feel like you have unlimited ammo if you use it sparingly enough. But it is something you can run out of if you're not careful and you would have to resort to melee.
+
+**Joe** [38:44]: Yeah, I hope you're not on a boss battle when you have to resort to melee.
+
+**Sean** [38:48]: Yeah. I feel like I really disregarded the melee aspect of this unless it was, unless they were, like, enemies that I knew I could handle. Otherwise, I was just running gun the whole time.
+
+**Mike** [39:03]: You know, it's interesting, though. I did notice, because I was trying to, because it was pointed out in the manual that, you know, the switching between shooting and melee, that the melee does appear, at least in the beginning when your weapons aren't at max, that it does more damage. Yeah. It gets rid of the enemies faster by just clobbering them instead of shooting them. And it's like, huh, another thing I don't think is how it works in the real world.
+
+**Sean** [39:28]: No, you gotta, the first bullets out of any gun are the weakest. That's true. Yeah, that is accurate.
+
+**Mike** [39:36]: So what is the difficulty, then? Is it, is it resource pressure? Is it just learning to, like, learning the patterns? And so the difficulty comes from having to replay the stages often? Is it the health meters? Like, are you not getting enough health? Where does the challenge lie?
+
+**Sean** [39:51]: I think it's, it's sort of like a war of attrition. Like, I think the moment to moment stuff, it's simple enough, it's easy enough. It's just that, again, like, from sub, sub level to sub level, like, yes, there are healing items. But unless you pick those up and, like, very strategically switch between characters to give them to who needs it most,
+
+**Sean** [40:18]: over, over the course of a mission, you can run, you can get very low on health and going into a final boss with everybody on low on health, it can be an issue. So I'd say it's more like, it's more a marathon than it is a sprint, and you just have to be mindful of those things.
+
+**Joe** [40:40]: Yeah, moment to moment gameplay, I put this at, like, middle of the road NES difficulty. It's not one of the easier games, but it's not, like, a crazy challenging game. But I do think it compounds on itself as you're going because you're losing, you know, you're losing resources, you're losing allies, and then you get to the end and you're like, I did find myself towards the end to kind of go back to your earlier point, Sean. By the end of my time playing this, I was like, oh, maybe I should be using melee a little more often when I can afford it. So I save my ammo for the bosses later because I was playing like you for the most of the time. And then I started, it started to bite me towards the end. Yeah. And I never, I didn't get too much further after that to, like, see how much of a difference it would have made. But I did kind of start to think, oh, maybe I should try this strategy.
+
+**Sean** [41:26]: I think I was getting lucky with random ammo falling out of people too because, and those are just weird to pick up because they're going really strange.
+
+**Joe** [41:35]: They're like bouncing in weird ways.
+
+**Mike** [41:40]: And since we've been talking about this cartoony feel of whether it's physics or story, how's the actual, like, presentation going here? To me, this isn't, I wouldn't say that it's not cartoony, but it also does kind of have a, like, more just typical video game look to it all. Like a, maybe an early Metal Slug style to it. And I'm sure that even though this came before Metal Slug, like, kind of reminds me of that. Maybe there's something to that. It just doesn't, this doesn't read, like, action figures to me.
+
+**Sean** [42:18]: Sure. I don't think that the cartoons did either, though.
+
+**Mike** [42:22]: No, they didn't.
+
+**Sean** [42:23]: Yeah. I think this looks really good. Between the, like, the intro TV screen effects and the sprites for all the characters and the vehicles. And then, like, you get, like, little cut scenes where the enemies sort of trash talk you, which is fun. I think the presentation's great in this game.
+
+**Joe** [42:46]: Yeah. And I think as far as it being, like, does it feel like the cartoon, like, I know we had TMNT not that long ago that, like, felt like the 80s TMNT cartoon. It looked like it. It had the style of it. I think for G.I. Joe, like, if you were to make a G.I. Joe game now and you wanted it to feel like the 80s style, you'd maybe do, like, a cel-shaded thing. You'd maybe have, like, a frame rate thing going. I think back on the NES, that was kind of beyond what you could do for, like, oh, making it seem more cartoony. I think it's, like, there's cartoony chibi and then there's, like, this cartoony where it's, like, they have, they're proportionally accurate people who look, like, generally trying to look like real people in the cartoon. So I think this was, like, the best that they could go is, like, let's just make them look like regular video game people that kind of have the G.I. Joe style rather than, like, I can't imagine it being, like, oh, yeah, this feels like a lot of people. Like the cartoon and it not feeling more cartoony than the actual cartoon, if that makes any sense.
+
+**Mike** [43:47]: Right. And we were talking about Army Men earlier and those, they got a game on the N64 PlayStation 1 Dreamcast and, you know, that's, like, early Polygon stuff. But, like, they went for the whole, like, and these are the Army Men toys, you know, and they look like them and they act like them and they move like them.
+
+**Sean** [44:07]: And it was. Now, was that, like, an actual, like, IP thing? Like, does anybody own the rights to Green Army Men with the legs that are stuck? Was it a Toy Story thing or was it? No, no.
+
+**Mike** [44:18]: They're old. No, no.
+
+**Joe** [44:19]: It was Sarge's. No, I know the toys are old, but I'm asking, was the N64 game a Toy Story thing?
+
+**Mike** [44:23]: No, no, no, no. Because that's when it came back into the. Yeah, they definitely came back because of that. But it was, like, a Sarge's Heroes thing. I don't know if that was, like, that was the name of the game, but I don't know if that was a spinoff thing. I don't know, like, what brought, like, who owns the Army Men?
+
+**Sean** [44:42]: Who owns Army Men?
+
+**Mike** [44:44]: Look it up. Well, Army Men is a series of video games.
+
+**Sean** [44:49]: So, they're trying to say, like, it's based on.
+
+**Mike** [44:50]: No, the actual plastics. Right, right. No, I know, I know. I'm following through here on Wikipedia.
+
+**Sean** [44:56]: I'm saying no to Wikipedia.
+
+**Mike** [44:59]: Yeah, apparently, Army Men, the plastic soldiers, they were around as far back as, like, the 1730s when they were tin soldiers instead of plastic.
+
+**Sean** [45:10]: But, like, the little green men that are clearly World War II Americans, does, like, Hasbro own that, too?
+
+**Mike** [45:19]: Yeah, the first American plastic toy soldiers were made by Bergen Toy and Novelty Company. Who owns it today? Let's find out. Today, most Army Men are made inexpensively in China. That's where they're made.
+
+**Joe** [45:31]: It's not what we're talking. It's like reading a recipe online.
+
+**Mike** [45:34]: It's getting so close.
+
+**Sean** [45:36]: Think about it. BMC Toys.
+
+**Mike** [45:39]: BMC Toys, a maker of Army Men, announced that Army women would be sold in 2020.
+
+**Sean** [45:45]: Okay. Yeah. So, still not an answer, but, well, I guess, yeah. Maybe they're one of the people that make them.
+
+**Mike** [45:51]: Yeah, maybe it's like you can't copyright that shit. Yeah. But the 3DO company, the people who made the 3DO games.
+
+**Sean** [45:59]: Yes, those were 3DO games.
+
+**Mike** [46:00]: Yeah, they are the developers of the Army Men series and those Army Men video games. What's funny is that the only thing that they don't retain of their figure is the base. And I feel like that's something that Toy Story kept. And they should have kept that here, too, for just comedic value.
+
+**Joe** [46:19]: That could be a great, like, gameplay design. Like, you have to hop everywhere. And that changes the whole game.
+
+**Mike** [46:26]: No? No, no, no. Not that. I was just trying to get back on topic. Because I always wait for Joe to speak. And then I'm like, yeah, let's get. Why are we off topic?
+
+**Sean** [46:33]: Yeah. I try to bring us off.
+
+**Joe** [46:35]: We're like the yin and the yang.
+
+**Mike** [46:37]: Yeah. And so I guess, like, I worry that, like, presentationally, yeah, they could have done that here, too. So it's totally fine. It's not a vote for or against it. I do like, presentationally, in this game, though, that there are check marks where you're supposed to put the C4 explosives. As if, like, who did that? Like, did the base set up? Like, if we ever want to blow this thing up, these would be the best spots to blow it up.
+
+**Joe** [47:00]: At first, I actually thought those were checkpoints because of the check mark.
+
+**Sean** [47:04]: Yeah, sure. I'd say that there's probably a G.I. Joe B team with some, like, if you think about, like, Captain Gridiron, there's probably something even, like, more third-rate sounding.
+
+**Sean** [47:20]: Like, private mac and cheese. And he just really likes mac and cheese. And he went in to the base before you guys, and he did all the recon, and that's where all the check marks come from. Private mac and cheese.
+
+**Joe** [47:34]: Hmm. I think that sounds right. It sounds familiar. Yeah.
+
+**Mike** [47:38]: Now, did you know, to beat this game, to say you beat this game, you can't just beat the game once. No, here we go. You can't just go through all six missions and call it a day. To beat this game, you have to beat the game three times.
+
+**Joe** [47:53]: I don't know if, no, I didn't beat this game one time, so I'm speaking based on what I read about it. I don't know if I agree that, like, that would be not beating the game. It seems to me more like this is, like, a Zelda, like, second story.
+
+**Mike** [48:07]: New game plus. It's not really even a second quest, though, because the layout is different. Here, it's more just like they added additional challenges to the game. I agree with you. It's not Ghost and Goblins where you have to, like.
+
+**Joe** [48:21]: You don't even get the ending. Yeah, you don't get the ending.
+
+**Sean** [48:23]: It's just more like new game plus.
+
+**Joe** [48:25]: Yeah, I think you're right.
+
+**Mike** [48:26]: But it's new game plus in, like, it's actually new game minus. They're, like, removing things from it rather than making you more powerful. You're getting weaker as it goes on.
+
+**Sean** [48:35]: It's hardcore mode.
+
+**Mike** [48:37]: Yeah, the second time you play through the game, you're only allowed to take one team member with you. And the check marks have moved to different places. Not every single one of them, but I guess some were moved to, like, harder locations. And then the third time, if you manage to survive that, you take double the damage from all the enemies. So not only do you have less team members, but you also now take double damage. So your health goes even faster. I guess, you know, that's like the G.I. Joe rank, right? So, like, you first start as just, like, what's the base?
+
+**Mike** [49:15]: Private mac and cheese. Yeah. Yeah, so your private mac and cheese and you work your way up to Kraft macaroni.
+
+**Mike** [49:24]: But that's fun. I think that, you know, not enough of these NES games have, like, additional challenges added to them afterwards. Because I agree with you, Joe. It's just, like, something to do if you did beat the game. It's like, well, now do it with this. It's like, no one's forcing you. No one's saying, like, you didn't really beat the game.
+
+**Joe** [49:40]: Yeah. And then if you are, like, really, really into it, then you can be like, well, now I'm, like, I beat the game. But also I'm, like, an elite player because I beat the second and third version of the game.
+
+**Sean** [49:50]: Yeah, as a Resident Evil fan, I appreciate this kind of replay value where there's actually, like, some changes. And not just, like, you gotta do it again or you didn't really do it. It's like, if you want to play more, you can play more like this.
+
+**Mike** [50:08]: Yeah, and I think we've covered just about everything we can talk about here. So, G, I think it's time for the Essential Games List.
+
+**Joe** [50:20]: Joe. I went through a long period of time this week where I was kind of in the mindset of, this is, like, really, really good. And I can't put my finger on why I don't want to make it essential. And I landed on that age-old thing I often land on where I'm, like, I think it's just a really good game, but it's not doing anything to, like, really blow me away. Okay. And then in, like, the last couple days, I started playing it more again, just to, like, refresh, because I started playing it early this week and I wanted to play again just before the episode. And I think I already disagree with myself. I think I'm just, like, thinking too hard about, like, this needs to, like, blow me away with some crazy thing. I think this is just all around, like, I'm having a great time with it. It's got, it's got apparently three versions of this game that you can play, but also, like, there's variety in the gameplay. There's, you know, every, like, your attacks feel good and it's, and there's multiple different characters with different types of attacks. And they all feel unique and different and good, not to mention that then vehicles all have different types of, like, ways to shoot and everything. And I think this is, like, it's an enjoyable game. It's the sort of, like, choosing your character and leveling up makes you feel attached to these characters and makes you feel like you have a lot more agency in these missions other than just running through them. I think I'm going to throw this right now on the Essential Games list or give my vote for the Essential Games list.
+
+**Sean** [51:45]: Sean? Yeah, I was, I was pretty pleasantly surprised with this game. When we were, when we did our Best of 90 episode looking forward on the coming up soon list, I was kind of disappointed that I'm like, yeah, this all kind of looks like, you know, it's all, it's either just licensed or it doesn't sound very interesting, yada yada. But, um, but wow, this, this game was really cool. Um, like, with everything we've been saying, whether it's the kind of, uh, there's important, like, decisions that you have to make, uh, in, in how you actually go through the game strategically.
+
+**Joe** [52:29]: And, like, the, the gunplay itself feels good.
+
+**Sean** [52:33]: And, uh, all, we've been talking about it. I, I think I'm going to go with Joe on this and say that this game's all, this is essential.
+
+**Mike** [52:41]: All right, that's two essential votes, which means that it is on the Essential Games list. And I will throw the third vote in favor of putting G.I. Joe on the Essential Games list. I'm going to be a little less careful with my picks, but that's not, uh, to discredit G.I. Uh, just that, you know, I don't think by any means it's a perfect game. Uh, but it's, it's absolutely a fun game. And I think just the, the vehicle segments and the boss fights, the boss fights, we didn't talk much about it, but they are really fun. And, um, I really like a lot of the, the sprite work on those bosses too. Uh, those segments alone are like enough to make me want to like replay parts of this game and try to beat it someday. Uh, I, I don't think it's like, I don't think it's a ridiculously punishing game. I don't think it's an easy game by any stretch, but I do think it nailed the whole like G.I. Joe being a team and, and, and going on these missions and, uh, the team system really gives the game depth and personality at the same time. And that's a huge plus because sometimes, you know, the team system is in a video game could be like completely overthought and then it just becomes a burden. And you're constantly, you know, we just saw that with advanced Dungeons and Dragons as a team system there, but the whole time you're just going through menus, selecting bullshit and hoping that it works here. It completely works because you set up your team before you ever get into the actual, um, uh, missions and then you're doing the battles and it's like totally fine. And, and switching is seamless between these three characters. Man, uh, if only advanced Dungeons and Dragons could take a note from that. Uh, I, I say it's not perfect just because like, you know, it's not, it's just, there's certain things about this game, this, maybe even this genre that I don't particularly, uh, love on the NES. Um, but that's a, that's a personal thing. And I don't think I can hold that against it, uh, in the court of law that is the essential games list. So, uh, G.I. Joe, a real American hero works because it feels way more than just a licensed game with a skin. Like we saw with Funhaus last week, it plays like a game that is built around the idea of commanding a team. And so whether it was G.I. Joe or not, it totally works. So that's three votes for the essential games list. And that's pretty early in the year, but here we have it. Uh, the first month of 1991 already has an essential game.
+
+**Sean** [55:05]: Guys, I just saw, I have to call this out, but, um, uh, as usual, I'm, I'm watching some gameplay as we, as we speak. And I think the Cobra commander was a snake. Like he kind of morphed from snake into human person.
+
+**Mike** [55:24]: Oh no. Was that a real thing?
+
+**Joe** [55:26]: We sounded so stupid then earlier.
+
+**Sean** [55:29]: Like was he born a snake? And he learned to be human?
+
+**Mike** [55:34]: I refuse to look it up, so I would just like to believe that. Okay. I would like to believe that he was reptilian and, uh, he's just trying to blend in. And that's why he actually is just pure evil. I take back what I said earlier. Wow. Uh, earlier this episode, I defended Cobra three times before, uh, I voted this game essential. So that's pretty, uh, it's pretty impressive. Right. I guess, yeah, I guess I was just a, uh, it was a psyop on my part. Now we will get, um, we will get a sequel. G.I. Joe, the Atlantis factor. Um, I, I didn't think G.I. Joe would go to Atlantis, but maybe that's like code name for something else. Maybe it's not the underwater city. It's just Florida. Any thoughts? Yeah. It's just Florida. I love that. Yeah.
+
+**Joe** [56:19]: No, no, no. It, it, it feels, uh, it feels weird that like the first game is, is G.I. Joe, a real American hero. And the second one is like the Atlantis factor. Like Atlantis doesn't feel like it fits in the world of G.I. Joe, but I mean, we'll see.
+
+**Mike** [56:37]: We'll see.
+
+**Mike** [56:45]: Thank you.
