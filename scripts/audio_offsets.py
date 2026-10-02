@@ -26,6 +26,9 @@ from pathlib import Path
 
 import numpy as np
 
+sys.path.insert(0, str(Path(__file__).parent))
+import mixes  # noqa: E402
+
 REPO = Path(__file__).resolve().parent.parent
 MIXES = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/10_NEStalgia/Mixes"
 OUT = REPO / "data/audio-offsets.json"
@@ -197,8 +200,9 @@ def main():
     episodes = {r["number"]: r for r in json.loads((REPO / "data/episodes.json").read_text()) if r["type"] == "episode" and r["number"] and "remaster" not in r["feed_title"].lower()}
     ok = 0
     for n in nums:
-        mix = sorted(glob.glob(str(MIXES / f"NES {n} - *.mp3")))
         rec = episodes.get(n)
+        found = mixes.find_audio(n, rec["title"] if rec else None)
+        mix = [str(found)] if found else []
         if not mix or not rec:
             print(f"   episode {n}: skipped (" + ("no MP3 in Mixes" if not mix else "not in the public feed yet") + ")")
             continue

@@ -9,12 +9,15 @@ Several at once work too (401 402 405-410). Run it by double-clicking "Transcrib
 `--dry-run` shows what it would do without transcribing.
 """
 import argparse
-import glob
+import json
 import os
 import re
 import subprocess
 import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+import mixes  # noqa: E402
 
 REPO = Path(__file__).resolve().parent.parent
 ICLOUD = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/10_NEStalgia"
@@ -26,11 +29,30 @@ def slug(s: str) -> str:
     return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s)).strip("-")
 
 
+def feed_title(n: int):
+    """The episode's title from the podcast feed data (e.g. 'Sky Shark'), or None."""
+    try:
+        for r in json.loads((REPO / "data/episodes.json").read_text()):
+            if r["type"] == "episode" and r["number"] == n and "remaster" not in r["feed_title"].lower():
+                t = r["title"].strip()
+                return t.title() if t.isupper() else t
+    except Exception:
+        pass
+    return None
+
+
 def find_audio(n: int):
-    hits = sorted(glob.glob(str(MIXES / f"NES {n} - *.mp3")))
-    # prefer the cleaned-up "mixdown" version if there are several
-    hits.sort(key=lambda p: ("mixdown" not in p.lower(), p))
-    return Path(hits[0]) if hits else None
+    return mixes.find_audio(n, feed_title(n))
+
+
+def episode_name(n: int, audio: Path):
+    """(game name, file name without extension) for this episode's transcript, matching its show notes if they exist."""
+    name = feed_title(n)
+    if not name:
+        name = re.sub(r"(?i)^(NES\s*0*%d|0*%d)\s*-?\s*" % (n, n), "", audio.stem)
+        name = re.sub(r"(?i)[_ ]?mixdown.*$", "", name).strip(" _-") or audio.stem
+    notes = sorted((REPO / "episodes").glob(f"{n:03d}-*.md"))
+    return name, (notes[0].stem if notes else f"{n:03d}-{slug(name)}")
 
 
 def parse_numbers(raw: str):
@@ -71,9 +93,8 @@ def transcribe_one(n: int, dry_run: bool) -> bool:
         print("   Put the finished episode there, named like 'NES 401 - Game Name.mp3'.")
         return False
 
-    name = re.sub(rf"^NES {n} - ", "", audio.stem)
-    name = re.sub(r"[_ ]mixdown.*$", "", name, flags=re.I).strip()
-    out = REPO / "transcripts" / f"{n:03d}-{slug(name)}"
+    name, stem = episode_name(n, audio)
+    out = REPO / "transcripts" / stem
     title = f"{n:03d} - {name}"
 
     cmd = [sys.executable, str(REPO / "scripts/transcribe.py"), str(audio), "--out", str(out), "--title", title]

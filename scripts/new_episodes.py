@@ -203,7 +203,7 @@ def handle_episode(r, args):
     mix = R.find_audio(n)
     hosted_tmp = None
     if mix:
-        name = re.sub(r"[_ ]mixdown.*$", "", re.sub(rf"^NES {n} - ", "", mix.stem), flags=re.I).strip()
+        name = R.episode_name(n, mix)[0]
         audio, source = mix, "your final mix"
     elif args.use_hosted_audio and r["audio_url"]:
         name, source = r["name"], "the host's audio (may contain ads)"
@@ -214,7 +214,7 @@ def handle_episode(r, args):
     else:
         return "waiting", f"no final mix named 'NES {n} - ....mp3' in Mixes yet"
 
-    out = REPO / "transcripts" / f"{n:03d}-{R.slug(name)}"
+    out = REPO / "transcripts" / (R.episode_name(n, mix)[1] if mix else f"{n:03d}-{R.slug(name)}")
     log(f"   transcribing from {source} ({audio.name}) ...")
     run([sys.executable, str(REPO / "scripts/transcribe.py"), str(audio), "--out", str(out), "--title", f"{n:03d} - {name}"])
     if mix:
