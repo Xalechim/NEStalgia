@@ -1,0 +1,371 @@
+{
+  "episode": 448,
+  "title": "448 - Harlem Globetrotters",
+  "generated": "2026-10-02",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "bdd97071f37d",
+  "items": [
+    {
+      "name": "Harlem Globetrotters",
+      "kind": "game",
+      "description": "The episode's game: GameTek's 1991 NES basketball game, an exhibition match with only a few trick shots.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Harlem_Globetrotters_(video_game)",
+          "label": "Wikipedia: Harlem Globetrotters (video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/nes/587329-harlem-globetrotters",
+          "label": "Harlem Globetrotters for NES - GameFAQs",
+          "source": "reference"
+        },
+        {
+          "url": "https://tcrf.net/Harlem_Globetrotters",
+          "label": "Harlem Globetrotters - The Cutting Room Floor",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.vgmpf.com/Wiki/index.php/Harlem_Globetrotters_(NES)",
+          "label": "Harlem Globetrotters (NES) - Video Game Music Preservation Foundation",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Harlem Globetrotters (the team)",
+      "kind": "team_or_league",
+      "description": "The exhibition basketball team the game is licensed from, and the subject of Mike's childhood game story.",
+      "timestamp": "00:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Harlem_Globetrotters",
+          "label": "Wikipedia: Harlem Globetrotters",
+          "source": "wikipedia",
+          "note": "American exhibition basketball team"
+        }
+      ]
+    },
+    {
+      "name": "Washington Generals",
+      "kind": "team_or_league",
+      "description": "The Globetrotters' perpetual opponents, who famously won once, and who you can pick in the game.",
+      "timestamp": "04:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Washington_Generals",
+          "label": "Wikipedia: Washington Generals",
+          "source": "wikipedia",
+          "note": "Exhibition basketball team"
+        }
+      ]
+    },
+    {
+      "name": "GameTek",
+      "kind": "company",
+      "description": "The publisher of the game, whose manual has six pages of ads for its other games and which later went bankrupt.",
+      "timestamp": "29:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/GameTek",
+          "label": "Wikipedia: GameTek",
+          "source": "wikipedia",
+          "note": "American video game publisher"
+        }
+      ]
+    },
+    {
+      "name": "National Basketball Association",
+      "kind": "team_or_league",
+      "description": "The league the hosts say has ignored the Globetrotters' winning streak.",
+      "timestamp": "02:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/National_Basketball_Association",
+          "label": "Wikipedia: National Basketball Association",
+          "source": "wikipedia",
+          "note": "North American professional basketball league"
+        }
+      ]
+    },
+    {
+      "name": "Space Jam",
+      "kind": "film_tv_music",
+      "description": "Mike's joke that Michael Jordan was promised he'd play for the Generals if the Looney Tunes lost.",
+      "timestamp": "21:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Space_Jam",
+          "label": "Wikipedia: Space Jam",
+          "source": "wikipedia",
+          "note": "1996 film by Joe Pytka"
+        }
+      ]
+    },
+    {
+      "name": "Michael Jordan",
+      "kind": "person",
+      "description": "The star of Space Jam, in the hosts' joke about playing for the Washington Generals.",
+      "timestamp": "21:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Jordan",
+          "label": "Wikipedia: Michael Jordan",
+          "source": "wikipedia",
+          "note": "American basketball player and businessman (born 1963)"
+        }
+      ]
+    },
+    {
+      "name": "Savannah Bananas",
+      "kind": "team_or_league",
+      "description": "The baseball novelty act the hosts say is doing for baseball what the Globetrotters did for basketball.",
+      "timestamp": "17:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Savannah_Bananas",
+          "label": "Wikipedia: Savannah Bananas",
+          "source": "wikipedia",
+          "note": "Baseball team in Georgia, US"
+        }
+      ]
+    },
+    {
+      "name": "Double Dribble",
+      "kind": "game",
+      "description": "The earlier NES basketball game with cut-in dunk scenes, which the hosts say feels more like a Globetrotters game.",
+      "timestamp": "14:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dribble_(video_game)",
+          "label": "Wikipedia: Double Dribble (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "061-double-dribble",
+      "episode_title": "DOUBLE DRIBBLE"
+    },
+    {
+      "name": "The Simpsons: Bart vs. the Space Mutants",
+      "kind": "game",
+      "description": "Last week's game, whose theme song worry Mike compares to the Globetrotters' theme being included.",
+      "timestamp": "11:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Bart_vs._the_Space_Mutants",
+          "label": "Wikipedia: The Simpsons: Bart vs. the Space Mutants",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ],
+      "episode_key": "443-the-simpsons-bart-vs-the-space-mutants",
+      "episode_title": "The Simpsons: Bart vs The Space Mutants"
+    },
+    {
+      "name": "Sweet Georgia Brown",
+      "kind": "film_tv_music",
+      "description": "The whistled theme tune the Globetrotters play, which the hosts try and fail to whistle.",
+      "timestamp": "08:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sweet_Georgia_Brown",
+          "label": "Wikipedia: Sweet Georgia Brown",
+          "source": "wikipedia",
+          "note": "1925 song by Ben Bernie, Maceo Pinkard, and Kenneth Casey"
+        }
+      ]
+    },
+    {
+      "name": "Harlem Shake",
+      "kind": "film_tv_music",
+      "description": "The other track Mike jokes the game includes.",
+      "timestamp": "11:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Harlem_Shake_(meme)",
+          "label": "Wikipedia: Harlem Shake (meme)",
+          "source": "wikipedia",
+          "note": "Internet meme"
+        }
+      ]
+    },
+    {
+      "name": "Meet the Mets",
+      "kind": "film_tv_music",
+      "description": "The New York Mets' team song, offered as a rare sports-team theme.",
+      "timestamp": "09:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Meet_the_Mets",
+          "label": "Wikipedia: Meet the Mets",
+          "source": "wikipedia",
+          "note": "1963 single by Steve Goodman"
+        }
+      ]
+    },
+    {
+      "name": "Roman Reigns",
+      "kind": "person",
+      "description": "One of the wrestlers with an entrance theme, in the hosts' comparison to the Globetrotters' theme song.",
+      "timestamp": "09:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Roman_Reigns",
+          "label": "Wikipedia: Roman Reigns",
+          "source": "wikipedia",
+          "note": "American professional wrestler and actor (born 1985)"
+        }
+      ]
+    },
+    {
+      "name": "Dwayne Johnson",
+      "kind": "person",
+      "description": "Another wrestler-turned-actor with an entrance theme, \"The Rock\".",
+      "timestamp": "09:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dwayne_Johnson",
+          "label": "Wikipedia: Dwayne Johnson",
+          "source": "wikipedia",
+          "note": "American actor and professional wrestler (born 1972)"
+        }
+      ]
+    },
+    {
+      "name": "Kayfabe",
+      "kind": "event_or_term",
+      "description": "The wrestling term for keeping a staged event believable, used to describe the Globetrotters.",
+      "timestamp": "02:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kayfabe",
+          "label": "Wikipedia: Kayfabe",
+          "source": "wikipedia",
+          "note": "Portrayal of professional wrestling events as being real"
+        }
+      ]
+    },
+    {
+      "name": "Interstellar",
+      "kind": "film_tv_music",
+      "description": "The film Sean brings up in the Yankees-as-a-novelty-act riff.",
+      "timestamp": "25:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Interstellar_(film)",
+          "label": "Wikipedia: Interstellar (film)",
+          "source": "wikipedia",
+          "note": "2014 film by Christopher Nolan"
+        }
+      ]
+    },
+    {
+      "name": "New York Yankees",
+      "kind": "team_or_league",
+      "description": "Used in the hosts' joke about MLB disappearing and the Yankees becoming a traveling novelty act.",
+      "timestamp": "26:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/New_York_Yankees",
+          "label": "Wikipedia: New York Yankees",
+          "source": "wikipedia",
+          "note": "Major League Baseball franchise"
+        }
+      ]
+    },
+    {
+      "name": "Wheel of Fortune",
+      "kind": "game",
+      "description": "One of GameTek's game-show games advertised in the manual.",
+      "timestamp": "30:03",
+      "links": [],
+      "episode_key": "120-wheel-of-fortune",
+      "episode_title": "WHEEL OF FORTUNE"
+    },
+    {
+      "name": "Jeopardy",
+      "kind": "game",
+      "description": "Another of GameTek's NES game-show games.",
+      "timestamp": "30:03",
+      "links": [],
+      "episode_key": "117-jeopardy",
+      "episode_title": "JEOPARDY"
+    },
+    {
+      "name": "Classic Concentration",
+      "kind": "game",
+      "description": "GameTek's NES version of the Concentration game show.",
+      "timestamp": "30:03",
+      "links": [],
+      "episode_key": "358-classic-concentration",
+      "episode_title": "Classic Concentration"
+    },
+    {
+      "name": "Double Dare",
+      "kind": "game",
+      "description": "The Nickelodeon-based game GameTek also published.",
+      "timestamp": "30:03",
+      "links": [],
+      "episode_key": "295-double-dare",
+      "episode_title": "Double Dare"
+    },
+    {
+      "name": "Hollywood Squares",
+      "kind": "game",
+      "description": "Another GameTek game-show adaptation advertised in the manual.",
+      "timestamp": "30:03",
+      "links": [],
+      "episode_key": "218-hollywood-squares",
+      "episode_title": "Hollywood Squares"
+    },
+    {
+      "name": "Super Password",
+      "kind": "film_tv_music",
+      "description": "The word-association game show behind the unreleased NES game.",
+      "timestamp": "30:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Password_Plus_and_Super_Password",
+          "label": "Wikipedia: Password Plus and Super Password",
+          "source": "wikipedia",
+          "note": "American television game shows"
+        }
+      ]
+    },
+    {
+      "name": "Talking Super Password",
+      "kind": "game",
+      "description": "The cancelled NES game advertised in the manual with box art, of which no prototype is known to have surfaced.",
+      "timestamp": "30:03",
+      "links": [
+        {
+          "url": "https://lostmediawiki.com/Super_Password_(lost_builds_of_unreleased_NES_port_of_word_game;_1980s)",
+          "label": "Super Password (lost builds of unreleased NES port) - The Lost Media Wiki",
+          "source": "other"
+        },
+        {
+          "url": "https://lost-games.fandom.com/wiki/Super_Password",
+          "label": "Super Password - Lost Games Wiki",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "Where the hosts' verdicts are collected; this one was not essential.",
+      "timestamp": "31:31",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

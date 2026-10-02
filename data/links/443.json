@@ -1,0 +1,471 @@
+{
+  "episode": 443,
+  "title": "443 - Bart vs Space Mutants",
+  "generated": "2026-10-02",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "11abbffdff53",
+  "items": [
+    {
+      "name": "The Simpsons: Bart vs. the Space Mutants",
+      "kind": "game",
+      "description": "The episode's game: the first Simpsons video game, a 1991 platformer where Bart has to stop aliens from taking over Springfield.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Bart_vs._the_Space_Mutants",
+          "label": "Wikipedia: The Simpsons: Bart vs. the Space Mutants",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/nes/587620-the-simpsons-bart-vs-the-space-mutants",
+          "label": "The Simpsons: Bart vs. the Space Mutants for NES - GameFAQs",
+          "source": "reference"
+        },
+        {
+          "url": "https://tcrf.net/The_Simpsons:_Bart_vs._the_Space_Mutants_(NES)",
+          "label": "Bart vs. the Space Mutants (NES) - The Cutting Room Floor",
+          "source": "reference"
+        },
+        {
+          "url": "https://archive.org/details/simpsons-bart-vs.-the-space-mutants-the-nes-hiresscans",
+          "label": "Bart vs. the Space Mutants NES manual scans (600 DPI) - Internet Archive",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "The Simpsons",
+      "kind": "film_tv_music",
+      "description": "The TV show the game is based on; the hosts compare how the game uses (and misses) the early seasons.",
+      "timestamp": "00:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Simpsons",
+          "label": "Wikipedia: The Simpsons",
+          "source": "wikipedia",
+          "note": "American animated sitcom"
+        }
+      ]
+    },
+    {
+      "name": "Matt Groening",
+      "kind": "person",
+      "description": "Creator of The Simpsons and Futurama, joked about in the opening banter.",
+      "timestamp": "00:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Matt_Groening",
+          "label": "Wikipedia: Matt Groening",
+          "source": "wikipedia",
+          "note": "American cartoonist and animator (born 1954)"
+        }
+      ]
+    },
+    {
+      "name": "Futurama",
+      "kind": "film_tv_music",
+      "description": "Groening's other cartoon, which Joe prefers to The Simpsons.",
+      "timestamp": "00:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Futurama",
+          "label": "Wikipedia: Futurama",
+          "source": "wikipedia",
+          "note": "American animated sci-fi sitcom"
+        }
+      ]
+    },
+    {
+      "name": "Kang and Kodos",
+      "kind": "film_tv_music",
+      "description": "The recurring alien characters from the Treehouse of Horror episodes, who look nothing like the game's Space Mutants.",
+      "timestamp": "02:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kang_and_Kodos",
+          "label": "Wikipedia: Kang and Kodos",
+          "source": "wikipedia",
+          "note": "Fictional characters from The Simpsons franchise"
+        }
+      ]
+    },
+    {
+      "name": "Treehouse of Horror",
+      "kind": "film_tv_music",
+      "description": "The Halloween episodes where Kang and Kodos appear, including Bart's prank call to Moe.",
+      "timestamp": "02:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Treehouse_of_Horror",
+          "label": "Wikipedia: Treehouse of Horror",
+          "source": "wikipedia",
+          "note": "Series of Halloween-themed episodes of The Simpsons"
+        }
+      ]
+    },
+    {
+      "name": "Rugrats",
+      "kind": "film_tv_music",
+      "description": "The cartoon Mike compares to The Simpsons for licensed video games he played as a kid.",
+      "timestamp": "03:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rugrats",
+          "label": "Wikipedia: Rugrats",
+          "source": "wikipedia",
+          "note": "1991–2004 American animated television series"
+        }
+      ]
+    },
+    {
+      "name": "Rugrats: Search for Reptar",
+      "kind": "game",
+      "description": "The PlayStation Rugrats game Joe says holds up better than expected.",
+      "timestamp": "04:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rugrats%3A_Search_for_Reptar",
+          "label": "Wikipedia: Rugrats: Search for Reptar",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "Moe Szyslak",
+      "kind": "film_tv_music",
+      "description": "The bartender Bart prank-calls in the show and in the game.",
+      "timestamp": "06:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Moe_Szyslak",
+          "label": "Wikipedia: Moe Szyslak",
+          "source": "wikipedia",
+          "note": "Fictional character from The Simpsons franchise"
+        }
+      ]
+    },
+    {
+      "name": "Kwik-E-Mart",
+      "kind": "film_tv_music",
+      "description": "One of the Springfield locations the game shows only from the outside.",
+      "timestamp": "06:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kwik-E-Mart",
+          "label": "Wikipedia: Kwik-E-Mart",
+          "source": "wikipedia",
+          "note": "Shop in the television series The Simpsons"
+        }
+      ]
+    },
+    {
+      "name": "Krusty the Clown",
+      "kind": "film_tv_music",
+      "description": "The clown whose theme park appears in level two.",
+      "timestamp": "11:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Krusty_the_Clown",
+          "label": "Wikipedia: Krusty the Clown",
+          "source": "wikipedia",
+          "note": "Fictional character from The Simpsons franchise"
+        }
+      ]
+    },
+    {
+      "name": "The Simpsons: Hit & Run",
+      "kind": "game",
+      "description": "The 3D open-world Simpsons game the hosts hold up as what a Simpsons game should be.",
+      "timestamp": "07:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Hit_%26_Run",
+          "label": "Wikipedia: The Simpsons: Hit & Run",
+          "source": "wikipedia",
+          "note": "2003 action-adventure game"
+        }
+      ]
+    },
+    {
+      "name": "The Simpsons: Road Rage",
+      "kind": "game",
+      "description": "The Crazy Taxi-style Simpsons game that finally got the series right, and got sued over it.",
+      "timestamp": "27:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Road_Rage",
+          "label": "Wikipedia: The Simpsons: Road Rage",
+          "source": "wikipedia",
+          "note": "Vehicular combat video game"
+        }
+      ]
+    },
+    {
+      "name": "Crazy Taxi",
+      "kind": "game",
+      "description": "The Sega arcade game that Road Rage copied closely enough to draw a lawsuit.",
+      "timestamp": "27:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crazy_Taxi",
+          "label": "Wikipedia: Crazy Taxi",
+          "source": "wikipedia",
+          "note": "Series of racing video games"
+        }
+      ]
+    },
+    {
+      "name": "Do the Bartman",
+      "kind": "film_tv_music",
+      "description": "The Bart-focused music video from the Bartmania era of the early seasons.",
+      "timestamp": "15:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Do_the_Bartman",
+          "label": "Wikipedia: Do the Bartman",
+          "source": "wikipedia",
+          "note": "1990 single by The Simpsons"
+        }
+      ]
+    },
+    {
+      "name": "Bart vs. Thanksgiving",
+      "kind": "film_tv_music",
+      "description": "The 1990 episode that started the \"Bart vs.\" naming pattern.",
+      "timestamp": "14:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bart_vs._Thanksgiving",
+          "label": "Wikipedia: Bart vs. Thanksgiving",
+          "source": "wikipedia",
+          "note": "7th episode of the 2nd season of The Simpsons"
+        }
+      ]
+    },
+    {
+      "name": "Home Alone 2: Lost in New York",
+      "kind": "game",
+      "description": "The Game Boy action platformer the hosts compare this game to, and expect to cover on the NES.",
+      "timestamp": "12:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Home_Alone_2%3A_Lost_in_New_York_(video_game)",
+          "label": "Wikipedia: Home Alone 2: Lost in New York (video game)",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Maniac Mansion",
+      "kind": "game",
+      "description": "The point-and-click adventure Mike says would have been a better model for a Simpsons game.",
+      "timestamp": "14:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Maniac_Mansion",
+          "label": "Wikipedia: Maniac Mansion",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "367-maniac-mansion",
+      "episode_title": "Maniac Mansion"
+    },
+    {
+      "name": "Back to the Future",
+      "kind": "game",
+      "description": "The NES movie-tie-in game compared for how it retells a story in game form.",
+      "timestamp": "20:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Back_to_the_Future_(1989_video_game)",
+          "label": "Wikipedia: Back to the Future (1989 video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "212-back-to-the-future",
+      "episode_title": "Back to the Future"
+    },
+    {
+      "name": "Garry Kitchen",
+      "kind": "person",
+      "description": "The designer of this game, who also made Garry Kitchen's Battle Tank and was remarked on for putting his name on the box.",
+      "timestamp": "25:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Garry_Kitchen",
+          "label": "Wikipedia: Garry Kitchen",
+          "source": "wikipedia",
+          "note": "American video game designer"
+        }
+      ]
+    },
+    {
+      "name": "Garry Kitchen's Battle Tank",
+      "kind": "game",
+      "description": "The earlier NES game the hosts joke Kitchen couldn't put his name on.",
+      "timestamp": "25:18",
+      "links": [],
+      "episode_key": "355-garry-kitchens-battle-tank",
+      "episode_title": "Garry Kitchen's Battle Tank"
+    },
+    {
+      "name": "Imagineering",
+      "kind": "company",
+      "description": "The developer of the game; Wikipedia covers the company under its name Absolute Entertainment.",
+      "timestamp": "24:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Absolute_Entertainment",
+          "label": "Wikipedia: Absolute Entertainment",
+          "source": "wikipedia",
+          "note": "American video game publishing company"
+        }
+      ]
+    },
+    {
+      "name": "Acclaim Entertainment",
+      "kind": "company",
+      "description": "The game's publisher.",
+      "timestamp": "24:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Acclaim_Entertainment",
+          "label": "Wikipedia: Acclaim Entertainment",
+          "source": "wikipedia",
+          "note": "American video game publisher"
+        }
+      ]
+    },
+    {
+      "name": "The Simpsons (arcade game)",
+      "kind": "game",
+      "description": "Konami's four-player Simpsons beat-'em-up, which lets you play as the whole family.",
+      "timestamp": "20:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Simpsons_(video_game)",
+          "label": "Wikipedia: The Simpsons (video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Simpsons Wrestling",
+      "kind": "game",
+      "description": "A cult PlayStation Simpsons game Sean was hunting for at Blockbuster.",
+      "timestamp": "25:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Simpsons_Wrestling",
+          "label": "Wikipedia: The Simpsons Wrestling",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Simpsons Skateboarding",
+      "kind": "game",
+      "description": "The Homer-on-the-cover skateboarding game the hosts mix up with the Bart era.",
+      "timestamp": "28:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Simpsons_Skateboarding",
+          "label": "Wikipedia: The Simpsons Skateboarding",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "Bart the Daredevil",
+      "kind": "film_tv_music",
+      "description": "The episode where Homer attempts to skate over Springfield Gorge.",
+      "timestamp": "28:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bart_the_Daredevil",
+          "label": "Wikipedia: Bart the Daredevil",
+          "source": "wikipedia",
+          "note": "8th episode of the 2nd season of The Simpsons"
+        }
+      ]
+    },
+    {
+      "name": "Blockbuster",
+      "kind": "other",
+      "description": "The video rental chain where the hosts rented games for a weekend as kids.",
+      "timestamp": "25:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blockbuster_(retailer)",
+          "label": "Wikipedia: Blockbuster (retailer)",
+          "source": "wikipedia",
+          "note": "American video rental corporation (1985–2020)"
+        }
+      ]
+    },
+    {
+      "name": "Abe Simpson",
+      "kind": "film_tv_music",
+      "description": "Homer's dad, whose badly drawn portrait appears behind the couch in the opening.",
+      "timestamp": "32:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grampa_Simpson",
+          "label": "Wikipedia: Grampa Simpson",
+          "source": "wikipedia",
+          "note": "Fictional character from The Simpsons franchise"
+        }
+      ]
+    },
+    {
+      "name": "The Simpsons shorts",
+      "kind": "film_tv_music",
+      "description": "The original Tracey Ullman Show shorts, whose rougher look the hosts call haunted.",
+      "timestamp": "38:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Simpsons_shorts",
+          "label": "Wikipedia: The Simpsons shorts",
+          "source": "wikipedia",
+          "note": "Special episode list for an animated series"
+        }
+      ]
+    },
+    {
+      "name": "The Simpsons: Bart vs. the World",
+      "kind": "game",
+      "description": "The next Simpsons NES game the hosts plan to cover.",
+      "timestamp": "39:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Simpsons%3A_Bart_vs._the_World",
+          "label": "Wikipedia: The Simpsons: Bart vs. the World",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "Where the hosts' verdicts are collected; all three voted this one not essential.",
+      "timestamp": "34:18",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

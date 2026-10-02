@@ -1,0 +1,336 @@
+{
+  "episode": 445,
+  "title": "445 - Super Cars",
+  "generated": "2026-10-02",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "e846c979a252",
+  "items": [
+    {
+      "name": "Super Cars",
+      "kind": "game",
+      "description": "The episode's game: a top-down racing game where you win prize money to upgrade your car and buy missiles.",
+      "timestamp": "00:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Cars",
+          "label": "Wikipedia: Super Cars",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/nes/587661-super-cars",
+          "label": "Super Cars for NES - GameFAQs",
+          "source": "reference"
+        },
+        {
+          "url": "http://frgcb.blogspot.com/2026/03/super-cars-gremlin-graphics-1990.html",
+          "label": "Super Cars (Gremlin Graphics, 1990) - Finnish Retro Game Comparison Blog",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "The Magnetic Fields",
+      "kind": "film_tv_music",
+      "description": "The indie band the developer shares a name with.",
+      "timestamp": "04:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Magnetic_Fields",
+          "label": "Wikipedia: The Magnetic Fields",
+          "source": "wikipedia",
+          "note": "American band"
+        }
+      ]
+    },
+    {
+      "name": "Gremlin Graphics",
+      "kind": "company",
+      "description": "The company that handled the NES version of the game.",
+      "timestamp": "05:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gremlin_Interactive",
+          "label": "Wikipedia: Gremlin Interactive",
+          "source": "wikipedia",
+          "note": "British video game developer"
+        }
+      ]
+    },
+    {
+      "name": "Electro Brain",
+      "kind": "company",
+      "description": "The publisher of the NES version.",
+      "timestamp": "05:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Electro_Brain",
+          "label": "Wikipedia: Electro Brain",
+          "source": "wikipedia",
+          "note": "American video game company"
+        }
+      ]
+    },
+    {
+      "name": "Atari ST",
+      "kind": "hardware",
+      "description": "One of the home computers Super Cars first appeared on.",
+      "timestamp": "05:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Atari_ST",
+          "label": "Wikipedia: Atari ST",
+          "source": "wikipedia",
+          "note": "Line of home computers from Atari Corporation"
+        }
+      ]
+    },
+    {
+      "name": "Amiga",
+      "kind": "hardware",
+      "description": "The other home computer Super Cars launched on, where the camera drifts as you turn.",
+      "timestamp": "05:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Amiga",
+          "label": "Wikipedia: Amiga",
+          "source": "wikipedia",
+          "note": "Family of personal computers sold by Commodore"
+        }
+      ]
+    },
+    {
+      "name": "Super Cars II",
+      "kind": "game",
+      "description": "The 1991 computer-only sequel that zooms the camera out and adds looping tracks.",
+      "timestamp": "22:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Cars_II",
+          "label": "Wikipedia: Super Cars II",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Micro Machines",
+      "kind": "game",
+      "description": "The top-down racer covered in the NEStalgia Bytes series, the only earlier top-down racing game on the show.",
+      "timestamp": "02:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Micro_Machines_(video_game)",
+          "label": "Wikipedia: Micro Machines (video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Rad Racer",
+      "kind": "game",
+      "description": "The behind-the-car racer the hosts use to explain how pseudo-3D racing conveys speed.",
+      "timestamp": "02:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rad_Racer",
+          "label": "Wikipedia: Rad Racer",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "077-rad-racer",
+      "episode_title": "RAD RACER"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "The comparison for how the top-down camera scrolls.",
+      "timestamp": "02:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Galaxy 5000: Racing in the 51st Century",
+      "kind": "game",
+      "description": "The earlier racing game with combat, mentioned when asking whether missiles make sense here.",
+      "timestamp": "09:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Galaxy_5000",
+          "label": "Wikipedia: Galaxy 5000",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ],
+      "episode_key": "436-galaxy-5000-racing-in-the-51st-century",
+      "episode_title": "Galaxy 5000: Racing in the 51st Century"
+    },
+    {
+      "name": "Mad Max",
+      "kind": "film_tv_music",
+      "description": "The post-apocalyptic movie franchise Sean expected after reading about missiles and armor (the NES game was a separate episode).",
+      "timestamp": "08:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mad_Max",
+          "label": "Wikipedia: Mad Max",
+          "source": "wikipedia",
+          "note": "Australian media franchise"
+        }
+      ],
+      "episode_key": "343-mad-max",
+      "episode_title": "Mad Max"
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "Sean's whip joke: they never made a Castlevania racing game.",
+      "timestamp": "01:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania",
+          "label": "Wikipedia: Castlevania",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Toyota Corolla",
+      "kind": "other",
+      "description": "Mike's pick for the best car ever, for lasting 300,000 miles.",
+      "timestamp": "01:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Toyota_Corolla",
+          "label": "Wikipedia: Toyota Corolla",
+          "source": "wikipedia",
+          "note": "Japanese compact car"
+        }
+      ]
+    },
+    {
+      "name": "Honda Accord",
+      "kind": "other",
+      "description": "The other car the hosts say can go 300,000 miles.",
+      "timestamp": "01:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Honda_Accord",
+          "label": "Wikipedia: Honda Accord",
+          "source": "wikipedia",
+          "note": "Japanese mid-size car"
+        }
+      ]
+    },
+    {
+      "name": "Howard Hughes",
+      "kind": "person",
+      "description": "The director who struggled to film a sense of speed in the air for Hell's Angels.",
+      "timestamp": "15:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Howard_Hughes",
+          "label": "Wikipedia: Howard Hughes",
+          "source": "wikipedia",
+          "note": "American aviator, aerospace engineer and business magnate (1905–1976)"
+        }
+      ]
+    },
+    {
+      "name": "Hell's Angels",
+      "kind": "film_tv_music",
+      "description": "The 1930 aviation film where there were no clouds to show planes' speed.",
+      "timestamp": "15:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hell's_Angels_(film)",
+          "label": "Wikipedia: Hell's Angels (film)",
+          "source": "wikipedia",
+          "note": "1930 film"
+        }
+      ]
+    },
+    {
+      "name": "Demolition derby",
+      "kind": "event_or_term",
+      "description": "How Mike describes what the game's missiles turn racing into.",
+      "timestamp": "09:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Demolition_derby",
+          "label": "Wikipedia: Demolition derby",
+          "source": "wikipedia",
+          "note": "Motorsport where drivers ram vehicles into one another"
+        }
+      ]
+    },
+    {
+      "name": "Forza Horizon",
+      "kind": "game",
+      "description": "The modern racing series that hands out cars so quickly you only pick the ones that look cool.",
+      "timestamp": "19:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Forza",
+          "label": "Wikipedia: Forza",
+          "source": "wikipedia",
+          "note": "Racing video game series"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Odyssey",
+      "kind": "game",
+      "description": "Used as a comparison for how often Forza Horizon hands out rewards.",
+      "timestamp": "19:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey",
+          "label": "Wikipedia: Super Mario Odyssey",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Bytes",
+      "kind": "website_or_article",
+      "description": "The hosts' Patreon series on Famicom and other games, where Micro Machines was covered.",
+      "timestamp": "02:02",
+      "links": [
+        {
+          "url": "https://www.patreon.com/nestalgia",
+          "label": "NEStalgia on Patreon",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "Where the hosts' verdicts are collected; Super Cars was not essential.",
+      "timestamp": "24:37",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

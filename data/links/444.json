@@ -1,0 +1,533 @@
+{
+  "episode": 444,
+  "title": "444 - Ski or Die",
+  "generated": "2026-10-02",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "74478ed90ce2",
+  "items": [
+    {
+      "name": "Ski or Die",
+      "kind": "game",
+      "description": "The episode's game: EA's 1990 winter-sports mini-game collection, a follow-up to Skate or Die with five events.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ski_or_Die",
+          "label": "Wikipedia: Ski or Die",
+          "source": "wikipedia",
+          "note": "1990 winter sport video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/496/ski-or-die/",
+          "label": "Ski or Die (1990) - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://nes.fandom.com/wiki/Ski_or_Die",
+          "label": "Ski or Die - Nintendo Entertainment System Wiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Skate or Die",
+      "kind": "game",
+      "description": "The 1987 EA skateboarding game that Ski or Die copies, right down to the hub world and the shop owner.",
+      "timestamp": "06:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Skate_or_Die!",
+          "label": "Wikipedia: Skate or Die!",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "151-skate-or-die",
+      "episode_title": "Skate or Die"
+    },
+    {
+      "name": "Skate or Die 2: The Search for Double Trouble",
+      "kind": "game",
+      "description": "The NES sequel, which the hosts count as the middle of the three main games.",
+      "timestamp": "32:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Skate_or_Die_2%3A_The_Search_for_Double_Trouble",
+          "label": "Wikipedia: Skate or Die 2: The Search for Double Trouble",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "373-skate-or-die-2-the-search-for-double-trouble",
+      "episode_title": "Skate or Die 2: The Search for Double Trouble"
+    },
+    {
+      "name": "Skate or Die: Bad 'N Rad",
+      "kind": "game",
+      "description": "One of the Game Boy spin-offs the hosts read out when listing the series.",
+      "timestamp": "33:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Skate_or_Die%3A_Bad_'N_Rad",
+          "label": "Wikipedia: Skate or Die: Bad 'N Rad",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Skate or Die: Tour de Thrash",
+      "kind": "game",
+      "description": "The other Game Boy spin-off; Joe says it sounds pretty awesome.",
+      "timestamp": "34:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Skate_or_Die%3A_Tour_de_Thrash",
+          "label": "Wikipedia: Skate or Die: Tour de Thrash",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Skate or Die series",
+      "kind": "website_or_article",
+      "description": "The MobyGames page listing every \"or Die\" game, a joke about the database having 834 pages of them.",
+      "timestamp": "34:09",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/group/71/skate-or-die-series/",
+          "label": "Skate or Die series - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Electronic Arts",
+      "kind": "company",
+      "description": "The publisher behind the whole Skate or Die series.",
+      "timestamp": "34:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Electronic_Arts",
+          "label": "Wikipedia: Electronic Arts",
+          "source": "wikipedia",
+          "note": "American video game company"
+        }
+      ]
+    },
+    {
+      "name": "Rodney Dangerfield",
+      "kind": "person",
+      "description": "The comedian whose likeness runs the ski shop, which the hosts find baffling.",
+      "timestamp": "06:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rodney_Dangerfield",
+          "label": "Wikipedia: Rodney Dangerfield",
+          "source": "wikipedia",
+          "note": "American stand-up comedian (1921–2004)"
+        }
+      ]
+    },
+    {
+      "name": "MobyGames",
+      "kind": "website_or_article",
+      "description": "The video game database the hosts search to see how many \"or die\" games exist.",
+      "timestamp": "34:09",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/game/496/ski-or-die/",
+          "label": "Ski or Die (1990) - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Tony Hawk's Pro Skater",
+      "kind": "game",
+      "description": "The comparison for how a snowboarding game's inputs should feel.",
+      "timestamp": "20:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater",
+          "label": "Wikipedia: Tony Hawk's Pro Skater",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "SSX Tricky",
+      "kind": "game",
+      "description": "What the half-pipe snowboarding event reminded Joe of.",
+      "timestamp": "21:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/SSX_Tricky",
+          "label": "Wikipedia: SSX Tricky",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "Winter Games",
+      "kind": "game",
+      "description": "One of the earlier sports mini-game collections the hosts group this with.",
+      "timestamp": "40:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Winter_Games",
+          "label": "Wikipedia: Winter Games",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "073-winter-games",
+      "episode_title": "WINTER GAMES"
+    },
+    {
+      "name": "Summer Games",
+      "kind": "game",
+      "description": "Another multi-event sports game from the same family.",
+      "timestamp": "40:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Summer_Games_(video_game)",
+          "label": "Wikipedia: Summer Games (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ]
+    },
+    {
+      "name": "Track & Field",
+      "kind": "game",
+      "description": "The Konami mini-game collection, a benchmark for button-mashing sports games.",
+      "timestamp": "40:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Track_%26_Field_(video_game)",
+          "label": "Wikipedia: Track & Field (video game)",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "042-track-field",
+      "episode_title": "TRACK & FIELD"
+    },
+    {
+      "name": "Slalom",
+      "kind": "game",
+      "description": "An earlier NES skiing game that also scrolls straight toward the player.",
+      "timestamp": "26:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Slalom_(video_game)",
+          "label": "Wikipedia: Slalom (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "039-slalom",
+      "episode_title": "SLALOM"
+    },
+    {
+      "name": "Duck Hunt",
+      "kind": "game",
+      "description": "Joked about as a better use for the snowball fight's cursor-aiming and the Zapper.",
+      "timestamp": "29:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Duck_Hunt",
+          "label": "Wikipedia: Duck Hunt",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "004-duck-hunt",
+      "episode_title": "DUCK HUNT"
+    },
+    {
+      "name": "NES Zapper",
+      "kind": "hardware",
+      "description": "Where the hosts wish the snowball fight could have used the light gun.",
+      "timestamp": "29:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NES_Zapper",
+          "label": "Wikipedia: NES Zapper",
+          "source": "wikipedia",
+          "note": "Video game light gun accessory"
+        }
+      ]
+    },
+    {
+      "name": "Space Invaders",
+      "kind": "game",
+      "description": "The comparison for a barrier that wears away as it's hit.",
+      "timestamp": "26:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Space_Invaders",
+          "label": "Wikipedia: Space Invaders",
+          "source": "wikipedia",
+          "note": "1978 video game"
+        }
+      ]
+    },
+    {
+      "name": "SpongeBob SquarePants",
+      "kind": "film_tv_music",
+      "description": "The cartoon whose ice-fort episode the snowball fight reminds the hosts of.",
+      "timestamp": "26:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants",
+          "label": "Wikipedia: SpongeBob SquarePants",
+          "source": "wikipedia",
+          "note": "American animated television series"
+        }
+      ]
+    },
+    {
+      "name": "Johnny Tsunami",
+      "kind": "film_tv_music",
+      "description": "A Disney Channel movie about cool versus preppy skiers that Sean half-remembers.",
+      "timestamp": "23:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Johnny_Tsunami",
+          "label": "Wikipedia: Johnny Tsunami",
+          "source": "wikipedia",
+          "note": "1999 TV sports film"
+        }
+      ]
+    },
+    {
+      "name": "Aspen Extreme",
+      "kind": "film_tv_music",
+      "description": "One of the ski movies the hosts guess at while trying to name the one Sean means.",
+      "timestamp": "24:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Aspen_Extreme",
+          "label": "Wikipedia: Aspen Extreme",
+          "source": "wikipedia",
+          "note": "1993 American film by Patrick Hasburgh"
+        }
+      ]
+    },
+    {
+      "name": "Eddie the Eagle",
+      "kind": "film_tv_music",
+      "description": "The 2015 biographical ski-jumping comedy suggested as the movie.",
+      "timestamp": "24:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eddie_the_Eagle_(film)",
+          "label": "Wikipedia: Eddie the Eagle (film)",
+          "source": "wikipedia",
+          "note": "2015 film by Dexter Fletcher"
+        }
+      ]
+    },
+    {
+      "name": "Tootsie Pop",
+      "kind": "other",
+      "description": "The \"how many licks to the center\" riff the hosts compare to counting snowflakes.",
+      "timestamp": "03:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tootsie_Pop",
+          "label": "Wikipedia: Tootsie Pop",
+          "source": "wikipedia",
+          "note": "American candy"
+        }
+      ]
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "kind": "game",
+      "description": "Mentioned for its horse-physics reputation in a joke about ski tracks.",
+      "timestamp": "32:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
+          "label": "Wikipedia: Red Dead Redemption 2",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        }
+      ]
+    },
+    {
+      "name": "Civilization",
+      "kind": "game",
+      "description": "The punch line to \"Live free or die\": Sid Meier's Civilization.",
+      "timestamp": "32:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Civilization_(video_game)",
+          "label": "Wikipedia: Civilization (video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Silent Hill: Book of Memories",
+      "kind": "game",
+      "description": "Offered as the most obscure Silent Hill game, an ARPG on the PS Vita.",
+      "timestamp": "36:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silent_Hill%3A_Book_of_Memories",
+          "label": "Wikipedia: Silent Hill: Book of Memories",
+          "source": "wikipedia",
+          "note": "2012 dungeon crawler video game"
+        }
+      ]
+    },
+    {
+      "name": "Silent Hill: Downpour",
+      "kind": "game",
+      "description": "Mentioned while joking about a Konami producer's credits.",
+      "timestamp": "36:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silent_Hill%3A_Downpour",
+          "label": "Wikipedia: Silent Hill: Downpour",
+          "source": "wikipedia",
+          "note": "2012 video game"
+        }
+      ]
+    },
+    {
+      "name": "Frogger Returns",
+      "kind": "game",
+      "description": "Where the same producer got a special thanks, to the hosts' amusement.",
+      "timestamp": "36:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frogger_Returns",
+          "label": "Wikipedia: Frogger Returns",
+          "source": "wikipedia",
+          "note": "2009 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dead or Alive: Dimensions",
+      "kind": "game",
+      "description": "The 3DS game Sean finds while checking whether a Dead or Alive \"or die\" pun exists on MobyGames.",
+      "timestamp": "35:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dead_or_Alive%3A_Dimensions",
+          "label": "Wikipedia: Dead or Alive: Dimensions",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy",
+      "kind": "hardware",
+      "description": "The handheld that got low-effort ports and spin-offs, which the hosts say made Nintendo a cash cow.",
+      "timestamp": "33:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy",
+          "label": "Wikipedia: Game Boy",
+          "source": "wikipedia",
+          "note": "Handheld Nintendo game console"
+        }
+      ]
+    },
+    {
+      "name": "Donkey Kong Country",
+      "kind": "game",
+      "description": "Joe didn't own it on the SNES but did own Donkey Kong Land on Game Boy.",
+      "timestamp": "37:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donkey_Kong_Country",
+          "label": "Wikipedia: Donkey Kong Country",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Donkey Kong Land",
+      "kind": "game",
+      "description": "The Game Boy game Joe owned instead of Donkey Kong Country.",
+      "timestamp": "37:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donkey_Kong_Land",
+          "label": "Wikipedia: Donkey Kong Land",
+          "source": "wikipedia",
+          "note": "1995 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts",
+      "kind": "game",
+      "description": "The game Sean has bought the most copies of, across every re-release.",
+      "timestamp": "38:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)",
+          "label": "Wikipedia: Kingdom Hearts (video game)",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "ESPN NFL 2K5",
+      "kind": "game",
+      "description": "Joe's most-rebought game, after losing and scratching copies.",
+      "timestamp": "39:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/ESPN_NFL_2K5",
+          "label": "Wikipedia: ESPN NFL 2K5",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "kind": "game",
+      "description": "Mike's most-rebought game, across N64, Wii, 3DS and an upcoming Switch remake.",
+      "timestamp": "39:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Ocarina_of_Time",
+          "label": "Wikipedia: The Legend of Zelda: Ocarina of Time",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "Where the hosts' verdicts are collected; this one was not essential.",
+      "timestamp": "40:30",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}
