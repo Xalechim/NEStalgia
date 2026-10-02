@@ -7,6 +7,25 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | # | Game | Notes |
 | --- | --- | --- |
 | 001 | 10-Yard Fight (Remastered) | [notes](001-10-yard-fight-remastered.md) |
+| 002 | BASEBALL | [transcript](../transcripts/002-baseball.md) |
+| 003 | CLU CLU LAND | [transcript](../transcripts/003-clu-clu-land.md) |
+| 004 | DUCK HUNT | [transcript](../transcripts/004-duck-hunt.md) |
+| 005 | EXCITEBIKE | [transcript](../transcripts/005-excitebike.md) |
+| 006 | GOLF | [transcript](../transcripts/006-golf.md) |
+| 007 | GYROMITE | [transcript](../transcripts/007-gyromite.md) |
+| 008 | HOGAN'S ALLEY | [transcript](../transcripts/008-hogans-alley.md) |
+| 009 | ICE CLIMBER | [transcript](../transcripts/009-ice-climber.md) |
+| 010 | KUNG FU* | [transcript](../transcripts/010-kung-fu.md) |
+| 011 | Pinball | [transcript](../transcripts/011-pinball.md) |
+| 012 | SOCCER | [transcript](../transcripts/012-soccer.md) |
+| 013 | STACK-UP | [transcript](../transcripts/013-stack-up.md) |
+| 014 | SUPER MARIO BROS. | [transcript](../transcripts/014-super-mario-bros.md) |
+| 015 | TENNIS | [transcript](../transcripts/015-tennis.md) |
+| 016 | WILD GUNMAN | [transcript](../transcripts/016-wild-gunman.md) |
+| 017 | WRECKING CREW | [transcript](../transcripts/017-wrecking-crew.md) |
+| 018 | DONKEY KONG | [transcript](../transcripts/018-donkey-kong.md) |
+| 019 | DONKEY KONG JR. | [transcript](../transcripts/019-donkey-kong-jr.md) |
+| 020 | DONKEY KONG 3 | [transcript](../transcripts/020-donkey-kong-3.md) |
 | 032 | 1942 | [notes](032-1942.md) |
 | 035 | Gradius | [notes](035-gradius.md) |
 | 036 | Karate Champ | [notes](036-karate-champ.md) |

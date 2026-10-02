@@ -1,0 +1,4975 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.720
+Super Mario Brothers, do you have what it takes to save the Mushroom Princess?
+
+00:00:20.960 --> 00:00:27.540
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:27.760 --> 00:00:28.580
+I'm Mike.
+
+00:00:28.740 --> 00:00:30.160
+And I'm Joe. Hey, Joe.
+
+00:00:30.420 --> 00:00:34.340
+And just for anybody wondering, we'll have Sean and Sam on later, but I couldn't get them
+
+00:00:34.340 --> 00:00:35.400
+all at the same time.
+
+00:00:35.540 --> 00:00:36.900
+So I got Joe coming first.
+
+00:00:37.100 --> 00:00:38.000
+We're busy people. Yeah.
+
+00:00:38.180 --> 00:00:39.500
+You know, this is every time.
+
+00:00:39.640 --> 00:00:41.220
+Well, you know, you were remote for a while.
+
+00:00:41.320 --> 00:00:43.880
+I was. I had a blanket fort to record.
+
+00:00:44.120 --> 00:00:45.960
+And now you're here. So I'm just happy to get you.
+
+00:00:46.080 --> 00:00:48.360
+And so that's why we're kind of doing these at different points.
+
+00:00:48.460 --> 00:00:50.220
+But that's not the point of today's episode.
+
+00:00:50.380 --> 00:00:55.420
+Today, we're talking about Super Mario Brothers, which is kind of funny because for the Famicom,
+
+00:00:55.420 --> 00:00:59.260
+this is like a swan song before the Famicom disk system comes.
+
+00:00:59.380 --> 00:01:02.980
+But on the NES, it's like treated as, you know, it's a launch game.
+
+00:01:03.100 --> 00:01:06.880
+It's treated as like a big deal for the console to show off its superior power.
+
+00:01:06.880 --> 00:01:09.940
+Right. I mean, it was the I mean, it was the best thing out there at the time.
+
+00:01:10.140 --> 00:01:14.280
+Yeah. And so it's just funny how like one console is ending in Japan while the other one is
+
+00:01:14.280 --> 00:01:19.520
+just starting. But I think that also shows the difference between the NES and the Famicom.
+
+00:01:19.660 --> 00:01:22.340
+I think a lot of people think of them as the same exact architecture.
+
+00:01:22.600 --> 00:01:23.600
+And they really weren't.
+
+00:01:23.700 --> 00:01:28.240
+The Famicom disk system offered a ton of improvements that the NES already had.
+
+00:01:28.380 --> 00:01:31.480
+If you know, we never really got an NES disk system over here.
+
+00:01:31.720 --> 00:01:37.240
+Right. Well, if I'm being totally honest, I'm actually not never been 100 percent clear on what the
+
+00:01:37.240 --> 00:01:38.440
+difference is between the two consoles.
+
+00:01:38.680 --> 00:01:40.000
+So it's interesting. Yeah.
+
+00:01:40.240 --> 00:01:45.100
+And so just a brief thing that I know we talked about maybe on the first episode is that when
+
+00:01:45.100 --> 00:01:49.720
+Nintendo was developing a console over here for North America, they went through a couple
+
+00:01:49.720 --> 00:01:53.800
+different things and they were even going to work with Atari at one point to make the Nintendo
+
+00:01:53.800 --> 00:01:57.860
+AVS, which was, I guess, like the advanced video system or something like that.
+
+00:01:57.860 --> 00:01:59.620
+And Atari was going to work on it with them.
+
+00:01:59.800 --> 00:02:00.780
+That deal fell through.
+
+00:02:01.000 --> 00:02:02.200
+And probably for good reason.
+
+00:02:02.380 --> 00:02:04.880
+I don't think Atari would have been the best partner for Nintendo.
+
+00:02:05.320 --> 00:02:06.960
+But now we have the NES.
+
+00:02:06.960 --> 00:02:08.740
+We have the 17 launch games.
+
+00:02:08.840 --> 00:02:13.600
+And here we are with Super Mario Brothers designed by Shigeru Miyamoto and Takahashi Tezuka.
+
+00:02:13.880 --> 00:02:14.960
+And I know Miyamoto.
+
+00:02:15.080 --> 00:02:18.740
+That's like a common name now, not only in this podcast, but in the world.
+
+00:02:19.380 --> 00:02:20.300
+Everybody knows him.
+
+00:02:20.620 --> 00:02:23.900
+And I feel like Tezuka doesn't get really that great of a rap.
+
+00:02:24.000 --> 00:02:26.800
+His name definitely doesn't have that recognition that Miyamoto does.
+
+00:02:26.800 --> 00:02:30.180
+But he's responsible for probably just as many things in Super Mario Brothers.
+
+00:02:30.280 --> 00:02:34.300
+And I think as we're about to kind of uncover here, he's really responsible for a lot of
+
+00:02:34.300 --> 00:02:38.480
+the major parts of this game that I think people associated with it being so good.
+
+00:02:38.620 --> 00:02:43.940
+So just to give a little backstory here, Tezuka talks about the initial concept in an interview
+
+00:02:43.940 --> 00:02:46.520
+with Iwata back in like 2004.
+
+00:02:46.520 --> 00:02:56.880
+And so he says the initial concept behind Super Mario was that we wanted a dynamic, athletic kind of game that would be set on land, sea and air.
+
+00:02:56.900 --> 00:02:59.220
+And that would feature a large character.
+
+00:02:59.600 --> 00:03:01.660
+Now, a large character.
+
+00:03:01.660 --> 00:03:02.800
+I know these things.
+
+00:03:02.900 --> 00:03:05.000
+He gets large, I guess, when he gets a mushroom.
+
+00:03:05.300 --> 00:03:11.500
+I'm not sure if these are just like bad translations, you know, like if they're just taking like the most generic word to describe these things.
+
+00:03:11.640 --> 00:03:16.680
+But I think it is kind of interesting to think about how the Japanese talk about these video games.
+
+00:03:16.680 --> 00:03:25.440
+Because, again, like, do you ever think of Mario is like we want a dynamic, athletic kind of game and the game should take place on land, sea and air?
+
+00:03:25.600 --> 00:03:26.560
+Like, is that how you would?
+
+00:03:26.600 --> 00:03:30.260
+I mean, I guess I can't deny that it does those things.
+
+00:03:30.440 --> 00:03:33.720
+I mean, athletic is kind of a weird word because we have sports games.
+
+00:03:33.980 --> 00:03:35.460
+But but it makes sense.
+
+00:03:35.580 --> 00:03:38.400
+I mean, it's definitely he's definitely an athletic plumber.
+
+00:03:39.180 --> 00:03:46.600
+And I think like what's also interesting here is because they're talking about the land, sea and air is that, you know, Super Mario Brothers kind of and I'm not I'm not going to go out there and say they
+
+00:03:46.680 --> 00:03:48.400
+invented the platformer.
+
+00:03:48.760 --> 00:03:51.420
+There were kind of games that were already like that.
+
+00:03:51.540 --> 00:03:54.060
+I mean, Pitfall comes to mind on the Atari 2600.
+
+00:03:54.200 --> 00:03:55.340
+I don't think that's a platformer game.
+
+00:03:55.440 --> 00:04:01.100
+I think it's more of like action adventure, but it definitely has like similar structure to like a Super Mario Brother game.
+
+00:04:01.380 --> 00:04:07.960
+But Super Mario Brothers really like changes everything about the platformer genre and just about video games in general.
+
+00:04:08.300 --> 00:04:13.220
+Definitely. And the only thing that confuses me a little bit about that is the the air aspect of it.
+
+00:04:13.220 --> 00:04:16.760
+Because I don't know that Super Mario Bros, the original, didn't have a lot.
+
+00:04:16.940 --> 00:04:25.800
+Yeah. I can see them thinking about the air and just like, you know, in terms of space, like the jumps and the leaps where there's no ground.
+
+00:04:26.060 --> 00:04:28.300
+But, you know, you're kind of like that makes sense.
+
+00:04:28.580 --> 00:04:30.580
+World one three. I know you're on like those mushrooms.
+
+00:04:30.900 --> 00:04:32.800
+Yeah, I guess that's true. You are kind of in the sky there.
+
+00:04:32.980 --> 00:04:39.280
+I'm thinking more of like later Mario games where you can actually like fly or you're in the clouds or it's like more aesthetically air.
+
+00:04:39.280 --> 00:04:41.260
+Right. Yeah. And who knows?
+
+00:04:41.260 --> 00:04:53.300
+I mean, I can only wonder how many things they wanted to do in this game that's already pushing the limitations of the Famicom, not necessarily the NES, but definitely pushing the limitations of the Famicom to its brain.
+
+00:04:53.400 --> 00:04:59.940
+And they probably wanted to do so much more that they couldn't really get around until, you know, Super Mario Brothers two or Super Mario Brothers three.
+
+00:05:00.160 --> 00:05:04.780
+Right. So Super Mario Brothers started off, Tezuka mentions, as a large character.
+
+00:05:04.780 --> 00:05:08.400
+It was really just a 16 by 32 pixel square.
+
+00:05:08.620 --> 00:05:10.740
+OK, that's how they were designing the game.
+
+00:05:11.180 --> 00:05:14.960
+Like you mean Mario was Mario was a square first, like not even a character.
+
+00:05:14.960 --> 00:05:16.140
+But this is for the prototype.
+
+00:05:16.380 --> 00:05:18.780
+This is for the prototype. But they're just designing the levels.
+
+00:05:18.900 --> 00:05:20.980
+They're really focusing on that aspect of it.
+
+00:05:21.560 --> 00:05:27.160
+Mario only became the main character in this game once Tezuka saw the sale figures for Mario Brothers.
+
+00:05:27.760 --> 00:05:30.140
+So this game never had to be a Mario game.
+
+00:05:30.240 --> 00:05:32.160
+It wasn't even supposed to be Mario the character at all.
+
+00:05:32.240 --> 00:05:33.060
+The character at all.
+
+00:05:33.180 --> 00:05:37.300
+This was not a this was not decided that it was going to be Super Mario Brothers.
+
+00:05:37.420 --> 00:05:39.600
+And it was it was Mario Brothers that did it, not Donkey Kong.
+
+00:05:39.720 --> 00:05:40.760
+So that's the interesting point.
+
+00:05:40.880 --> 00:05:43.760
+And something that I thought about, too, is why would it be Mario Brothers?
+
+00:05:43.860 --> 00:05:45.600
+And here's what Tezuka has to say about it.
+
+00:05:45.600 --> 00:05:47.100
+This is another quote from Tezuka.
+
+00:05:47.780 --> 00:05:52.940
+Well, at lunchtime, I'd often wander to various offices and chat to the people from other departments.
+
+00:05:52.980 --> 00:05:55.140
+So I'd become friendly with people that way.
+
+00:05:55.300 --> 00:06:02.560
+Anyway, I was shown the sales figures and I saw that although Mario Brothers on the Famicom had been released over a year previously,
+
+00:06:02.560 --> 00:06:05.460
+it was still selling consistently well.
+
+00:06:05.660 --> 00:06:12.180
+It became at that point where I said, put Mario into the game and it'll boost the sales figures.
+
+00:06:12.180 --> 00:06:18.920
+So interesting that Donkey Kong is definitely responsible for Mario Brothers in that sense, you know, like developing those characters.
+
+00:06:19.180 --> 00:06:27.920
+But it's another instance of an NES game that has Mario included in it only after the fact, not really designed with Mario in mind.
+
+00:06:28.040 --> 00:06:35.980
+Because I don't know if you had a similar experience, but growing up, you know, after all of this, I, you know, I always knew that Super Mario Brothers Mario came from Donkey Kong.
+
+00:06:36.100 --> 00:06:40.040
+But it wasn't until I was a lot older that I had even heard of just the original Mario Brothers.
+
+00:06:40.040 --> 00:06:46.920
+Yeah, it seems for me, the canon is also weird because I think we are, we're not 80s kids.
+
+00:06:46.920 --> 00:06:49.520
+We don't have this arcade background.
+
+00:06:49.720 --> 00:06:52.300
+So Donkey Kong isn't even really that important to us.
+
+00:06:52.360 --> 00:06:54.580
+I would say Super Mario Brothers is like a lot more important.
+
+00:06:54.760 --> 00:06:58.500
+And so for me, I always thought Super Mario Brothers is like the beginning.
+
+00:06:58.840 --> 00:07:05.380
+You know, I don't even think about Mario Brothers or Wrecking Crew or Donkey Kong, Donkey Kong Jr.
+
+00:07:05.380 --> 00:07:07.820
+Donkey Kong Jr. is where we get the Mario name.
+
+00:07:08.080 --> 00:07:09.740
+In Donkey Kong, he's just Jumpman.
+
+00:07:10.000 --> 00:07:12.500
+So there's all these important games that come before it.
+
+00:07:12.800 --> 00:07:15.460
+But I think everyone kind of sees Super Mario Brothers as...
+
+00:07:15.460 --> 00:07:18.720
+Right. Because that's the first one where the gameplay feels like what we now know as Mario.
+
+00:07:18.720 --> 00:07:19.960
+What we now know as Mario, right.
+
+00:07:20.080 --> 00:07:26.000
+I think it would almost be interesting to see what a Mario Brothers sequel would be without Super in it.
+
+00:07:26.000 --> 00:07:29.040
+You know, like a sewer based Brooklyn game.
+
+00:07:29.340 --> 00:07:32.500
+Well, that's kind of what we get in Super Mario Brothers 3.
+
+00:07:33.220 --> 00:07:36.640
+There's Mario Brothers levels built into it.
+
+00:07:36.860 --> 00:07:43.700
+Oh, yeah. I don't know if you call it an engine on NES, but they use the engine of the Super Mario Brothers 3 game.
+
+00:07:43.880 --> 00:07:46.700
+Yeah, they definitely already had the programming there anyway.
+
+00:07:46.820 --> 00:07:48.420
+So yeah, that's a good point to bring that up.
+
+00:07:48.420 --> 00:08:02.580
+So just one more thing that I think is kind of surprising besides the fact that Mario was added to the game late is that the idea of Super Mario and calling it Super Mario Brothers only happened when the Super Mushroom was added to the game.
+
+00:08:02.700 --> 00:08:13.100
+Originally, you were just going to be the large character and then they developed the Super Mushroom to kind of have like a, you know, a life system within the life system.
+
+00:08:13.100 --> 00:08:14.660
+So it wasn't like an instant death.
+
+00:08:14.840 --> 00:08:19.120
+Right. And then they said, oh, well, you know, if it's called the Super Mushroom, make it the Super Mario Brothers.
+
+00:08:19.460 --> 00:08:25.500
+And I think it's funny, even brothers, you know, getting added to this is like almost each part of this title has a story.
+
+00:08:25.720 --> 00:08:32.740
+Right. Super from Super Mushroom, Mario because of the sales of Mario Brothers and brothers because they had the two player.
+
+00:08:33.040 --> 00:08:42.280
+All right. And if this beginning of this episode wasn't filled with enough surprises, they did reveal kind of around the time I think Super Mario Maker was coming out.
+
+00:08:42.280 --> 00:08:45.500
+They started talking about different control schemes that they had originally planned.
+
+00:08:45.880 --> 00:08:55.800
+And one of the original control schemes for Super Mario Brothers involves up being mad being mapped to or sorry, jump being mapped to up.
+
+00:08:55.980 --> 00:09:00.460
+Right. Instead of the A button, which I think is crazy and would have completely crazy now.
+
+00:09:00.520 --> 00:09:02.860
+But I understand why that was their thought process.
+
+00:09:03.020 --> 00:09:04.140
+Yeah, it would be terrible.
+
+00:09:04.360 --> 00:09:08.580
+Yeah. Yeah. Yeah. It would be terrible just from a how much you're using your left and right already.
+
+00:09:08.800 --> 00:09:12.620
+And then to have to like fidget your thumb to push the up button.
+
+00:09:12.820 --> 00:09:26.720
+I think it would have been a totally it would have been a a more finite experience of the game because you wouldn't be able to do all of the like loose controlling of you're running on one side on one thumb and you're pressing the buttons on the other.
+
+00:09:26.720 --> 00:09:39.960
+Right. But here's the real twist is that A was mapped to attack, attack, attack, like you would actually be like before they had ever discovered like jumping on the enemies would be a good idea.
+
+00:09:40.320 --> 00:09:44.520
+They were planning to have it like power ups that you could use to attack.
+
+00:09:44.520 --> 00:09:47.860
+So if you had just your bare hands, you would attack with your fist.
+
+00:09:48.000 --> 00:09:49.880
+Oh, like you'd have to close combat.
+
+00:09:50.160 --> 00:09:51.140
+Yeah, like close combat.
+
+00:09:51.140 --> 00:09:53.040
+If you had those Goombas, you wouldn't be able to jump on them.
+
+00:09:53.160 --> 00:09:54.980
+You'd have to attack and punch them.
+
+00:09:55.320 --> 00:10:00.380
+And then if you got the rifle, it acted as like this is this is crazy.
+
+00:10:00.540 --> 00:10:04.440
+I'm bringing it up so casually, but this was a plan before they ever thought.
+
+00:10:04.500 --> 00:10:07.500
+So that'd just be like the fire flower or I guess it would.
+
+00:10:07.780 --> 00:10:08.840
+I mean, I don't think it would.
+
+00:10:09.360 --> 00:10:11.120
+Are we talking like we're talking Call of Duty here?
+
+00:10:11.920 --> 00:10:14.940
+Yeah. All of a sudden you enter like a first person mode.
+
+00:10:15.080 --> 00:10:21.000
+A bit mode. I think that's just crazy that they were thinking about causing an attack instead of that would be a.
+
+00:10:21.140 --> 00:10:22.100
+Totally different game.
+
+00:10:22.420 --> 00:10:26.140
+I mean. Yeah. I mean, I would also like think about how Mario would be different today.
+
+00:10:26.600 --> 00:10:27.720
+Yeah, he'd be gritty.
+
+00:10:28.420 --> 00:10:33.220
+They kind of they put attacks into the later games like in Super Mario 64.
+
+00:10:33.660 --> 00:10:34.820
+There is a punch.
+
+00:10:34.980 --> 00:10:36.200
+But who uses that?
+
+00:10:36.300 --> 00:10:37.260
+I didn't know there was.
+
+00:10:37.420 --> 00:10:40.340
+I default to jumping on things because that's how I know Mario.
+
+00:10:40.340 --> 00:10:52.060
+And in Galaxy, there's like the spin where if you flick the we the we mode and the nunchuck, it's like a spin that he can do that'll instantly attack anyone.
+
+00:10:52.180 --> 00:10:53.080
+And that's like a little cheap.
+
+00:10:53.180 --> 00:10:58.280
+But again, like something that like anyone who's played Mario games doesn't resort to that.
+
+00:10:58.460 --> 00:11:02.720
+Really, you're always thinking first, like I got to jump on this thing like that's Mario's thing.
+
+00:11:02.720 --> 00:11:10.940
+But I think what's important there is to think about how they once they got rid of a to attack and made the game about jumping on the enemies.
+
+00:11:11.160 --> 00:11:14.460
+That's really showing how they started to focus so much on the jump.
+
+00:11:14.640 --> 00:11:18.900
+And I think that's what I want to talk about now is kind of like the movement and gameplay.
+
+00:11:19.220 --> 00:11:24.580
+Right. Well, I mean, the gameplay, the movement for me is like it's pretty, pretty close to perfect for that time.
+
+00:11:24.580 --> 00:11:33.900
+Like, I mean, as far as like the weight that Mario has and the physics compared to other games of that time, like jumping and moving feels so much more realistic.
+
+00:11:34.320 --> 00:11:35.240
+As silly as that sounds.
+
+00:11:35.560 --> 00:11:38.980
+I think the only thing similar in our launch games is Ice Climber and Kung Fu.
+
+00:11:39.180 --> 00:11:41.080
+Right. And both we've talked about already.
+
+00:11:41.360 --> 00:11:44.760
+And Ice Climber, we definitely had some problems with the with the movement.
+
+00:11:44.960 --> 00:11:47.780
+Ice Climber's movement, especially the jump, is poor.
+
+00:11:48.080 --> 00:11:53.500
+And I think with Kung Fu, while we like the ability to go forward and back and not have that kind of restriction,
+
+00:11:53.500 --> 00:11:58.380
+I think that had a huge problem with its jump as well and also its movement options.
+
+00:11:58.660 --> 00:12:02.280
+Like the jump for Kung Fu for that game is fine.
+
+00:12:02.340 --> 00:12:03.760
+It's OK in that game.
+
+00:12:03.900 --> 00:12:11.780
+But you could never program that jump into a Mario game and have it be fun because there's too much fast paced, you know, platforming that you have to do.
+
+00:12:11.940 --> 00:12:14.200
+That's, you know, Mario having.
+
+00:12:14.500 --> 00:12:17.020
+I don't remember when it was explained to me as weight.
+
+00:12:17.180 --> 00:12:20.980
+But when I heard that, I was like, that makes the most sense because you land on the ground.
+
+00:12:20.980 --> 00:12:25.400
+He kind of has a little momentum and it makes it feel a little more real.
+
+00:12:25.860 --> 00:12:26.740
+I think it's all about the momentum.
+
+00:12:27.020 --> 00:12:37.760
+But I think another really cool part about the jump is that just depending on how long you've been running and how hard you hold your jump button, you can jump so many.
+
+00:12:37.900 --> 00:12:39.500
+There's so many different options to jump.
+
+00:12:39.620 --> 00:12:42.780
+It's not like, you know, there is a limit to how far you can jump.
+
+00:12:42.780 --> 00:12:48.720
+But in between the max that you can jump and the minimum amount you can jump, there are so many options.
+
+00:12:48.720 --> 00:12:57.380
+And I think that's where Mario really shines is that like with Ice Climber, once you hit the jump button, you're forced to go all the way up and wait to come back down.
+
+00:12:57.720 --> 00:13:02.580
+With Mario, you can just go as small as like two tiles over or as many as eight.
+
+00:13:02.880 --> 00:13:06.120
+And that must have to do with just how long you're holding the button, right?
+
+00:13:06.380 --> 00:13:10.580
+Yeah, but also as well as how long you're holding the run because it's like an arc.
+
+00:13:10.580 --> 00:13:18.920
+So really, if you think about it, I mean, like I know that the number of possible jumps is limited to a certain amount, but it's actually a ridiculously high number for an NES game.
+
+00:13:19.080 --> 00:13:24.180
+There's a lot of finesse involved in those two buttons, you know, that you're using to control it.
+
+00:13:24.240 --> 00:13:30.320
+And I mean, I know that we're really talking hard about this jump right now, but I mean, you would describe that as the game, no?
+
+00:13:30.460 --> 00:13:32.360
+Yeah, exactly. It's a jumping simulator.
+
+00:13:33.080 --> 00:13:38.320
+I mean, yeah, there's a couple of, you know, you got the fire flower and you got the, you know, I guess, and the star, I guess.
+
+00:13:38.320 --> 00:13:40.940
+Yeah, the star is like something I, you know, that's hard to find.
+
+00:13:41.040 --> 00:13:43.100
+It's like the one-up mushroom. You don't see those as often.
+
+00:13:43.260 --> 00:13:45.960
+They're prolific, you know, but they're really not found that often.
+
+00:13:46.240 --> 00:13:55.960
+All right, so real fast, before we go any further, let's rewind time for a little bit because we know this isn't your first time playing the game like some of our other NES games.
+
+00:13:58.140 --> 00:14:01.680
+So tell me about your earliest Super Mario Brothers experience.
+
+00:14:02.380 --> 00:14:13.260
+So it's tough for me to actually pinpoint my earliest experience with this game because it's just that game that's always kind of been there in the, you know, in my subconscious, I guess.
+
+00:14:13.400 --> 00:14:15.260
+You know, it's always, you know, I had an NES growing up.
+
+00:14:15.360 --> 00:14:22.460
+I've always had this game and it was always overshadowed because I had Super Mario Brothers 3 as well.
+
+00:14:22.720 --> 00:14:24.540
+Yeah, having that knowledge ahead of you.
+
+00:14:24.720 --> 00:14:29.640
+Right. Yeah. So, I mean, it was one that I would always go play, but then I would usually like play Super Mario Brothers 3.
+
+00:14:30.740 --> 00:14:40.260
+So, you know, I obviously, you know, I've played it a lot when I was a kid, but I don't think I ever played through and beat it when I was a kid because I always had another option that I preferred.
+
+00:14:40.620 --> 00:14:44.820
+Right. When you played it as a kid, did it feel old to you?
+
+00:14:45.240 --> 00:14:49.040
+No, but there's a reason for that with a lot of the games that I played on the NES.
+
+00:14:49.040 --> 00:14:54.100
+Listen, that's just because, I mean, I was born in 1990, so.
+
+00:14:54.520 --> 00:14:55.620
+You're NES material.
+
+00:14:55.900 --> 00:14:56.700
+I mean, you know. Right, right.
+
+00:14:56.880 --> 00:15:03.660
+But when I, once I was older, once I was, you know, old enough to start playing it, Super Nintendo was out and 64 was even out eventually.
+
+00:15:04.440 --> 00:15:07.340
+But, you know, I didn't realize that I was playing an outdated machine.
+
+00:15:07.340 --> 00:15:09.460
+I just thought that these were video games and they were awesome.
+
+00:15:09.460 --> 00:15:16.160
+And I, you know, and I would go to, you know, a yard sale and buy a box of video games for like 50 cents.
+
+00:15:16.340 --> 00:15:17.620
+And I just thought that's what video games were.
+
+00:15:17.620 --> 00:15:18.960
+Or things you could buy for 50 cents.
+
+00:15:19.700 --> 00:15:21.120
+So none of them really felt old to me.
+
+00:15:21.760 --> 00:15:27.140
+I never really thought of it as like, oh, the N64 is the new one and the NES is the old one.
+
+00:15:27.140 --> 00:15:30.660
+I used to just think like, oh, NES is for 2D games and N64 is for 3D games.
+
+00:15:30.660 --> 00:15:32.740
+It's almost like it's an incredible perspective.
+
+00:15:32.980 --> 00:15:35.420
+It's almost like you were living in a time capsule for a little bit.
+
+00:15:35.540 --> 00:15:44.680
+But I think a lot of people had that perspective because you wouldn't have NES games being made all the way up until 1984 if there wasn't a market for them.
+
+00:15:44.680 --> 00:15:48.640
+I think a lot of people did, especially because console gaming was still so early.
+
+00:15:48.840 --> 00:15:57.880
+I think a lot of people were reluctant to like get a Super Nintendo or, you know, the next, the next, next console to keep moving because it was like I have the NES.
+
+00:15:57.880 --> 00:16:01.280
+This has provided me enjoyment from 85 to 91.
+
+00:16:01.620 --> 00:16:02.620
+Why give up on it now?
+
+00:16:02.720 --> 00:16:04.300
+Like, why do I need the Super Nintendo?
+
+00:16:05.040 --> 00:16:06.800
+So that's your earliest memory.
+
+00:16:07.440 --> 00:16:09.640
+I'll go real fast with my earliest Super Mario Bros.
+
+00:16:09.720 --> 00:16:11.480
+memory. It's actually, Super Mario Bros.
+
+00:16:11.520 --> 00:16:12.780
+is not my first game.
+
+00:16:13.120 --> 00:16:15.840
+My first game was Kirby's Dream Land for the Game Boy.
+
+00:16:16.700 --> 00:16:19.580
+And that'll be something that I always hold dear to me.
+
+00:16:19.660 --> 00:16:21.560
+You know, that's the first game that I ever beat as well.
+
+00:16:21.740 --> 00:16:24.220
+I don't know if it's my first game, but it's one of my first games as well.
+
+00:16:24.380 --> 00:16:26.240
+It's a very easy game to beat, but you don't know that as a kid.
+
+00:16:26.360 --> 00:16:28.200
+Right. And it's also a very short experience.
+
+00:16:28.320 --> 00:16:34.540
+I think that's an enjoyable game that I would easily recommend to anybody, whether you're a pro gamer or just a casual person.
+
+00:16:35.020 --> 00:16:36.340
+But that's not the point here.
+
+00:16:36.460 --> 00:16:38.560
+What I'm trying to talk about is that Super Mario Bros.
+
+00:16:38.580 --> 00:16:41.520
+for me actually came even later than Super Mario 64.
+
+00:16:41.820 --> 00:16:42.880
+If you can believe that.
+
+00:16:43.020 --> 00:16:46.580
+Now, I was very young when Super Mario 64 came out.
+
+00:16:46.660 --> 00:16:48.100
+I think I was like three or four years old.
+
+00:16:48.100 --> 00:16:49.040
+Four years old sounds right.
+
+00:16:49.440 --> 00:16:50.680
+I was four years old in 96.
+
+00:16:50.680 --> 00:16:52.340
+My mom got it for Christmas.
+
+00:16:52.860 --> 00:16:56.120
+She was enthralled by just the 3D graphics.
+
+00:16:56.480 --> 00:16:57.580
+And she liked Mario.
+
+00:16:57.780 --> 00:16:59.580
+She knew Mario from previous games.
+
+00:16:59.940 --> 00:17:03.820
+So I had played Super Mario 64, like played it.
+
+00:17:03.980 --> 00:17:05.180
+You know, I wasn't really playing.
+
+00:17:05.780 --> 00:17:11.580
+And I remember going over to my grandmother's house and she had an NES for reasons I don't know.
+
+00:17:11.740 --> 00:17:14.160
+I never really even, you know, I can't even ask her now.
+
+00:17:14.340 --> 00:17:17.380
+But like that's just an interesting thing that she had at the house.
+
+00:17:17.380 --> 00:17:19.240
+And I remember playing Donkey Kong on that.
+
+00:17:19.380 --> 00:17:21.060
+And then my cousin played Super Mario Bros.
+
+00:17:21.080 --> 00:17:22.400
+And I remember seeing Super Mario Bros.
+
+00:17:22.400 --> 00:17:30.460
+And just when you see that for the first time, I think the visuals of everything are iconic enough that it sticks with you.
+
+00:17:30.600 --> 00:17:33.400
+Because when I finally started to play Super Mario Bros.
+
+00:17:33.460 --> 00:17:35.060
+And I think the first way I played Super Mario Bros.
+
+00:17:35.080 --> 00:17:38.240
+Was actually on Super Mario All-Stars for the Super Nintendo.
+
+00:17:38.620 --> 00:17:40.480
+It was like it was already familiar to me.
+
+00:17:40.680 --> 00:17:42.460
+Even though I had never really touched it before.
+
+00:17:42.460 --> 00:17:51.060
+It's like it's ingrained in video game culture that in some ways or another it's already been kind of like communicated to you what Super Mario Bros.
+
+00:17:51.180 --> 00:17:52.580
+is. Right, right.
+
+00:17:52.860 --> 00:17:55.200
+Yeah, I mean that's I think that's the experience a lot of people had too.
+
+00:17:55.320 --> 00:17:57.820
+It's like Super Mario is like I mean it's like Mickey Mouse.
+
+00:17:57.980 --> 00:17:58.860
+You know, he's there.
+
+00:17:59.040 --> 00:18:04.320
+He's in the culture. So when you pick up any of these games like you kind of already have a knowledge of the character.
+
+00:18:04.560 --> 00:18:07.560
+Yeah. So now preparing for this episode.
+
+00:18:07.860 --> 00:18:08.960
+What are your reactions?
+
+00:18:08.960 --> 00:18:11.400
+What are your initial impressions on reboot?
+
+00:18:11.400 --> 00:18:15.720
+To be honest initially when I first started playing it I kind of got a little worried.
+
+00:18:15.860 --> 00:18:23.340
+I was like is this is this not gonna live up to kind of the hype of like the nostalgia everyone has and that I have.
+
+00:18:23.800 --> 00:18:32.140
+Yeah, I think that's a I think that is a concern because you you immediately I don't know about you but I immediately want to put it on the essential games list because it's like a no brainer.
+
+00:18:32.420 --> 00:18:34.200
+It's one of those like legendary games.
+
+00:18:34.420 --> 00:18:37.640
+But then you think about it and you're like what if I don't like this?
+
+00:18:37.780 --> 00:18:39.620
+Right. What if this is too old now?
+
+00:18:39.920 --> 00:18:41.260
+And will it ever be too old?
+
+00:18:41.260 --> 00:18:42.840
+I guess is a good question as well.
+
+00:18:43.400 --> 00:18:49.740
+But I think as soon as I opened up the game and started playing it and like going through the levels again.
+
+00:18:50.040 --> 00:18:53.000
+I think that immediately those things were kind of like shaken off.
+
+00:18:53.120 --> 00:18:58.520
+Right. Yeah. So I mean I actually wondered if it was going to make the essential list and even after I like first started playing it.
+
+00:18:58.520 --> 00:19:08.940
+I think because I had growing up I had been so used to Super Mario Brothers 3 the slight difference in the feel of it at first I kind of took as like this does feel a little outdated.
+
+00:19:08.940 --> 00:19:20.180
+But but kind of like you said too is as soon as I really started playing it and got into the flow of it I think I pretty early on I kicked a turtle shell at like one of the flying Koopas.
+
+00:19:20.180 --> 00:19:21.860
+And I was like oh this is fun.
+
+00:19:22.000 --> 00:19:23.100
+Like this is really fun.
+
+00:19:23.340 --> 00:19:34.000
+Right. And there were a lot of things like that where I just getting into the flow of it and kind of you know you get a fire flower and you're sniping you're sniping Koopas as you go.
+
+00:19:34.260 --> 00:19:43.180
+And one of the biggest problems that people who have played this game in the past and revisit it one of the biggest problems they probably have is the fact that they know it all.
+
+00:19:43.700 --> 00:19:45.140
+You know right. They think they know it all.
+
+00:19:45.140 --> 00:19:52.780
+And there's like there's kind of like this incentive to just rush through it and you just hold down be the entire time rush through the court.
+
+00:19:52.960 --> 00:19:56.200
+I don't think that that's the way Super Mario Brothers is intended to be played.
+
+00:19:56.260 --> 00:19:58.380
+Right. It's fun to explore the world.
+
+00:19:58.800 --> 00:20:00.580
+And and figure it out too.
+
+00:20:00.700 --> 00:20:10.320
+You're going to get so many easy deaths if you just rush through this thing and don't see that Koopa that was planted at that you know like at the start of that other segment.
+
+00:20:10.320 --> 00:20:18.300
+You know so I think like really when you're playing this game especially because you only have three lives and that it's back to the very beginning of the game.
+
+00:20:18.860 --> 00:20:26.020
+You really want to make sure that you're approaching this from a standpoint of like you know that you don't know it all and that you will be surprised.
+
+00:20:26.260 --> 00:20:31.480
+And if you and if you don't know all the secrets and you're just running through you're going to miss some extra lives which are pretty important in this.
+
+00:20:31.640 --> 00:20:38.360
+Right. Yeah. I think extra lives are really key in here and it's kind of funny now that lives are in video games are like garbage.
+
+00:20:38.720 --> 00:20:40.100
+Because nobody really wants them.
+
+00:20:40.320 --> 00:20:48.460
+But in this game they're done really well and they're done in a way that doesn't it's not so arcadey as it is kind of like a part of the experience.
+
+00:20:48.740 --> 00:20:50.460
+It's like a three strikes you're out kind of right.
+
+00:20:50.640 --> 00:20:57.180
+And the game is short enough where it doesn't bother me too much that after three strikes or after losing your life you go all the way back.
+
+00:20:57.340 --> 00:20:59.860
+Whereas if it was as long as Super Mario Brothers 3.
+
+00:21:00.320 --> 00:21:01.640
+Yeah. That would be crazy.
+
+00:21:02.140 --> 00:21:03.260
+Yeah. That would be a disaster.
+
+00:21:03.720 --> 00:21:04.540
+That would not be good.
+
+00:21:04.680 --> 00:21:06.520
+But it's funny that you talk about it being short.
+
+00:21:06.520 --> 00:21:12.660
+I always thought of Super Mario Brothers as a very long game if only because I mean there's 32 levels.
+
+00:21:12.980 --> 00:21:18.560
+But then on top of that it's like when you do eventually die you will not make it all the way to 84 on your first run.
+
+00:21:18.760 --> 00:21:23.080
+It's kind of like you know in a way that's the replay value.
+
+00:21:23.080 --> 00:21:30.380
+It's like now you're learning to master these levels and approach them in a different way than the first time you experienced them.
+
+00:21:30.460 --> 00:21:36.180
+And now you know about that Goomba in 1-2 that's going to come from the top and drop down.
+
+00:21:36.240 --> 00:21:41.100
+Now you know not to be big in that particular section because you're most likely going to get hit.
+
+00:21:41.600 --> 00:21:52.140
+It's funny how the game is actually pretty long just because of the way that the back to the beginning mechanic works in a way that isn't like reset frustration.
+
+00:21:52.380 --> 00:21:56.640
+Like it's not a oh I just lost all my lives I'm going to shut this game off now.
+
+00:21:56.760 --> 00:21:58.100
+I think it is kind of like you want to get back in.
+
+00:21:58.120 --> 00:22:02.580
+Right. And you know you might take some time in between but the next time you come back to it you're a little better at it like you said.
+
+00:22:02.580 --> 00:22:07.440
+And it also has a good amount you'll discover more of the secrets along the way.
+
+00:22:07.540 --> 00:22:11.140
+Like that's another thing I discovered like a hidden vine.
+
+00:22:11.460 --> 00:22:15.740
+Yeah. And I do now after seeing it remember that from when I was a kid.
+
+00:22:15.940 --> 00:22:18.400
+I totally forgot there were vines in this game.
+
+00:22:18.600 --> 00:22:19.760
+Was that in 4-2? I don't remember.
+
+00:22:19.840 --> 00:22:20.800
+Was it a cave level?
+
+00:22:20.880 --> 00:22:22.100
+Do you remember? I think it was outside.
+
+00:22:22.320 --> 00:22:29.460
+Oh okay yeah. There are some other vines but 4-2 has the most notorious vine because that's the warp zone to World 8.
+
+00:22:29.820 --> 00:22:30.780
+Oh I see. Yeah yeah.
+
+00:22:30.820 --> 00:22:34.660
+Well you can also warp there by using the two warps.
+
+00:22:35.020 --> 00:22:39.260
+Yeah from 1-2 you can get to 4 and then from 4-2 you can get to.
+
+00:22:39.380 --> 00:22:40.660
+Right right. Yeah. It's fun.
+
+00:22:41.020 --> 00:22:43.140
+So I don't want to go too much more in depth.
+
+00:22:43.240 --> 00:22:46.200
+I want to save some stuff for Sam and Sean.
+
+00:22:46.460 --> 00:22:53.820
+Right. But I'd love to hear just like you know some stray thoughts you have about this game you know 20 years after the first time you played it.
+
+00:22:55.000 --> 00:23:00.420
+Well you know a couple things that maybe one of the biggest things I noticed I don't remember.
+
+00:23:00.500 --> 00:23:05.680
+from when I was a kid is how important at least the way I play the game how important the fire flower is.
+
+00:23:06.120 --> 00:23:14.620
+Yeah. It might not be the same depending on like how you play it but I got pretty used to like having the comfort of you know being able to shoot enemies before they get too close to me.
+
+00:23:14.920 --> 00:23:19.180
+And like I don't know when you lose that fire flower after having it for a while like you really kind of feel it.
+
+00:23:19.280 --> 00:23:21.580
+You're like oh now I have to be a lot more careful.
+
+00:23:21.580 --> 00:23:24.780
+You lose that fire flower and you go back to being mini Mario.
+
+00:23:25.120 --> 00:23:27.300
+Yeah. You don't even go back to giant Mario.
+
+00:23:27.380 --> 00:23:36.000
+There's not an in between. And how funny is it when you are when your giant Mario see the fire flower I don't even know this is happening but this happened to me a few times.
+
+00:23:36.220 --> 00:23:44.420
+Your giant Mario you see the fire flower power up you get hit by a Goomba you touch that fire flower and you only become super Mario again.
+
+00:23:44.420 --> 00:23:46.860
+You don't become right fire flower Mario.
+
+00:23:47.160 --> 00:23:48.940
+That's happening enough where I remember that.
+
+00:23:48.940 --> 00:23:49.820
+Right. That's the fire flower.
+
+00:23:49.820 --> 00:23:51.280
+I want that power up.
+
+00:23:51.360 --> 00:23:52.980
+I can't believe that that works that way.
+
+00:23:53.120 --> 00:23:55.980
+What else you got? You can't not talk about the Hammer Brothers.
+
+00:23:56.420 --> 00:24:01.120
+Yes. Because there are a lot of Mario games but in this Mario game they're pretty pretty crazy.
+
+00:24:01.360 --> 00:24:11.020
+I think they're actually the most brutal enemy in the game outside of World 8 Bowser which is actually really satisfying to see World 8 Bowser essentially be a Hammer Brother.
+
+00:24:11.020 --> 00:24:18.540
+It's almost like they knew the Hammer Brothers are the worst and so we'll just make Bowser an iteration of that.
+
+00:24:18.660 --> 00:24:26.840
+And my initial strategy for them was the same as my strategy when Lakitu shows up which is just run as fast as I can.
+
+00:24:27.540 --> 00:24:32.860
+Yeah. In fact if you're running in a Lakitu stage you can just outrun him to the point where he'll never throw Spidey in front of you.
+
+00:24:33.040 --> 00:24:40.580
+But for the Hammer Bros I did eventually have to start thinking like okay like I got to figure out where to go like which platform to go on and like when to get over them.
+
+00:24:40.580 --> 00:24:44.440
+From when to get around them because like it's almost like a constant stream of Hammer.
+
+00:24:44.680 --> 00:24:46.200
+It's like there's no gap in those.
+
+00:24:46.500 --> 00:24:56.600
+Yeah. The Hammer Brothers are definitely tough and I think like as soon as you pass one of them you know like when you try to make a run for it on the platform they're not on.
+
+00:24:56.960 --> 00:25:03.360
+They like immediately drop down onto that platform and it's like come on did they know that I was about to run through them?
+
+00:25:03.360 --> 00:25:11.980
+Right. And as little as I like remember about the specifics of this game from my childhood I didn't forget about where those damn Hammer Brothers were.
+
+00:25:12.080 --> 00:25:15.660
+Like every time I came up to a Hammer Brother like I remembered them like a repressed memory.
+
+00:25:15.920 --> 00:25:24.500
+I think the only one where they're incredibly tricky is I think it's 8-3 the stage before you get to Bowser's Castle.
+
+00:25:24.500 --> 00:25:32.460
+And I just remember there being a lot of them and some of them aren't even necessarily on platforms they're also just on the normal ground floor level.
+
+00:25:32.940 --> 00:25:39.600
+And it's just like you think you've gotten through them and then there's another pair and then there's a guy by himself and then there's another pair.
+
+00:25:39.800 --> 00:25:42.900
+It might be in World 7 now that I think about it like one of the World 7 levels.
+
+00:25:43.200 --> 00:25:48.660
+But it's one of those final stages where it's just like incredibly cruel especially when you think about how many lives you have.
+
+00:25:48.660 --> 00:25:54.060
+And to work all the way up to that point that's one of the more difficult parts of Super Mario Brothers no doubt.
+
+00:25:57.060 --> 00:25:59.780
+Difficulty wise though I think the game scales pretty well.
+
+00:25:59.980 --> 00:26:00.800
+Yeah for the most part.
+
+00:26:01.260 --> 00:26:08.460
+I think like honestly one of my only like real complaints and maybe you know something about this that I don't.
+
+00:26:08.620 --> 00:26:12.780
+The puzzle mechanic of like of those last couple dungeons.
+
+00:26:13.120 --> 00:26:16.320
+Yes. Where there's a certain path you have to take.
+
+00:26:16.320 --> 00:26:20.440
+Like and as far as I can tell and I've ever been able to tell there's not really like an indicator.
+
+00:26:20.880 --> 00:26:21.900
+It's kind of like a guess and check.
+
+00:26:22.280 --> 00:26:23.220
+It's a guess and check. Yeah.
+
+00:26:23.500 --> 00:26:29.560
+And I found myself thinking like OK what would like the programmers have put in here that they thought would be an unlikely path.
+
+00:26:29.820 --> 00:26:34.480
+And if that's the and I feel like that doesn't make for a good puzzle if you have to think about how they program the game.
+
+00:26:34.620 --> 00:26:37.580
+It doesn't it doesn't make sense when compared to the rest of the game.
+
+00:26:37.580 --> 00:26:42.920
+And I get that they were trying to like make it a little harder in that in that way.
+
+00:26:43.020 --> 00:26:51.540
+Right. But you're right. There should have been some kind of indicator because I think especially in eight for now I know that level by heart kind of like which ones to take.
+
+00:26:51.540 --> 00:27:00.260
+But I think like entering that warp pipe to go to the sea part of that level like you know I don't know how many of our listeners have gone to eight for.
+
+00:27:00.500 --> 00:27:06.740
+But basically you have to get into this warp pipe and then it takes you to the next part of Bowser's Castle which happens to be underwater.
+
+00:27:06.740 --> 00:27:18.020
+I think that like to know that isn't it's not necessarily like you know you just have to try everything and you try different routes to and unfortunately due to the time system.
+
+00:27:18.920 --> 00:27:23.340
+You know you know you most likely will time out on your first attempt trying to go through the entire course.
+
+00:27:23.520 --> 00:27:31.400
+Right. And because you're just guessing once you solve it you don't really feel like you solved a puzzle or you figured you just you just tried enough times until it worked.
+
+00:27:31.400 --> 00:27:37.560
+There's a there's a book that I believe you can still buy you can still buy this book and it's called how to win at Super Mario Brothers.
+
+00:27:37.780 --> 00:27:38.660
+I'm not making that up.
+
+00:27:38.800 --> 00:27:45.160
+It was a huge like big seller at the time and that told you the puzzle secrets of course.
+
+00:27:45.420 --> 00:27:54.500
+And I feel like that's like levels like eight for were probably the reason that that book even sold like right as many copies as it did.
+
+00:27:54.640 --> 00:27:59.420
+It's just like people finally got fed up and said I need to know where every one up mushroom is.
+
+00:27:59.420 --> 00:28:01.760
+I need to know where every puzzle ends.
+
+00:28:01.900 --> 00:28:14.000
+I need to know where those warp zones are because I'm not like the game unlike Legend of Zelda which will come in later and give you like very vague clues that by today's standards are near impossible to decipher.
+
+00:28:14.400 --> 00:28:15.580
+At least they gave clues.
+
+00:28:15.820 --> 00:28:22.320
+Right. The warp zone is never like a toad at the end of any of the worlds never says like your princess is in another castle.
+
+00:28:22.320 --> 00:28:30.260
+By the way did you know about these warp zones or you know like or even just like hey in the next dungeon I heard that you have to go in a warp bike.
+
+00:28:30.840 --> 00:28:32.140
+Nothing. Nothing like that.
+
+00:28:32.200 --> 00:28:34.260
+And how does Toad know the princess is in another castle?
+
+00:28:34.400 --> 00:28:35.520
+I am worried about that.
+
+00:28:35.620 --> 00:28:36.880
+I think he might be involved. Yeah.
+
+00:28:36.880 --> 00:28:39.520
+No one ever questions Toad about that actually.
+
+00:28:40.300 --> 00:28:46.600
+And just real fast something I noticed since we're talking about the toads obviously we don't have Princess Peach yet we have Princess Toadstool.
+
+00:28:46.900 --> 00:28:56.880
+But if you heard from the beginning you know we read the beginning of the back of the boxes for these episodes they refer to her as the mushroom princess on the back of the box.
+
+00:28:57.080 --> 00:28:58.880
+So it's like is she the mushroom princess?
+
+00:28:59.060 --> 00:29:00.340
+Is she Princess Toadstool?
+
+00:29:00.740 --> 00:29:03.540
+In Japan she's Princess Peach at this point.
+
+00:29:03.700 --> 00:29:04.660
+It's really confusing.
+
+00:29:04.660 --> 00:29:09.140
+Yeah and then you know even Mario's got a different girlfriend in Donkey Kong.
+
+00:29:10.440 --> 00:29:20.460
+You know Pauline was his New York chick and Princess Peach is his sorry Princess Toadstool sorry mushroom princess is his main squeeze.
+
+00:29:21.020 --> 00:29:24.020
+All right Joe so let's just let's take this real fast.
+
+00:29:24.460 --> 00:29:31.480
+I'm going to save my essential vote for later but I'd love to hear your essential vote on this so we can get a definitive answer.
+
+00:29:31.480 --> 00:29:48.400
+All right so like I said initially I was worried about it but that that worry kind of evaporated pretty quickly once I got into the game the flow of the game and like as much as like I remember not it not being my favorite game as a kid that was because I always had other things to play that I like that I preferred.
+
+00:29:48.920 --> 00:29:52.640
+But now like actually dedicating some time to this like this is a great game.
+
+00:29:53.040 --> 00:29:57.720
+It kind of I don't want to say surprised me because I expected it to be a great game.
+
+00:29:57.780 --> 00:29:59.600
+It's hard to surprise after so many years.
+
+00:29:59.780 --> 00:30:04.680
+I guess I was more surprised at like wow why didn't I ever give this more time when I was a kid because it's really fun.
+
+00:30:04.680 --> 00:30:05.940
+Well because you had Super Mario Brothers 3.
+
+00:30:05.940 --> 00:30:10.260
+Right it's hard it's hard to compete with that but this is definitely I think still worth a play.
+
+00:30:10.500 --> 00:30:14.220
+I mean essential to play I should say so I am putting it on the essential list.
+
+00:30:14.320 --> 00:30:22.760
+All right so our first essential vote. Right and yeah there's just been even like the secrets that you uncover there's like enough variety in the levels and the controls work well.
+
+00:30:23.060 --> 00:30:26.360
+I think that if you have an NES get this game.
+
+00:30:26.640 --> 00:30:28.540
+It's essential. All right there you have it.
+
+00:30:28.700 --> 00:30:30.040
+It's our first essential vote.
+
+00:30:30.040 --> 00:30:32.820
+I will keep you guys in suspense on mine.
+
+00:30:32.980 --> 00:30:35.720
+I'll wait till Sean and Sam get together with me later.
+
+00:30:36.400 --> 00:30:39.200
+Joe thanks so much for coming in to do this real fast.
+
+00:30:40.360 --> 00:30:41.740
+And guys stick around.
+
+00:30:42.140 --> 00:30:44.980
+We're not playing any commercials because we don't do that on this podcast.
+
+00:30:45.000 --> 00:30:51.300
+We're just going to play a quick I don't know like we'll put the water level sounds or something real fast and then I'll bring back in Sean and Sam.
+
+00:30:51.880 --> 00:30:52.980
+And yeah Joe will be gone.
+
+00:30:53.160 --> 00:30:54.200
+He'll be back next week.
+
+00:30:54.480 --> 00:30:57.380
+Yeah next week for what is that tennis.
+
+00:30:57.960 --> 00:31:01.360
+Yeah tennis. It's a big game to follow up.
+
+00:31:01.440 --> 00:31:04.720
+Right. Well you know they're always compared to each other.
+
+00:31:05.860 --> 00:31:06.720
+All right. Thanks Joe.
+
+00:31:08.260 --> 00:31:32.420
+Yeah. All right.
+
+00:31:32.520 --> 00:31:35.660
+And we're back with more Super Mario Brothers but this time with Sean and Sam.
+
+00:31:35.820 --> 00:31:36.740
+What's up guys. Yo.
+
+00:31:36.980 --> 00:31:40.280
+Hi Mike. Sean why don't you walk us through the objective of this game.
+
+00:31:40.720 --> 00:31:48.360
+All right. So this is the one of the probably the first side scrolling platformers in which you have
+
+00:31:48.360 --> 00:31:53.640
+a weaponized jump at least in the classic sense of side scrolling platform.
+
+00:31:54.020 --> 00:31:55.160
+Such a better decision than a gun.
+
+00:31:55.400 --> 00:31:58.800
+Yeah. I mean we don't know how it would have turned out.
+
+00:31:58.960 --> 00:32:01.040
+I can only imagine how it would have turned out.
+
+00:32:01.940 --> 00:32:03.260
+You know what. From the sounds of it.
+
+00:32:03.380 --> 00:32:07.680
+It was like they were making a Metroidvania before Metroid or Castlevania ever came out
+
+00:32:07.680 --> 00:32:10.280
+with the sounds of using the gun and having different power ups.
+
+00:32:10.500 --> 00:32:11.420
+I digress.
+
+00:32:11.760 --> 00:32:12.880
+Sean walk us through the game.
+
+00:32:12.880 --> 00:32:22.740
+So you use this jump and this run to traverse the level while breaking blocks jumping on
+
+00:32:22.740 --> 00:32:29.760
+evil satanic Koopas and most of whom can only walk in one direction.
+
+00:32:30.020 --> 00:32:33.100
+They can travel in the other direction after that direction though.
+
+00:32:33.440 --> 00:32:36.560
+Oh like after they've been after they've been stopped by their physical limits.
+
+00:32:36.720 --> 00:32:40.440
+Exactly. Like once a block tells them you can't go any further they're like I should head home.
+
+00:32:40.440 --> 00:32:50.700
+Yes exactly and then you just keep on going until you get to a flagpole in which you try
+
+00:32:50.700 --> 00:32:54.480
+and jump to the top of the flagpole and then you exit the level.
+
+00:32:55.040 --> 00:32:56.240
+And then you're just on to the next.
+
+00:32:56.480 --> 00:33:04.780
+On to the next world or you go into a castle where it gets a lot scarier and you have some
+
+00:33:04.780 --> 00:33:10.900
+sort of fight with Bowser whether it's you kind of like cheese him and just jump on the like what
+
+00:33:10.900 --> 00:33:14.220
+is that an axe? It's an axe yeah like chops the bridge in it off.
+
+00:33:14.680 --> 00:33:18.840
+Or you can fight him the normal way with like with your fireballs.
+
+00:33:18.960 --> 00:33:22.560
+Oh yeah you can get you can get those power ups that make you big.
+
+00:33:22.700 --> 00:33:25.820
+I have to yeah I have to stop you there because these are all interesting things that we're going
+
+00:33:25.820 --> 00:33:26.900
+to get into later. Yeah.
+
+00:33:27.160 --> 00:33:32.260
+But remind me if I don't say it we have to talk about the normal way of fighting Bowser
+
+00:33:32.260 --> 00:33:33.560
+that you just described because.
+
+00:33:33.700 --> 00:33:38.080
+I wouldn't say the normal way. No I know I'm saying you said it was the normal way and I'm pretty sure most of us are familiar
+
+00:33:38.080 --> 00:33:39.100
+with that being the.
+
+00:33:39.100 --> 00:33:39.980
+Like you just like use the axe?
+
+00:33:40.220 --> 00:33:41.860
+Yeah exactly like you use the axe.
+
+00:33:41.940 --> 00:33:45.960
+I'm saying that it is possible to defeat him without touching the axe.
+
+00:33:46.260 --> 00:33:47.400
+It's actually and it's the only way to get points.
+
+00:33:47.620 --> 00:33:49.020
+Yeah. I never knew this. I never knew that.
+
+00:33:49.140 --> 00:33:53.900
+Anyway yeah anyway moving on obviously you know with that last part was completely unnecessary
+
+00:33:53.900 --> 00:33:57.500
+talking about the objective of this game because you definitely should know what we're talking
+
+00:33:57.500 --> 00:34:01.260
+about because even if you've never played Super Mario Brothers chances are you've seen a video
+
+00:34:01.260 --> 00:34:05.920
+of how this thing works or if you've played any platformer after this game you would know
+
+00:34:05.920 --> 00:34:08.500
+how heavily influenced it is by Super Mario Brothers.
+
+00:34:08.600 --> 00:34:13.280
+You know how like how ostracized that the few people that are listening that have never
+
+00:34:13.280 --> 00:34:15.060
+even heard of Mario feel right now.
+
+00:34:15.160 --> 00:34:21.420
+I think there are probably like that one uncontacted tribe who happened to get a feed of our signal
+
+00:34:21.420 --> 00:34:24.480
+and is listening to every episode of Nostalgia every Friday.
+
+00:34:24.600 --> 00:34:25.860
+They're like what is this?
+
+00:34:26.000 --> 00:34:29.160
+What is Mario? I'm just saying that you're making them feel uncomfortable.
+
+00:34:29.340 --> 00:34:31.980
+I know and I'm sorry to those uncontacted tribes.
+
+00:34:32.260 --> 00:34:37.720
+But the reason why I segue now is because since we all have clearly at least played Super
+
+00:34:37.720 --> 00:34:41.940
+Mario Brothers or seen it in some regards let's talk about our earliest Super Mario Brothers
+
+00:34:41.940 --> 00:34:43.680
+memories. Sure.
+
+00:34:43.680 --> 00:34:51.520
+So my first Super Mario Brothers memory was I had a friend who had a Game Boy Color and
+
+00:34:51.520 --> 00:34:53.660
+I didn't have any kind of Game Boy or anything.
+
+00:34:53.960 --> 00:34:56.740
+I may have had a may have had an N64 but I didn't have a Game Boy.
+
+00:34:58.040 --> 00:35:04.120
+And she had Super Mario Brothers and I had this it was kind of like a Game Boy thing that only
+
+00:35:04.120 --> 00:35:05.060
+played two games.
+
+00:35:05.300 --> 00:35:06.380
+You know like a knockoff one.
+
+00:35:06.480 --> 00:35:07.980
+A Game & Watch? No no no no.
+
+00:35:08.120 --> 00:35:11.100
+It was like it was it was actually a Crazy Bones.
+
+00:35:11.420 --> 00:35:12.780
+If you remember Crazy Bones.
+
+00:35:12.780 --> 00:35:16.660
+It was like a Crazy Bones Game Boy that only played Breakout and Tetris.
+
+00:35:16.880 --> 00:35:19.960
+Right? Is it like one of those LCD screen ones?
+
+00:35:20.100 --> 00:35:21.180
+Yeah kind of. Oh okay.
+
+00:35:22.060 --> 00:35:25.680
+This is this is the weirdest earliest Super Mario Brothers memory.
+
+00:35:26.060 --> 00:35:33.500
+But anyway we traded one summer and I got Super Mario Brothers Deluxe on the Game Boy
+
+00:35:33.500 --> 00:35:37.900
+and she got my Tetris and Breakout.
+
+00:35:38.140 --> 00:35:39.580
+It's two games. I only got one game.
+
+00:35:39.800 --> 00:35:41.400
+You know that's one way of thinking about it.
+
+00:35:41.400 --> 00:35:43.820
+Yeah well I've actually felt like the winner there.
+
+00:35:44.000 --> 00:35:45.820
+We traded back. You know it's all fair.
+
+00:35:46.100 --> 00:35:51.800
+Okay. But yeah that was my first time playing it and I really liked that one because you kind
+
+00:35:51.800 --> 00:35:54.340
+of go back and pick which level you wanted to go through.
+
+00:35:54.480 --> 00:35:55.940
+You didn't want you didn't have to.
+
+00:35:56.240 --> 00:35:57.720
+It added an overworld map.
+
+00:35:57.940 --> 00:35:59.120
+Yeah it added an overworld map.
+
+00:35:59.300 --> 00:36:01.740
+Even beyond that there were like challenges on each level.
+
+00:36:02.080 --> 00:36:04.720
+Like you could try and find the Yoshi egg which was hidden somewhere.
+
+00:36:04.720 --> 00:36:09.560
+Or there were red coins I think that were hidden throughout the level that you had to collect.
+
+00:36:10.860 --> 00:36:12.220
+And yeah I don't know.
+
+00:36:12.300 --> 00:36:14.760
+I have never really been great at Mario games.
+
+00:36:15.160 --> 00:36:17.180
+Never really. Not that I haven't liked them.
+
+00:36:17.380 --> 00:36:19.940
+But they've just never been my favorite kind of games.
+
+00:36:20.280 --> 00:36:23.760
+And so I liked having those other things to do in it.
+
+00:36:23.760 --> 00:36:30.540
+Yeah so my first my earliest Mario Brother memory was actually is my introduction to video games.
+
+00:36:30.740 --> 00:36:33.220
+When I was I don't know if I was like two or three.
+
+00:36:33.480 --> 00:36:40.240
+My my parents got a Super NES for like you know ostensibly for me.
+
+00:36:40.240 --> 00:36:43.220
+But because I was so young it was just them playing it.
+
+00:36:43.680 --> 00:36:48.380
+And we got Super Mario World and Super Mario All-Star.
+
+00:36:48.680 --> 00:36:51.380
+And I have vague memories of playing these games.
+
+00:36:51.560 --> 00:36:53.060
+And it was definitely Mario.
+
+00:36:53.460 --> 00:36:55.780
+But it was mostly them helping me through it.
+
+00:36:56.440 --> 00:37:00.340
+It's funny because Super Mario All-Star is like it's really just a graphical improvement.
+
+00:37:00.480 --> 00:37:01.380
+It's pretty much the same game.
+
+00:37:01.640 --> 00:37:03.580
+I think they fixed a couple of bugs here and there.
+
+00:37:03.700 --> 00:37:06.040
+But I mean it retains the warp zone and stuff like that.
+
+00:37:06.040 --> 00:37:12.280
+So I think my first exposure to Super Mario Brothers was the NES version.
+
+00:37:12.280 --> 00:37:13.200
+Like very young.
+
+00:37:13.280 --> 00:37:14.940
+I didn't own an NES growing up.
+
+00:37:15.240 --> 00:37:20.180
+But my first like official playthrough of Super Mario Brothers also happened on Super Mario All-Stars.
+
+00:37:20.400 --> 00:37:23.840
+And I just remember like at the time I think I was I was like a teenager.
+
+00:37:24.080 --> 00:37:26.960
+So it had been like a lot you know I had played Super Mario World at this point.
+
+00:37:27.120 --> 00:37:30.080
+I had played Super Mario 64, Super Mario Sunshine.
+
+00:37:30.280 --> 00:37:31.960
+Like I was a big Mario head at this point.
+
+00:37:32.100 --> 00:37:35.020
+But it's weird that I never played the game that started at all.
+
+00:37:35.680 --> 00:37:38.560
+And for me all three of those games on All-Stars.
+
+00:37:38.720 --> 00:37:40.380
+Super Mario Brothers, Super Mario Brothers 2 and 3.
+
+00:37:40.580 --> 00:37:41.700
+They all just clicked right away.
+
+00:37:41.840 --> 00:37:46.340
+And there's something like very satisfying about playing those older games when they're still good.
+
+00:37:46.720 --> 00:37:51.560
+You know like a lot of times you can force yourself to just like be in the time period.
+
+00:37:51.760 --> 00:37:53.020
+And be like oh this was good for its day.
+
+00:37:53.140 --> 00:37:55.000
+It's another thing when you're like playing the game.
+
+00:37:55.100 --> 00:37:57.320
+And it's actively as fun as the games that you're playing.
+
+00:37:57.640 --> 00:38:00.180
+So that's my early Super Mario Brothers memory.
+
+00:38:00.780 --> 00:38:02.960
+But now that we've talked about our earliest memories.
+
+00:38:03.320 --> 00:38:07.600
+Let's talk about like what it was like to replay this again for this episode of Nostalgia.
+
+00:38:08.100 --> 00:38:08.960
+Oh yeah.
+
+00:38:09.200 --> 00:38:11.100
+So when I started playing this.
+
+00:38:11.480 --> 00:38:20.400
+I really started to regret a lot of the things I had been saying positively about the games that we've been playing.
+
+00:38:20.400 --> 00:38:23.580
+Because yeah I mean they were they're interesting.
+
+00:38:24.840 --> 00:38:26.660
+They're interesting games to play.
+
+00:38:26.980 --> 00:38:30.140
+And they have a lot of cool gadgets and whatnot.
+
+00:38:30.440 --> 00:38:33.840
+But this game it's like it's a different system.
+
+00:38:34.040 --> 00:38:35.840
+It's like it's on the next gen.
+
+00:38:36.180 --> 00:38:38.560
+Nothing looks as good as this in the NES launch titles.
+
+00:38:38.740 --> 00:38:42.400
+It's just that much head and shoulders above everything that we've played so far.
+
+00:38:42.400 --> 00:38:47.800
+It is I can't agree more because the funny thing about the other games we've been playing is.
+
+00:38:47.900 --> 00:38:50.600
+And we were talking about this most of them were arcade games first.
+
+00:38:50.740 --> 00:38:52.160
+They were on the verse system and stuff like that.
+
+00:38:52.280 --> 00:38:54.740
+And even Super Mario Brothers eventually gets a verse system version.
+
+00:38:55.280 --> 00:39:00.700
+But what's funny here is this is the this is the game that actually feels like a console game.
+
+00:39:00.820 --> 00:39:04.700
+This feels like an experience. There's a you know there's a progression to the game.
+
+00:39:04.880 --> 00:39:06.340
+There's 32 levels.
+
+00:39:06.900 --> 00:39:10.040
+It's a game that you know kind of demands you to play it at home.
+
+00:39:10.040 --> 00:39:13.060
+You can't really go through this in an arcade experience.
+
+00:39:13.360 --> 00:39:16.520
+You know you have to like sit down and spend a lot of time with this game.
+
+00:39:16.800 --> 00:39:19.020
+Figuring out its quirks getting better and better.
+
+00:39:19.300 --> 00:39:22.620
+And eventually you know trying to get to 8-4 in three lives.
+
+00:39:22.840 --> 00:39:32.960
+And it's like 32 meaningful levels instead of the 100 just sort of random permutations in some of the other games.
+
+00:39:33.200 --> 00:39:35.380
+Everything is super super purposeful.
+
+00:39:35.620 --> 00:39:37.900
+You know it was designed with intent.
+
+00:39:38.140 --> 00:39:39.320
+You can tell that right away.
+
+00:39:39.320 --> 00:39:46.540
+Right. We were talking about this me and Sam about how like for Kung Fu the enemies are you know they're there in the game.
+
+00:39:46.720 --> 00:39:48.540
+And you know they each do something different.
+
+00:39:48.760 --> 00:39:52.220
+But they're they're not programmed to appear at certain points.
+
+00:39:52.420 --> 00:39:55.060
+They just they just show up as you're walking through the level.
+
+00:39:55.220 --> 00:39:57.600
+With Super Mario Brothers as the levels are designed.
+
+00:39:58.000 --> 00:40:02.440
+It's like the Koopa Troopa is placed exactly in the spot that they wanted to show up.
+
+00:40:02.440 --> 00:40:08.800
+So that when you enter the screen it falls into a position that you know will be like not like game breaking.
+
+00:40:09.080 --> 00:40:09.980
+But at the same time.
+
+00:40:10.280 --> 00:40:12.360
+Yeah. But complements the design of the level.
+
+00:40:12.680 --> 00:40:14.680
+Like I know we haven't really gotten into the music yet.
+
+00:40:14.680 --> 00:40:18.540
+But just immediately you can tell that this has like it's got character.
+
+00:40:18.740 --> 00:40:19.800
+It's it's weird.
+
+00:40:20.220 --> 00:40:21.520
+Yeah. You know like it's weird.
+
+00:40:22.160 --> 00:40:24.760
+You eat these giant mushrooms and you become giant.
+
+00:40:25.360 --> 00:40:27.780
+You know eventually get to Fire Flower and you're shooting.
+
+00:40:28.060 --> 00:40:30.580
+I feel like every game we've played so far has been weird.
+
+00:40:30.860 --> 00:40:33.700
+But this is. It's like ties up every little loose end.
+
+00:40:34.060 --> 00:40:37.280
+Yeah. And it's like oh yeah the mushrooms you eat them and you get big.
+
+00:40:37.280 --> 00:40:39.180
+And these mushrooms you stomp on them.
+
+00:40:39.300 --> 00:40:40.860
+And these mushrooms they give you an extra life.
+
+00:40:40.960 --> 00:40:41.960
+You gotta find them first.
+
+00:40:42.080 --> 00:40:44.580
+You know. I think I think that's a good point about how like.
+
+00:40:44.760 --> 00:40:46.980
+We talk about how weird this game is if you really think about it.
+
+00:40:47.100 --> 00:40:48.780
+But no one ever really thinks about it.
+
+00:40:48.860 --> 00:40:50.540
+You play the game and it's just it's all.
+
+00:40:50.640 --> 00:40:52.100
+It's all this video game canon.
+
+00:40:52.680 --> 00:40:54.540
+Right. But it's all commentary to the gameplay.
+
+00:40:54.880 --> 00:40:56.380
+Yeah. Like the mushroom makes you bigger.
+
+00:40:56.620 --> 00:40:57.440
+I don't care why.
+
+00:40:57.700 --> 00:41:00.920
+It's just I'm glad that it does because now I can do this this and this.
+
+00:41:01.160 --> 00:41:04.500
+And just like the jumping just feels good.
+
+00:41:04.760 --> 00:41:08.920
+Yeah. I think the jumping in this game is like the physics alone.
+
+00:41:09.160 --> 00:41:12.700
+It's it's weird. But if you go to like I used to do this all the time as a kid.
+
+00:41:12.940 --> 00:41:14.780
+I'd go on the mushroom kingdom dot net.
+
+00:41:15.000 --> 00:41:20.080
+I think it is. And they would have like they pretty much like rip this game and broke it down into like
+
+00:41:20.080 --> 00:41:26.360
+its simplest parts. And you can actually see like they made a trajectory for every kind of jump that's possible for Mario
+
+00:41:26.360 --> 00:41:31.480
+depending on how far he's been running whether B was held down or not whether you stopped
+
+00:41:31.480 --> 00:41:33.980
+in you know like if you start turning in the other direction.
+
+00:41:33.980 --> 00:41:36.780
+And it's like it's almost it's almost limitless.
+
+00:41:36.980 --> 00:41:40.800
+You know there is a finite number of course because it's the NES and you can only program
+
+00:41:40.800 --> 00:41:48.880
+so much. But the fact that the jump has that kind of precision to it and has like that slippery slope
+
+00:41:48.880 --> 00:41:52.800
+of like you know even when you land you still have like a little bit of momentum on you.
+
+00:41:52.840 --> 00:41:54.000
+That gets me all the time.
+
+00:41:54.100 --> 00:41:54.940
+Right. And you're like yeah.
+
+00:41:55.080 --> 00:41:58.020
+But at the same time too it's it's not frustrating.
+
+00:41:58.400 --> 00:41:59.700
+It's like yeah. It's part of the game.
+
+00:42:00.820 --> 00:42:06.840
+Far cry from Ice Climber where the frustration was not in like oh no I can't land this right.
+
+00:42:07.000 --> 00:42:09.860
+It's like why can't anything happen fluidly.
+
+00:42:09.860 --> 00:42:12.120
+There was no part of me playing this game.
+
+00:42:12.240 --> 00:42:16.520
+Well there's one part of it that I can talk about but there was really almost no part of
+
+00:42:16.520 --> 00:42:20.040
+it that felt like oh this stupid game like it's messing up right here.
+
+00:42:20.220 --> 00:42:24.820
+You know it's every single time I messed up it's like because I messed up not because something
+
+00:42:24.820 --> 00:42:26.640
+in the game was weird that I didn't get.
+
+00:42:26.780 --> 00:42:27.680
+It's all so intuitive.
+
+00:42:27.920 --> 00:42:32.640
+And it's usually I mean this was my experience on rebooting it because I had I had known the
+
+00:42:32.640 --> 00:42:37.300
+game so well by this point in my life I knew most of the early levels by heart is that usually
+
+00:42:37.300 --> 00:42:41.800
+what got me was going like really fast like trying to rush myself through the levels.
+
+00:42:42.000 --> 00:42:43.320
+That's what would get me.
+
+00:42:43.720 --> 00:42:49.000
+And yeah and it's because we're used to that I feel like like platformers now even I feel
+
+00:42:49.000 --> 00:42:50.500
+like you're just go through faster.
+
+00:42:50.700 --> 00:42:56.040
+I think you also there was there's less reward systems in Super Mario Brothers as there are
+
+00:42:56.040 --> 00:42:57.280
+in even later Mario games.
+
+00:42:57.280 --> 00:43:03.380
+games it's very easy to get like a mushroom or another power up in like new Super Mario
+
+00:43:03.380 --> 00:43:08.460
+Brothers. But in the original Super Mario Brothers you know good luck you might get like one or two
+
+00:43:08.460 --> 00:43:09.440
+mushrooms a stage.
+
+00:43:09.660 --> 00:43:11.380
+And like coins coins are important.
+
+00:43:11.660 --> 00:43:12.660
+Coins are really important.
+
+00:43:12.840 --> 00:43:14.980
+Because you only get three lives and then you start back at the beginning again.
+
+00:43:15.120 --> 00:43:19.320
+As soon as I realized how like how fast I was losing all my lives because you only get
+
+00:43:19.320 --> 00:43:21.820
+three and once you like lose your three.
+
+00:43:22.000 --> 00:43:23.060
+You're just done. That's it folks.
+
+00:43:23.220 --> 00:43:26.800
+We're not talking about like oh start at the beginning of the world or the beginning of the
+
+00:43:26.800 --> 00:43:27.860
+level. That's it. It's game over.
+
+00:43:27.880 --> 00:43:33.220
+You go back to the beginning of the game and yes that seems like you know a Dark Souls
+
+00:43:33.220 --> 00:43:34.880
+level of difficulty in today's terms.
+
+00:43:35.620 --> 00:43:38.180
+But like you know in NES days that's just normal.
+
+00:43:38.500 --> 00:43:45.220
+That's just how it is. Let's go back to just a real quick sidebar like the lexicon of difficulty now it's all
+
+00:43:45.220 --> 00:43:46.520
+like is it Dark Souls hard?
+
+00:43:46.740 --> 00:43:49.260
+It used to the term used to just be Nintendo hard.
+
+00:43:49.440 --> 00:43:50.340
+Right. Yeah that is true.
+
+00:43:50.640 --> 00:43:53.340
+And I think that this game kind of starts that off.
+
+00:43:53.340 --> 00:43:58.640
+Like I think you know we talked about other games like Kung Fu was very hard as you got
+
+00:43:58.640 --> 00:44:00.940
+like further through each floor and stuff like that.
+
+00:44:01.180 --> 00:44:04.740
+But I think that game got hard just because of like the way that.
+
+00:44:04.940 --> 00:44:06.580
+It just kept throwing more and more at you.
+
+00:44:06.760 --> 00:44:11.780
+More and more at you. This game if we're being real like even when you get to like World 6 and stuff like that
+
+00:44:11.780 --> 00:44:17.200
+it's not that the levels got like so much harder or that the enemy like there's you know
+
+00:44:17.200 --> 00:44:18.320
+the enemy variety is low.
+
+00:44:19.000 --> 00:44:24.760
+What makes the game like harder is that you only have those three maybe one extra life.
+
+00:44:24.760 --> 00:44:27.320
+Yeah so by the time you get to these levels and it's the first time you're playing through
+
+00:44:27.320 --> 00:44:28.520
+them and you don't know what to expect.
+
+00:44:28.840 --> 00:44:30.380
+I mean you're going to die a lot.
+
+00:44:30.500 --> 00:44:34.460
+So I do think that even though you have to start from the beginning every time there are
+
+00:44:34.460 --> 00:44:38.520
+the warp pipes. And I think that's like a huge a huge advantage that you get.
+
+00:44:38.900 --> 00:44:39.880
+So once you. Are you talking about the.
+
+00:44:40.200 --> 00:44:41.000
+The warp zones.
+
+00:44:41.860 --> 00:44:42.820
+Okay. Yeah. Oh yeah.
+
+00:44:42.900 --> 00:44:43.920
+Not just the regular warp pipes.
+
+00:44:44.000 --> 00:44:49.500
+Right. The warp zones. So once you kind of know that stuff and I don't know how hard it must have been to figure
+
+00:44:49.500 --> 00:44:54.780
+out that is even there in the 80s when there's no internet and you guys just kind of have
+
+00:44:54.780 --> 00:44:58.600
+to talk and you're like oh yeah my mom did this thing the other night where like jump
+
+00:44:58.600 --> 00:45:03.340
+at the end of one two then you can get to this level like the secret spot you know and
+
+00:45:03.340 --> 00:45:06.740
+but I think once you know that it kind of rewards you for playing the game a lot.
+
+00:45:06.900 --> 00:45:10.840
+I think it's I think it's funny because for me it wasn't even like wasn't that big of
+
+00:45:10.840 --> 00:45:14.380
+a secret like you do kind of stumble on it pretty organically.
+
+00:45:14.380 --> 00:45:17.620
+Like I wonder if I could just keep picking this up to the top.
+
+00:45:17.800 --> 00:45:21.220
+Right. Yeah. And then you get up there and you can even get up there much earlier in the level two
+
+00:45:21.220 --> 00:45:23.440
+but I think most people get there through the like elevator.
+
+00:45:24.120 --> 00:45:27.700
+Things but it's like you can get there even earlier and it's like you know you're just
+
+00:45:27.700 --> 00:45:31.180
+testing it you're just seeing like oh okay like let's just see and I feel like a lot
+
+00:45:31.180 --> 00:45:34.740
+of people discovered it that way like you didn't need to read about this online it was
+
+00:45:34.740 --> 00:45:37.140
+just very like organically put in there.
+
+00:45:37.340 --> 00:45:38.800
+And then you know there's more secret stuff.
+
+00:45:39.060 --> 00:45:44.240
+Yeah exactly. It's like a good hint of being like oh I should try and like do other like try and get above
+
+00:45:44.240 --> 00:45:46.820
+other levels or try and hit other blocks and see what happens.
+
+00:45:47.160 --> 00:45:48.360
+And you get the beanstalk and you get other warps.
+
+00:45:48.600 --> 00:45:51.080
+The beanstalk is a little weird though just because.
+
+00:45:51.080 --> 00:45:52.100
+I don't even know how to get the beanstalk.
+
+00:45:52.160 --> 00:45:55.080
+The beanstalk. The biggest beanstalk is in 4-2.
+
+00:45:55.800 --> 00:45:58.000
+Because at the end of 4-2 you can warp to 5.
+
+00:45:58.000 --> 00:45:59.120
+That's how you get to 6-7-8.
+
+00:45:59.120 --> 00:46:04.300
+But yeah to get to 6-7-8 you need to hit that beanstalk in 4-2 which does require a pretty
+
+00:46:04.300 --> 00:46:09.040
+precise jump because they put an invisible block right below the beanstalk.
+
+00:46:09.140 --> 00:46:13.580
+So if you hit that one you're not going to be able to well at least it's big Mario.
+
+00:46:14.020 --> 00:46:17.520
+You're not going to be able to hit the beanstalk to open that up.
+
+00:46:17.960 --> 00:46:22.920
+But yeah I mean like that's one way to play the game is like after you know I don't I'm
+
+00:46:22.920 --> 00:46:27.340
+not saying that it's less of a way of playing this game either like because there's not a
+
+00:46:27.340 --> 00:46:29.080
+level select unless you beat the game.
+
+00:46:29.360 --> 00:46:32.500
+Yeah I think that works as a really good way of doing it within the game itself.
+
+00:46:32.720 --> 00:46:38.020
+Right and it's and it's programmed in there like as a reason to be like okay I'm constantly
+
+00:46:38.460 --> 00:46:43.920
+taking down worlds 1, 2, and 3 but by the time I get to world 4 or 5 I'm exhausted of
+
+00:46:43.920 --> 00:46:45.700
+my lives. It's like okay well let's just get there quicker.
+
+00:46:46.100 --> 00:46:50.660
+Yeah. And I think it's I think it's really cool and I think again there wasn't a cheat code
+
+00:46:50.660 --> 00:46:52.660
+for it. It didn't feel like you were cheating.
+
+00:46:53.680 --> 00:46:54.960
+It definitely feels like.
+
+00:46:55.080 --> 00:46:56.620
+You're just playing the game at whatever pace you want to play it.
+
+00:46:56.620 --> 00:47:00.980
+Right it feels less rewarding I guess at the end to get there but but it still feels like
+
+00:47:00.980 --> 00:47:05.220
+a victory to get to the end regardless of how you do it because you only have three lines
+
+00:47:05.220 --> 00:47:08.320
+Every stage that I complete in that game feels like a victory.
+
+00:47:08.640 --> 00:47:09.840
+I'm not very good at Mario.
+
+00:47:10.420 --> 00:47:16.320
+Well I think like that's that's a totally like that's fine because Super Mario Brothers more
+
+00:47:16.320 --> 00:47:20.240
+so than even like Super Mario Brothers 3 which a lot of people consider a better game.
+
+00:47:20.520 --> 00:47:25.100
+I think Super Mario Brothers is still very hard in terms of the level design just because
+
+00:47:25.100 --> 00:47:30.040
+there are so many enemies that will just pop up at the last second when you're not expecting
+
+00:47:30.040 --> 00:47:35.140
+them. There's so many enemies that will lead you to like trap holes when you're when you're trying
+
+00:47:35.140 --> 00:47:35.960
+to jump over them.
+
+00:47:35.960 --> 00:47:41.620
+Even like later on there's some dirty stuff in like World 4 and 6 where it's like you
+
+00:47:41.620 --> 00:47:47.180
+only have like a one block platform between you and two gaps and it's like if you're not
+
+00:47:47.180 --> 00:47:51.440
+really like and remember this is like a lot of people's introduction to platformers in
+
+00:47:51.440 --> 00:47:56.320
+general like you know there were games like Pitfall that arguably are more adventure game
+
+00:47:56.320 --> 00:48:00.720
+than platformer but you know they involve like running and jumping and stuff like that but
+
+00:48:00.720 --> 00:48:04.380
+for a lot of people Super Mario Brothers is that first foray into it and to ask them to do
+
+00:48:04.380 --> 00:48:08.100
+like challenging stuff like this it's no wonder that a game like this would take a long time
+
+00:48:08.100 --> 00:48:08.940
+to beat. Yeah.
+
+00:48:09.360 --> 00:48:16.520
+I think that there is also a slight hint of randomness in some of the enemies behaviors
+
+00:48:16.520 --> 00:48:23.360
+too. Say like once you enter a level the Piranha Plant might just be might come up immediately.
+
+00:48:23.820 --> 00:48:25.980
+Sometimes it'll wait a few moments to come up.
+
+00:48:26.060 --> 00:48:28.160
+A good trick with the Piranha Plant I'm not sure if you noticed this.
+
+00:48:28.320 --> 00:48:30.220
+This is something I've been doing for a very long time.
+
+00:48:30.380 --> 00:48:32.040
+So there's two tricks actually I want to talk about.
+
+00:48:32.040 --> 00:48:36.540
+First trick is Piranha Plant will never appear if you hug the warp pipe.
+
+00:48:36.760 --> 00:48:40.340
+So there comes a certain point where they're just not going to pop up anymore.
+
+00:48:40.420 --> 00:48:45.020
+Oh. And so like if you just like if you just be patient about it and get close enough to the
+
+00:48:45.020 --> 00:48:48.460
+warp pipe they'll know not to program him to keep coming up and down.
+
+00:48:48.700 --> 00:48:51.160
+So that's a good way to like cheese the system.
+
+00:48:51.420 --> 00:48:54.920
+But another one that's like this is advanced but it's actually talked about.
+
+00:48:55.140 --> 00:48:59.860
+I think I know this one. Yeah this is talked about in like the Nintendo Fan Club and stuff like that which is the magazine
+
+00:48:59.860 --> 00:49:05.940
+that predates the Nintendo Power magazine is that if you are running at a like max speed
+
+00:49:05.940 --> 00:49:11.980
+and you know the like you know your trajectory of your height you can actually just jump right
+
+00:49:11.980 --> 00:49:18.080
+over those guys. It will look like you are hitting the Piranha Plant but you will make a perfect circle around
+
+00:49:18.080 --> 00:49:25.300
+them. And it seems really hard to do but I swear just try it a few times and it is like the most
+
+00:49:25.300 --> 00:49:30.520
+satisfying thing in the game for me no doubt like jumping perfectly over those Piranha
+
+00:49:30.520 --> 00:49:34.220
+Plants is something that I could do again and again and again and occasionally there's
+
+00:49:34.220 --> 00:49:39.760
+still going to be a time where like I do get knocked down by them you know and okay I lost
+
+00:49:39.760 --> 00:49:44.560
+a life. Yeah I lost a life trying to be cool but for the most part I nailed that now and I think
+
+00:49:44.560 --> 00:49:45.880
+it's just muscle memory at this point.
+
+00:49:46.100 --> 00:49:50.860
+Yeah. But it's a really cool thing to do and I like that like each enemy kind of has that thing
+
+00:49:50.860 --> 00:49:57.260
+going for them. You know there's the with the Koopa Troopas going down the pyramid steps there's that way
+
+00:49:57.260 --> 00:49:58.380
+to get the infinite one up.
+
+00:49:58.620 --> 00:49:59.640
+Yeah I know you're talking about.
+
+00:49:59.680 --> 00:50:03.220
+Hit on them and then you can bash them into the platform but they'll keep hitting Mario
+
+00:50:03.220 --> 00:50:09.700
+and so the first thing is 200 points hit him again 400, 600, 800, 1000, 2000, one up,
+
+00:50:09.920 --> 00:50:13.000
+one up, one up, one up and I kid you not it's a real trick in the game.
+
+00:50:13.120 --> 00:50:15.500
+Yeah and then you can actually game over that way.
+
+00:50:15.500 --> 00:50:18.760
+You can? I think if you keep doing it like there's a bad buffer overflow.
+
+00:50:18.760 --> 00:50:20.500
+Oh yeah the intergera like overflow.
+
+00:50:20.880 --> 00:50:24.320
+Yeah yeah yeah yeah. It actually will but it'll go on for a while before you do game over it.
+
+00:50:24.320 --> 00:50:25.680
+I think it hits 99 and then 0.
+
+00:50:25.880 --> 00:50:31.900
+No I think I think that it actually goes into weird symbols after that like yeah it starts
+
+00:50:31.900 --> 00:50:32.740
+generating like.
+
+00:50:33.780 --> 00:50:35.260
+Like whatever character is in that.
+
+00:50:35.380 --> 00:50:40.920
+Yeah like yeah character icons and stuff like that very weird stuff even just sprites like
+
+00:50:40.920 --> 00:50:44.340
+you know core like the spikes of the spiny and stuff like that will show up.
+
+00:50:44.340 --> 00:50:47.620
+So it does take a while to get there but that's kind of like that reminds me of I don't know
+
+00:50:47.620 --> 00:50:51.860
+if anybody else who listens to the podcast familiar with this but like glitching in Pokemon
+
+00:50:51.860 --> 00:50:53.000
+Red and Blue. Oh yeah.
+
+00:50:53.100 --> 00:50:56.760
+Like and how like after a while if you like exceed an inventory thing with the missing
+
+00:50:56.760 --> 00:50:58.620
+no trick. Yeah you just get random tiles.
+
+00:50:58.780 --> 00:51:01.060
+You'd be like oh no. How many of these do I have?
+
+00:51:01.220 --> 00:51:02.300
+Yeah. I don't know.
+
+00:51:02.560 --> 00:51:07.120
+You might have like 288 and then you wind up fighting a 212 level Voltorb.
+
+00:51:20.220 --> 00:51:21.460
+Weird things just happen.
+
+00:51:21.560 --> 00:51:24.380
+We do that and that's of course no different in Super Mario Brothers.
+
+00:51:24.780 --> 00:51:28.360
+Weird things start happening in that game just like the Minus Zone.
+
+00:51:28.360 --> 00:51:32.920
+Yeah. I've never actually first hand come into contact with it but I've seen it.
+
+00:51:33.080 --> 00:51:34.800
+And I don't know what it is.
+
+00:51:34.940 --> 00:51:40.920
+Okay so real quick the Minus Zone and again not something I have pulled off either but it's
+
+00:51:40.920 --> 00:51:49.100
+intriguing enough. The Minus Zone is basically in the underground level of like 2-1 or 2-2 when you are well I
+
+00:51:49.100 --> 00:51:53.200
+guess it's 2-2 or 1-2 I guess like any of the underworld levels could theoretically do
+
+00:51:53.200 --> 00:51:55.600
+it as long as they have a warp zone world behind them.
+
+00:51:55.600 --> 00:51:59.020
+Okay. So I think it would be 1-2 for sure would definitely have 1.
+
+00:51:59.240 --> 00:52:02.120
+I actually don't think 2-2 is an underground level now that I think about it.
+
+00:52:02.300 --> 00:52:08.940
+Don't think so. But 1-2 is definitely an underground level and what you do is you do a backwards jump right
+
+00:52:08.940 --> 00:52:12.680
+in between like the you know and it looks like a solid wall because you got the warp
+
+00:52:12.680 --> 00:52:17.320
+pipe there and then you got the bricks but you'll actually glitch through the bricks walking
+
+00:52:17.320 --> 00:52:21.280
+backwards through them and you'll wind up in the warp pipe zone.
+
+00:52:21.280 --> 00:52:26.440
+The tricky thing is is that the warp pipe zones haven't loaded correctly so instead it just
+
+00:52:26.440 --> 00:52:30.340
+says you know like welcome to the warp zone minus 1.
+
+00:52:30.520 --> 00:52:35.020
+You know like there's only one warp pipe there it's not go to world 2, 3 or 4 it's just go
+
+00:52:35.020 --> 00:52:40.640
+to this one thing and it's world minus 1 which apparently is caused from again like an integer
+
+00:52:40.640 --> 00:52:43.500
+overflow. Yeah which is also just kind of creepy if you think about it.
+
+00:52:43.520 --> 00:52:45.700
+It is really creepy. Here's where it gets even creepier though.
+
+00:52:45.700 --> 00:52:50.760
+The level just goes on for it's an underwater level and it just goes on for like ever and
+
+00:52:50.760 --> 00:52:55.520
+ever and you can't beat it so you just time out until your death and then you do that two
+
+00:52:55.520 --> 00:52:57.340
+more times assuming you have three lives.
+
+00:52:57.540 --> 00:53:00.400
+So you just keep doing that until you die and you go back to the title screen.
+
+00:53:00.740 --> 00:53:02.460
+The only other way out of it is to reset.
+
+00:53:02.680 --> 00:53:09.240
+That's crazy. So yeah really do not take Mario to the minus zone and I believe there are even like some
+
+00:53:09.240 --> 00:53:14.420
+weird ways to like generate all different kinds of minus zones depending on like which level
+
+00:53:14.420 --> 00:53:19.800
+you do it out of and there's like technically like a lot more programmed because it's just
+
+00:53:19.800 --> 00:53:21.160
+they're randomly programmed.
+
+00:53:21.960 --> 00:53:23.600
+It's like playing with witchcraft though.
+
+00:53:23.880 --> 00:53:24.860
+Exactly. That's what it feels like.
+
+00:53:24.920 --> 00:53:26.540
+This is what King Koopa wants you to do.
+
+00:53:26.900 --> 00:53:33.240
+Right. And this was actually fixed though in Super Mario Brothers 2 I want to say.
+
+00:53:33.320 --> 00:53:34.640
+Let me just check my notes real quick.
+
+00:53:34.900 --> 00:53:37.840
+Yeah. So checking over the notes it's actually it's not Super Mario Brothers 2.
+
+00:53:38.060 --> 00:53:43.020
+It's the Famicom disc version of this game because they would release it of course once
+
+00:53:43.020 --> 00:53:46.180
+the Famicom disc system was in like full force.
+
+00:53:46.580 --> 00:53:50.720
+When they did it there it actually allows you to play completable levels when you get to
+
+00:53:50.720 --> 00:53:52.660
+the minus zone. That's so that's pretty cool.
+
+00:53:52.720 --> 00:53:58.780
+I think that is kind of cool and I'm not sure if they're actually made by like Miyamoto and
+
+00:53:58.780 --> 00:54:03.200
+Tezuka or if they're just like randomly generated again kind of how the other game did it.
+
+00:54:03.540 --> 00:54:05.280
+But I think it is nice that they at least like.
+
+00:54:05.480 --> 00:54:06.500
+They canonized it.
+
+00:54:06.700 --> 00:54:10.380
+Yeah. And I wonder if that's something that they ever knew about like oh there's a problem and
+
+00:54:10.380 --> 00:54:13.360
+we don't know how to fix it like in time for the launch.
+
+00:54:14.120 --> 00:54:18.760
+Or if they like found out about it through like you know like mail being like hey I found
+
+00:54:18.760 --> 00:54:19.680
+this weird thing today.
+
+00:54:19.820 --> 00:54:24.060
+It had to have been post launch. I think I think it's definitely something that was like talked about because I mean this
+
+00:54:24.060 --> 00:54:26.680
+is the most talked about game at the time.
+
+00:54:26.880 --> 00:54:30.860
+So probably somebody picked up the story and then it became like a playground rumor.
+
+00:54:31.020 --> 00:54:34.240
+You know like did you know about the minus zone where Mario goes to die?
+
+00:54:35.800 --> 00:54:37.220
+Is Mario haunted?
+
+00:54:37.220 --> 00:54:39.380
+So you talked about the music Sam.
+
+00:54:39.800 --> 00:54:41.900
+Obviously that was the overworld theme you were doing.
+
+00:54:42.200 --> 00:54:46.400
+Did anybody else also feel and maybe this is just me listening to Mario throughout the
+
+00:54:46.400 --> 00:54:51.960
+years. Is the overworld theme in this game just a little slightly different than how we're
+
+00:54:51.960 --> 00:54:54.660
+used to hearing the Super Mario Brothers theme these days.
+
+00:54:54.920 --> 00:54:58.060
+You know it's like and I'm not going to do a whole song here but I'm going to do it
+
+00:54:58.060 --> 00:54:59.220
+to the best of my abilities right.
+
+00:55:04.660 --> 00:55:06.280
+That's how I remember it.
+
+00:55:06.480 --> 00:55:08.340
+It doesn't really sound like that in the game.
+
+00:55:08.560 --> 00:55:09.540
+I think it's got it's lower.
+
+00:55:09.960 --> 00:55:16.400
+It's lower. I think it's got a couple more of those passing notes or I don't know that this is the correct
+
+00:55:16.400 --> 00:55:22.120
+term for it. Well here's the thing with it because it has it harmonizes each one of those notes and
+
+00:55:26.540 --> 00:55:31.400
+like has another note that's playing at the same time as a harmony for it that just like
+
+00:55:31.400 --> 00:55:33.660
+makes it sound just even weirder.
+
+00:55:34.020 --> 00:55:37.780
+So are you saying that but that's like as you're playing the game like like so if I
+
+00:55:37.780 --> 00:55:38.620
+hit like a block.
+
+00:55:38.860 --> 00:55:42.640
+The first time first time you hear it it's it's playing two notes it's not just playing
+
+00:55:42.640 --> 00:55:44.880
+do do do it's playing two notes at the same time.
+
+00:55:45.080 --> 00:55:49.560
+Okay. Yeah. But what is that second note I guess is what I'm asking like so you're saying it's
+
+00:55:49.560 --> 00:55:51.720
+playing two notes. It's like it's like a base note.
+
+00:55:51.960 --> 00:55:53.900
+It's like it's like a fifth or a third.
+
+00:55:53.920 --> 00:55:54.860
+I gotcha. Okay. I'm sorry.
+
+00:55:54.940 --> 00:55:56.640
+I thought you meant like it was another game.
+
+00:55:56.640 --> 00:56:03.000
+But by but just by playing the game you will affect the song just simply because any noise
+
+00:56:03.000 --> 00:56:10.140
+that you are generating whether it's the jump noise or attacking a attacking an enemy.
+
+00:56:10.760 --> 00:56:17.060
+It does like the NES does not know how to have that much sound going on so it will take part
+
+00:56:17.060 --> 00:56:20.580
+it will remove part of the song and will add that noise.
+
+00:56:20.840 --> 00:56:22.580
+Not gonna lie threw me off a little bit.
+
+00:56:22.760 --> 00:56:27.740
+That's why I bring it up. It's kind of weird not hearing it the way that I'm so familiar and I feel like this
+
+00:56:27.740 --> 00:56:29.220
+was fixed in Super Mario All-Stars.
+
+00:56:29.500 --> 00:56:32.860
+Well yeah it had another I think it had another audio track.
+
+00:56:33.320 --> 00:56:39.600
+Yeah. Well this is like it's like I do the chip tunes music and in that in this very podcast.
+
+00:56:39.820 --> 00:56:41.560
+Yeah. And that you only have four tracks.
+
+00:56:41.860 --> 00:56:48.320
+You have two pulse wave channels another just wave generator channel and then a white noise
+
+00:56:48.320 --> 00:56:54.360
+channel. So all the drums in Mario are just little white noise like you know that kind of thing.
+
+00:56:54.760 --> 00:56:55.800
+Tenured fight walks.
+
+00:56:56.060 --> 00:57:02.000
+Yeah exactly. The wave channel is doing like all these bass notes.
+
+00:57:04.460 --> 00:57:05.300
+Like those kind of things.
+
+00:57:05.420 --> 00:57:08.160
+That's the wave channel. And then the other I think it's also using four channels.
+
+00:57:08.420 --> 00:57:12.860
+And then the other two channels are you know the main melody and then the counter melody
+
+00:57:12.860 --> 00:57:13.840
+that's doing the harmony.
+
+00:57:14.040 --> 00:57:15.100
+It's not really a counter melody.
+
+00:57:15.240 --> 00:57:16.100
+It's just the harmony. Mm-hmm.
+
+00:57:16.760 --> 00:57:21.640
+And I think that that second a harmony channel is also doing the sound effects.
+
+00:57:22.040 --> 00:57:23.400
+Yeah. But I'm not I'm not sure.
+
+00:57:23.580 --> 00:57:24.720
+Yeah. It could be the wave channel.
+
+00:57:24.880 --> 00:57:28.300
+And I think like if you're one of those people who plays this game and like an emulator
+
+00:57:28.300 --> 00:57:31.780
+one thing that's really cool to try and do even if you even if you can't get a hold of
+
+00:57:31.780 --> 00:57:37.540
+an emulator but if you have like a NSF player which dot NSFs are like the music files behind
+
+00:57:37.540 --> 00:57:38.420
+NES games.
+
+00:57:38.420 --> 00:57:43.640
+Mm-hmm. When you're playing around with the different channels and turning some of them down I think
+
+00:57:43.640 --> 00:57:47.160
+there's eight channels technically on like an NES and it's like different things like
+
+00:57:47.160 --> 00:57:48.560
+triangle and stuff like that.
+
+00:57:48.740 --> 00:57:53.120
+Mm-hmm. When you bring certain ones down you can actually single out elements like you're talking about.
+
+00:57:53.280 --> 00:57:56.360
+And it is kind of cool to just hear like just the drum beat you know.
+
+00:57:56.520 --> 00:57:58.960
+Mm-hmm. Of the ch-ch-ch-ch-ch-ch-ch-ch-ch.
+
+00:57:59.060 --> 00:57:59.880
+And it's not that.
+
+00:58:00.180 --> 00:58:02.000
+Yeah. But that's my best interpretation of it.
+
+00:58:02.100 --> 00:58:03.040
+I'm not musically inclined.
+
+00:58:03.240 --> 00:58:06.080
+That's why Sam does our theme songs and all that stuff.
+
+00:58:06.540 --> 00:58:10.640
+But I wanted to talk about music also on like a you know which is your favorite track?
+
+00:58:10.880 --> 00:58:14.340
+I mean there's really like four tracks in this game if you think about it.
+
+00:58:14.460 --> 00:58:16.440
+I actually prefer the Underground song.
+
+00:58:16.900 --> 00:58:18.680
+I think that that's got.
+
+00:58:18.680 --> 00:58:21.480
+Can you give us a little? What?
+
+00:58:21.860 --> 00:58:23.260
+That's not how it goes.
+
+00:58:23.360 --> 00:58:24.800
+I think most people know it like.
+
+00:58:25.140 --> 00:58:26.040
+Do-do-do-do-do-do.
+
+00:58:26.660 --> 00:58:29.540
+No it goes. That's a whale.
+
+00:58:30.340 --> 00:58:31.460
+You just did a whale.
+
+00:58:31.680 --> 00:58:32.520
+That's a baby whale.
+
+00:58:32.780 --> 00:58:33.820
+Maybe a baby whale.
+
+00:58:33.900 --> 00:58:37.620
+I'm sorry. Oh that sounds very nice I bet.
+
+00:58:38.140 --> 00:58:39.260
+Dun-da-dun-dun-dun-dun.
+
+00:58:39.480 --> 00:58:41.200
+Are you going to do a vocal arranged version?
+
+00:58:41.560 --> 00:58:43.400
+Dun-da-dun-dun-dun-dun-dun-dun.
+
+00:58:43.420 --> 00:58:44.300
+Okay. But yeah.
+
+00:58:44.440 --> 00:58:46.100
+No. I like that one a bit better.
+
+00:58:46.260 --> 00:58:47.520
+It's got more menace to it.
+
+00:58:48.220 --> 00:58:49.160
+It feels. You know what?
+
+00:58:49.260 --> 00:58:50.200
+It feels underground.
+
+00:58:50.700 --> 00:58:52.520
+Yeah. It does. It's so underground.
+
+00:58:52.760 --> 00:58:55.540
+It feels underground. Like there's like a hard way to explain it.
+
+00:58:55.860 --> 00:58:58.340
+There's got to be like some 30 year old bias here.
+
+00:58:58.620 --> 00:59:00.400
+It's a perfect atmosphere for it.
+
+00:59:00.580 --> 00:59:01.980
+You know. For each one of them.
+
+00:59:02.060 --> 00:59:05.180
+Yeah. One of my favorite ones is the underwater theme.
+
+00:59:06.200 --> 00:59:07.480
+We got to hear it now Sam.
+
+00:59:07.660 --> 00:59:10.100
+Sam campus. Right?
+
+00:59:10.520 --> 00:59:15.000
+Yeah, it's kind of like, you guys are definitely, I'm not saying you're wrong, but you're working
+
+00:59:15.000 --> 00:59:16.420
+how I hear these songs, okay?
+
+00:59:16.500 --> 00:59:17.840
+I'm used to like...
+
+00:59:22.080 --> 00:59:24.780
+You don't like my jazzified version of the Underground song?
+
+00:59:24.800 --> 00:59:28.420
+I actually want to hear a whole album where you do stuff like that, just spoken word.
+
+00:59:28.580 --> 00:59:29.640
+Yeah, stay tuned, guys.
+
+00:59:30.000 --> 00:59:34.620
+Yeah, no, like the water level, that's like such a free-flowing, kind of happy tune.
+
+00:59:34.840 --> 00:59:35.840
+It's like, hey, you're underwater.
+
+00:59:35.840 --> 00:59:40.080
+It's funny because that song, it doesn't deserve that.
+
+00:59:40.140 --> 00:59:41.000
+I get it.
+
+00:59:41.080 --> 00:59:42.000
+I know what you're saying.
+
+00:59:42.100 --> 00:59:43.180
+It does sound like it's underwater.
+
+00:59:43.440 --> 00:59:47.060
+It doesn't deserve that because the underwater levels are the most frustrating part of the game.
+
+00:59:47.180 --> 00:59:49.280
+No, the underwater levels suck.
+
+00:59:49.300 --> 00:59:51.460
+And that music starts to taunt you after a while.
+
+00:59:51.600 --> 00:59:54.420
+Yeah, but that's part of it, why it's so good.
+
+00:59:54.540 --> 01:00:00.700
+Part of the reason why the underwater levels suck is because they take away the best mechanic
+
+01:00:00.700 --> 01:00:01.660
+of the game.
+
+01:00:01.740 --> 01:00:04.940
+The jump is gone and replaced with this info-jump.
+
+01:00:04.940 --> 01:00:09.580
+And I don't really think that feels that well, controlling the info-jump, as I call it.
+
+01:00:09.780 --> 01:00:10.800
+Because here's why.
+
+01:00:11.200 --> 01:00:14.240
+Sometimes you hit that button and you can go pretty far up.
+
+01:00:14.380 --> 01:00:16.580
+Other times he does like this half-step.
+
+01:00:16.760 --> 01:00:18.260
+Yeah. And he just keeps falling.
+
+01:00:18.400 --> 01:00:22.820
+This would be fine, you know, if you were trying to simulate like the roughness of the ocean or something.
+
+01:00:23.080 --> 01:00:26.800
+But it's not fine when you have bloopers all over you, okay?
+
+01:00:26.800 --> 01:00:28.680
+I'm cool with the Cheep Cheeps coming by.
+
+01:00:29.020 --> 01:00:30.880
+Cheep Cheeps. That's what they're called.
+
+01:00:30.880 --> 01:00:33.880
+I know, but just the words that you're saying and then the info-jump.
+
+01:00:34.140 --> 01:00:35.180
+Yeah. And you know what?
+
+01:00:35.240 --> 01:00:37.040
+There's a lot. This is Super Mario slang.
+
+01:00:37.360 --> 01:00:40.060
+Okay? This is like the kids know about this stuff.
+
+01:00:40.120 --> 01:00:42.760
+Yeah. Okay? And Cheep Cheeps are like, they're fine.
+
+01:00:42.900 --> 01:00:44.580
+They're kind of like this thing that just floats by.
+
+01:00:44.820 --> 01:00:45.900
+You know, take them or leave them.
+
+01:00:46.240 --> 01:00:48.920
+They're pretty easy obstacles to avoid.
+
+01:00:49.340 --> 01:00:50.480
+Bloopers. They go after you.
+
+01:00:50.580 --> 01:00:51.940
+These guys are like, yeah, but you know what?
+
+01:00:51.940 --> 01:00:56.300
+Not only do they go after you, but if you stay in a particular spot, right, they just
+
+01:00:56.300 --> 01:00:58.140
+kind of like, they like wait.
+
+01:00:58.400 --> 01:01:00.060
+They like hover right around that same spot.
+
+01:01:00.140 --> 01:01:01.540
+They're not going to keep floating around.
+
+01:01:01.640 --> 01:01:03.920
+They're not going to float toward you. They just wait for you.
+
+01:01:04.040 --> 01:01:07.700
+And it's like next to Hammer Brothers, next to Hammer Brothers, they're some of the most
+
+01:01:07.700 --> 01:01:08.860
+vicious enemies in the game.
+
+01:01:09.620 --> 01:01:10.600
+Really not a fan of bloopers.
+
+01:01:10.780 --> 01:01:12.500
+Really not a fan of the info-jump.
+
+01:01:12.720 --> 01:01:18.200
+And water levels in general just like distarts that notion that water levels are garbage.
+
+01:01:18.620 --> 01:01:21.100
+You know, like this is, when did we had a, think about it.
+
+01:01:21.740 --> 01:01:24.460
+In all the other NES launch games, was there a water level?
+
+01:01:24.980 --> 01:01:28.560
+No. You could argue Klu Klu Land takes place underwater.
+
+01:01:30.740 --> 01:01:33.360
+But that definitely didn't control like a water game.
+
+01:01:33.540 --> 01:01:36.740
+Like I never, well, maybe actually now that you think about it, maybe that's why those
+
+01:01:36.740 --> 01:01:37.640
+turns are so slippery.
+
+01:01:38.040 --> 01:01:39.800
+I mean, that's not how I move underwater.
+
+01:01:40.080 --> 01:01:42.440
+It's not how you move because you're not bubbles.
+
+01:01:42.880 --> 01:01:45.740
+That's true. Yeah, moving along here.
+
+01:01:46.360 --> 01:01:47.600
+So we were talking about the music.
+
+01:01:47.960 --> 01:01:50.040
+So Sam said his favorite is underwater.
+
+01:01:50.040 --> 01:01:51.740
+Sean, you said underground.
+
+01:01:54.120 --> 01:01:56.400
+Guys, I'm having a little bit of a stroke here right now.
+
+01:01:56.600 --> 01:01:57.560
+If you want me to sing it again.
+
+01:01:57.640 --> 01:01:58.640
+I don't think I want to say this again.
+
+01:01:58.760 --> 01:01:59.820
+I think I'm going to just.
+
+01:01:59.820 --> 01:02:00.740
+Yeah, what's your favorite, Mike?
+
+01:02:00.760 --> 01:02:02.260
+Thank you so much for asking me.
+
+01:02:02.480 --> 01:02:05.820
+And I'm going to be boring and say that it is the overworld theme just because.
+
+01:02:06.060 --> 01:02:07.840
+You're so basic. Well, here's why though.
+
+01:02:07.940 --> 01:02:09.100
+It's such a good theme. Yeah.
+
+01:02:09.260 --> 01:02:11.540
+The other themes have all stayed with us too, right?
+
+01:02:11.680 --> 01:02:13.580
+So it's like we never lost the underwater theme.
+
+01:02:13.680 --> 01:02:15.640
+You can still hear that in new Super Mario Brothers games.
+
+01:02:15.640 --> 01:02:20.880
+We didn't even lose the dungeon theme, I guess I'll call it, for like the fourth level of each world.
+
+01:02:21.360 --> 01:02:23.240
+I mean, that's pretty spooky too.
+
+01:02:23.440 --> 01:02:28.200
+Yeah. But the thing about the overworld is it's synonymous with Mario now.
+
+01:02:28.360 --> 01:02:29.920
+Like you can't have anybody not.
+
+01:02:30.020 --> 01:02:33.200
+And everybody has like their own lyrics to it too, which is kind of weird.
+
+01:02:33.280 --> 01:02:37.660
+I always associate it with do the Mario, which is part of the Super Mario Brothers Super Show.
+
+01:02:37.660 --> 01:02:42.280
+But like I've seen other versions where, and maybe this is something that just was done earlier,
+
+01:02:42.540 --> 01:02:48.020
+but people had like a lyrical pattern to the song to sing about Mario.
+
+01:02:48.020 --> 01:02:52.780
+And it's just like, it's just neat that like people hear this song and they immediately think of Mario.
+
+01:02:52.900 --> 01:02:57.680
+I can't think of actually like a more iconic song for video games.
+
+01:02:58.420 --> 01:03:03.520
+Not like, wow, Stairway to Heaven or Super Mario Brothers overworld theme.
+
+01:03:03.900 --> 01:03:05.520
+You know, I guess you could argue.
+
+01:03:05.520 --> 01:03:08.760
+I would argue that more people know the Mario than Stairway to Heaven.
+
+01:03:08.880 --> 01:03:09.780
+You know what? I would say so.
+
+01:03:09.900 --> 01:03:12.200
+It sounds about right actually if you think about it.
+
+01:03:12.380 --> 01:03:16.820
+But I mean like what other kind of video game themes are there that are like that level?
+
+01:03:17.100 --> 01:03:20.440
+You know, there's a lot of other Nintendo games, I guess.
+
+01:03:20.580 --> 01:03:25.000
+Like Zelda has, you know, like what would you, what would Zelda song would you pick?
+
+01:03:25.080 --> 01:03:28.520
+I'd probably do the. Yeah, I think it would be that overworld theme too.
+
+01:03:28.760 --> 01:03:30.440
+Some people might say it's the menu music.
+
+01:03:30.460 --> 01:03:33.140
+What about the battle music from Shin Megami Tensei IV?
+
+01:03:33.460 --> 01:03:35.300
+You know what? I can't believe, screw it.
+
+01:03:35.300 --> 01:03:36.780
+That's actually, that's the answer.
+
+01:03:38.340 --> 01:03:41.840
+Now are you talking about Shin Megami Tensei IV or Shin Megami Tensei IV Apocalypse?
+
+01:03:42.920 --> 01:03:44.220
+Four. Okay, yeah.
+
+01:03:44.800 --> 01:03:46.800
+Some people might say Apocalypse is the definitive version.
+
+01:03:47.320 --> 01:03:51.820
+I'll tell you what, Super Mario overworld theme is definitely the definitive Mario song for me.
+
+01:03:51.920 --> 01:03:55.600
+I would say like in gaming also, like the Halo theme is big.
+
+01:03:55.800 --> 01:03:57.540
+But Mario isn't just in gaming.
+
+01:03:57.720 --> 01:04:00.180
+Like you don't have to know anything about games to know the Mario song.
+
+01:04:00.180 --> 01:04:02.760
+Yeah, you just heard the song somewhere regardless.
+
+01:04:03.080 --> 01:04:17.840
+Yeah. It's funny that this game turns Mario into a mascot for Nintendo.
+
+01:04:17.840 --> 01:04:22.780
+But at this point, Mario's like, he might even be more notable if you think about it than Mickey Mouse.
+
+01:04:22.880 --> 01:04:23.740
+And here's why I'm going to say that.
+
+01:04:23.920 --> 01:04:25.820
+Because they don't use Mickey Mouse that often.
+
+01:04:26.020 --> 01:04:28.980
+Like he's the face of Disney if you think about it.
+
+01:04:29.060 --> 01:04:33.020
+But when was the last time there was like a Mickey movie or something like that?
+
+01:04:33.020 --> 01:04:40.420
+You know, like Mickey is now, I think like Mickey isn't as welcomed as Mario is if he really, I mean like, I don't want to get into a whole debate here.
+
+01:04:40.620 --> 01:04:46.500
+But am I wrong to think that like if a Mickey Mouse movie comes out tomorrow, it's not necessarily going to be a great movie.
+
+01:04:46.580 --> 01:04:49.960
+If a Mario Brothers game comes out tomorrow, it's probably going to be a pretty good game.
+
+01:04:50.200 --> 01:04:51.000
+Well, here's my.
+
+01:04:51.060 --> 01:04:51.880
+Okay, go ahead.
+
+01:04:52.020 --> 01:04:53.680
+Okay, here's my thing with that.
+
+01:04:53.960 --> 01:04:57.180
+Mickey Mouse is weird, but pretends he's not weird, right?
+
+01:04:57.800 --> 01:04:59.640
+Mario is like, it's me, Mario.
+
+01:04:59.640 --> 01:05:03.740
+You know, like he knows it's a weird thing, there's mushrooms everywhere, and he just owns it.
+
+01:05:04.020 --> 01:05:05.760
+That's my dispute with Mickey.
+
+01:05:05.940 --> 01:05:15.140
+I want to say that I think just because Mickey Mouse has had about 100 years or so to develop brand awareness,
+
+01:05:15.560 --> 01:05:25.780
+I would say that while Nintendo gets a hell of a lot more utility out of Mario, I think that, I think Mickey still has him beat.
+
+01:05:26.000 --> 01:05:27.840
+Okay. And that's what we need.
+
+01:05:27.840 --> 01:05:30.160
+We need a devil's advocate on this show.
+
+01:05:30.300 --> 01:05:31.400
+I'm not being a devil's advocate.
+
+01:05:31.540 --> 01:05:35.980
+That's just what I feel. We need a guy who hates Mario and is probably going to vote him out of the essential games list.
+
+01:05:36.180 --> 01:05:37.020
+You know, we just need.
+
+01:05:37.160 --> 01:05:38.020
+You never know, Mike.
+
+01:05:38.180 --> 01:05:40.540
+Everybody needs a dark wizard Koopa.
+
+01:05:40.880 --> 01:05:43.200
+Dark wizard. I believe it's sorcerer.
+
+01:05:43.380 --> 01:05:45.140
+I'm pretty sure they refer to him as a sorcerer.
+
+01:05:45.360 --> 01:05:48.320
+Okay. Well, it's funny that you mentioned that, or I mentioned it, I guess.
+
+01:05:48.540 --> 01:05:53.140
+It's funny that. It's funny that I mentioned that because this is going to segue great into the next fact I have to bring up,
+
+01:05:53.140 --> 01:06:01.340
+which is that Bowser in the Japanese version is actually referred to as the great demon king Koopa.
+
+01:06:01.820 --> 01:06:03.520
+Like, that's pretty, that's pretty dope.
+
+01:06:03.820 --> 01:06:07.260
+It's pretty metal. Like, I would be afraid to fight the great demon king.
+
+01:06:07.460 --> 01:06:09.520
+I know the Japanese have a thing with demons.
+
+01:06:09.520 --> 01:06:16.980
+Like, if you notice in video games in general, like, the last boss of any JRPG is usually, like, either a god or a demon.
+
+01:06:17.200 --> 01:06:20.420
+They kind of got a weird thing for, like, Christian symbolism.
+
+01:06:20.840 --> 01:06:27.600
+Like, it's not that, like, they really, they're, like, afraid of it or they find it very, very meaningful.
+
+01:06:27.600 --> 01:06:28.900
+They just kind of dig it.
+
+01:06:29.200 --> 01:06:33.180
+Like, they just like, like, demons and Bibles and stuff like that.
+
+01:06:33.180 --> 01:06:39.500
+I don't know about you guys, but even in this stage of Mario's, like, infancy, I wouldn't associate Bowser as a demon.
+
+01:06:39.920 --> 01:06:43.720
+No. Like, you know, like, they, they, he's definitely, he's a very bad turtle.
+
+01:06:43.940 --> 01:06:46.940
+Yeah, I mean, and they've, you know, cuddled him down a lot.
+
+01:06:47.120 --> 01:06:51.860
+Like, he's now kind of, like, this cute, adorable, fat thing that Mario fights occasionally.
+
+01:06:52.260 --> 01:06:55.960
+But, like, in this game, he still has, like, a pretty terrifying presence.
+
+01:06:56.440 --> 01:07:01.520
+But before we get into the, you know, the great big bad at the end, I just want to talk about some of the other enemies.
+
+01:07:01.520 --> 01:07:05.840
+So, we talked about, you know, like, some guys very, like, very quickly.
+
+01:07:06.220 --> 01:07:07.940
+But I just want to get your thoughts, all right?
+
+01:07:07.940 --> 01:07:10.900
+This is not like a, let's break down the Goomba.
+
+01:07:10.920 --> 01:07:12.240
+Okay? I don't want to do that.
+
+01:07:12.660 --> 01:07:13.940
+But yeah, just give me a couple words per guy.
+
+01:07:14.060 --> 01:07:14.920
+I'd love to hear your thoughts.
+
+01:07:14.920 --> 01:07:16.580
+And this, I think this could be fun if we do it right.
+
+01:07:16.800 --> 01:07:19.460
+Yeah. Okay? So, Sean, Goombas.
+
+01:07:19.800 --> 01:07:21.620
+Squishy. Ooh, that's, that's a good one.
+
+01:07:21.920 --> 01:07:23.300
+Sam, what do you got? I got Jump.
+
+01:07:23.600 --> 01:07:24.680
+That's, that's it. Jump.
+
+01:07:24.940 --> 01:07:26.580
+Could you associate, like, squashing them?
+
+01:07:26.700 --> 01:07:30.880
+Yeah, like the first, like the first level, they got that one Goomba that just, you know,
+
+01:07:30.880 --> 01:07:35.400
+shows you, like, listen, you got to jump over this guy or jump on him in order to get by.
+
+01:07:35.520 --> 01:07:36.400
+And that's just what I think.
+
+01:07:36.640 --> 01:07:37.660
+My thoughts on Goombas?
+
+01:07:37.980 --> 01:07:38.920
+Harmless. Okay?
+
+01:07:39.280 --> 01:07:42.980
+These guys couldn't, couldn't do anything to Mario if we really think about the situation.
+
+01:07:43.220 --> 01:07:44.820
+Like, if you don't, if you don't jump.
+
+01:07:45.080 --> 01:07:49.980
+No, no, no. I, I'm saying, like, the way that I always think about Goombas is, like, to me, they were
+
+01:07:49.980 --> 01:07:52.260
+that reference point of most useless enemy.
+
+01:07:52.260 --> 01:07:56.180
+Mm-hmm. Now, I'm not, I'm not denying that in Super Mario Brothers, they will kill you a lot.
+
+01:07:56.480 --> 01:08:00.480
+But I'm saying, if we're really looking at this Koopa tribe and what he's sending at
+
+01:08:00.480 --> 01:08:04.020
+us, the Goombas are, like, the least of our worries, you know?
+
+01:08:04.180 --> 01:08:08.920
+And it's just funny that they don't have arms, they just have these shoes, and they just,
+
+01:08:08.980 --> 01:08:11.940
+like, walk around and waddle, and it's just, it's very strange.
+
+01:08:12.380 --> 01:08:13.760
+Okay. Koopa Troopa, Sean.
+
+01:08:13.980 --> 01:08:15.420
+So this is just the walking one.
+
+01:08:15.480 --> 01:08:16.380
+Just the walking one.
+
+01:08:16.380 --> 01:08:18.280
+We got a special name for the flying ones.
+
+01:08:19.780 --> 01:08:21.120
+Just talk to me about it.
+
+01:08:21.220 --> 01:08:25.740
+I mean, he, these ones actually get me a lot more.
+
+01:08:26.260 --> 01:08:28.560
+I hate, well, they all get me a lot.
+
+01:08:28.760 --> 01:08:34.800
+I'm really, again, I'm really bad at the game, but I would say that I have been terrorized
+
+01:08:34.800 --> 01:08:36.440
+by, they get me.
+
+01:08:36.660 --> 01:08:37.980
+They get you. No, they get me, too.
+
+01:08:37.980 --> 01:08:40.960
+I've been terrorized by Koopa Troopas more than my fair share.
+
+01:08:41.200 --> 01:08:43.380
+Yeah. That's about, that's about on par for me.
+
+01:08:43.380 --> 01:08:48.820
+Yeah, I think the funny thing about a Koopa Troopa is that they don't get me in the sense
+
+01:08:48.820 --> 01:08:53.420
+that, like, I run into them as much as I might run into a Goomba, but they get me when I hit
+
+01:08:53.420 --> 01:08:58.420
+them on the shell, and then they accidentally, like, come back the other way, and that's
+
+01:08:58.420 --> 01:08:59.760
+frustrating. Oh, yeah.
+
+01:08:59.980 --> 01:09:03.760
+Very. Okay, so now, Sean, Koopa Paratroopas.
+
+01:09:04.120 --> 01:09:05.380
+We don't talk about those.
+
+01:09:05.880 --> 01:09:10.180
+I feel like those are, I like those in that you can use them for platforming, and sometimes
+
+01:09:10.180 --> 01:09:13.260
+you have to, and I think that that's, like, a cool way of taking out enemies.
+
+01:09:13.380 --> 01:09:17.840
+I like that you mentioned that because you can use them for platforming, and they usually
+
+01:09:17.840 --> 01:09:21.380
+get you up to, like, a higher platform if you time the jump right, but you're also, like,
+
+01:09:21.400 --> 01:09:22.260
+you're not punished.
+
+01:09:22.440 --> 01:09:25.880
+There's no, like, hit this Koopa Troopa, or you're falling into the pit.
+
+01:09:25.980 --> 01:09:27.620
+Well, in some later levels, aren't they?
+
+01:09:27.620 --> 01:09:30.780
+I meant, like, if you hit it, if you don't hit it at exactly the right time, like, even
+
+01:09:30.780 --> 01:09:34.460
+if you move forward, you'll still be able to land on something.
+
+01:09:34.860 --> 01:09:39.380
+Obviously, like, below, directly below the Koopa Troopa, Koopa Paratroopa would be a pit.
+
+01:09:39.620 --> 01:09:41.840
+Right. But nothing, like, yonder.
+
+01:09:42.640 --> 01:09:44.960
+Over yonder. So that's nice.
+
+01:09:44.980 --> 01:09:48.660
+It's not, like, so punishing, but it rewards the player if they can time it right.
+
+01:09:48.840 --> 01:09:49.860
+For me... Real quick. Yeah.
+
+01:09:50.240 --> 01:09:52.080
+What's the difference between the green ones and the red ones?
+
+01:09:52.160 --> 01:09:54.520
+So the green ones always just continue to move forward.
+
+01:09:54.680 --> 01:09:56.140
+Red ones stay on their platforms.
+
+01:09:56.380 --> 01:10:01.860
+Okay, cool. So if, yeah, they'll continue to walk back and forth, even if there's not a block to tell
+
+01:10:01.860 --> 01:10:04.240
+them to go the other way, they won't fall off the cliff.
+
+01:10:04.380 --> 01:10:06.340
+That makes the Super Smash Brothers shells make more sense.
+
+01:10:06.480 --> 01:10:09.080
+Yes. But they're also just, like, they're just intelligent, I guess.
+
+01:10:09.160 --> 01:10:10.280
+Like, the red ones have evolved.
+
+01:10:10.280 --> 01:10:13.100
+Like, hey, wait, if I fall off of this platform, I can die.
+
+01:10:13.240 --> 01:10:14.240
+Right. And they just learned.
+
+01:10:14.240 --> 01:10:18.560
+And so the green ones remain stupid, and they only mate with the other stupid green ones.
+
+01:10:18.660 --> 01:10:21.540
+And the red ones, you know, have evolved to a higher society.
+
+01:10:22.100 --> 01:10:27.460
+For me, Koopa Paratroopers, real fast, Koopa Paratroopers, I can't time them correctly.
+
+01:10:27.880 --> 01:10:32.420
+Whenever I think that I should jump to get on top of them, they jump with me, and then
+
+01:10:32.420 --> 01:10:33.840
+we collide, and it's stupid.
+
+01:10:34.060 --> 01:10:38.680
+But how come on that death screen, the Koopa Paratroopers don't also die?
+
+01:10:38.680 --> 01:10:40.780
+How about anything you run into for that matter?
+
+01:10:40.940 --> 01:10:44.900
+Like, if it kills me by walking into it, why aren't they hurt at all?
+
+01:10:45.060 --> 01:10:46.240
+Because you know what, Mike?
+
+01:10:46.400 --> 01:10:49.120
+Like, this is your fault.
+
+01:10:49.340 --> 01:10:51.140
+No one said the Mushroom Kingdom was going to be fair.
+
+01:10:51.140 --> 01:10:53.140
+Yeah, exactly. It's your failing.
+
+01:10:53.340 --> 01:10:56.260
+I just think that, you know, there should be a game theory on that.
+
+01:10:56.520 --> 01:10:58.480
+Yeah. Okay.
+
+01:10:59.320 --> 01:11:00.200
+Buzzy Beetle.
+
+01:11:00.500 --> 01:11:01.340
+Do you know who that is?
+
+01:11:01.480 --> 01:11:03.120
+Oh, yeah. That's the little helmet dudes.
+
+01:11:03.460 --> 01:11:08.600
+Yeah. Which is really cool that you mentioned helmet dudes, because in Super Mario Maker, which
+
+01:11:08.600 --> 01:11:12.880
+comes out 30 years later in this game, you can wear them as helmets.
+
+01:11:13.120 --> 01:11:16.020
+Unfortunately, not a design concept in Super Mario Brothers.
+
+01:11:17.020 --> 01:11:19.780
+Yeah. And their thing is that they can't get hit by fireballs.
+
+01:11:19.920 --> 01:11:21.720
+Which I think is nice. I think it's cool.
+
+01:11:21.840 --> 01:11:25.320
+It's cool that, like, not every enemy can just be destroyed with the click of a button.
+
+01:11:25.840 --> 01:11:26.840
+A click? Yeah.
+
+01:11:26.940 --> 01:11:27.960
+Are you clicking? Oh, okay.
+
+01:11:28.100 --> 01:11:28.920
+Click your B button. Yeah.
+
+01:11:29.060 --> 01:11:32.000
+Okay. I'm sorry. I guess, like, it's press is the right word.
+
+01:11:32.180 --> 01:11:33.640
+But, yeah, I think, like, click works here.
+
+01:11:33.920 --> 01:11:34.940
+Okay. Buzzy Beetle thoughts?
+
+01:11:35.520 --> 01:11:36.600
+No. Okay.
+
+01:11:36.700 --> 01:11:39.580
+Wow. Never really. You never have any dreams about the Buzzy Beetles.
+
+01:11:40.240 --> 01:11:43.060
+All right. So then let's move on to these guys are really tough.
+
+01:11:43.260 --> 01:11:45.400
+I'm talking about probably the hardest enemies in the game.
+
+01:11:45.640 --> 01:11:47.760
+The Hammer Brothers. I hate them.
+
+01:11:47.920 --> 01:11:52.980
+They suck. I never know if I'm supposed to take my time with them or just, like, rush in.
+
+01:11:53.180 --> 01:11:56.120
+See, when I rush in, they throw their hammer at me.
+
+01:11:56.280 --> 01:11:59.420
+But when I take my time with them, they throw their hammer at you.
+
+01:12:00.120 --> 01:12:03.640
+I notice that when I rush in, they jump down to the platform I'm on.
+
+01:12:03.900 --> 01:12:08.180
+Yeah. See, when I start rushing in on them, that's when they go down to the next platform.
+
+01:12:08.600 --> 01:12:15.180
+Yeah. I feel like if I can get there before they do that, if they're on top of one of the platforms,
+
+01:12:15.400 --> 01:12:17.560
+then I can get underneath them and kind of boop them from below.
+
+01:12:17.780 --> 01:12:19.600
+But there's sometimes where they're on the slopes.
+
+01:12:19.940 --> 01:12:23.080
+You know, in the beginning of, like, 5-1 or 5-2 or something like that.
+
+01:12:23.320 --> 01:12:24.520
+Oh, yeah. They're on the pyramid.
+
+01:12:24.560 --> 01:12:25.740
+There's one on the top of the pyramid.
+
+01:12:25.860 --> 01:12:27.760
+That one gets me because I don't know what I'm supposed to do.
+
+01:12:28.140 --> 01:12:33.300
+I'm not afraid to admit that, like, every single time I see these guys, my instinct is not to bop them,
+
+01:12:33.860 --> 01:12:35.960
+which is what I refer to as jumping on top of people.
+
+01:12:36.040 --> 01:12:36.880
+You call that a bop?
+
+01:12:37.200 --> 01:12:40.560
+Yeah. As opposed to a get, which is when they get you.
+
+01:12:40.820 --> 01:12:47.200
+Yeah, yeah, yeah. So this is a bop, and I don't want to do that to Hammer Brothers because you never know when they're just going to throw in that late hammer.
+
+01:12:47.520 --> 01:12:50.460
+Yeah. So what I do is I just avoid them at all costs.
+
+01:12:50.760 --> 01:12:55.920
+I mean, that's the best way. And, yeah, I think that, like, you know, in the end, the Hammer Brothers probably do continue to march forward
+
+01:12:55.920 --> 01:12:57.600
+and destroy the rest of the Muslim kingdom.
+
+01:12:57.760 --> 01:13:00.400
+But I saved the princess, so I'm okay.
+
+01:13:00.560 --> 01:13:02.280
+It's their problem now. Yeah. That's a whole other problem.
+
+01:13:02.940 --> 01:13:03.940
+Toadstool could take care of that.
+
+01:13:04.000 --> 01:13:05.700
+Yeah, it was never about the other people.
+
+01:13:05.860 --> 01:13:09.340
+So this guy makes his appearance for the first time in World 4-1,
+
+01:13:09.340 --> 01:13:14.040
+and I only know that because how many of us continue to skip through the warp zone to World 4,
+
+01:13:14.160 --> 01:13:15.500
+and then they're greeted by this guy.
+
+01:13:15.700 --> 01:13:16.900
+Of course, I'm talking about Lakitu.
+
+01:13:17.360 --> 01:13:18.680
+Mm-hmm. Any thoughts?
+
+01:13:18.840 --> 01:13:20.460
+Lakitu, he throws, he's the cloud guy?
+
+01:13:20.880 --> 01:13:23.000
+Yeah. I feel like Lakitu levels aren't as bad.
+
+01:13:23.160 --> 01:13:26.180
+I don't think they're as bad if you can solve the problem right away.
+
+01:13:26.460 --> 01:13:28.560
+Yeah. There's two ways to solve the problem, in my opinion.
+
+01:13:28.800 --> 01:13:30.160
+One is to continue moving.
+
+01:13:30.160 --> 01:13:34.420
+This guy will never be able to throw his spiny directly in front of you as long as you keep moving.
+
+01:13:34.680 --> 01:13:38.040
+He'll just kind of carelessly throw them by, and you'll be like,
+
+01:13:38.200 --> 01:13:40.640
+this will stop him if he comes back here.
+
+01:13:40.640 --> 01:13:44.980
+Or the preferred method, of course, is to bop him.
+
+01:13:45.340 --> 01:13:52.440
+Yeah. If you can get high enough, you can actually defeat Lakitu, and he'll show up again if you give it enough time.
+
+01:13:52.480 --> 01:13:58.700
+But on a stage like 4-1, there's really not like, you know, you can defeat that stage pretty fast if you don't have to deal with Lakitu.
+
+01:13:58.700 --> 01:14:01.240
+So you're not going to see him again on that stage, at least.
+
+01:14:01.440 --> 01:14:08.360
+I just appreciate that he got a much better role in another Super Mario game.
+
+01:14:08.920 --> 01:14:10.840
+In 64, he became the cameraman.
+
+01:14:11.080 --> 01:14:12.340
+He's the cameraman in 64.
+
+01:14:12.720 --> 01:14:16.680
+And, you know, it's funny. That's how I mentioned this on the very first episode of the podcast.
+
+01:14:16.820 --> 01:14:18.800
+I'm a huge Super Mario 64 fan.
+
+01:14:18.880 --> 01:14:20.840
+That was my, like, first big game.
+
+01:14:21.260 --> 01:14:24.100
+And I never associated Lakitu as a villain.
+
+01:14:24.460 --> 01:14:27.160
+Yeah. Because he was the camera guy in Super Mario 64.
+
+01:14:27.160 --> 01:14:29.760
+So when you're playing this game, you're like, Lakitu, what happened?
+
+01:14:30.300 --> 01:14:35.280
+My experience with Lakitu was he's the guy that fishes you out in Mario Kart 64.
+
+01:14:35.520 --> 01:14:36.700
+Yeah, so he's always helping.
+
+01:14:36.880 --> 01:14:37.940
+He's mostly a good guy.
+
+01:14:37.940 --> 01:14:40.880
+In fact, he's even a driver later on in some Mario Kart games.
+
+01:14:41.160 --> 01:14:43.100
+So, like, how can we really fault this guy?
+
+01:14:43.160 --> 01:14:44.200
+I think he was misguided.
+
+01:14:44.400 --> 01:14:51.340
+Yeah. And who's to say the dark sorcerer King Bowser Koopa hasn't, and I'm just going to continue
+
+01:14:51.340 --> 01:14:53.180
+to add to his name every single time.
+
+01:14:53.440 --> 01:14:55.620
+I actually love calling him Bowser Koopa.
+
+01:14:55.820 --> 01:14:57.200
+Like, that's just a thing for me.
+
+01:14:57.280 --> 01:14:58.080
+It's his last name. Yeah.
+
+01:14:58.140 --> 01:14:59.500
+I just think, like, yeah, it's so satisfying.
+
+01:14:59.640 --> 01:15:02.040
+I don't know if it's his last name. I think he is just a Koopa.
+
+01:15:02.400 --> 01:15:06.320
+Like, I think a Koopa is like a, that's like a race, if you will.
+
+01:15:06.320 --> 01:15:08.140
+You know, like, well, don't you think so?
+
+01:15:08.200 --> 01:15:09.360
+They're part of the Koopa tribe.
+
+01:15:09.700 --> 01:15:10.660
+There's Koopa Troopas.
+
+01:15:10.840 --> 01:15:15.160
+There's Koopa Paratroopas. He's like an evolved Koopa Troopa, if you will.
+
+01:15:15.440 --> 01:15:18.540
+Okay. I mean, he's also like a cat, a lizard, a dragon.
+
+01:15:18.720 --> 01:15:19.880
+I'm just glad you have your own headcanon.
+
+01:15:19.880 --> 01:15:22.080
+Yeah, but everybody needs their own Super Mario Bros.
+
+01:15:22.160 --> 01:15:23.660
+headcanon for the record, because if
+
+01:15:23.660 --> 01:15:27.720
+you're not trying to figure out a timeline for how all these things fit, you're missing
+
+01:15:27.720 --> 01:15:31.180
+out. Just before or after Nintendo Golf.
+
+01:15:32.020 --> 01:15:35.220
+This is definitely before Nintendo Golf, because Mario's old in golf.
+
+01:15:35.220 --> 01:15:36.180
+Yeah, you're right. Okay.
+
+01:15:36.920 --> 01:15:39.580
+Okay, so moving on from Lakitu, there's the Spineys.
+
+01:15:39.920 --> 01:15:43.100
+These guys sometimes show up by themselves if Lakitu doesn't throw them.
+
+01:15:43.400 --> 01:15:45.140
+These are the red guys with the spike shells.
+
+01:15:45.840 --> 01:15:51.420
+One thing that's cool about them is that they kind of stick to the platform they're on.
+
+01:15:51.660 --> 01:15:52.640
+Yeah. And I like that.
+
+01:15:52.760 --> 01:15:57.900
+I think that's like a neat touch to make them more dangerous than a red Koopa Troopa, because
+
+01:15:57.900 --> 01:16:03.160
+not only can you not stop them unless you have a fireball, but they also continue to get
+
+01:16:03.160 --> 01:16:04.540
+in your way. Yeah, they can get you.
+
+01:16:04.740 --> 01:16:08.400
+Throughout the platform. I think that's especially bad in the underground levels.
+
+01:16:08.680 --> 01:16:11.240
+It's true. Everything I said, 100% fact.
+
+01:16:11.340 --> 01:16:12.540
+It's 100% true.
+
+01:16:12.960 --> 01:16:16.080
+We talked about the piranha plants and the cool jump and everything like that, so I don't
+
+01:16:16.080 --> 01:16:17.140
+think we need to go into them.
+
+01:16:17.760 --> 01:16:20.140
+But let's move on to the Bullet Bills.
+
+01:16:20.600 --> 01:16:23.480
+Bullet Bill. Official translation is killer.
+
+01:16:23.700 --> 01:16:29.200
+These things are called Kira in Japan, and I think that's kind of crazy, because I don't
+
+01:16:29.200 --> 01:16:31.900
+know, like, these things are in your way, but I never really...
+
+01:16:31.900 --> 01:16:33.540
+Bullets are bad. Yeah, I never really...
+
+01:16:33.540 --> 01:16:34.440
+Like, are they...
+
+01:16:34.440 --> 01:16:35.680
+Big bullets are even worse.
+
+01:16:35.780 --> 01:16:39.960
+Who is the real enemy? Is it the Bullet Bills themselves, or the cannons that shoot them?
+
+01:16:39.980 --> 01:16:40.960
+I'm pretty sure it's Bullet Bill.
+
+01:16:41.040 --> 01:16:42.300
+He seems very malicious.
+
+01:16:42.540 --> 01:16:47.140
+You think that's one entity that shares, like, all those enemies, or are they all just
+
+01:16:47.140 --> 01:16:47.960
+Bullet Bills?
+
+01:16:48.320 --> 01:16:52.000
+I think that since his name is Bullet Bill, they...
+
+01:16:52.000 --> 01:16:53.360
+I mean, I think they're all clones.
+
+01:16:53.700 --> 01:16:56.800
+Yeah, well, I think it's like some, you know, some dark magic stuff going on.
+
+01:16:56.940 --> 01:16:59.340
+Just animate all these bullets to make them...
+
+01:16:59.340 --> 01:17:01.820
+Sorcerer. So Bowser kind of brought them to life.
+
+01:17:01.940 --> 01:17:03.080
+Yeah. Make them evil.
+
+01:17:03.160 --> 01:17:04.260
+Make bullets evil. I totally buy that.
+
+01:17:04.340 --> 01:17:05.940
+I mean, he's turning toads into blocks.
+
+01:17:05.960 --> 01:17:08.040
+Yeah, you manufacture them, and then you bring them to life.
+
+01:17:08.240 --> 01:17:09.880
+Okay. Yeah. Sean, quick tangent here.
+
+01:17:10.020 --> 01:17:11.100
+You're a Buffalo Bills fan.
+
+01:17:11.100 --> 01:17:13.340
+Sean, anybody ever get the nickname Bullet Bill?
+
+01:17:13.600 --> 01:17:15.020
+No. Absolutely not.
+
+01:17:15.420 --> 01:17:17.360
+I don't know what would make you think that, Mike.
+
+01:17:17.600 --> 01:17:20.720
+All right. Well, I just think that that's a cool, like, athletic nickname.
+
+01:17:20.740 --> 01:17:23.120
+I would want to be called Bullet Bill if my name was Bill.
+
+01:17:24.600 --> 01:17:25.900
+But that's besides the point.
+
+01:17:26.360 --> 01:17:27.540
+We talked about bloopers.
+
+01:17:27.980 --> 01:17:29.740
+This is a weird one. Podoboos.
+
+01:17:30.200 --> 01:17:31.220
+Yeah, I don't know what that is, Mike.
+
+01:17:31.360 --> 01:17:35.120
+Thank you. Thank you for acknowledging that you didn't know what it was, pretending like, oh, yeah,
+
+01:17:35.180 --> 01:17:36.140
+those things are a pain in the neck.
+
+01:17:36.460 --> 01:17:37.380
+These are the fireballs.
+
+01:17:37.820 --> 01:17:38.920
+I don't know. Are they sentient?
+
+01:17:39.060 --> 01:17:40.100
+Like, why do they get a name? Yeah.
+
+01:17:40.980 --> 01:17:42.720
+But they're in the manual with that name.
+
+01:17:43.520 --> 01:17:45.040
+So that's something to throw out there.
+
+01:17:45.420 --> 01:17:47.000
+These guys don't do anything for me.
+
+01:17:47.260 --> 01:17:48.720
+They're just, like, a hazard.
+
+01:17:49.080 --> 01:17:50.780
+You just wait. You jump over them.
+
+01:17:51.080 --> 01:17:53.140
+I think that the flaming wheel things.
+
+01:17:53.180 --> 01:17:54.240
+Those are tricky. Yeah.
+
+01:17:54.380 --> 01:17:55.840
+Those things should get a name, if anything.
+
+01:17:56.040 --> 01:18:01.140
+Those should be the Podoboos, because those things are dangerous and not fun at all,
+
+01:18:01.160 --> 01:18:03.420
+because they all spin at, like, different speeds, different sizes.
+
+01:18:03.420 --> 01:18:05.140
+I think they're called wacky wizards.
+
+01:18:05.980 --> 01:18:06.820
+No, I actually know.
+
+01:18:06.820 --> 01:18:09.080
+Sean, you can't just start making up your own headcanon now.
+
+01:18:09.080 --> 01:18:12.060
+You never thought they were called that until you just said that.
+
+01:18:12.540 --> 01:18:14.160
+You never, like, were playing together.
+
+01:18:14.360 --> 01:18:16.220
+Like, oh, there's those wacky wizards.
+
+01:18:16.540 --> 01:18:17.820
+You're right. I'm sorry. Thank you.
+
+01:18:17.960 --> 01:18:19.020
+I appreciate the apology.
+
+01:18:19.300 --> 01:18:23.080
+So let's move on to Bowser, King of the Koopas.
+
+01:18:23.220 --> 01:18:30.560
+Okay? And I hope you all enjoyed that guided tour through the bestiary of Mario.
+
+01:18:30.880 --> 01:18:32.880
+Yeah, so assuming that you best all those guys,
+
+01:18:33.080 --> 01:18:36.780
+you're going to get to 8-4, where you fight Bowser, King of the Koopas.
+
+01:18:36.780 --> 01:18:43.340
+But wait, Mike, I thought I was fighting Bowser, King of the Koopas this whole time in World 1-4, 2-4, 3-4, 4-4.
+
+01:18:43.580 --> 01:18:47.460
+Not if you were doing Sean's preferred method of throwing the fireballs,
+
+01:18:47.460 --> 01:18:53.080
+because when you defeat Bowser with fireballs, you're able to see that he was a Goomba.
+
+01:18:53.200 --> 01:18:55.280
+He was a Koopa Troopa.
+
+01:18:55.640 --> 01:18:57.840
+Yeah. I don't know this. I always go for the axe.
+
+01:18:58.040 --> 01:18:59.040
+Yeah, they're a disguise.
+
+01:18:59.780 --> 01:19:02.700
+I never have the fireballs at the end, because I don't get that.
+
+01:19:02.700 --> 01:19:08.620
+I'm not that good. You don't get far enough to have the fireballs by that stage, which isn't surprising,
+
+01:19:08.660 --> 01:19:12.300
+because if you look at the placement of mushrooms in the dungeon levels,
+
+01:19:12.740 --> 01:19:13.720
+like, what are we calling those?
+
+01:19:13.780 --> 01:19:14.760
+The dungeon or castle levels?
+
+01:19:14.880 --> 01:19:15.760
+I guess they're called castle.
+
+01:19:16.160 --> 01:19:17.380
+Yeah. Castle levels.
+
+01:19:17.380 --> 01:19:21.280
+If you get to them, the mushrooms are placed in places that are designed to, like, kill you.
+
+01:19:21.580 --> 01:19:22.920
+Yeah. They're just taunting you.
+
+01:19:22.940 --> 01:19:24.760
+Yeah, it's almost like I want to get that mushroom,
+
+01:19:24.860 --> 01:19:28.000
+but I also know that I'm probably going to die trying to get it, so what's the point?
+
+01:19:28.160 --> 01:19:32.500
+Like, yeah, like those mushrooms, it's like, yeah, I'm probably going to die if I get in this thing,
+
+01:19:32.520 --> 01:19:33.540
+so I don't understand the point.
+
+01:19:33.560 --> 01:19:36.300
+It's like, just get to my death faster, I guess.
+
+01:19:36.300 --> 01:19:40.760
+I know I'm going to get killed later on in this level, but that is kind of cool.
+
+01:19:40.760 --> 01:19:44.740
+It's like a neat little thing that's like, it's not repetitive that you keep fighting the same Bowser,
+
+01:19:44.800 --> 01:19:46.180
+because you're not fighting the same Bowser.
+
+01:19:46.180 --> 01:19:53.000
+Those are each one of his, you know, members of his Koopa tribe taking on the disguise of Bowser,
+
+01:19:53.020 --> 01:19:58.800
+and then finally in 8-4, you get the real Bowser, and boy is he tough, okay,
+
+01:19:58.920 --> 01:20:02.260
+because you got the king of the Koopas with hammers.
+
+01:20:02.540 --> 01:20:06.220
+So it's like a hammer brother that blows flames, has a small little window,
+
+01:20:06.360 --> 01:20:10.040
+and not to mention that annoying stare that moves back and forth,
+
+01:20:10.100 --> 01:20:14.540
+which does not help in this case, because it's designed to, like, block you out of jumping over him.
+
+01:20:14.540 --> 01:20:20.460
+So, guys, am I wrong in saying the only real way to get over this guy is to go under him when he jumps?
+
+01:20:20.620 --> 01:20:24.720
+Yes. I think that that's like, you know, if you're going to make this thing,
+
+01:20:24.840 --> 01:20:28.820
+and I'll tell you right now, 9 times out of 10 you're going to die to World 8-4 Bowser,
+
+01:20:28.920 --> 01:20:32.800
+but if you're going to make it over him, go underneath, because that is definitely the way.
+
+01:20:32.940 --> 01:20:37.240
+And I also like, in terms of how he throws the hammers, he throws them all kind of at once.
+
+01:20:37.240 --> 01:20:41.340
+If you just stay back a little, watch him throw the hammers, get up close,
+
+01:20:41.380 --> 01:20:45.740
+and then hope he jumps instead of throws the hammers again, you're in for a pretty good time.
+
+01:20:45.900 --> 01:20:50.640
+Yeah, if you've learned one thing listening to this podcast the past however many weeks,
+
+01:20:50.880 --> 01:20:52.460
+it's that strategy.
+
+01:20:52.720 --> 01:20:57.480
+Yeah, that's like the only good strategy, that's the only good sound of advice we've given on this podcast,
+
+01:20:57.480 --> 01:21:00.400
+is how to defeat Bowser, which is actually pretty important.
+
+01:21:00.600 --> 01:21:02.960
+Yeah. Not that anybody, and I'm just going to throw this out there,
+
+01:21:03.100 --> 01:21:05.160
+no one should be ashamed if you can't beat this game.
+
+01:21:05.160 --> 01:21:08.580
+I feel like people think they have to beat this game to call themselves a gamer,
+
+01:21:08.780 --> 01:21:12.980
+and it's like, no, I think I beat this game twice in my life,
+
+01:21:13.440 --> 01:21:18.420
+and I think both times I probably used some version of the different warp zones.
+
+01:21:18.640 --> 01:21:22.380
+I don't think I've ever beaten this game by playing 32 levels in a row with only three lives.
+
+01:21:22.540 --> 01:21:27.080
+Is it cool if you do beat it all in one shot with three lives?
+
+01:21:27.220 --> 01:21:28.020
+That's really cool.
+
+01:21:28.140 --> 01:21:30.240
+In fact, I'd go as far as saying that that's metal.
+
+01:21:30.400 --> 01:21:31.360
+That's so metal.
+
+01:21:31.420 --> 01:21:35.020
+That's so metal of you to get through the whole game like that.
+
+01:21:35.160 --> 01:21:41.780
+And that's probably the way a lot of people who are real NES players who played this console day in and day out
+
+01:21:41.780 --> 01:21:45.720
+throughout the console's lifespan, that's probably how they beat this game multiple times.
+
+01:21:46.040 --> 01:21:52.720
+But with today's standards of games and being used to some kind of save state
+
+01:21:52.720 --> 01:21:55.620
+or being able to start at least at the beginning of the world,
+
+01:21:55.620 --> 01:21:57.620
+I just don't think it's very fair to say,
+
+01:21:57.720 --> 01:22:00.600
+oh, you're not really a gamer until you beat Super Mario Brothers.
+
+01:22:00.840 --> 01:22:01.920
+You're all gamers, guys.
+
+01:22:02.280 --> 01:22:04.460
+Everybody's a gamer. Did you play a game in your life?
+
+01:22:04.460 --> 01:22:06.320
+Yeah. Even if it was in Tendogs.
+
+01:22:06.340 --> 01:22:09.180
+That was our special guest listener right there, just chiming in.
+
+01:22:09.360 --> 01:22:13.120
+You're a gamer boy or a gamer girl.
+
+01:22:13.520 --> 01:22:15.180
+Whether you play games or not.
+
+01:22:15.560 --> 01:22:18.200
+I mean, you know, you have to play games, but it doesn't matter if you beat them.
+
+01:22:18.640 --> 01:22:24.160
+Yeah, I would say that the only thing that makes a gamer a gamer is playing games.
+
+01:22:24.500 --> 01:22:25.340
+Yes. Great.
+
+01:22:25.760 --> 01:22:26.640
+Glad we got that through.
+
+01:22:26.900 --> 01:22:28.720
+Oh, I agree.
+
+01:22:28.720 --> 01:22:33.740
+Good. So we're all here.
+
+01:22:33.920 --> 01:22:40.060
+We all have agreed now on the official Encarta Encyclopedia definition of what a gamer is.
+
+01:22:40.180 --> 01:22:43.300
+So let's talk very quickly about the power-ups.
+
+01:22:43.480 --> 01:22:45.420
+Okay. Kind of the same way we talked about the enemies.
+
+01:22:46.760 --> 01:22:48.020
+Mushroom. Makes you big.
+
+01:22:49.760 --> 01:22:51.680
+Fire flower. Makes you big.
+
+01:22:51.740 --> 01:22:53.080
+Changes your clothes.
+
+01:22:53.280 --> 01:22:55.340
+Makes you spicy. Makes you shoot fire from your hands.
+
+01:22:55.560 --> 01:23:00.840
+Apparently also the only normal way to defeat Bowser, according to Sean, is with the fire flower.
+
+01:23:02.000 --> 01:23:04.440
+Star Man. Makes you invincible.
+
+01:23:04.480 --> 01:23:05.280
+That's also very spicy.
+
+01:23:05.420 --> 01:23:07.400
+And makes you glow. And a new song.
+
+01:23:07.680 --> 01:23:09.040
+A great song. Great song.
+
+01:23:09.180 --> 01:23:10.280
+It goes a little bit like...
+
+01:23:10.280 --> 01:23:13.320
+Not long enough. Because if it was any longer, it'd be too easy.
+
+01:23:13.560 --> 01:23:15.380
+It would also have great on you.
+
+01:23:15.460 --> 01:23:17.040
+It's a very annoying song.
+
+01:23:17.220 --> 01:23:20.120
+Also, why don't they call him Star Man instead of Star?
+
+01:23:20.120 --> 01:23:22.740
+He's got eyes. I know, but what is it really?
+
+01:23:22.740 --> 01:23:25.140
+Is that like a tone that was turned into a star?
+
+01:23:25.240 --> 01:23:28.240
+Everything else is. I would love the lore on the Star Man.
+
+01:23:28.480 --> 01:23:33.300
+And then, of course, One-Up Mushroom, which obviously gives you an extra life.
+
+01:23:33.420 --> 01:23:39.120
+But can we just talk about, one, how iconic this power-up is over the other ones for some reason?
+
+01:23:39.200 --> 01:23:42.520
+I mean, if you think about it, the One-Up is like a huge...
+
+01:23:42.520 --> 01:23:45.860
+You see that in gaming, as a gaming icon.
+
+01:23:46.060 --> 01:23:47.260
+And now it's gone.
+
+01:23:47.460 --> 01:23:49.680
+In Super Mario Odyssey, it's not even a thing anymore.
+
+01:23:49.820 --> 01:23:50.680
+You don't need lives.
+
+01:23:50.680 --> 01:23:54.000
+It's kind of weird to see something that's been so important in...
+
+01:23:54.000 --> 01:23:55.700
+And we were talking about how important it is in this game.
+
+01:23:56.200 --> 01:23:57.340
+One-Up Mushrooms are rare.
+
+01:23:57.520 --> 01:24:00.120
+They're usually not just given to the player.
+
+01:24:00.440 --> 01:24:02.460
+They're not just like, oh, just follow it along.
+
+01:24:02.600 --> 01:24:03.720
+It's like, follow it along.
+
+01:24:03.840 --> 01:24:04.880
+Jump over these obstacles.
+
+01:24:05.060 --> 01:24:06.740
+Make sure it stays on the screen the whole time.
+
+01:24:06.800 --> 01:24:09.800
+And then if you're lucky, it'll drop down in front of you instead of going in the gap.
+
+01:24:10.200 --> 01:24:11.200
+Yeah. I think that's really cool.
+
+01:24:11.440 --> 01:24:16.000
+And I think it's a reason to enforce the idea of your lives matter.
+
+01:24:16.380 --> 01:24:19.240
+Yeah. You know, they're not just like, hey, three strikes and you're out.
+
+01:24:19.380 --> 01:24:22.980
+It's like, three strikes or you might not want to play this game again for a whole nother day.
+
+01:24:23.200 --> 01:24:24.660
+That's true. Coins.
+
+01:24:24.920 --> 01:24:26.600
+I feel like those are really important.
+
+01:24:26.820 --> 01:24:30.120
+Yeah, we talked about how they're important. If 99 of them...
+
+01:24:30.120 --> 01:24:31.880
+100. 100 get you the extra life.
+
+01:24:32.340 --> 01:24:34.400
+So definitely, like, collect the coins.
+
+01:24:34.680 --> 01:24:36.840
+I think a lot of people just, like, skip over them.
+
+01:24:36.840 --> 01:24:38.060
+It behooves you to collect the coins.
+
+01:24:38.060 --> 01:24:41.040
+Yeah, it's just like, it's a rewarding part of the game.
+
+01:24:41.100 --> 01:24:48.240
+And it's, like, nice that they included something as, like, important as this life system to reinforce so many of the mechanics of the game.
+
+01:24:48.340 --> 01:24:50.780
+Because otherwise, these coins are just, like, really random.
+
+01:24:50.780 --> 01:24:52.480
+Because, like, no one's playing for score here.
+
+01:24:52.660 --> 01:24:56.840
+Yeah. Right? Like, did you once look at your score where you're like, oh, 20,000 points?
+
+01:24:56.840 --> 01:24:57.640
+Like, who cares?
+
+01:24:58.380 --> 01:24:59.860
+Who cares? It's just a story game.
+
+01:24:59.860 --> 01:25:00.700
+We've touched upon that.
+
+01:25:00.800 --> 01:25:01.740
+Yeah, it's a story game.
+
+01:25:01.760 --> 01:25:03.400
+It's a story game. I play this game for story.
+
+01:25:03.780 --> 01:25:05.580
+I want to know, who's that princess?
+
+01:25:06.400 --> 01:25:08.480
+Where's she at? Why's she only in another castle?
+
+01:25:08.880 --> 01:25:12.320
+And, okay, so let's just talk really quickly about World 1-1 here, guys.
+
+01:25:12.760 --> 01:25:14.060
+Okay. Yeah? It's a good one.
+
+01:25:14.080 --> 01:25:16.540
+Yeah, I like it. And here's why I want to talk about it, okay?
+
+01:25:16.920 --> 01:25:21.080
+We're not going to do any, like, you know, game maker's toolkit here or something.
+
+01:25:21.760 --> 01:25:25.080
+It's been done to death how well designed this game is.
+
+01:25:25.320 --> 01:25:30.240
+But I just want to ask from, like, a personal perspective on World 1-1.
+
+01:25:30.620 --> 01:25:35.620
+As a tutorial level, did you ever, like, did you ever die on this level?
+
+01:25:36.060 --> 01:25:37.140
+Like, yeah? Yeah, yeah.
+
+01:25:37.280 --> 01:25:39.000
+The first screen I've died before.
+
+01:25:39.220 --> 01:25:41.460
+You've died on the first Goomba that comes through.
+
+01:25:41.780 --> 01:25:43.240
+I mean, it's hard to do.
+
+01:25:43.380 --> 01:25:49.020
+It is hard to do. But all you have to do is just not be paying attention at all and try and rush headlong.
+
+01:25:49.160 --> 01:25:51.180
+And you will accidentally run into it.
+
+01:25:51.280 --> 01:25:52.840
+Yeah. I feel like I've done that too.
+
+01:25:53.360 --> 01:25:55.140
+Sorry. I feel like I've done that too.
+
+01:25:55.140 --> 01:26:03.080
+Yeah, and I think, like, one thing that's really cool about World 1-1 that's kind of been done to death now in Super Mario Bros.
+
+01:26:03.240 --> 01:26:10.420
+games, and just, like, games in general, is the idea that there is no, like, hey, this mushroom does that.
+
+01:26:10.420 --> 01:26:12.380
+Or, hey, stomp on this Goomba.
+
+01:26:12.520 --> 01:26:13.760
+You just learn as you go.
+
+01:26:13.760 --> 01:26:16.820
+And I feel like no game after Super Mario Bros.
+
+01:26:17.520 --> 01:26:23.120
+got this, like, idea in their heads until, like, Mega Man X, which did it, like, perfectly.
+
+01:26:23.360 --> 01:26:27.440
+Like, if anything explains how to play the game better than Super Mario Bros.
+
+01:26:27.540 --> 01:26:29.080
+does, it's Mega Man X.
+
+01:26:29.080 --> 01:26:37.480
+Because that game also does the same thing where it says, we're not going to tell you how to do any of these mechanics, but you need to figure out each one to get through the stage.
+
+01:26:37.600 --> 01:26:39.060
+And I think, like, Mario Bros.
+
+01:26:39.120 --> 01:26:44.520
+does that really well. Because if you think about it, that first mushroom, it's really, like, unavoidable if you just test it out.
+
+01:26:44.600 --> 01:26:50.180
+Like, if you have no curiosity and you're like, I don't care what those blocks do, I'm just going to keep walking through the stage, you'll never meet it.
+
+01:26:50.320 --> 01:26:58.040
+But if you do hit the question mark block and get the mushroom to come out, the course is designed in a way that it's going to bump that mushroom back right into you.
+
+01:26:58.040 --> 01:27:02.300
+And you're going to be forced to figure out, like, oh, mushrooms make me big.
+
+01:27:02.640 --> 01:27:08.960
+I do have another example of just the extent of my incompetence at Mario.
+
+01:27:09.200 --> 01:27:17.100
+Can't wait. So you hit the square with the mushroom, and then you hit the square next to it, which will push the mushroom backwards.
+
+01:27:17.400 --> 01:27:18.680
+Send it backwards, and then you can't get it.
+
+01:27:18.680 --> 01:27:19.520
+And then you can't retrieve it.
+
+01:27:19.560 --> 01:27:20.700
+I have definitely done that before.
+
+01:27:20.700 --> 01:27:29.040
+But do you think that Tezuka and Miyamoto would have ever, you know, been like, oh, I bet someone will approach this stage backwards from the very beginning.
+
+01:27:29.200 --> 01:27:35.020
+Like, you know, it's probably, like, something that they never encountered in playtesting because you probably shouldn't be facing that direction.
+
+01:27:35.140 --> 01:27:36.600
+No, I was facing the correct direction.
+
+01:27:36.800 --> 01:27:38.820
+Especially when it's enforced that, like, you can't go backwards.
+
+01:27:39.280 --> 01:27:48.200
+Yeah. You know, we talked about if there's one thing that Kung Fu managed to do cool was that you could go back and forth to the level, even though there's no reason to go backwards.
+
+01:27:48.540 --> 01:27:53.120
+At least in Mario Brothers, you want to go backwards, but you're kind of punished for not, like, seizing the moment.
+
+01:27:54.620 --> 01:27:55.920
+Carpe diem. Right.
+
+01:27:55.920 --> 01:28:00.840
+It's like, oh, I would have loved to have gotten those extra coins, but now I'm blocked out of that part of the game.
+
+01:28:00.880 --> 01:28:03.940
+And I think that that's actually a feature, not a limitation.
+
+01:28:04.340 --> 01:28:05.200
+Yeah, I believe so.
+
+01:28:05.460 --> 01:28:07.560
+But in Super Mario All-Stars, I think they fixed that.
+
+01:28:07.660 --> 01:28:08.660
+I don't know, for certain.
+
+01:28:08.880 --> 01:28:10.800
+I'm not sure. In Deluxe, you can't go back.
+
+01:28:10.900 --> 01:28:11.880
+In Deluxe, you can't go back?
+
+01:28:11.980 --> 01:28:13.080
+You can't. That's important to know.
+
+01:28:13.500 --> 01:28:14.580
+You can hook up and down, though.
+
+01:28:25.920 --> 01:28:31.860
+Well, I'm glad that we're talking about Deluxe and those games, because we're just going to really quickly just talk about the other versions of the game.
+
+01:28:32.060 --> 01:28:33.540
+Really quickly, we talked about Deluxe.
+
+01:28:33.820 --> 01:28:38.540
+One thing that's really cool about Deluxe is that it adds the overworld map that became familiar in Super Mario Bros.
+
+01:28:38.640 --> 01:28:41.860
+3. It also adds the red coin levels.
+
+01:28:42.060 --> 01:28:48.920
+And it also adds, like, a, not a co-op, but, like, a versus mode between you and another player directly on the same screen.
+
+01:28:49.480 --> 01:28:55.900
+Yeah, with the link cable, you kind of, like, play this game where you, like, open and close doors to get further into it.
+
+01:28:55.920 --> 01:28:57.600
+To the level. So it's like...
+
+01:28:57.600 --> 01:28:58.820
+Wait, you're playing Gyromite?
+
+01:28:59.960 --> 01:29:08.220
+But, like, you're... Yeah, it's like Gyromite, where if you're both professors and you're each trying to shut each other out of the other doors.
+
+01:29:08.440 --> 01:29:17.900
+Right. So if Mario stomps on the Switch, all of his doors are open, and Luigi can't get to his doors until he stomps on a Switch to close out Mario and get to his doors.
+
+01:29:17.900 --> 01:29:25.440
+So it is kind of like a race to the finish in a fun, neat way that, you know, I think would have been welcomed on the NES version,
+
+01:29:25.440 --> 01:29:26.640
+but it was probably impossible.
+
+01:29:26.920 --> 01:29:30.280
+Yeah. Due to how much was already being done in this game.
+
+01:29:30.620 --> 01:29:34.180
+Mm-hmm. Other than that, we have the Verse Super Mario Bros.
+
+01:29:34.700 --> 01:29:39.460
+arcade game in it, and it's like, I'm sure people are tired of hearing about how every single, like, NES launch game,
+
+01:29:39.580 --> 01:29:43.440
+if we're being real, got a Verse system equivalent to it, which isn't true.
+
+01:29:43.440 --> 01:29:44.320
+Not all of them did.
+
+01:29:44.460 --> 01:29:45.500
+That's how they... They made a lot of bank that way.
+
+01:29:45.540 --> 01:29:52.780
+Yeah, they made a lot of bank that way, and this one comes after, but I think what's really cool about this one is that it is actually some new levels.
+
+01:29:52.780 --> 01:29:56.060
+It's familiar enough to Super Mario Bros.
+
+01:29:56.140 --> 01:29:57.660
+1 to be deceiving.
+
+01:29:57.920 --> 01:30:06.880
+Like, you think you know what's going to happen, and then they'll place, like, an invisible block in a spot that, like, you know, you normally would be safe to jump in, and you would die.
+
+01:30:07.500 --> 01:30:11.860
+It would have, like, different, like, Goombas or, you know, like, orders show up.
+
+01:30:11.860 --> 01:30:20.200
+So it was, like, tricky enough where it actually fooled the player who knew it the best and would be kind of, like, refreshing to someone who didn't memorize the levels.
+
+01:30:20.520 --> 01:30:21.840
+So it was just, like, a neat touch.
+
+01:30:22.020 --> 01:30:24.680
+And weirdly enough, available on Nintendo Switch.
+
+01:30:24.960 --> 01:30:26.720
+Unlike the regular version.
+
+01:30:28.160 --> 01:30:30.280
+Right now, you can only play Verse Super Mario Bros.
+
+01:30:30.760 --> 01:30:31.760
+on Nintendo Switch.
+
+01:30:31.760 --> 01:30:33.360
+You can't play regular Super Mario Bros.
+
+01:30:33.360 --> 01:30:37.180
+And I think it's, like, eight bucks and comes with, like, a lot of, like, weird things.
+
+01:30:37.220 --> 01:30:42.180
+So I think it's worth checking out if you're interested in, like, a whole new way to play the original Super Mario Bros.
+
+01:30:42.260 --> 01:30:46.420
+Because it is a, you know, mostly redesigned take on that game.
+
+01:30:46.740 --> 01:30:52.000
+Yeah. And we talked about Super Mario All-Stars, which is just a really cool graphical change to it.
+
+01:30:52.000 --> 01:30:57.680
+I think maybe some minor things were changed in terms of, like, how Mario controls.
+
+01:30:57.940 --> 01:31:00.960
+But I would definitely recommend, like, trying both versions.
+
+01:31:01.100 --> 01:31:02.640
+I don't think, like, I don't think Super Mario Bros.
+
+01:31:02.720 --> 01:31:09.360
+gets stale at any point unless you continue to play, play, play until you beat, beat, beat.
+
+01:31:09.460 --> 01:31:12.100
+That's why I say, like, it's not bad if you don't beat this game.
+
+01:31:12.300 --> 01:31:16.360
+Yeah. Like, this is a game that's meant to just be, like, enjoy it and try, I'll try again another day.
+
+01:31:16.580 --> 01:31:19.460
+Mm-hmm. So those are the versions of those games.
+
+01:31:20.000 --> 01:31:21.400
+I think I've covered about everything.
+
+01:31:21.400 --> 01:31:23.400
+I want to cover. Do you guys have any stray thoughts?
+
+01:31:24.100 --> 01:31:29.500
+I mean, we have littered this podcast with our stray thoughts.
+
+01:31:29.720 --> 01:31:31.820
+Yeah. I think that.
+
+01:31:31.820 --> 01:31:32.980
+We're going to get a fine for this one.
+
+01:31:32.980 --> 01:31:35.660
+Yeah. This might break FCC regulation.
+
+01:31:35.840 --> 01:31:44.580
+No. No, we have gushed about this game and riffed on this game for the past hour or so.
+
+01:31:47.780 --> 01:31:56.080
+I don't think it's too much of a stretch to say that at the time of release, this was probably the best video game ever made.
+
+01:31:56.080 --> 01:31:57.740
+I would have to agree.
+
+01:31:57.980 --> 01:32:04.440
+Mm-hmm. Just even, like, definitely looking at, like, the NES games that we've talked about, this is hands down the best NES game.
+
+01:32:04.600 --> 01:32:09.220
+So if we're thinking about the scope of, like, everything that was out at that time, what does this compete up against?
+
+01:32:09.740 --> 01:32:11.160
+Pac-Man. Yeah.
+
+01:32:11.460 --> 01:32:12.800
+E.T. Pac-Man.
+
+01:32:13.300 --> 01:32:14.340
+Pong. Yeah.
+
+01:32:14.440 --> 01:32:15.400
+Space Invaders.
+
+01:32:15.780 --> 01:32:19.800
+And those games, hey, very addictive, very fun.
+
+01:32:20.140 --> 01:32:22.020
+Not Mario. Just not in the same ballpark.
+
+01:32:22.260 --> 01:32:26.080
+Yeah. They're just, there's still, every game before Super Mario Bros.
+
+01:32:26.160 --> 01:32:29.760
+feels like it's being held back by arcade limitations.
+
+01:32:29.760 --> 01:32:33.380
+And this feels like the first console experience.
+
+01:32:33.700 --> 01:32:39.960
+We finally figured out what a couch, a game that you play on your couch is supposed to feel like with this.
+
+01:32:39.980 --> 01:32:41.620
+And Mario will continue to find this, too.
+
+01:32:41.840 --> 01:32:45.340
+We'll find this in Super Mario World for the Super Nintendo as a launch game.
+
+01:32:45.460 --> 01:32:49.460
+We'll find this in Super Mario 64, which, like, redefined how you do 3D.
+
+01:32:49.900 --> 01:32:55.260
+Yeah. We'll see this in Super Mario Galaxy, which kind of, like, redefined the way that, like, we play platformers.
+
+01:32:55.580 --> 01:33:07.180
+Mm-hmm. It's just, it's very interesting how Nintendo continues to take the same character and not force them to be Super Mario, but force them to fit these new game mechanics.
+
+01:33:07.680 --> 01:33:09.460
+It's always about the mechanic first.
+
+01:33:09.580 --> 01:33:11.300
+And I think that's what makes Super Mario Bros.
+
+01:33:11.380 --> 01:33:13.720
+stand out, is that the jump was designed correctly.
+
+01:33:13.880 --> 01:33:20.400
+The levels were designed, you know, in a specific way to reward or hurt the player, depending on how they go about it.
+
+01:33:20.500 --> 01:33:22.160
+And that's what makes Super Mario Bros.
+
+01:33:22.500 --> 01:33:23.420
+really satisfying.
+
+01:33:23.720 --> 01:33:28.780
+Yeah. I think, with that in mind, we should probably talk about our Essential Games list.
+
+01:33:31.840 --> 01:33:32.920
+All right, guys.
+
+01:33:33.520 --> 01:33:34.540
+Do we need to talk?
+
+01:33:34.760 --> 01:33:35.840
+Do we need to talk about this?
+
+01:33:36.000 --> 01:33:37.680
+Do I have to put a gun to anybody's head?
+
+01:33:37.860 --> 01:33:38.820
+I think we're on the same page.
+
+01:33:38.920 --> 01:33:40.900
+Okay, so let's just go around.
+
+01:33:41.060 --> 01:33:43.520
+It sucks, right? Sam?
+
+01:33:44.740 --> 01:33:45.720
+I mean, yeah.
+
+01:33:45.940 --> 01:33:48.200
+Of course. It's just, it's Mario.
+
+01:33:48.440 --> 01:33:49.480
+It's Mario. Yeah.
+
+01:33:49.800 --> 01:33:56.840
+Sean? This game is the NES, and it defined a generation of video games.
+
+01:33:57.020 --> 01:33:58.940
+So yes, it's on the Essential Games list.
+
+01:33:59.240 --> 01:34:04.760
+And the only other thing I want to add here, because I think, like, Sam said it so simply with, it's Mario.
+
+01:34:04.760 --> 01:34:11.400
+I don't think, I think, like, everybody gets what you mean when you say something like that, and that's what's really cool about Super Mario Bros.
+
+01:34:11.820 --> 01:34:24.180
+And Sean is 100% right about this defining a generation, because every game that kind of comes after this, even if it's not a platformer, even games like The Legend of Zelda will take some cues from Super Mario Bros.
+
+01:34:24.220 --> 01:34:25.880
+If we, you know, if we really think about it.
+
+01:34:26.020 --> 01:34:29.540
+And it's just interesting to see how Nintendo takes Super Mario Bros.
+
+01:34:29.580 --> 01:34:30.760
+and continues to run with it.
+
+01:34:30.840 --> 01:34:33.360
+This isn't like every idea, and then it's exhausted.
+
+01:34:33.560 --> 01:34:35.100
+This is just the starting point.
+
+01:34:35.100 --> 01:34:37.040
+But I don't want to look at Super Mario Bros.
+
+01:34:37.120 --> 01:34:41.140
+just through this historical lens, and I don't really think we've been doing that throughout this episode.
+
+01:34:41.320 --> 01:34:44.640
+We're giving it high praise even knowing what else is out there.
+
+01:34:44.800 --> 01:34:47.300
+And that's why Super Mario Bros.
+
+01:34:47.400 --> 01:34:48.460
+is essential today.
+
+01:34:48.760 --> 01:34:53.480
+Not because it was such a good game when it came out, but because it's still that same game.
+
+01:34:53.820 --> 01:34:55.740
+Yeah. Yeah, Super Mario Bros.
+
+01:34:55.840 --> 01:34:59.420
+3 exists, but that doesn't mean that you don't play Super Mario Bros.
+
+01:34:59.780 --> 01:35:02.320
+That's like telling me that...
+
+01:35:02.320 --> 01:35:03.780
+Just watch Godfather Part 2.
+
+01:35:03.780 --> 01:35:06.280
+Right, because Godfather Part 2 is better than Part 1.
+
+01:35:06.540 --> 01:35:10.060
+It's like, you don't stop playing something else just because something is better.
+
+01:35:10.260 --> 01:35:12.540
+This game is still worth playing.
+
+01:35:12.700 --> 01:35:14.660
+It has to be on your essential list.
+
+01:35:15.060 --> 01:35:23.280
+Even if you play this game and you say, platformers aren't for me, I challenge you to deny that this game still doesn't pack a punch.
+
+01:35:23.520 --> 01:35:42.420
+Pack a punch. And that's all the time we have for this episode of Nostalgia.
+
+01:35:42.740 --> 01:35:45.100
+Join us next time for Tennis.
+
+01:35:45.360 --> 01:35:47.280
+And be sure to play it yourself if you can.
+
+01:35:47.280 --> 01:35:51.180
+And I know that that game is probably not going to be Super Mario Bros.
+
+01:35:51.320 --> 01:35:53.620
+level, but hey, Tennis.
+
+01:35:55.060 --> 01:35:56.260
+On the NES.
+
+01:35:57.060 --> 01:35:58.260
+Sean digs sports games.
+
+01:35:58.360 --> 01:36:00.120
+I wonder what his opinion is going to be like.
+
+01:36:00.460 --> 01:36:04.220
+I wonder. And Sam, you are known to speak some French.
+
+01:36:05.120 --> 01:36:07.200
+Duh. Wow.
+
+01:36:08.020 --> 01:36:12.240
+I thought you were going to try and work in like a love there because of 30 love or something like that.
+
+01:36:12.540 --> 01:36:14.580
+I have no idea where you're going with that, to be honest.
+
+01:36:14.780 --> 01:36:17.220
+All right. That's fine. I think I really threw a curveball.
+
+01:36:17.480 --> 01:36:20.100
+Usually these things are just like me reading them.
+
+01:36:20.160 --> 01:36:23.060
+But I wanted you guys to know that this isn't some pre-recorded message.
+
+01:36:23.240 --> 01:36:25.460
+We're real people. We really care that you guys are listening.
+
+01:36:25.660 --> 01:36:28.720
+And that's why I'm saying thanks for listening.
+
+01:36:28.720 --> 01:36:31.900
+And be sure to go to NostalgiaCast.com.
+
+01:36:32.460 --> 01:36:36.220
+That's N-E-S-T-A-L-G-I-A-Cast.com.
+
+01:36:36.380 --> 01:36:41.900
+There you'll find links to the show and show notes, which we peppered in a lot for Super Mario Bros.
+
+01:36:42.020 --> 01:36:47.260
+episode. And also you can find our Twitch, YouTube, Twitter, Facebook, you name it.
+
+01:36:47.300 --> 01:36:48.980
+We've got a social platform for it.
+
+01:36:49.140 --> 01:36:50.000
+You want our MySpace.
+
+01:36:50.020 --> 01:36:52.340
+You want our CarFox, CarFax thing.
+
+01:36:52.520 --> 01:36:54.600
+CarFax. Yeah, like we'll get you the CarFax, okay?
+
+01:36:56.160 --> 01:36:57.800
+And I'm Michael Esposito.
+
+01:36:57.800 --> 01:37:00.240
+You can find me on Adam Esposito Film on Twitter.
+
+01:37:00.560 --> 01:37:01.820
+And I'll talk to you soon.
+
+01:37:26.860 --> 01:37:28.200
+There's one thing we didn't talk about.
+
+01:37:28.400 --> 01:37:30.860
+What's that? There's the whole question.
+
+01:37:31.020 --> 01:37:32.680
+Is it Mario or Mario?
+
+01:37:33.060 --> 01:37:34.020
+Oh, don't do that.
+
+01:37:34.360 --> 01:37:35.180
+And I have an answer. It's Mario.
+
+01:37:35.680 --> 01:37:36.920
+It is Mario.
+
+01:37:37.360 --> 01:37:38.700
+No, it's not. All right.
+
+01:37:39.060 --> 01:37:41.380
+Good night. Good night, Mario.
+
+01:37:41.780 --> 01:37:43.280
+Here's how you really have the out.
+
+01:37:43.360 --> 01:37:44.740
+Who are you? Everyone.
+
+01:37:45.100 --> 01:37:46.000
+Just listen to me.
+
+01:37:46.060 --> 01:37:47.120
+I'm the audience.
+
+01:37:47.500 --> 01:37:48.400
+This is what I want.
+
+01:37:49.800 --> 01:37:53.440
+Everyone sing the end of the Mario overworld together.
+
+01:37:54.140 --> 01:37:56.640
+Okay. And we're available for birthday parties.
+
+01:37:56.640 --> 01:37:59.180
+So, you know, I can show up like Mario.
+
+01:37:59.480 --> 01:38:00.620
+Sean, you could be Luigi.
+
+01:38:01.240 --> 01:38:05.460
+And Sam, now that you're familiar with the Super Mario Brothers movie, you can show up as Raptor Yoshi.
+
+01:38:05.880 --> 01:38:08.860
+Ooh. You know, with the chain and everything.
+
+01:38:09.900 --> 01:38:13.600
+Really, though, this is now it for this very long episode of NostalgiaCast.
+
+01:38:13.720 --> 01:38:14.540
+So, one more time, guys.
+
+01:38:14.640 --> 01:38:21.220
+Let's sign off. Yeah.
