@@ -12,6 +12,7 @@ import os
 import re
 import datetime
 import shutil
+import subprocess
 import sys
 import urllib.parse
 from pathlib import Path
@@ -188,6 +189,22 @@ def render_transcript(path):
     return (f'<p class="note">{E(note)}</p>' if note else "") + "\n".join(parts)
 
 
+def last_modified():
+    """{repo file path: date (YYYY-MM-DD) of the last commit that touched it}, from git history. Empty if git isn't available."""
+    try:
+        out = subprocess.run(["git", "-C", str(REPO), "log", "--format=@%cs", "--name-only", "--", "episodes", "transcripts", "data/links"],
+                             capture_output=True, text=True, check=True).stdout
+    except Exception:
+        return {}
+    mod, day = {}, None
+    for line in out.splitlines():
+        if line.startswith("@"):
+            day = line[1:]
+        elif line.strip() and line not in mod:  # newest commit comes first
+            mod[line.strip()] = day
+    return mod
+
+
 def jsonld_tag(items):
     """<script type=application/ld+json> for one or more schema.org objects (what Google reads to understand the page)."""
     if not items:
@@ -234,10 +251,20 @@ def breadcrumbs(*trail):
         {"@type": "ListItem", "position": i, "name": n, "item": f"{SITE_URL}{u}"} for i, (n, u) in enumerate(trail, 1)]}
 
 
-def page(title, body, path, desc="", image=None, search=False, current="", jsonld=None):
+def page(title, body, path, desc="", image=None, search=False, current="", jsonld=None, og_type="website", card=None, published=None, image_dims=None):
     """`path` is this page's address on the site (like /about/); it becomes the canonical link. Leave it empty for no canonical."""
     desc = desc or "A chronological exploration of every NES game released in North America."
     img = f'<meta property="og:image" content="{SITE_URL}{image}">' if image else f'<meta property="og:image" content="{SITE_URL}/icon.png">'
+    if image:
+        img += f'<meta property="og:image:alt" content="{E(title)}">'
+        if image_dims:
+            img += f'<meta property="og:image:width" content="{image_dims[0]}"><meta property="og:image:height" content="{image_dims[1]}">'
+    img += f'<meta property="og:site_name" content="NEStalgia">'
+    if path:
+        img += f'<meta property="og:url" content="{SITE_URL}{path}">'
+    if published:
+        img += f'<meta property="article:published_time" content="{published}">'
+    card = card or ("summary_large_image" if image else "summary")
     pf = (f'<link href="{BASE}/pagefind/pagefind-ui.css" rel="stylesheet">'
           f'<script src="{BASE}/pagefind/pagefind-ui.js"></script>') if search else ""
     nav = "".join(
@@ -251,7 +278,7 @@ def page(title, body, path, desc="", image=None, search=False, current="", jsonl
 {f'<link rel="canonical" href="{SITE_URL}{path}">' if path else ""}
 <meta name="description" content="{E(desc[:200])}">
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc[:200])}">{img}
-<meta property="og:type" content="website"><meta name="twitter:card" content="summary">
+<meta property="og:type" content="{og_type}"><meta name="twitter:card" content="{card}">
 <link rel="icon" href="{BASE}/icon.png"><link rel="apple-touch-icon" href="{BASE}/icon.png">
 <link rel="stylesheet" href="{BASE}/style.css">{pf}{jsonld_tag(jsonld)}</head>
 <body><a class="skip" href="#main">Skip to content</a>
@@ -374,7 +401,8 @@ def build_migrated(data, write, card_html):
 <div class="prose">{prose(a["body"], ep_map)}</div></article>"""
         img = a["image"].replace("{BASE}", "") if a.get("image") else None
         write(a["path"].strip("/") + "/index.html",
-              page(f'{a["title"]} · NEStalgia', body, "/" + a["path"].strip("/") + "/", desc=a["excerpt"], image=img, current="articles"))
+              page(f'{a["title"]} · NEStalgia', body, "/" + a["path"].strip("/") + "/", desc=a["excerpt"], image=img, current="articles",
+                   og_type="article", published=str(a["date"])[:10] if a.get("date") else None))
     cards = "".join(
         f'<a class="card wide" href="{BASE}{a["path"]}/">'
         + (f'<img src="{(a["image"] or "").replace("{BASE}", BASE)}" alt="" loading="lazy">' if a.get("image") else "")
@@ -535,8 +563,14 @@ def main():
 <div class="pn">{pn}</div>{'<script src="' + BASE + '/player.js" defer></script>' if (r["transcript"] or links_html) else ""}"""
         url = f"/episodes/{r['key']}/"
         desc = r["description"].split("\n")[0]
+        if r["type"] == "episode" and r["number"] is not None:  # the game's name first: that is what people search for
+            game = r["title"].title() if r["title"].isupper() else r["title"]
+            seo_title = f"{game} (NES) · Episode {r['number']} · NEStalgia"
+        else:
+            seo_title = f"{r['title']} · NEStalgia"
         write(f"episodes/{r['key']}/index.html",
-              page(f"{label}{r['title']} · NEStalgia", body, url, desc=desc, image=f"/art/{r['key']}.jpg", current="eps",
+              page(seo_title, body, url, desc=desc, image=f"/art/{r['key']}.jpg", current="eps",
+                   og_type="article", published=r["published"], image_dims=(1000, 1000),
                    jsonld=[episode_jsonld(r, url, desc), breadcrumbs(("Home", "/"), ("Episodes", "/episodes/"), (r["title"], url))]))
 
     # Episode list
@@ -583,9 +617,20 @@ The site updates itself when new episodes come out. Transcript speaker names are
 <a href="https://github.com/Xalechim/NEStalgia/blob/main/data/episodes.csv">CSV</a>.</p>"""
     write("about/index.html", page("About · NEStalgia", body, "/about/", current="about"))
     extra = build_migrated(data, write, card)
+    mod = last_modified()
+    lastmod = {}
+    for r in data:  # the newest change to anything shown on the episode's page
+        files = list(r["notes"]) + ([r["transcript"]] if r["transcript"] else [])
+        if r["type"] == "episode" and r["number"] is not None:
+            files += [str(f.relative_to(REPO)) for f in (REPO / "data/links").glob(f"{r['number']:03d}-*.json")]
+        days = [mod[f] for f in files if f in mod] + ([r["published"][:10]] if r["published"] else [])
+        if days:
+            lastmod[f"/episodes/{r['key']}/"] = max(days)
+    if lastmod:
+        lastmod["/"] = lastmod["/episodes/"] = max(lastmod.values())
     urls = ["/", "/episodes/", "/search/", "/about/"] + extra + [f"/episodes/{r['key']}/" for r in data]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-          + "".join(f"<url><loc>{SITE_URL}{u}</loc></url>" for u in urls) + "</urlset>")
+          + "".join(f"<url><loc>{SITE_URL}{u}</loc>" + (f"<lastmod>{lastmod[u]}</lastmod>" if u in lastmod else "") + "</url>" for u in urls) + "</urlset>")
     write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
     if DOMAIN:
         write("CNAME", DOMAIN + "\n")

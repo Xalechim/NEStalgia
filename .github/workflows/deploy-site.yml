@@ -26,6 +26,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0  # full history, so the sitemap can show when each episode last changed
 
       - uses: actions/setup-python@v5
         with:
