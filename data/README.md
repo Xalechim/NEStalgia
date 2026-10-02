@@ -33,5 +33,5 @@ Episodes that aren't in the public feed yet aren't in this file.
 
 ## Episode links
 
-`data/links/NNN.json` holds the links shown on an episode's Links tab (one file per episode that has a transcript). Made by
+`data/links/NNN-game-name.json` holds the links shown on an episode's Links tab (one file per episode that has a transcript). Made by
 `scripts/make_links.py`; safe to edit by hand.

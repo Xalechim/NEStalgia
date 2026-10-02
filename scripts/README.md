@@ -45,7 +45,7 @@ Run the same thing by hand with `python3 scripts/update_from_feed.py` (needs `pi
 
 ## Links tab (make_links.py)
 
-`make_links.py` turns a transcript into `data/links/NNN.json`, which the site shows on the episode's Links tab.
+`make_links.py` turns a transcript into `data/links/NNN-game-name.json`, which the site shows on the episode's Links tab.
 1. Claude (`claude-opus-5-5`, structured output) lists everything referenced, with timestamps.
 2. Claude with the web search tool finds reference-site and other pages. Wikipedia is resolved separately through the Wikipedia API
    (exact title, then a strict search fallback; disambiguation pages rejected).

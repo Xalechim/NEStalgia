@@ -135,9 +135,10 @@ def nice(t):
 
 
 def render_links(number):
-    f = REPO / "data/links" / f"{number:03d}.json"
-    if not f.exists():
+    hits = sorted((REPO / "data/links").glob(f"{number:03d}-*.json"))
+    if not hits:
         return ""
+    f = hits[0]
     d = json.loads(f.read_text())
     by_kind = {}
     for it in d["items"]:

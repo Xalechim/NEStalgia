@@ -142,7 +142,7 @@ It takes a few minutes per episode and isn't a double-click, but the quality is 
 ### Good to know
 
 - It skips episodes that already have links (so it never overwrites your edits). To redo one, run it from Terminal with `--force`.
-- Each episode's links are saved in `data/links/NNN.json`, a plain text file. You can open it and delete or fix an entry by hand,
+- Each episode's links are saved in `data/links/NNN-game-name.json`, a plain text file. You can open it and delete or fix an entry by hand,
   then publish.
 - A link that can't be verified is dropped rather than shown, so some things may be missing on purpose.
 - Episode 446's links are a hand-made sample so you can see how the tab looks. Run it with `--force` once your key is set up to

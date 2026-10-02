@@ -9,7 +9,7 @@ For each transcript in transcripts/ this:
   3. VERIFIES every link before keeping it: Wikipedia pages must exist and not be
      disambiguation pages; every other URL must have come back from a web search
      and still load;
-  4. writes data/links/NNN.json, which the website shows on the episode's Links tab.
+  4. writes data/links/NNN-game-name.json, which the website shows on the episode's Links tab.
 
   python3 scripts/make_links.py 446              one episode
   python3 scripts/make_links.py 401-410 446      a range and a single one
@@ -397,7 +397,7 @@ def do_episode(n, args, client, ep_titles):
     text = tp.read_text()
     title = text.splitlines()[0].lstrip("# ").strip()
     digest = hashlib.sha1(text.encode()).hexdigest()[:12]
-    out = OUT / f"{n:03d}.json"
+    out = OUT / f"{tp.stem}.json"  # same name as the transcript: NNN-game-name.json
     if out.exists() and not args.force:
         old = json.loads(out.read_text())
         if old.get("transcript_hash") == digest:
@@ -439,7 +439,7 @@ def do_episode(n, args, client, ep_titles):
         "method": method, "transcript_hash": digest, "items": verified,
     }, indent=2, ensure_ascii=False) + "\n")
     cost = f", about ${usage.dollars:.2f}" if usage.inp else ""
-    print(f"   done: {len(verified)} items, {n_links} verified links, {dropped} dropped{cost} -> data/links/{n:03d}.json")
+    print(f"   done: {len(verified)} items, {n_links} verified links, {dropped} dropped{cost} -> data/links/{out.name}")
     return True
 
 
@@ -464,7 +464,7 @@ def main():
 
     nums = parse_numbers(args.numbers)
     if args.all:
-        have = {int(p.stem) for p in OUT.glob("*.json")} if OUT.exists() else set()
+        have = {int(p.name[:3]) for p in OUT.glob("*.json")} if OUT.exists() else set()
         nums = [int(Path(p).name[:3]) for p in sorted(glob.glob(str(REPO / "transcripts/[0-9]*.md"))) if int(Path(p).name[:3]) not in have]
     if not nums:
         print("Nothing to do. Give episode numbers (446, 401-410) or --all.")

@@ -12,7 +12,7 @@ checker is still the gatekeeper: nothing reaches the site unless it passes verif
 Do the episodes one at a time. For each episode number N (expand ranges like 401-410):
 
 1. **Find the transcript**: `transcripts/NNN-*.md` (NNN = N zero-padded to 3). If there is none, tell the user to make it first
-   with "Transcribe Episode.command", and move on. If `data/links/NNN.json` already exists, say so and skip the episode unless the
+   with "Transcribe Episode.command", and move on. If `data/links/NNN-game-name.json` already exists, say so and skip the episode unless the
    user asked to redo it.
 
 2. **Read the whole transcript.** Then read `EXTRACT_SYSTEM` near the top of `scripts/make_links.py`. Those are the rules for what
@@ -51,7 +51,7 @@ Do the episodes one at a time. For each episode number N (expand ranges like 401
 
 6. **Build it**: `python3 scripts/make_links.py NNN --from-proposals FILE --force`. It verifies every link (Wikipedia pages must
    exist, other URLs must be in `searched_urls` and load), adds "Our episode" links to matching NEStalgia episodes, and writes
-   `data/links/NNN.json`. If it drops something, decide whether to fix it and rerun.
+   `data/links/NNN-game-name.json`. If it drops something, decide whether to fix it and rerun.
 
 7. **Report**: items made, links kept, anything dropped or that you couldn't find, and anything worth a second look. Be plain about
    what you are unsure of.
