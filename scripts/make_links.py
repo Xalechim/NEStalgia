@@ -396,7 +396,7 @@ def do_episode(n, args, client, ep_titles):
         print(f"Episode {n}: the transcript changed since the links were made; redoing.")
 
     # The transcript, minus the header lines, is what Claude reads.
-    body = "\n".join(l for l in text.splitlines() if l.startswith("**"))
+    body = "\n".join(l for l in text.splitlines() if l.startswith("**") or re.match(r"^\[\d+:\d\d", l))
     print(f"\nEpisode {title}: {len(body.split())} words")
     if args.dry_run:
         print(f"   dry run: would send about {len(body) // 4:,} tokens to {MODEL}; no API call made.")

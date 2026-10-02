@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Make a transcript for one episode, start to finish.
 
-Asks for episode number(s), finds the audio, picks the best speaker-labeling
-method, writes the transcript, links it in the episode index, and (if you say
-yes) publishes it to GitHub.
+Asks for episode number(s), finds the audio, writes the transcript (paragraphs with
+timestamps, no speaker labels), links it in the episode index, and (if you say yes)
+publishes it to GitHub.
 
 Several at once work too (401 402 405-410). Run it by double-clicking "Transcribe Episode.command" in the scripts folder.
 `--dry-run` shows what it would do without transcribing.
@@ -19,9 +19,6 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 ICLOUD = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/10_NEStalgia"
 MIXES = ICLOUD / "Mixes"
-AUDITION = ICLOUD / "Audition Projects"
-PROFILES = Path.home() / ".nestalgia-models/profiles.npz"
-HOSTS = {"espo": "Mike", "sean": "Sean", "joe": "Joe"}
 
 
 def slug(s: str) -> str:
@@ -34,22 +31,6 @@ def find_audio(n: int):
     # prefer the cleaned-up "mixdown" version if there are several
     hits.sort(key=lambda p: ("mixdown" not in p.lower(), p))
     return Path(hits[0]) if hits else None
-
-
-def find_tracks(n: int):
-    """Each host's own mic recording, if the Audition project has them."""
-    folders = glob.glob(str(AUDITION / f"NES {n} - *"))
-    if not folders:
-        return {}
-    tracks = {}
-    for wav in glob.glob(folders[0] + "/*.wav"):
-        low = os.path.basename(wav).lower()
-        if "mixdown" in low:
-            continue
-        for key, name in HOSTS.items():
-            if key in low and name not in tracks:
-                tracks[name] = wav
-    return tracks
 
 
 def parse_numbers(raw: str):
@@ -87,19 +68,9 @@ def transcribe_one(n: int, dry_run: bool) -> bool:
     out = REPO / "transcripts" / f"{n:03d}-{slug(name)}"
     title = f"{n:03d} - {name}"
 
-    tracks = find_tracks(n)
     cmd = [sys.executable, str(REPO / "scripts/transcribe.py"), str(audio), "--out", str(out), "--title", title]
-    if len(tracks) >= 2:
-        method = f"separate microphone tracks ({', '.join(sorted(tracks))}), most accurate"
-        cmd += ["--tracks", ",".join(f"{k}={v}" for k, v in tracks.items())]
-    elif PROFILES.exists():
-        method = "voice matching (good, but not perfect on short replies)"
-        cmd += ["--profiles", str(PROFILES)]
-    else:
-        method = "no speaker names (voice profiles not found)"
-        cmd += ["--no-diarize"]
 
-    print(f"\nEpisode: {title}\nAudio:   {audio.name}\nSpeaker names by: {method}")
+    print(f"\nEpisode: {title}\nAudio:   {audio.name}")
     if dry_run:
         return True
 

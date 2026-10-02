@@ -23,7 +23,7 @@ Make sure the finished episode MP3 is in your iCloud NEStalgia folder, in `Mixes
    - a range: `401-410`
    - or a mix: `401-403 408`
    They run one after another, and it asks about publishing **once** at the end, for all of them.
-5. It tells you which episode it found and how it will label speakers. Then it works for a few minutes (about 3 minutes for a 30-minute episode, about 5 for a long one, per episode). Leave the window open.
+5. It tells you which episode it found. Then it works for a minute or two (about 1.5 minutes for a 30-minute episode, per episode). Leave the window open.
 6. When everything is done, it asks: **Publish them to GitHub now? (y/n)**
    - Type `y` and press Enter to put it on the website.
    - Type `n` if you want to read it first. It's saved on your Mac either way.
@@ -31,11 +31,11 @@ Make sure the finished episode MP3 is in your iCloud NEStalgia folder, in `Mixes
 
 Your transcript is saved in the `transcripts` folder as a normal text file you can open and read.
 
-## How it labels who's talking
+## How the transcript is laid out
 
-- If the Audition project for that episode has each host's own microphone recording, it uses those. This is the most accurate.
-- If not, it recognizes Mike, Sean and Joe by their voices. This is good but not perfect, and quick replies like "Yeah." can land on the wrong person.
-- The "I'm Mike, I'm Sean, and I'm Joe" part is labeled **Hosts**, and Mike gets the first line of the show.
+- The text is broken into paragraphs at natural pauses and changes of subject, and **every paragraph starts with its timestamp**, like `[04:20]`.
+- **There are no speaker names.** Automatic speaker labels weren't accurate enough to publish, so they were removed.
+- A matching `.vtt` file (subtitles, one sentence at a time) is saved next to it.
 
 ## If something goes wrong
 
@@ -49,14 +49,17 @@ Your transcript is saved in the `transcripts` folder as a normal text file you c
 - It doesn't edit the transcript. If a name or word is wrong, open the `.md` file in `transcripts` and fix it by hand, then publish again.
 - Bytes episodes (`NB …`) and SNEStalgia aren't supported yet. Ask Claude to add them.
 
-## Teaching it more voices (optional)
+## Removing the speaker names from older transcripts (one time)
 
-1. Open the same `scripts` folder and double-click **Add Voices.command**.
-2. Type episode numbers that have each host's own mic recording in Audition Projects, separated by spaces, like `447 448 449`. Then press Enter.
-3. Wait a few minutes per episode. It prints a re-test table comparing how well the old voice samples and the new ones name speakers.
-4. It asks **Keep the new voice samples? (y/n)**. Type `y` to keep them. Your old samples are backed up as `profiles.backup.npz` in the `.nestalgia-models` folder.
+Transcripts made before this change still show `**Mike** [00:22]:` speaker lines. To convert all of them at once:
 
-Episodes already added are skipped. It only helps with Mike, Sean and Joe; it can't learn Sam or guests, who have no mic recordings.
+1. In Finder, open the `scripts` folder (Shift + Command + G, paste `~/Developer/nestalgia/scripts`).
+2. Double-click **Strip Speakers.command**. It first shows a preview and changes nothing.
+3. Type `y` to convert. It keeps every word and every timestamp, regroups the text into paragraphs, and skips any transcript that is
+   already done, so it is safe to run again. It works offline.
+4. Type `y` to publish when it asks (that step needs internet). The website updates in a few minutes.
+
+Your old versions are kept in git history if you ever want them back.
 
 ## Updating the patron list on the homepage
 

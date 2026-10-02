@@ -1,22 +1,23 @@
 # Transcription tooling
 
-Local, free transcripts with speaker labels. Nothing here uploads audio.
+Local, free transcripts (paragraphs with timestamps, no speaker labels). Nothing here uploads audio.
 
 ## Setup (already done on Mike's Mac)
 
-- Python venv at `~/.venvs/nestalgia` with `mlx-whisper`, `sherpa-onnx`, `imageio-ffmpeg`, `numpy`, `soundfile`.
+- Python venv at `~/.venvs/nestalgia` with `mlx-whisper`, `imageio-ffmpeg`, `markdown`, `pillow`, `beautifulsoup4`, `anthropic`.
 - `ffmpeg` symlinked into the venv's `bin/` (from `imageio-ffmpeg`), so run with `export PATH=$HOME/.venvs/nestalgia/bin:$PATH`.
-- Models in `~/.nestalgia-models/`: `sherpa-onnx-pyannote-segmentation-3-0/`, `wespeaker_resnet34.onnx`
-  (plus `emb_en.onnx`, `titanet_small.onnx`, `wespeaker_resnet293.onnx` that were tried and rejected).
-  Whisper `mlx-community/whisper-large-v3-turbo` downloads itself into the Hugging Face cache.
+- Whisper `mlx-community/whisper-large-v3-turbo` downloads itself into the Hugging Face cache.
+  (`~/.nestalgia-models/` held the speaker-recognition models and voice profiles from the retired speaker experiment; it can be deleted.)
 
 ## Scripts
 
-- `transcribe.py AUDIO --out transcripts/NNN-name --title "NNN - Name" [--tracks "Mike=a.wav,Sean=b.wav,Joe=c.wav"]`
-  writes `.md` (speaker turns with timestamps) and `.vtt`.
-  - With `--tracks` (the hosts' separate mic recordings from the Audition projects) speakers are named exactly.
-  - Without it, falls back to unsupervised diarization, which does not work well here (see below).
-- `voiceid.py` builds voice profiles for the hosts (`enroll`, `enroll-mix`) for episodes with only a mixdown.
+- `transcribe.py AUDIO --out transcripts/NNN-name --title "NNN - Name"` writes `NNN-name.md` (paragraphs, each starting with a `[mm:ss]` timestamp)
+  and `NNN-name.vtt` (sentence-level subtitles). About 70 seconds for a 25-minute episode.
+- `paragraphs.py` turns sentences into paragraphs: a pause of 1.6 s or more always breaks; text longer than ~760 characters is split at its
+  best internal break (longer pause + change of vocabulary = new subject); pieces under ~170 characters are folded into a neighbour.
+- `strip_speakers.py` (double-click `Strip Speakers.command`) converts old speaker-labelled transcripts in bulk: timing from the `.vtt`,
+  speaker names dropped, regrouped into paragraphs, word count verified unchanged, idempotent, offline. `--dry-run` previews.
+- Tests: `python3 scripts/test_paragraphs.py`, `python3 scripts/test_make_links.py`.
 
 ## Auto-update from the feed
 
@@ -44,36 +45,16 @@ and `--check-proposals` / `--from-proposals` run the same verification. Run `pyt
 or `ANTHROPIC_API_KEY`. `--dry-run` shows the size of a request without spending anything; `--from-proposals FILE` verifies links from a
 file (used for the episode 446 sample). Untested against the live API as of this commit: there was no key on the dev machine.
 
-## Findings so far (tested on episode 446, 25 min)
+## History: why there are no speaker labels
 
-- Whisper turbo transcribes a 25-minute episode in about 75 seconds.
+Speaker labeling was built and then retired (the code is in git history, commits before "Remove speaker names").
+- Unsupervised diarization (sherpa-onnx pyannote segmentation with 3D-Speaker, WeSpeaker and TitaNet embeddings) failed on this show: it split the three hosts into 1-2 clusters, or 41 when auto-detecting.
+- Labeling from each host's own mic recording was accurate but only possible for about the last 20 episodes (Audition projects NES 438-454).
+- Voice recognition trained on the final mixes scored 81% of sentences (90% of airtime) on a held-out episode, and only 62% on 1-2 second replies. Not good enough to publish.
+- Decision: publish transcripts as timestamped paragraphs with no speaker names.
+
+## Whisper findings
+
 - `condition_on_previous_text=True` is required; with it off, about half of the segments come out lowercase with no punctuation.
-- Unsupervised diarization (sherpa-onnx pyannote segmentation + 3D-Speaker, WeSpeaker and TitaNet embeddings) fails: it splits the three hosts into 1-2 clusters, or 41 when auto-detecting.
-- Multitrack labeling works well. Align each host's mic track to the mixdown (windowed envelope cross-correlation), then pick the loudest mic per segment. Mike, Sean and Joe came out correctly on 446.
-- Multitrack data exists only for roughly the last 20 episodes (Audition Projects: NES 438-454, NB 053-055, SNES 002, S06). Tracks are Espo (Mike), Sean, Joe. There is no Sam track.
-- Voice-ID from profiles built from raw mic tracks scored only 62% on held-out episode 446 (Sean over-predicted), probably because the mixdown is processed audio.
-
-- Voice-ID trained on the mixdown segments themselves (labeled via the mic tracks; `voiceid.py enroll-mix`, 4 episodes: 439, 442, 444, 445)
-  scored, on held-out episode 446: 81.4% of segments, 90.3% of airtime. By segment length: >4 s 96%, 2-4 s 81%, 1-2 s 62%.
-  Better than raw-track profiles (62%) but not reliable for quick back-and-forth. Not used for any published transcript yet.
-- Word-level mic labeling was worse than sentence-level (timing is only good to a fraction of a second), so `transcribe.py --tracks` labels per sentence.
-- Whisper loops on laughter/outro ("Ha ha ha." repeated); `transcribe.py` drops runaway repeats.
-
-- `transcribe.py --profiles ~/.nestalgia-models/profiles.npz` names speakers by voice when there are no mic tracks (sentence-level; the opening
-  "I'm Mike / I'm Sean / I'm Joe" is labeled "Hosts"). Profiles come from 8 episodes (438, 439, 442-446, 450). First run: episode 400 (85 min, about 5 minutes).
-
-- `add_voices.py` (double-click `Add Voices.command`) adds episodes with mic tracks to the voice profiles and re-tests leave-one-episode-out.
-  Test with 447 and 448 (two-host episodes): airtime accuracy 88.5% before vs 88.7% after, so adding single episodes shows diminishing returns.
-  Accuracy is limited more by short interjections than by sample count. On two-host episodes errors include naming the absent third host.
-
-## Published so far
-
-- `transcripts/446-touchdown-fever.md` / `.vtt`, speakers named from the mic tracks.
-
-## Next steps
-
-1. Decide what to do for the ~420 mixdown-only episodes: plain transcripts (no names), voice-ID labels with a caveat, or more enrollment episodes (more training data, add Sam).
-   Ideas to raise accuracy: enroll from more episodes (the tracks exist for ~17 more), smooth labels across neighbouring segments, only label segments longer than ~2 s.
-2. Run the multitrack path (`--tracks`) for the other episodes that have mic tracks (NES 438-454, NB 053-055, SNES 002, S06).
-3. Bulk run. Finished MP3s for episodes 286-454 are in `iCloud/10_NEStalgia/Mixes`; earlier audio comes from the RSS feed (`https://anchor.fm/s/5808ab8/podcast/rss`). Whisper takes about 75 seconds per 25-minute episode.
-4. Link transcripts from `episodes/README.md`.
+- Whisper loops on laughter or outro music ("Ha ha ha." repeated); `transcribe.py` drops runaway repeats.
+- `large-v3` is no better than `large-v3-turbo` here and about 12x slower.

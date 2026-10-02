@@ -151,12 +151,19 @@ def render_links(number):
 TURN = re.compile(r"^\*\*([^*]+)\*\* \[([\d:]+)\]: (.*)$")
 
 
+PARA = re.compile(r"^\[(\d+:\d\d(?::\d\d)?)\] (.*)$")
+
+
 def render_transcript(path):
+    """Paragraph format: [mm:ss] text. (Old speaker-turn format is still understood until converted.)"""
     parts, note = [], ""
     for ln in (REPO / path).read_text().split("\n"):
-        m = TURN.match(ln)
+        m = PARA.match(ln)
+        t = TURN.match(ln)
         if m:
-            who, ts, txt = m.groups()
+            parts.append(f'<p class="para"><span class="ts">{m.group(1)}</span> {E(m.group(2))}</p>')
+        elif t:
+            who, ts, txt = t.groups()
             parts.append(f'<p class="turn spk-{slug(who)}"><b>{E(who)}</b> <span class="ts">{ts}</span> {E(txt)}</p>')
         elif ln.startswith("_") and ln.endswith("_"):
             note = ln.strip("_")
