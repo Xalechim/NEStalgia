@@ -366,6 +366,15 @@
           "source": "site"
         }
       ]
+    },
+    {
+      "name": "Bill Elliott's NASCAR Challenge",
+      "kind": "game",
+      "description": "The hosts contrast this game with Harlem Globetrotters: Bill Elliott put his name on that game as a designer; the Globetrotters did not. Covered in episode 447.",
+      "timestamp": "33:13",
+      "links": [],
+      "episode_key": "447-bill-elliots-nascar-challenge",
+      "episode_title": "Bill Elliot's NASCAR Challenge"
     }
   ]
 }

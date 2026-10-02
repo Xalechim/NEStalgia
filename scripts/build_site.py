@@ -221,7 +221,8 @@ def write(rel, content):
 
 def card(r):
     label = f"{r['number']:03d}" if r["number"] is not None and r["type"] == "episode" else ("Special" if r["type"] == "special" else "")
-    badge = '<span class="badge">TRANSCRIPT</span>' if r["transcript"] else ""
+    tags = [t for t, on in (("NOTES", r["notes"]), ("LINKS", r.get("has_links")), ("TRANSCRIPT", r["transcript"])) if on]
+    badge = f'<div class="badges">{"".join(f"<span class=badge>{t}</span>" for t in tags)}</div>' if tags else ""
     return (f'<a class="card" href="{BASE}/episodes/{r["key"]}/" data-type="{r["type"]}" data-date="{r["published"]}" '
             f'data-num="{r["number"] if r["number"] is not None else ""}" data-title="{E(r["title"].lower())}">'
             f'<img src="{BASE}/art/thumb/{r["key"]}.jpg" alt="" loading="lazy" width="300" height="300">'
@@ -383,6 +384,7 @@ def main():
     # data/episodes.json can be a little stale (it is refreshed on a schedule); what is actually in the repo wins.
     for r in data:
         r["notes"], r["transcript"] = local_files(r["type"], r["number"], r["title"], r["feed_title"])
+        r["has_links"] = bool(r["type"] == "episode" and r["number"] is not None and render_links(r["number"]))
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()

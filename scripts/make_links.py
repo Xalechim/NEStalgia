@@ -198,6 +198,16 @@ def transcript_path(n):
     return Path(hits[0]) if hits else None
 
 
+def match_episode(name, ep_titles):
+    """Find your episode for a name, forgiving small spelling differences (Elliott / Elliot)."""
+    import difflib
+    k = re.sub(r"[^a-z0-9]", "", name.lower())
+    if k in ep_titles:
+        return ep_titles[k]
+    close = difflib.get_close_matches(k, list(ep_titles), n=1, cutoff=0.93)
+    return ep_titles[close[0]] if close else None
+
+
 def episode_titles():
     f = REPO / "data/episodes.json"
     if not f.exists():
@@ -360,7 +370,7 @@ def finalize(items, found, searched, ep_titles, log=print, allow_internal=False)
                 log(f"   dropped (dead link): {url}")
                 continue
             links.append({"url": url, "label": (l.get("label") or host)[:120], "source": l.get("source", "other")})
-        ep = ep_titles.get(re.sub(r"[^a-z0-9]", "", it["name"].lower()))
+        ep = match_episode(it["name"], ep_titles)
         entry = {
             "name": it["name"],
             "kind": it["kind"] if it["kind"] in KINDS else "other",
