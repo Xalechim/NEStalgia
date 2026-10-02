@@ -26,16 +26,36 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 018 | DONKEY KONG | [transcript](../transcripts/018-donkey-kong.md) |
 | 019 | DONKEY KONG JR. | [transcript](../transcripts/019-donkey-kong-jr.md) |
 | 020 | DONKEY KONG 3 | [transcript](../transcripts/020-donkey-kong-3.md) |
-| 032 | 1942 | [notes](032-1942.md) |
-| 035 | Gradius | [notes](035-gradius.md) |
-| 036 | Karate Champ | [notes](036-karate-champ.md) |
-| 038 | Pro Wrestling | [notes](038-pro-wrestling.md) |
-| 039 | Slalom | [notes](039-slalom.md) |
-| 040 | Volleyball | [notes](040-volleyball.md) |
-| 041 | Rush'N Attack | [notes](041-rushn-attack.md) |
-| 042 | Track & Field | [notes](042-track-field.md) |
-| 044 | Castlevania | [notes](044-castlevania.md) |
-| 048 | Kid Icarus | [notes](048-kid-icarus.md) |
+| 021 | DONKEY KONG JR. MATH | [transcript](../transcripts/021-donkey-kong-jr-math.md) |
+| 022 | MARIO BROS. | [transcript](../transcripts/022-mario-bros.md) |
+| 023 | POPEYE | [transcript](../transcripts/023-popeye.md) |
+| 024 | BALLOON FIGHT | [transcript](../transcripts/024-balloon-fight.md) |
+| 025 | GUMSHOE | [transcript](../transcripts/025-gumshoe.md) |
+| 026 | MACH RIDER | [transcript](../transcripts/026-mach-rider.md) |
+| 027 | URBAN CHAMPION | [transcript](../transcripts/027-urban-champion.md) |
+| 028 | TAG TEAM WRESTLING | [transcript](../transcripts/028-tag-team-wrestling.md) |
+| 029 | CHUBBY CHERUB | [transcript](../transcripts/029-chubby-cherub.md) |
+| 030 | TAG TEAM MATCH M.U.S.C.L.E | [transcript](../transcripts/030-tag-team-match-m-u-s-c-l-e.md) |
+| 031 | NINJA KID | [transcript](../transcripts/031-ninja-kid.md) |
+| 032 | 1942 | [notes](032-1942.md), [transcript](../transcripts/032-1942.md) |
+| 033 | COMMANDO | [transcript](../transcripts/033-commando.md) |
+| 034 | GHOSTS 'N GOBLINS | [transcript](../transcripts/034-ghosts-n-goblins.md) |
+| 035 | Gradius | [notes](035-gradius.md), [transcript](../transcripts/035-gradius.md) |
+| 036 | Karate Champ | [notes](036-karate-champ.md), [transcript](../transcripts/036-karate-champ.md) |
+| 037 | TROJAN | [transcript](../transcripts/037-trojan.md) |
+| 038 | Pro Wrestling | [notes](038-pro-wrestling.md), [transcript](../transcripts/038-pro-wrestling.md) |
+| 039 | Slalom | [notes](039-slalom.md), [transcript](../transcripts/039-slalom.md) |
+| 040 | Volleyball | [notes](040-volleyball.md), [transcript](../transcripts/040-volleyball.md) |
+| 041 | Rush'N Attack | [notes](041-rushn-attack.md), [transcript](../transcripts/041-rushn-attack.md) |
+| 042 | Track & Field | [notes](042-track-field.md), [transcript](../transcripts/042-track-field.md) |
+| 043 | BURGERTIME | [transcript](../transcripts/043-burgertime.md) |
+| 044 | Castlevania | [notes](044-castlevania.md), [transcript](../transcripts/044-castlevania.md) |
+| 045 | IKARI WARRIORS | [transcript](../transcripts/045-ikari-warriors.md) |
+| 046 | ATHLETIC WORLD | [transcript](../transcripts/046-athletic-world.md) |
+| 047 | BREAKTHRU | [transcript](../transcripts/047-breakthru.md) |
+| 048 | Kid Icarus | [notes](048-kid-icarus.md), [transcript](../transcripts/048-kid-icarus.md) |
+| 049 | MIGHTY BOMB JACK | [transcript](../transcripts/049-mighty-bomb-jack.md) |
+| 050 | RYGAR | [transcript](../transcripts/050-rygar.md) |
 | 051 | Section Z | [notes](051-section-z.md) |
 | 052 | Solomon’s Key | [notes](052-solomons-key.md) |
 | 053 | Arkanoid | [notes](053-arkanoid.md) |

@@ -1,0 +1,2080 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.400
+Popeye, now you're the king of spinach in a battle for Olive's Love.
+
+00:00:20.720 --> 00:00:27.340
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:27.340 --> 00:00:28.400
+I'm Mike.
+
+00:00:28.580 --> 00:00:29.980
+I'm Sam. I'm Sean.
+
+00:00:30.540 --> 00:00:34.200
+And I'm Joe. I'm here too.
+
+00:00:34.200 --> 00:00:36.460
+I said that in like a denouement way.
+
+00:00:36.980 --> 00:00:39.480
+I forget. It hasn't happened in a while.
+
+00:00:39.560 --> 00:00:41.860
+Yeah. I'm not in the room with you, so it's fair.
+
+00:00:41.860 --> 00:00:45.840
+Yes, this is their way of knowing that, even though I think we alluded to the fact in the
+
+00:00:45.840 --> 00:00:49.200
+previous last week's episode, we said that Joe wouldn't be here for this one either.
+
+00:00:49.560 --> 00:00:55.360
+So, for those of you now wondering where Joe is for some weird reason, he's not with us.
+
+00:00:55.360 --> 00:00:56.400
+I'll never tell. Yes.
+
+00:00:56.480 --> 00:01:00.460
+He's in Catalan. You'll never tell because he's on the search for Carmen Sandiego.
+
+00:01:00.660 --> 00:01:04.180
+I've made that joke only once before, so I'm allowed to make it at least one more time.
+
+00:01:04.440 --> 00:01:05.560
+That thing's in Chechnya this time.
+
+00:01:05.880 --> 00:01:08.080
+That's fair. So, guys, today we're talking about Popeye.
+
+00:01:08.420 --> 00:01:10.080
+It's our first licensed game.
+
+00:01:10.620 --> 00:01:16.840
+Sean really wanted to include Kung Fu in that, but I can't because it's just an adaptation
+
+00:01:17.460 --> 00:01:20.320
+of a game, of a movie that gets a game.
+
+00:01:20.320 --> 00:01:22.060
+All right, Mike, we get it. It's very confusing.
+
+00:01:22.620 --> 00:01:24.860
+Popeye, on the other hand, everybody knows Popeye.
+
+00:01:24.980 --> 00:01:30.340
+He's been around since like the 30s or 40s, and Miyamoto absolutely loves Popeye.
+
+00:01:30.340 --> 00:01:31.360
+I love it.
+
+00:01:31.580 --> 00:01:32.760
+It's very strange.
+
+00:01:32.900 --> 00:01:37.360
+We talked about this, Sean and I, on the Donkey Kong episodes, but Miyamoto has wanted
+
+00:01:37.360 --> 00:01:40.300
+to make Popeye ever since the original Donkey Kong.
+
+00:01:40.300 --> 00:01:44.980
+In fact, the original Donkey Kong game had Popeye in it, and then they were like, nah, this
+
+00:01:44.980 --> 00:01:50.640
+isn't kosher. You can't do this because Popeye is, Popeye, we don't have the rights to that, so you got
+
+00:01:50.640 --> 00:01:51.540
+to make something else.
+
+00:01:51.600 --> 00:01:53.280
+He goes, okay, what about King Kong?
+
+00:01:53.460 --> 00:01:55.520
+And they were like, couldn't see a lawsuit, but okay.
+
+00:01:56.020 --> 00:01:57.000
+It's better than nothing.
+
+00:01:58.380 --> 00:01:59.460
+So there was that.
+
+00:01:59.660 --> 00:02:05.040
+They couldn't get the rights, but finally in 1983, he's able to get his vision to come
+
+00:02:05.040 --> 00:02:12.640
+true and see Popeye in a game for the arcade that only in 1986 comes to the NES.
+
+00:02:13.020 --> 00:02:17.060
+But I have to stress that it was a launch game for the Famicom.
+
+00:02:17.340 --> 00:02:23.320
+Wow. It's the final launch game of the Famicom for us to cover because the other two were Donkey
+
+00:02:23.320 --> 00:02:24.660
+Kong and Nung Yung Jr.
+
+00:02:25.040 --> 00:02:28.480
+See, that's interesting that they would just, I mean, I guess they were trying to put their
+
+00:02:28.480 --> 00:02:33.600
+best foot forward in America, but it's interesting that it was a launch title in Japan and didn't
+
+00:02:33.600 --> 00:02:37.820
+really come to America until after they had put out their launches for the NES.
+
+00:02:38.200 --> 00:02:40.120
+Yeah. I did notice that too.
+
+00:02:40.240 --> 00:02:44.840
+And I wonder why that is, if it's just that maybe it was still popular in the arcades and
+
+00:02:44.840 --> 00:02:49.160
+they didn't want to make it available on a home route or if they just, I really can't
+
+00:02:49.160 --> 00:02:53.440
+tell you, but one thing that's to note is if you look at the arcade version of Popeye.
+
+00:02:53.700 --> 00:02:55.380
+Oh, it's a completely different looking game.
+
+00:02:55.480 --> 00:02:56.380
+It looks great.
+
+00:02:56.440 --> 00:03:02.700
+Yeah. And this game looks so rushed and we'll get into that in a minute, but it's just very interesting
+
+00:03:02.700 --> 00:03:07.360
+that like they couldn't polish it even more for the 1986 release on NES.
+
+00:03:07.580 --> 00:03:11.820
+They just decided to do a straight port with some, you know, English localization.
+
+00:03:12.300 --> 00:03:15.480
+But before we talk about that, we got to talk about first impressions.
+
+00:03:15.880 --> 00:03:18.300
+So Sean, what's your first impression of Popeye?
+
+00:03:18.300 --> 00:03:25.080
+Um, so I go into every game blind and in the first one, in my first run through, I was
+
+00:03:25.080 --> 00:03:27.280
+completely confused as to what I was supposed to be doing.
+
+00:03:27.400 --> 00:03:32.780
+I was about to go to the manual, um, like a smart person, but decided I'd keep going.
+
+00:03:33.000 --> 00:03:38.920
+I eventually got, um, got the gist of the rules and, um, I actually had a bit of fun
+
+00:03:38.920 --> 00:03:40.100
+playing this game. Great.
+
+00:03:40.320 --> 00:03:41.380
+Uh, Sam?
+
+00:03:41.380 --> 00:03:44.600
+Uh, so I did read the manual first before I played this one.
+
+00:03:44.960 --> 00:03:50.200
+And so I figured out what I was supposed to do, which I guess was helpful, but, uh, it
+
+00:03:50.200 --> 00:03:53.200
+didn't overwhelm me. I thought that the music was really good first off.
+
+00:03:53.480 --> 00:03:58.360
+Um, and it looked kind of nice sometimes, but that was, that was about it.
+
+00:03:58.740 --> 00:04:02.840
+Okay. And, uh, Joe, I had a little bit of a, an interesting first impression.
+
+00:04:03.120 --> 00:04:08.700
+Uh, a lot of these NES games have, have like sounds when you move or, um, or just like
+
+00:04:08.700 --> 00:04:11.080
+a lot of crazy sounds and they get a little annoying.
+
+00:04:11.380 --> 00:04:14.520
+And my first impression of this one was that these sounds were kind of low pitch and a lot
+
+00:04:14.520 --> 00:04:17.640
+more pleasing to hear a lot less annoying and like grading.
+
+00:04:18.060 --> 00:04:22.700
+Uh, yeah, I think, I think for sure to, you know, to your and Sam's point, the music in
+
+00:04:22.700 --> 00:04:23.720
+this game is really polished.
+
+00:04:23.880 --> 00:04:27.560
+And even that intro, like what a faithful intro to Popeye.
+
+00:04:27.700 --> 00:04:28.620
+Right. It's Popeye.
+
+00:04:29.060 --> 00:04:32.680
+Uh, and also I just kind of started, uh, I didn't know what to do at first either.
+
+00:04:32.680 --> 00:04:35.660
+So I was just like, I guess while I'm trying to figure it out, I'll collect these
+
+00:04:35.660 --> 00:04:37.080
+pedals that are dropping.
+
+00:04:37.080 --> 00:04:40.460
+And then after a while I was like, Oh, that's all I had to do is collect the pedals.
+
+00:04:40.680 --> 00:04:41.820
+So I figured it out.
+
+00:04:42.420 --> 00:04:48.420
+All right. And so my first impression of this game is actually different than Sam's in the sense
+
+00:04:48.420 --> 00:04:50.560
+that I didn't feel like this was an NES game.
+
+00:04:50.780 --> 00:04:54.080
+Uh, it felt almost Atari 2600 like to me.
+
+00:04:54.560 --> 00:05:00.320
+It was very, um, you know, the stairs definitely the graphic of the stairs are right out of Atari
+
+00:05:00.320 --> 00:05:05.740
+2600, but even just the limitations of like, well, you can't jump, you know, you can't punch
+
+00:05:05.740 --> 00:05:07.680
+Brutus unless you have the spinach thing.
+
+00:05:07.900 --> 00:05:14.240
+Like I get that those are gameplay restrictions, but they just, it all felt very, um, old school,
+
+00:05:14.440 --> 00:05:18.860
+old school in that Atari 2600 sense that I just, I wasn't jiving with that.
+
+00:05:18.960 --> 00:05:23.980
+That's what I meant when I said it's very NES, just like as it's very old school gaming.
+
+00:05:23.980 --> 00:05:25.720
+That's just what I meant from that.
+
+00:05:25.900 --> 00:05:27.040
+Yeah. Gotcha. All right.
+
+00:05:27.120 --> 00:05:29.860
+So let's, uh, let's talk about the objective of the game real fast.
+
+00:05:30.260 --> 00:05:35.820
+Your Popeye, uh, olive oil is kind of like in the top right of the stage, uh, for the
+
+00:05:35.820 --> 00:05:41.040
+most part. And she is either giving you, depending on the level, she's either giving you hearts to
+
+00:05:41.040 --> 00:05:46.980
+collect or she's giving you music notes or she's giving you a cries for help, a cry for
+
+00:05:46.980 --> 00:05:48.660
+help, a G L P.
+
+00:05:48.660 --> 00:05:53.720
+Uh, so you have to collect those as Popeye through, uh, going through the different platforms
+
+00:05:53.720 --> 00:06:01.540
+and stuff like that. So it is a platforming game all while avoiding obstacles like Brutus and, um, the beer bottles
+
+00:06:01.540 --> 00:06:06.820
+he throws. And if you can find the sea hag, if you play the game enough, she'll show up and start dropping
+
+00:06:06.820 --> 00:06:07.820
+skulls. The vulture.
+
+00:06:08.040 --> 00:06:09.500
+The vulture is there.
+
+00:06:09.680 --> 00:06:11.260
+There's a lot of, uh, different things.
+
+00:06:11.700 --> 00:06:12.600
+Yeah. The vulture.
+
+00:06:12.740 --> 00:06:14.320
+It's like, I'm talking like the Spider-Man villain.
+
+00:06:14.560 --> 00:06:16.100
+The vulture shows up.
+
+00:06:16.100 --> 00:06:18.640
+I think the vulture had a name in the manual.
+
+00:06:18.800 --> 00:06:19.980
+I think it did too.
+
+00:06:20.160 --> 00:06:23.260
+And I know that all of the characters are actually in Popeye.
+
+00:06:23.420 --> 00:06:24.340
+Bluto. Yeah. Sorry.
+
+00:06:24.500 --> 00:06:26.120
+Not Brutus. I don't know why I said Brutus.
+
+00:06:26.180 --> 00:06:27.760
+Okay. I was going to ask you about that.
+
+00:06:27.760 --> 00:06:28.780
+Is it, is it Bluto?
+
+00:06:29.040 --> 00:06:30.560
+It's Bluto? It is.
+
+00:06:30.720 --> 00:06:34.480
+They do say Brutus too though in the manuals, but I'm seeing Bluto.
+
+00:06:34.780 --> 00:06:36.460
+Like that's how, that's what I knew at least.
+
+00:06:36.620 --> 00:06:39.980
+Like I always thought it was Pluto, but I probably just misheard it when I was a kid.
+
+00:06:39.980 --> 00:06:40.960
+No, Pluto is, yeah.
+
+00:06:41.100 --> 00:06:44.080
+Pluto's a dog. Well, I know, I know the other Pluto, but I've just.
+
+00:06:44.720 --> 00:06:46.480
+Which Goofy has no reaction to.
+
+00:06:47.200 --> 00:06:48.500
+He's just like, yeah, that's normal.
+
+00:06:48.600 --> 00:06:49.720
+Yeah. I'm into that.
+
+00:06:49.880 --> 00:06:54.860
+Yeah. I also was going to ask on the back of the box, does it just call her Olive?
+
+00:06:55.260 --> 00:06:56.560
+Yeah. It just calls her Olive.
+
+00:06:56.980 --> 00:06:58.460
+Huh? Cause it's Olive Oil, right?
+
+00:06:58.600 --> 00:07:00.440
+Yeah. Olive Oil. Oil's her last name.
+
+00:07:00.580 --> 00:07:02.320
+Oil. Oh yeah. O-I-L.
+
+00:07:02.320 --> 00:07:03.600
+Yeah. Not O-I-L.
+
+00:07:03.800 --> 00:07:05.340
+It's a casual, it's a casual one.
+
+00:07:05.340 --> 00:07:06.620
+Yeah, they know her first name basis.
+
+00:07:06.900 --> 00:07:10.680
+Oh, okay. So it's, I always just assumed Olive Oil was her full first name.
+
+00:07:11.020 --> 00:07:15.160
+Alright, so before we go any further, because I, I, you know, like, we could go into like
+
+00:07:15.160 --> 00:07:18.320
+the fact that Sweet Pea's in this game too, but like, who cares, right?
+
+00:07:18.560 --> 00:07:19.480
+I don't even know what that is.
+
+00:07:19.480 --> 00:07:26.040
+Sweet Pea is the baby on the second, uh, second level that you can like touch for 500 points.
+
+00:07:27.620 --> 00:07:28.700
+Oh, jeez.
+
+00:07:29.320 --> 00:07:41.580
+Um. So anyway, if it wasn't clear, this is like, you know, a collect-a-thon.
+
+00:07:41.840 --> 00:07:46.020
+Yeah. But without the, you know, adventure aspects of a collect-a-thon, you're just collecting
+
+00:07:46.020 --> 00:07:49.520
+the hearts, the music notes, or the screams for help.
+
+00:07:49.640 --> 00:07:55.160
+Yeah. But there, there's a couple, uh, there are some interactable, uh, elements to each level.
+
+00:07:55.420 --> 00:08:02.460
+Mm-hmm. Um, you can, uh, you can punch a barrel and have Bluto, uh, get stuck in it for a little
+
+00:08:02.460 --> 00:08:07.220
+bit, and then you can, you can collect all of the hearts that you desire.
+
+00:08:07.220 --> 00:08:13.260
+Um, or in the, uh, the city level, you can get onto a catapult and get some extra points
+
+00:08:13.260 --> 00:08:16.140
+that way, and also get to the top of the stage.
+
+00:08:16.680 --> 00:08:20.280
+Um, they've got a little bit of, uh, of differences.
+
+00:08:20.820 --> 00:08:22.980
+Yeah. I like that there was something.
+
+00:08:23.340 --> 00:08:28.460
+Yeah. There was a different design in each stage, but also just a different, like, unique.
+
+00:08:28.460 --> 00:08:30.040
+Like a stick. Yeah, like a stick to it.
+
+00:08:30.480 --> 00:08:33.740
+Uh, but just having like one additional thing.
+
+00:08:33.960 --> 00:08:36.480
+Yeah, I know. Yeah. It wasn't really like enough to save this game.
+
+00:08:36.760 --> 00:08:40.920
+Exactly. You're still just getting, collecting things and that, and avoiding a guy.
+
+00:08:41.080 --> 00:08:46.900
+And that's it. One thing I would like to note though, in terms of the spinach power up, uh, is that there,
+
+00:08:47.840 --> 00:08:53.200
+as I was not reading the manual, I would see this little shrub show up in the corner
+
+00:08:53.200 --> 00:08:55.260
+and it would just start changing levels.
+
+00:08:55.260 --> 00:08:58.000
+And I'm like, why is this shrub moving around?
+
+00:08:58.280 --> 00:09:02.260
+Yeah. I thought, yeah, I read the manual and I forgot about it because it doesn't really look like
+
+00:09:02.260 --> 00:09:05.900
+spinach. It doesn't also, it also looks like you can't interact with it because it's usually behind.
+
+00:09:06.420 --> 00:09:11.960
+Yeah. First thing that, uh, that Sam did to me was like, he, that thing popped up and I was
+
+00:09:11.960 --> 00:09:12.840
+like, what is that?
+
+00:09:12.860 --> 00:09:13.900
+And he punches it.
+
+00:09:14.000 --> 00:09:16.020
+I'm like, you can't. And then he's like turning purple.
+
+00:09:16.320 --> 00:09:17.340
+Yeah. I'm like, what's going on?
+
+00:09:17.360 --> 00:09:18.920
+And then I was like, that's the spinach.
+
+00:09:19.260 --> 00:09:21.720
+Yeah. I thought they left it out of the NES port.
+
+00:09:22.000 --> 00:09:23.260
+Wow. I'll be honest.
+
+00:09:23.460 --> 00:09:25.600
+This is all completely new to me.
+
+00:09:25.860 --> 00:09:28.720
+I did. I saw, I saw that shrub going around.
+
+00:09:28.820 --> 00:09:29.860
+I thought you couldn't interact with it.
+
+00:09:29.920 --> 00:09:31.860
+I didn't even, I didn't even try to go over.
+
+00:09:31.860 --> 00:09:32.840
+You can't sit behind the stairs.
+
+00:09:33.020 --> 00:09:33.980
+Yeah. It doesn't look like you can.
+
+00:09:33.980 --> 00:09:35.000
+It doesn't look interact with it.
+
+00:09:35.000 --> 00:09:39.000
+The thing about the spinach is if you get the spinach, Brutus runs away from you and
+
+00:09:39.000 --> 00:09:40.660
+he can run faster than you can.
+
+00:09:41.180 --> 00:09:43.280
+I love how we're just going to continue to change.
+
+00:09:43.600 --> 00:09:45.780
+Brutus. We should.
+
+00:09:45.780 --> 00:09:47.260
+They're leaving it open ended.
+
+00:09:47.420 --> 00:09:48.560
+We might as well. Yeah.
+
+00:09:48.860 --> 00:09:51.080
+Mr. X. Yeah.
+
+00:09:52.060 --> 00:09:56.380
+He, so he runs away from you when you get it, which is kind of fun, but also like I
+
+00:09:56.380 --> 00:09:57.360
+really want to punch him.
+
+00:09:57.640 --> 00:10:00.460
+Yeah. But you should use that time to get the collectibles instead.
+
+00:10:13.020 --> 00:10:15.860
+Oh, and just for the record, the vulture's name is Bernard.
+
+00:10:16.200 --> 00:10:17.340
+Oh, of course it is.
+
+00:10:17.540 --> 00:10:22.460
+That's obvious. And some real Popeye fans going to be like, no, that's just what Nintendo calls him.
+
+00:10:22.680 --> 00:10:23.560
+His name is not Bernard.
+
+00:10:24.120 --> 00:10:26.500
+Why are you always so angry with the fans, man?
+
+00:10:26.660 --> 00:10:30.380
+No, no, no. I think it's actually, I think it's a fun thing that the fans and I have as a feud.
+
+00:10:31.600 --> 00:10:32.840
+Everybody needs someone to hate.
+
+00:10:32.980 --> 00:10:34.380
+I might as well be the heel of the show.
+
+00:10:34.580 --> 00:10:35.540
+The imaginary curious fans.
+
+00:10:35.880 --> 00:10:37.160
+Yeah. Okay.
+
+00:10:37.320 --> 00:10:40.000
+So did anybody else feel that way about the graphics though for this game?
+
+00:10:40.080 --> 00:10:43.000
+Oh yeah. Like that game compared to every game we've seen so far?
+
+00:10:43.100 --> 00:10:45.420
+I mean, they're definitely still identifiable.
+
+00:10:45.740 --> 00:10:46.580
+Like they are. Oh yeah.
+
+00:10:46.640 --> 00:10:48.320
+Okay. Yeah. So it's not like he's blocks.
+
+00:10:48.520 --> 00:10:49.760
+I know, I know, I know.
+
+00:10:49.860 --> 00:10:52.740
+But they could, they could still just be like a bad silhouette.
+
+00:10:52.740 --> 00:10:54.800
+They had, they had a recognizable silhouette.
+
+00:10:55.240 --> 00:10:59.900
+Um, they're, they've got, they're pretty big sprites in terms of like at least Bluto Brutus
+
+00:10:59.900 --> 00:11:01.040
+and olive oil.
+
+00:11:01.180 --> 00:11:03.560
+They look like each other and they look like themselves.
+
+00:11:03.980 --> 00:11:10.400
+Um, Popeye though, looks like he, um, like he, he had anemia for a while and like his,
+
+00:11:10.700 --> 00:11:13.460
+like he had scoliosis and got kind of short.
+
+00:11:13.680 --> 00:11:15.540
+He's always looked like that in the cartoons though too.
+
+00:11:15.760 --> 00:11:17.180
+A little bit. He looks too small.
+
+00:11:17.340 --> 00:11:19.260
+He looks just way too small compared to the rest of them.
+
+00:11:19.280 --> 00:11:20.300
+Compared to, yeah. Compared to Bluto.
+
+00:11:20.560 --> 00:11:23.980
+Like, uh, you know, Bluto takes up so much of the screen and there are times where he'll
+
+00:11:23.980 --> 00:11:25.900
+just like, just jump down.
+
+00:11:26.060 --> 00:11:28.360
+Yeah. He'll jump onto a platform, punch you.
+
+00:11:28.540 --> 00:11:31.400
+And that's it. That got me a little angry, but go ahead.
+
+00:11:31.400 --> 00:11:32.940
+I guess sometimes he doesn't even jump down.
+
+00:11:33.020 --> 00:11:36.460
+Sometimes he just reaches down and hits you like reaches down to another level.
+
+00:11:36.840 --> 00:11:38.320
+Yeah. I got it. Sorry.
+
+00:11:38.500 --> 00:11:45.080
+Go ahead. Um, so I gotta say that even though sometimes the AI is frustrated, he's, it's frustrating
+
+00:11:45.080 --> 00:11:46.920
+to deal with him and jumping down and things.
+
+00:11:46.920 --> 00:11:49.200
+I do think that it's pretty good AI.
+
+00:11:49.620 --> 00:11:52.440
+Cause it's not like he's constantly hunting you down.
+
+00:11:52.740 --> 00:11:54.720
+Like they get, like he goes back and forth sometimes.
+
+00:11:55.280 --> 00:11:56.720
+Sometimes he'll throw bottles at you.
+
+00:11:56.860 --> 00:11:58.620
+Sometimes he'll jump at you if he's near you.
+
+00:11:59.020 --> 00:12:01.160
+Um, and he telephones his attacks.
+
+00:12:01.260 --> 00:12:05.040
+Yeah. You do see him kind of like wind up for them, but you have to be paying attention.
+
+00:12:05.040 --> 00:12:10.520
+And I do want to disagree with you real fast on the, um, on the bottles because sometimes
+
+00:12:10.520 --> 00:12:12.440
+he'll throw four or five bottles.
+
+00:12:12.520 --> 00:12:13.880
+I'm like, Oh great. I just got punch him.
+
+00:12:13.980 --> 00:12:17.800
+No big deal. And then he'll just go right into throwing another set of four or five.
+
+00:12:17.880 --> 00:12:18.940
+And it's like, it's super.
+
+00:12:19.100 --> 00:12:20.980
+Sometimes I have three times in a row.
+
+00:12:21.100 --> 00:12:24.220
+Like he would just take like one additional step and then be like, but we'll throw these
+
+00:12:24.220 --> 00:12:27.280
+bottles again. Like, I didn't even know that you could punch the bottles out of the air.
+
+00:12:27.380 --> 00:12:28.400
+I was like dodging the bottles.
+
+00:12:28.600 --> 00:12:31.620
+I was just running away from the bottles and going to the next game very hard on
+
+00:12:31.620 --> 00:12:33.100
+yourself. I know. I knew it.
+
+00:12:33.420 --> 00:12:37.680
+And I still didn't punch the bottles.
+
+00:12:38.080 --> 00:12:40.820
+I don't know. I just, I'm not sure why.
+
+00:12:40.880 --> 00:12:42.960
+I tried to get points wherever possible.
+
+00:12:43.100 --> 00:12:46.520
+Cause again, I was thinking about your high score because I said, Oh, maybe I should change
+
+00:12:46.520 --> 00:12:48.120
+my way of thinking about how I play these games.
+
+00:12:48.240 --> 00:12:52.200
+Cause you know, just to run through it real fast, let's, let's just break it down level
+
+00:12:52.200 --> 00:12:53.420
+by level. If you guys don't mind.
+
+00:12:53.560 --> 00:12:59.320
+Yeah. All right.
+
+00:12:59.320 --> 00:13:00.500
+So we got level one.
+
+00:13:00.620 --> 00:13:01.740
+Uh, you're, you got potting.
+
+00:13:01.760 --> 00:13:03.440
+Popeye's house and olive oil house.
+
+00:13:03.960 --> 00:13:04.920
+It's like, yeah, whatever.
+
+00:13:05.240 --> 00:13:10.640
+Yeah. And I thought what was interesting is in this first level, you see how many hearts you need
+
+00:13:10.640 --> 00:13:15.180
+to collect. Like each one fills up and then, uh, it tells you when you're done that you're, you know,
+
+00:13:15.300 --> 00:13:21.720
+like the end of the stage, that level, anybody feel like it was too easy, too hard for a
+
+00:13:21.720 --> 00:13:23.260
+first level. Any thoughts?
+
+00:13:23.260 --> 00:13:24.280
+I feel like it was fine.
+
+00:13:24.520 --> 00:13:30.560
+It was easy enough to give you the, like the opportunity to try and do the little, the
+
+00:13:30.560 --> 00:13:33.280
+cheeky little thing where you drop the barrel, the barrel on him.
+
+00:13:33.660 --> 00:13:36.340
+Yeah. I thought that was like, you have to really time that Joe, did you try that?
+
+00:13:36.540 --> 00:13:40.080
+You know what? I'm as I'm listening to you guys, I'm thinking like, I didn't get a lot out of this game.
+
+00:13:40.180 --> 00:13:43.780
+Cause I, I just went to the levels and just collected the stuff and went on to the next
+
+00:13:43.780 --> 00:13:46.820
+level. And then after I was done, I was like, huh, I just collected a bunch of things.
+
+00:13:46.820 --> 00:13:49.740
+I didn't do anything with the really much of the interactables at all.
+
+00:13:50.000 --> 00:13:51.960
+I was just like, I'm collecting and I'm doing fine.
+
+00:13:51.980 --> 00:13:52.960
+So I just kept doing that.
+
+00:13:53.180 --> 00:13:58.220
+This is a really hard thing to do, but you, you basically hit a punching bag, uh, at the
+
+00:13:58.220 --> 00:14:02.060
+top of the stage and it knocks itself into the, the, what was it about?
+
+00:14:02.140 --> 00:14:03.480
+Like a bucket of water or something.
+
+00:14:03.780 --> 00:14:10.140
+And if Brutus is perfectly in the center of the stage, it will fall on him and you'll
+
+00:14:10.140 --> 00:14:13.200
+get a thousand point bonus and he'll be like temporarily paralyzed.
+
+00:14:13.200 --> 00:14:17.980
+Actually in the, if you read the manual, you actually get more points if he's on the lower
+
+00:14:17.980 --> 00:14:19.580
+part of this, the lower level.
+
+00:14:19.700 --> 00:14:20.560
+Oh my goodness. Wow.
+
+00:14:20.740 --> 00:14:23.500
+I never even tried it on anything other than the tallest part.
+
+00:14:23.680 --> 00:14:26.980
+So the first thing I tried to do because it's harder to time it when he's, I guess
+
+00:14:26.980 --> 00:14:27.860
+they fit. That's what they figure.
+
+00:14:28.000 --> 00:14:30.900
+It's harder to time it when he's, uh, Oh, absolutely.
+
+00:14:31.720 --> 00:14:36.200
+But I feel like you have to go all the way to the top of the screen to do this.
+
+00:14:36.280 --> 00:14:38.100
+He's going to jump up to you at that point.
+
+00:14:38.240 --> 00:14:41.460
+Yeah. But also all the hearts fall on the bottom of the screen.
+
+00:14:41.460 --> 00:14:46.100
+And so it's kind of, there's no real incentive to get up there and do it because then you're
+
+00:14:46.100 --> 00:14:47.420
+going to have to go down there anyway.
+
+00:14:47.700 --> 00:14:49.160
+Yeah. It would just be for the points.
+
+00:14:49.560 --> 00:14:52.720
+But I feel like gameplay wise, there's no real incentive to go up there.
+
+00:14:52.860 --> 00:14:57.740
+So if you don't collect these hearts or whatever the current collectible is, they go all the
+
+00:14:57.740 --> 00:15:01.720
+way down to the bottom of the screen and then they land in the water, in which case they
+
+00:15:01.720 --> 00:15:04.980
+like, you know, a timer shows up and things get really intense.
+
+00:15:05.240 --> 00:15:07.440
+And it's like, you saw it before it's too late.
+
+00:15:07.780 --> 00:15:10.660
+But you felt like it's a, it's a pretty long timer, isn't it?
+
+00:15:10.700 --> 00:15:14.640
+I felt like it never really like, you know, when they would hit the bottom and it would
+
+00:15:14.640 --> 00:15:16.980
+like be alerting me, I would run down there and get it.
+
+00:15:17.040 --> 00:15:19.120
+But after a while I was like, wait, is it ever going to go away?
+
+00:15:19.240 --> 00:15:20.420
+I mean, how much time do I have?
+
+00:15:20.820 --> 00:15:24.360
+Cause I feel like I never felt like I was actually really in danger of losing them.
+
+00:15:24.360 --> 00:15:29.900
+No, I completely agree that I was acting like very, even before they would even touch the
+
+00:15:29.900 --> 00:15:31.060
+ground, I would just hang out down there.
+
+00:15:31.120 --> 00:15:32.300
+Cause I was like, I can't miss these.
+
+00:15:32.440 --> 00:15:33.580
+Like I'm going to lose a life.
+
+00:15:33.680 --> 00:15:38.960
+But I agree that I will say that I do know that the timer does eventually run out and
+
+00:15:38.960 --> 00:15:42.020
+the, that will cost you a life, but it does take a lot of time.
+
+00:15:42.180 --> 00:15:47.580
+And you know, it's maybe a little too generous for an old Miyamoto standard, you know, like
+
+00:15:47.580 --> 00:15:50.420
+there's a guy who wanted to be hard in his video games.
+
+00:15:50.420 --> 00:15:53.480
+Does it cost you a life as soon as you lose one?
+
+00:15:53.780 --> 00:15:54.940
+As soon as you lose the one.
+
+00:15:55.020 --> 00:15:56.840
+Yep. Oh really? I didn't, I didn't realize that.
+
+00:15:57.780 --> 00:15:58.920
+Um, that's kind of harsh.
+
+00:15:59.060 --> 00:16:01.880
+So maybe that makes sense that they gave it such a long timer, but I never actually tested
+
+00:16:01.880 --> 00:16:03.340
+it to be like, how much can I get away with?
+
+00:16:03.400 --> 00:16:05.160
+I was always like, it is, it is a while.
+
+00:16:05.320 --> 00:16:09.320
+It's pretty much like the whole duration of that, that, uh, sound effect that goes on during
+
+00:16:09.320 --> 00:16:10.400
+that, that part of the game.
+
+00:16:10.520 --> 00:16:19.440
+Yeah. So then we get to the second level.
+
+00:16:19.440 --> 00:16:24.940
+Now we're in the city and, uh, you have that seesaw that we were talking about to, uh,
+
+00:16:25.280 --> 00:16:27.240
+what would you call it? Like a catapult more, right?
+
+00:16:27.320 --> 00:16:32.380
+Right. Yeah. You jump on it from a platform and then it, uh, you off the floating dude.
+
+00:16:32.620 --> 00:16:34.960
+Right. And sweet pea is in the right spot.
+
+00:16:35.080 --> 00:16:40.200
+Yeah. Sweet pea is on the right spot and you can touch the, like whatever he's on that floating
+
+00:16:40.200 --> 00:16:42.080
+thing and that'll give you additional points.
+
+00:16:42.180 --> 00:16:45.760
+And then you get back to the top of the stage, but this time you're collecting music notes.
+
+00:16:45.760 --> 00:16:49.440
+And I don't know, did it feel like there were less notes than hearts?
+
+00:16:49.680 --> 00:16:54.260
+I mean, maybe it was just because they arranged them differently, but it definitely looks like
+
+00:16:54.260 --> 00:16:55.740
+it's a shorter level overall.
+
+00:16:55.980 --> 00:16:57.520
+Yeah. It just feels very fast.
+
+00:16:57.540 --> 00:17:03.200
+And I mean, like, I like that, you know, cry the, the song or whatever is, uh, is the
+
+00:17:03.200 --> 00:17:04.900
+thing that you have to collect. I thought that was neat.
+
+00:17:04.900 --> 00:17:06.080
+And that wasn't the hearts again.
+
+00:17:06.780 --> 00:17:11.940
+Yeah. I didn't notice it was shorter, but one, one cool thing I noticed about the, the seesaw
+
+00:17:11.940 --> 00:17:17.740
+part is that Brutus slash Bluto slash Hector slash Donkey Kong.
+
+00:17:17.900 --> 00:17:18.760
+Donkey Kong. Yeah.
+
+00:17:19.020 --> 00:17:21.400
+He will also do that.
+
+00:17:21.520 --> 00:17:22.680
+Use that to get back to the top.
+
+00:17:22.980 --> 00:17:24.700
+Yeah. Oh yes. Yeah. I have seen him use it.
+
+00:17:24.800 --> 00:17:26.320
+Yes. Yeah. So I thought that was pretty neat too.
+
+00:17:34.940 --> 00:17:41.740
+And, uh, then we move on to the third level, which is on a boat and, uh, the Bernard, the
+
+00:17:41.740 --> 00:17:43.960
+crow or vulture vulture.
+
+00:17:44.260 --> 00:17:45.520
+I don't know why I said crow.
+
+00:17:45.740 --> 00:17:48.780
+It's clearly not a crow. Everything could be anything we interpreted in this.
+
+00:17:48.800 --> 00:17:50.500
+Everything is open for interpretation.
+
+00:17:50.500 --> 00:17:51.640
+Joe around here.
+
+00:17:52.520 --> 00:17:58.460
+Uh, he puts olive oil up on the top of the boat and then you have to collect her cries
+
+00:17:58.460 --> 00:18:01.240
+for help. Like, this is very dire.
+
+00:18:01.460 --> 00:18:04.000
+It was very strange. At first I was trying to figure out what it's spelled.
+
+00:18:04.120 --> 00:18:08.160
+I'm like, Oh, I'm trying to spell something over and over.
+
+00:18:08.520 --> 00:18:14.200
+And then I just see these lines show up at the bottom and I'm like, am I, is my game glitching
+
+00:18:14.200 --> 00:18:16.360
+out? And then it turns out that it's a ladder.
+
+00:18:16.620 --> 00:18:19.640
+So at least now it's like, it's in the game.
+
+00:18:19.640 --> 00:18:21.200
+Um, what you're like, whatever you're trying to collect.
+
+00:18:21.360 --> 00:18:27.520
+I don't know how her cries for help turn into wooden planks, but, um, at least like they're
+
+00:18:27.520 --> 00:18:29.500
+having an effect on the game environment.
+
+00:18:29.820 --> 00:18:35.080
+I guess I thought that at first too, but then you kind of realize like, well, but the ladder
+
+00:18:35.080 --> 00:18:38.560
+being on the screen doesn't actually like, you don't even use the ladder at the end.
+
+00:18:38.680 --> 00:18:40.600
+So it's still just, you're just collect things.
+
+00:18:40.720 --> 00:18:41.920
+And once you're done, you win.
+
+00:18:42.340 --> 00:18:44.660
+Could you, could you use that ladder?
+
+00:18:44.840 --> 00:18:48.880
+Like I tried to, I never was able to, I'm talking about the one in the middle of the
+
+00:18:48.880 --> 00:18:51.420
+stage. Really? I could not use it.
+
+00:18:51.640 --> 00:18:54.960
+I just mean to say that like at the end when you get the ladder, like you don't have to
+
+00:18:54.960 --> 00:18:56.860
+even climb the ladder and get to olive oil.
+
+00:18:57.000 --> 00:18:59.200
+It's just like, Oh, you got a ladder now you won.
+
+00:18:59.420 --> 00:19:03.140
+So it's like the same as the other levels, but now there's a visible ladder.
+
+00:19:03.140 --> 00:19:04.000
+Right.
+
+00:19:04.140 --> 00:19:07.600
+Whereas like the donkey Kong way to go about it would have been that you have to like
+
+00:19:07.600 --> 00:19:10.660
+reach olive oil, not just collect your cries for help.
+
+00:19:11.180 --> 00:19:16.380
+Uh, and anybody else feel weird about the fact that like, there's no, you know, like
+
+00:19:16.380 --> 00:19:17.940
+it showed you how many hearts you needed.
+
+00:19:18.080 --> 00:19:23.020
+It showed you like the, the musical score and what you were collecting the notes.
+
+00:19:23.300 --> 00:19:24.160
+There's nothing.
+
+00:19:24.360 --> 00:19:29.600
+I think that may have been a decision to make it a little bit more tense.
+
+00:19:29.920 --> 00:19:32.280
+I don't know. Who knows when this level will end?
+
+00:19:32.420 --> 00:19:38.220
+Yeah. Exactly. And also it does each, each letter you collect does give another rung of the ladder.
+
+00:19:38.660 --> 00:19:40.060
+So I guess that's what we mean.
+
+00:19:40.180 --> 00:19:44.900
+I was, but no, to be honest, I'm until Joe said that I wasn't putting that together and
+
+00:19:44.900 --> 00:19:45.920
+I never did in the game.
+
+00:19:46.240 --> 00:19:51.060
+Uh, so thank you for pointing that out, Joe, because I had no idea why that ladder was
+
+00:19:51.060 --> 00:19:52.260
+like changing forms.
+
+00:19:52.400 --> 00:19:55.980
+I was never associating it with the H-E-L-P letters.
+
+00:19:56.260 --> 00:20:00.800
+Right. Well, I, yeah, I didn't notice it the first time on that round either, which is why when
+
+00:20:00.800 --> 00:20:03.400
+I realized that I was like, well, it's kind of arbitrary in the end.
+
+00:20:03.560 --> 00:20:06.240
+I mean, other than the fact that you can actually climb it during the level.
+
+00:20:12.940 --> 00:20:15.360
+So then, so then you beat the game essentially.
+
+00:20:15.840 --> 00:20:18.880
+And, uh, you go back to the first level cause it is just an arcade thing.
+
+00:20:19.980 --> 00:20:23.120
+And I thought like, oh, that's, there's not much to this game.
+
+00:20:23.380 --> 00:20:29.720
+But then, uh, the sea hag comes into the mix and she is like really tough.
+
+00:20:29.960 --> 00:20:31.280
+Yeah. Uh, I don't.
+
+00:20:31.280 --> 00:20:32.780
+She changes the game altogether.
+
+00:20:33.020 --> 00:20:36.800
+I couldn't, I couldn't get past like the fourth level because of it.
+
+00:20:36.920 --> 00:20:39.120
+I just stopped. Joe, did you get to the sea hag?
+
+00:20:39.300 --> 00:20:41.660
+Yeah. I got to the sea hag, but I didn't get past it.
+
+00:20:41.920 --> 00:20:45.420
+Uh, like, I don't know if on another cycle around, if it then adds another enemy.
+
+00:20:45.420 --> 00:20:47.360
+I don't know, but it does not.
+
+00:20:47.360 --> 00:20:48.300
+I know that much.
+
+00:20:48.420 --> 00:20:50.100
+Uh, I was able to get to that part.
+
+00:20:50.280 --> 00:20:52.020
+Uh, like, uh, the not, what was it?
+
+00:20:52.140 --> 00:20:54.060
+The third cycle? The seventh round.
+
+00:20:54.280 --> 00:20:55.100
+Yeah. Right.
+
+00:20:55.260 --> 00:20:56.980
+And nothing extra is added.
+
+00:20:57.160 --> 00:21:01.460
+It just keeps getting harder, but like, wow, it doesn't get harder because even those,
+
+00:21:01.560 --> 00:21:06.480
+those skulls that she drops, they just seem to like, they seem to drop down to your level
+
+00:21:06.480 --> 00:21:10.940
+whenever. And even if you like are trying to pass them, they'll just drop down to your platform as you're
+
+00:21:10.940 --> 00:21:17.260
+getting there. So to dodge the skulls, the beer bottles and Bluto, like that's a lot.
+
+00:21:17.440 --> 00:21:18.780
+That's a lot of on a person.
+
+00:21:19.180 --> 00:21:23.400
+Yeah. And after a while, Bluto starts to like become a lot less predictable of when he's going to
+
+00:21:23.400 --> 00:21:24.240
+like jump down.
+
+00:21:24.500 --> 00:21:25.920
+He just, he just does it.
+
+00:21:26.200 --> 00:21:27.240
+Yeah. And he makes this.
+
+00:21:27.400 --> 00:21:31.720
+I mean, like, because there aren't as many rules that your enemies have to follow,
+
+00:21:31.880 --> 00:21:33.380
+it kind of turns into a mess.
+
+00:21:33.380 --> 00:21:39.160
+Like it, it, it's a little, not just a little hectic, but because you can't even predict
+
+00:21:39.160 --> 00:21:41.360
+how the enemies work anymore.
+
+00:21:41.640 --> 00:21:45.220
+Uh, it, it's, it, it really takes away the fun.
+
+00:21:45.380 --> 00:21:46.640
+In, in Donkey Kong.
+
+00:21:46.920 --> 00:21:48.440
+Cause some of it comes down to luck. Yeah.
+
+00:21:48.700 --> 00:21:50.680
+In Donkey Kong and Donkey Kong Jr.
+
+00:21:50.840 --> 00:21:55.580
+I thought that the difficulty scaled very well on the NES ports, that it was like,
+
+00:21:56.020 --> 00:21:58.880
+naturally the second time you go at these levels are going to be harder, but they weren't
+
+00:21:58.880 --> 00:22:00.040
+impossible by any means.
+
+00:22:00.040 --> 00:22:02.600
+I'm not saying Popeye became an impossible game.
+
+00:22:02.600 --> 00:22:05.520
+That would be silly to say, cause if you're good at this game, you could definitely keep
+
+00:22:05.520 --> 00:22:10.520
+going for a while, but the difficulty for the average user ramps up considerably all
+
+00:22:10.520 --> 00:22:12.200
+of a sudden, almost out of nowhere.
+
+00:22:12.340 --> 00:22:15.620
+Yeah. Uh, just because of the introduction of so many different enemies.
+
+00:22:15.840 --> 00:22:21.200
+And to Sean's point, the randomness in the AI with the, you know, the few options they
+
+00:22:21.200 --> 00:22:26.360
+have, but the, but the fact that their options are devastating just kind of like really makes
+
+00:22:26.360 --> 00:22:29.760
+the, you know, additional rounds of this game really hard to do.
+
+00:22:29.760 --> 00:22:34.860
+But I never was, I never like lost enough lives to not see it through and ending the
+
+00:22:34.860 --> 00:22:39.580
+first time around. Like the first phase, the first three levels of the game, I think are designed in a way
+
+00:22:39.580 --> 00:22:43.620
+to help like the average user get through them, uh, without much effort.
+
+00:22:43.880 --> 00:22:47.140
+Okay. So since we're not fans of the animation or anything like that, I just think it's kind
+
+00:22:47.140 --> 00:22:54.540
+of important that we talk about the effect that this would have had if Popeye was the
+
+00:22:54.540 --> 00:22:55.500
+Donkey Kong game.
+
+00:22:55.620 --> 00:22:57.040
+Like if they got away with that, right?
+
+00:22:57.040 --> 00:22:58.280
+Let's say they had the license.
+
+00:22:58.720 --> 00:23:03.540
+Could you imagine what Nintendo would be like now that there might not be a Mario?
+
+00:23:03.840 --> 00:23:05.360
+There might not be a Donkey Kong.
+
+00:23:05.740 --> 00:23:09.320
+Popeye is like their, their flagship brand, right?
+
+00:23:09.400 --> 00:23:10.660
+Like their main character.
+
+00:23:10.860 --> 00:23:13.900
+And they're like, they don't even have full ownership of this thing.
+
+00:23:13.980 --> 00:23:19.280
+Like we have to assume that the game industry is only the way it is today because they couldn't
+
+00:23:19.280 --> 00:23:20.360
+make that Popeye game.
+
+00:23:20.600 --> 00:23:23.820
+I mean, Oh, I mean, I never really thought about it that way.
+
+00:23:23.820 --> 00:23:27.600
+They may, I mean, Nintendo may not have even taken off like they did.
+
+00:23:27.720 --> 00:23:32.220
+I think that if you had Donkey Kong that same way, but it was like a characters.
+
+00:23:32.740 --> 00:23:35.840
+Yeah. It might've been even more popular than Donkey Kong.
+
+00:23:36.260 --> 00:23:40.880
+Well, the, but then I don't, I don't know if they would have gone on to make more games
+
+00:23:40.880 --> 00:23:41.980
+with those characters.
+
+00:23:41.980 --> 00:23:43.740
+Like they would have just, Oh, what's their next game?
+
+00:23:43.820 --> 00:23:45.020
+Like there's our Popeye game.
+
+00:23:45.760 --> 00:23:47.120
+You know, I hear what you're saying.
+
+00:23:47.120 --> 00:23:50.060
+They would have been able to like go on and be like, all right, what's next with these
+
+00:23:50.060 --> 00:23:52.220
+characters? Like they did with the characters in Donkey Kong.
+
+00:23:52.320 --> 00:23:53.240
+Every game would be a battle.
+
+00:23:53.600 --> 00:23:54.740
+Yeah. Well, okay.
+
+00:23:54.900 --> 00:23:59.420
+Here's my, my little, uh, like alternate history take on it.
+
+00:23:59.940 --> 00:24:05.120
+Um, I think that because of the way that we've talked about the way that Nintendo kind
+
+00:24:05.120 --> 00:24:11.220
+of designs their games where they have a mechanic in mind and they just base it around like
+
+00:24:11.220 --> 00:24:16.700
+a little block at first, they probably would have come up with super Mario brothers.
+
+00:24:16.920 --> 00:24:20.500
+I mean, yeah, super Mario brothers with or without Donkey Kong.
+
+00:24:20.700 --> 00:24:22.800
+It just may have been a different character.
+
+00:24:22.980 --> 00:24:23.880
+Super Popeye.
+
+00:24:24.040 --> 00:24:26.540
+Super. I mean, I don't know if it would have kept it with Popeye.
+
+00:24:26.540 --> 00:24:31.000
+I know. I am saying that the reason why I think they would have continued with Popeye is just
+
+00:24:31.000 --> 00:24:36.840
+because at this time, even though Nintendo has been around since 1880 something, we have
+
+00:24:37.260 --> 00:24:39.740
+Popeye would have been like their first major success.
+
+00:24:39.960 --> 00:24:44.440
+Like you remember, Donkey Kong made them like a billion dollars, like, like a ton of money.
+
+00:24:44.600 --> 00:24:48.120
+Like the quarter, people underestimate that like, just cause the game cost you a quarter,
+
+00:24:48.820 --> 00:24:52.040
+everyone in America and Japan and Europe is putting in quarters.
+
+00:24:52.580 --> 00:24:54.940
+Those games add up real fast and it's like, it's harmless.
+
+00:24:54.960 --> 00:24:56.960
+I'm just putting in a quarter, but everybody's doing it.
+
+00:24:57.080 --> 00:25:00.280
+You know? Yeah. They would have made so much money off of that that I don't think they would have said
+
+00:25:00.280 --> 00:25:02.340
+like, no, Popeye is not the answer.
+
+00:25:02.420 --> 00:25:06.820
+Let's make another game. Like they would have saying, I'm saying that like, maybe there'd be more Popeye games,
+
+00:25:06.840 --> 00:25:13.400
+but I think that those, uh, a game like super Mario brothers would still exist.
+
+00:25:13.400 --> 00:25:14.940
+Maybe it wouldn't be as popular.
+
+00:25:15.120 --> 00:25:20.120
+Maybe it wouldn't have had as much time put into it, but I think like the skeleton would
+
+00:25:20.120 --> 00:25:23.340
+still be there. I think it depends on if they made Popeye jump or not.
+
+00:25:23.680 --> 00:25:25.140
+Okay. Yeah. Joe.
+
+00:25:26.040 --> 00:25:31.020
+Yeah. I mean, I think that if they were to, if they were to continue with Popeye, they would be
+
+00:25:31.020 --> 00:25:36.420
+like, well, we need to make, I feel like they would have felt tied to like the style of that
+
+00:25:36.420 --> 00:25:38.100
+game. Like we need to make this a Popeye game.
+
+00:25:38.160 --> 00:25:39.820
+So it has to feel like the last Popeye game.
+
+00:25:40.500 --> 00:25:42.260
+I don't know that they necessarily would have.
+
+00:25:42.340 --> 00:25:46.400
+And it's definitely fun to think about like, if they would have, if, if, if we just think
+
+00:25:46.400 --> 00:25:49.700
+about the idea of like, let's have Popeye replace Mario in history.
+
+00:25:49.700 --> 00:25:53.820
+And like, there would have just been this crazy like resurgence of Popeye.
+
+00:25:53.960 --> 00:25:56.640
+We'd have like Popeye Odyssey now, or you're just Popeye.
+
+00:25:57.200 --> 00:25:59.280
+Yeah. There are already.
+
+00:25:59.500 --> 00:26:02.860
+Yeah, it's true. There are already like comparisons between Mario and Mickey mouse.
+
+00:26:03.060 --> 00:26:06.240
+And I just wonder like, you know, now you would have had two animation characters
+
+00:26:06.240 --> 00:26:08.280
+and be like, Oh, well Popeye and Mickey mouse.
+
+00:26:08.380 --> 00:26:09.660
+Like those are the two big things.
+
+00:26:09.820 --> 00:26:12.520
+It's like, you know, I'm glad we don't have to answer this question.
+
+00:26:12.600 --> 00:26:14.680
+Let me put it that way. I want to try one more time.
+
+00:26:14.940 --> 00:26:18.580
+Yeah. Okay. One more thing that makes them a huge amount of money in the eighties.
+
+00:26:18.680 --> 00:26:22.420
+And then people get sick of Popeye and then Nintendo folds.
+
+00:26:22.740 --> 00:26:23.940
+Yeah. And it's awful.
+
+00:26:24.120 --> 00:26:28.580
+Right. After they released the Popeye 64, it just doesn't work.
+
+00:26:28.900 --> 00:26:32.000
+It's called the actual console is called the Popeye 64.
+
+00:26:32.000 --> 00:26:33.020
+The Popeye 64.
+
+00:26:34.960 --> 00:26:39.980
+And now one other question is something I'd maybe want to make like a regular question
+
+00:26:39.980 --> 00:26:43.960
+when the game is applicable is how would you guys improve this game?
+
+00:26:44.220 --> 00:26:47.620
+If you were the designer of this game, you know, knowing everything, you know, today.
+
+00:26:47.620 --> 00:26:51.020
+So not saying you're restrained to 1986 or 1983.
+
+00:26:51.680 --> 00:26:56.780
+I would, I would have it be more fun to punch things and have it be more punching focused.
+
+00:26:57.020 --> 00:27:01.760
+I think Popeye's got those big beefy arms and he's always punching bottles and a bird.
+
+00:27:02.780 --> 00:27:04.020
+And, and spinach.
+
+00:27:04.440 --> 00:27:05.660
+A bird. And that's it.
+
+00:27:06.240 --> 00:27:07.360
+And skulls, I guess.
+
+00:27:07.500 --> 00:27:10.080
+But it's just, there's a lot of punching that he does.
+
+00:27:10.300 --> 00:27:13.040
+I feel like as his character that you don't get to do.
+
+00:27:13.360 --> 00:27:22.240
+I, I 100% agree with you that if we're assuming that like, and we're remembering that the Popeye cartoon is all about like, he eats his spinach and he has gigantic biceps.
+
+00:27:22.240 --> 00:27:27.480
+Right. It's like, how is that not like a huge part of the game that like Popeye feels really weak in this game?
+
+00:27:27.680 --> 00:27:34.180
+Yeah. Like he should be strong and you should, you know, like you, there should be other enemies that you're just constantly doing.
+
+00:27:34.320 --> 00:27:44.540
+Like, yeah, I get that Brutus is in the way and stuff like that, but like Pluto should have been able to just been like a side character and you could just, you know, like as Popeye take out like other enemies.
+
+00:27:44.540 --> 00:27:54.740
+I think we're also, so if we want to make it a game that, that sort of fits the Popeye mold, I don't think we're the people to answer that because I don't think we know what Popeye is usually supposed to be about.
+
+00:27:55.100 --> 00:27:58.620
+So like, he usually uses violence as the last straw, right?
+
+00:27:58.880 --> 00:28:04.820
+Yeah. Maybe this should have been like a game in which you try to talk yourself out of dangerous situations.
+
+00:28:05.680 --> 00:28:08.240
+I think. Or you have to get to the spinach.
+
+00:28:08.360 --> 00:28:11.620
+You have to get, isn't that how it usually, he's weak until he eats the spinach?
+
+00:28:11.620 --> 00:28:21.580
+Yeah, that's what I was going to say that like he, you would, the game would be more focused on like ramping up to being able to fight actually.
+
+00:28:21.980 --> 00:28:25.580
+Cause that's what every episode, I mean, from what I remember, that's how every episode went.
+
+00:28:25.720 --> 00:28:29.320
+So the spinach is almost like it's the catalyst of making him.
+
+00:28:29.460 --> 00:28:32.440
+As opposed to being the afterthought that it is in this current form.
+
+00:28:32.440 --> 00:28:39.760
+Right. But I think if I were to take this game and just make tweaks to it, I think the biggest thing for me is those, those interactable like objects.
+
+00:28:40.020 --> 00:28:42.260
+I would make them more like necessary and prominent.
+
+00:28:42.600 --> 00:28:44.480
+So it doesn't feel like you're just collecting things.
+
+00:28:44.580 --> 00:28:46.460
+It's like, Oh, but, or at least more, not necessarily.
+
+00:28:46.900 --> 00:28:49.140
+It doesn't have to be necessary, but like more rewarding.
+
+00:28:49.680 --> 00:28:55.220
+Cause like, I'm usually a guy who in a game like this, I don't usually focus much on score unless it's like the only goal.
+
+00:28:55.220 --> 00:28:59.100
+But if the goal is just to get to the end of the game, I don't really care about this thing that just ups my score.
+
+00:28:59.460 --> 00:29:04.300
+But if something helps me along, you know, get through a level, then I would be more likely to like look for that.
+
+00:29:04.680 --> 00:29:06.020
+Right. Okay.
+
+00:29:06.200 --> 00:29:08.140
+This game did get a sequel though.
+
+00:29:08.580 --> 00:29:10.560
+Oh, Super Mario Brothers.
+
+00:29:10.800 --> 00:29:12.800
+I've been, I've been holding out on this.
+
+00:29:13.860 --> 00:29:19.140
+It was, it was a sequel that only when it came out in Japan, uh, did not come to the States.
+
+00:29:19.140 --> 00:29:24.980
+And it was an English teaching game, very much like Donkey Kong Jr.
+
+00:29:25.200 --> 00:29:28.940
+math. And by that, I mean like almost exactly like Donkey Kong Jr.
+
+00:29:29.020 --> 00:29:34.160
+math where it takes Donkey Kong Jr.'s arcade game and then just re imagines it as the math game.
+
+00:29:34.280 --> 00:29:44.520
+It did the same thing here with Popeye where Popeye is, you know, put it, punching the numbers in to form English sentences and teaching Japanese players English.
+
+00:29:44.840 --> 00:29:46.360
+At least he's punching more things.
+
+00:29:46.560 --> 00:29:50.980
+Yeah. So that was the only other game in their education series that never came here.
+
+00:29:51.140 --> 00:29:52.140
+Of course, the Donkey Kong Jr.
+
+00:29:52.260 --> 00:29:58.040
+math is the only education series game in their black label, um, NES launch games.
+
+00:29:58.300 --> 00:30:05.860
+So just thought that I had to throw that out there because, you know, we know that one out of three people likes education series games.
+
+00:30:06.140 --> 00:30:07.640
+That's true. One out of four people.
+
+00:30:08.720 --> 00:30:09.980
+Yeah. I would like to play it.
+
+00:30:10.080 --> 00:30:13.700
+I mean, I don't know how to play it because I don't know Japanese.
+
+00:30:14.040 --> 00:30:15.940
+But you know English, so you'll probably be really good.
+
+00:30:15.940 --> 00:30:17.000
+You might be able to play this one.
+
+00:30:17.900 --> 00:30:19.000
+You would like to play that.
+
+00:30:19.160 --> 00:30:20.660
+I would like to play that. I would like to try it.
+
+00:30:20.720 --> 00:30:22.640
+All right. Maybe we'll try and do a bonus episode sometime.
+
+00:30:22.800 --> 00:30:24.980
+Yeah, if we can track it down. Yeah, if we can track that down.
+
+00:30:25.620 --> 00:30:28.400
+Famicom games are actually not that, they're a little cheaper actually.
+
+00:30:28.700 --> 00:30:30.380
+Because it depends on the game, of course.
+
+00:30:30.580 --> 00:30:34.960
+Okay. But there's an overabundance of those as opposed to like these earlier NES games.
+
+00:30:35.080 --> 00:30:35.940
+Like, they'll get Junior Math.
+
+00:30:36.140 --> 00:30:37.880
+It's like, good luck getting your hands on that cartridge.
+
+00:30:38.080 --> 00:30:39.980
+It's expensive. All right.
+
+00:30:40.060 --> 00:30:43.980
+So with that in mind, let's go right into the Essential Games List.
+
+00:30:46.880 --> 00:30:48.680
+All right. It's the Essential Games List.
+
+00:30:48.880 --> 00:30:51.500
+And this time we're trying to figure out if Popeye is essential.
+
+00:30:51.780 --> 00:30:55.200
+So you got, you know, games on your PS4, your Nintendo Switch.
+
+00:30:55.200 --> 00:30:57.000
+And you're like, oh, what's going on with the NES?
+
+00:30:57.180 --> 00:30:59.660
+You know, is that game, are they still making games for that console?
+
+00:30:59.840 --> 00:31:02.860
+And they're not. But some fans are making games.
+
+00:31:02.940 --> 00:31:03.760
+That's not the point, okay?
+
+00:31:04.020 --> 00:31:06.640
+Nintendo made a game called Popeye in 1983.
+
+00:31:07.200 --> 00:31:12.500
+And then very much rushed it to the Famicom in 1983.
+
+00:31:12.520 --> 00:31:15.260
+And then pushed it all the way to 1986 for the NES.
+
+00:31:15.360 --> 00:31:18.060
+But didn't fix anything. So we're going to go off those merits.
+
+00:31:18.080 --> 00:31:19.500
+You really want to play that game.
+
+00:31:19.780 --> 00:31:23.860
+We're going to go off merits and find out, like, is that game essential to the NES library?
+
+00:31:23.860 --> 00:31:26.080
+And I don't mean when it first came out.
+
+00:31:26.080 --> 00:31:27.860
+I don't mean at the end of the NES's lifespan.
+
+00:31:27.860 --> 00:31:29.740
+We're talking about 2018.
+
+00:31:29.900 --> 00:31:31.040
+That's what it is right now.
+
+00:31:31.220 --> 00:31:32.700
+Is it worth playing today?
+
+00:31:32.960 --> 00:31:37.640
+Joe? So this is another, like, simple arcade-type game.
+
+00:31:37.900 --> 00:31:41.780
+I feel like we've been seeing a lot of these since we started 1986.
+
+00:31:42.880 --> 00:31:45.800
+Where it's a fun distraction, but it gets repetitive.
+
+00:31:46.000 --> 00:31:49.000
+I mean, there's still only three basic levels.
+
+00:31:49.280 --> 00:31:53.260
+There's, like, a pattern there where a lot of these arcade games just have three basic levels.
+
+00:31:53.260 --> 00:31:55.640
+And then you start over at level one where it's a little harder.
+
+00:31:56.800 --> 00:31:58.620
+So, I mean, you know, it's kind of fun.
+
+00:31:58.740 --> 00:32:01.160
+But overall, eventually it starts to feel repetitive.
+
+00:32:01.360 --> 00:32:02.980
+So I say no, not essential.
+
+00:32:03.520 --> 00:32:04.980
+Sean? Yeah, I'll agree.
+
+00:32:05.400 --> 00:32:09.040
+I think that this game can be, like, it's great.
+
+00:32:09.240 --> 00:32:11.080
+I know that it's a mobile game now.
+
+00:32:11.280 --> 00:32:12.640
+I mean, it seems like it could be...
+
+00:32:13.320 --> 00:32:14.520
+Bandai Namco. Yeah.
+
+00:32:14.760 --> 00:32:15.840
+A mobile game. Yeah, yeah.
+
+00:32:15.960 --> 00:32:18.700
+I think that's... Same exact game, by the way, just nicer graphics.
+
+00:32:18.700 --> 00:32:21.020
+Yeah, I think that's where this game should live.
+
+00:32:21.900 --> 00:32:24.760
+And that's coming from somebody that doesn't really like mobile games.
+
+00:32:24.860 --> 00:32:30.080
+But I did have a little bit of fun while I was playing this middling game.
+
+00:32:30.520 --> 00:32:31.820
+So, yeah, it's not essential.
+
+00:32:32.260 --> 00:32:35.200
+Sam? Yeah, I wasn't crazy about this game.
+
+00:32:35.260 --> 00:32:37.100
+I thought that it was...
+
+00:32:37.100 --> 00:32:39.680
+It's charming with the music and everything.
+
+00:32:39.680 --> 00:32:42.040
+But that's about all it has going for it, I think.
+
+00:32:42.160 --> 00:32:45.380
+I think that I just didn't really have too much of a fun time playing it.
+
+00:32:45.620 --> 00:32:47.060
+And, yeah. All right.
+
+00:32:47.460 --> 00:32:48.800
+Yeah, and I'll agree.
+
+00:32:48.800 --> 00:32:53.280
+It's charming. I don't even know if, like, a Popeye fan needs to play this game.
+
+00:32:53.420 --> 00:32:57.140
+It's interesting because it's a Nintendo-made game that Miyamoto definitely wanted to make.
+
+00:32:57.320 --> 00:33:01.560
+But I'm going to mention that Miyamoto name again because we were talking about in the Mario Brothers episode
+
+00:33:01.560 --> 00:33:02.960
+how he's kind of on, like, a hot streak.
+
+00:33:03.140 --> 00:33:04.860
+And I think this is, like, a...
+
+00:33:04.860 --> 00:33:08.380
+It's a little bit of a dud considering how much he wanted to make this game.
+
+00:33:08.480 --> 00:33:10.680
+I think he could have done something a little more interesting.
+
+00:33:10.680 --> 00:33:16.420
+And I'm kind of glad that games like Mario Brothers and Super Mario Brothers, Donkey Kong, Legend of Zelda,
+
+00:33:16.540 --> 00:33:19.020
+those games continued to, like, push his, like, boundaries.
+
+00:33:19.280 --> 00:33:23.460
+And that he wasn't able to just secure popular media that he already liked.
+
+00:33:23.460 --> 00:33:24.680
+And he had to kind of make up his own.
+
+00:33:24.760 --> 00:33:28.660
+Because it seems like that's where Miyamoto's strong points are at this point in his career.
+
+00:33:28.660 --> 00:33:32.560
+Is kind of being forced into certain boundaries and saying, like,
+
+00:33:32.620 --> 00:33:33.800
+Okay, give him what I have.
+
+00:33:33.940 --> 00:33:35.120
+Here's what I come up with.
+
+00:33:35.160 --> 00:33:36.320
+And those things are usually brilliant.
+
+00:33:36.320 --> 00:33:39.280
+I feel like this is something that Miyamoto had to get out of his system.
+
+00:33:39.540 --> 00:33:40.600
+Yeah, it's almost like, yeah.
+
+00:33:40.720 --> 00:33:42.160
+It's like, okay, well, I did Donkey Kong.
+
+00:33:42.380 --> 00:33:44.320
+But if I had to do it again...
+
+00:33:46.160 --> 00:33:49.040
+Because essentially he wanted that Donkey Kong game to be Popeye.
+
+00:33:49.180 --> 00:33:50.620
+So now it's almost like he's just like,
+
+00:33:50.680 --> 00:33:54.020
+Well, if you're going to let me make a Popeye game, I guess it could go like this.
+
+00:33:54.880 --> 00:33:56.620
+And, you know, it's just...
+
+00:33:57.240 --> 00:33:58.500
+It's not that exciting to me.
+
+00:33:58.620 --> 00:33:59.600
+There's not enough there.
+
+00:34:00.520 --> 00:34:04.560
+The graphics are really wonky for NES games even.
+
+00:34:05.320 --> 00:34:08.520
+And for that reason, I just can't say that this is essential today.
+
+00:34:09.280 --> 00:34:11.620
+Again, I don't even know if I can recommend this to a Popeye fan.
+
+00:34:11.900 --> 00:34:14.140
+I don't know if there are other Popeye games out there.
+
+00:34:14.680 --> 00:34:17.280
+I know there's one on the Game Boy, but it might just be a port of this.
+
+00:34:17.760 --> 00:34:19.540
+So that's what I have to say about all that.
+
+00:34:25.520 --> 00:34:28.920
+All right. And that's all the time we have for this episode of Nostalgia.
+
+00:34:29.300 --> 00:34:31.380
+Join us next time for Balloon Fight.
+
+00:34:31.540 --> 00:34:33.200
+And be sure to play it yourself if you can.
+
+00:34:33.200 --> 00:34:37.260
+For more Nostalgia, visit us at NostalgiaCast.com.
+
+00:34:37.320 --> 00:34:40.700
+That's N-E-S-T-A-L-G-I-A-Cast.com.
+
+00:34:40.900 --> 00:34:41.900
+And you know what?
+
+00:34:41.940 --> 00:34:45.360
+If you're listening to the show, why not subscribe wherever you can?
+
+00:34:45.360 --> 00:34:48.620
+If you're listening on the podcast app, just hit the subscribe button.
+
+00:34:48.720 --> 00:34:51.000
+If you're listening on the website, just come back.
+
+00:34:51.180 --> 00:34:57.160
+We upload episodes every Friday to make sure that you guys get your Nostalgia fill on a weekly basis.
+
+00:34:57.920 --> 00:34:59.620
+And if you do go to the website.
+
+00:34:59.840 --> 00:35:02.360
+Just check out if baseball's haunted.
+
+00:35:02.860 --> 00:35:03.900
+Sean said it, not me.
+
+00:35:04.300 --> 00:35:06.680
+But I did write that article, full disclosure.
+
+00:35:08.060 --> 00:35:11.420
+And in fact, I wrote both articles that are currently on that.
+
+00:35:11.560 --> 00:35:15.420
+But I'm sure by the time of this recording, I've written at least one or two more.
+
+00:35:15.560 --> 00:35:16.740
+If I'm worth my salt.
+
+00:35:16.740 --> 00:35:19.740
+So with that in mind, I'm your host, Michael Esposito.
+
+00:35:19.880 --> 00:35:23.640
+I've been joined by Sean Tresman, Sam Smith, and Joe Castu.
+
+00:35:23.900 --> 00:35:27.140
+And you can find me on Twitter at Esposito Film.
+
+00:35:27.360 --> 00:35:28.480
+And I'll talk to you soon.
+
+00:35:28.600 --> 00:36:13.460
+Bye. Before the next person listens.
+
+00:36:19.300 --> 00:36:22.100
+That felt like sometimes when I'm at work,
+
+00:36:22.640 --> 00:36:25.300
+because I don't answer the phone as much as I used to.
+
+00:36:25.720 --> 00:36:28.140
+It sounds like the times when I pick up the phone,
+
+00:36:28.220 --> 00:36:31.180
+I'm just like, hello? Hello?
+
+00:36:31.940 --> 00:36:33.980
+Instead of like, hello, what communications?
+
+00:36:34.120 --> 00:36:35.200
+This is Sean. I'm just like, hello?
+
+00:36:38.480 --> 00:36:41.680
+When I answer the phone here, I can't do hello.
+
+00:36:41.960 --> 00:36:43.820
+I do like, what's up?
+
+00:36:44.420 --> 00:36:45.460
+What's going on?
+
+00:36:45.720 --> 00:36:46.540
+Why are you calling?
+
+00:36:53.240 --> 00:36:55.040
+No one knows how it ends.
+
+00:36:55.660 --> 00:36:59.540
+Is it? How great is the music in this game?
+
+00:36:59.640 --> 00:37:00.940
+It's fun. It's pretty good.
+
+00:37:01.200 --> 00:37:02.380
+And then when things get in the water?
+
+00:37:02.580 --> 00:37:04.220
+Wait. Wait, wait, wait.
+
+00:37:04.280 --> 00:37:05.860
+Let's save it for the podcast.
+
+00:37:06.340 --> 00:37:07.600
+I don't want to make noises.
+
+00:37:07.860 --> 00:37:08.800
+You guys make the noise.
+
+00:37:09.100 --> 00:37:10.700
+Okay. This is my voice.
+
+00:37:10.700 --> 00:37:14.160
+This is my, this is my Mullen Brando voice.
+
+00:37:14.660 --> 00:37:16.560
+This is my Mullen Brando interrupting voice.
+
+00:37:17.260 --> 00:37:20.340
+Are you ready to climb ladders, jump landings,
+
+00:37:20.560 --> 00:37:23.100
+eat spinach, and punch out Brutus?
+
+00:37:23.220 --> 00:37:26.400
+You cannot do that unless you eat the spinach.
+
+00:37:26.640 --> 00:37:28.160
+There'll be instructions unclear.
+
+00:37:28.660 --> 00:37:29.840
+That's in there.
+
+00:37:30.920 --> 00:37:32.880
+You cannot do that.
+
+00:37:33.960 --> 00:37:35.300
+Sound like donkey.
+
+00:37:36.060 --> 00:37:37.940
+Yeah. You cannot do that.
+
+00:37:39.900 --> 00:37:42.420
+And welcome to NEStalgia.
+
+00:37:45.220 --> 00:37:46.580
+Today we're talking about...
+
+00:37:50.120 --> 00:37:51.120
+All right, let's go.
+
+00:37:51.220 --> 00:37:52.220
+The day we don't give a shit.
+
+00:37:52.400 --> 00:37:53.340
+Okay, come on, Chris. You ready to record?
+
+00:37:53.340 --> 00:37:54.180
+We should do one of those.
+
+00:37:54.380 --> 00:37:56.240
+What? Okay. Are you recording?
+
+00:37:56.320 --> 00:37:57.420
+We should do one of those. I'm recording.
+
+00:37:57.640 --> 00:37:59.100
+Just like, don't give a fuck. You've been recording?
+
+00:37:59.300 --> 00:38:00.420
+We did those for Donkey Kong.
+
+00:38:01.060 --> 00:38:02.400
+I mean, I can't...
+
+00:38:02.400 --> 00:38:03.980
+I'm not recording you guys, so...
+
+00:38:03.980 --> 00:38:05.360
+Okay, well, yeah, record. Okay.

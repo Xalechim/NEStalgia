@@ -1,0 +1,2365 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.900
+Track and Field, the Armchair Olympics are on the air.
+
+00:00:19.210 --> 00:00:27.220
+And welcome to NEStalgia, the armchair podcast of podcasts.
+
+00:00:27.680 --> 00:00:29.000
+I don't know what that was about.
+
+00:00:29.420 --> 00:00:34.920
+I don't know either. We are definitely a chronological exploration of every NES game released in North America,
+
+00:00:34.920 --> 00:00:37.900
+but I'm still blown away that that's the tagline they went with.
+
+00:00:38.060 --> 00:00:39.080
+And I'm Sean.
+
+00:00:41.080 --> 00:00:42.600
+This is Mike over here.
+
+00:00:42.660 --> 00:00:44.960
+Just the two of us today, another little intimate session.
+
+00:00:45.520 --> 00:00:47.660
+We're also the only two that never miss an episode.
+
+00:00:47.860 --> 00:00:51.220
+It's true. We just continue to pump out banger after banger.
+
+00:00:53.600 --> 00:00:56.080
+So the first thing I wanted to do, Sean, before we talk about the game,
+
+00:00:56.080 --> 00:01:00.760
+was actually we received some listener mail from our good friend Dante.
+
+00:01:01.160 --> 00:01:05.580
+Hey, Dante. You know, the guy who beats the games, takes the pictures, and sends them and rubs them in our face.
+
+00:01:05.700 --> 00:01:06.800
+Yeah. He gave us...
+
+00:01:06.800 --> 00:01:12.080
+It's kind of petty, but all right. Yeah, he gave us some listener mail for Russian Attack.
+
+00:01:12.340 --> 00:01:13.580
+All right. The one we did last week.
+
+00:01:13.720 --> 00:01:15.180
+So let's play that.
+
+00:01:19.440 --> 00:01:22.580
+So I hope you enjoyed that new jingle from Sam Smith.
+
+00:01:22.800 --> 00:01:26.540
+Or nothing just played because I told him to make a jingle and he just said no.
+
+00:01:27.120 --> 00:01:28.120
+We won't really know.
+
+00:01:28.260 --> 00:01:30.020
+Well, I won't know by the time I edit this.
+
+00:01:30.080 --> 00:01:31.000
+So here I am.
+
+00:01:31.200 --> 00:01:35.120
+But Dante writes in, I'm sure you've already recorded your Russian Attack episode.
+
+00:01:35.120 --> 00:01:37.620
+He was correct. That's why it's in this week's episode.
+
+00:01:37.620 --> 00:01:40.600
+But I thought I'd chime in with some thoughts anyway.
+
+00:01:40.880 --> 00:01:43.680
+I had this game as a kid and found it very frustrating.
+
+00:01:44.000 --> 00:01:46.480
+I picked it up again recently and played through it.
+
+00:01:46.600 --> 00:01:51.640
+And what I found odd about it is how it's so simple and yet so difficult.
+
+00:01:52.460 --> 00:01:57.520
+It took me many, many tries to finish the game, despite there being really only three types of enemies,
+
+00:01:57.740 --> 00:02:00.760
+all of whom behave in incredibly predictable ways.
+
+00:02:00.760 --> 00:02:05.740
+I mean, the jumping guys will literally jump right over you if you run straight at them.
+
+00:02:05.860 --> 00:02:07.920
+And yet I died to them again and again.
+
+00:02:08.160 --> 00:02:13.660
+Though, because of all that simplicity, nearly every time I died, it felt like my fault, not the game's fault.
+
+00:02:13.840 --> 00:02:18.300
+He's going back to our Ghost and Goblins theory of how games should work.
+
+00:02:18.560 --> 00:02:19.580
+He said, P.S.
+
+00:02:19.580 --> 00:02:22.040
+Russian Attack is a play it, not essential.
+
+00:02:23.300 --> 00:02:24.420
+Okay, good. Agreed.
+
+00:02:24.540 --> 00:02:26.900
+Yeah, well, I don't think you've, you didn't really say play it.
+
+00:02:27.020 --> 00:02:29.540
+You know what? I don't remember much of that game.
+
+00:02:30.300 --> 00:02:32.180
+You know what? It was just last week.
+
+00:02:32.980 --> 00:02:34.160
+You just can't remember.
+
+00:02:34.260 --> 00:02:37.920
+Well, you know what? It was kind of forgettable because Trojan, in my opinion, was better.
+
+00:02:38.300 --> 00:02:40.240
+And Ghost and Goblins was better than them both.
+
+00:02:40.420 --> 00:02:44.900
+So, like, if we're going through, like, those three, I'd definitely put Russian Attack at the bottom.
+
+00:02:45.340 --> 00:02:47.600
+Anyway, let's get into today's game.
+
+00:02:47.860 --> 00:02:49.340
+It's Track and Field.
+
+00:02:49.940 --> 00:02:53.520
+Track and Field, of course, 1983 in the arcade.
+
+00:02:53.760 --> 00:02:55.920
+There are many, many ports of this game.
+
+00:02:55.920 --> 00:02:58.400
+And it finally came to the NES in 1987.
+
+00:02:59.200 --> 00:03:03.980
+This is a Konami joint in the sense that, like, they just develop and publish all their games.
+
+00:03:05.180 --> 00:03:07.320
+Konami, if you'll remember, is Russian Attack.
+
+00:03:07.600 --> 00:03:10.500
+Yes. The game that you can't remember.
+
+00:03:10.620 --> 00:03:12.460
+I can't remember. But also, they did Gradius.
+
+00:03:12.660 --> 00:03:14.060
+So, that's cool.
+
+00:03:14.260 --> 00:03:16.900
+So, they're like, they've given us a really good game with Gradius.
+
+00:03:16.900 --> 00:03:19.440
+They've given us a pretty middling game with Russian Attack.
+
+00:03:19.600 --> 00:03:20.640
+And now they're giving us Track and Field.
+
+00:03:20.960 --> 00:03:22.480
+Next month, they'll give us Castlevania.
+
+00:03:22.900 --> 00:03:24.260
+Oh, yeah. That's really cool.
+
+00:03:24.820 --> 00:03:25.960
+Looking forward to it.
+
+00:03:26.100 --> 00:03:29.820
+Yeah. So, you know, I don't know if you want to say anything else about Konami.
+
+00:03:29.980 --> 00:03:31.060
+They don't really make games now.
+
+00:03:31.060 --> 00:03:32.380
+I don't want to talk about Konami.
+
+00:03:32.460 --> 00:03:33.280
+Konami is dead to me.
+
+00:03:33.340 --> 00:03:42.080
+Okay, great. One thing I wanted to say about Track and Field, the arcade version, is that those arcade cabinets are, like, really hard to find in pristine condition.
+
+00:03:42.820 --> 00:03:45.100
+Because they took heavy damage.
+
+00:03:45.460 --> 00:03:46.280
+At arcades.
+
+00:03:46.720 --> 00:03:47.560
+At the arcades. No, no.
+
+00:03:47.740 --> 00:03:52.040
+But, like, because people would do whatever it took to hit the buttons as fast as possible.
+
+00:03:52.200 --> 00:03:55.840
+Oh, yeah. For those of you that haven't played Track and Field yet, it's a button mashing game.
+
+00:03:55.940 --> 00:03:57.340
+The name of the game is to mash buttons.
+
+00:03:57.340 --> 00:04:00.880
+That is literally the only thing it can do aside from maybe, like, a well-timed up push.
+
+00:04:01.000 --> 00:04:02.660
+Yeah, a well-timed up arrow.
+
+00:04:02.900 --> 00:04:11.020
+Yeah. But I just think that's so funny that, like, I was reading and watching techniques on how to do well in the Track and Field arcade game.
+
+00:04:11.020 --> 00:04:14.160
+And some guy actually, like, take a metal ruler.
+
+00:04:14.900 --> 00:04:20.000
+Oh, my God. A metal ruler and spread it across and then just, like, flick that up and down, up and down really fast.
+
+00:04:20.100 --> 00:04:23.580
+So this way they're alternating between A and B.
+
+00:04:23.860 --> 00:04:26.340
+It's not called A and B in the arcade, but just to give you an idea.
+
+00:04:26.560 --> 00:04:29.600
+They just alternate on the ruler and hold the sides of it.
+
+00:04:29.760 --> 00:04:32.360
+That is a weird way to go about it.
+
+00:04:32.440 --> 00:04:36.680
+So good luck getting a mint condition Track and Field arcade cabinet.
+
+00:04:36.760 --> 00:04:37.920
+You'll probably need to get a restoration.
+
+00:04:37.920 --> 00:04:44.640
+I do think that, like, finding a mint condition any arcade cabinet is kind of difficult because, you know, all the gum.
+
+00:04:44.860 --> 00:04:51.520
+You know, since we're on the subject of arcade cabinets, I actually just saw this the other day.
+
+00:04:51.620 --> 00:04:53.320
+And this is not a plug. We don't have any sponsors.
+
+00:04:53.600 --> 00:04:58.700
+But I saw this, like, GameStop is selling, like, these $300, like, arcade cabinets now.
+
+00:04:58.860 --> 00:05:06.280
+Like, full-sized? Yeah, full-sized, $300, and they'll play, like, Street Fighter II or Pac-Man or Frogger.
+
+00:05:06.460 --> 00:05:07.640
+Really interesting. For $300.
+
+00:05:08.080 --> 00:05:10.760
+I might have to go in store and check that out, see if they have an in-school demo.
+
+00:05:10.760 --> 00:05:13.540
+That's not terrible. I mean, I have no room for any of those things.
+
+00:05:13.540 --> 00:05:16.220
+Yeah, I mean, but hey, for three, I mean, like, those things used to be, like, thousands.
+
+00:05:16.220 --> 00:05:17.200
+Thousands of dollars, yeah.
+
+00:05:17.420 --> 00:05:18.700
+So that's a step up.
+
+00:05:18.920 --> 00:05:26.560
+Yeah. Okay, so the Famicom version of Track and Field included significantly less events, all right, than the arcade version.
+
+00:05:26.560 --> 00:05:28.980
+It only had, like, three, if you can believe it.
+
+00:05:29.100 --> 00:05:30.440
+Like, three or four events total.
+
+00:05:30.840 --> 00:05:33.120
+And it went by the name Hyper Olympic.
+
+00:05:33.980 --> 00:05:37.000
+I guess they just didn't feel confident in Track and Field.
+
+00:05:37.080 --> 00:05:40.420
+Interesting. So we're getting, like, a remaster of this, or?
+
+00:05:40.660 --> 00:05:42.560
+Yeah, so. That was Konami as well?
+
+00:05:42.860 --> 00:05:44.260
+Konami, yeah. We'll do them all.
+
+00:05:44.260 --> 00:05:50.000
+Well, and it is a remaster, the version that comes to the NES in 1987, because the U.S.
+
+00:05:50.120 --> 00:05:52.020
+version loses Hammer Throw.
+
+00:05:52.440 --> 00:05:54.200
+Hammer Throw was in the arcade version.
+
+00:05:54.300 --> 00:05:55.160
+Would have liked the Hammer Throw.
+
+00:05:55.380 --> 00:06:00.200
+I'm including that in the show notes for you guys, a video of what Hammer Throw looks like, because it's actually pretty unique.
+
+00:06:00.580 --> 00:06:04.500
+It doesn't play similar to, like, how, you know, like, long jump and triple jump are, like, the same thing?
+
+00:06:04.600 --> 00:06:06.320
+Yeah. Like, it doesn't do that.
+
+00:06:06.440 --> 00:06:07.360
+But guess what? The U.S.
+
+00:06:07.740 --> 00:06:11.320
+version did gain skate shooting, archery, and triple jump.
+
+00:06:11.940 --> 00:06:19.740
+So I think that, um, actually, just tell me, what is the, uh, what's the game like?
+
+00:06:19.900 --> 00:06:24.040
+Like, what's the button sequence that you have to go about with the Hammer Throw?
+
+00:06:24.400 --> 00:06:32.300
+Uh, so I think, like, just more so, this is more important, is that with the arcade version, you actually, um, alternate buttons.
+
+00:06:32.760 --> 00:06:36.760
+Okay. So running was kind of like right leg, left leg, if you can imagine.
+
+00:06:36.860 --> 00:06:39.800
+Oh, that would actually add some. In the NES version, you just mash the A button.
+
+00:06:39.920 --> 00:06:41.180
+Yeah. Again and again and again.
+
+00:06:41.720 --> 00:06:47.420
+Which is actually funny, because I thought you were supposed to go A, B, A, B, and immediately
+
+00:06:47.420 --> 00:06:48.740
+I was like, no, this isn't working.
+
+00:06:48.740 --> 00:06:51.940
+It's taking me, like, 17 seconds to do the 100 meter dash.
+
+00:06:52.140 --> 00:06:53.840
+So that's not acceptable.
+
+00:06:55.420 --> 00:06:56.780
+Yeah, 17 seconds is bad.
+
+00:06:56.780 --> 00:07:01.060
+I'm just gonna say that. If you run the 100 meter dash in 17 seconds, uh, maybe try.
+
+00:07:01.060 --> 00:07:04.840
+I can't really visualize 100 meters right now, so I'm just gonna take your word for it.
+
+00:07:04.880 --> 00:07:06.540
+100 meters is one fourth of a track.
+
+00:07:06.880 --> 00:07:09.180
+Wow. Does that help you visualize it?
+
+00:07:09.180 --> 00:07:11.540
+When I'm thinking track, I'm thinking of a quarter mile track.
+
+00:07:11.840 --> 00:07:15.440
+Yeah. And 100 meters is one fourth of a quarter mile.
+
+00:07:16.200 --> 00:07:18.060
+Oh. Okay.
+
+00:07:18.480 --> 00:07:24.380
+Yeah. Because it's 400 meters in a track, and then each 100th of a track would be, yeah, one fourth.
+
+00:07:24.440 --> 00:07:30.360
+You get it. Okay. Um, yeah, the hammer throw thing was more like, you know, you have to spin around a lot and
+
+00:07:30.360 --> 00:07:34.900
+you're, you know, you're holding the whatever the, it's not a hammer.
+
+00:07:35.000 --> 00:07:38.460
+I know, I know that like what your character might be doing, but what are you doing with
+
+00:07:38.460 --> 00:07:40.980
+the buttons? Oh, you're, it's a mashing thing again.
+
+00:07:40.980 --> 00:07:42.000
+You do the same mashing. Okay.
+
+00:07:42.140 --> 00:07:42.980
+And then a release. Yeah.
+
+00:07:43.300 --> 00:07:45.960
+Fine. Uh, so unfortunately we didn't get that in the U.S.
+
+00:07:46.040 --> 00:07:47.380
+version, so no one really cares,
+
+00:07:47.560 --> 00:07:48.760
+but if you care, it's in the show notes.
+
+00:07:49.540 --> 00:07:54.580
+And I think we should just kind of jump right maybe through the, uh, through the events.
+
+00:07:54.980 --> 00:07:55.880
+Oh, okay. Yeah.
+
+00:07:56.000 --> 00:07:57.180
+Okay. Give me first impressions.
+
+00:07:57.260 --> 00:07:58.480
+I'm interested. We haven't done that in a while.
+
+00:07:58.620 --> 00:08:00.360
+Yeah, I do have a first impression of this game.
+
+00:08:00.600 --> 00:08:05.460
+I did love the, uh, 8-bit version of, uh, Chariots of Fire.
+
+00:08:05.860 --> 00:08:07.000
+That's, it starts it out.
+
+00:08:07.140 --> 00:08:10.980
+And that's in the arcade version too, but only when you like get a high score.
+
+00:08:11.160 --> 00:08:14.440
+Oh, well I think it works as like a menu music.
+
+00:08:14.760 --> 00:08:18.020
+I do like it, or maybe, I don't know, maybe it was just the intro to the menu.
+
+00:08:18.020 --> 00:08:20.240
+I thought it was nice and yeah, like when did that movie come out?
+
+00:08:21.220 --> 00:08:22.100
+I don't know.
+
+00:08:22.460 --> 00:08:24.600
+Was it the 80s? I think so.
+
+00:08:24.600 --> 00:08:26.740
+Okay, yeah. I mean, why else would it be associated with running?
+
+00:08:26.960 --> 00:08:29.780
+Yeah. It's weird to think, I don't know if Konami got the rights for that song.
+
+00:08:30.040 --> 00:08:31.940
+Probably not. I feel like they didn't.
+
+00:08:32.180 --> 00:08:36.440
+And they use it a lot too, because they also do it in like the intermission of the events.
+
+00:08:36.500 --> 00:08:37.680
+It was sort of random.
+
+00:08:37.900 --> 00:08:38.980
+There's no need for an intermission.
+
+00:08:39.140 --> 00:08:44.620
+Like the intermission was just like after one particular event, like two guys run away.
+
+00:08:45.020 --> 00:08:46.500
+Like it looks like they're running away.
+
+00:08:46.880 --> 00:08:47.860
+Yeah, it does look like it.
+
+00:08:47.860 --> 00:08:49.080
+Um, we're out of here.
+
+00:08:49.740 --> 00:08:54.580
+The Olympics, yeah, it's like, um, you know, I'm not, I'm not gonna, I'm not gonna say it.
+
+00:08:54.580 --> 00:08:56.640
+Actually, we're just gonna move on.
+
+00:08:56.800 --> 00:08:59.540
+Okay. People can figure out what I was gonna say probably.
+
+00:09:00.100 --> 00:09:02.300
+Let's uh, let's go through my first impressions.
+
+00:09:02.680 --> 00:09:07.360
+My, my initial impression was that this was just gonna be a button mashing game and be pretty
+
+00:09:07.360 --> 00:09:14.080
+simple. And as soon as I like got past, well, yes, but I also like found a lot of fun in that.
+
+00:09:14.400 --> 00:09:15.620
+Okay. Yeah. Doesn't mean it's not fun.
+
+00:09:15.880 --> 00:09:19.900
+I found it to be very enjoyable as like a, like the original Mario party, if you will,
+
+00:09:20.000 --> 00:09:25.760
+where it's like seven, seven different games that have like enough difference between them.
+
+00:09:25.900 --> 00:09:29.240
+But the skill is still like the floor doesn't like change, change.
+
+00:09:29.240 --> 00:09:31.320
+Yeah. So it's good.
+
+00:09:31.500 --> 00:09:33.240
+Except for one. We'll talk about that.
+
+00:09:33.240 --> 00:09:34.440
+Yeah. We'll talk about that when we get there.
+
+00:09:34.540 --> 00:09:35.340
+I don't want to talk about that yet.
+
+00:09:35.700 --> 00:09:38.080
+Uh, so I really enjoyed like these mini game things.
+
+00:09:38.180 --> 00:09:43.180
+I was really missing the ability to choose your event that you want to go right to.
+
+00:09:43.600 --> 00:09:45.740
+Like, yeah, no, that would have been helpful.
+
+00:09:45.920 --> 00:09:46.840
+That's a big feature that's missing. Yeah.
+
+00:09:46.940 --> 00:09:49.280
+If you just want to like, oh wait, isn't there a practice mode?
+
+00:09:49.740 --> 00:09:55.720
+Was there? I only saw, um, an A mode and a B, an A mode and a B mode with a B being the more difficult
+
+00:09:55.720 --> 00:09:57.340
+mode for one player and two player.
+
+00:09:57.440 --> 00:09:58.440
+I didn't see a practice mode.
+
+00:09:58.480 --> 00:10:01.060
+Oh, maybe I'm, maybe I'm wrong.
+
+00:10:01.220 --> 00:10:03.380
+I could have. You might be right. I might not have looked all the way down.
+
+00:10:03.620 --> 00:10:04.440
+Yeah. Same.
+
+00:10:04.660 --> 00:10:06.340
+The title screens never really catch me.
+
+00:10:06.460 --> 00:10:07.940
+No, no. Except for the music.
+
+00:10:08.180 --> 00:10:09.800
+Yes. But all right.
+
+00:10:09.940 --> 00:10:11.460
+Maybe this is complete misinformation.
+
+00:10:12.120 --> 00:10:14.880
+So if they did give you the option, I'm sorry, but I didn't notice it.
+
+00:10:15.000 --> 00:10:18.760
+And I really hated having to like, if I was bad in this particular event, like let's
+
+00:10:18.760 --> 00:10:19.940
+say high jump. Yeah.
+
+00:10:20.060 --> 00:10:21.840
+Maybe it's particularly high jump.
+
+00:10:21.980 --> 00:10:26.040
+Yeah. But it just sucks that you have to do all of the events that you're good at before you
+
+00:10:26.040 --> 00:10:29.520
+get a chance to even like prepare for the event that you're bad at.
+
+00:10:29.680 --> 00:10:32.320
+So, or if you just want to like, let's just say you just want to do some skeet shooting
+
+00:10:32.320 --> 00:10:33.300
+with your friends. Yeah.
+
+00:10:33.300 --> 00:10:35.420
+It's like, you got to go through a bunch of other events first.
+
+00:10:35.940 --> 00:10:37.060
+Yeah. It's not ideal.
+
+00:10:37.320 --> 00:10:38.640
+So I wasn't a big fan of that.
+
+00:10:39.880 --> 00:10:44.080
+Sean, would you have liked to see more buttons used in this game?
+
+00:10:44.320 --> 00:10:46.360
+Yeah. They've got like a big old B button.
+
+00:10:47.260 --> 00:10:48.780
+What's that? Yeah.
+
+00:10:48.780 --> 00:10:53.960
+I mean like you can use it for skeet shooting, but you can also just use A.
+
+00:10:54.620 --> 00:10:56.620
+And I think that
+
+00:10:56.620 --> 00:11:01.320
+to add a little bit more complexity to these little mini games, like another button would
+
+00:11:01.320 --> 00:11:05.620
+have helped. I would have thought even in like things that require more movement, like the triple jump,
+
+00:11:06.080 --> 00:11:07.960
+just doing more than the up arrow.
+
+00:11:08.200 --> 00:11:13.520
+Yeah. Like if you had to do like up and then down and then up or B.
+
+00:11:13.720 --> 00:11:15.660
+Yeah. Like just some kind of pattern or something.
+
+00:11:15.940 --> 00:11:19.240
+Like, yeah, sure. The games are, the game should be as simple as possible.
+
+00:11:19.240 --> 00:11:24.560
+Right? Like we're kind of adding like, this isn't necessary, but I thought it was kind of weird
+
+00:11:24.560 --> 00:11:30.380
+that you're really just utilizing two buttons on a controller that already only has two buttons
+
+00:11:30.380 --> 00:11:33.660
+and four directions. I think this is a, as good a time as ever.
+
+00:11:33.820 --> 00:11:38.040
+Actually, it should have been the beginning, but like we didn't use the little peripheral,
+
+00:11:38.460 --> 00:11:40.620
+right? Well, that's what I was trying to find out.
+
+00:11:40.680 --> 00:11:42.440
+So you're talking about the power pad.
+
+00:11:42.740 --> 00:11:47.920
+Yeah. But I couldn't figure out, is that compatible with this one or is that stadium events?
+
+00:11:48.700 --> 00:11:53.480
+Oh. Because I couldn't find anything on like, use the power pad or anything like that.
+
+00:11:53.580 --> 00:11:56.300
+Like it's not really, like I'm sure you could use it.
+
+00:11:56.360 --> 00:11:57.340
+I guess I was misled.
+
+00:11:57.560 --> 00:12:05.320
+Yeah. So I'm coming across this episode as a total scatterbrain because I may have just given
+
+00:12:05.320 --> 00:12:07.100
+you false information on the power pad.
+
+00:12:07.280 --> 00:12:10.540
+I think you can use, for the record, you can use the power pad on any NES game.
+
+00:12:10.700 --> 00:12:12.520
+Oh. Okay. Like you're allowed to.
+
+00:12:12.780 --> 00:12:17.740
+Oh. But I don't think that like for track and field, it was one that people like grew up playing
+
+00:12:18.460 --> 00:12:19.480
+with the power pad.
+
+00:12:19.600 --> 00:12:23.440
+I think that's, you know, not stadium events, but whatever it wound up getting rebranded
+
+00:12:24.040 --> 00:12:29.520
+as because stadium events is the most rare NES game of all time and sells for like $10,000
+
+00:12:29.520 --> 00:12:31.580
+because there's only like so many of them made.
+
+00:12:32.220 --> 00:12:35.780
+Here's what I want to, I'll just make a side, a sidebar real quick.
+
+00:12:35.900 --> 00:12:44.300
+Yeah. I'd love a sidebar. To the people that we're talking to that collect, like scarcity does not equal value.
+
+00:12:44.900 --> 00:12:50.620
+Like I feel like that's like a, I feel like you can't just say that just because something
+
+00:12:50.620 --> 00:12:53.120
+is rare that it has that much value.
+
+00:12:53.360 --> 00:12:58.900
+You know, like if it's a bad game or not a particularly notable one, why is it so expensive?
+
+00:12:59.040 --> 00:13:06.100
+Did you just make this, did you just walk up slowly and make this a stadium events, uh,
+
+00:13:07.640 --> 00:13:11.940
+podcast episode? No, I'm just, I want to, we have to talk about things here.
+
+00:13:12.120 --> 00:13:15.020
+Yeah. Dragon field for, for what it's worth is cheap.
+
+00:13:15.240 --> 00:13:17.300
+Yeah. That one you can get pretty easy.
+
+00:13:17.980 --> 00:13:19.080
+$10,000. No.
+
+00:13:19.260 --> 00:13:20.560
+What about $10? Yeah.
+
+00:13:20.580 --> 00:13:21.560
+Sure. You can get it.
+
+00:13:22.080 --> 00:13:26.120
+Um, Sean, maybe, maybe we should talk a little bit more about the game.
+
+00:13:26.660 --> 00:13:29.300
+Like, uh, maybe we just do a rundown of the events.
+
+00:13:30.040 --> 00:13:31.560
+Sure. Let's, let's play the game.
+
+00:13:31.760 --> 00:13:33.780
+All right. So you get, you got a hundred meter dash.
+
+00:13:34.120 --> 00:13:38.260
+Okay. You just got to mash that a button as fast as you can.
+
+00:13:38.560 --> 00:13:41.560
+Okay. Thrilling. But doesn't it feel like you need a little bit of rhythm?
+
+00:13:42.780 --> 00:13:44.440
+Like sometimes I mash that a button really fast.
+
+00:13:44.540 --> 00:13:48.140
+I feel like my guy's not getting any faster and then I'll, sometimes I'll do like a rhythmic
+
+00:13:48.140 --> 00:13:50.220
+thing to it and it'll have like a better stride.
+
+00:13:50.320 --> 00:13:52.620
+Am I making that up? I think you might be.
+
+00:13:52.900 --> 00:13:55.040
+Yeah. It's just like my eyes are seeing things.
+
+00:13:55.040 --> 00:13:59.280
+I don't think it actually, at least in like my experience playing the game, I'm
+
+00:13:59.280 --> 00:14:03.140
+a, it does not seem to, uh, take any account into the rhythm.
+
+00:14:03.320 --> 00:14:05.840
+I think it's just however many inputs per second.
+
+00:14:06.000 --> 00:14:07.520
+I like that this one's first though.
+
+00:14:07.660 --> 00:14:08.680
+Hundred meter dash. Yeah.
+
+00:14:08.800 --> 00:14:10.980
+It introduces you to the idea of button mashing.
+
+00:14:11.000 --> 00:14:15.700
+Right. Exactly. It tells you everything you need to know about the game and it even allows for like false
+
+00:14:15.700 --> 00:14:16.580
+starts. Yeah.
+
+00:14:16.720 --> 00:14:23.140
+Which is nice. Uh, I, I had many because it, they do kind of fake you out as soon as like your guy lifts
+
+00:14:23.140 --> 00:14:24.200
+his head up. Yeah.
+
+00:14:24.380 --> 00:14:25.400
+And then it's like, Oh, you got one more.
+
+00:14:25.560 --> 00:14:26.940
+Yeah. You got one more before that.
+
+00:14:27.640 --> 00:14:29.300
+Uh, all right. So then you go long jump.
+
+00:14:29.860 --> 00:14:34.200
+And for that one, you just mashing the A button again and again and again and again, but then
+
+00:14:34.200 --> 00:14:37.260
+you got to hit the up arrow before the line crosses.
+
+00:14:37.260 --> 00:14:41.760
+And you got to hold it as for, for, uh, as long as it takes to get to the optimal.
+
+00:14:43.020 --> 00:14:43.840
+Yeah. The angle. Yeah.
+
+00:14:43.960 --> 00:14:45.100
+Which is 45 degrees.
+
+00:14:45.660 --> 00:14:46.780
+Usually. 45.
+
+00:14:47.040 --> 00:14:50.040
+I think. In like basic Newtonian physics.
+
+00:14:50.260 --> 00:14:51.460
+Yeah. 45 degrees.
+
+00:14:51.760 --> 00:14:56.380
+And so what I like about long jump though, is that it's the 100 meter dash again, but
+
+00:14:56.380 --> 00:15:00.620
+now with a timing element to it as well with that up arrow, you know?
+
+00:15:00.760 --> 00:15:04.140
+Yeah. It's like taking the thing you just learned and adding a spin to it.
+
+00:15:04.880 --> 00:15:07.920
+Then you got, um, the javelin throw.
+
+00:15:08.560 --> 00:15:10.860
+Which is also more or less the same thing.
+
+00:15:10.980 --> 00:15:12.260
+It is exactly the same thing.
+
+00:15:12.320 --> 00:15:16.220
+And it confused me because this was like, I thought that, you know, you would have to
+
+00:15:16.220 --> 00:15:20.500
+do something with the other arrows with the, you know, like maybe to control like wind or
+
+00:15:20.500 --> 00:15:25.200
+something like that or resistance, but no, you just, you're just doing the long jump again,
+
+00:15:25.360 --> 00:15:26.580
+but now you're throwing something.
+
+00:15:26.760 --> 00:15:32.060
+And you have, you do have the, uh, ability to, if you throw high enough, uh, take down
+
+00:15:32.060 --> 00:15:34.640
+a UFO, which is it a UFO or is it a bird?
+
+00:15:35.100 --> 00:15:36.240
+I thought it was a UFO.
+
+00:15:36.520 --> 00:15:40.540
+I never threw high enough to get it, but I thought it was a bird, but I, there is a UFO
+
+00:15:41.000 --> 00:15:41.980
+in skeet shooting.
+
+00:15:43.080 --> 00:15:44.140
+Maybe I'm mixing them up.
+
+00:15:44.160 --> 00:15:48.120
+It's okay. Sean, Sean, Sean.
+
+00:15:48.520 --> 00:15:52.460
+I may be getting early onset Alzheimer's here.
+
+00:15:53.280 --> 00:15:57.760
+Okay. Then you have the 110 meter hurdles, which I think is great because now you've been trained
+
+00:15:58.220 --> 00:16:00.800
+to do the mashing and the up button.
+
+00:16:00.900 --> 00:16:02.960
+But now what if you had to do them like alternating?
+
+00:16:03.300 --> 00:16:12.380
+Yeah. So that was probably the most, uh, enjoyable one because it did take some level of competency.
+
+00:16:12.380 --> 00:16:14.620
+Yeah. And this is the one where you actually have to look at the screen.
+
+00:16:14.820 --> 00:16:17.760
+Yeah. The other ones you didn't really have to look at the screen much.
+
+00:16:17.960 --> 00:16:18.840
+You had to look at the buttons.
+
+00:16:18.940 --> 00:16:21.900
+I mean, you had to make sure that like the foul marker, you don't pass that.
+
+00:16:22.220 --> 00:16:24.440
+Yeah. But that's like a one second glance up, you know?
+
+00:16:24.440 --> 00:16:28.980
+Yeah. I don't know about you guys, but when I'm pushing buttons really fast, I'm like staring
+
+00:16:28.980 --> 00:16:30.180
+down my controller.
+
+00:16:30.180 --> 00:16:35.700
+Like I'm like, I do this thing where I put my thumb and my index finger together and I
+
+00:16:35.700 --> 00:16:37.880
+just rapidly tap my wrist.
+
+00:16:38.240 --> 00:16:40.020
+Like I don't even move my whole arm.
+
+00:16:40.160 --> 00:16:41.140
+It's just my wrist. Yeah.
+
+00:16:41.440 --> 00:16:47.300
+Like when I'm trying to mash a button, my, like my, my technique is to just sort of like
+
+00:16:48.000 --> 00:16:51.680
+kind of get my, my, my finger to just spaz out.
+
+00:16:51.680 --> 00:16:57.020
+Like it's, it's just a tension of the muscles and them not being able to, to stay stable.
+
+00:16:57.200 --> 00:17:00.040
+These are the kinds of strategies you're not going to see on game FAQ.
+
+00:17:00.120 --> 00:17:01.160
+Yeah. Okay. Yeah.
+
+00:17:02.000 --> 00:17:05.840
+When did you think we were going to give button mashing strategies on nostalgia?
+
+00:17:06.060 --> 00:17:11.100
+Can you, can you guys at our Twitter and tell us your button mashing technique aside
+
+00:17:11.100 --> 00:17:12.180
+from using the turbo button?
+
+00:17:13.220 --> 00:17:17.460
+Yeah. The turbo button, by the way, I just want to say like that is the silliest thing you can
+
+00:17:17.460 --> 00:17:24.660
+do is play with the turbo button on because like you might as well go on task rabbit and
+
+00:17:25.180 --> 00:17:31.820
+pay me money to come over and play the game for you because there's just no reason when
+
+00:17:31.820 --> 00:17:33.580
+the only thing you have to do is hit the a button.
+
+00:17:33.900 --> 00:17:39.320
+There's no reason to map turbo to a, so then you have skeet shooting.
+
+00:17:39.580 --> 00:17:40.940
+Yeah. Which is interesting.
+
+00:17:41.120 --> 00:17:46.560
+Yeah. Interesting. And even more interesting now that I know that it was added for like the NES version,
+
+00:17:47.440 --> 00:17:50.880
+but didn't you feel like we should have been able to use the zapper here?
+
+00:17:51.620 --> 00:17:59.160
+Well, I think that would be an issue with, maybe it's too early to be talking about engines,
+
+00:17:59.980 --> 00:18:02.860
+but this was not designed with the zapper in mind, obviously.
+
+00:18:03.040 --> 00:18:07.620
+Right. No, very true. I just felt like it would have been, you know, we've already seen the better version of skeet
+
+00:18:07.620 --> 00:18:11.640
+shooting in, you know, Joe Costu's favorite mode of duck hunt.
+
+00:18:12.420 --> 00:18:15.520
+Skeet shooting. So, no.
+
+00:18:15.520 --> 00:18:16.660
+This was just an odd.
+
+00:18:16.820 --> 00:18:18.840
+Well, clay disc. Clay disc, but it's skeet.
+
+00:18:18.960 --> 00:18:20.540
+It's skeet, but they call it clay discs.
+
+00:18:20.640 --> 00:18:27.860
+Yeah. I don't really know why they chose this because I'm sure that there are other, there are other
+
+00:18:27.860 --> 00:18:36.760
+Olympic events that can more easily be like abstracted onto the NES because I know that
+
+00:18:36.760 --> 00:18:41.340
+they give you like a reticle, but in no way does this feel like you're shooting anything.
+
+00:18:41.340 --> 00:18:44.500
+Yeah. It's almost, it's more of a rhythm game.
+
+00:18:44.620 --> 00:18:45.920
+Yeah. You know, which I think is neat.
+
+00:18:46.120 --> 00:18:47.440
+We haven't had a rhythm game yet.
+
+00:18:47.760 --> 00:18:53.000
+Yeah. And I didn't hate it, but also like that hitbox felt kind of finicky.
+
+00:18:53.940 --> 00:18:58.700
+See, only, but hitbox is, okay, I guess like the window in which you can hit the button.
+
+00:18:58.820 --> 00:18:59.760
+That's what I meant. Yeah.
+
+00:18:59.820 --> 00:19:00.660
+I thought so too.
+
+00:19:02.300 --> 00:19:09.280
+But I think the damning part of this is that I think you at least need to aim for it
+
+00:19:09.280 --> 00:19:10.140
+to feel like shooting.
+
+00:19:10.140 --> 00:19:12.420
+Yeah. Cause it's all, it auto aims for you.
+
+00:19:12.500 --> 00:19:15.240
+Yeah. You're just kind of saying like, okay, I see it in the box.
+
+00:19:15.860 --> 00:19:17.280
+Yeah. Exactly. In the box.
+
+00:19:17.440 --> 00:19:20.740
+Now, it's like, you know what this would make, this would be great at like a doctor's
+
+00:19:20.740 --> 00:19:22.620
+office for like a cranial nerve exam.
+
+00:19:23.800 --> 00:19:25.940
+Just the skeet shooting from track and field.
+
+00:19:26.100 --> 00:19:28.640
+Just to make sure that all the muscles, all the nerves are working.
+
+00:19:28.780 --> 00:19:33.060
+And that you're seeing things like, you know, you're correcting with viewing your time
+
+00:19:33.060 --> 00:19:33.980
+and stuff like that.
+
+00:19:34.320 --> 00:19:36.440
+Okay. Cool. Then you get archery.
+
+00:19:37.580 --> 00:19:38.580
+Which is okay.
+
+00:19:38.580 --> 00:19:40.780
+Archery is odd because it's.
+
+00:19:40.860 --> 00:19:41.720
+You're really good at archery.
+
+00:19:42.040 --> 00:19:43.260
+I'm okay at archery.
+
+00:19:43.500 --> 00:19:45.160
+I mean, I, that was probably the best.
+
+00:19:45.560 --> 00:19:50.080
+Like when we just played right before the record and that was probably my best archery
+
+00:19:50.080 --> 00:19:59.400
+session. Um, I like kind of what they did with archery in that, um, instead of aiming, they have,
+
+00:20:00.020 --> 00:20:04.420
+uh, the target is moving and just like in.
+
+00:20:04.560 --> 00:20:05.780
+Yeah. Just like in archery.
+
+00:20:06.040 --> 00:20:14.760
+Archery. And you control how high you shoot like the second, um, axis, uh, by holding on the button.
+
+00:20:14.760 --> 00:20:20.860
+And it's, again, it's not aiming, um, which is what I want, but it's a better version than
+
+00:20:20.860 --> 00:20:22.380
+skeet shooting. Yeah, I agree.
+
+00:20:22.400 --> 00:20:26.180
+And I also think, uh, it was neat that you had to randomize the wind.
+
+00:20:26.380 --> 00:20:30.520
+Yeah. You know that I don't, I don't know what kind of difference that plays in because I was
+
+00:20:30.520 --> 00:20:33.080
+already like pretty bad at getting close to the center.
+
+00:20:33.080 --> 00:20:38.680
+But I can imagine that like, if you had like a plus six wind that that was going to have
+
+00:20:38.680 --> 00:20:41.000
+to change your angle pretty drastically.
+
+00:20:41.480 --> 00:20:45.580
+So I think archery and skeet shooting are kind of like the, um, the surprises.
+
+00:20:45.920 --> 00:20:47.060
+They are. Of track and field.
+
+00:20:47.120 --> 00:20:49.320
+They finally get away from the button mash and hit up.
+
+00:20:49.580 --> 00:20:52.440
+And then we get back into a high jump.
+
+00:20:52.640 --> 00:20:53.560
+Button mash and hit up.
+
+00:20:53.740 --> 00:20:56.220
+But this time you don't really know how.
+
+00:20:56.880 --> 00:20:58.340
+Somebody please help me.
+
+00:20:58.340 --> 00:21:03.320
+I want to finish this game, like a complete run through of it.
+
+00:21:03.360 --> 00:21:07.840
+Cause I have a really good score going into high jump and then I can't clear the bar.
+
+00:21:08.060 --> 00:21:13.240
+I have also read about, I haven't watched any, we know I have watched a video and I have
+
+00:21:13.240 --> 00:21:20.380
+read about how to do it, but I don't know if I'm just like, I can't read or I'm just
+
+00:21:20.380 --> 00:21:22.160
+missing a key concept.
+
+00:21:22.560 --> 00:21:26.840
+But whenever I hit any of the buttons, it doesn't seem to work.
+
+00:21:26.840 --> 00:21:31.680
+All the experimentation I've tried ends in me hitting the bar or hitting the ground before
+
+00:21:31.680 --> 00:21:36.480
+the bar. I feel really bad for my character because he's, let's pretend this is like, you know,
+
+00:21:36.600 --> 00:21:37.940
+a decathlon or something, right?
+
+00:21:37.960 --> 00:21:41.320
+He's like racking up mad points and all of the events.
+
+00:21:41.320 --> 00:21:43.920
+He's, he's breaking world records after world record.
+
+00:21:44.060 --> 00:21:49.560
+Then he goes on the high jump and he jumps way before the bar even shows up and then just
+
+00:21:49.560 --> 00:21:54.720
+does like, yeah, like a back plan, I guess onto the, onto the track surface.
+
+00:21:54.720 --> 00:21:57.740
+Yeah. Like doesn't even make contact with the bar or anything.
+
+00:21:58.360 --> 00:22:02.540
+And if I do like get close enough, like one of two things is going to happen.
+
+00:22:02.680 --> 00:22:05.540
+I'm either going to hit that bar or I'm going to hit the ground.
+
+00:22:05.540 --> 00:22:07.220
+I have never hit the bar.
+
+00:22:07.420 --> 00:22:09.760
+And then gotten onto the, and then gotten onto the mattress.
+
+00:22:09.980 --> 00:22:10.880
+Yeah. The mattress.
+
+00:22:11.520 --> 00:22:12.480
+What do you call that thing?
+
+00:22:12.680 --> 00:22:13.500
+Just the mat. Yeah.
+
+00:22:13.520 --> 00:22:14.780
+The mat. There you go. Yeah.
+
+00:22:15.000 --> 00:22:16.440
+Matt is short for mattress.
+
+00:22:16.440 --> 00:22:20.340
+Matt is. You're right. All Matthews full names are mattresses.
+
+00:22:20.780 --> 00:22:21.760
+Matthew Triss.
+
+00:22:37.680 --> 00:22:41.640
+Okay. So high jump, you know, kind of ruins this game for me though.
+
+00:22:41.700 --> 00:22:45.360
+Yeah. I'm being honest because I'm kind of frustrated that I just can't finish it out.
+
+00:22:45.540 --> 00:22:50.940
+It's like a game that like, it just has a glitched out last level and you can never
+
+00:22:50.940 --> 00:22:52.460
+actually get that screen.
+
+00:22:52.600 --> 00:22:53.420
+I was like, congratulations.
+
+00:22:53.580 --> 00:22:55.140
+You won all the medals possible.
+
+00:22:55.440 --> 00:22:56.500
+Yeah. That sounds awful.
+
+00:22:56.920 --> 00:22:59.040
+So I mentioned that I set a couple of world records.
+
+00:22:59.420 --> 00:23:03.140
+Yeah. And what I like about the world records is that they were the real world records at the
+
+00:23:03.140 --> 00:23:07.860
+time. They weren't like, you know, world records up against like what the game could do because
+
+00:23:07.860 --> 00:23:11.880
+you can, you can run a 7.75, 100 meter.
+
+00:23:12.160 --> 00:23:19.260
+And I guarantee you it will be centuries before humans will be running 7.75.
+
+00:23:20.020 --> 00:23:23.060
+We're lucky right now that we're at like 9.53.
+
+00:23:23.680 --> 00:23:25.880
+Wow. And that took forever to get to.
+
+00:23:26.100 --> 00:23:29.680
+So the idea of someone breaking nine is near impossible.
+
+00:23:29.680 --> 00:23:35.560
+The idea of someone breaking, like getting into like the low eights is definitely impossible.
+
+00:23:35.800 --> 00:23:38.940
+And 7.75 is just out of the realm of possibilities right now.
+
+00:23:39.160 --> 00:23:40.780
+But you can do it in this game.
+
+00:23:40.780 --> 00:23:44.060
+But I like that they keep the world record as what it was at the time.
+
+00:23:44.220 --> 00:23:49.840
+I think. And you should listen to this guy, this, this, this Michael character here, because he's
+
+00:23:49.840 --> 00:23:53.200
+our resident runner expert and our resident runner.
+
+00:23:54.680 --> 00:23:57.640
+I didn't want to, I didn't know how to bring it up in the, in the podcast.
+
+00:23:57.920 --> 00:23:59.620
+Yeah. I didn't really want to, but yeah, I do a lot of running.
+
+00:23:59.860 --> 00:24:02.440
+Yeah. He was recently in the New York City marathon.
+
+00:24:02.860 --> 00:24:04.660
+Uh oh. Now they'll, now they'll look me up, Sean.
+
+00:24:06.200 --> 00:24:09.100
+Can you, can you, uh, remove that part?
+
+00:24:09.820 --> 00:24:12.480
+It's totally fine. I keep saying, I tell them where to find me on Twitter.
+
+00:24:13.700 --> 00:24:19.420
+Sean has said a lot of things on this episode that he's uncertain about, but that time he
+
+00:24:19.420 --> 00:24:21.120
+wasn't wrong. I was correct that time.
+
+00:24:21.120 --> 00:24:24.980
+Yep. Uh, so I, I will say that maybe I'm coming in with a little bit of a bias then.
+
+00:24:25.120 --> 00:24:26.040
+Like I love running.
+
+00:24:26.360 --> 00:24:28.820
+Not many people do. Not many people love running.
+
+00:24:29.020 --> 00:24:36.480
+And yet here I am very excited to, uh, to try out a game in my sport and only to find
+
+00:24:36.480 --> 00:24:40.800
+that it's like pretty much finished, you know, like there's not, there's not going to be
+
+00:24:40.800 --> 00:24:41.820
+a better idea.
+
+00:24:42.080 --> 00:24:45.660
+You know, we're not going to see like there'll ever be like a next gen running game.
+
+00:24:45.800 --> 00:24:50.000
+Well, I've got news for you in a second, but first let me just finish up my idea with
+
+00:24:50.000 --> 00:24:53.600
+like, there's never going to be like, okay, the PS five is coming out.
+
+00:24:53.760 --> 00:24:56.980
+And as a launch title track and field is getting remastered.
+
+00:24:56.980 --> 00:25:02.880
+And now, and now it's like, you know, you got to hold down R two for throttle on your
+
+00:25:02.880 --> 00:25:04.220
+right leg. It's basically just a crop.
+
+00:25:04.220 --> 00:25:05.340
+For the throttle. Yeah, exactly.
+
+00:25:05.820 --> 00:25:07.300
+It's like, nobody wants that.
+
+00:25:07.440 --> 00:25:09.800
+Yeah. Nobody, nobody wants that.
+
+00:25:09.960 --> 00:25:14.560
+Instead, what I'd like to see is have VR and treadmills kind of come together to take
+
+00:25:14.560 --> 00:25:17.100
+you on runs that you, um, that you couldn't do.
+
+00:25:17.240 --> 00:25:23.280
+Yeah. You know, like running on the moon or the, um, great wall of China.
+
+00:25:23.540 --> 00:25:25.480
+That too. You were very ambitious.
+
+00:25:25.640 --> 00:25:28.160
+You could go there. You can't really get to the moon.
+
+00:25:28.280 --> 00:25:30.740
+You think you're allowed, are you allowed to just like run on the great wall of China?
+
+00:25:30.740 --> 00:25:35.020
+I think you're allowed on the great wall of China and you can probably walk at any speed
+
+00:25:35.020 --> 00:25:35.980
+you like. That's awesome.
+
+00:25:36.620 --> 00:25:40.480
+Well, Sean, you mentioned, uh, you know, about like, you don't think that they're going to
+
+00:25:40.480 --> 00:25:41.520
+make another one of these.
+
+00:25:41.720 --> 00:25:42.980
+I have news for you.
+
+00:25:43.260 --> 00:25:44.760
+Okay. Is it coming to switch?
+
+00:25:45.440 --> 00:25:48.120
+Konami makes so many versions of this.
+
+00:25:48.180 --> 00:25:52.080
+Okay. So many versions of this and they're still making games in the series.
+
+00:25:52.080 --> 00:25:52.980
+Okay. You serious?
+
+00:25:53.200 --> 00:25:57.380
+Yeah. Hyper sports came the following year for arcades in 1984.
+
+00:25:57.420 --> 00:25:58.760
+So track and field was 1983.
+
+00:25:58.760 --> 00:25:59.720
+It was the first one.
+
+00:25:59.720 --> 00:26:01.300
+Then hyper sports 1984.
+
+00:26:01.740 --> 00:26:05.540
+Then there's like international track and field for PlayStation one.
+
+00:26:05.900 --> 00:26:07.580
+Is it still a button mashing game?
+
+00:26:07.720 --> 00:26:08.660
+Yeah. What the hell?
+
+00:26:08.960 --> 00:26:14.840
+Believe it or not, Sean, track and field two will come to the NES next year.
+
+00:26:15.100 --> 00:26:16.600
+1988. Wow.
+
+00:26:17.140 --> 00:26:18.900
+1988. So we will have to review.
+
+00:26:18.900 --> 00:26:20.620
+I thought you were talking about track and field two.
+
+00:26:21.740 --> 00:26:23.160
+See, that's not what I meant.
+
+00:26:23.520 --> 00:26:26.900
+I want to see a current gen running simulator.
+
+00:26:27.200 --> 00:26:28.640
+But boy, do I have news for you.
+
+00:26:29.140 --> 00:26:30.480
+I thought you were going to tell me.
+
+00:26:30.960 --> 00:26:33.340
+I know. I just love it. But wait, there's more.
+
+00:26:34.140 --> 00:26:35.500
+Hyper sports are.
+
+00:26:35.760 --> 00:26:39.360
+Remember, hyper sports is another name that the track and field series goes by for Konami.
+
+00:26:39.540 --> 00:26:42.720
+It's actually being developed right now for the Nintendo switch.
+
+00:26:42.940 --> 00:26:44.480
+Oh, my hyper sports are.
+
+00:26:44.640 --> 00:26:48.780
+And it pretty much looks like right now a remake of track and field.
+
+00:26:48.780 --> 00:26:53.540
+But now you just shake your switch buttons.
+
+00:26:53.540 --> 00:26:54.920
+The joy cons? Joy cons.
+
+00:26:55.400 --> 00:26:57.720
+You shake them? No, no. You're just going to probably just mash the A button.
+
+00:26:57.960 --> 00:26:59.580
+Oh, God. Smash that A button.
+
+00:26:59.840 --> 00:27:01.180
+And this isn't even new.
+
+00:27:01.320 --> 00:27:02.240
+Like, yeah, sure.
+
+00:27:02.240 --> 00:27:05.160
+There's like 14 games in this track and field series for Konami.
+
+00:27:05.420 --> 00:27:11.560
+But like, there were already games doing things like what track and field was doing.
+
+00:27:11.720 --> 00:27:14.740
+So we have Olympic Decathlon, which came out in 1980.
+
+00:27:14.940 --> 00:27:16.220
+It's a computer game.
+
+00:27:16.480 --> 00:27:17.800
+Very similar concept and controls.
+
+00:27:18.080 --> 00:27:26.660
+Then you have the Activision Decathlon, which was released the same year as track and field by Activision.
+
+00:27:27.060 --> 00:27:29.800
+Then you have Daley Thompson's Decathlon.
+
+00:27:30.320 --> 00:27:31.880
+Daley Thompson? Daley Thompson.
+
+00:27:32.040 --> 00:27:33.060
+That's a person. Okay.
+
+00:27:34.080 --> 00:27:38.700
+I don't, you know, it says it was released in the wake of Daley Thompson's popularity.
+
+00:27:39.440 --> 00:27:40.560
+But. In the wake.
+
+00:27:40.740 --> 00:27:42.200
+If I know who this guy is.
+
+00:27:43.140 --> 00:27:44.980
+And I'm not, I guess, oh wait, hold on, hold on.
+
+00:27:45.040 --> 00:27:46.080
+I might have a link here.
+
+00:27:46.280 --> 00:27:47.460
+Does he have a killer mustache?
+
+00:27:48.300 --> 00:27:49.740
+Daley Thompson. You ready for this?
+
+00:27:49.920 --> 00:27:50.920
+Uh-huh. This is breaking news.
+
+00:27:51.000 --> 00:27:52.600
+He has a mustache. Oh, great.
+
+00:27:52.860 --> 00:27:54.120
+Are you playing Guess Who with me?
+
+00:27:54.120 --> 00:27:56.980
+Would you like to guess some other features of Daley Thompson?
+
+00:27:57.260 --> 00:27:58.120
+Is it a color picture?
+
+00:27:58.580 --> 00:27:59.740
+It's a color picture.
+
+00:27:59.880 --> 00:28:02.280
+Okay. Uh, does he have brown hair?
+
+00:28:02.960 --> 00:28:04.740
+Uh, he's like more like.
+
+00:28:04.820 --> 00:28:06.280
+Dirty blonde? Black. Okay.
+
+00:28:06.480 --> 00:28:08.360
+Yeah, black hair. Kind of thin hair.
+
+00:28:08.660 --> 00:28:10.560
+Okay. He's old in this picture though, too.
+
+00:28:11.320 --> 00:28:12.740
+Alright, so, um.
+
+00:28:13.440 --> 00:28:19.720
+Glasses? He won the Decathlon gold medal at the Olympic Games in 1980 and 1984 and broke the world record
+
+00:28:19.720 --> 00:28:20.900
+for the event four times.
+
+00:28:21.240 --> 00:28:22.320
+Wow. So, again.
+
+00:28:22.580 --> 00:28:24.320
+I guess that, okay, I get why it's named after him.
+
+00:28:24.320 --> 00:28:26.180
+That's why you could have it named after him.
+
+00:28:26.520 --> 00:28:29.720
+And it is a computer game, again, with a similar concept.
+
+00:28:30.320 --> 00:28:37.080
+And there was also Summer Games in 1984, the year after, which was released by Epix, E-P-Y-X.
+
+00:28:37.280 --> 00:28:40.120
+So this is just like a lot of people all at once.
+
+00:28:40.120 --> 00:28:44.960
+There was like the great awakening of like, wait a minute, the A button was designed for
+
+00:28:44.960 --> 00:28:53.980
+track and field. I just, I like to think of the sports game genre just like trying to find its way in
+
+00:28:54.720 --> 00:28:59.320
+like this early section of gaming history of just like, we should just do all the sports
+
+00:28:59.320 --> 00:29:01.500
+and they'll just figure it out.
+
+00:29:01.680 --> 00:29:03.180
+Like, running.
+
+00:29:03.180 --> 00:29:06.360
+I just don't get why there were so many running games.
+
+00:29:06.540 --> 00:29:13.860
+Yes. Also, like why in Super Mario Brothers, why do you use the right directional stick to move
+
+00:29:13.860 --> 00:29:17.740
+right? Why aren't you mashing the A button to move right?
+
+00:29:17.960 --> 00:29:22.280
+You're right. If you just press right, you should just like sort of lean and then fall over.
+
+00:29:22.280 --> 00:29:23.120
+Yeah, exactly.
+
+00:29:23.360 --> 00:29:24.580
+I'm 100% for this.
+
+00:29:24.720 --> 00:29:27.340
+I think, I think Super Mario Brothers can take a note from track and field.
+
+00:29:28.240 --> 00:29:33.040
+And that wouldn't make a lot of sense though, to Europeans because, and it probably, this
+
+00:29:33.040 --> 00:29:35.100
+episode in general, people in Europe are listening.
+
+00:29:35.400 --> 00:29:36.580
+Because they run to the left in Europe?
+
+00:29:37.580 --> 00:29:38.860
+That is very funny.
+
+00:29:39.720 --> 00:29:43.540
+No, it's because we're talking about track and field and they're like, well, I don't know
+
+00:29:43.540 --> 00:29:46.800
+track and field. I only know track and field in Barcelona.
+
+00:29:47.720 --> 00:29:50.200
+It's literally just added in Barcelona.
+
+00:29:50.200 --> 00:29:53.880
+It's added in Barcelona and it came out in 1992, but it's the same game.
+
+00:29:54.020 --> 00:29:58.240
+They didn't even add like any Barcelona, Barcelona architecture?
+
+00:29:58.680 --> 00:30:00.680
+No, it's the same. Well, maybe in the title screen.
+
+00:30:00.960 --> 00:30:03.640
+Okay. The title screen changed, but like, no, otherwise it's the same game.
+
+00:30:03.760 --> 00:30:06.540
+Wow. It's just finally in 1992, they get a taste of it.
+
+00:30:06.760 --> 00:30:12.340
+Wow. But that was because of course the summer Olympic games of 1992 were in Barcelona.
+
+00:30:13.240 --> 00:30:14.340
+Okay. So it just seemed timely.
+
+00:30:14.480 --> 00:30:15.520
+It was like, oh, they never got this game.
+
+00:30:15.640 --> 00:30:21.380
+Give it to them now. So, uh, you might think that that's all I have to say about track and field.
+
+00:30:21.620 --> 00:30:24.340
+I hope. But I found, I found interviews.
+
+00:30:24.680 --> 00:30:28.600
+Oh no. Are you ready for some great developer interview quotes?
+
+00:30:28.780 --> 00:30:30.120
+Please. Okay.
+
+00:30:31.120 --> 00:30:33.940
+This is on the development of track and field.
+
+00:30:34.520 --> 00:30:37.780
+Oh, you want to know why we made track and field.
+
+00:30:38.040 --> 00:30:39.180
+It's simple enough.
+
+00:30:39.380 --> 00:30:44.860
+We were inspired by the 1984 LA Olympics held last year and said to each other.
+
+00:30:45.000 --> 00:30:47.500
+Yeah, let's make a sports game like this.
+
+00:30:47.740 --> 00:30:52.460
+Indeed. There had not been a track and field style athletic game of event game yet.
+
+00:30:52.780 --> 00:30:54.320
+Lies. We just went over that.
+
+00:30:55.000 --> 00:31:00.020
+We also wanted to see if we could create a game that wasn't human verse CPU, but human
+
+00:31:00.020 --> 00:31:05.820
+versus human. I think that Pong was one of the earliest video games.
+
+00:31:06.500 --> 00:31:07.320
+Was human versus human.
+
+00:31:07.460 --> 00:31:10.000
+Keep in mind that there is a human versus human mode.
+
+00:31:10.580 --> 00:31:13.780
+Sure. But it's weird that we're talking like that.
+
+00:31:13.900 --> 00:31:16.380
+Yeah. There is a human versus human mode.
+
+00:31:17.060 --> 00:31:19.700
+Um, after deciding on our path, we got to work.
+
+00:31:19.800 --> 00:31:25.060
+Every morning we'd grab our fresh, warm bento lunch boxes and head down to the local college
+
+00:31:25.060 --> 00:31:30.140
+track and field to watch them compete and get a real feel for how it all works.
+
+00:31:31.120 --> 00:31:34.580
+Oh, so they're just mashing their feet into the ground.
+
+00:31:34.580 --> 00:31:36.880
+Like we could just mash these buttons.
+
+00:31:37.400 --> 00:31:42.940
+Okay. We also watched and researched videos from the Tokyo Olympics and other events featuring Olympic
+
+00:31:42.940 --> 00:31:51.040
+athletes. One of our developers adored the Finnish javelin thrower Tiana Lealek so much as he, so much.
+
+00:31:51.040 --> 00:31:56.740
+He insisted that we add javelin to the events and thus javelin was given to track and field.
+
+00:31:58.080 --> 00:32:00.340
+That is, you know, basically.
+
+00:32:00.660 --> 00:32:02.800
+That's the story. That's the story of why they made it.
+
+00:32:03.140 --> 00:32:06.580
+Okay. It seems like you could have given that same answer.
+
+00:32:06.820 --> 00:32:07.780
+I know. And I prompted you.
+
+00:32:08.040 --> 00:32:11.420
+They seem to be taking credit for some very basic inferences.
+
+00:32:11.420 --> 00:32:14.220
+Like we wanted to make a game that.
+
+00:32:14.500 --> 00:32:16.360
+Involved track and field events.
+
+00:32:16.360 --> 00:32:19.380
+No, no, no. Just like, you know, that humans play.
+
+00:32:20.500 --> 00:32:23.700
+I like making games that humans play against each other.
+
+00:32:24.920 --> 00:32:26.920
+Anyway, another one for you here.
+
+00:32:27.120 --> 00:32:29.420
+If you're willing to listen to one more.
+
+00:32:29.960 --> 00:32:31.760
+If the listener is.
+
+00:32:31.960 --> 00:32:37.680
+Okay. My first game, track and field, took half a year with a grand total of two people working
+
+00:32:37.680 --> 00:32:38.920
+on programming and design.
+
+00:32:39.060 --> 00:32:41.600
+I think that shows by the small limitations.
+
+00:32:41.600 --> 00:32:46.140
+Mm-hmm. I don't think Gradius took even half a year with a team of four people.
+
+00:32:46.500 --> 00:32:51.440
+We did spend time developing a special controller for track and field because people complained
+
+00:32:51.440 --> 00:32:52.880
+the regular one hurt, however.
+
+00:32:53.160 --> 00:32:54.460
+And I'll try.
+
+00:32:54.640 --> 00:32:56.680
+I saw this once, but I can't find it anymore.
+
+00:32:56.840 --> 00:32:58.240
+I'll try to link this in the show notes.
+
+00:32:58.540 --> 00:33:01.440
+It's a, it's like a box just with one button on each side.
+
+00:33:02.720 --> 00:33:05.680
+For those who, you know, for playing the alternating style.
+
+00:33:05.920 --> 00:33:06.980
+Which the NES doesn't have.
+
+00:33:07.800 --> 00:33:11.280
+And then he just goes on a tangent about Gradius, which I feel like we love Gradius.
+
+00:33:11.380 --> 00:33:12.960
+Well, I'll always listen to Gradius stuff.
+
+00:33:13.080 --> 00:33:14.880
+Yeah. So here's a Gradius thing about him.
+
+00:33:14.920 --> 00:33:16.020
+This is now a Gradius episode.
+
+00:33:16.220 --> 00:33:20.320
+Gradius was something we were ordered to port, so we tried to be realistic about it.
+
+00:33:20.440 --> 00:33:25.880
+The number of sprites on the NES is overwhelmingly small, so we had no illusions about what we
+
+00:33:25.880 --> 00:33:26.700
+were capable of.
+
+00:33:26.980 --> 00:33:32.060
+Laughs. We just said to ourselves, well, that's as much as we can do, and left the game at that.
+
+00:33:33.220 --> 00:33:36.820
+I had one guy under me, and he played through the coin-op version.
+
+00:33:36.820 --> 00:33:38.200
+That one's really tough.
+
+00:33:38.440 --> 00:33:41.040
+I didn't play that much, and obviously couldn't beat it myself.
+
+00:33:41.220 --> 00:33:42.600
+So I put in the Konami code.
+
+00:33:43.580 --> 00:33:45.120
+The developer for the game.
+
+00:33:45.360 --> 00:33:50.320
+The developer of the NES port of Gradius was like, I didn't play the game much.
+
+00:33:51.260 --> 00:33:53.500
+And it doesn't take much to make these games.
+
+00:33:53.600 --> 00:33:55.080
+You just gotta fix them.
+
+00:33:55.540 --> 00:33:56.420
+Oh my god.
+
+00:33:56.640 --> 00:34:00.380
+I think this is so funny that they're just so casual about these things.
+
+00:34:00.660 --> 00:34:02.960
+What a cool environment to work in back then.
+
+00:34:02.960 --> 00:34:07.560
+Now Konami's just looking at numbers and pachinko machines and being like, cool.
+
+00:34:08.340 --> 00:34:10.240
+Can we take a moment of silence for Konami?
+
+00:34:10.700 --> 00:34:12.840
+A moment of silence for Silent Hills as well.
+
+00:34:12.980 --> 00:34:17.820
+That's what I mean. Alright, and with that we're gonna go right into the Essential Games list.
+
+00:34:20.580 --> 00:34:21.820
+Sean, how do we do this?
+
+00:34:24.020 --> 00:34:25.520
+You're one half of the vote.
+
+00:34:25.700 --> 00:34:29.740
+Yeah. So if you voted Essential, does that do it?
+
+00:34:29.780 --> 00:34:31.100
+I guess that is the rule.
+
+00:34:31.260 --> 00:34:33.860
+I think for this one we'll just say both of us have to think it's essential.
+
+00:34:34.080 --> 00:34:35.920
+Did we do that when we were doing all the Donkey Kongs?
+
+00:34:35.980 --> 00:34:36.840
+Probably. Alright.
+
+00:34:38.700 --> 00:34:40.120
+Well, there's no chance.
+
+00:34:40.120 --> 00:34:41.140
+We're also the most sensible.
+
+00:34:41.140 --> 00:34:46.600
+Yeah, we're not gonna put something like Slalom into the Essential Games list.
+
+00:34:47.580 --> 00:34:53.220
+And if we were just, we should just do a first half of 87 episode right now.
+
+00:34:53.380 --> 00:34:59.920
+Where we just let everybody know that we really feel like nothing yet.
+
+00:35:00.140 --> 00:35:02.520
+Yeah, no, no, no. You know what, there has to be a quorum for that.
+
+00:35:02.520 --> 00:35:06.020
+So, anyway, no, this is not an Essential game.
+
+00:35:06.640 --> 00:35:14.920
+Um, it, I, I at least like that they're playing with input methods, even though it's the most basic form.
+
+00:35:15.140 --> 00:35:16.960
+Just hitting a button a bunch of times.
+
+00:35:16.960 --> 00:35:21.520
+Like, it literally is the, the most basic way to interact with software.
+
+00:35:22.060 --> 00:35:25.960
+Um, but, I mean, it's, it's got a fun presentation.
+
+00:35:25.960 --> 00:35:34.180
+Um, there are some modes that require a more intricate plan of attack than just the first one.
+
+00:35:34.340 --> 00:35:41.120
+I know that, like, I, I've been sort of bringing it down to the 100 meter dash level when I talk about any of this game.
+
+00:35:41.300 --> 00:35:42.260
+But it never gets...
+
+00:35:42.260 --> 00:35:43.320
+The most basic level.
+
+00:35:43.320 --> 00:35:47.100
+Yeah, it never gets too much more complex.
+
+00:35:47.560 --> 00:35:53.020
+It's just a timing game and a, uh, endurance of your arm game.
+
+00:35:53.020 --> 00:35:58.080
+Um, so, it's a neat little curio.
+
+00:35:58.440 --> 00:36:00.120
+Even though I guess they're very common.
+
+00:36:02.160 --> 00:36:03.260
+So... I say no.
+
+00:36:03.460 --> 00:36:04.740
+Okay. I said no to start.
+
+00:36:05.040 --> 00:36:07.500
+Yeah, yeah, yeah. And I'm, I'm gonna say no as well.
+
+00:36:07.700 --> 00:36:09.100
+But let me tell you one thing, okay?
+
+00:36:09.940 --> 00:36:14.720
+This is a game that, if you haven't played it yet, you, you missed.
+
+00:36:15.000 --> 00:36:17.080
+You know, you missed the window of opportunity.
+
+00:36:17.580 --> 00:36:20.240
+Games have evolved a lot further from here.
+
+00:36:21.080 --> 00:36:25.820
+And, uh, this was a game that was probably very fun and family friendly.
+
+00:36:26.280 --> 00:36:37.440
+Like, you know, something, something I could actually see in the 80s, like, at like a, you know, at a party bringing out and like trying each other's skills and seeing who could, you know, who can actually score higher.
+
+00:36:37.560 --> 00:36:38.720
+Like, we always joke about high scores.
+
+00:36:38.720 --> 00:36:44.020
+But I feel like this one is so fast and so simple and anybody can do it that I feel like that was the appeal.
+
+00:36:44.020 --> 00:36:49.720
+You also cannot progress in this game until you beat a moderately high high score.
+
+00:36:50.000 --> 00:36:51.880
+So high scores did mean something in this game.
+
+00:36:52.040 --> 00:36:55.120
+Yeah, that's true. But if you were doing like human versus human...
+
+00:36:55.120 --> 00:36:59.920
+Yeah. And I just think like, you know, it's kind of sad for me to say that.
+
+00:37:00.080 --> 00:37:03.340
+I think like NES enthusiasts should definitely go play it.
+
+00:37:03.500 --> 00:37:04.660
+It's definitely a play it game.
+
+00:37:04.940 --> 00:37:15.880
+The reason why it's not essential though is not just because Konami keeps pumping out like new versions of these that just improve concepts and make, you know, make the game, the gameplay mechanics a little more interesting.
+
+00:37:15.880 --> 00:37:26.080
+It's also just that like, what it breaks down to is seven mini games, you know, that can be experienced very fast and don't need to be experienced again.
+
+00:37:26.480 --> 00:37:31.800
+It's not like I'm going to be losing sleep over the fact that I didn't get the Javelin world record.
+
+00:37:31.980 --> 00:37:35.440
+Yeah, you would need to just want to keep improving in this game.
+
+00:37:35.540 --> 00:37:39.600
+And it just seems like a very basic thing to try to improve in.
+
+00:37:39.760 --> 00:37:40.720
+I don't know. Yeah.
+
+00:37:40.880 --> 00:37:44.200
+And so for that, I just, I can't get on the board with people saying it's essential.
+
+00:37:44.200 --> 00:37:45.520
+It was definitely influential.
+
+00:37:45.820 --> 00:37:46.840
+I will agree with that.
+
+00:37:47.120 --> 00:37:53.520
+Um, and I think especially in 1983 when it was in the arcade, like you would have seen a lot of people gathering towards it.
+
+00:37:53.640 --> 00:37:58.140
+But today, nah, you know, if you're not an NES enthusiast, skip it altogether.
+
+00:37:58.400 --> 00:38:05.620
+But if you're into playing these games, I would definitely like think about the historical context of it all too when you're playing it.
+
+00:38:05.740 --> 00:38:08.200
+And if you're not an NES enthusiast, like how did you get here?
+
+00:38:08.640 --> 00:38:10.000
+Yeah. What are you doing here, mom?
+
+00:38:11.940 --> 00:38:15.040
+My mom actually probably, nah, she played some NES games back in the day.
+
+00:38:15.040 --> 00:38:16.820
+We used to play everything. Yeah, she'd play it.
+
+00:38:16.880 --> 00:38:18.680
+She got 120 stars in Super Mario 64.
+
+00:38:19.320 --> 00:38:21.860
+That's not the NES. Wow.
+
+00:38:22.160 --> 00:38:23.320
+Found out. Yeah.
+
+00:38:24.040 --> 00:38:24.980
+Liar. I've been found out.
+
+00:38:25.980 --> 00:38:26.840
+Sean. Yes.
+
+00:38:26.840 --> 00:38:28.180
+Do you think this is the end of the show?
+
+00:38:29.080 --> 00:38:30.540
+I feel, do you have more?
+
+00:38:30.540 --> 00:38:40.860
+No, I'm just saying like, you know, I thought you might be thinking because we've just been, we've constantly been making this particular episode into different shows and different ideas.
+
+00:38:40.860 --> 00:38:47.860
+And so it's just weird that we've finally decided to end the show now when we could talk about next week's game.
+
+00:38:48.100 --> 00:38:49.300
+Yeah, let's just do it now.
+
+00:38:49.700 --> 00:38:50.740
+Next week's game.
+
+00:38:50.840 --> 00:38:54.260
+Burger time. I'm hungry for burgers.
+
+00:38:54.520 --> 00:38:56.140
+I could go for a burger right now.
+
+00:38:56.200 --> 00:38:58.900
+You know what else I'm hungry for? Championships.
+
+00:38:59.480 --> 00:39:02.860
+Deep thought articles about NES games.
+
+00:39:03.220 --> 00:39:04.680
+Hmm. Like, um.
+
+00:39:04.920 --> 00:39:06.920
+Like a certain haunted baseball game.
+
+00:39:06.960 --> 00:39:10.500
+A certain haunted baseball game or maybe Miyamoto's launch games.
+
+00:39:10.760 --> 00:39:11.940
+I'm looking for things like that.
+
+00:39:12.040 --> 00:39:14.860
+Where would I find things like that if I was really hungry for those things?
+
+00:39:15.100 --> 00:39:20.480
+Well, if you Google, um, Miyamoto launch games, we won't show up at first.
+
+00:39:20.620 --> 00:39:31.260
+That's very true. Yeah, so you should definitely go to N-E-S-T-A-L-G-I-A.
+
+00:39:31.600 --> 00:39:35.760
+Cast. The cast is important.
+
+00:39:35.960 --> 00:39:36.840
+That's very important.
+
+00:39:37.300 --> 00:39:38.160
+Dot com.
+
+00:39:38.900 --> 00:39:43.800
+And then, when you're there, like, you can just sort of take it in, let it wash over you.
+
+00:39:43.980 --> 00:39:45.160
+You'll get show notes.
+
+00:39:45.160 --> 00:39:51.300
+Yeah, like, you just see all these cool colors and all these letters that spell words.
+
+00:39:51.440 --> 00:39:57.500
+And after that, you see the words that spell, um, what do we have it under?
+
+00:39:57.680 --> 00:39:59.000
+What are you doing right now?
+
+00:39:59.100 --> 00:40:01.300
+Like, have you ever been on the website, Sean?
+
+00:40:02.880 --> 00:40:05.540
+Sean, you put your thoughts there almost every week.
+
+00:40:05.540 --> 00:40:06.760
+What are you doing right now?
+
+00:40:06.840 --> 00:40:09.400
+Hold on. Just tell me, is it just under articles?
+
+00:40:09.720 --> 00:40:10.560
+It's under articles.
+
+00:40:10.580 --> 00:40:11.500
+Yeah, you go to articles.
+
+00:40:13.440 --> 00:40:14.580
+That's where you'll get that stuff.
+
+00:40:14.580 --> 00:40:16.040
+But what if you're hungry for more?
+
+00:40:16.140 --> 00:40:17.400
+What if you've seen the entire website?
+
+00:40:17.540 --> 00:40:20.440
+What if you check every week and you see the new episodes and that's how you listen to them?
+
+00:40:20.820 --> 00:40:24.700
+Well, maybe you should check out our Twitter, which is also at Nostalgia.
+
+00:40:25.640 --> 00:40:34.760
+Cast. And if you do that, you'll find every single weekday we post some really cool stuff about the NES.
+
+00:40:34.800 --> 00:40:36.660
+And it's not screenshots of gameplay.
+
+00:40:36.840 --> 00:40:38.660
+That kills me. I hate doing that.
+
+00:40:38.800 --> 00:40:40.600
+Like, anybody can go play those games.
+
+00:40:40.600 --> 00:40:47.380
+Yeah. So instead, we focus on, like, the neat advertisement side of it or promotional art or never-before-seen artwork.
+
+00:40:47.660 --> 00:40:51.920
+Like, we focus on the really obscure things that you don't have to go digging through Google to find them.
+
+00:40:51.940 --> 00:40:53.660
+Look, I'm digging through Google to find them.
+
+00:40:53.780 --> 00:40:55.360
+Why should you do the same work?
+
+00:40:55.940 --> 00:40:57.940
+Exactly. We have anything you're looking for.
+
+00:40:57.940 --> 00:41:05.780
+I'm not pretending like I'm scanning these things, like I'm buying them from some dude, and then I'm scanning them and preserving games for the first time.
+
+00:41:05.780 --> 00:41:10.420
+I'm just doing the dirty work so that you can just view them on your screen.
+
+00:41:11.420 --> 00:41:12.580
+You tell them, Mike.
+
+00:41:12.720 --> 00:41:14.780
+Yeah. They should be appreciating you a lot more.
+
+00:41:14.920 --> 00:41:15.820
+Dante knows what I'm saying.
+
+00:41:15.820 --> 00:41:17.420
+Dante knows. We're not...
+
+00:41:17.840 --> 00:41:19.260
+This isn't about you, Dante.
+
+00:41:19.380 --> 00:41:20.300
+Pat knows for sure.
+
+00:41:20.300 --> 00:41:29.280
+Yeah. You guys need to know that Mike puts a lot of work into this, and the fact that you aren't appreciating it as much as we think you are...
+
+00:41:29.280 --> 00:41:30.660
+No, don't do that.
+
+00:41:31.740 --> 00:41:34.120
+Oh, my gosh. You just seem to be getting kind of riled right now.
+
+00:41:34.160 --> 00:41:35.560
+Yeah. You know who does appreciate our thoughts?
+
+00:41:36.540 --> 00:41:39.340
+John B. Our supporter.
+
+00:41:39.760 --> 00:41:40.860
+That's true. This is...
+
+00:41:40.860 --> 00:41:44.380
+Our first podcast supporter, he supports us on Anchor.com.
+
+00:41:44.580 --> 00:41:46.000
+Anchor.fm, I should say.
+
+00:41:46.600 --> 00:41:48.220
+Anchor.fm Nostalgia.
+
+00:41:48.220 --> 00:41:51.220
+If you do that, you'll see there's a way to support us.
+
+00:41:51.360 --> 00:41:52.900
+That is by no means mandatory.
+
+00:41:53.420 --> 00:42:08.820
+We definitely don't send out geotags when you download our episodes that we can find out exactly where you live and then plug in Robs to come and knock on your doors to then play stack up with you for all eternity if you don't.
+
+00:42:09.020 --> 00:42:10.920
+Whoa. That would be a lot of Robs.
+
+00:42:10.940 --> 00:42:12.680
+But it hasn't happened to John B.
+
+00:42:12.840 --> 00:42:15.480
+It's true. So maybe there's a correlation.
+
+00:42:15.920 --> 00:42:20.260
+It's true. There are definitely no ads on the show either.
+
+00:42:20.480 --> 00:42:22.840
+Except for Rogaine.
+
+00:42:23.300 --> 00:42:25.320
+No, no. We're not a Rogaine sponsor.
+
+00:42:25.660 --> 00:42:31.620
+I can't believe Sean just keeps working out deals with companies by my back and squeezing them into the podcast.
+
+00:42:32.140 --> 00:42:36.420
+Today, think about it. Today we were a sponsor for GameStop, Rogaine.
+
+00:42:38.020 --> 00:42:44.800
+We were also a non-sponsor for eBay telling you that games aren't worth the artificial prices you're paying for them on eBay.
+
+00:42:45.500 --> 00:42:48.440
+Like we're destroying the used game market.
+
+00:42:48.440 --> 00:42:55.980
+I'm really sorry that we get a little bit more casual and there's only a couple of us and I may have said some things that I will regret.
+
+00:42:56.240 --> 00:42:59.640
+Like maybe you paid $10,000 for that other game.
+
+00:42:59.640 --> 00:43:02.100
+Yeah, maybe at least one person.
+
+00:43:02.280 --> 00:43:05.660
+At least one person and I'm sorry that I said it wasn't worth it.
+
+00:43:05.820 --> 00:43:06.980
+Alright fam, we out.
+
+00:43:06.980 --> 00:43:09.380
+It was worth it for you and that's all that matters.
+
+00:43:09.560 --> 00:43:12.660
+I'm gonna let Sean be an apologist for the rest of his life.
+
+00:43:12.740 --> 00:43:17.520
+I think that you shouldn't worry about what other people think of you.
+
+00:43:17.520 --> 00:43:22.220
+That can be found at Esposito Film on Twitter and I'll talk to you soon.
+
+00:43:22.840 --> 00:43:23.820
+We can keep going.
+
+00:43:46.380 --> 00:43:52.680
+I actually watched PT Playthrough on YouTube.
+
+00:43:52.680 --> 00:43:54.040
+Just recently? Yeah.
+
+00:43:54.440 --> 00:43:56.260
+It was pretty exciting.
+
+00:43:56.420 --> 00:43:59.460
+I was very sad that it's not happening.
+
+00:43:59.620 --> 00:44:04.620
+I know. I didn't even realize that it actually did get the Silent Hills name.
+
+00:44:05.020 --> 00:44:07.320
+Oh, you didn't even see the end part.
+
+00:44:07.360 --> 00:44:09.500
+No, I did. I just never knew that until then.
+
+00:44:09.960 --> 00:44:14.700
+I always thought people just called it Silent Hills because it was coming.
+
+00:44:15.120 --> 00:44:17.160
+Yeah. But we never saw what Silent...
+
+00:44:17.160 --> 00:44:18.720
+Because you kept saying those were tech demos, right?
+
+00:44:18.820 --> 00:44:20.540
+Like Silent Hills was never gonna be that.
+
+00:44:20.540 --> 00:44:26.320
+Well, I mean, that was like the theory that like maybe would have like some reference,
+
+00:44:26.320 --> 00:44:31.620
+but we never thought that like the person you were playing was gonna be like that Norman Reedus character that we saw.
+
+00:44:31.620 --> 00:44:35.260
+Like you were going to be Norman Reedus, but the actual PT was not him.
+
+00:44:35.480 --> 00:44:36.400
+Got it. Thank you.
