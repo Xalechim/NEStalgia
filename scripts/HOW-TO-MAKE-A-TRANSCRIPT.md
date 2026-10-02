@@ -49,6 +49,17 @@ Your transcript is saved in the `transcripts` folder as a normal text file you c
 - It doesn't edit the transcript. If a name or word is wrong, open the `.md` file in `transcripts` and fix it by hand, then publish again.
 - Bytes episodes (`NB …`) and SNEStalgia aren't supported yet. Ask Claude to add them.
 
+## Clickable timestamps on the website
+
+On the website, every timestamp in the transcript (and in the Links tab) is clickable: it starts the episode player at that point.
+A small player floats at the bottom of the screen when you scroll away from the main one, and the paragraph being played is highlighted.
+
+The podcast host sometimes adds an ad at the start of the audio it serves, which shifts everything later by about a minute. The transcript
+tool measures that shift for each new episode automatically (it needs internet, and the episode must already be in the public feed)
+and saves it in `data/audio-offsets.json`. To measure episodes yourself: `python3 scripts/audio_offsets.py 450` or `--all`.
+If a click ever lands a bit off (the host changed its ad), use the **−5s / +5s** buttons above the transcript. Your adjustment is
+remembered in your browser for that episode.
+
 ## Removing the speaker names from older transcripts (one time)
 
 Transcripts made before this change still show `**Mike** [00:22]:` speaker lines. To convert all of them at once:

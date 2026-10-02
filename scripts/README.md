@@ -17,6 +17,10 @@ Local, free transcripts (paragraphs with timestamps, no speaker labels). Nothing
   best internal break (longer pause + change of vocabulary = new subject); pieces under ~170 characters are folded into a neighbour.
 - `strip_speakers.py` (double-click `Strip Speakers.command`) converts old speaker-labelled transcripts in bulk: timing from the `.vtt`,
   speaker names dropped, regrouped into paragraphs, word count verified unchanged, idempotent, offline. `--dry-run` previews.
+- `audio_offsets.py` measures the shift between your final mix (what transcript timestamps are measured on) and the audio the podcast host
+  serves (Megaphone inserts pre-rolls: 56-60 s on most recent episodes, 0 on others). It aligns loudness envelopes using only the first
+  and last few MB of the hosted file (a full alignment is the fallback if the shift changes mid-episode) and writes
+  `data/audio-offsets.json` as `{"446": [[0, 60.2]]}`. The site's `player.js` adds it when a timestamp is clicked. Run by `run_episode.py`.
 - Tests: `python3 scripts/test_paragraphs.py`, `python3 scripts/test_make_links.py`.
 
 ## Auto-update from the feed

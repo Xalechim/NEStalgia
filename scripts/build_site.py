@@ -93,6 +93,22 @@ def render_notes(path):
     return markdown.markdown("\n".join(out), extensions=["tables"])
 
 
+def ts_seconds(ts):
+    secs = 0
+    for part in ts.split(":"):
+        secs = secs * 60 + int(part)
+    return secs
+
+
+def ts_button(ts):
+    return f'<button type="button" class="ts" data-t="{ts_seconds(ts)}" data-pagefind-ignore aria-label="Play from {ts}">{ts}</button>'
+
+
+def load_offsets():
+    f = REPO / "data/audio-offsets.json"
+    return json.loads(f.read_text()) if f.exists() else {}
+
+
 KIND_LABELS = [
     ("game", "Games"), ("hardware", "Hardware"), ("company", "Companies"), ("person", "People"),
     ("team_or_league", "Teams and leagues"), ("film_tv_music", "Film, TV and music"),
@@ -142,7 +158,7 @@ def render_links(number):
                 text = SOURCE_LABELS.get(l["source"], "Link") if l["source"] in ("wikipedia", "site") else l.get("label", host)
                 ext = ' rel="noopener" target="_blank"' if url.startswith("http") else ""
                 chips.append(f'<a class="chip src-{E(l["source"])}" href="{E(url)}"{ext}>{E(text)}<small>{E(host)}</small></a>')
-            out.append(f'<li><div class="lk-h"><b>{E(it["name"])}</b> <span class="ts">mentioned at {E(it["timestamp"])}</span></div>'
+            out.append(f'<li><div class="lk-h"><b>{E(it["name"])}</b> <span class="mention">mentioned at {ts_button(it["timestamp"])}</span></div>'
                        f'<p>{E(it["description"])}</p><div class="chips">{"".join(chips)}</div></li>')
         out.append("</ul>")
     return "".join(out)
@@ -161,10 +177,10 @@ def render_transcript(path):
         m = PARA.match(ln)
         t = TURN.match(ln)
         if m:
-            parts.append(f'<p class="para"><span class="ts">{m.group(1)}</span> {E(m.group(2))}</p>')
+            parts.append(f'<p class="para" data-t="{ts_seconds(m.group(1))}">{ts_button(m.group(1))} {E(m.group(2))}</p>')
         elif t:
             who, ts, txt = t.groups()
-            parts.append(f'<p class="turn spk-{slug(who)}"><b>{E(who)}</b> <span class="ts">{ts}</span> {E(txt)}</p>')
+            parts.append(f'<p class="turn spk-{slug(who)}" data-t="{ts_seconds(ts)}"><b>{E(who)}</b> {ts_button(ts)} {E(txt)}</p>')
         elif ln.startswith("_") and ln.endswith("_"):
             note = ln.strip("_")
     return (f'<p class="note">{E(note)}</p>' if note else "") + "\n".join(parts)
@@ -363,13 +379,14 @@ def patrons_html():
 
 def main():
     data = json.loads((REPO / "data/episodes.json").read_text())
+    OFFSETS = load_offsets()
     # data/episodes.json can be a little stale (it is refreshed on a schedule); what is actually in the repo wins.
     for r in data:
         r["notes"], r["transcript"] = local_files(r["type"], r["number"], r["title"], r["feed_title"])
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()
-    for f in ("style.css", "app.js", "tabs.js", "logo.png", "icon.png"):
+    for f in ("style.css", "app.js", "tabs.js", "player.js", "logo.png", "icon.png"):
         shutil.copy(SRC / f, OUT / f)
     (OUT / ".nojekyll").write_text("")
 
@@ -406,10 +423,13 @@ def main():
         if notes:
             panels.append(("notes", "Show notes", f'<div class="panel">{notes}</div>'))
         links_html = render_links(r["number"]) if r["type"] == "episode" and r["number"] is not None else ""
+        sync = ('<div class="sync" data-pagefind-ignore>Click a timestamp to play from there. Landing a little off? '
+                '<button type="button" data-nudge="-5">&minus;5s</button> <button type="button" data-nudge="5">+5s</button> '
+                '<button type="button" data-nudge="0">reset</button> <output class="sync-val"></output></div>') if (r["transcript"] or links_html) else ""
         if links_html:
-            panels.append(("links", "Links", f'<div class="panel">{links_html}</div>'))
+            panels.append(("links", "Links", f'<div class="panel">{sync}{links_html}</div>'))
         if r["transcript"]:
-            panels.append(("transcript", "Transcript", f'<div class="panel">{render_transcript(r["transcript"])}</div>'))
+            panels.append(("transcript", "Transcript", f'<div class="panel">{sync}{render_transcript(r["transcript"])}</div>'))
         if len(panels) > 1:
             tabbar = "".join(
                 f'<button role="tab" id="t-{pid}" aria-controls="p-{pid}" aria-selected="{"true" if i == 0 else "false"}">{lab}</button>'
@@ -429,15 +449,17 @@ def main():
             for x, lab in ((r["prev"], f'← {E(r["prev"]["title"])}' if r["prev"] else ""), (r["next"], f'{E(r["next"]["title"])} →' if r["next"] else ""))
         )
         listen = "".join(f'<a class="btn alt" href="{u}" rel="noopener">{n}</a>' for n, u in LINKS[:2])
+        off = OFFSETS.get(str(r["number"])) if r["type"] == "episode" and r["number"] is not None else None
+        ep_attrs = f' data-ep="{r["key"]}" data-offsets=\'{json.dumps(off)}\'' if off else f' data-ep="{r["key"]}"'
         body = f"""<p class="crumbs"><a href="{BASE}/episodes/">← All episodes</a></p>
-<div class="ep"><div class="art"><img src="{BASE}/art/{r['key']}.jpg" alt="Cover art for {E(r['title'])}" width="1000" height="1000"></div>
+<div class="ep"{ep_attrs}><div class="art"><img src="{BASE}/art/{r['key']}.jpg" alt="Cover art for {E(r['title'])}" width="1000" height="1000"></div>
 <div data-pagefind-body><h1 data-pagefind-meta="title">{label}{E(r['title'])}</h1>
 <div class="meta">{fmt_date(r['published'])} · {fmt_dur(r['duration_seconds'])}{' · transcript available' if r['transcript'] else ''}</div>
-<audio controls preload="none" src="{r['audio_url']}"></audio>
+<audio id="player" controls preload="none" src="{r['audio_url']}"></audio>
 <div class="btns" style="justify-content:flex-start">{listen}</div>
 <div class="desc">{desc_html}</div></div></div>
 <div data-pagefind-body>{tabs_html}</div>
-<div class="pn">{pn}</div>"""
+<div class="pn">{pn}</div>{'<script src="' + BASE + '/player.js" defer></script>' if (r["transcript"] or links_html) else ""}"""
         write(f"episodes/{r['key']}/index.html",
               page(f"{label}{r['title']} · NEStalgia", body, "", desc=r["description"].split("\n")[0], image=f"/art/{r['key']}.jpg", current="eps"))
 

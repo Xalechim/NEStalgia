@@ -47,6 +47,14 @@ def parse_numbers(raw: str):
     return list(dict.fromkeys(nums))  # drop repeats, keep order
 
 
+def measure_offset(n: int) -> None:
+    """Measure how far the podcast host's audio is shifted from the final mix, so clickable timestamps on the website land
+    in the right place. Needs internet and the episode to be in the public feed; if not, it is skipped (run it later)."""
+    r = subprocess.run([sys.executable, str(REPO / "scripts/audio_offsets.py"), str(n)], capture_output=True, text=True)
+    lines = [l for l in (r.stdout or "").splitlines() if l.strip().startswith("episode")]
+    print("   " + (lines[-1].strip() if lines else "Couldn't measure the audio shift now (offline, or not in the public feed yet)."))
+
+
 def maybe_links(n: int) -> None:
     """If an Anthropic key is set up, offer to find the web links for this episode now."""
     key_file = Path.home() / ".config/nestalgia/anthropic_key"
@@ -90,6 +98,7 @@ def transcribe_one(n: int, dry_run: bool) -> bool:
         elif link not in text:
             print("Note: this episode isn't in the episode index yet, so I didn't add a link.")
     print(f"Episode {n}: done -> transcripts/{out.name}.md")
+    measure_offset(n)
     maybe_links(n)
     return True
 
