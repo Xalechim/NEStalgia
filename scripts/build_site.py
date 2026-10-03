@@ -199,6 +199,32 @@ def load_game_info():
     return json.loads(f.read_text()) if f.exists() else {}
 
 
+def game_tags(r):
+    """Clickable tags under an episode's title; each opens the Episodes list already filtered by that value."""
+    info = GAME_INFO.get(str(r["number"])) if r["type"] == "episode" and r["number"] is not None else None
+    if not info:
+        return ""
+
+    def tag(label, value, query, cls=""):
+        href = f'{BASE}/episodes/?{urllib.parse.urlencode(query)}'
+        return f'<a class="gtag {cls}" href="{href}" title="See every episode with this {label.lower()}"><span>{label}</span>{E(value)}</a>'
+
+    out = []
+    if info["verdict"]:
+        out.append(tag("Verdict", info["verdict"], {"verdict": info["verdict"].lower()}, "v-" + info["verdict"].lower().replace(" ", "")))
+    if info["genre"]:
+        out.append(tag("Genre", info["genre"], {"genre": info["genre"].lower()}))
+    if info["year"]:
+        q = {"year": info["year"]}
+        if info["month"]:
+            q["month"] = info["month"].lower()
+        out.append(tag("Released", f'{info["month"] + " " if info["month"] else ""}{info["year"]}', q))
+    out.append(tag("Season", str(info["season"]), {"season": info["season"]}))
+    out += [tag("Developer", d, {"dev": d.lower()}) for d in info["developers"]]
+    out += [tag("Publisher", p, {"pub": p.lower()}) for p in info["publishers"]]
+    return f'<div class="gtags" data-pagefind-ignore>{"".join(out)}</div>'
+
+
 def filter_panel(data):
     """The 'Filter by' controls for the Episodes page: choices and counts come from the episodes actually on the site."""
     import collections
@@ -630,7 +656,7 @@ def main():
         body = f"""<p class="crumbs"><a href="{BASE}/episodes/">← All episodes</a></p>
 <div class="ep"{ep_attrs}><div class="art"><img src="{BASE}/art/{r['key']}.jpg" alt="Cover art for {E(r['title'])}" width="1000" height="1000"></div>
 <div data-pagefind-body><h1 data-pagefind-meta="title">{label}{E(r['title'])}</h1>
-<div class="meta">{fmt_date(r['published'])} · {fmt_dur(r['duration_seconds'])}{' · transcript available' if r['transcript'] else ''}</div>
+{game_tags(r)}<div class="meta">{fmt_date(r['published'])} · {fmt_dur(r['duration_seconds'])}{' · transcript available' if r['transcript'] else ''}</div>
 <audio id="player" controls preload="none" src="{r['audio_url']}"></audio>
 <div class="btns" style="justify-content:flex-start">{listen}</div>
 <div class="desc">{desc_html}</div></div></div>

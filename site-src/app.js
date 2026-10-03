@@ -23,6 +23,11 @@
   verdictBtns.forEach(function (b) { b.setAttribute("aria-pressed", chosen.indexOf(b.dataset.verdict) !== -1 ? "true" : "false"); });
   fields.forEach(function (f) { if (params.get(f.dataset.f)) f.value = params.get(f.dataset.f); });
 
+  var names = { dev: new Set(), pub: new Set() };
+  cards.forEach(function (c) {
+    ["dev", "pub"].forEach(function (k) { (c.dataset[k] || "").split("|").forEach(function (n) { if (n) names[k].add(n); }); });
+  });
+
   function has(c, key, term) { return (" " + (c.dataset[key] || "") + " ").indexOf(" " + term + " ") !== -1; }
 
   function matches(c, term, verdicts) {
@@ -33,7 +38,12 @@
       var key = fields[i].dataset.f, val = fields[i].value.trim().toLowerCase();
       if (!val) continue;
       if (key === "has") { if (!has(c, "has", val)) return false; }
-      else if (key === "dev" || key === "pub") { if ((c.dataset[key] || "").indexOf(val) === -1) return false; }
+      else if (key === "dev" || key === "pub") {
+        var list = c.dataset[key] || "";
+        // a full name from a tag or the list matches that company only ("nintendo" is not "nintendo research & development 1");
+        // anything else you type matches as a fragment
+        if (names[key].has(val) ? ("|" + list + "|").indexOf("|" + val + "|") === -1 : list.indexOf(val) === -1) return false;
+      }
       else if ((c.dataset[key] || "") !== val) return false;
     }
     return true;

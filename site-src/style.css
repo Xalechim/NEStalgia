@@ -269,3 +269,14 @@ body.has-mini { padding-bottom: 66px; }
 .chip.v-skipit[aria-pressed=true] { background: var(--dark); color: #fff; }
 .filters #clear-filters { margin-top: 12px; }
 .filters #clear-filters[hidden] { display: none; }
+
+/* Clickable game details under an episode's title */
+.gtags { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 10px; }
+.gtag { font-family: var(--mono); font-size: 12px; padding: 3px 9px; border: 2px solid var(--dark); background: #fff; color: var(--ink) !important; text-decoration: none; }
+.gtag span { color: var(--gray); margin-right: 6px; }
+.gtag:hover { background: var(--dark); color: #fff !important; }
+.gtag:hover span { color: #ccc; }
+.gtag.v-essential { background: #f2c230; border-color: #f2c230; }
+.gtag.v-playit { background: #2a6fdb; border-color: #2a6fdb; color: #fff !important; }
+.gtag.v-skipit { background: var(--dark); color: #fff !important; }
+.gtag.v-essential span { color: #5a4300; } .gtag.v-playit span, .gtag.v-skipit span { color: #dde6f5; }

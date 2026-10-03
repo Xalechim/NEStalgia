@@ -101,6 +101,29 @@ def ensure_art(path: Path, url: str) -> None:
     img.save(path, "JPEG", quality=80, optimize=True)
 
 
+def keep_missing(rows, old_file):
+    """Never let an episode vanish because the feed answered with an old or partial copy: episodes we already had that
+    are missing from this fetch are kept (a stale feed once removed episode 448 from the website this way)."""
+    if not old_file.exists():
+        return rows
+    try:
+        old = json.loads(old_file.read_text())
+    except ValueError:
+        return rows
+    ident = lambda r: r.get("guid") or r["feed_title"]
+    have = {ident(r) for r in rows}
+    for r in old:
+        if ident(r) in have:
+            continue
+        r = dict(r)
+        r["notes"], tx = local_files(r["type"], r["number"], r["title"], r["feed_title"])
+        r["transcript"] = tx[0] if tx else None
+        i = next((k for k, x in enumerate(rows) if (x["published"] or "") <= (r["published"] or "")), len(rows))
+        rows.insert(i, r)
+        print(f"   kept '{r['feed_title']}': the feed didn't list it this time (stale or partial feed?)")
+    return rows
+
+
 def main(fetch_art=False):
     raw = urllib.request.urlopen(urllib.request.Request(FEED, headers={"User-Agent": "Mozilla/5.0"}), timeout=60).read()
     channel = ET.fromstring(raw).find("channel")
@@ -140,9 +163,11 @@ def main(fetch_art=False):
             }
         )
 
-    # Newest first, as in the feed. Keep a stable, readable order for the CSV too.
     out = REPO / "data"
     out.mkdir(exist_ok=True)
+    rows = keep_missing(rows, out / "episodes.json")
+
+    # Newest first, as in the feed. Keep a stable, readable order for the CSV too.
     (out / "episodes.json").write_text(json.dumps(rows, indent=2, ensure_ascii=False) + "\n")
     cols = ["type", "number", "title", "published", "duration_seconds", "audio_url", "episode_page", "art", "notes", "transcript", "description"]
     with open(out / "episodes.csv", "w", newline="", encoding="utf-8") as f:
