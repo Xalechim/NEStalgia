@@ -253,3 +253,19 @@ body.has-mini { padding-bottom: 66px; }
 .upnext p { margin: 8px 0 0; }
 @media (max-width: 520px) { .upnext { flex-direction: column; } .upnext img { width: 120px; } }
 .desc .src { font-size: 0.85em; color: var(--gray); margin-top: -6px; }
+
+/* Episodes page filters */
+.filters { border: 2px solid var(--dark); background: #fff; padding: 12px 16px; margin: 0 0 20px; }
+.filters summary { cursor: pointer; font-family: var(--mono); font-weight: bold; }
+.fgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 12px 16px; margin-top: 12px; align-items: end; }
+.fgrid label { display: flex; flex-direction: column; gap: 4px; font-family: var(--mono); font-size: 12px; color: var(--gray); }
+.fgrid select, .fgrid input { font: inherit; font-size: 14px; color: var(--ink); padding: 6px 8px; border: 2px solid var(--dark); background: #fff; min-width: 0; width: 100%; }
+.fverdict { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.flabel { font-family: var(--mono); font-size: 12px; color: var(--gray); margin-right: 4px; }
+.chip { font-family: var(--mono); font-size: 13px; padding: 5px 12px; border: 2px solid var(--dark); background: #fff; color: var(--ink); cursor: pointer; }
+.chip span { opacity: .6; font-size: 11px; }
+.chip.v-essential[aria-pressed=true] { background: #f2c230; color: #1a1a1a; }
+.chip.v-playit[aria-pressed=true] { background: #2a6fdb; color: #fff; }
+.chip.v-skipit[aria-pressed=true] { background: var(--dark); color: #fff; }
+.filters #clear-filters { margin-top: 12px; }
+.filters #clear-filters[hidden] { display: none; }

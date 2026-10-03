@@ -11,6 +11,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import build_episode_data  # noqa: E402
 import build_index  # noqa: E402
+import game_info  # noqa: E402
 import next_episode  # noqa: E402
 import wikipedia_intros  # noqa: E402
 
@@ -26,3 +27,8 @@ try:  # new episodes that only have the Patreon boilerplate get the game's Wikip
     wikipedia_intros.main([])
 except Exception as e:
     print(f"Couldn't add Wikipedia intros: {e}")
+
+try:  # developer, publisher, genre, release date and verdict for the Episodes page filters
+    game_info.refresh()
+except Exception as e:
+    print(f"Couldn't update the game info: {e}")

@@ -191,6 +191,53 @@ def render_transcript(path):
 
 
 WIKI_INTROS = {}
+GAME_INFO = {}
+
+
+def load_game_info():
+    f = REPO / "data/game-info.json"
+    return json.loads(f.read_text()) if f.exists() else {}
+
+
+def filter_panel(data):
+    """The 'Filter by' controls for the Episodes page: choices and counts come from the episodes actually on the site."""
+    import collections
+    eps = [r for r in data if r["type"] == "episode" and str(r["number"]) in GAME_INFO]
+    infos = [(r, GAME_INFO[str(r["number"])]) for r in eps]
+    if not infos:
+        return ""
+
+    def options(counter, label=lambda k: k, order=None):
+        keys = order or sorted(counter, key=lambda k: str(k).lower())
+        return "".join(f'<option value="{E(str(k).lower())}">{E(str(label(k)))} ({counter[k]})</option>' for k in keys if counter.get(k))
+
+    genres = collections.Counter(i["genre"] for _, i in infos if i["genre"])
+    years = collections.Counter(i["year"] for _, i in infos if i["year"])
+    months = collections.Counter(i["month"] for _, i in infos if i["month"])
+    seasons = collections.Counter(i["season"] for _, i in infos)
+    verdicts = collections.Counter(i["verdict"] for _, i in infos)
+    devs = collections.Counter(d for _, i in infos for d in i["developers"])
+    pubs = collections.Counter(p for _, i in infos for p in i["publishers"])
+    months_order = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    has = collections.Counter()
+    for r, _ in infos:
+        has.update(w for w, on in (("notes", r["notes"]), ("links", r.get("has_links")), ("transcript", r["transcript"])) if on)
+    chips = "".join(f'<button type="button" class="chip v-{v.lower().replace(" ", "")}" data-verdict="{v.lower()}" aria-pressed="false">{v} <span>{verdicts[v]}</span></button>'
+                    for v in ("Essential", "Play it", "Skip it") if verdicts.get(v))
+    return f"""<details class="filters" open data-pagefind-ignore><summary>Filter by game details</summary>
+<div class="fgrid">
+<div class="fverdict"><span class="flabel">Verdict</span>{chips}</div>
+<label>Genre<select data-f="genre"><option value="">Any genre</option>{options(genres)}</select></label>
+<label>Release year<select data-f="year"><option value="">Any year</option>{options(years, order=sorted(years))}</select></label>
+<label>Release month<select data-f="month"><option value="">Any month</option>{options(months, order=[m for m in months_order if m in months])}</select></label>
+<label>Season<select data-f="season"><option value="">Any season</option>{options(seasons, label=lambda k: f"Season {k}", order=sorted(seasons))}</select></label>
+<label>Episode has<select data-f="has"><option value="">Anything</option>{"".join(f'<option value="{k}">{lab} ({has[k]})</option>' for k, lab in (("transcript", "A transcript"), ("links", "A Links tab"), ("notes", "Show notes")) if has.get(k))}</select></label>
+<label>Developer<input type="text" data-f="dev" list="dev-list" placeholder="Type or pick, e.g. Capcom" autocomplete="off"></label>
+<label>Publisher<input type="text" data-f="pub" list="pub-list" placeholder="Type or pick, e.g. Konami" autocomplete="off"></label>
+</div>
+<datalist id="dev-list">{"".join(f'<option value="{E(d)}">' for d in sorted(devs, key=str.lower))}</datalist>
+<datalist id="pub-list">{"".join(f'<option value="{E(p)}">' for p in sorted(pubs, key=str.lower))}</datalist>
+<button type="button" id="clear-filters" class="btn alt" hidden>Clear filters</button></details>"""
 
 
 def load_wiki_intros():
@@ -308,10 +355,18 @@ def write(rel, content):
 def card(r):
     label = f"{r['number']:03d}" if r["number"] is not None and r["type"] == "episode" else ("Special" if r["type"] == "special" else "")
     tags = [t for t, on in (("NOTES", r["notes"]), ("LINKS", r.get("has_links")), ("TRANSCRIPT", r["transcript"])) if on]
+    info = GAME_INFO.get(str(r["number"])) if r["type"] == "episode" and r["number"] is not None else None
+    extra = ""
+    if info:
+        has = [w for w, on in (("notes", r["notes"]), ("links", r.get("has_links")), ("transcript", r["transcript"])) if on]
+        extra = (f' data-verdict="{E(info["verdict"].lower())}" data-genre="{E(info["genre"].lower())}" data-year="{info["year"] or ""}"'
+                 f' data-month="{E((info["month"] or "").lower())}" data-season="{info["season"]}"'
+                 f' data-dev="{E("|".join(info["developers"]).lower())}" data-pub="{E("|".join(info["publishers"]).lower())}"'
+                 f' data-has="{" ".join(has)}"')
     spans = "".join('<span class="badge b-%s">%s</span>' % (t.lower(), t) for t in tags)
     badge = f'<div class="badges">{spans}</div>' if tags else ""
     return (f'<a class="card" href="{BASE}/episodes/{r["key"]}/" data-type="{r["type"]}" data-date="{r["published"]}" '
-            f'data-num="{r["number"] if r["number"] is not None else ""}" data-title="{E(r["title"].lower())}">'
+            f'data-num="{r["number"] if r["number"] is not None else ""}" data-title="{E(r["title"].lower())}"{extra}>'
             f'<img src="{BASE}/art/thumb/{r["key"]}.jpg" alt="" loading="lazy" width="300" height="300">'
             f'<div class="t"><span class="n">{label}</span>{E(r["title"])}{badge}</div></a>')
 
@@ -491,6 +546,8 @@ def main():
     OFFSETS = load_offsets()
     global WIKI_INTROS
     WIKI_INTROS = load_wiki_intros()
+    global GAME_INFO
+    GAME_INFO = load_game_info()
     # data/episodes.json can be a little stale (it is refreshed on a schedule); what is actually in the repo wins.
     for r in data:
         r["notes"], r["transcript"] = local_files(r["type"], r["number"], r["title"], r["feed_title"])
@@ -598,6 +655,7 @@ def main():
 <button data-filter="all" aria-pressed="true">All</button><button data-filter="episode" aria-pressed="false">Episodes</button>
 <button data-filter="special" aria-pressed="false">Specials</button><button id="sort" type="button">Newest first</button>
 <span id="count"></span></div>
+{filter_panel(data)}
 <div class="grid" id="grid">{''.join(card(r) for r in newest_first)}</div>
 <script src="{BASE}/app.js"></script>"""
     write("episodes/index.html", page("Episodes · NEStalgia", body, "/episodes/", current="eps"))

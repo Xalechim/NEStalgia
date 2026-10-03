@@ -1,0 +1,7396 @@
+{
+ "1": {
+  "title": "10-Yard Fight",
+  "developers": [
+   "Irem"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "2": {
+  "title": "Baseball",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "3": {
+  "title": "Clu Clu Land",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "4": {
+  "title": "Duck Hunt",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Zapper",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Essential"
+ },
+ "5": {
+  "title": "Excitebike",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Racing",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Play it"
+ },
+ "6": {
+  "title": "Golf",
+  "developers": [
+   "Nintendo Research & Development 2"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "7": {
+  "title": "Gyromite",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "R.O.B",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "8": {
+  "title": "Hogan's Alley",
+  "developers": [
+   "Nintendo Research & Development 1",
+   "Intelligent Systems"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Zapper",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "9": {
+  "title": "Ice Climber",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "10": {
+  "title": "Kung-Fu",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Play it"
+ },
+ "11": {
+  "title": "Pinball",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "12": {
+  "title": "Soccer",
+  "developers": [
+   "Intelligent Systems"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "13": {
+  "title": "Stack-Up",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "R.O.B",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "14": {
+  "title": "Super Mario Bros.",
+  "developers": [
+   "Nintendo Research & Development 4"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Platformer",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Essential"
+ },
+ "15": {
+  "title": "Tennis",
+  "developers": [
+   "Nintendo Research & Development 1",
+   "Intelligent Systems"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "16": {
+  "title": "Wild Gunman",
+  "developers": [
+   "Nintendo Research & Development 1",
+   "Intelligent Systems"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Zapper",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Skip it"
+ },
+ "17": {
+  "title": "Wrecking Crew",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1985,
+  "month": "October",
+  "season": 1,
+  "verdict": "Play it"
+ },
+ "18": {
+  "title": "Donkey Kong",
+  "developers": [
+   "Nintendo Research & Development 1",
+   "Nintendo Research & Development 2"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1986,
+  "month": "June",
+  "season": 2,
+  "verdict": "Play it"
+ },
+ "19": {
+  "title": "Donkey Kong Jr.",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1986,
+  "month": "June",
+  "season": 2,
+  "verdict": "Play it"
+ },
+ "20": {
+  "title": "Donkey Kong 3",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1986,
+  "month": "June",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "21": {
+  "title": "Donkey Kong Jr. Math",
+  "developers": [
+   "Nintendo Research & Development 2"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Education",
+  "year": 1986,
+  "month": "June",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "22": {
+  "title": "Mario Bros.",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1986,
+  "month": "June",
+  "season": 2,
+  "verdict": "Play it"
+ },
+ "23": {
+  "title": "Popeye",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1986,
+  "month": "June",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "24": {
+  "title": "Balloon Fight",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1986,
+  "month": "August",
+  "season": 2,
+  "verdict": "Essential"
+ },
+ "25": {
+  "title": "Gumshoe",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Zapper",
+  "year": 1986,
+  "month": "August",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "26": {
+  "title": "Mach Rider",
+  "developers": [
+   "Nintendo Research & Development 2"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1986,
+  "month": "August",
+  "season": 2,
+  "verdict": "Play it"
+ },
+ "27": {
+  "title": "Urban Champion",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1986,
+  "month": "August",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "28": {
+  "title": "Tag Team Wrestling",
+  "developers": [
+   "Data East",
+   "Sakata SAS"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Sports",
+  "year": 1986,
+  "month": "October",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "29": {
+  "title": "Chubby Cherub",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Platformer",
+  "year": 1986,
+  "month": "October",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "30": {
+  "title": "M.U.S.C.L.E.",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Sports",
+  "year": 1986,
+  "month": "October",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "31": {
+  "title": "Ninja Kid",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Platformer",
+  "year": 1986,
+  "month": "October",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "32": {
+  "title": "1942",
+  "developers": [
+   "Micronics"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "SHMUP",
+  "year": 1986,
+  "month": "November",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "33": {
+  "title": "Commando",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Action",
+  "year": 1986,
+  "month": "November",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "34": {
+  "title": "Ghosts 'n Goblins",
+  "developers": [
+   "Micronics"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Action",
+  "year": 1986,
+  "month": "November",
+  "season": 2,
+  "verdict": "Play it"
+ },
+ "35": {
+  "title": "Gradius",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "SHMUP",
+  "year": 1986,
+  "month": "December",
+  "season": 2,
+  "verdict": "Essential"
+ },
+ "36": {
+  "title": "Karate Champ",
+  "developers": [
+   "Data East",
+   "Sakata SAS"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Arcade",
+  "year": 1986,
+  "month": "December",
+  "season": 2,
+  "verdict": "Skip it"
+ },
+ "37": {
+  "title": "Trojan",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Action",
+  "year": 1987,
+  "month": "February",
+  "season": 3,
+  "verdict": "Play it"
+ },
+ "38": {
+  "title": "Pro Wrestling",
+  "developers": [
+   "Nintendo Research & Development 3"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "March",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "39": {
+  "title": "Slalom",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "March",
+  "season": 3,
+  "verdict": "Play it"
+ },
+ "40": {
+  "title": "Volleyball",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "March",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "41": {
+  "title": "Rush'n Attack",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Action",
+  "year": 1987,
+  "month": "April",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "42": {
+  "title": "Track & Field",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "April",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "43": {
+  "title": "BurgerTime",
+  "developers": [
+   "Data East",
+   "Sakata SAS"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Arcade",
+  "year": 1987,
+  "month": "May",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "44": {
+  "title": "Castlevania",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Adventure",
+  "year": 1987,
+  "month": "May",
+  "season": 3,
+  "verdict": "Essential"
+ },
+ "45": {
+  "title": "Ikari Warriors",
+  "developers": [
+   "Micronics"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "Action",
+  "year": 1987,
+  "month": "May",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "46": {
+  "title": "Athletic World",
+  "developers": [
+   "Human Entertainment"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "July",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "47": {
+  "title": "BreakThru",
+  "developers": [
+   "Data East"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Action",
+  "year": 1987,
+  "month": "July",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "48": {
+  "title": "Kid Icarus",
+  "developers": [
+   "Nintendo Research & Development 1",
+   "TOSE"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Adventure",
+  "year": 1987,
+  "month": "July",
+  "season": 3,
+  "verdict": "Play it"
+ },
+ "49": {
+  "title": "Mighty Bomb Jack",
+  "developers": [
+   "Tecmo"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "Platformer",
+  "year": 1987,
+  "month": "July",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "50": {
+  "title": "Rygar",
+  "developers": [
+   "Tecmo"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "RPG",
+  "year": 1987,
+  "month": "July",
+  "season": 3,
+  "verdict": "Play it"
+ },
+ "51": {
+  "title": "Section Z",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "SHMUP",
+  "year": 1987,
+  "month": "July",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "52": {
+  "title": "Solomon's Key",
+  "developers": [
+   "Tecmo"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "Puzzle",
+  "year": 1987,
+  "month": "July",
+  "season": 3,
+  "verdict": "Play it"
+ },
+ "53": {
+  "title": "Arkanoid",
+  "developers": [
+   "Atlus"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "Arcade",
+  "year": 1987,
+  "month": "August",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "54": {
+  "title": "Athena",
+  "developers": [
+   "Micronics"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "Action",
+  "year": 1987,
+  "month": "August",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "55": {
+  "title": "Elevator Action",
+  "developers": [
+   "Micronics"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "Arcade",
+  "year": 1987,
+  "month": "August",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "56": {
+  "title": "The Legend of Kage",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "Action",
+  "year": 1987,
+  "month": "August",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "57": {
+  "title": "Metroid",
+  "developers": [
+   "Nintendo Research & Development 1",
+   "Intelligent Systems"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Adventure",
+  "year": 1987,
+  "month": "August",
+  "season": 3,
+  "verdict": "Essential"
+ },
+ "58": {
+  "title": "The Legend of Zelda",
+  "developers": [
+   "Nintendo Research & Development 4"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Adventure",
+  "year": 1987,
+  "month": "August",
+  "season": 3,
+  "verdict": "Essential"
+ },
+ "59": {
+  "title": "The 3-D Battles of WorldRunner",
+  "developers": [
+   "Square"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Platformer",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "60": {
+  "title": "Deadly Towers",
+  "developers": [
+   "Lenar",
+   "Tamtex"
+  ],
+  "publishers": [
+   "Brøderbund"
+  ],
+  "genre": "Adventure",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "61": {
+  "title": "Double Dribble",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Play it"
+ },
+ "62": {
+  "title": "Lode Runner",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Brøderbund"
+  ],
+  "genre": "Arcade",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "63": {
+  "title": "Raid on Bungling Bay",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Brøderbund"
+  ],
+  "genre": "Shooter",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Play it"
+ },
+ "64": {
+  "title": "Ring King",
+  "developers": [
+   "Jastec",
+   "Neue Design"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "65": {
+  "title": "Sky Kid",
+  "developers": [
+   "Sunsoft",
+   "Namco"
+  ],
+  "publishers": [
+   "Sunsoft"
+  ],
+  "genre": "SHMUP",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "66": {
+  "title": "Spelunker",
+  "developers": [
+   "Tamtex",
+   "TOSE"
+  ],
+  "publishers": [
+   "Brøderbund"
+  ],
+  "genre": "Platformer",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "67": {
+  "title": "Spy Hunter",
+  "developers": [
+   "Sunsoft"
+  ],
+  "publishers": [
+   "Sunsoft"
+  ],
+  "genre": "Arcade",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "68": {
+  "title": "Sqoon",
+  "developers": [
+   "Home Data"
+  ],
+  "publishers": [
+   "Irem"
+  ],
+  "genre": "SHMUP",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "69": {
+  "title": "Stadium Events",
+  "developers": [
+   "Human Entertainment"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "70": {
+  "title": "Star Voyager",
+  "developers": [
+   "ASCII"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Simulation",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "71": {
+  "title": "Stinger",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "SHMUP",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Play it"
+ },
+ "72": {
+  "title": "Tiger Heli",
+  "developers": [
+   "Micronics"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "SHMUP",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "73": {
+  "title": "Winter Games",
+  "developers": [
+   "Atelier Double"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "September",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "74": {
+  "title": "Alpha Mission",
+  "developers": [
+   "SNK"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "SHMUP",
+  "year": 1987,
+  "month": "October",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "75": {
+  "title": "Lunar Pool",
+  "developers": [
+   "Compile"
+  ],
+  "publishers": [
+   "FCI"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "October",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "76": {
+  "title": "Mike Tyson's Punch-Out!!",
+  "developers": [
+   "Nintendo Research & Development 3"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "October",
+  "season": 3,
+  "verdict": "Essential"
+ },
+ "77": {
+  "title": "Rad Racer",
+  "developers": [
+   "Square"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Racing",
+  "year": 1987,
+  "month": "October",
+  "season": 3,
+  "verdict": "Play it"
+ },
+ "78": {
+  "title": "Zanac",
+  "developers": [
+   "Compile"
+  ],
+  "publishers": [
+   "FCI"
+  ],
+  "genre": "SHMUP",
+  "year": 1987,
+  "month": "October",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "79": {
+  "title": "The Goonies II",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Platformer",
+  "year": 1987,
+  "month": "November",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "80": {
+  "title": "Gotcha! The Sport!",
+  "developers": [
+   "Atlus"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Zapper",
+  "year": 1987,
+  "month": "November",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "81": {
+  "title": "Jaws",
+  "developers": [
+   "Atlus",
+   "Escape/Westone"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Adventure",
+  "year": 1987,
+  "month": "November",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "82": {
+  "title": "The Karate Kid",
+  "developers": [
+   "Atlus"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Action",
+  "year": 1987,
+  "month": "November",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "83": {
+  "title": "Kid Niki: Radical Ninja",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Adventure",
+  "year": 1987,
+  "month": "November",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "84": {
+  "title": "Star Force",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "SHMUP",
+  "year": 1987,
+  "month": "November",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "85": {
+  "title": "Super Pitfall",
+  "developers": [
+   "Micronics"
+  ],
+  "publishers": [
+   "Activision"
+  ],
+  "genre": "Platformer",
+  "year": 1987,
+  "month": "November",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "86": {
+  "title": "Top Gun",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Shooter",
+  "year": 1987,
+  "month": "November",
+  "season": 3,
+  "verdict": "Play it"
+ },
+ "87": {
+  "title": "Side Pocket",
+  "developers": [
+   "Data East"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Sports",
+  "year": 1987,
+  "month": "November",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "88": {
+  "title": "Mega Man",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Platformer",
+  "year": 1987,
+  "month": "December",
+  "season": 3,
+  "verdict": "Essential"
+ },
+ "89": {
+  "title": "Wizards & Warriors",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Action",
+  "year": 1987,
+  "month": "December",
+  "season": 3,
+  "verdict": "Skip it"
+ },
+ "90": {
+  "title": "Karnov",
+  "developers": [
+   "Data East",
+   "Sakata SAS"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Platformer",
+  "year": 1988,
+  "month": "January",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "91": {
+  "title": "Renegade",
+  "developers": [
+   "Technōs Japan"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1988,
+  "month": "January",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "92": {
+  "title": "Contra",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Action",
+  "year": 1988,
+  "month": "February",
+  "season": 4,
+  "verdict": "Essential"
+ },
+ "93": {
+  "title": "Gun.Smoke",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "SHMUP",
+  "year": 1988,
+  "month": "February",
+  "season": 4,
+  "verdict": "Essential"
+ },
+ "94": {
+  "title": "Town & Country Surf Designs: Wood & Water Rage",
+  "developers": [
+   "Atlus"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "February",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "95": {
+  "title": "Dragon Power",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Adventure",
+  "year": 1988,
+  "month": "March",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "96": {
+  "title": "Ice Hockey",
+  "developers": [
+   "Nintendo Research & Development 2"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1988,
+  "month": "March",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "97": {
+  "title": "R.C. Pro-Am",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Racing",
+  "year": 1988,
+  "month": "March",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "98": {
+  "title": "Freedom Force",
+  "developers": [
+   "Sunsoft"
+  ],
+  "publishers": [
+   "Sunsoft"
+  ],
+  "genre": "Zapper",
+  "year": 1988,
+  "month": "April",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "99": {
+  "title": "Ikari Warriors II: Victory Road",
+  "developers": [
+   "Micronics"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "Action",
+  "year": 1988,
+  "month": "April",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "100": {
+  "title": "Major League Baseball",
+  "developers": [
+   "Atlus"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Sports",
+  "year": 1988,
+  "month": "April",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "101": {
+  "title": "City Connection",
+  "developers": [
+   "Jaleco"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "May",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "102": {
+  "title": "Rambo",
+  "developers": [
+   "Pack-In-Video"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Adventure",
+  "year": 1988,
+  "month": "May",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "103": {
+  "title": "Double Dragon",
+  "developers": [
+   "Technōs Japan"
+  ],
+  "publishers": [
+   "Tradewest"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1988,
+  "month": "June",
+  "season": 4,
+  "verdict": "Essential"
+ },
+ "104": {
+  "title": "Metal Gear",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Adventure",
+  "year": 1988,
+  "month": "June",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "105": {
+  "title": "R.B.I. Baseball",
+  "developers": [
+   "Atari Games"
+  ],
+  "publishers": [
+   "Tengen"
+  ],
+  "genre": "Sports",
+  "year": 1988,
+  "month": "June",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "106": {
+  "title": "Bases Loaded",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "Sports",
+  "year": 1988,
+  "month": "July",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "107": {
+  "title": "Defender II",
+  "developers": [
+   "Vid Kidz"
+  ],
+  "publishers": [
+   "HAL America"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "July",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "108": {
+  "title": "Gauntlet",
+  "developers": [
+   "Tengen"
+  ],
+  "publishers": [
+   "Tengen"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "July",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "109": {
+  "title": "Iron Tank: The Invasion of Normandy",
+  "developers": [
+   "SNK"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "Action",
+  "year": 1988,
+  "month": "July",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "110": {
+  "title": "Legendary Wings",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "SHMUP",
+  "year": 1988,
+  "month": "July",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "111": {
+  "title": "Life Force",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "SHMUP",
+  "year": 1988,
+  "month": "August",
+  "season": 4,
+  "verdict": "Essential"
+ },
+ "112": {
+  "title": "World Class Track Meet",
+  "developers": [
+   "Human Entertainment"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1988,
+  "month": "August",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "113": {
+  "title": "Adventure Island",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Hudson Soft"
+  ],
+  "genre": "Platformer",
+  "year": 1988,
+  "month": "September",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "114": {
+  "title": "Galaga: Demons of Death",
+  "developers": [
+   "Namco"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "September",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "115": {
+  "title": "Golgo 13: Top Secret Episode",
+  "developers": [
+   "Vic Tokai"
+  ],
+  "publishers": [
+   "Vic Tokai"
+  ],
+  "genre": "Adventure",
+  "year": 1988,
+  "month": "September",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "116": {
+  "title": "Jackal",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Action",
+  "year": 1988,
+  "month": "September",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "117": {
+  "title": "Jeopardy!",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "Game Show",
+  "year": 1988,
+  "month": "September",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "118": {
+  "title": "Lee Trevino's Fighting Golf",
+  "developers": [
+   "SNK"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "Sports",
+  "year": 1988,
+  "month": "September",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "119": {
+  "title": "Milon's Secret Castle",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Hudson Soft"
+  ],
+  "genre": "Platformer",
+  "year": 1988,
+  "month": "September",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "120": {
+  "title": "Wheel of Fortune",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "Game Show",
+  "year": 1988,
+  "month": "September",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "121": {
+  "title": "Xevious",
+  "developers": [
+   "Namco"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "September",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "122": {
+  "title": "1943: The Battle of Midway",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "123": {
+  "title": "Donkey Kong Classics",
+  "developers": [
+   "Nintendo"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "124": {
+  "title": "Ghostbusters",
+  "developers": [
+   "Bits Corporation"
+  ],
+  "publishers": [
+   "Activision"
+  ],
+  "genre": "Action",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "125": {
+  "title": "Joust",
+  "developers": [
+   "HAL Laboratory"
+  ],
+  "publishers": [
+   "HAL America"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "126": {
+  "title": "MagMax",
+  "developers": [
+   "Nihon Bussan"
+  ],
+  "publishers": [
+   "FCI"
+  ],
+  "genre": "SHMUP",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "127": {
+  "title": "Mickey Mousecapade",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Platformer",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "128": {
+  "title": "Millipede",
+  "developers": [
+   "HAL Laboratory"
+  ],
+  "publishers": [
+   "HAL America"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "129": {
+  "title": "Pac-Man",
+  "developers": [
+   "Namco"
+  ],
+  "publishers": [
+   "Tengen"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "130": {
+  "title": "Racket Attack",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "Sports",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "131": {
+  "title": "Seicross",
+  "developers": [
+   "Nihon Bussan"
+  ],
+  "publishers": [
+   "FCI"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "132": {
+  "title": "Spy vs. Spy",
+  "developers": [
+   "Kemco"
+  ],
+  "publishers": [
+   "Kemco*Seika"
+  ],
+  "genre": "Action",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Essential"
+ },
+ "133": {
+  "title": "Super Mario Bros. 2",
+  "developers": [
+   "Nintendo Research & Development 4"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Platformer",
+  "year": 1988,
+  "month": "October",
+  "season": 4,
+  "verdict": "Essential"
+ },
+ "134": {
+  "title": "Anticipation",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Game Show",
+  "year": 1988,
+  "month": "November",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "135": {
+  "title": "Blaster Master",
+  "developers": [
+   "Sunsoft"
+  ],
+  "publishers": [
+   "Sunsoft"
+  ],
+  "genre": "Adventure",
+  "year": 1988,
+  "month": "November",
+  "season": 4,
+  "verdict": "Essential"
+ },
+ "136": {
+  "title": "Bubble Bobble",
+  "developers": [
+   "Taito"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "November",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "137": {
+  "title": "Cobra Command",
+  "developers": [
+   "Data East"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Adventure",
+  "year": 1988,
+  "month": "November",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "138": {
+  "title": "Dr. Chaos",
+  "developers": [
+   "Marionette"
+  ],
+  "publishers": [
+   "FCI"
+  ],
+  "genre": "Platformer",
+  "year": 1988,
+  "month": "November",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "139": {
+  "title": "Super Mario Bros./Duck Hunt",
+  "developers": [
+   "Nintendo"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Action",
+  "year": 1988,
+  "month": "November",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "140": {
+  "title": "Super Team Games",
+  "developers": [
+   "Human Entertainment"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1988,
+  "month": "November",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "141": {
+  "title": "Bionic Commando",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Platformer",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "142": {
+  "title": "Bump 'n' Jump",
+  "developers": [
+   "Data East",
+   "Sakata SAS"
+  ],
+  "publishers": [
+   "Vic Tokai"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "143": {
+  "title": "Castlevania II: Simon's Quest",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Adventure",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "144": {
+  "title": "Blades of Steel",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Sports",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "145": {
+  "title": "Indiana Jones and the Temple of Doom",
+  "developers": [
+   "Tengen"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Adventure",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "146": {
+  "title": "Othello",
+  "developers": [
+   "HAL Laboratory"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Tabletop",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "147": {
+  "title": "Paperboy",
+  "developers": [
+   "Tengen"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "148": {
+  "title": "Platoon",
+  "developers": [
+   "Ocean Software"
+  ],
+  "publishers": [
+   "Sunsoft"
+  ],
+  "genre": "Action",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "149": {
+  "title": "Rampage",
+  "developers": [
+   "Data East"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "150": {
+  "title": "Robowarrior",
+  "developers": [
+   "Hudson Soft",
+   "Aicom"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "Adventure",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "151": {
+  "title": "Skate or Die!",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Sports",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "152": {
+  "title": "Superman",
+  "developers": [
+   "Kemco"
+  ],
+  "publishers": [
+   "Kemco*Seika"
+  ],
+  "genre": "Adventure",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "153": {
+  "title": "Xenophobe",
+  "developers": [
+   "Sunsoft"
+  ],
+  "publishers": [
+   "Sunsoft"
+  ],
+  "genre": "Arcade",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Skip it"
+ },
+ "154": {
+  "title": "Zelda II: The Adventure of Link",
+  "developers": [
+   "Nintendo Research & Development 4"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Adventure",
+  "year": 1988,
+  "month": "December",
+  "season": 4,
+  "verdict": "Play it"
+ },
+ "155": {
+  "title": "Bomberman",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Hudson Soft"
+  ],
+  "genre": "Arcade",
+  "year": 1989,
+  "month": "January",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "156": {
+  "title": "Sesame Street: 1-2-3",
+  "developers": [
+   "Rare",
+   "Zippo Games"
+  ],
+  "publishers": [
+   "Hi Tech Expressions"
+  ],
+  "genre": "Education",
+  "year": 1989,
+  "month": "January",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "157": {
+  "title": "Star Soldier",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Taxan"
+  ],
+  "genre": "SHMUP",
+  "year": 1989,
+  "month": "January",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "158": {
+  "title": "Tecmo Baseball",
+  "developers": [
+   "Tecmo"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "January",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "159": {
+  "title": "WWF WrestleMania",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "January",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "160": {
+  "title": "Bandai Golf: Challenge Pebble Beach",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "February",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "161": {
+  "title": "Friday the 13th",
+  "developers": [
+   "Atlus"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Adventure",
+  "year": 1989,
+  "month": "February",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "162": {
+  "title": "Gyruss",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Arcade",
+  "year": 1989,
+  "month": "February",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "163": {
+  "title": "Q*bert",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Arcade",
+  "year": 1989,
+  "month": "February",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "164": {
+  "title": "Tecmo Bowl",
+  "developers": [
+   "Tecmo"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "February",
+  "season": 5,
+  "verdict": "Essential"
+ },
+ "165": {
+  "title": "Ultima III: Exodus",
+  "developers": [
+   "Newtopia Planning"
+  ],
+  "publishers": [
+   "FCI"
+  ],
+  "genre": "RPG",
+  "year": 1989,
+  "month": "February",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "166": {
+  "title": "Dance Aerobics",
+  "developers": [
+   "Human Entertainment"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "March",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "167": {
+  "title": "John Elway's Quarterback",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Tradewest"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "March",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "168": {
+  "title": "Kung-Fu Heroes",
+  "developers": [
+   "Culture Brain"
+  ],
+  "publishers": [
+   "Culture Brain"
+  ],
+  "genre": "Arcade",
+  "year": 1989,
+  "month": "March",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "169": {
+  "title": "Marble Madness",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Milton Bradley Company"
+  ],
+  "genre": "Puzzle",
+  "year": 1989,
+  "month": "March",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "170": {
+  "title": "Ninja Gaiden",
+  "developers": [
+   "Tecmo"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "March",
+  "season": 5,
+  "verdict": "Essential"
+ },
+ "171": {
+  "title": "World Games",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Milton Bradley Company"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "March",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "172": {
+  "title": "Adventures of Lolo",
+  "developers": [
+   "HAL Laboratory"
+  ],
+  "publishers": [
+   "HAL America"
+  ],
+  "genre": "Puzzle",
+  "year": 1989,
+  "month": "April",
+  "season": 5,
+  "verdict": "Essential"
+ },
+ "173": {
+  "title": "Amagon",
+  "developers": [
+   "Aicom"
+  ],
+  "publishers": [
+   "American Sammy"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "April",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "174": {
+  "title": "Dr. Jekyll and Mr. Hyde",
+  "developers": [
+   "Advance Communication Company"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "April",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "175": {
+  "title": "Fist of the North Star",
+  "developers": [
+   "Shouei System"
+  ],
+  "publishers": [
+   "Taxan"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1989,
+  "month": "April",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "176": {
+  "title": "The Guardian Legend",
+  "developers": [
+   "Compile"
+  ],
+  "publishers": [
+   "Brøderbund"
+  ],
+  "genre": "Adventure",
+  "year": 1989,
+  "month": "April",
+  "season": 5,
+  "verdict": "Essential"
+ },
+ "177": {
+  "title": "Legacy of the Wizard",
+  "developers": [
+   "Nihon Falcom"
+  ],
+  "publishers": [
+   "Brøderbund"
+  ],
+  "genre": "Adventure",
+  "year": 1989,
+  "month": "April",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "178": {
+  "title": "Mappy-Land",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Taxan"
+  ],
+  "genre": "Arcade",
+  "year": 1989,
+  "month": "April",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "179": {
+  "title": "Mystery Quest",
+  "developers": [
+   "Carry Lab"
+  ],
+  "publishers": [
+   "Taxan"
+  ],
+  "genre": "Adventure",
+  "year": 1989,
+  "month": "April",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "180": {
+  "title": "Predator",
+  "developers": [
+   "Pack-In-Video"
+  ],
+  "publishers": [
+   "Activision"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "April",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "181": {
+  "title": "Taboo: The Sixth Sense",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Tradewest"
+  ],
+  "genre": "Tabletop",
+  "year": 1989,
+  "month": "April",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "182": {
+  "title": "Operation Wolf",
+  "developers": [
+   "Taito"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "Zapper",
+  "year": 1989,
+  "month": "May",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "183": {
+  "title": "The Adventures of Bayou Billy",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "184": {
+  "title": "Airwolf",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "185": {
+  "title": "California Games",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Milton Bradley Company"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "186": {
+  "title": "Desert Commander",
+  "developers": [
+   "Kemco"
+  ],
+  "publishers": [
+   "Kemco*Seika"
+  ],
+  "genre": "Strategy",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "187": {
+  "title": "Guerrilla War",
+  "developers": [
+   "SNK"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "188": {
+  "title": "Hoops",
+  "developers": [
+   "Aicom"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "189": {
+  "title": "Hydlide",
+  "developers": [
+   "T&E Soft"
+  ],
+  "publishers": [
+   "FCI"
+  ],
+  "genre": "RPG",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "190": {
+  "title": "Mega Man 2",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Platformer",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Essential"
+ },
+ "191": {
+  "title": "Monster Party",
+  "developers": [
+   "Human Entertainment"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Platformer",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "192": {
+  "title": "Nobunaga's Ambition",
+  "developers": [
+   "Koei"
+  ],
+  "publishers": [
+   "Koei"
+  ],
+  "genre": "Strategy",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "193": {
+  "title": "Shooting Range",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Zapper",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "194": {
+  "title": "Street Cop",
+  "developers": [
+   "Human Entertainment"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "195": {
+  "title": "Teenage Mutant Ninja Turtles",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Adventure",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "196": {
+  "title": "Track & Field II",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "June",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "197": {
+  "title": "Baseball Stars",
+  "developers": [
+   "SNK"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "July",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "198": {
+  "title": "Cobra Triangle",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Racing",
+  "year": 1989,
+  "month": "July",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "199": {
+  "title": "Defender of the Crown",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Strategy",
+  "year": 1989,
+  "month": "July",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "200": {
+  "title": "Strider",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Adventure",
+  "year": 1989,
+  "month": "July",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "201": {
+  "title": "Super Dodge Ball",
+  "developers": [
+   "Technōs Japan"
+  ],
+  "publishers": [
+   "CSG Imagesoft"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "July",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "202": {
+  "title": "Thundercade",
+  "developers": [
+   "Micronics"
+  ],
+  "publishers": [
+   "American Sammy"
+  ],
+  "genre": "SHMUP",
+  "year": 1989,
+  "month": "July",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "203": {
+  "title": "Adventures of Tom Sawyer",
+  "developers": [
+   "Winkysoft"
+  ],
+  "publishers": [
+   "SETA"
+  ],
+  "genre": "Platformer",
+  "year": 1989,
+  "month": "August",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "204": {
+  "title": "Bad Dudes",
+  "developers": [
+   "Data East"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1989,
+  "month": "August",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "205": {
+  "title": "The Bugs Bunny Crazy Castle",
+  "developers": [
+   "Kemco"
+  ],
+  "publishers": [
+   "Kemco*Seika"
+  ],
+  "genre": "Puzzle",
+  "year": 1989,
+  "month": "August",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "206": {
+  "title": "Dragon Warrior",
+  "developers": [
+   "Chunsoft"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "RPG",
+  "year": 1989,
+  "month": "August",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "207": {
+  "title": "Faxanadu",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Adventure",
+  "year": 1989,
+  "month": "August",
+  "season": 5,
+  "verdict": "Essential"
+ },
+ "208": {
+  "title": "Flying Dragon: The Secret Scroll",
+  "developers": [
+   "Culture Brain"
+  ],
+  "publishers": [
+   "Culture Brain"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "August",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "209": {
+  "title": "Jordan vs. Bird: One on One",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Milton Bradley Company"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "August",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "210": {
+  "title": "Adventures of Dino Riki",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Hudson Soft"
+  ],
+  "genre": "SHMUP",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "211": {
+  "title": "Air Fortress",
+  "developers": [
+   "HAL Laboratory"
+  ],
+  "publishers": [
+   "HAL America"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "212": {
+  "title": "Back to the Future",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "213": {
+  "title": "Bad Street Brawler",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Mattel"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "214": {
+  "title": "The Black Bass",
+  "developers": [
+   "Another"
+  ],
+  "publishers": [
+   "Hot-B"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "215": {
+  "title": "Castlequest",
+  "developers": [
+   "ASCII"
+  ],
+  "publishers": [
+   "Nexoft"
+  ],
+  "genre": "Platformer",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "216": {
+  "title": "DuckTales",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Platformer",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Essential"
+ },
+ "217": {
+  "title": "Fester's Quest",
+  "developers": [
+   "Sunsoft"
+  ],
+  "publishers": [
+   "Sunsoft"
+  ],
+  "genre": "Adventure",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "218": {
+  "title": "Hollywood Squares",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "Game Show",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "219": {
+  "title": "King's Knight",
+  "developers": [
+   "Square",
+   "Works"
+  ],
+  "publishers": [
+   "Square"
+  ],
+  "genre": "SHMUP",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "220": {
+  "title": "NFL Football",
+  "developers": [
+   "Atlus"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "221": {
+  "title": "P.O.W.: Prisoners of War",
+  "developers": [
+   "SNK"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "222": {
+  "title": "Sesame Street: A-B-C",
+  "developers": [
+   "Rare",
+   "Zippo Games"
+  ],
+  "publishers": [
+   "Hi Tech Expressions"
+  ],
+  "genre": "Education",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "223": {
+  "title": "Sky Shark",
+  "developers": [
+   "Software Creations"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "SHMUP",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "224": {
+  "title": "Who Framed Roger Rabbit",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Adventure",
+  "year": 1989,
+  "month": "September",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "225": {
+  "title": "Casino Kid",
+  "developers": [
+   "SOFEL"
+  ],
+  "publishers": [
+   "SOFEL"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "October",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "226": {
+  "title": "Goal!",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "October",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "227": {
+  "title": "Godzilla: Monster of Monsters",
+  "developers": [
+   "Compile"
+  ],
+  "publishers": [
+   "Toho"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "October",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "228": {
+  "title": "Jeopardy! Junior Edition",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "Game Show",
+  "year": 1989,
+  "month": "October",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "229": {
+  "title": "Romance of the Three Kingdoms",
+  "developers": [
+   "Koei"
+  ],
+  "publishers": [
+   "Koei"
+  ],
+  "genre": "Strategy",
+  "year": 1989,
+  "month": "October",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "230": {
+  "title": "Stealth ATF",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "Activision"
+  ],
+  "genre": "Shooter",
+  "year": 1989,
+  "month": "October",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "231": {
+  "title": "The Three Stooges",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Activision"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "October",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "232": {
+  "title": "Twin Eagle",
+  "developers": [
+   "SETA"
+  ],
+  "publishers": [
+   "Romstar"
+  ],
+  "genre": "SHMUP",
+  "year": 1989,
+  "month": "October",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "233": {
+  "title": "Wheel of Fortune Junior Edition",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "Game Show",
+  "year": 1989,
+  "month": "October",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "234": {
+  "title": "720°",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "November",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "235": {
+  "title": "Tetris",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1989,
+  "month": "November",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "236": {
+  "title": "To the Earth",
+  "developers": [
+   "Cirque Verte"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Zapper",
+  "year": 1989,
+  "month": "November",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "237": {
+  "title": "All-Pro Basketball",
+  "developers": [
+   "Aicom"
+  ],
+  "publishers": [
+   "Vic Tokai"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "238": {
+  "title": "Archon",
+  "developers": [
+   "Bullet-Proof Software"
+  ],
+  "publishers": [
+   "Activision"
+  ],
+  "genre": "Strategy",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Essential"
+ },
+ "239": {
+  "title": "The Battle of Olympus",
+  "developers": [
+   "Infinity"
+  ],
+  "publishers": [
+   "Brøderbund"
+  ],
+  "genre": "RPG",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Play it"
+ },
+ "240": {
+  "title": "Championship Bowling",
+  "developers": [
+   "Athena"
+  ],
+  "publishers": [
+   "Romstar"
+  ],
+  "genre": "Sports",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "241": {
+  "title": "Cybernoid: The Fighting Machine",
+  "developers": [
+   "Studio 12 productions"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "SHMUP",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "242": {
+  "title": "Dig Dug II: Trouble in Paradise",
+  "developers": [
+   "Namco"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Arcade",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "243": {
+  "title": "Ironsword: Wizards & Warriors II",
+  "developers": [
+   "Rare",
+   "Zippo Games"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Platformer",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "244": {
+  "title": "Knight Rider",
+  "developers": [
+   "Pack-In-Video"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "245": {
+  "title": "RoboCop",
+  "developers": [
+   "Data East",
+   "Sakata SAS"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "246": {
+  "title": "Shadowgate",
+  "developers": [
+   "Kemco"
+  ],
+  "publishers": [
+   "Kemco*Seika"
+  ],
+  "genre": "Adventure",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Essential"
+ },
+ "247": {
+  "title": "Short Order / Eggsplode!",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Arcade",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "248": {
+  "title": "Silent Service",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Simulation",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "249": {
+  "title": "The Uncanny X-Men",
+  "developers": [
+   "Atlus"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Action",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Skip it"
+ },
+ "250": {
+  "title": "Willow",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "RPG",
+  "year": 1989,
+  "month": "December",
+  "season": 5,
+  "verdict": "Essential"
+ },
+ "251": {
+  "title": "8 Eyes",
+  "developers": [
+   "Thinking Rabbit"
+  ],
+  "publishers": [
+   "Taxan"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "252": {
+  "title": "Bases Loaded II: Second Season",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "253": {
+  "title": "A Boy and His Blob: Trouble on Blobolonia",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "Absolute Entertainment"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "254": {
+  "title": "Chessmaster",
+  "developers": [
+   "Software Toolworks"
+  ],
+  "publishers": [
+   "Hi Tech Expressions"
+  ],
+  "genre": "Tabletop",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "255": {
+  "title": "Clash at Demonhead",
+  "developers": [
+   "Vic Tokai"
+  ],
+  "publishers": [
+   "Vic Tokai"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "256": {
+  "title": "Demon Sword",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "257": {
+  "title": "Double Dragon II: The Revenge",
+  "developers": [
+   "Technōs Japan"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "258": {
+  "title": "Genghis Khan",
+  "developers": [
+   "Koei"
+  ],
+  "publishers": [
+   "Koei"
+  ],
+  "genre": "Strategy",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "259": {
+  "title": "Infiltrator",
+  "developers": [
+   "Eastridge Technology"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Simulation",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "260": {
+  "title": "Kings of the Beach",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "261": {
+  "title": "The Magic of Scheherazade",
+  "developers": [
+   "Culture Brain"
+  ],
+  "publishers": [
+   "Culture Brain"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "262": {
+  "title": "The Miracle Piano Teaching System",
+  "developers": [
+   "Software Toolworks"
+  ],
+  "publishers": [
+   "Software Toolworks"
+  ],
+  "genre": "Simulation",
+  "year": 1990,
+  "month": null,
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "263": {
+  "title": "Rescue: The Embassy Mission",
+  "developers": [
+   "Kemco"
+  ],
+  "publishers": [
+   "Kemco*Seika"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "264": {
+  "title": "River City Ransom",
+  "developers": [
+   "Technōs Japan"
+  ],
+  "publishers": [
+   "Technōs Japan"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "265": {
+  "title": "RoadBlasters",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Racing",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "266": {
+  "title": "Rock 'n' Ball",
+  "developers": [
+   "KID"
+  ],
+  "publishers": [
+   "NTVIC"
+  ],
+  "genre": "Arcade",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "267": {
+  "title": "Top Gun: The Second Mission",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Shooter",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "268": {
+  "title": "Top Players' Tennis",
+  "developers": [
+   "Home Data"
+  ],
+  "publishers": [
+   "Asmik"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "269": {
+  "title": "Twin Cobra",
+  "developers": [
+   "Micronics"
+  ],
+  "publishers": [
+   "American Sammy"
+  ],
+  "genre": "SHMUP",
+  "year": 1990,
+  "month": "January",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "270": {
+  "title": "Batman: The Video Game",
+  "developers": [
+   "Sunsoft"
+  ],
+  "publishers": [
+   "Sunsoft"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "February",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "271": {
+  "title": "Dash Galaxy in the Alien Asylum",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "February",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "272": {
+  "title": "Destination Earthstar",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Shooter",
+  "year": 1990,
+  "month": "February",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "273": {
+  "title": "Rollerball",
+  "developers": [
+   "HAL Laboratory"
+  ],
+  "publishers": [
+   "HAL America"
+  ],
+  "genre": "Arcade",
+  "year": 1990,
+  "month": "February",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "274": {
+  "title": "Super Spike V'Ball",
+  "developers": [
+   "Technōs Japan"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "February",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "275": {
+  "title": "Super Mario Bros. 3",
+  "developers": [
+   "Nintendo Research & Development 4"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "February",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "276": {
+  "title": "Abadox: The Deadly Inner War",
+  "developers": [
+   "Natsume"
+  ],
+  "publishers": [
+   "Milton Bradley Company"
+  ],
+  "genre": "SHMUP",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "277": {
+  "title": "Adventures of Lolo 2",
+  "developers": [
+   "HAL Laboratory"
+  ],
+  "publishers": [
+   "HAL America"
+  ],
+  "genre": "Puzzle",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "278": {
+  "title": "Al Unser Jr.'s Turbo Racing",
+  "developers": [
+   "Data East"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Racing",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "279": {
+  "title": "Astyanax",
+  "developers": [
+   "Aicom"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "Arcade",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "280": {
+  "title": "Baseball Simulator 1.000",
+  "developers": [
+   "Culture Brain"
+  ],
+  "publishers": [
+   "Culture Brain"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "281": {
+  "title": "Burai Fighter",
+  "developers": [
+   "KID"
+  ],
+  "publishers": [
+   "Taxan"
+  ],
+  "genre": "SHMUP",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "282": {
+  "title": "Code Name: Viper",
+  "developers": [
+   "Arc System Works",
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "283": {
+  "title": "Conflict",
+  "developers": [
+   "Vic Tokai"
+  ],
+  "publishers": [
+   "Vic Tokai"
+  ],
+  "genre": "Strategy",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "284": {
+  "title": "Fisher-Price: I Can Remember",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "Education",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "285": {
+  "title": "Fisher-Price: Perfect Fit",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "Education",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "286": {
+  "title": "Heavy Barrel",
+  "developers": [
+   "Data East"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "287": {
+  "title": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf",
+  "developers": [
+   "Sculptured Software"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "288": {
+  "title": "Kid Kool",
+  "developers": [
+   "Vic Tokai"
+  ],
+  "publishers": [
+   "Vic Tokai"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "289": {
+  "title": "Magic Johnson's Fast Break",
+  "developers": [
+   "Software Creations"
+  ],
+  "publishers": [
+   "Tradewest"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "290": {
+  "title": "Target: Renegade",
+  "developers": [
+   "Software Creations"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "291": {
+  "title": "Terra Cresta",
+  "developers": [
+   "Nihon Bussan"
+  ],
+  "publishers": [
+   "Vic Tokai"
+  ],
+  "genre": "SHMUP",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "292": {
+  "title": "Vegas Dream",
+  "developers": [
+   "HAL Laboratory"
+  ],
+  "publishers": [
+   "HAL America"
+  ],
+  "genre": "Simulation",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "293": {
+  "title": "Wheel of Fortune Family Edition",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "Game Show",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "294": {
+  "title": "Win, Lose, or Draw",
+  "developers": [
+   "Riedel Software Productions"
+  ],
+  "publishers": [
+   "Hi Tech Expressions"
+  ],
+  "genre": "Game Show",
+  "year": 1990,
+  "month": "March",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "295": {
+  "title": "Double Dare",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "Game Show",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "296": {
+  "title": "Dynowarz: Destruction of Spondylus",
+  "developers": [
+   "Advance Communication Company"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "297": {
+  "title": "Ghostbusters II",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "Activision"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "298": {
+  "title": "Ivan 'Ironman' Stewart's Super Off Road",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Tradewest"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "299": {
+  "title": "Phantom Fighter",
+  "developers": [
+   "Marionette"
+  ],
+  "publishers": [
+   "FCI"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "301": {
+  "title": "Snake's Revenge",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "302": {
+  "title": "Snoopy's Silly Sports Spectacular",
+  "developers": [
+   "Kemco"
+  ],
+  "publishers": [
+   "Kemco*Seika"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "303": {
+  "title": "Super C",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "304": {
+  "title": "Tecmo World Wrestling",
+  "developers": [
+   "Tecmo"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "305": {
+  "title": "WCW Wrestling",
+  "developers": [
+   "Nichibutsu"
+  ],
+  "publishers": [
+   "FCI"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "306": {
+  "title": "Wrath of the Black Manta",
+  "developers": [
+   "AI"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "307": {
+  "title": "Xexyz",
+  "developers": [
+   "Atlus"
+  ],
+  "publishers": [
+   "Hudson Soft"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "April",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "308": {
+  "title": "Ninja Gaiden II: The Dark Sword of Chaos",
+  "developers": [
+   "Tecmo"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "May",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "309": {
+  "title": "Remote Control",
+  "developers": [
+   "Riedel Software Productions"
+  ],
+  "publishers": [
+   "Hi Tech Expressions"
+  ],
+  "genre": "Game Show",
+  "year": 1990,
+  "month": "May",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "310": {
+  "title": "Adventures in the Magic Kingdom",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "311": {
+  "title": "Arkista's Ring",
+  "developers": [
+   "NMK"
+  ],
+  "publishers": [
+   "American Sammy"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "312": {
+  "title": "Bad News Baseball",
+  "developers": [
+   "Tecmo"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "313": {
+  "title": "Boulder Dash",
+  "developers": [
+   "Data East",
+   "Sakata SAS"
+  ],
+  "publishers": [
+   "JVC Musical Industries"
+  ],
+  "genre": "Arcade",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "314": {
+  "title": "Cabal",
+  "developers": [
+   "Zippo Games"
+  ],
+  "publishers": [
+   "Milton Bradley Company"
+  ],
+  "genre": "Arcade",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "315": {
+  "title": "Captain Skyhawk",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Milton Bradley Company"
+  ],
+  "genre": "SHMUP",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "316": {
+  "title": "Castle of Dragon",
+  "developers": [
+   "Athena"
+  ],
+  "publishers": [
+   "SETA"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "317": {
+  "title": "Chip 'n Dale: Rescue Rangers",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "318": {
+  "title": "Dragon Spirit: The New Legend",
+  "developers": [
+   "Now Production"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "SHMUP",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "319": {
+  "title": "Heavy Shreddin'",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "Parker Brothers"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "320": {
+  "title": "ImageFight",
+  "developers": [
+   "Lenar"
+  ],
+  "publishers": [
+   "Irem"
+  ],
+  "genre": "SHMUP",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "321": {
+  "title": "Jeopardy! 25th Anniversary Edition",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "Game Show",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "322": {
+  "title": "The Last Starfighter",
+  "developers": [
+   "Eastridge Technology"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "SHMUP",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "323": {
+  "title": "The Mafat Conspiracy: Golgo 13",
+  "developers": [
+   "Aicom"
+  ],
+  "publishers": [
+   "Vic Tokai"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "324": {
+  "title": "Mechanized Attack",
+  "developers": [
+   "SNK"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "Shooter",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "325": {
+  "title": "Michael Andretti's World GP",
+  "developers": [
+   "Human Entertainment"
+  ],
+  "publishers": [
+   "American Sammy"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "326": {
+  "title": "Pinball Quest",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "Arcade",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "327": {
+  "title": "Puss 'n Boots: Pero's Great Adventure",
+  "developers": [
+   "Shouei System"
+  ],
+  "publishers": [
+   "Electro Brain"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "328": {
+  "title": "Rad Racer II",
+  "developers": [
+   "Square"
+  ],
+  "publishers": [
+   "Square"
+  ],
+  "genre": "Racing",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "329": {
+  "title": "Rocket Ranger",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Kemco*Seika"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "330": {
+  "title": "Shingen the Ruler",
+  "developers": [
+   "Another"
+  ],
+  "publishers": [
+   "Hot-B"
+  ],
+  "genre": "Strategy",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "331": {
+  "title": "Silkworm",
+  "developers": [
+   "Sammy Japan"
+  ],
+  "publishers": [
+   "American Sammy"
+  ],
+  "genre": "SHMUP",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "332": {
+  "title": "Solstice: The Quest for the Staff of Demnos",
+  "developers": [
+   "Software Creations"
+  ],
+  "publishers": [
+   "CSG Imagesoft"
+  ],
+  "genre": "Puzzle",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "333": {
+  "title": "Starship Hector",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Hudson Soft"
+  ],
+  "genre": "SHMUP",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "334": {
+  "title": "Wall Street Kid",
+  "developers": [
+   "SOFEL"
+  ],
+  "publishers": [
+   "SOFEL"
+  ],
+  "genre": "Simulation",
+  "year": 1990,
+  "month": "June",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "335": {
+  "title": "The Adventures of Gilligan's Island",
+  "developers": [
+   "Human Entertainment"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "336": {
+  "title": "Battle Chess",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Tabletop",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "337": {
+  "title": "Circus Caper",
+  "developers": [
+   "Advance Communication Company"
+  ],
+  "publishers": [
+   "Toho"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "338": {
+  "title": "Crystalis",
+  "developers": [
+   "SNK"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "RPG",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "339": {
+  "title": "Dungeon Magic: Sword of the Elements",
+  "developers": [
+   "Natsume"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "RPG",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "340": {
+  "title": "Dusty Diamond's All-Star Softball",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Brøderbund"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "341": {
+  "title": "Final Fantasy",
+  "developers": [
+   "Square"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "RPG",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "342": {
+  "title": "Little League Baseball: Championship Series",
+  "developers": [
+   "SNK"
+  ],
+  "publishers": [
+   "SNK"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "343": {
+  "title": "Mad Max",
+  "developers": [
+   "Eastridge Technology"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "344": {
+  "title": "Pictionary",
+  "developers": [
+   "Software Creations"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Tabletop",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "345": {
+  "title": "Snake Rattle 'n' Roll",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "346": {
+  "title": "Wizardry: Proving Grounds of the Mad Overlord",
+  "developers": [
+   "Sir-Tech"
+  ],
+  "publishers": [
+   "Nexoft"
+  ],
+  "genre": "RPG",
+  "year": 1990,
+  "month": "July",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "347": {
+  "title": "Barker Bill's Trick Shooting",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Zapper",
+  "year": 1990,
+  "month": "August",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "348": {
+  "title": "Bigfoot",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Racing",
+  "year": 1990,
+  "month": "August",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "349": {
+  "title": "Dick Tracy",
+  "developers": [
+   "Realtime Associates"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "August",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "350": {
+  "title": "NARC",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "August",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "351": {
+  "title": "Punch-Out!! Featuring Mr. Dream",
+  "developers": [
+   "Nintendo Research & Development 3"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "August",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "352": {
+  "title": "Swords and Serpents",
+  "developers": [
+   "Interplay Entertainment"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "RPG",
+  "year": 1990,
+  "month": "August",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "353": {
+  "title": "Total Recall",
+  "developers": [
+   "Interplay Entertainment"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "August",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "354": {
+  "title": "Back to the Future Part II & III",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "355": {
+  "title": "Battle Tank",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "Absolute Entertainment"
+  ],
+  "genre": "Shooter",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "356": {
+  "title": "The Bugs Bunny Birthday Blowout",
+  "developers": [
+   "Kemco"
+  ],
+  "publishers": [
+   "Kemco*Seika"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "357": {
+  "title": "Castlevania III: Dracula's Curse",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "358": {
+  "title": "Classic Concentration",
+  "developers": [
+   "Softie"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "Game Show",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "359": {
+  "title": "Destiny of an Emperor",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "RPG",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "360": {
+  "title": "Dragon Warrior II",
+  "developers": [
+   "Chunsoft"
+  ],
+  "publishers": [
+   "Enix"
+  ],
+  "genre": "RPG",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "361": {
+  "title": "Gauntlet II",
+  "developers": [
+   "Eastridge Technology"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Arcade",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "362": {
+  "title": "Journey to Silius",
+  "developers": [
+   "Sunsoft"
+  ],
+  "publishers": [
+   "Sunsoft"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "363": {
+  "title": "Kickle Cubicle",
+  "developers": [
+   "Irem"
+  ],
+  "publishers": [
+   "Irem"
+  ],
+  "genre": "Puzzle",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "364": {
+  "title": "Little Nemo: The Dream Master",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "365": {
+  "title": "Low G Man: The Low Gravity Man",
+  "developers": [
+   "KID"
+  ],
+  "publishers": [
+   "Taxan"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "366": {
+  "title": "M.U.L.E.",
+  "developers": [
+   "Eastridge Technology"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Strategy",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "367": {
+  "title": "Maniac Mansion",
+  "developers": [
+   "Lucasfilm Games",
+   "Realtime Associates"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "368": {
+  "title": "Mission: Impossible",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "369": {
+  "title": "NES Play Action Football",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "370": {
+  "title": "Pipe Dream",
+  "developers": [
+   "Distinctive Software"
+  ],
+  "publishers": [
+   "Bullet-Proof Software"
+  ],
+  "genre": "Puzzle",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "371": {
+  "title": "Rally Bike",
+  "developers": [
+   "Toaplan"
+  ],
+  "publishers": [
+   "Romstar"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "372": {
+  "title": "RollerGames",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "373": {
+  "title": "Skate or Die 2: The Search for Double Trouble",
+  "developers": [
+   "Electronic Arts"
+  ],
+  "publishers": [
+   "Electronic Arts"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "374": {
+  "title": "Solar Jetman: Hunt for the Golden Warpship",
+  "developers": [
+   "Zippo Games"
+  ],
+  "publishers": [
+   "Tradewest"
+  ],
+  "genre": "Shooter",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "375": {
+  "title": "Spot: The Video Game",
+  "developers": [
+   "Virgin Mastertronic"
+  ],
+  "publishers": [
+   "Arcadia Systems"
+  ],
+  "genre": "Tabletop",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "376": {
+  "title": "Street Fighter 2010: The Final Fight",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "377": {
+  "title": "Thunderbirds",
+  "developers": [
+   "Pack-In-Video"
+  ],
+  "publishers": [
+   "Activision"
+  ],
+  "genre": "SHMUP",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "378": {
+  "title": "Time Lord",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Milton Bradley Company"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "379": {
+  "title": "Ultimate Basketball",
+  "developers": [
+   "Aicom"
+  ],
+  "publishers": [
+   "American Sammy"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "September",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "380": {
+  "title": "Caveman Games",
+  "developers": [
+   "Painting by Numbers"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "October",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "381": {
+  "title": "Days of Thunder",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Racing",
+  "year": 1990,
+  "month": "October",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "382": {
+  "title": "Gremlins 2: The New Batch",
+  "developers": [
+   "Sunsoft"
+  ],
+  "publishers": [
+   "Sunsoft"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "October",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "383": {
+  "title": "Loopz",
+  "developers": [
+   "Audiogenic",
+   "Milestone srl"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Puzzle",
+  "year": 1990,
+  "month": "October",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "384": {
+  "title": "Mendel Palace",
+  "developers": [
+   "Game Freak"
+  ],
+  "publishers": [
+   "Hudson Soft"
+  ],
+  "genre": "Puzzle",
+  "year": 1990,
+  "month": "October",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "385": {
+  "title": "A Nightmare on Elm Street",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "October",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "386": {
+  "title": "Orb-3D",
+  "developers": [
+   "Software Toolworks"
+  ],
+  "publishers": [
+   "Hi Tech Expressions"
+  ],
+  "genre": "Puzzle",
+  "year": 1990,
+  "month": "October",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "387": {
+  "title": "Sesame Street: Big Bird's Hide & Speak",
+  "developers": [
+   "Riedel Software Productions"
+  ],
+  "publishers": [
+   "Hi Tech Expressions"
+  ],
+  "genre": "Education",
+  "year": 1990,
+  "month": "October",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "388": {
+  "title": "Super Glove Ball",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Mattel"
+  ],
+  "genre": "Puzzle",
+  "year": 1990,
+  "month": "October",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "389": {
+  "title": "Dr. Mario",
+  "developers": [
+   "Nintendo Research & Development 1"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Puzzle",
+  "year": 1990,
+  "month": "October",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "390": {
+  "title": "Arch Rivals",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "391": {
+  "title": "Conquest of the Crystal Palace",
+  "developers": [
+   "Quest"
+  ],
+  "publishers": [
+   "Asmik"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "392": {
+  "title": "Formula One: Built to Win",
+  "developers": [
+   "Winkysoft"
+  ],
+  "publishers": [
+   "SETA"
+  ],
+  "genre": "Racing",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "393": {
+  "title": "The Immortal",
+  "developers": [
+   "Sandcastle"
+  ],
+  "publishers": [
+   "Electronic Arts"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "394": {
+  "title": "Mega Man 3",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "395": {
+  "title": "Muppet Adventure: Chaos at the Carnival",
+  "developers": [
+   "Mind's Eye"
+  ],
+  "publishers": [
+   "Hi Tech Expressions"
+  ],
+  "genre": "Arcade",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "396": {
+  "title": "Palamedes",
+  "developers": [
+   "Natsume"
+  ],
+  "publishers": [
+   "Hot-B"
+  ],
+  "genre": "Puzzle",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "397": {
+  "title": "The Punisher",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Shooter",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "398": {
+  "title": "Puzznic",
+  "developers": [
+   "Taito"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "Puzzle",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "399": {
+  "title": "Silver Surfer",
+  "developers": [
+   "Software Creations"
+  ],
+  "publishers": [
+   "Arcadia Systems"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "400": {
+  "title": "Werewolf: The Last Warrior",
+  "developers": [
+   "Data East",
+   "Sakata SAS"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "401": {
+  "title": "WWF WrestleMania Challenge",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "402": {
+  "title": "Yo! Noid",
+  "developers": [
+   "Now Production"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "November",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "403": {
+  "title": "The Adventures of Rad Gravity",
+  "developers": [
+   "Interplay Productions"
+  ],
+  "publishers": [
+   "Activision"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "404": {
+  "title": "Bandit Kings of Ancient China",
+  "developers": [
+   "Koei"
+  ],
+  "publishers": [
+   "Koei"
+  ],
+  "genre": "Strategy",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "405": {
+  "title": "Déjà Vu",
+  "developers": [
+   "Kemco"
+  ],
+  "publishers": [
+   "Kemco*Seika"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "406": {
+  "title": "Digger T. Rock: Legend of the Lost City",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Milton Bradley Company"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "407": {
+  "title": "Dirty Harry",
+  "developers": [
+   "Gray Matter Inc."
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "408": {
+  "title": "Dragon's Lair",
+  "developers": [
+   "MotiveTime"
+  ],
+  "publishers": [
+   "CSG Imagesoft"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "409": {
+  "title": "Jackie Chan's Action Kung Fu",
+  "developers": [
+   "Now Production"
+  ],
+  "publishers": [
+   "Hudson Soft"
+  ],
+  "genre": "Platformer",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "410": {
+  "title": "Little Ninja Brothers",
+  "developers": [
+   "Culture Brain"
+  ],
+  "publishers": [
+   "Culture Brain"
+  ],
+  "genre": "RPG",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "411": {
+  "title": "Ninja Crusaders",
+  "developers": [
+   "NMK"
+  ],
+  "publishers": [
+   "American Sammy"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "412": {
+  "title": "Nintendo World Cup",
+  "developers": [
+   "Technōs Japan"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "413": {
+  "title": "North & South",
+  "developers": [
+   "Kemco"
+  ],
+  "publishers": [
+   "Kemco*Seika"
+  ],
+  "genre": "Strategy",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "414": {
+  "title": "Shadow of the Ninja",
+  "developers": [
+   "Natsume"
+  ],
+  "publishers": [
+   "Natsume"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "415": {
+  "title": "StarTropics",
+  "developers": [
+   "Nintendo Research & Development 3",
+   "Locomotive Corporation"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Adventure",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Essential"
+ },
+ "416": {
+  "title": "Super Mario Bros./Duck Hunt/World Class Track Meet",
+  "developers": [
+   "Nintendo",
+   "Human Entertainment"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Action",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "417": {
+  "title": "Super Spike V'Ball/Nintendo World Cup",
+  "developers": [
+   "Nintendo",
+   "Technōs Japan"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "Sports",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "418": {
+  "title": "Teenage Mutant Ninja Turtles II: The Arcade Game",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Play it"
+ },
+ "419": {
+  "title": "Thunder & Lightning",
+  "developers": [
+   "Visco Corporation"
+  ],
+  "publishers": [
+   "Romstar"
+  ],
+  "genre": "Arcade",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "420": {
+  "title": "Ultima IV: Quest of the Avatar",
+  "developers": [
+   "Atelier Double",
+   "Infinity"
+  ],
+  "publishers": [
+   "FCI"
+  ],
+  "genre": "RPG",
+  "year": 1990,
+  "month": "December",
+  "season": 6,
+  "verdict": "Skip it"
+ },
+ "421": {
+  "title": "Advanced Dungeons & Dragons: Heroes of the Lance",
+  "developers": [
+   "Natsume"
+  ],
+  "publishers": [
+   "FCI",
+   "Pony Canyon"
+  ],
+  "genre": "RPG",
+  "year": 1991,
+  "month": "January",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "422": {
+  "title": "Fun House",
+  "developers": [
+   "Realtime Associates"
+  ],
+  "publishers": [
+   "Hi Tech Expressions"
+  ],
+  "genre": "Arcade",
+  "year": 1991,
+  "month": "January",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "423": {
+  "title": "G.I. Joe",
+  "developers": [
+   "KID"
+  ],
+  "publishers": [
+   "Taxan"
+  ],
+  "genre": "Action",
+  "year": 1991,
+  "month": "January",
+  "season": 7,
+  "verdict": "Essential"
+ },
+ "424": {
+  "title": "The Hunt for Red October",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Hi Tech Expressions"
+  ],
+  "genre": "Action",
+  "year": 1991,
+  "month": "January",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "425": {
+  "title": "Kabuki: Quantum Fighter",
+  "developers": [
+   "Human Entertainment"
+  ],
+  "publishers": [
+   "Pack-In-Video",
+   "HAL Laboratory",
+   "Nintendo"
+  ],
+  "genre": "Platformer",
+  "year": 1991,
+  "month": "January",
+  "season": 7,
+  "verdict": "Play it"
+ },
+ "426": {
+  "title": "The Krion Conquest",
+  "developers": [
+   "Vic Tokai"
+  ],
+  "publishers": [
+   "Vic Tokai"
+  ],
+  "genre": "Platformer",
+  "year": 1991,
+  "month": "January",
+  "season": 7,
+  "verdict": "Play it"
+ },
+ "427": {
+  "title": "Peter Pan and the Pirates",
+  "developers": [
+   "Equilibrium"
+  ],
+  "publishers": [
+   "THQ"
+  ],
+  "genre": "Platformer",
+  "year": 1991,
+  "month": "January",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "428": {
+  "title": "Qix",
+  "developers": [
+   "Novotrade International"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "Arcade",
+  "year": 1991,
+  "month": "January",
+  "season": 7,
+  "verdict": "Play it"
+ },
+ "429": {
+  "title": "The Untouchables",
+  "developers": [
+   "Special FX Software"
+  ],
+  "publishers": [
+   "Ocean Software",
+   "Altron"
+  ],
+  "genre": "Action",
+  "year": 1991,
+  "month": "January",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "430": {
+  "title": "Wayne Gretzky Hockey",
+  "developers": [
+   "Bethesda Softworks"
+  ],
+  "publishers": [
+   "THQ"
+  ],
+  "genre": "Sports",
+  "year": 1991,
+  "month": "January",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "431": {
+  "title": "Zombie Nation",
+  "developers": [
+   "KAZe"
+  ],
+  "publishers": [
+   "Meldac"
+  ],
+  "genre": "SHMUP",
+  "year": 1991,
+  "month": "January",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "432": {
+  "title": "Adventure Island II",
+  "developers": [
+   "Now Production"
+  ],
+  "publishers": [
+   "Hudson Soft"
+  ],
+  "genre": "Platformer",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "433": {
+  "title": "Conan: The Mysteries of Time",
+  "developers": [
+   "Eastridge Technology"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "Action",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "434": {
+  "title": "Double Dragon III: The Sacred Stones",
+  "developers": [
+   "Technōs Japan"
+  ],
+  "publishers": [
+   "Technōs Japan",
+   "Acclaim Entertainment"
+  ],
+  "genre": "Beat Em Up",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "435": {
+  "title": "Flying Warriors",
+  "developers": [
+   "Culture Brain"
+  ],
+  "publishers": [
+   "Culture Brain"
+  ],
+  "genre": "Adventure",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Play it"
+ },
+ "436": {
+  "title": "Galaxy 5000: Racing in the 51st Century",
+  "developers": [
+   "Activision"
+  ],
+  "publishers": [
+   "Activision"
+  ],
+  "genre": "Racing",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "437": {
+  "title": "Ikari Warriors III: The Rescue",
+  "developers": [
+   "Micronics"
+  ],
+  "publishers": [
+   "K Amusement",
+   "SNK"
+  ],
+  "genre": "Action",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "438": {
+  "title": "Isolated Warrior",
+  "developers": [
+   "KID"
+  ],
+  "publishers": [
+   "VAP",
+   "NTVIC",
+   "Nintendo"
+  ],
+  "genre": "SHMUP",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "439": {
+  "title": "The Last Ninja",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "Adventure",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "440": {
+  "title": "Magician",
+  "developers": [
+   "Eurocom"
+  ],
+  "publishers": [
+   "Taxan"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "441": {
+  "title": "Metal Storm",
+  "developers": [
+   "Tamtex"
+  ],
+  "publishers": [
+   "Irem"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Play it"
+ },
+ "442": {
+  "title": "Princess Tomato in the Salad Kingdom",
+  "developers": [
+   "Hudson Soft"
+  ],
+  "publishers": [
+   "Hudson Soft"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "443": {
+  "title": "The Simpsons: Bart vs. the Space Mutants",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "444": {
+  "title": "Ski or Die",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games",
+   "Palcom Software"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "445": {
+  "title": "Super Cars",
+  "developers": [
+   "Gremlin Graphics"
+  ],
+  "publishers": [
+   "Electro Brain"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "446": {
+  "title": "Touch Down Fever",
+  "developers": [
+   "SNK"
+  ],
+  "publishers": [
+   "K Amusement",
+   "SNK"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "February",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "447": {
+  "title": "Bill Elliott's NASCAR Challenge",
+  "developers": [
+   "Distinctive Software"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "March",
+  "season": 7,
+  "verdict": "Skip it"
+ },
+ "448": {
+  "title": "Harlem Globetrotters",
+  "developers": [
+   "Softie"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "March",
+  "season": 7,
+  "verdict": ""
+ },
+ "449": {
+  "title": "Indiana Jones and the Last Crusade",
+  "developers": [
+   "Software Creations"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "March",
+  "season": 7,
+  "verdict": ""
+ },
+ "450": {
+  "title": "Metal Mech: Man & Machine",
+  "developers": [
+   "Sculptured Software"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "March",
+  "season": 7,
+  "verdict": ""
+ },
+ "451": {
+  "title": "Power Blade",
+  "developers": [
+   "Taito",
+   "Natsume"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "March",
+  "season": 7,
+  "verdict": ""
+ },
+ "452": {
+  "title": "Totally Rad",
+  "developers": [
+   "Aicom"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "March",
+  "season": 7,
+  "verdict": ""
+ },
+ "453": {
+  "title": "Whomp 'Em",
+  "developers": [
+   "Jaleco"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "March",
+  "season": 7,
+  "verdict": ""
+ },
+ "454": {
+  "title": "The NewZealand Story",
+  "developers": [
+   "Software Creations"
+  ],
+  "publishers": [
+   "Ocean Software",
+   "Taito"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "April",
+  "season": 7,
+  "verdict": ""
+ },
+ "455": {
+  "title": "Nobunaga's Ambition II",
+  "developers": [
+   "Koei"
+  ],
+  "publishers": [
+   "Koei"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "April",
+  "season": 7,
+  "verdict": ""
+ },
+ "456": {
+  "title": "RoboCop 2",
+  "developers": [
+   "Painting by Numbers"
+  ],
+  "publishers": [
+   "Data East",
+   "Ocean Software"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "April",
+  "season": 7,
+  "verdict": ""
+ },
+ "457": {
+  "title": "World Champ",
+  "developers": [
+   "Pixel"
+  ],
+  "publishers": [
+   "Visco",
+   "Romstar",
+   "Taito"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "April",
+  "season": 7,
+  "verdict": ""
+ },
+ "458": {
+  "title": "Beetlejuice",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "May",
+  "season": 7,
+  "verdict": ""
+ },
+ "459": {
+  "title": "Family Feud",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "May",
+  "season": 7,
+  "verdict": ""
+ },
+ "460": {
+  "title": "Flight of the Intruder",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "Mindscape",
+   "Activision"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "May",
+  "season": 7,
+  "verdict": ""
+ },
+ "461": {
+  "title": "Monopoly",
+  "developers": [
+   "Sculptured Software"
+  ],
+  "publishers": [
+   "Parker Brothers",
+   "Tomy"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "May",
+  "season": 7,
+  "verdict": ""
+ },
+ "462": {
+  "title": "The Rocketeer",
+  "developers": [
+   "Realtime Associates",
+   "Ironwind Software"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "May",
+  "season": 7,
+  "verdict": ""
+ },
+ "463": {
+  "title": "Times of Lore",
+  "developers": [
+   "Toho"
+  ],
+  "publishers": [
+   "Toho"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "May",
+  "season": 7,
+  "verdict": ""
+ },
+ "464": {
+  "title": "Battletoads",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Tradewest",
+   "Masaya"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "June",
+  "season": 7,
+  "verdict": ""
+ },
+ "465": {
+  "title": "Castelian",
+  "developers": [
+   "Bits Studios"
+  ],
+  "publishers": [
+   "Triffix",
+   "Hiro",
+   "Storm Sales Curve"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "June",
+  "season": 7,
+  "verdict": ""
+ },
+ "466": {
+  "title": "Cyber Stadium Series—Base Wars",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Ultra Games"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "June",
+  "season": 7,
+  "verdict": ""
+ },
+ "467": {
+  "title": "Faria: A World of Mystery and Danger!",
+  "developers": [
+   "Game Arts"
+  ],
+  "publishers": [
+   "Hi-Score",
+   "Nexoft"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "June",
+  "season": 7,
+  "verdict": ""
+ },
+ "468": {
+  "title": "Laser Invasion",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "June",
+  "season": 7,
+  "verdict": ""
+ },
+ "469": {
+  "title": "Rainbow Islands",
+  "developers": [
+   "Disco"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "June",
+  "season": 7,
+  "verdict": ""
+ },
+ "470": {
+  "title": "S.C.A.T.: Special Cybernetic Attack Team",
+  "developers": [
+   "Natsume"
+  ],
+  "publishers": [
+   "Natsume",
+   "Infogrames"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "June",
+  "season": 7,
+  "verdict": ""
+ },
+ "471": {
+  "title": "Tombs & Treasure",
+  "developers": [
+   "Compile"
+  ],
+  "publishers": [
+   "Tokyo Shoseki",
+   "Infocom"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "June",
+  "season": 7,
+  "verdict": ""
+ },
+ "472": {
+  "title": "Uninvited",
+  "developers": [
+   "Kemco"
+  ],
+  "publishers": [
+   "Kemco",
+   "Seika"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "June",
+  "season": 7,
+  "verdict": ""
+ },
+ "473": {
+  "title": "Videomation",
+  "developers": [
+   "FarSight Studios"
+  ],
+  "publishers": [
+   "THQ"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "June",
+  "season": 7,
+  "verdict": ""
+ },
+ "474": {
+  "title": "Frankenstein: The Monster Returns",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Bandai"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "July",
+  "season": 7,
+  "verdict": ""
+ },
+ "475": {
+  "title": "High Speed",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Tradewest"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "July",
+  "season": 7,
+  "verdict": ""
+ },
+ "476": {
+  "title": "KlashBall",
+  "developers": [
+   "SOFEL"
+  ],
+  "publishers": [
+   "SOFEL"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "July",
+  "season": 7,
+  "verdict": ""
+ },
+ "477": {
+  "title": "The Little Mermaid",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "July",
+  "season": 7,
+  "verdict": ""
+ },
+ "478": {
+  "title": "Where's Waldo?",
+  "developers": [
+   "Bethesda Softworks"
+  ],
+  "publishers": [
+   "THQ"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "July",
+  "season": 7,
+  "verdict": ""
+ },
+ "479": {
+  "title": "Bill & Ted's Excellent Video Game Adventure",
+  "developers": [
+   "Rocket Science Productions"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "August",
+  "season": 7,
+  "verdict": ""
+ },
+ "480": {
+  "title": "The Lone Ranger",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "August",
+  "season": 7,
+  "verdict": ""
+ },
+ "481": {
+  "title": "Ninja Gaiden III: The Ancient Ship of Doom",
+  "developers": [
+   "Tecmo"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "August",
+  "season": 7,
+  "verdict": ""
+ },
+ "482": {
+  "title": "Adventures of Lolo 3",
+  "developers": [
+   "HAL Laboratory"
+  ],
+  "publishers": [
+   "HAL Laboratory"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "September",
+  "season": 7,
+  "verdict": ""
+ },
+ "483": {
+  "title": "Bases Loaded 3",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Jaleco"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "September",
+  "season": 7,
+  "verdict": ""
+ },
+ "484": {
+  "title": "Captain Planet and the Planeteers",
+  "developers": [
+   "Chris Gray Enterprises"
+  ],
+  "publishers": [
+   "Mindscape"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "September",
+  "season": 7,
+  "verdict": ""
+ },
+ "485": {
+  "title": "Gun-Nac",
+  "developers": [
+   "Compile"
+  ],
+  "publishers": [
+   "Tonkin House",
+   "ASCII"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "September",
+  "season": 7,
+  "verdict": ""
+ },
+ "486": {
+  "title": "Magic Darts",
+  "developers": [
+   "SETA"
+  ],
+  "publishers": [
+   "SETA",
+   "Romstar"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "September",
+  "season": 7,
+  "verdict": ""
+ },
+ "487": {
+  "title": "Monster Truck Rally",
+  "developers": [
+   "Realtime Associates"
+  ],
+  "publishers": [
+   "INTV"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "September",
+  "season": 7,
+  "verdict": ""
+ },
+ "488": {
+  "title": "NES Open Tournament Golf",
+  "developers": [
+   "Nintendo R&D2",
+   "HAL Laboratory"
+  ],
+  "publishers": [
+   "Nintendo"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "September",
+  "season": 7,
+  "verdict": ""
+ },
+ "489": {
+  "title": "Rockin' Kats",
+  "developers": [
+   "Atlus"
+  ],
+  "publishers": [
+   "Atlus"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "September",
+  "season": 7,
+  "verdict": ""
+ },
+ "490": {
+  "title": "Romance of the Three Kingdoms II",
+  "developers": [
+   "Koei"
+  ],
+  "publishers": [
+   "Koei"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "September",
+  "season": 7,
+  "verdict": ""
+ },
+ "491": {
+  "title": "Smash TV",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "September",
+  "season": 7,
+  "verdict": ""
+ },
+ "492": {
+  "title": "Super Jeopardy!",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "September",
+  "season": 7,
+  "verdict": ""
+ },
+ "493": {
+  "title": "American Gladiators",
+  "developers": [
+   "Incredible Technologies"
+  ],
+  "publishers": [
+   "GameTek"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "October",
+  "season": 7,
+  "verdict": ""
+ },
+ "494": {
+  "title": "Bo Jackson Baseball",
+  "developers": [
+   "Beam Software"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "October",
+  "season": 7,
+  "verdict": ""
+ },
+ "495": {
+  "title": "Darkman",
+  "developers": [
+   "Painting by Numbers"
+  ],
+  "publishers": [
+   "Ocean Software"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "October",
+  "season": 7,
+  "verdict": ""
+ },
+ "496": {
+  "title": "Home Alone",
+  "developers": [
+   "Bethesda Softworks"
+  ],
+  "publishers": [
+   "THQ"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "October",
+  "season": 7,
+  "verdict": ""
+ },
+ "497": {
+  "title": "Pirates!",
+  "developers": [
+   "Rare"
+  ],
+  "publishers": [
+   "Ultra Games",
+   "Palcom Software"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "October",
+  "season": 7,
+  "verdict": ""
+ },
+ "498": {
+  "title": "Roger Clemens' MVP Baseball",
+  "developers": [
+   "Sculptured Software"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "October",
+  "season": 7,
+  "verdict": ""
+ },
+ "499": {
+  "title": "Trog",
+  "developers": [
+   "Visual Concepts"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "October",
+  "season": 7,
+  "verdict": ""
+ },
+ "500": {
+  "title": "Where in Time Is Carmen Sandiego?",
+  "developers": [
+   "Distinctive Software"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "October",
+  "season": 7,
+  "verdict": ""
+ },
+ "501": {
+  "title": "Wolverine",
+  "developers": [
+   "Software Creations"
+  ],
+  "publishers": [
+   "LJN"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "October",
+  "season": 7,
+  "verdict": ""
+ },
+ "502": {
+  "title": "Bard's Tale: Tales of the Unknown",
+  "developers": [
+   "Atelier Double"
+  ],
+  "publishers": [
+   "Pony Canyon",
+   "FCI"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "November",
+  "season": 7,
+  "verdict": ""
+ },
+ "503": {
+  "title": "Eliminator Boat Duel",
+  "developers": [
+   "Sculptured Software",
+   "Radioactive Software"
+  ],
+  "publishers": [
+   "Electro Brain",
+   "Storm"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "November",
+  "season": 7,
+  "verdict": ""
+ },
+ "504": {
+  "title": "L'Empereur",
+  "developers": [
+   "Koei"
+  ],
+  "publishers": [
+   "Koei"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "November",
+  "season": 7,
+  "verdict": ""
+ },
+ "505": {
+  "title": "Robin Hood: Prince of Thieves",
+  "developers": [
+   "Sculptured Software"
+  ],
+  "publishers": [
+   "Virgin Games",
+   "Mindscape"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "November",
+  "season": 7,
+  "verdict": ""
+ },
+ "506": {
+  "title": "Snow Brothers",
+  "developers": [
+   "Soft House"
+  ],
+  "publishers": [
+   "Capcom",
+   "Toaplan"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "November",
+  "season": 7,
+  "verdict": ""
+ },
+ "507": {
+  "title": "Space Shuttle Project",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "Absolute Entertainment"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "November",
+  "season": 7,
+  "verdict": ""
+ },
+ "508": {
+  "title": "Star Wars",
+  "developers": [
+   "Lucasfilm Games",
+   "Beam Software"
+  ],
+  "publishers": [
+   "Victor Musical Industries",
+   "JVC Musical Industries"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "November",
+  "season": 7,
+  "verdict": ""
+ },
+ "509": {
+  "title": "Uncharted Waters",
+  "developers": [
+   "Koei"
+  ],
+  "publishers": [
+   "Koei"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "November",
+  "season": 7,
+  "verdict": ""
+ },
+ "510": {
+  "title": "Vice: Project Doom",
+  "developers": [
+   "Aicom"
+  ],
+  "publishers": [
+   "Sammy"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "November",
+  "season": 7,
+  "verdict": ""
+ },
+ "511": {
+  "title": "Wurm: Journey to the Center of the Earth",
+  "developers": [
+   "Cyclone System"
+  ],
+  "publishers": [
+   "SOFEL",
+   "Asmik"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "November",
+  "season": 7,
+  "verdict": ""
+ },
+ "512": {
+  "title": "Barbie",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "Hi Tech Expressions"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "513": {
+  "title": "Batman: Return of the Joker",
+  "developers": [
+   "Sunsoft"
+  ],
+  "publishers": [
+   "Sunsoft"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "514": {
+  "title": "Captain America and The Avengers",
+  "developers": [
+   "Data East"
+  ],
+  "publishers": [
+   "Data East"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "515": {
+  "title": "The Flintstones: The Rescue of Dino & Hoppy",
+  "developers": [
+   "Taito",
+   "Sol Corporation"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "516": {
+  "title": "Golf Grand Slam",
+  "developers": [
+   "TOSE"
+  ],
+  "publishers": [
+   "Hect",
+   "Atlus"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "517": {
+  "title": "Shatterhand",
+  "developers": [
+   "Natsume"
+  ],
+  "publishers": [
+   "Angel",
+   "Jaleco"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "518": {
+  "title": "The Simpsons: Bart vs. the World",
+  "developers": [
+   "Imagineering"
+  ],
+  "publishers": [
+   "Acclaim Entertainment"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "519": {
+  "title": "TaleSpin",
+  "developers": [
+   "Capcom"
+  ],
+  "publishers": [
+   "Capcom"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "520": {
+  "title": "Tecmo Super Bowl",
+  "developers": [
+   "Tecmo"
+  ],
+  "publishers": [
+   "Tecmo"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "521": {
+  "title": "Tiny Toon Adventures",
+  "developers": [
+   "Konami"
+  ],
+  "publishers": [
+   "Konami"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "522": {
+  "title": "Toki",
+  "developers": [
+   "Daiei Seisakusho"
+  ],
+  "publishers": [
+   "Taito"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "523": {
+  "title": "Tom & Jerry",
+  "developers": [
+   "Software Creations"
+  ],
+  "publishers": [
+   "Hi Tech Expressions",
+   "Altron"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ },
+ "524": {
+  "title": "Treasure Master",
+  "developers": [
+   "Software Creations"
+  ],
+  "publishers": [
+   "American Softworks Corporation"
+  ],
+  "genre": "",
+  "year": 1991,
+  "month": "December",
+  "season": 7,
+  "verdict": ""
+ }
+}
