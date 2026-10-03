@@ -270,13 +270,28 @@ body.has-mini { padding-bottom: 66px; }
 .filters #clear-filters { margin-top: 12px; }
 .filters #clear-filters[hidden] { display: none; }
 
-/* Clickable game details under an episode's title */
-.gtags { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 10px; }
-.gtag { font-family: var(--mono); font-size: 12px; padding: 3px 9px; border: 2px solid var(--dark); background: #fff; color: var(--ink) !important; text-decoration: none; }
-.gtag span { color: var(--gray); margin-right: 6px; }
-.gtag:hover { background: var(--dark); color: #fff !important; }
-.gtag:hover span { color: #ccc; }
-.gtag.v-essential { background: #f2c230; border-color: #f2c230; }
-.gtag.v-playit { background: #2a6fdb; border-color: #2a6fdb; color: #fff !important; }
+/* Episode page: GAME INFO status screen, game-manual description, Patreon "continue" callout */
+.ginfo { background: var(--card); border: 3px solid var(--line); box-shadow: 4px 4px 0 var(--line); margin: 14px 0 20px; }
+.ginfo-h { background: var(--dark); color: #fff; font-family: var(--mono); font-weight: 700; font-size: 12px; text-transform: uppercase; letter-spacing: .12em; padding: 5px 14px; }
+.ginfo-b { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+.gcell { padding: 10px 14px 12px; border-right: 2px dashed #c9c5bb; border-bottom: 2px dashed #c9c5bb; margin: 0 -2px -2px 0; display: flex; flex-direction: column; gap: 6px; }
+.gk { font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: .1em; color: var(--gray); }
+.gv { display: flex; flex-wrap: wrap; gap: 6px; }
+.gtag { font-family: var(--mono); font-weight: 700; font-size: 13px; line-height: 1.2; padding: 5px 10px; background: #fff; color: var(--ink) !important; text-decoration: none; border: 2px solid var(--line); box-shadow: 2px 2px 0 var(--line); }
+.gtag:hover { background: var(--red); color: #fff !important; }
+.gtag:active { transform: translate(1px, 1px); box-shadow: 1px 1px 0 var(--line); }
+.gtag.v-essential { background: #f2c230; }
+.gtag.v-playit { background: #2a6fdb; color: #fff !important; }
 .gtag.v-skipit { background: var(--dark); color: #fff !important; }
-.gtag.v-essential span { color: #5a4300; } .gtag.v-playit span, .gtag.v-skipit span { color: #dde6f5; }
+.gtag[class*="v-"]:hover { filter: brightness(1.12); background: inherit; }
+
+.ep .meta { margin: 0 0 16px; }
+.desc { line-height: 1.65; }
+.desc > p, .manual p { margin: 0 0 1em; }
+.manual { position: relative; background: var(--card); border: 3px solid var(--line); box-shadow: 4px 4px 0 var(--line); padding: 26px 20px 8px; margin: 22px 0 22px; }
+.mtab { position: absolute; top: -3px; left: -3px; background: var(--red); color: #fff; font-family: var(--mono); font-weight: 700; font-size: 11px; text-transform: uppercase; letter-spacing: .12em; padding: 3px 12px; }
+.manual .src { font-family: var(--mono); font-size: 12px; color: var(--gray); margin: -2px 0 14px; padding-top: 10px; border-top: 2px dashed #c9c5bb; }
+.continue { margin: 22px 0; padding: 14px 18px 4px; border: 3px dashed var(--red); background: #fff; }
+.continue b { display: block; font-family: var(--mono); text-transform: uppercase; letter-spacing: .08em; color: var(--red-dark); margin-bottom: 8px; }
+.continue p { font-size: 14px; color: var(--gray); margin: 0 0 12px; overflow-wrap: anywhere; }
+@media (max-width: 520px) { .ginfo-b { grid-template-columns: 1fr 1fr; } .gcell { padding: 8px 10px 10px; } }

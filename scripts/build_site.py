@@ -200,29 +200,33 @@ def load_game_info():
 
 
 def game_tags(r):
-    """Clickable tags under an episode's title; each opens the Episodes list already filtered by that value."""
+    """A 'GAME INFO' status screen under an episode's title. Every value is a link to the Episodes list filtered by it."""
     info = GAME_INFO.get(str(r["number"])) if r["type"] == "episode" and r["number"] is not None else None
     if not info:
         return ""
 
-    def tag(label, value, query, cls=""):
+    def chip(label, value, query, cls=""):
         href = f'{BASE}/episodes/?{urllib.parse.urlencode(query)}'
-        return f'<a class="gtag {cls}" href="{href}" title="See every episode with this {label.lower()}"><span>{label}</span>{E(value)}</a>'
+        return f'<a class="gtag {cls}" href="{href}" title="See every episode with this {label.lower()}">{E(value)}</a>'
 
-    out = []
+    cells = []  # (label, [chips], css class)
     if info["verdict"]:
-        out.append(tag("Verdict", info["verdict"], {"verdict": info["verdict"].lower()}, "v-" + info["verdict"].lower().replace(" ", "")))
+        v = info["verdict"]
+        cells.append(("Verdict", [chip("Verdict", v, {"verdict": v.lower()}, "v-" + v.lower().replace(" ", ""))], "c-verdict"))
     if info["genre"]:
-        out.append(tag("Genre", info["genre"], {"genre": info["genre"].lower()}))
+        cells.append(("Genre", [chip("Genre", info["genre"], {"genre": info["genre"].lower()})], ""))
     if info["year"]:
         q = {"year": info["year"]}
         if info["month"]:
             q["month"] = info["month"].lower()
-        out.append(tag("Released", f'{info["month"] + " " if info["month"] else ""}{info["year"]}', q))
-    out.append(tag("Season", str(info["season"]), {"season": info["season"]}))
-    out += [tag("Developer", d, {"dev": d.lower()}) for d in info["developers"]]
-    out += [tag("Publisher", p, {"pub": p.lower()}) for p in info["publishers"]]
-    return f'<div class="gtags" data-pagefind-ignore>{"".join(out)}</div>'
+        cells.append(("Released", [chip("Release date", f'{info["month"] + " " if info["month"] else ""}{info["year"]}', q)], ""))
+    cells.append(("Season", [chip("Season", f'Season {info["season"]}', {"season": info["season"]})], ""))
+    if info["developers"]:
+        cells.append(("Developer" + ("s" if len(info["developers"]) > 1 else ""), [chip("Developer", d, {"dev": d.lower()}) for d in info["developers"]], ""))
+    if info["publishers"]:
+        cells.append(("Publisher" + ("s" if len(info["publishers"]) > 1 else ""), [chip("Publisher", p, {"pub": p.lower()}) for p in info["publishers"]], ""))
+    body = "".join(f'<div class="gcell {cls}"><span class="gk">{lab}</span><span class="gv">{"".join(chips)}</span></div>' for lab, chips, cls in cells)
+    return f'<section class="ginfo" data-pagefind-ignore aria-label="Game info"><div class="ginfo-h">&#9654; Game info</div><div class="ginfo-b">{body}</div></section>'
 
 
 def filter_panel(data):
@@ -613,12 +617,16 @@ def main():
             (f"<h3>{kind(p)}</h3>" if len(r["notes"]) > 1 else "") + render_notes(p) for p in r["notes"]
         )
         label = f"{r['number']:03d} · " if r["type"] == "episode" and r["number"] is not None else ""
-        desc_html = "".join(f"<p>{linkify(p)}</p>" for p in r["description"].split("\n\n") if p.strip())
+        def desc_p(p):  # the Patreon boilerplate becomes a 'CONTINUE?' callout; everything else is plain manual text
+            if p.strip().lower().startswith("support nestalgia directly"):
+                return f'<aside class="continue"><b>Continue? Join us on Patreon</b><p>{linkify(p)}</p></aside>'
+            return f"<p>{linkify(p)}</p>"
+        desc_html = "".join(desc_p(p) for p in r["description"].split("\n\n") if p.strip())
         intro = WIKI_INTROS.get(str(r["number"])) if r["type"] == "episode" and boilerplate_only(r["description"]) else None
         if intro and intro.get("text"):  # a real description above the Patreon boilerplate, credited to Wikipedia
             credit = (f'<p class="src">From <a href="{E(intro["url"])}" rel="noopener">Wikipedia: {E(intro["title"])}</a> '
                       f'(<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener">CC BY-SA 4.0</a>)</p>') if intro.get("url") else ""
-            desc_html = f'<p>{E(intro["text"])}</p>{credit}{desc_html}'
+            desc_html = f'<div class="manual"><div class="mtab">About the game</div><p>{E(intro["text"])}</p>{credit}</div>{desc_html}'
         else:
             intro = None
         panels = []  # (id, tab label, html)
