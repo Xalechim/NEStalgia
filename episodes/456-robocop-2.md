@@ -43,7 +43,7 @@
   - "RoboCop is taken away for calibration. But he will try again!"
   - Losing is framed as a maintenance appointment.
 
-## V. History & Development
+## IV. History & Development
 
 - Ocean bought RoboCop at the script stage
   - Ocean licensed RoboCop from Orion Pictures before the first film was even finished, then sub-licensed it to Data East for arcades. That is why the same property produced completely unrelated games on different platforms.
@@ -54,12 +54,12 @@
   - A licensed cartridge deliberately bricking itself to stop you cheating is on-brand for a game about a cop.
   - Elsewhere in the same ROM, at the tail of Bank 6, somebody left behind the placeholder string "hello this is a bit of text," which never appears anywhere in the game. (TCRF via search results, confirmed by GameFAQs)
 
-## VI. Reception & Legacy
+## V. Reception & Legacy
 
 - No re-release
   - This one has not been reissued. The RoboCop games that get modern attention are the arcade original and Rogue City, not this cartridge.
 
-## VII. Pop Culture
+## VI. Pop Culture
 
 - The movie's arcade scene is a Data East ad
   - RoboCop 2 has a scene where RoboCop walks into an arcade to lean on a crooked cop. Every cabinet on screen is a Data East game: Bad Dudes, Sly Spy, Heavy Barrel, Midnight Resistance, The Real Ghostbusters, Slap Shot, and Kung Fu Master. Midnight Resistance is about fighting a drug operation, which makes the placement funnier. In some shots the Ghostbusters cabinets are displaying screenshots from entirely different games.
@@ -70,7 +70,7 @@
 - RoboCop was everywhere and rated R for none of it
   - Action figures, a Saturday morning cartoon, a cereal-adjacent merchandising blitz, all built off one of the most violent films of its era. The NES cartridge is part of that machine: the property sold the game, not the other way around.
 
-## VIII. Sequels and Spinoffs
+## VII. Sequels and Spinoffs
 
 - The NES RoboCop shelf
   - RoboCop (1989, NES): different developer, Sakata SAS, and famously RoboCop cannot jump at all. (HG101) RoboCop 2 (1991, NES): this one. RoboCop 3 (1992, NES): Probe, published by Ocean. RoboCop Versus The Terminator (1993, NES): Interplay. Four RoboCop cartridges on one console, no two of them alike.
@@ -79,7 +79,7 @@
 - Comparison games
   - RoboCop (NES): the direct predecessor, worth playing back to back just to hear how different the two design philosophies are. Batman (NES, Sunsoft): the counterexample, a licensed 1989 movie tie-in that is genuinely excellent. Darkman or Dick Tracy (NES): Ocean-adjacent licensed titles from the same window that show the house style.
 
-## IX. Essential Games List Vote
+## VIII. Essential Games List Vote
 
 - Case against Essential
   - The central mechanic hides its own win condition from you, and no amount of RoboCop affection survives failing a level for a reason the game never showed you.
