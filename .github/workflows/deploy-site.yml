@@ -1,13 +1,10 @@
 name: Deploy website
 
-# Rebuild the site whenever the repo changes, and after the feed auto-update runs
-# (commits made by that workflow don't trigger a normal push event).
+# Rebuild the site whenever the repo changes. The auto-update workflow starts this itself (with "Run workflow")
+# after it commits, because commits made by that workflow don't trigger a normal push event.
 on:
   push:
     branches: [main]
-  workflow_run:
-    workflows: ["Update from podcast feed"]
-    types: [completed]
   workflow_dispatch:
 
 permissions:

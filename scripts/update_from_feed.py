@@ -10,6 +10,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import build_episode_data  # noqa: E402
+import box_art  # noqa: E402
 import build_index  # noqa: E402
 import game_info  # noqa: E402
 import next_episode  # noqa: E402
@@ -32,3 +33,10 @@ try:  # developer, publisher, genre, release date and verdict for the Episodes p
     game_info.refresh()
 except Exception as e:
     print(f"Couldn't update the game info: {e}")
+
+try:  # a new episode whose cover is the plain NEStalgia logo gets the game's NES box art (does nothing if no cover is generic)
+    box_art.main()
+except SystemExit:
+    pass
+except Exception as e:
+    print(f"Couldn't check for generic covers: {e}")

@@ -1,8 +1,12 @@
 name: Update from podcast feed
 
-# New episodes come out on Fridays. Check then, with a Saturday backup, and allow a manual run.
+# Refreshes everything that comes from outside the repo: the podcast feed (new episodes, cover art), your episode
+# spreadsheet (verdicts, genres, the "Up next" episode), Wikipedia intros and box art for covers that need one.
+# Runs every 4 hours, extra often on Fridays when episodes come out, and any time you press "Run workflow" on the Actions tab.
+# If anything changed it commits it and rebuilds the website.
 on:
   schedule:
+    - cron: "17 */4 * * *"
     - cron: "30 11 * * 5"
     - cron: "30 15 * * 5"
     - cron: "30 15 * * 6"
@@ -10,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: update-from-feed
@@ -25,22 +30,32 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install pillow
+      - run: pip install pillow numpy
 
       - name: Update data, cover art and index from the feed
         env:
           PYTHONDONTWRITEBYTECODE: "1"
         run: python scripts/update_from_feed.py
 
-      - name: Commit and push if anything changed
+      - name: Commit, push and rebuild the website if anything changed
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           if [ -z "$(git status --porcelain)" ]; then
-            echo "No new episodes."
+            echo "Nothing changed."
             exit 0
           fi
-          NEW=$(python -c "import json; print(json.load(open('data/episodes.json'))[0]['feed_title'])")
+          WHAT=""
+          git status --porcelain | grep -q "data/episodes.json" && WHAT="$WHAT feed"
+          git status --porcelain | grep -q "data/game-info.json" && WHAT="$WHAT spreadsheet"
+          git status --porcelain | grep -q "data/next-episode" && WHAT="$WHAT up-next"
+          git status --porcelain | grep -q "data/wikipedia-intros.json" && WHAT="$WHAT wikipedia"
+          git status --porcelain | grep -q "assets/episode-art" && WHAT="$WHAT art"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Auto-update from feed: $NEW"
+          git commit -m "Auto-update (${WHAT# })"
+          git pull --rebase -X theirs origin main
           git push
+          # Commits made with the built-in token don't start other workflows by themselves, so start the rebuild directly.
+          gh workflow run deploy-site.yml --ref main

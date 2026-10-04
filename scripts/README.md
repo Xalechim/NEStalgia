@@ -39,7 +39,7 @@ Local, free transcripts (paragraphs with timestamps, no speaker labels). Nothing
 2. rebuilds `data/episodes.json` and `episodes.csv`,
 3. rebuilds `episodes/README.md`,
 
-and commits the result as "Auto-update from feed: <newest episode title>". If nothing is new, it does nothing.
+and commits the result as "Auto-update (feed spreadsheet ...)", naming what changed. If nothing is new, it does nothing.
 It does not make show notes or transcripts; those stay manual (the double-click tool for transcripts).
 Run the same thing by hand with `python3 scripts/update_from_feed.py` (needs `pip install pillow`).
 
