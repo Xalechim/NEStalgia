@@ -381,6 +381,7 @@ def page(title, body, path, desc="", image=None, search=False, current="", jsonl
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<script>(function(){{try{{var t=localStorage.getItem("theme");if(!t)t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.dataset.theme=t}}catch(e){{}}}})()</script>
 <title>{E(title)}</title>
 {f'<link rel="canonical" href="{SITE_URL}{path}">' if path else ""}
 <meta name="description" content="{E(desc[:200])}">
@@ -389,11 +390,12 @@ def page(title, body, path, desc="", image=None, search=False, current="", jsonl
 <link rel="icon" href="{BASE}/icon.png"><link rel="apple-touch-icon" href="{BASE}/icon.png">
 <link rel="stylesheet" href="{BASE}/style.css">{pf}{jsonld_tag(jsonld)}</head>
 <body><a class="skip" href="#main">Skip to content</a>
-<header class="site"><div class="bar"><a class="brand" href="{BASE}/"><img src="{BASE}/logo.png" alt="NEStalgia"></a><nav>{nav}</nav></div></header>
+<header class="site"><div class="bar"><a class="brand" href="{BASE}/"><img src="{BASE}/logo.png" alt="NEStalgia"></a><nav>{nav}<button id="theme" type="button" aria-label="Switch between light and dark mode"></button></nav></div></header>
 <main id="main">{body}</main>
 <footer class="site">NEStalgia is a podcast by Michael Esposito and friends. Text is
 <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>; game art belongs to its owners.
-<a href="https://github.com/Xalechim/NEStalgia">Source on GitHub</a>.</footer>{analytics_tag()}
+<a href="https://github.com/Xalechim/NEStalgia">Source on GitHub</a>.</footer>
+<script>document.getElementById("theme").addEventListener("click",function(){{var t=document.documentElement.dataset.theme==="dark"?"light":"dark";document.documentElement.dataset.theme=t;try{{localStorage.setItem("theme",t)}}catch(e){{}}}});</script>{analytics_tag()}
 </body></html>"""
 
 
