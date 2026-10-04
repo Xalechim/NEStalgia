@@ -1,0 +1,478 @@
+{
+ "456": {
+  "album": "RoboCop 2",
+  "track": 1,
+  "name": "Name Entry",
+  "length": "0:40",
+  "file": "01.Name Entry.mp3"
+ },
+ "457": {
+  "album": "World Champ",
+  "track": 1,
+  "name": "Track 1",
+  "length": "3:00",
+  "file": "01.mp3"
+ },
+ "458": {
+  "album": "Beetlejuice",
+  "track": 1,
+  "name": "Game Over (Sandworm Pit)",
+  "length": "3:00",
+  "file": "01 Game Over (Sandworm Pit).mp3"
+ },
+ "459": {
+  "album": "Family Feud",
+  "track": 1,
+  "name": "Title Theme",
+  "length": "3:00",
+  "file": "01. Title Theme.mp3"
+ },
+ "460": {
+  "album": "Flight of the Intruder",
+  "track": 1,
+  "name": "Track 1",
+  "length": "0:41",
+  "file": "01.mp3"
+ },
+ "461": {
+  "album": "Monopoly",
+  "track": 1,
+  "name": "Title Screen & Menu",
+  "length": "3:22",
+  "file": "01_Title Screen & Menu.mp3"
+ },
+ "462": {
+  "album": "The Rocketeer",
+  "track": 3,
+  "name": "Cutscene Theme 1 & Credits",
+  "length": "0:38",
+  "file": "03_Cutscene Theme 1 & Credits.mp3"
+ },
+ "463": {
+  "album": "Times of Lore",
+  "track": 1,
+  "name": "Title",
+  "length": "2:06",
+  "file": "01 Title.mp3"
+ },
+ "464": {
+  "album": "Battletoads",
+  "track": 1,
+  "name": "Title",
+  "length": "1:37",
+  "file": "01. Title.mp3"
+ },
+ "465": {
+  "album": "Castelian",
+  "track": 1,
+  "name": "Main Theme",
+  "length": "1:39",
+  "file": "01 Main Theme.mp3"
+ },
+ "466": {
+  "album": "Base Wars",
+  "track": 1,
+  "name": "Menu",
+  "length": "1:32",
+  "file": "01_Menu.mp3"
+ },
+ "467": {
+  "album": "Faria: A World of Mystery & Danger!",
+  "track": 1,
+  "name": "Title Screen, Name Entry, & Ending - Part 1",
+  "length": "1:26",
+  "file": "01_Title Screen, Name Entry, & Ending - Part 1.mp3"
+ },
+ "468": {
+  "album": "Laser Invasion",
+  "track": 1,
+  "name": "Mission Briefing",
+  "length": "0:41",
+  "file": "01 - Mission Briefing.mp3"
+ },
+ "469": {
+  "album": "Rainbow Islands: The Story of Bubble Bobble 2",
+  "track": 2,
+  "name": "Main Theme (US)",
+  "length": "1:34",
+  "file": "02. Main Theme (US).mp3"
+ },
+ "470": {
+  "album": "S.C.A.T.: Special Cybernetic Attack Team",
+  "track": 1,
+  "name": "Opening 1",
+  "length": "0:35",
+  "file": "01 Opening 1.mp3"
+ },
+ "471": {
+  "album": "Tombs & Treasure",
+  "track": 1,
+  "name": "Title Screen",
+  "length": "1:06",
+  "file": "01 - Title Screen.mp3"
+ },
+ "472": {
+  "album": "Uninvited",
+  "track": 1,
+  "name": "Title Theme",
+  "length": "1:40",
+  "file": "01. Title Theme.mp3"
+ },
+ "473": {
+  "album": "Videomation",
+  "track": 1,
+  "name": "Track 1",
+  "length": "3:00",
+  "file": "01.mp3"
+ },
+ "474": {
+  "album": "Frankenstein: The Monster Returns",
+  "track": 1,
+  "name": "Title Screen, Name Input, & Staff Roll",
+  "length": "1:37",
+  "file": "01_Title Screen, Name Input, & Staff Roll.mp3"
+ },
+ "475": {
+  "album": "High Speed",
+  "track": 1,
+  "name": "Track 1",
+  "length": "3:00",
+  "file": "01.mp3"
+ },
+ "476": {
+  "album": "KlashBall",
+  "track": 1,
+  "name": "Track 1",
+  "length": "1:56",
+  "file": "01.mp3"
+ },
+ "477": {
+  "album": "The Little Mermaid",
+  "track": 1,
+  "name": "Title",
+  "length": "3:09",
+  "file": "01 Title.mp3"
+ },
+ "478": {
+  "album": "Where's Waldo?",
+  "track": 1,
+  "name": "Title Screen, Menu",
+  "length": "3:00",
+  "file": "01. Title Screen, Menu.mp3"
+ },
+ "479": {
+  "album": "Bill & Ted's Excellent Adventure",
+  "track": 1,
+  "name": "Horse Ride",
+  "length": "3:00",
+  "file": "01 Horse Ride.mp3"
+ },
+ "480": {
+  "album": "The Lone Ranger",
+  "track": 1,
+  "name": "Opening [The William Tell Overture]",
+  "length": "1:14",
+  "file": "01. Opening [The William Tell Overture].mp3"
+ },
+ "481": {
+  "album": "Ninja Gaiden III: The Ancient Ship of Doom",
+  "track": 2,
+  "name": "On the Edge",
+  "length": "0:35",
+  "file": "02. On the Edge.mp3"
+ },
+ "482": {
+  "album": "Adventures of Lolo 3",
+  "track": 3,
+  "name": "Overworld",
+  "length": "1:17",
+  "file": "03 Overworld.mp3"
+ },
+ "483": {
+  "album": "Bases Loaded 3",
+  "track": 4,
+  "name": "Bases Loaded 3 4 Menu",
+  "length": "3:00",
+  "file": "04 Bases Loaded 3 4 Menu.mp3"
+ },
+ "484": {
+  "album": "Captain Planet and the Planeteers",
+  "track": 1,
+  "name": "Title Screen",
+  "length": "0:49",
+  "file": "01. Title Screen.mp3"
+ },
+ "485": {
+  "album": "Gun-Nac",
+  "track": 1,
+  "name": "Intro",
+  "length": "2:07",
+  "file": "01 Intro.mp3"
+ },
+ "486": {
+  "album": "Magic Darts",
+  "track": 1,
+  "name": "Game Theme 2 - 501 - Count Up - Half It",
+  "length": "3:00",
+  "file": "01. Game Theme 2 - 501 - Count Up - Half It.mp3"
+ },
+ "487": {
+  "album": "Monster Truck Rally",
+  "track": 2,
+  "name": "Track 2",
+  "length": "3:00",
+  "file": "02.mp3"
+ },
+ "488": {
+  "album": "NES Open Tournament Golf (US)",
+  "track": 1,
+  "name": "Title Screen",
+  "length": "3:00",
+  "file": "01. Title Screen.mp3"
+ },
+ "489": {
+  "album": "Rockin' Kats",
+  "track": 2,
+  "name": "Track 2",
+  "length": "3:00",
+  "file": "02.mp3"
+ },
+ "490": {
+  "album": "Romance of the Three Kingdoms II",
+  "track": 1,
+  "name": "Track 1",
+  "length": "3:00",
+  "file": "01.mp3"
+ },
+ "491": {
+  "album": "Smash T.V.",
+  "track": 1,
+  "name": "Track 01",
+  "length": "1:03",
+  "file": "01 Track 01.mp3"
+ },
+ "492": {
+  "album": "Super Jeopardy",
+  "track": 1,
+  "name": "Title Screen",
+  "length": "0:56",
+  "file": "01. Title Screen.mp3"
+ },
+ "493": {
+  "album": "American Gladiators",
+  "track": 4,
+  "name": "Menu - Game Over",
+  "length": "3:06",
+  "file": "04_Menu - Game Over.mp3"
+ },
+ "494": {
+  "album": "Bo Jackson Baseball",
+  "track": 1,
+  "name": "Track 1",
+  "length": "0:47",
+  "file": "01.mp3"
+ },
+ "495": {
+  "album": "Darkman (NTSC)",
+  "track": 2,
+  "name": "Title Screen",
+  "length": "3:23",
+  "file": "02 Title Screen.mp3"
+ },
+ "496": {
+  "album": "Home Alone",
+  "track": 1,
+  "name": "Title Screen",
+  "length": "1:02",
+  "file": "01. Title Screen.mp3"
+ },
+ "497": {
+  "album": "Pirates!",
+  "track": 3,
+  "name": "Track 3",
+  "length": "3:00",
+  "file": "03.mp3"
+ },
+ "498": {
+  "album": "Roger Clemens' MVP Baseball",
+  "track": 2,
+  "name": "Track 2",
+  "length": "3:00",
+  "file": "02.mp3"
+ },
+ "499": {
+  "album": "Trog!",
+  "track": 4,
+  "name": "Track 4",
+  "length": "3:00",
+  "file": "04.mp3"
+ },
+ "501": {
+  "album": "Wolverine",
+  "track": 1,
+  "name": "Title Screen, The End",
+  "length": "1:59",
+  "file": "01 Title Screen, The End.mp3"
+ },
+ "502": {
+  "album": "The Bard's Tale: Tales of the Unknown",
+  "track": 1,
+  "name": "Falkentyne's Fury",
+  "length": "0:54",
+  "file": "01 Falkentyne's Fury.mp3"
+ },
+ "503": {
+  "album": "Eliminator Boat Duel",
+  "track": 2,
+  "name": "Drydock",
+  "length": "1:24",
+  "file": "02. Drydock.mp3"
+ },
+ "504": {
+  "album": "L'Empereur",
+  "track": 1,
+  "name": "Track 1",
+  "length": "3:00",
+  "file": "01.mp3"
+ },
+ "505": {
+  "album": "Robin Hood: Prince of Thieves",
+  "track": 3,
+  "name": "Title Screen - Game Ending",
+  "length": "1:22",
+  "file": "03 - Title Screen - Game Ending.mp3"
+ },
+ "506": {
+  "album": "Snow Bros.: Nick & Tom",
+  "track": 1,
+  "name": "Main Title",
+  "length": "3:00",
+  "file": "01. Main Title.mp3"
+ },
+ "507": {
+  "album": "Space Shuttle Project",
+  "track": 1,
+  "name": "Title Theme",
+  "length": "3:00",
+  "file": "01. Title Theme.mp3"
+ },
+ "508": {
+  "album": "Star Wars (Beam Software)",
+  "track": 1,
+  "name": "Title Theme",
+  "length": "1:16",
+  "file": "01 Title Theme.mp3"
+ },
+ "509": {
+  "album": "Uncharted Waters",
+  "track": 1,
+  "name": "Track 1",
+  "length": "3:00",
+  "file": "01.mp3"
+ },
+ "510": {
+  "album": "Vice: Project Doom",
+  "track": 1,
+  "name": "Prologue & Cutscene Theme 2",
+  "length": "3:00",
+  "file": "01. Prologue & Cutscene Theme 2.mp3"
+ },
+ "511": {
+  "album": "Wurm: Journey to the Center of the Earth",
+  "track": 1,
+  "name": "Title Screen & Cutscene Theme 2",
+  "length": "1:02",
+  "file": "01_Title Screen & Cutscene Theme 2.mp3"
+ },
+ "512": {
+  "album": "Barbie",
+  "track": 1,
+  "name": "Intro Credits, Storyline, Level Complete",
+  "length": "3:00",
+  "file": "01. Intro Credits, Storyline, Level Complete.mp3"
+ },
+ "513": {
+  "album": "Batman: Return of the Joker",
+  "track": 2,
+  "name": "Demo BGM",
+  "length": "1:03",
+  "file": "02 Demo BGM.mp3"
+ },
+ "514": {
+  "album": "Captain America and The Avengers",
+  "track": 3,
+  "name": "Map of America",
+  "length": "0:46",
+  "file": "03 - Map of America.mp3"
+ },
+ "515": {
+  "album": "The Flintstones: The Rescue of Dino & Hoppy",
+  "track": 1,
+  "name": "Title Screen",
+  "length": "1:19",
+  "file": "01 Title Screen.mp3"
+ },
+ "516": {
+  "album": "Golf Grand Slam",
+  "track": 1,
+  "name": "Track 1",
+  "length": "3:00",
+  "file": "01.mp3"
+ },
+ "517": {
+  "album": "Shatterhand",
+  "track": 3,
+  "name": "Area A",
+  "length": "2:32",
+  "file": "03. Area A.mp3"
+ },
+ "518": {
+  "album": "The Simpsons: Bart vs. the World",
+  "track": 1,
+  "name": "The Simpsons Theme",
+  "length": "3:00",
+  "file": "01. The Simpsons Theme.mp3"
+ },
+ "519": {
+  "album": "TaleSpin",
+  "track": 1,
+  "name": "Title",
+  "length": "1:00",
+  "file": "01 Title.mp3"
+ },
+ "520": {
+  "album": "Tecmo Super Bowl",
+  "track": 2,
+  "name": "Opening - Part 2",
+  "length": "0:59",
+  "file": "02_Opening - Part 2.mp3"
+ },
+ "521": {
+  "album": "Tiny Toon Adventures",
+  "track": 1,
+  "name": "Opening (Theme Song)",
+  "length": "0:32",
+  "file": "01 Opening (Theme Song).mp3"
+ },
+ "522": {
+  "album": "Toki",
+  "track": 1,
+  "name": "Title Screen & Level Intro",
+  "length": "1:01",
+  "file": "01_Title Screen & Level Intro.mp3"
+ },
+ "523": {
+  "album": "Tom & Jerry: The Ultimate Game of Cat and Mouse!",
+  "track": 2,
+  "name": "Opening - Stage Theme 2",
+  "length": "3:17",
+  "file": "02 Opening - Stage Theme 2.mp3"
+ },
+ "524": {
+  "album": "Treasure Master",
+  "track": 1,
+  "name": "Title",
+  "length": "2:56",
+  "file": "01 Title.mp3"
+ }
+}
