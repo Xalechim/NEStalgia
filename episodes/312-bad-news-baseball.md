@@ -24,22 +24,10 @@
 - The game also features the ability to play as girls. In girls mode, the teams remain the same, but the rosters are completely different, effectively creating 12 new teams. This feat is achieved by holding Down and Left on Controller 1 and holding Up on controller 2 (while still holding Down+Left) and hitting the RESET button on the NES.
 - EGL
 - NEXT WEEK - Boulder Dash. Sounds like nonsense to me
-- - Pitcher:     	Always controllable when the ball is hit in fair ter-
-- ritory.  Can also be controlled when the ball is bunted
-- in foul ground, but it's meaningless as (s)he can't do
-- anything useful.
-- - Catcher:     	Can be controlled if the ball is hit foul, but not bunted;
-- your pitcher will cover home plate.  It IS possible to
-- catch a foul pop fly, but you'll have much better chances
-- of being struck by two consecutive bolts of lightning.
-- - First baseman:   Ball is hit somewhere near the rightfield foul line.  Your
-- second baseman will cover at first.
-- - Second baseman:  Ball is fair and hit to the right side of second, where
-- the shortstop will cover.
-- - Shortstop:   	Can be controlled when the ball is hit softly back to the
-- pitcher.  Can also run after the ball when it's been hit
-- hit to the left side of second.
-- - Third baseman:   Ball is hit somewhere near the leftfield foul line.  Your
-- shortstop will cover at third.
-- - Outfielders: 	These players will always be able to chase the ball,
-- even if the ball doesn't travel past the infield.
+- Pitcher: Always controllable when the ball is hit in fair territory.  Can also be controlled when the ball is bunted in foul ground, but it's meaningless as (s)he can't do anything useful.
+- Catcher: Can be controlled if the ball is hit foul, but not bunted; your pitcher will cover home plate.  It IS possible to catch a foul pop fly, but you'll have much better chances of being struck by two consecutive bolts of lightning.
+- First baseman: Ball is hit somewhere near the rightfield foul line.  Your second baseman will cover at first.
+- Second baseman: Ball is fair and hit to the right side of second, where the shortstop will cover.
+- Shortstop: Can be controlled when the ball is hit softly back to the pitcher.  Can also run after the ball when it's been hit hit to the left side of second.
+- Third baseman: Ball is hit somewhere near the leftfield foul line.  Your shortstop will cover at third.
+- Outfielders: These players will always be able to chase the ball, even if the ball doesn't travel past the infield.

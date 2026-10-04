@@ -78,7 +78,7 @@ def linkify(text):
 def render_notes(path):
     """Markdown notes -> HTML. Files nest bullets with 2 or 4 spaces (or tabs); Python-Markdown
     wants 4, and anything indented further is turned into an unwrappable code block."""
-    text = (REPO / path).read_text().replace("\t", "    ")
+    text = (REPO / path).read_text().replace("\t", "    ").replace("\u00a0", " ")
     lines = text.split("\n")
     if lines and lines[0].startswith("# "):
         lines = lines[1:]
@@ -90,16 +90,23 @@ def render_notes(path):
         if m:
             level = min(round(len(m.group(1)) / unit), prev + 1)  # can't nest deeper than one below the last bullet
             prev, in_list = level, True
-            item = re.sub(r"^[-*+] (\d+)\. ", r"- NUM\1:: ", m.group(2))  # "- 1. Heading": numbered already, flag it
+            item = re.sub(r"^([-*+]) (?:[-*+\u2022\u25e6\u25aa\u2023] )+", r"\1 ", m.group(2))  # "- - text" / "- • text": one bullet is enough
+            item = re.sub(r"^([-*+]) #(?=[^\s#])", r"\1 \\#", item)  # "#1: ..." is a number, not a heading
+            item = re.sub(r"^[-*+] (\d+)\. ", r"- NUM\1:: ", item)  # "- 1. Heading": numbered already, flag it
             ln = " " * (4 * level) + item
         elif in_list and ln.strip() and ln.startswith(" "):
-            if out and out[-1].strip() and not out[-1].endswith("  "):
-                out[-1] += "  "  # a line break inside an item is deliberate (heading, then its description)
+            # Heading-then-description pairs keep their line break; text that was hard-wrapped mid-sentence ("... ter-" / "ritory")
+            # is joined back together.
+            cont = ln.strip()
+            soft = out and (out[-1].rstrip().endswith(("-", ",", ";")) or cont[:1].islower())
+            if out and out[-1].strip() and not soft and not out[-1].endswith("  "):
+                out[-1] += "  "
             ln = ln.lstrip()  # continuation line of the item above, not a code block
         elif not ln.strip():
             pass
         else:
             in_list, prev = False, -1
+            ln = re.sub(r"^(\s*)#(?=[^\s#])", r"\1\\#", ln)
         out.append(re.sub(r"(?<![(<\"])(https?://[^\s)>]+)", r"<\1>", ln))
     html_out = markdown.markdown("\n".join(out), extensions=["tables"])
     # "- 1. Heading": the notes already number these, so show the number and drop the bullet; bold the heading line.
@@ -314,6 +321,14 @@ def asset(name):
     import hashlib
     h = hashlib.sha1(b"".join((SRC / f).read_bytes() for f in ASSET_FILES if (SRC / f).exists())).hexdigest()[:8]
     return f"{BASE}/{name}?v={h}"
+
+
+def cover_alt(r):
+    """Alt text for an episode's cover art: what it is, for which game, which episode (helps screen readers and image search)."""
+    game = r["title"].title() if r["title"].isupper() else r["title"]
+    if r["type"] == "episode" and r["number"] is not None:
+        return f"NES box art for {game}, the cover of NEStalgia episode {r['number']}"
+    return f"Cover art for the NEStalgia episode {game}"
 
 
 def analytics_tag():
@@ -743,7 +758,7 @@ def main():
         off = OFFSETS.get(str(r["number"])) if r["type"] == "episode" and r["number"] is not None else None
         ep_attrs = f' data-ep="{r["key"]}" data-offsets=\'{json.dumps(off)}\'' if off else f' data-ep="{r["key"]}"'
         body = f"""<p class="crumbs"><a href="{BASE}/episodes/">← All episodes</a></p>
-<div class="ep"{ep_attrs}><div class="art"><img src="{BASE}/art/{r['key']}.jpg" alt="Cover art for {E(r['title'])}" width="1000" height="1000"></div>
+<div class="ep"{ep_attrs}><div class="art"><img src="{BASE}/art/{r['key']}.jpg" alt="{E(cover_alt(r))}" width="1000" height="1000"></div>
 <div data-pagefind-body><h1 data-pagefind-meta="title">{label}{E(r['title'])}</h1>
 {game_tags(r)}<div class="meta">{fmt_date(r['published'])} · {fmt_dur(r['duration_seconds'])}{' · transcript available' if r['transcript'] else ''}</div>
 <audio id="player" controls preload="none" src="{r['audio_url']}"></audio>
@@ -779,7 +794,7 @@ def main():
     # Home
     buttons = "".join(f'<a class="btn{" alt" if i > 1 else ""}" href="{u}" rel="noopener">{n}</a>' for i, (n, u) in enumerate(LINKS))
     latest = "".join(card(r) for r in newest_first[:12])
-    body = f"""<div class="hero"><img src="{BASE}/logo.png" alt="NEStalgia">
+    body = f"""<div class="hero"><h1 class="sr">NEStalgia: A chronological exploration of every NES game</h1><img src="{BASE}/logo.png" alt="">
 <p class="tag">A chronological exploration of <b>every</b> NES game released in North America. Join us and play along.</p>
 <div class="btns">{buttons}</div></div>
 {up_next_html()}
@@ -790,7 +805,7 @@ def main():
 <p style="margin-top:20px"><a class="btn" href="{BASE}/episodes/">Browse all episodes</a>
 <a class="btn alt" href="{SHEET_URL}" rel="noopener">Spreadsheet</a></p>
 {patrons_html()}"""
-    write("index.html", page("NEStalgia: A chronological exploration of every NES game", body, "/", desc="Join us as we play every NES game released in North America, in release order, with show notes, transcripts and a verdict on every game.", search=True, current="home", jsonld=[series_jsonld()]))
+    write("index.html", page("NEStalgia: A chronological exploration of every NES game", body, "/", desc="A chronological exploration of every NES game.", search=True, current="home", jsonld=[series_jsonld()]))
 
     # Search page
     body = f"""<h1>Search</h1><p class="lede">Search every episode's description, show notes and transcript.</p><div id="search"></div>

@@ -376,7 +376,7 @@ i.e { background: #f2c230; } i.p { background: #2a6fdb; } i.s { background: #6f6
 :root[data-theme="dark"] {
   color-scheme: dark;
   --bg: #17171c; --card: #1f1f26; --paper: #26262f; --ink: #ececf1; --gray: #a9a9b6;
-  --line: #5d5d6c; --shadow: #000000; --dark: #2c2c37; --rule: #3a3a47; --hl: #3b361f; --link: #ff8f84;
+  --line: #70708a; --shadow: #000000; --dark: #2c2c37; --rule: #3a3a47; --hl: #3b361f; --link: #ff8f84;
   --pagefind-ui-primary: #ff8f84;
 }
 :root[data-theme="dark"] .card img { background: #101014; }
@@ -392,3 +392,10 @@ i.e { background: #f2c230; } i.p { background: #2a6fdb; } i.s { background: #6f6
 #theme:hover { border-color: #ff8a80; color: #ff8a80; }
 #theme::before { content: "\263E  Dark"; }
 :root[data-theme="dark"] #theme::before { content: "\2600  Light"; }
+
+/* Accessibility: a clear keyboard focus ring, reduced motion, text for screen readers only, outlines on the light-yellow chart parts */
+:focus-visible { outline: 3px solid #f2c230; outline-offset: 2px; }
+header.site :focus-visible { outline-color: #fff; }
+.sr { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.sbar i.e, .slegend i.e, .cb i.e { box-shadow: inset 0 0 0 2px rgba(26, 26, 26, .6); }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
