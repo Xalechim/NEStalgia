@@ -8,6 +8,11 @@ on:
     workflows: ["Deploy website"]
     types: [completed]
   workflow_dispatch:
+    inputs:
+      episode:
+        description: "Test: post this episode number again (leave empty to post only new episodes)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -33,7 +38,13 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           PYTHONDONTWRITEBYTECODE: "1"
-        run: python scripts/discord_post.py
+          TEST_EPISODE: ${{ github.event.inputs.episode }}
+        run: |
+          if [ -n "$TEST_EPISODE" ]; then
+            python scripts/discord_post.py --only "$TEST_EPISODE" --force
+          else
+            python scripts/discord_post.py
+          fi
 
       - name: Remember what was announced
         run: |
