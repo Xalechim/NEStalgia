@@ -157,22 +157,22 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 149 | Rampage | [notes](149-rampage.md), [transcript](../transcripts/149-rampage.md) |
 | 150 | Robowarrior | [notes](150-robowarrior.md), [transcript](../transcripts/150-robowarrior.md) |
 | 151 | Skate or Die | [notes](151-skate-or-die.md), [transcript](../transcripts/151-skate-or-die.md) |
-| 152 | Superman | [notes](152-superman.md) |
-| 153 | Xenophobe | [notes](153-xenophobe.md) |
-| 154 | Zelda II: The Adventure of Link | [notes](154-zelda-ii-the-adventure-of-link.md) |
-| 155 | Bomberman | [notes](155-bomberman.md) |
-| 156 | Sesame Street 123 | [notes](156-sesame-street-123.md) |
-| 157 | Star Soldier | [notes](157-star-soldier.md) |
-| 158 | Tecmo Baseball | [notes](158-tecmo-baseball.md) |
-| 159 | WWF Wrestlemania | [notes](159-wwf-wrestlemania.md) |
-| 160 | Bandai Golf: Challenge Pebble Beach | [notes](160-bandai-golf-challenge-pebble-beach.md) |
-| 161 | Friday the 13th | [notes](161-friday-the-13th.md) |
-| 162 | Gyruss | [notes](162-gyruss.md) |
-| 163 | Q*Bert | [notes](163-q-bert.md) |
-| 164 | Tecmo Bowl | [notes](164-tecmo-bowl.md) |
-| 165 | Ultima Exodus | [notes](165-ultima-exodus.md) |
-| 166 | Dance Aerobics | [notes](166-dance-aerobics.md) |
-| 167 | John Elway's Quarterback | [notes](167-john-elways-quarterback.md) |
+| 152 | Superman | [notes](152-superman.md), [transcript](../transcripts/152-superman.md) |
+| 153 | Xenophobe | [notes](153-xenophobe.md), [transcript](../transcripts/153-xenophobe.md) |
+| 154 | Zelda II: The Adventure of Link | [notes](154-zelda-ii-the-adventure-of-link.md), [transcript](../transcripts/154-zelda-ii-the-adventure-of-link.md) |
+| 155 | Bomberman | [notes](155-bomberman.md), [transcript](../transcripts/155-bomberman.md) |
+| 156 | Sesame Street 123 | [notes](156-sesame-street-123.md), [transcript](../transcripts/156-sesame-street-123.md) |
+| 157 | Star Soldier | [notes](157-star-soldier.md), [transcript](../transcripts/157-star-soldier.md) |
+| 158 | Tecmo Baseball | [notes](158-tecmo-baseball.md), [transcript](../transcripts/158-tecmo-baseball.md) |
+| 159 | WWF Wrestlemania | [notes](159-wwf-wrestlemania.md), [transcript](../transcripts/159-wwf-wrestlemania.md) |
+| 160 | Bandai Golf: Challenge Pebble Beach | [notes](160-bandai-golf-challenge-pebble-beach.md), [transcript](../transcripts/160-bandai-golf-challenge-pebble-beach.md) |
+| 161 | Friday the 13th | [notes](161-friday-the-13th.md), [transcript](../transcripts/161-friday-the-13th.md) |
+| 162 | Gyruss | [notes](162-gyruss.md), [transcript](../transcripts/162-gyruss.md) |
+| 163 | Q*Bert | [notes](163-q-bert.md), [transcript](../transcripts/163-q-bert.md) |
+| 164 | Tecmo Bowl | [notes](164-tecmo-bowl.md), [transcript](../transcripts/164-tecmo-bowl.md) |
+| 165 | Ultima Exodus | [notes](165-ultima-exodus.md), [transcript](../transcripts/165-ultima-exodus.md) |
+| 166 | Dance Aerobics | [notes](166-dance-aerobics.md), [transcript](../transcripts/166-dance-aerobics.md) |
+| 167 | John Elway's Quarterback | [notes](167-john-elways-quarterback.md), [transcript](../transcripts/167-john-elways-quarterback.md) |
 | 168 | Kung-Fu Heroes | [notes](168-kung-fu-heroes.md) |
 | 169 | Marble Madness | [notes](169-marble-madness.md) |
 | 170 | Ninja Gaiden | [notes](170-ninja-gaiden.md) |
