@@ -848,7 +848,7 @@ def main():
 
     # Home
     buttons = "".join(f'<a class="btn{" alt" if i > 1 else ""}" href="{u}" rel="noopener">{n}</a>' for i, (n, u) in enumerate(LINKS))
-    latest = "".join(card(r) for r in [x for x in newest_first if x["type"] != "bytes"][:12])
+    latest = "".join(card(r) for r in newest_first[:12])  # Bytes are mixed in by release date
     body = f"""<div class="hero"><h1 class="sr">NEStalgia: A chronological exploration of every NES game</h1><img src="{BASE}/logo.png" alt="">
 <p class="tag">A chronological exploration of <b>every</b> NES game released in North America. Join us and play along.</p>
 <div class="btns">{buttons}</div></div>
