@@ -826,9 +826,7 @@
     "audio_url": "https://traffic.megaphone.fm/APO6018401229.mp3",
     "episode_page": "https://podcasters.spotify.com/pod/show/nestalgia/episodes/Nestalgia-Bytes-022---Sweet-Home-e3a8pnt",
     "art": "assets/episode-art/nb-022-sweet-home.jpg",
-    "notes": [
-      "episodes/bytes/nb-022-sweet-home.md"
-    ],
+    "notes": [],
     "transcript": null,
     "guid": "29628f9e-dda4-4680-a236-acb70074a6ed"
   },
@@ -2840,7 +2838,7 @@
     "notes": [
       "episodes/286-heavy-barrel.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "da4e4f3b-ca00-4ae2-9493-c078f50b9ca9"
   },
   {
@@ -2855,7 +2853,7 @@
     "episode_page": "https://podcasters.spotify.com/pod/show/nestalgia/episodes/285---Fisher-Price-Perfect-Fit-e27r76d",
     "art": "assets/episode-art/285-fisher-price-perfect-fit.jpg",
     "notes": [],
-    "transcript": null,
+    "transcript": "t",
     "guid": "081339cb-dd2e-4abb-ae65-bd0ea539fd5a"
   },
   {
@@ -2870,7 +2868,7 @@
     "episode_page": "https://podcasters.spotify.com/pod/show/nestalgia/episodes/284---Fisher-Price-I-Can-Remember-e27nkmp",
     "art": "assets/episode-art/284-fisher-price-i-can-remember.jpg",
     "notes": [],
-    "transcript": null,
+    "transcript": "t",
     "guid": "f0e7de54-1ea8-43c0-bb8c-45fd15c8030a"
   },
   {
@@ -2887,7 +2885,7 @@
     "notes": [
       "episodes/283-conflict.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "0d1ffc00-61f7-4781-a8ea-ed2aca492966"
   },
   {
@@ -2904,7 +2902,7 @@
     "notes": [
       "episodes/282-code-name-viper.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "9a491a74-ee65-4562-b965-eb946dc94881"
   },
   {
@@ -2921,7 +2919,7 @@
     "notes": [
       "episodes/281-burai-fighter.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "004c4200-ebfd-46fa-ab29-3eb24e5ff0b9"
   },
   {
@@ -2938,7 +2936,7 @@
     "notes": [
       "episodes/280-baseball-simulator-1-000.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "f145660f-5fe8-4b12-912d-a4dab5111373"
   },
   {
@@ -2955,7 +2953,7 @@
     "notes": [
       "episodes/279-astyanax.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "b4dac247-4150-4dcb-bbe3-bef81996ccde"
   },
   {
@@ -2972,7 +2970,7 @@
     "notes": [
       "episodes/278-al-unser-jrs-turbo-racing.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "1ac2714e-80bb-4723-acb8-5a3d77287b9f"
   },
   {
@@ -2989,7 +2987,7 @@
     "notes": [
       "episodes/277-the-adventures-of-lolo-2.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "b48e7783-b910-4e95-9519-2dcf5b0ece72"
   },
   {
@@ -3006,7 +3004,7 @@
     "notes": [
       "episodes/276-abadox.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "03ec9956-25cb-4913-bdd3-14b3a6c7f459"
   },
   {
@@ -3023,7 +3021,7 @@
     "notes": [
       "episodes/275-super-mario-bros-3.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "1bfe628a-b7ac-4bfe-837d-89899379c921"
   },
   {
@@ -3040,7 +3038,7 @@
     "notes": [
       "episodes/274-super-spike-vball.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "502a677d-0eb1-4510-bc95-8af286622f1e"
   },
   {
@@ -3057,7 +3055,7 @@
     "notes": [
       "episodes/273-rollerball.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "414b8a34-96ce-4f4b-bd74-0de2ed6ccee2"
   },
   {
@@ -3074,7 +3072,7 @@
     "notes": [
       "episodes/272-destination-earthstar.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "2eadd5a6-d6a8-4cf2-985b-72301d29610e"
   },
   {
@@ -3091,7 +3089,7 @@
     "notes": [
       "episodes/271-dash-galaxy-in-the-alien-asylum.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "852b793a-ffeb-40e4-ac77-50e0d6b8b25b"
   },
   {
@@ -3108,7 +3106,7 @@
     "notes": [
       "episodes/270-batman-the-video-game.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "dc768f5b-053b-4981-8a2b-af3de5bff733"
   },
   {
@@ -3125,7 +3123,7 @@
     "notes": [
       "episodes/268-top-players-tennis.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "42449a26-e9b5-4433-8946-5a6fdfdfe054"
   },
   {
@@ -3159,7 +3157,7 @@
     "notes": [
       "episodes/269-twin-cobra.md"
     ],
-    "transcript": null,
+    "transcript": "t",
     "guid": "2f03b957-fbca-47e4-9c93-c9c9ee8c9c62"
   },
   {

@@ -288,6 +288,8 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 281 | Burai Fighter | [notes](281-burai-fighter.md), [transcript](../transcripts/281-burai-fighter.md) |
 | 282 | Code Name: Viper | [notes](282-code-name-viper.md), [transcript](../transcripts/282-code-name-viper.md) |
 | 283 | Conflict | [notes](283-conflict.md), [transcript](../transcripts/283-conflict.md) |
+| 284 | Fisher Price I Can Remember | [transcript](../transcripts/284-fisher-price-i-can-remember.md) |
+| 285 | Fisher Price Perfect Fit | [transcript](../transcripts/285-fisher-price-perfect-fit.md) |
 | 286 | Heavy Barrel | [notes](286-heavy-barrel.md), [transcript](../transcripts/286-heavy-barrel.md) |
 | 287 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | [notes](287-jack-nicklaus-greatest-18-holes-of-major-championship-golf.md), [transcript](../transcripts/287-jack-nichols.md) |
 | 288 | Kid Kool | [notes](288-kid-kool.md), [transcript](../transcripts/288-kid-kool.md) |
@@ -457,6 +459,9 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 452 | Totally Rad *(unreleased)* | [notes](452-totally-rad.md) |
 | 453 | Whomp 'Em *(unreleased)* | [notes](453-whomp-em.md) |
 | 454 | Kiwi Kraze: A Bird-Brained Adventure *(unreleased)* | [notes](454-kiwi-kraze-a-bird-brained-adventure.md) |
+| 455 | Nobunaga's Ambition II *(unreleased)* | [notes](455-nobunagas-ambition-ii.md) |
+| 456 | RoboCop 2 *(unreleased)* | [notes](456-robocop-2.md) |
+| 457 | World Champ *(unreleased)* | [notes](457-world-champ.md) |
 
 ## Specials
 
