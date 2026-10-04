@@ -71,9 +71,8 @@ def local_files(kind, num, name, title):
     if kind == "episode" and num is not None:
         notes = repo_files(f"episodes/{num:03d}-*.md")
         tx = repo_files(f"transcripts/{num:03d}-*.md")
-    elif kind == "bytes" and num is not None:
-        notes = repo_files(f"episodes/bytes/nb-{num:03d}-*.md")
-        tx = repo_files(f"transcripts/nb-{num:03d}-*.md")
+    elif kind == "bytes":
+        notes, tx = [], []  # NEStalgia Bytes are Patreon-only: no notes or transcripts are published
     elif kind == "special" and num is not None:
         notes = repo_files(f"episodes/specials/s{num:03d}-*.md")
         tx = repo_files(f"transcripts/s{num:03d}-*.md")

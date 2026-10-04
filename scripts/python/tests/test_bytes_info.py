@@ -12,8 +12,8 @@ Byte,,1,Nuts and Milk,,,,,,1/22/2022,,,https://www.patreon.com/posts/1
 Byte,,2,Devil World,,,,,,,,,
 Byte,,,Fire Emblem: Shadow Dragon,,,,,,,,,
 Byte,,22,Sweet Home,,,,,,10/30/2023,,,
-Byte,,300,Pin*Bot,,,,,,11/24/2023,,,
-Byte,,23,Honoo no Toukyuuji: Dodge Danpei,,,,,,,,,
+6,50,300,Pin*Bot,April 1990,Rare,,Nintendo,Arcade,11/24/2023,Skip it,,
+,,23,Honoo no Toukyuuji: Dodge Danpei,,,,,,11/30/2023,,,
 Byte,,56,Future One,,,,,,10/31/2026,,,
 7,1,421,Not A Byte,January 1991,Natsume,,FCI,RPG,3/27/2026,Skip it,,
 '''
@@ -24,7 +24,8 @@ assert d["2"]["published"] == ""                                       # no date
 assert d["3"]["title"].startswith("Fire Emblem")                       # no number: sits right after the one before it
 assert "300" not in d and "56" not in d and "421" not in d             # typo number, future episode, a regular episode: all left out
 assert d["21"]["title"] == "Glory of Heracles II"                      # in the notes files but not the sheet: filled in
-assert d["23"]["title"] == "Honoo no Toukyuuji: Dodge Danpei"
+assert d["23"] == {"title": "Honoo no Toukyuuji: Dodge Danpei", "published": "2023-11-30", "patreon_url": ""}   # Season left blank, but clearly a Byte
+assert "300" not in d
 assert B.cover_name(22, "Sweet Home") == "nb-022-sweet-home"
 assert B.cover_name(37, "Summer Carnival '92: RECCA") == "nb-037-summer-carnival-92-recca"
 assert len(B.cover_name(18, "Downtown Special: It's Kunio-kun's Period Drama, Gather Everyone!")) <= 70

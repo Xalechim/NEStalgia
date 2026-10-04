@@ -2,8 +2,8 @@
 """The list of NEStalgia Bytes episodes (the Patreon-only Famicom show), read from the episode spreadsheet.
 
 Saved to data/bytes-info.json as {number: {"title", "published" (YYYY-MM-DD or ""), "patreon_url" ("" if unknown)}}.
-Rows come from the spreadsheet's "Byte" season. Gaps are filled from the repo's Bytes show-notes file names
-(episodes/bytes/nb-NNN-*.md) when the sheet row has no usable number. Episodes dated in the future are left out.
+Rows come from the spreadsheet's "Byte" season. A row with no number sits right after the one before it, and a typo'd number is
+skipped. Episodes dated in the future are left out. (Bytes show notes are Patreon content and are not kept in this repo.)
 
 To link a Bytes episode straight to its Patreon post, add a column whose header contains the word "Patreon" to the spreadsheet
 and paste the post's address into the Byte rows.
@@ -14,6 +14,7 @@ import io
 import json
 import re
 import sys
+import unicodedata
 from datetime import date, datetime
 from pathlib import Path
 
@@ -25,6 +26,7 @@ MAX_NUMBER = 200  # a row numbered 300 is a typo, not episode 300
 
 
 def slug(s):
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()  # "Getsu Fūma Den" -> "Getsu Fuma Den"
     return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s.lower().replace("'", "").replace("’", ""))).strip("-")
 
 
@@ -49,9 +51,10 @@ def parse_date(s):
 
 
 def notes_titles(folder=None):
-    """{number: title} from the Bytes show-notes files (first line '# NB 021 - Title', else the file name)."""
+    """{number: title} from Bytes show-notes files, if a folder of them is given (none are kept in the repo any more)."""
+    folder = folder or REPO / "episodes/bytes"
     out = {}
-    for p in sorted((folder or REPO / "episodes/bytes").glob("nb-*.md")):
+    for p in sorted(folder.glob("nb-*.md")) if folder.exists() else []:
         m = re.match(r"nb-(\d+)-", p.name)
         if not m:
             continue
@@ -76,7 +79,10 @@ def parse(text, notes=None, today=None):
     out, last = {}, None
     for r in rows[1:]:
         try:
-            if r[col["season"]].strip().lower() != "byte":
+            season = r[col["season"]].strip().lower()
+            is_byte = season == "byte" or (
+                not season and r[col["ep #"]].strip().isdigit() and not any(c.strip() for c in r[4:9] + r[10:11]))  # Season left blank, no game info
+            if not is_byte:
                 continue
             title = clean_title(r[col["episode"]])
             raw = r[col["ep #"]].strip()

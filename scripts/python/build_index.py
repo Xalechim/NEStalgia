@@ -27,7 +27,7 @@ def main():
         kind = "outline" if f.name.endswith("-outline.md") else "early notes" if f.name.endswith("-early-notes.md") else "notes"
         rows.append((num, title, f.name, kind))
     sections = {k: [(header(f), f.relative_to(EP).as_posix()) for f in sorted(EP.glob(g))]
-                for k, g in (("sp", "specials/*.md"), ("by", "bytes/*.md"), ("sn", "snes/*.md"))}
+                for k, g in (("sp", "specials/*.md"), ("sn", "snes/*.md"))}
 
     # One table row per episode number; extra files for the same number join the same row.
     table, order = {}, []
@@ -55,7 +55,6 @@ def main():
            "episodes not yet in the feed are marked *(unreleased)*.\n\n## Main episodes\n\n| # | Game | Notes |\n| --- | --- | --- |\n"
            + "\n".join(lines)
            + "\n\n## Specials\n\n" + "\n".join(f"- [{t}]({f})" for t, f in sections["sp"])
-           + "\n\n## Nestalgia Bytes (Famicom / Japan-only)\n\n" + "\n".join(f"- [{t}]({f})" for t, f in sections["by"])
            + "\n\n## SNEStalgia\n\n" + "\n".join(f"- [{t}]({f})" for t, f in sections["sn"]) + "\n")
     (EP / "README.md").write_text(out)
     print(f"index: {len(order)} episodes, {len(transcripts)} transcripts linked")
