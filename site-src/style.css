@@ -295,3 +295,7 @@ body.has-mini { padding-bottom: 66px; }
 .continue b { display: block; font-family: var(--mono); text-transform: uppercase; letter-spacing: .08em; color: var(--red-dark); margin-bottom: 8px; }
 .continue p { font-size: 14px; color: var(--gray); margin: 0 0 12px; overflow-wrap: anywhere; }
 @media (max-width: 520px) { .ginfo-b { grid-template-columns: 1fr 1fr; } .gcell { padding: 8px 10px 10px; } }
+
+/* Notes items that are already numbered ("1. The industry-first hook"): no bullet, number leads */
+.panel li.num { list-style: none; margin-left: -1.2em; margin-top: .8em; }
+.panel li.num .n { font-family: var(--mono); color: var(--red-dark); margin-right: .2em; }

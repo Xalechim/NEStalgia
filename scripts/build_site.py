@@ -85,15 +85,24 @@ def render_notes(path):
         if m:
             level = min(round(len(m.group(1)) / unit), prev + 1)  # can't nest deeper than one below the last bullet
             prev, in_list = level, True
-            ln = " " * (4 * level) + m.group(2)
+            item = re.sub(r"^[-*+] (\d+)\. ", r"- NUM\1:: ", m.group(2))  # "- 1. Heading": numbered already, flag it
+            ln = " " * (4 * level) + item
         elif in_list and ln.strip() and ln.startswith(" "):
-            ln = ln.lstrip()  # wrapped continuation line of the item above, not a code block
+            if out and out[-1].strip() and not out[-1].endswith("  "):
+                out[-1] += "  "  # a line break inside an item is deliberate (heading, then its description)
+            ln = ln.lstrip()  # continuation line of the item above, not a code block
         elif not ln.strip():
             pass
         else:
             in_list, prev = False, -1
         out.append(re.sub(r"(?<![(<\"])(https?://[^\s)>]+)", r"<\1>", ln))
-    return markdown.markdown("\n".join(out), extensions=["tables"])
+    html_out = markdown.markdown("\n".join(out), extensions=["tables"])
+    # "- 1. Heading": the notes already number these, so show the number and drop the bullet; bold the heading line.
+    def numbered(m):
+        body = m.group(2)
+        head, br, rest = body.partition("<br />")
+        return f'<li class="num"><b class="n">{m.group(1)}.</b> ' + (f"<strong>{head.strip()}</strong>{br}{rest}" if br else body)
+    return re.sub(r"<li>NUM(\d+):: (.*?)(?=</li>|<ul>)", numbered, html_out, flags=re.S)
 
 
 def ts_seconds(ts):
