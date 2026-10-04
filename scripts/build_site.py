@@ -23,6 +23,7 @@ from PIL import Image
 sys.path.insert(0, str(Path(__file__).parent))
 from build_episode_data import local_files  # noqa: E402
 from wikipedia_intros import boilerplate_only  # noqa: E402
+import share_cards  # noqa: E402
 import show_stats  # noqa: E402
 import site_extras  # noqa: E402
 
@@ -373,9 +374,14 @@ def breadcrumbs(*trail):
 def page(title, body, path, desc="", image=None, search=False, current="", jsonld=None, og_type="website", card=None, published=None, image_dims=None):
     """`path` is this page's address on the site (like /about/); it becomes the canonical link. Leave it empty for no canonical."""
     desc = desc or "A chronological exploration of every NES game released in North America."
-    img = f'<meta property="og:image" content="{SITE_URL}{image}">' if image else f'<meta property="og:image" content="{SITE_URL}/icon.png">'
+    if not image:  # every page gets the NEStalgia card unless it has its own picture
+        image, image_dims = "/art/share/default.jpg", (1200, 630)
+        title_alt = "NEStalgia: A chronological exploration of every NES game"
+    else:
+        title_alt = title
+    img = f'<meta property="og:image" content="{SITE_URL}{image}">'
     if image:
-        img += f'<meta property="og:image:alt" content="{E(title)}">'
+        img += f'<meta property="og:image:alt" content="{E(title_alt)}">'
         if image_dims:
             img += f'<meta property="og:image:width" content="{image_dims[0]}"><meta property="og:image:height" content="{image_dims[1]}">'
     img += f'<meta property="og:site_name" content="NEStalgia">'
@@ -383,12 +389,12 @@ def page(title, body, path, desc="", image=None, search=False, current="", jsonl
         img += f'<meta property="og:url" content="{SITE_URL}{path}">'
     if published:
         img += f'<meta property="article:published_time" content="{published}">'
-    card = card or ("summary_large_image" if image else "summary")
+    card = card or "summary_large_image"
     pf = (f'<link href="{BASE}/pagefind/pagefind-ui.css" rel="stylesheet">'
           f'<script src="{BASE}/pagefind/pagefind-ui.js"></script>') if search else ""
     nav = "".join(
         f'<a href="{BASE}{href}"{" aria-current=page" if current == key else ""}>{label}</a>'
-        for key, href, label in (("home", "/", "Home"), ("eps", "/episodes/", "Episodes"), ("essential", "/essential/", "Essentials"), ("stats", "/stats/", "Stats"), ("articles", "/articles/", "Articles"), ("search", "/search/", "Search"), ("about", "/about/", "About"), ("contact", "/contact/", "Contact"))
+        for key, href, label in (("home", "/", "Home"), ("eps", "/episodes/", "Episodes"), ("essential", "/essential/", "Essentials"), ("stats", "/stats/", "Stats"), ("articles", "/articles/", "Articles"), ("search", "/search/", "Search"), ("contact", "/contact/", "Contact"))
     )
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
@@ -406,7 +412,7 @@ def page(title, body, path, desc="", image=None, search=False, current="", jsonl
 <main id="main">{body}</main>
 <footer class="site">NEStalgia is a podcast by Michael Esposito and friends. Text is
 <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>; game art belongs to its owners.
-<a href="https://github.com/Xalechim/NEStalgia">Source on GitHub</a>.</footer>
+<a href="{BASE}/about/">About</a> · <a href="https://github.com/Xalechim/NEStalgia">Source on GitHub</a>.</footer>
 <script src="{asset('nav.js')}"></script>
 <script>document.getElementById("theme").addEventListener("click",function(){{var t=document.documentElement.dataset.theme==="dark"?"light":"dark";document.documentElement.dataset.theme=t;try{{localStorage.setItem("theme",t)}}catch(e){{}}}});</script>{analytics_tag()}
 </body></html>"""
@@ -662,6 +668,20 @@ def main():
         im.thumbnail((300, 300))
         im.save(OUT / "art/thumb" / f"{r['key']}.jpg", "JPEG", quality=75, optimize=True)
 
+    # Share cards (the picture people see when a link is posted in Discord, Twitter, iMessage ...)
+    share_cards.make_default_card(SRC / "logo.png", "A chronological exploration of every NES game.", OUT / "art/share/default.jpg")
+    for r in data:
+        if not r["art"]:
+            continue
+        meta = GAME_INFO.get(str(r["number"])) if r["type"] == "episode" and r["number"] is not None else None
+        bits = []
+        if meta:
+            bits = [(meta["publishers"] or meta["developers"] or [""])[0], f'{meta["month"] + " " if meta["month"] else ""}{meta["year"] or ""}'.strip()]
+        game = r["title"].title() if r["title"].isupper() else r["title"]
+        share_cards.make_episode_card(REPO / r["art"], share_cards.clean_label(r["number"], r["type"]), game,
+                                      meta["verdict"] if meta else "", " · ".join(b for b in bits if b), SRC / "logo.png",
+                                      OUT / "art/share" / f"{r['key']}.jpg")
+
     ordered = sorted((r for r in data if r["published"]), key=lambda r: (r["published"], r["number"] or 0))
     for i, r in enumerate(ordered):
         r["prev"] = ordered[i - 1] if i > 0 else None
@@ -740,8 +760,8 @@ def main():
         else:
             seo_title = f"{r['title']} · NEStalgia"
         write(f"episodes/{r['key']}/index.html",
-              page(seo_title, body, url, desc=desc, image=f"/art/{r['key']}.jpg", current="eps",
-                   og_type="article", published=r["published"], image_dims=(1000, 1000),
+              page(seo_title, body, url, desc=desc, image=f"/art/share/{r['key']}.jpg", current="eps",
+                   og_type="article", published=r["published"], image_dims=(1200, 630),
                    jsonld=[episode_jsonld(r, url, desc), breadcrumbs(("Home", "/"), ("Episodes", "/episodes/"), (r["title"], url))]))
 
     # Episode list
@@ -770,7 +790,7 @@ def main():
 <p style="margin-top:20px"><a class="btn" href="{BASE}/episodes/">Browse all episodes</a>
 <a class="btn alt" href="{SHEET_URL}" rel="noopener">Spreadsheet</a></p>
 {patrons_html()}"""
-    write("index.html", page("NEStalgia: every NES game, one episode at a time", body, "/", search=True, current="home", jsonld=[series_jsonld()]))
+    write("index.html", page("NEStalgia: A chronological exploration of every NES game", body, "/", desc="Join us as we play every NES game released in North America, in release order, with show notes, transcripts and a verdict on every game.", search=True, current="home", jsonld=[series_jsonld()]))
 
     # Search page
     body = f"""<h1>Search</h1><p class="lede">Search every episode's description, show notes and transcript.</p><div id="search"></div>
