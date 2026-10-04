@@ -46,7 +46,7 @@ LINKS = [
     ("RSS", "https://anchor.fm/s/5808ab8/podcast/rss"),
 ]
 CONTACT_EMAIL = "michaelespositofilm@gmail.com"
-CONTACT_ALIAS = ""  # the private address FormSubmit issues after activation (hides the email from spam scrapers)
+CONTACT_ALIAS = "eadd631cab7eee30e436788843647564"  # the private address FormSubmit issued after activation (hides the email from spam scrapers)
 SHEET_URL = "https://docs.google.com/spreadsheets/d/1r5WpTbM0EYLbr1ylXthvf57HWgjo1iScI_c5HKgfSKc/edit?usp=sharing"
 E = html.escape
 
@@ -304,6 +304,17 @@ def last_modified():
     return mod
 
 
+ASSET_FILES = ("style.css", "app.js", "tabs.js", "player.js", "nav.js")
+
+
+def asset(name):
+    """Address of a stylesheet/script with a version that changes whenever the file does, so a browser never pairs an old
+    cached file with a new page (that once made the menu links run together)."""
+    import hashlib
+    h = hashlib.sha1(b"".join((SRC / f).read_bytes() for f in ASSET_FILES if (SRC / f).exists())).hexdigest()[:8]
+    return f"{BASE}/{name}?v={h}"
+
+
 def analytics_tag():
     """GoatCounter's privacy-friendly counter (no cookies, no personal data), only when a code is set in site-src/analytics.json."""
     f = SRC / "analytics.json"
@@ -389,14 +400,14 @@ def page(title, body, path, desc="", image=None, search=False, current="", jsonl
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc[:200])}">{img}
 <meta property="og:type" content="{og_type}"><meta name="twitter:card" content="{card}">
 <link rel="icon" href="{BASE}/icon.png"><link rel="apple-touch-icon" href="{BASE}/icon.png">
-<link rel="stylesheet" href="{BASE}/style.css">{pf}{jsonld_tag(jsonld)}</head>
+<link rel="stylesheet" href="{asset('style.css')}">{pf}{jsonld_tag(jsonld)}</head>
 <body><a class="skip" href="#main">Skip to content</a>
 <header class="site"><div class="bar"><a class="brand" href="{BASE}/"><img src="{BASE}/logo.png" alt="NEStalgia"></a><nav id="nav" aria-label="Main"><div class="links">{nav}</div><div class="more" hidden><button type="button" class="morebtn" aria-expanded="false" aria-haspopup="true" aria-controls="moremenu">More &#9662;</button><div class="menu" id="moremenu" hidden></div></div><button id="theme" type="button" aria-label="Switch between light and dark mode"></button></nav></div></header>
 <main id="main">{body}</main>
 <footer class="site">NEStalgia is a podcast by Michael Esposito and friends. Text is
 <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>; game art belongs to its owners.
 <a href="https://github.com/Xalechim/NEStalgia">Source on GitHub</a>.</footer>
-<script src="{BASE}/nav.js"></script>
+<script src="{asset('nav.js')}"></script>
 <script>document.getElementById("theme").addEventListener("click",function(){{var t=document.documentElement.dataset.theme==="dark"?"light":"dark";document.documentElement.dataset.theme=t;try{{localStorage.setItem("theme",t)}}catch(e){{}}}});</script>{analytics_tag()}
 </body></html>"""
 
@@ -545,11 +556,14 @@ def build_migrated(data, write, card_html):
         write(f"{name}/index.html", page(f"{title} · NEStalgia", body, f"/{name}/", current="articles"))
         real.add(pg["path"].rstrip("/"))
 
+    # With the private alias the real address never appears on the page; without it, it is at least split up for scrapers
+    contact_attrs = (f'data-alias="{CONTACT_ALIAS}"' if CONTACT_ALIAS else
+                     f'data-user="{CONTACT_EMAIL.split("@")[0]}" data-domain="{CONTACT_EMAIL.split("@")[1]}"')
     # Contact: a form that emails the show, sent through FormSubmit (no account needed; the first message must be confirmed once)
     write("contact/index.html", page("Contact · NEStalgia", f"""<h1>Contact</h1>
 <p class="lede">Questions, corrections, or a game we should cover? Send us a message and it goes straight to our inbox.</p>
 <p id="sent" class="sent" hidden role="status"><b>Message sent.</b> Thanks for writing. We read everything.</p>
-<form class="cform" method="POST" data-user="{CONTACT_EMAIL.split("@")[0]}" data-domain="{CONTACT_EMAIL.split("@")[1]}" data-alias="{CONTACT_ALIAS}">
+<form class="cform" method="POST" {contact_attrs}>
 <input type="hidden" name="_subject" value="New message from nestalgiacast.com">
 <input type="hidden" name="_next" value="{SITE_URL}/contact/?sent=1">
 <input type="hidden" name="_template" value="table">
@@ -696,7 +710,7 @@ def main():
                 for i, (pid, _, html_) in enumerate(panels))
             tabs_html = (f'<div class="tabs"><div class="tablist" role="tablist" aria-label="Episode extras">{tabbar}</div>{body_tabs}</div>'
                          f'<noscript><style>.tabs [role=tabpanel][hidden]{{display:block}}.tablist{{display:none}}</style></noscript>'
-                         f'<script src="{BASE}/tabs.js" defer></script>')
+                         f'<script src="{asset("tabs.js")}" defer></script>')
         elif panels:
             tabs_html = f'<h2>{panels[0][1]}</h2>{panels[0][2]}'
         else:
@@ -717,7 +731,7 @@ def main():
 <div class="desc">{desc_html}</div></div></div>
 <div data-pagefind-body>{tabs_html}</div>
 {related_html_for(r)}
-<div class="pn">{pn}</div>{'<script src="' + BASE + '/player.js" defer></script>' if (r["transcript"] or links_html) else ""}"""
+<div class="pn">{pn}</div>{'<script src="' + asset("player.js") + '" defer></script>' if (r["transcript"] or links_html) else ""}"""
         url = f"/episodes/{r['key']}/"
         desc = intro["text"] if intro else r["description"].split("\n")[0]
         if r["type"] == "episode" and r["number"] is not None:  # the game's name first: that is what people search for
@@ -739,7 +753,7 @@ def main():
 <span id="count"></span></div>
 {filter_panel(data)}
 <div class="grid" id="grid">{''.join(card(r) for r in newest_first)}</div>
-<script src="{BASE}/app.js"></script>"""
+<script src="{asset('app.js')}"></script>"""
     write("episodes/index.html", page("Episodes · NEStalgia", body, "/episodes/", current="eps"))
 
     # Home
@@ -775,7 +789,7 @@ The site updates itself when new episodes come out. Transcript speaker names are
 <a href="https://github.com/Xalechim/NEStalgia/blob/main/data/episodes.csv">CSV</a>.</p>"""
     write("about/index.html", page("About · NEStalgia", body, "/about/", current="about"))
     if GAME_INFO:
-        write("essential/index.html", page("Essential Games List · NEStalgia", site_extras.essential_body(data, GAME_INFO, card, E, BASE), "/essential/",
+        write("essential/index.html", page("Essential Games List · NEStalgia", site_extras.essential_body(data, GAME_INFO, card, E, BASE, asset("app.js")), "/essential/",
                                            desc="Every NES game the NEStalgia podcast voted Essential, in the order we covered them.", current="essential"))
         write("stats/index.html", page("The Stats · NEStalgia", site_extras.stats_body(show_stats.compute(GAME_INFO, data), E, BASE), "/stats/",
                                        desc="Which NES publishers, developers and genres score best on NEStalgia, plus streaks, droughts and how the hosts vote.", current="stats"))

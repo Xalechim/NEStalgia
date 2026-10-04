@@ -23,7 +23,7 @@ def essential_votes(comment):
     return ""
 
 
-def essential_body(data, info, card, E, BASE):
+def essential_body(data, info, card, E, BASE, app_js=None):
     """The grid of every Essential game with filters that app.js already understands."""
     rows = [r for r in data if r["type"] == "episode" and r["number"] is not None and info.get(str(r["number"]), {}).get("verdict") == "Essential"]
     rows.sort(key=lambda r: r["number"])
@@ -48,7 +48,7 @@ def essential_body(data, info, card, E, BASE):
 <label class="esel">Genre <select data-f="genre"><option value="">Any genre</option>{"".join(f'<option value="{E(g.lower())}">{E(g)}</option>' for g in genres)}</select></label>
 <button id="sort" type="button">Oldest first</button><span id="count"></span></div>
 <div class="grid" id="grid" data-sort="oldest">{"".join(cards)}</div>
-<script src="{BASE}/app.js"></script>
+<script src="{app_js or BASE + '/app.js'}"></script>
 <p class="note">This list updates itself from our episode spreadsheet. Want to see how every game scored? <a href="{BASE}/stats/">Check the stats</a>.</p>"""
 
 

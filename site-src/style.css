@@ -192,8 +192,8 @@ main, .panel, .prose, .desc, .turn, .meta, .card .t, details.tx, .note {
 }
 
 /* Top menu: wraps without JavaScript; with it, links that do not fit move into a "More" dropdown (nav.js) */
-header.site nav { display: flex; align-items: center; justify-content: flex-end; gap: 4px 16px; flex-wrap: wrap; }
-header.site nav .links { display: flex; flex-wrap: wrap; gap: 4px 16px; justify-content: flex-end; }
+header.site nav { display: flex; align-items: center; justify-content: flex-end; gap: 4px 22px; flex-wrap: wrap; }
+header.site nav .links { display: flex; flex-wrap: wrap; gap: 4px 22px; justify-content: flex-end; }
 header.site nav a { margin-left: 0; white-space: nowrap; }
 html.js-nav header.site .bar { flex-wrap: nowrap; }
 html.js-nav header.site nav { flex: 1 1 0; min-width: 0; flex-wrap: nowrap; }
