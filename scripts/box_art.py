@@ -54,7 +54,7 @@ def auto_match(title, names):
     want = norm(re.sub(r"^(the|a)\s+", "", title.strip(), flags=re.I))
     best = None
     for n in names:
-        if re.search(r"\[[^\]]*\]|e-Reader|GameCube|Virtual Console|Switch|Proto|Beta|Sample|Pirate|Translation", n):
+        if re.search(r"\[[^\]]*\]|e-Reader|GameCube|Virtual Console|Switch|Proto|Beta|Sample|\(Pirate\)|Translation", n):
             continue
         base = re.sub(r"\s*\((?:[^)]*)\)", "", n[:-4])  # drop (USA), (Rev 1), (1987-07)(Capcom)(US) ...
         base = re.sub(r",\s*(The|A)$", "", base)
