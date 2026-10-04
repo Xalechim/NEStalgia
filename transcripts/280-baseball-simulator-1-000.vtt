@@ -1,0 +1,1876 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.140
+Baseball Simulator 1000, precise pitching, bullseye batting, and far out fielding.
+
+00:00:23.180 --> 00:00:29.860
+And welcome to NEStalgia, a chronological exploration of
+
+00:00:29.860 --> 00:00:32.240
+every NES game released in North America.
+
+00:00:32.480 --> 00:00:33.280
+I'm Mike.
+
+00:00:33.440 --> 00:00:35.360
+I'm Sean. And I'm Joe.
+
+00:00:36.080 --> 00:00:42.560
+And I was on the fence about 1000 or 1.000 because that has like a computer connotation
+
+00:00:42.560 --> 00:00:44.300
+to it, which would be fun with the simulator.
+
+00:00:44.560 --> 00:00:51.560
+So jury's out on which one it is, but obviously the 1000 is reference to batting 1000 for a
+
+00:00:51.560 --> 00:00:56.300
+perfect average. Nah, it's baseball simulator 1.0.
+
+00:00:57.480 --> 00:00:59.040
+See, that sounds good too, right?
+
+00:00:59.040 --> 00:01:02.340
+And then they would just release 1.0.1.
+
+00:01:03.700 --> 00:01:10.860
+1.0, like three, uh, alpha, um, you know, just make it a patch note.
+
+00:01:11.300 --> 00:01:15.720
+What's kind of funny because, you know, occasionally we don't have access to all the games.
+
+00:01:15.840 --> 00:01:17.620
+We have to emulate games from time to time.
+
+00:01:17.740 --> 00:01:21.780
+And I'm sure you guys have noticed that sometimes you're stuck with the dilemma of, do I play,
+
+00:01:21.780 --> 00:01:27.680
+um, this version of the game or do I play the rev a version of the game?
+
+00:01:27.800 --> 00:01:33.940
+Kind of like a fixed version that would must've been like stealth released to Toys R Us after the
+
+00:01:33.940 --> 00:01:35.920
+fact because they noticed there was a glitch in it.
+
+00:01:36.080 --> 00:01:38.240
+Just curious. What do you guys do in that situation?
+
+00:01:38.400 --> 00:01:42.120
+Do you play the 1.000 or do you play the 1.1?
+
+00:01:42.920 --> 00:01:48.620
+You know, it's only just now that, uh, I'm realizing that just, that just means like,
+
+00:01:49.300 --> 00:01:55.040
+uh, revision a, I didn't actually, I just played the blank one.
+
+00:01:55.040 --> 00:01:56.740
+The one with just the name.
+
+00:01:56.920 --> 00:01:58.240
+For the purest experience.
+
+00:01:58.440 --> 00:02:03.420
+Yeah. That's, I, I feel like, cause that's the one that was released at this time in North America,
+
+00:02:03.580 --> 00:02:06.180
+right? Like the revision was released later.
+
+00:02:06.500 --> 00:02:08.900
+Yeah. We weren't having day one patches back then.
+
+00:02:09.100 --> 00:02:18.280
+Right. And aside from SNK's baseball stars game, baseball simulator is, um, one of the only, the only
+
+00:02:18.280 --> 00:02:22.140
+baseball game so far that we've played that allows you to create your own team from scratch.
+
+00:02:22.140 --> 00:02:27.540
+You can name players, give them statistics, uh, that will, uh, show up in the game play
+
+00:02:27.540 --> 00:02:29.100
+and kind of determine their stats a little bit.
+
+00:02:29.660 --> 00:02:34.440
+Um, do you know, we've kind of praised that feature in baseball stars as being like the
+
+00:02:34.440 --> 00:02:36.560
+whole cool thing of a career mode thing.
+
+00:02:36.740 --> 00:02:40.140
+Do we want to, do we want to also praise it here?
+
+00:02:40.320 --> 00:02:44.180
+Or is it kind of like, um, at this point, eh, baseball stars did it.
+
+00:02:44.260 --> 00:02:47.700
+And I'm kind of like looking for something different in my baseball simulator.
+
+00:02:47.920 --> 00:02:51.880
+Well, let me ask you guys, if you remember, I mean, was baseball stars,
+
+00:02:51.880 --> 00:02:57.760
+did they like, was it this level of control over like statistics in the creation?
+
+00:02:58.120 --> 00:03:05.620
+No, it was, it was more, if it was more about like building a team in this very basic, like
+
+00:03:06.720 --> 00:03:07.640
+manager way.
+
+00:03:07.960 --> 00:03:12.940
+Yeah. This is like a simulator in the sense where I feel like you could say like, oh, I wonder
+
+00:03:12.940 --> 00:03:16.740
+what would happen if I put like these players with these stats up against each other all
+
+00:03:16.740 --> 00:03:17.880
+on a team together or whatever.
+
+00:03:17.880 --> 00:03:21.860
+Like you really are like building every stat of every player.
+
+00:03:22.340 --> 00:03:28.920
+Right. To, to Sean's point, like in baseball stars, you were the manager of a team in this game.
+
+00:03:29.120 --> 00:03:33.640
+You're like the baseball God who like determines who, you know, or the commissioner, right?
+
+00:03:33.760 --> 00:03:36.680
+Like who determines like what the league even looks like.
+
+00:03:36.780 --> 00:03:38.200
+The God or commissioner.
+
+00:03:38.620 --> 00:03:46.220
+Yeah. They're pretty much the same thing, even in a major league baseball and baseball simulator
+
+00:03:46.220 --> 00:03:48.960
+also allows you to run a full season.
+
+00:03:49.400 --> 00:03:55.660
+Um, in, uh, baseball stars, it was kind of this like weird grid format where there, it
+
+00:03:55.660 --> 00:03:59.320
+would show you like every possible team who would play every other team and what the results
+
+00:03:59.320 --> 00:04:00.960
+were all on like one neat screen.
+
+00:04:00.960 --> 00:04:07.940
+But in this one you can choose between five and 165 games in length, which is really strange
+
+00:04:07.940 --> 00:04:11.960
+because there aren't 165 games in a major league baseball.
+
+00:04:12.140 --> 00:04:16.480
+Maybe that's like the Japan league, but I feel like that's not true.
+
+00:04:16.600 --> 00:04:17.800
+I feel like they play even less games.
+
+00:04:17.980 --> 00:04:20.060
+So to go 165.
+
+00:04:20.220 --> 00:04:21.860
+It sounds completely arbitrary.
+
+00:04:21.860 --> 00:04:24.260
+Um, and that's cool.
+
+00:04:24.520 --> 00:04:33.140
+Like I appreciate that you can do that, but, um, if you're trying to go for, uh, this authenticity,
+
+00:04:33.140 --> 00:04:36.300
+then you gotta have some kind of playoff, right?
+
+00:04:37.240 --> 00:04:38.560
+But there is a playoffs.
+
+00:04:38.700 --> 00:04:39.980
+No, no.
+
+00:04:40.480 --> 00:04:48.520
+After the season ends, the season ends, the champion is crowned by who gets the most wins,
+
+00:04:48.520 --> 00:04:51.160
+right? Wow. I mean, no, I believe you.
+
+00:04:51.280 --> 00:04:54.800
+Cause I didn't, you know, I, I didn't play through a full season, but like, that seems
+
+00:04:54.800 --> 00:04:59.780
+crazy, right? Like, isn't the point of the season to determine who goes to the championship game?
+
+00:04:59.940 --> 00:05:03.820
+Like not just like after five games, like, up, this guy had the most wins.
+
+00:05:03.940 --> 00:05:09.300
+So he's the champion. I mean, I'm getting, I'm getting the feeling that playoffs in general are a mostly American
+
+00:05:09.300 --> 00:05:12.200
+thing. And maybe they don't do that in the Japan league.
+
+00:05:12.380 --> 00:05:13.200
+I wouldn't know.
+
+00:05:13.520 --> 00:05:17.860
+But if I'm, if, uh, you know, soccer is anything to go by.
+
+00:05:17.860 --> 00:05:23.160
+And like the English leagues or the just European leagues in general, it just, whoever wins
+
+00:05:23.160 --> 00:05:24.740
+the table wins, you know?
+
+00:05:25.400 --> 00:05:35.740
+Hmm. I guess if I had bought this, then as a fan in 1990 in America, I would have been disappointed
+
+00:05:35.740 --> 00:05:36.720
+when I got to the end.
+
+00:05:36.740 --> 00:05:37.700
+I would have felt like, wait a minute.
+
+00:05:37.780 --> 00:05:41.440
+Like I just played through this whole season and I don't get the playoffs.
+
+00:05:41.800 --> 00:05:45.900
+Like, unless it's like made clear in the manual, but I wouldn't have read that deeply into it.
+
+00:05:45.980 --> 00:05:50.260
+I would have just assumed, I guess, you know, back then also, I wouldn't have really thought
+
+00:05:50.260 --> 00:05:53.220
+of the fact that like most of these games are coming from Japan first.
+
+00:05:54.340 --> 00:05:56.340
+And I'll confirm that Sean is correct.
+
+00:05:56.540 --> 00:05:59.820
+There is no playoffs. Not that he needed the confirmation, but just to throw it out there.
+
+00:05:59.820 --> 00:06:03.860
+And what's funny is, you know why I wouldn't be able to find out something like that?
+
+00:06:04.020 --> 00:06:10.540
+Uh, because true to the name of baseball simulator, it takes way too long to simulate all these
+
+00:06:10.540 --> 00:06:11.360
+freaking games.
+
+00:06:11.580 --> 00:06:17.860
+So, um, you know, before we talk about the actual batting, you know, uh, gameplay experience,
+
+00:06:17.860 --> 00:06:22.460
+I just wanted to talk about like the simulation aspects because yeah, there's a lot of cool
+
+00:06:22.460 --> 00:06:27.200
+feature rich statistics and you can track a bunch of stats along the way.
+
+00:06:27.200 --> 00:06:36.180
+But I guess it really is using all of the NES power to, uh, save constantly and track these
+
+00:06:36.180 --> 00:06:40.500
+stats for you because it must be really simulating these games.
+
+00:06:40.500 --> 00:06:47.260
+Uh, just to, uh, skip a game, not even watch it is anywhere from like, I don't know, five
+
+00:06:47.260 --> 00:06:50.700
+to 10 minutes to get through the computer's simulation.
+
+00:06:50.700 --> 00:06:55.280
+And you are just watching to skip the game, to skip that particular game.
+
+00:06:55.280 --> 00:07:00.520
+You have to, you have to, unfortunately, like it shows just a scoreboard, right?
+
+00:07:00.880 --> 00:07:04.920
+So it has like, you know, you're in the top of the first and it's zero, zero.
+
+00:07:05.220 --> 00:07:07.340
+And then you're like, am I doing something wrong?
+
+00:07:07.560 --> 00:07:08.740
+Like, why isn't it moving?
+
+00:07:08.760 --> 00:07:09.780
+You're pushing the buttons.
+
+00:07:10.040 --> 00:07:10.920
+Buttons don't matter.
+
+00:07:11.060 --> 00:07:12.140
+Button inputs aren't doing anything.
+
+00:07:12.320 --> 00:07:17.400
+Instead, I suppose in the background, the game is running the actual game just like a bit
+
+00:07:17.400 --> 00:07:21.500
+faster because it's not showing it to you, but it's generating everybody's results.
+
+00:07:21.500 --> 00:07:26.980
+You know, what, what the count was, what they, where, what happened as the result, who caught
+
+00:07:26.980 --> 00:07:29.840
+it, blah, blah, blah. Cause they have to keep track of all those stats.
+
+00:07:30.500 --> 00:07:34.700
+However, that again, that means that it's going to take about five to 10 minutes just
+
+00:07:34.700 --> 00:07:37.500
+to, uh, skip through the simulation.
+
+00:07:37.580 --> 00:07:42.320
+But if you choose to watch the game instead, a game that you're not even, your team isn't
+
+00:07:42.320 --> 00:07:47.980
+playing in, then you're looking at about, you know, 30 to an hour to watch these games.
+
+00:07:47.980 --> 00:07:54.240
+Wow. So either way, uh, you know, you better get comfy whether you choose to simulate it or
+
+00:07:54.240 --> 00:08:02.680
+watch it. But the worst feature of all is that if both teams are set to computer teams and you're
+
+00:08:02.680 --> 00:08:07.880
+not in there and you are running the simulation and then the following matchup is again, two
+
+00:08:07.880 --> 00:08:11.380
+computers and you went to go make a sandwich, let's say.
+
+00:08:12.140 --> 00:08:17.140
+They only give you 20 seconds to decide before they decide that you automatically want to
+
+00:08:17.140 --> 00:08:18.240
+watch the game.
+
+00:08:18.560 --> 00:08:22.280
+So you are stuck into the 30 to 60 minute thing.
+
+00:08:22.280 --> 00:08:25.940
+If you're not there for the brief 20 seconds where it's asking you again, what would you
+
+00:08:25.940 --> 00:08:27.960
+like to do for these other two computer teams?
+
+00:08:28.440 --> 00:08:34.360
+I'll just say real quick that I didn't do too much exploration to the other game modes.
+
+00:08:34.520 --> 00:08:38.660
+I'm more so played this game to experience what it was like in the game.
+
+00:08:38.660 --> 00:08:47.100
+So forgive this question, but if you were to pick 165 game season, does that mean that
+
+00:08:47.100 --> 00:08:52.420
+it is simulating every game in that same way?
+
+00:08:52.660 --> 00:08:53.920
+Every game for every team.
+
+00:08:54.120 --> 00:08:59.380
+So this, oh my God, that's like six, how many, that's hundreds of games that you have to sit
+
+00:08:59.380 --> 00:09:03.460
+there. Yeah, you were, I think you were going to say 600 and you're pretty much spot on because
+
+00:09:03.460 --> 00:09:05.700
+there's six teams in every league.
+
+00:09:06.040 --> 00:09:09.360
+So yes, six times, well, three times 165.
+
+00:09:09.840 --> 00:09:13.180
+Wow. And what is the save mechanic?
+
+00:09:13.460 --> 00:09:16.280
+Like I, how did this, how did this cartridge run?
+
+00:09:16.860 --> 00:09:18.680
+There is a battery in it.
+
+00:09:18.760 --> 00:09:19.880
+There is a battery. Okay.
+
+00:09:20.420 --> 00:09:25.000
+So at least you can save it so you can let it play itself again later.
+
+00:09:25.780 --> 00:09:31.480
+And they have the, you know, for the simulation part, they have a news screen with like a
+
+00:09:32.040 --> 00:09:36.400
+sportscaster and like they have the scoreboard up, but the sportscaster's not even saying anything
+
+00:09:36.400 --> 00:09:40.540
+like really that, you know, it should be giving play-by-play commentary then if it's going
+
+00:09:40.540 --> 00:09:41.580
+to take this long, right?
+
+00:09:41.600 --> 00:09:45.660
+If you're going to take the time to really make it feel like I watched a whole inning
+
+00:09:45.660 --> 00:09:47.440
+where I was just staring at the scoreboard.
+
+00:09:47.520 --> 00:09:51.160
+And I'm not joking, it really does take that long sometimes, especially if they score multiple
+
+00:09:51.160 --> 00:09:52.080
+runs in the inning.
+
+00:09:52.080 --> 00:09:56.160
+Because keep in mind that it has to keep running some kind of RNG to determine the results.
+
+00:09:56.860 --> 00:10:01.440
+I wish that at least the anchor could like jazz up that screen a little bit and like
+
+00:10:01.440 --> 00:10:04.240
+announce runs being scored and stuff.
+
+00:10:04.460 --> 00:10:06.380
+But well, think of all the things it's doing.
+
+00:10:06.640 --> 00:10:09.120
+Like it, it doesn't have the, it doesn't have the capability.
+
+00:10:09.360 --> 00:10:12.940
+It doesn't have any leftover processes to do that, Mike.
+
+00:10:13.000 --> 00:10:16.140
+Yeah. It sounds like your NES would get really hot during these simulations.
+
+00:10:16.700 --> 00:10:22.000
+I mean, there is something, I guess, theoretically cool about the fact that like,
+
+00:10:22.080 --> 00:10:26.800
+while you, you play this game, it also is actually like a simulation machine.
+
+00:10:26.920 --> 00:10:31.020
+Like not like, that's not just like a fancy word to be like, oh, you're kind of playing
+
+00:10:31.020 --> 00:10:32.900
+basically like it's actually simulating these games.
+
+00:10:33.280 --> 00:10:34.520
+That's neat in theory.
+
+00:10:34.720 --> 00:10:40.640
+I don't think that would ever be fun to try and simulate a whole season on the NES in the
+
+00:10:40.640 --> 00:10:41.900
+way you're describing in practice.
+
+00:10:52.100 --> 00:10:54.300
+Getting to that simulator bit though.
+
+00:10:54.540 --> 00:11:01.060
+I think it's really funny that, I mean, up until something as preposterous as like goat
+
+00:11:01.060 --> 00:11:06.640
+simulator, this is probably the most cartoonish simulator I've ever played.
+
+00:11:07.000 --> 00:11:10.840
+Uh, especially when you get to like these ultimate teams.
+
+00:11:10.840 --> 00:11:13.300
+Well, that's just how baseball works, right?
+
+00:11:13.380 --> 00:11:20.140
+The ultimate teams. The ultra teams really boggle my mind a little bit because that feels like a different game,
+
+00:11:20.460 --> 00:11:21.460
+right? I think it is.
+
+00:11:21.560 --> 00:11:27.860
+Yeah. They're focusing all on these stats and, and, uh, you know, simulate seasons and, uh,
+
+00:11:28.100 --> 00:11:30.300
+you know, watch your team grow and blah, blah, blah.
+
+00:11:30.300 --> 00:11:34.460
+And then also if you don't want to do that, we also created these ultra teams where you
+
+00:11:34.460 --> 00:11:39.060
+play on the moon and they can, uh, you know, jump up really high and rob people of home runs
+
+00:11:39.060 --> 00:11:41.240
+by taking advantage of gravity.
+
+00:11:41.320 --> 00:11:46.880
+And then this other guy, he, uh, you know, he turns into like a hurricane, a tornado while
+
+00:11:46.880 --> 00:11:47.920
+he swings the bat.
+
+00:11:48.320 --> 00:11:54.240
+It's almost as if like NFL blitz or NHL hits or any of these was just like a difficulty
+
+00:11:54.240 --> 00:11:57.500
+setting in the official game.
+
+00:11:57.800 --> 00:12:01.260
+Yeah. Like if you didn't read the manual and you're just like, Oh, there's three leagues and you
+
+00:12:01.260 --> 00:12:02.480
+just pick this ultra league.
+
+00:12:02.540 --> 00:12:03.680
+Oh, that sounds like the best league.
+
+00:12:03.680 --> 00:12:09.700
+And then you're like, suddenly like the ball is on fire creating earthquakes with the bat
+
+00:12:09.700 --> 00:12:14.660
+and stuff. And there's some great, there's some great features in the ultra one, like some great
+
+00:12:14.660 --> 00:12:18.880
+ideas. Uh, Joe, I actually don't know if the fire thing's real, but there's other ones.
+
+00:12:19.000 --> 00:12:22.700
+Like you hit the ball and it creates like six shadows around it.
+
+00:12:22.820 --> 00:12:25.100
+So you're not sure like where it's going to land.
+
+00:12:25.100 --> 00:12:29.940
+If it's a, you know, if it's a fly ball or, um, it creates an earthquake and every,
+
+00:12:29.980 --> 00:12:32.020
+the whole screen like shakes a little bit.
+
+00:12:32.020 --> 00:12:37.040
+Uh, it's, you can turn the ball into a bomb and then it will literally explode on contact
+
+00:12:37.040 --> 00:12:37.840
+with the fielder.
+
+00:12:38.160 --> 00:12:39.880
+I do like that.
+
+00:12:40.180 --> 00:12:42.440
+There's different like categories.
+
+00:12:42.440 --> 00:12:44.780
+Like the pitchers have these special moves too.
+
+00:12:44.960 --> 00:12:49.720
+Like there's one that will just always break your bat and you need to use your own special
+
+00:12:49.720 --> 00:12:51.520
+move to counter that.
+
+00:12:51.900 --> 00:12:58.380
+And, uh, that it's not just like very, because I would imagine in some situations it would just
+
+00:12:58.380 --> 00:12:59.640
+be very hitter centric.
+
+00:12:59.640 --> 00:13:05.700
+Um, but you can also just pause the ball in midair or make a clone of the ball when you're
+
+00:13:05.700 --> 00:13:09.640
+pitching. Uh, there's, there's a lot of fun ideas going on here.
+
+00:13:12.840 --> 00:13:19.180
+But when it comes to the stats that are presented in the game, uh, you know, especially early
+
+00:13:19.180 --> 00:13:23.580
+on, if you're just getting familiar with the system, it's really hard to determine how good
+
+00:13:23.580 --> 00:13:28.960
+a player is just by the, uh, brief stats that they provide before you get to the more feature
+
+00:13:28.960 --> 00:13:30.360
+rich details later on.
+
+00:13:30.480 --> 00:13:34.220
+So like when you start a season, um, consider this a nitpick.
+
+00:13:34.340 --> 00:13:37.140
+Uh, I'm mostly just pointing out a flaw of the game here.
+
+00:13:37.340 --> 00:13:39.860
+It's the pitcher is presented.
+
+00:13:40.000 --> 00:13:43.680
+You're given five choices, but you don't get to go to like their core stats screen.
+
+00:13:43.680 --> 00:13:45.100
+You just get to see their ERA.
+
+00:13:45.640 --> 00:13:50.640
+And so you would just assume, of course, like, let me pick the, um, the guy with the lowest
+
+00:13:50.640 --> 00:13:52.320
+ERA. He must be our best player.
+
+00:13:52.320 --> 00:13:57.500
+But like, you don't know if he's got like, you know, really fast, you know, like a really
+
+00:13:57.500 --> 00:14:01.900
+fast, fast ball, or if he's got a great breaking ball or, you know, like you won't find that
+
+00:14:01.900 --> 00:14:04.180
+stuff out until you get to really know the team.
+
+00:14:04.640 --> 00:14:08.860
+So, so wait, see, when you do the create a team, cause this is another thing I didn't
+
+00:14:08.860 --> 00:14:13.860
+do. Are you, are you setting stats that you won't see ever again?
+
+00:14:15.080 --> 00:14:16.060
+No, no, no. Okay.
+
+00:14:16.060 --> 00:14:18.080
+You're, you're setting their statistics.
+
+00:14:19.380 --> 00:14:20.680
+They're like ERA.
+
+00:14:21.140 --> 00:14:22.380
+Yeah. Stuff like that.
+
+00:14:22.520 --> 00:14:25.660
+Yep. Mm-hmm. Their average, their, their batting average.
+
+00:14:25.880 --> 00:14:32.460
+Yep. And the game is sort of extrapolating that to, to, to inform how well they're going to be
+
+00:14:32.460 --> 00:14:34.940
+as players. Yeah.
+
+00:14:35.100 --> 00:14:40.940
+Essentially like, you know, um, you know, uh, giving them a lot of power or great contact
+
+00:14:40.940 --> 00:14:43.660
+or, you know, et cetera.
+
+00:14:44.220 --> 00:14:46.280
+Yeah. That was, I wasn't sure about that either.
+
+00:14:46.400 --> 00:14:51.220
+I wasn't sure if it was like, oh, I'm just deciding for lore purposes, what their batting
+
+00:14:51.220 --> 00:14:56.020
+average is before the season starts, or if their batting average actually affects it.
+
+00:14:56.120 --> 00:14:57.060
+And I think that's, that's neat.
+
+00:14:57.200 --> 00:15:01.600
+Yeah. Maybe I should have spent some time and create a team.
+
+00:15:02.000 --> 00:15:03.920
+Well, because it goes two ways though, too, right?
+
+00:15:03.920 --> 00:15:10.500
+Like, so to create a team as your, as the very first thing you do, I don't know if like,
+
+00:15:10.600 --> 00:15:14.500
+that would be the best approach of like how to learn this game because you might make a
+
+00:15:14.500 --> 00:15:17.260
+really unbalanced, poor team.
+
+00:15:17.260 --> 00:15:21.840
+You know, like you might want to play a, it sounds like you did some exhibition matches,
+
+00:15:21.840 --> 00:15:25.060
+like get a feel for the teams and the players.
+
+00:15:25.060 --> 00:15:29.560
+And like, you know, you, if you really want to will it, you can bring the ultra teams into
+
+00:15:29.560 --> 00:15:30.800
+a regular league, right?
+
+00:15:30.900 --> 00:15:33.900
+And have them just play and be the dominant team through everybody.
+
+00:15:34.060 --> 00:15:36.060
+Right. Like, or you could challenge yourself.
+
+00:15:36.360 --> 00:15:39.820
+Yeah. That was how I learned that there is a mercy rule in this game.
+
+00:15:39.820 --> 00:15:46.880
+Um, I would think of us playing as the home run team against Philly and, uh, they really
+
+00:15:46.880 --> 00:15:48.820
+are power hitters on that team.
+
+00:15:49.200 --> 00:15:53.920
+Yeah. I think there's something that could be fun or funny too about like, yeah, like setting
+
+00:15:53.920 --> 00:15:59.500
+up a game where you're just, you know, the Yankees playing against like the superhero team.
+
+00:15:59.500 --> 00:16:04.840
+He was like, all right, you got to like actually beat these super humans with just regular baseball.
+
+00:16:08.380 --> 00:16:12.500
+Confirming again, just because it feels like we need to do this since it is a very feature
+
+00:16:12.500 --> 00:16:14.780
+rich game and everybody's experiences are different.
+
+00:16:15.080 --> 00:16:19.560
+Confirming that, yes, the stats that you assign when you edit any player, keep in mind, you
+
+00:16:19.560 --> 00:16:21.000
+can edit any player in this game.
+
+00:16:21.420 --> 00:16:26.760
+Um, those are like extrapolated to like their skills feature.
+
+00:16:26.760 --> 00:16:31.800
+So if you gave somebody a high home run count, they would be considered a power hitter by
+
+00:16:31.800 --> 00:16:33.380
+the game. Wow.
+
+00:16:34.260 --> 00:16:39.160
+That's cool. Yeah. It's nice that it kind of translates it into something that like, you know, it's not, it's
+
+00:16:39.160 --> 00:16:44.420
+not like a Sims, like arbitrary, uh, like, yeah, I've got a poetry skill of nine.
+
+00:16:45.200 --> 00:16:47.320
+Yeah. No, you know, it's like, yeah, it's not just a random number.
+
+00:16:47.400 --> 00:16:51.800
+It's like, oh, if you know baseball, you have some understanding of like what this number
+
+00:16:51.800 --> 00:16:53.040
+means to this player.
+
+00:16:53.220 --> 00:16:55.040
+And then the game figures out the rest.
+
+00:16:55.940 --> 00:17:02.160
+And yet the game is not out of the park baseball 2024 or whatever version we're on right now.
+
+00:17:02.320 --> 00:17:07.740
+Uh, the famous computer simulation franchise that has been around for a while now, but
+
+00:17:07.740 --> 00:17:12.680
+essentially that is the one where like sabermetrics fans like get involved and really like you
+
+00:17:12.680 --> 00:17:16.940
+can, you can run true simulations of anything you can think of.
+
+00:17:17.080 --> 00:17:22.880
+You could bring in past players all, you know, from any league you can have the, um, you can
+
+00:17:22.880 --> 00:17:24.400
+have international teams get involved.
+
+00:17:24.580 --> 00:17:31.120
+Like this isn't that deep of a game, but it is surprisingly, I think it is surprisingly
+
+00:17:32.400 --> 00:17:38.100
+feature rich for a game on the NES compared to other baseball games we have played on the
+
+00:17:38.100 --> 00:17:39.740
+system. I agree.
+
+00:17:40.000 --> 00:17:46.560
+Like, yeah, the, the fact that it's trying to appeal to these two audiences of, of what
+
+00:17:46.560 --> 00:17:53.600
+at the time would have been probably the most stat forward game, um, with also these sort
+
+00:17:53.600 --> 00:18:02.760
+of arcade mechanics just kind of speaks to the, uh, the wide variety of things that can do.
+
+00:18:03.660 --> 00:18:11.380
+Yeah. It's funny that in, even in the same league, you can have, you know, uh, uh, the town is
+
+00:18:11.380 --> 00:18:12.600
+the name of the stadium, right?
+
+00:18:12.700 --> 00:18:14.480
+And it's just what you would expect.
+
+00:18:14.700 --> 00:18:17.720
+Yeah. Stadium inside a town and things are normal.
+
+00:18:18.020 --> 00:18:20.980
+The at a home run, there's fireworks that go off.
+
+00:18:21.100 --> 00:18:25.800
+And then the same town, it's like, we're going to the moon on this next one.
+
+00:18:25.860 --> 00:18:31.040
+All right. And, uh, there's, uh, zero gravity stands in the background.
+
+00:18:31.040 --> 00:18:32.480
+Like I, I didn't quite understand that.
+
+00:18:32.600 --> 00:18:36.880
+They're like, they're like in chunks in, in square blocks away.
+
+00:18:37.140 --> 00:18:38.860
+And it's like, is, is that how the moon works?
+
+00:18:39.340 --> 00:18:41.480
+Yeah. But did they carve out pieces of the moon?
+
+00:18:41.600 --> 00:18:45.000
+I don't think, I think you're assigning the moon to the stadium.
+
+00:18:45.160 --> 00:18:47.080
+I think it's just, where else in space are they?
+
+00:18:47.280 --> 00:18:49.680
+Where else? They're just floating in space.
+
+00:18:49.900 --> 00:18:53.160
+Oh, the stadium is just floating in the, in space.
+
+00:18:53.360 --> 00:18:56.840
+Yeah. You can see like a, you can tell it's all stars behind you and everything.
+
+00:18:56.900 --> 00:19:00.880
+Yeah. But then also like if someone hits a home run, there is like, yeah, there's a space station.
+
+00:19:00.880 --> 00:19:02.460
+Like floating around outside there.
+
+00:19:02.680 --> 00:19:09.180
+I get it. I guess I was assuming that because the stadium, the, the, the bleacher blocks were like these
+
+00:19:09.180 --> 00:19:11.220
+gray things and the moon is gray.
+
+00:19:12.420 --> 00:19:14.060
+But very loud and clear.
+
+00:19:14.520 --> 00:19:21.460
+That does raise a question though, because I don't see any like bubble for an atmosphere.
+
+00:19:21.460 --> 00:19:29.220
+So it seems like maybe this game is featuring cyborgs that they're not even wearing a astronaut
+
+00:19:29.220 --> 00:19:30.320
+helmet. Yeah, exactly.
+
+00:19:30.340 --> 00:19:34.140
+So I'm thinking you're always playing as robots.
+
+00:19:34.960 --> 00:19:39.700
+You see, I had to distinguish astronaut helmets there because they are wearing helmets, just
+
+00:19:39.700 --> 00:19:41.760
+not the kind you need to survive in the space.
+
+00:19:46.160 --> 00:19:49.480
+All right. So let's talk about baseball games on the NES.
+
+00:19:49.820 --> 00:19:54.960
+All right. And we don't need to go over every name or everything, but for the most part, playing NES
+
+00:19:54.960 --> 00:19:55.800
+baseball games.
+
+00:19:56.780 --> 00:20:01.660
+Isn't the most enjoyable experience for someone like me, who's now more familiar with like
+
+00:20:01.660 --> 00:20:05.720
+MLB, the show and a 3d baseball game since the end 64.
+
+00:20:05.720 --> 00:20:10.540
+Like there's just something about the, um, the camera position.
+
+00:20:10.640 --> 00:20:14.680
+I, and you know, and trust me, we've had a bunch of games, try a bunch of different ways
+
+00:20:14.680 --> 00:20:16.140
+to like fix the camera.
+
+00:20:16.300 --> 00:20:21.240
+If you remember famously bases loaded, we applauded for it's like a television presentation,
+
+00:20:21.240 --> 00:20:27.200
+but it still was like the switch between that and contact and everything of the ball and
+
+00:20:27.200 --> 00:20:31.380
+like just controlling your fielders, something you can't even do on NES baseball.
+
+00:20:31.700 --> 00:20:33.400
+One of the original black box games.
+
+00:20:33.400 --> 00:20:39.580
+There's just a lot of things about NES baseball that just leave a lot to, um, wishful thinking.
+
+00:20:39.740 --> 00:20:42.680
+Like you wish that it controlled a certain way and it never quite gets there.
+
+00:20:42.720 --> 00:20:49.000
+I will say, uh, not to just rag on baseball simulators, gameplay the whole time when the
+
+00:20:49.000 --> 00:20:56.020
+ball is hit, this is one of the few, if the only example I can think of where after the
+
+00:20:56.020 --> 00:21:00.780
+ball is hit, it shows a top down view of the pretty much the entire field and it's kept
+
+00:21:00.780 --> 00:21:02.320
+in a fixed position.
+
+00:21:02.320 --> 00:21:08.820
+So this way you can track your fielder to the shadow of the ball rather than it tracking the
+
+00:21:08.820 --> 00:21:12.780
+ball. And then you see your fielder only when it gets so close.
+
+00:21:12.820 --> 00:21:17.260
+Um, it may, it made the, it made the fielding aspect a lot easier.
+
+00:21:17.880 --> 00:21:22.460
+Yeah. The, um, the, yeah, definitely the fielding.
+
+00:21:22.460 --> 00:21:27.780
+But one thing I would say about this is it also, and maybe this is just a feeling that
+
+00:21:27.780 --> 00:21:36.360
+I had, I don't really have any quantitative, uh, proof here, but this game, it seemed to
+
+00:21:36.360 --> 00:21:39.980
+have more end states.
+
+00:21:40.040 --> 00:21:45.400
+Like it seemed in a lot of the older baseball games that we played that it was sort of picking
+
+00:21:45.400 --> 00:21:50.280
+between cards of where the ball could, could be going.
+
+00:21:50.840 --> 00:21:56.540
+And there were like, yeah, it could go down the seam or it could go foul in this direction
+
+00:21:56.540 --> 00:21:59.440
+or it could be a home run at this specific angle.
+
+00:21:59.660 --> 00:22:06.760
+Whereas it seemed like in this game, there, there were more situations that could happen.
+
+00:22:06.960 --> 00:22:08.680
+Did you kind of get what I'm saying?
+
+00:22:08.960 --> 00:22:10.880
+Absolutely. Like the ball can travel.
+
+00:22:10.880 --> 00:22:15.920
+Yeah. It felt a little bit like it was closer to like, like the game was using physics rather
+
+00:22:15.920 --> 00:22:21.820
+than the game was picking between, you know, 25 possible directions the ball can go.
+
+00:22:22.080 --> 00:22:23.460
+Yeah. So I felt that.
+
+00:22:23.460 --> 00:22:30.700
+And I think that that combined with the fielding, uh, allowed for just more things to happen.
+
+00:22:30.700 --> 00:22:36.880
+Like, and the fact that these fielders seem to be more prone to error, uh, just made it
+
+00:22:36.880 --> 00:22:41.860
+a lot more fun just to see like how this might shake out.
+
+00:22:43.620 --> 00:22:48.140
+Yeah. But it also kind of felt, you know, I understand the errors thing, but it also kind of felt
+
+00:22:48.140 --> 00:22:53.240
+realistic as it should to the simulator name of if you're not in a, if you're not playing
+
+00:22:53.240 --> 00:22:58.680
+against the ultra teams or not in a crazy, uh, stadium that if you hit the ball into the
+
+00:22:58.680 --> 00:23:02.560
+outfield and the guy doesn't catch it, it's not like, unless you have crazy speed, it's
+
+00:23:02.560 --> 00:23:08.500
+not a triple, you know, it's, it's, it's a double and, uh, a ball hit to third base.
+
+00:23:08.740 --> 00:23:12.920
+When you have a runner on first is nine times out of 10, going to be a double play.
+
+00:23:12.960 --> 00:23:17.720
+Like most situations just feel like they play out the way that you would expect them to
+
+00:23:17.720 --> 00:23:23.160
+not the, um, you know, like, Oh, well this guy has, you know, has incredible stats or
+
+00:23:23.160 --> 00:23:26.720
+this, uh, a throw from third to first takes a while.
+
+00:23:26.720 --> 00:23:29.960
+So technically for, you know, as long as the guy's got good stats, he'll make it to first
+
+00:23:29.960 --> 00:23:34.640
+base. Like no, most times in baseball, like the guy's just going to be out if it's in the infield
+
+00:23:34.640 --> 00:23:35.700
+and he's running to first base.
+
+00:23:35.860 --> 00:23:37.780
+Like there's a reason why that happens.
+
+00:23:37.920 --> 00:23:42.460
+But what do you think about that statement about, uh, playing NES baseball games as opposed
+
+00:23:42.460 --> 00:23:49.420
+to, and maybe NES is even just a little harsh, but just like going from 2d to 3d and, uh,
+
+00:23:49.520 --> 00:23:50.520
+and then coming back.
+
+00:23:51.480 --> 00:23:52.780
+What do you think about that statement?
+
+00:23:52.900 --> 00:23:57.720
+Is there something that these games will just lack because they're in 2d that like other
+
+00:23:57.720 --> 00:24:00.780
+genres, it's actually sometimes better that they're 2d.
+
+00:24:01.060 --> 00:24:01.940
+Uh, absolutely.
+
+00:24:01.940 --> 00:24:12.060
+I think we've talked about, um, how much value we put into again, authenticity of the, of
+
+00:24:12.060 --> 00:24:18.360
+the sport at simulating and all of the sort of soft factors that go into a sports game
+
+00:24:18.360 --> 00:24:21.760
+where like that stuff's really important to me.
+
+00:24:21.760 --> 00:24:31.800
+One of my favorite sports games of all time is NFL 2k5 specifically ESPN NFL 2k5 because
+
+00:24:31.800 --> 00:24:39.320
+it pretty much does its best, not just to simulate the sport, but to simulate the presentation
+
+00:24:39.320 --> 00:24:40.160
+of the sport.
+
+00:24:40.160 --> 00:24:48.580
+And I think that these 2d games can be fun and can be fun distractions, but I'm not going
+
+00:24:48.580 --> 00:24:52.860
+to, I'm not going to do a season in baseball simulator.
+
+00:24:53.200 --> 00:24:54.720
+1000 point zero.
+
+00:24:55.280 --> 00:25:00.020
+Um, because it doesn't have what I'm actually going for.
+
+00:25:00.020 --> 00:25:04.940
+I've done a season in, and it will be the show because I really liked the way that those
+
+00:25:04.940 --> 00:25:11.120
+games are presented in addition to really enjoying the mechanics of the sport.
+
+00:25:11.300 --> 00:25:13.300
+Yeah. I mean, I haven't really played enough.
+
+00:25:13.580 --> 00:25:17.900
+I mean, I can't remember the last time I played a 3d baseball game.
+
+00:25:18.000 --> 00:25:21.360
+It would have been when I was a kid growing up because my brother was playing it, but like
+
+00:25:21.360 --> 00:25:26.340
+not in the last 15 years at least or longer have I played one of these.
+
+00:25:26.480 --> 00:25:32.920
+So it's really hard for me to sort of quantify it, but I do feel this is like a weird little
+
+00:25:32.920 --> 00:25:39.760
+analogy doesn't add up exactly, but I, these 2d NES baseball games always feel a little
+
+00:25:39.760 --> 00:25:44.740
+bit like those, like, like those little, like NES sort of, uh, I don't know, you wouldn't
+
+00:25:44.740 --> 00:25:48.840
+call it a board game, but like those sort of, uh, one of those things like the physical,
+
+00:25:48.840 --> 00:25:54.620
+uh, baseball, not NES baseball, like, like an LCD display thing.
+
+00:25:54.780 --> 00:25:55.660
+No, not even that.
+
+00:25:55.740 --> 00:25:59.920
+I guess that's probably actually closer, but, but like talking about this, like actual,
+
+00:25:59.960 --> 00:26:01.200
+like a physical game.
+
+00:26:01.200 --> 00:26:04.380
+I don't even remember like the mechanics of like a bubble hockey equivalent.
+
+00:26:05.000 --> 00:26:07.760
+Oh, with the, it was like pinball almost like where.
+
+00:26:08.020 --> 00:26:13.020
+Sort of. Yeah. I mean, I guess the, just like, just in, just in spirit, it gives me that.
+
+00:26:13.100 --> 00:26:18.580
+Cause like, even like when the runners, like when you, you watch them go, it's like they
+
+00:26:18.580 --> 00:26:19.880
+go like in chunks.
+
+00:26:19.880 --> 00:26:22.360
+It's like, Oh, they're one third of the way to first base.
+
+00:26:22.500 --> 00:26:23.820
+Now they're two thirds of the way to first base.
+
+00:26:23.900 --> 00:26:29.880
+Now they're on first base. You know, it feels like a lot of little, like, like little gears moving rather than
+
+00:26:29.880 --> 00:26:30.920
+like real time.
+
+00:26:31.180 --> 00:26:32.260
+It's a flea circus.
+
+00:26:32.280 --> 00:26:35.120
+3d baseball. Yeah, exactly.
+
+00:26:36.100 --> 00:26:41.080
+Uh, I, you know, all of this that I'm saying is just coming from like this subconscious connection
+
+00:26:41.080 --> 00:26:47.280
+I'm making. Like I, I'm not claiming that like, this is just like that pinball esque, uh, baseball
+
+00:26:47.280 --> 00:27:00.440
+game. And obviously like, this is true of any game that is a 2d instead of 3d, but I feel like
+
+00:27:00.440 --> 00:27:05.980
+specifically in baseball, uh, we're missing a lot in the batting and the pitching because
+
+00:27:05.980 --> 00:27:07.580
+of the 2d space.
+
+00:27:07.580 --> 00:27:12.580
+Uh, there's just a little less control that you have over the pitching and certainly over
+
+00:27:12.580 --> 00:27:17.640
+the batting. Like, it's kind of weird that every baseball game for the most part that we played on the
+
+00:27:17.640 --> 00:27:21.600
+NES allows you to like, just slide your batter around the box.
+
+00:27:21.780 --> 00:27:27.080
+Right. And, uh, theoretically like that would mean a lot more, but not really like it.
+
+00:27:27.080 --> 00:27:31.660
+You can't really like, you're not changing the way they swing the bat or the way they
+
+00:27:31.660 --> 00:27:37.180
+hold the bat even, you know, like in baseball, like some guys put it over their shoulders.
+
+00:27:37.180 --> 00:27:45.280
+Other guys hold it, you know, um, uh, like with two hand grip, uh, on, you know, not between
+
+00:27:45.280 --> 00:27:48.740
+their legs, but you know, perpendicular to them, I guess is what I'm trying to say.
+
+00:27:48.860 --> 00:27:53.640
+Right. Like there's like a curve to the bat from perpendicular to over your shoulders.
+
+00:27:53.640 --> 00:27:55.840
+And that has effect on the game too.
+
+00:27:55.980 --> 00:27:58.600
+And it's something that 3d baseball games would go on to do.
+
+00:27:58.680 --> 00:28:02.360
+But like here, I just feel like we're not getting, we're getting the option to choose
+
+00:28:02.360 --> 00:28:03.280
+our pitch. Right.
+
+00:28:03.280 --> 00:28:07.100
+And we're getting the option to choose where we want to be in the box, but it's not quite
+
+00:28:07.500 --> 00:28:13.100
+the level, um, that it needs to be, uh, compared to where we are now with baseball games.
+
+00:28:13.240 --> 00:28:18.700
+So I guess that's my gripe with NES baseball game, not specifically baseball simulator.
+
+00:28:19.000 --> 00:28:23.560
+Yeah. I mean, I would say that the other limitation that I, I don't remember specifically all
+
+00:28:23.560 --> 00:28:27.660
+the other ones. I know we've had a lot of different camera angles, but in this one, I noticed because
+
+00:28:27.660 --> 00:28:32.140
+we're behind the plate as the, as the player, we're behind the plate as the viewer rather.
+
+00:28:32.560 --> 00:28:35.440
+Um, and we're sort of at this like higher angle.
+
+00:28:35.640 --> 00:28:42.520
+So it is sort of hard to tell if the ball is low or hot, you know, it's like your eye
+
+00:28:42.520 --> 00:28:46.220
+just doesn't have enough time to tell like the height of the ball.
+
+00:28:46.340 --> 00:28:51.540
+So it's like easy to tell if it's in, if it's in the, if it's in the box, like left and right.
+
+00:28:51.540 --> 00:28:57.140
+But like, if it, if it's like a, if it's like a low ball, it takes, it takes a lot more of
+
+00:28:57.140 --> 00:29:02.620
+like brain processing very quickly to, to see that and to like decide it's going to be a
+
+00:29:02.620 --> 00:29:03.840
+ball. Yeah.
+
+00:29:03.980 --> 00:29:09.340
+Especially with like all of the weird things going on in this game specifically where the
+
+00:29:09.340 --> 00:29:14.700
+ball can just sort of stop or, uh, pitches can be incredibly slow.
+
+00:29:14.700 --> 00:29:22.180
+Um, it, a lot of the, like the rhythm based stuff that you might use to, uh, determine
+
+00:29:22.180 --> 00:29:29.200
+if, since you don't have that, uh, that, that parallax or that, that depth perception you
+
+00:29:29.200 --> 00:29:34.720
+might use, you might depend on that to know when something might be low or super high.
+
+00:29:34.720 --> 00:29:41.180
+Um, all these other, uh, all these other weird things that can happen are not making it any
+
+00:29:41.180 --> 00:29:42.580
+easier. Yeah.
+
+00:29:42.720 --> 00:29:47.620
+I mean, like I'm looking at a still right now cause I paused the footage I'm watching and
+
+00:29:47.620 --> 00:29:48.940
+the ball is almost to the plate.
+
+00:29:49.020 --> 00:29:51.980
+And yes, there's like a little bit of, there's a shadow below it, which is, I guess how you're
+
+00:29:51.980 --> 00:29:53.640
+supposed to determine if it's higher or lower.
+
+00:29:53.960 --> 00:29:57.880
+But like, I'm trying to think if I were to take this ball right now and move it lower towards
+
+00:29:57.880 --> 00:30:02.500
+the plate, it would be fundamentally the same as me moving it closer to the plate because
+
+00:30:02.500 --> 00:30:04.480
+it's all two dimensional. Yeah.
+
+00:30:05.140 --> 00:30:09.640
+And it's all information that the computer has available to it too.
+
+00:30:09.760 --> 00:30:14.780
+So that doesn't help, you know, like the computer will be able to read and know what's worth hitting
+
+00:30:14.780 --> 00:30:15.800
+versus you.
+
+00:30:22.320 --> 00:30:27.600
+On the sequels and spinoff side, uh, we have quite a few here, but unfortunately a lot of
+
+00:30:27.600 --> 00:30:29.200
+them are Japanese only.
+
+00:30:29.200 --> 00:30:32.400
+And, uh, in Japan, the series was ultra baseball.
+
+00:30:32.820 --> 00:30:40.700
+And so, uh, on the super Nintendo, they wound up getting, uh, looks like five, uh, ultra baseball
+
+00:30:40.700 --> 00:30:41.780
+games on the super Nintendo.
+
+00:30:42.040 --> 00:30:48.240
+It seems like a yearly iteration thing from 1991 until 1995, but we would get two of those,
+
+00:30:48.400 --> 00:30:55.140
+uh, super baseball simulator in 1991 on the super Nintendo and super ultra baseball too.
+
+00:30:55.140 --> 00:30:58.840
+Um, on the, uh, super Nintendo as well in 1994.
+
+00:30:58.860 --> 00:31:05.900
+Now kind of funny that they went back on the super baseball simulator and super ultra baseball
+
+00:31:05.900 --> 00:31:09.440
+too. And, you know, it's like, it's hard to tell.
+
+00:31:09.500 --> 00:31:11.580
+Like, did we ever play super ultra baseball one?
+
+00:31:11.580 --> 00:31:15.840
+Like, I guess not until you open the game and realize it's another baseball simulator entry.
+
+00:31:15.840 --> 00:31:16.660
+Would you get that?
+
+00:31:17.700 --> 00:31:22.920
+All these super mega ultras are making the name completely meaningless too.
+
+00:31:23.060 --> 00:31:24.420
+So I can't even really follow you.
+
+00:31:24.680 --> 00:31:27.900
+Right. Cause ultra was supposed to be reserved for the N64 games.
+
+00:31:27.900 --> 00:31:32.100
+That was, uh, originally called the ultra 64 and they were all going to get ultra in
+
+00:31:32.100 --> 00:31:34.660
+their titles instead of super to differentiate.
+
+00:31:35.640 --> 00:31:38.140
+Now who would we be up to now by the switch?
+
+00:31:38.140 --> 00:31:42.660
+I mean, like what is, yeah, what is, what is like four iterations beyond ultra?
+
+00:31:43.000 --> 00:31:44.740
+Yeah. Atomic super Mario brothers.
+
+00:31:45.080 --> 00:31:52.860
+And who designated what, like, why is super just basically like the basic extra, you know?
+
+00:31:53.140 --> 00:31:55.800
+Like why isn't it like ultra mega super?
+
+00:31:56.040 --> 00:31:59.540
+Well, it starts with super because of super Nintendo, right?
+
+00:32:00.000 --> 00:32:04.500
+Yeah. But why was super the next step is what he's asking instead of ultra being the next step.
+
+00:32:04.700 --> 00:32:07.460
+Like it did. Cause that just seems like a linguistic like rule.
+
+00:32:07.460 --> 00:32:10.600
+Like if it's, if it's super super, then it's just ultra.
+
+00:32:10.860 --> 00:32:15.640
+They should have gone the pokey NES, the great NES, the ultra NES and the master NES.
+
+00:32:16.100 --> 00:32:17.420
+Yes. And then been done.
+
+00:32:17.520 --> 00:32:19.880
+Retired. And then the midnight NES.
+
+00:32:20.780 --> 00:32:25.040
+And speaking of that, you wouldn't know that these were baseball simulator games unless
+
+00:32:25.040 --> 00:32:27.580
+you played them to realize that they were the thing.
+
+00:32:27.920 --> 00:32:32.500
+You might also find out right away from all the branding in the game because culture brain,
+
+00:32:32.720 --> 00:32:37.160
+the makers of baseball simulator definitely want you to know that they made the game because
+
+00:32:37.160 --> 00:32:40.900
+they are on the, they're on the stadium designs.
+
+00:32:40.900 --> 00:32:45.980
+The other games that they've made or features as advertisements on the scoreboards.
+
+00:32:46.820 --> 00:32:50.620
+We didn't really talk about, I mean, we talked about the silliness of the locations, but not
+
+00:32:50.620 --> 00:32:52.620
+necessarily like the flair that each of them bring.
+
+00:32:53.160 --> 00:32:57.780
+I'm fine with putting your games on the scoreboard and stuff like that.
+
+00:32:57.780 --> 00:33:03.280
+Like, you know, better than putting Coca-Cola on the scoreboard, right?
+
+00:33:03.380 --> 00:33:05.180
+Like that feels like forced advertising.
+
+00:33:05.360 --> 00:33:10.620
+At least this is like, oh, from the makers of baseball simulator, it's Kung Fu Heroes.
+
+00:33:10.960 --> 00:33:13.540
+You didn't like going to KFC and Crazy Taxi?
+
+00:33:13.720 --> 00:33:18.840
+I didn't like driving my car exclusively with Valvoline either.
+
+00:33:21.440 --> 00:33:23.180
+They're no longer a sponsor of the show.
+
+00:33:23.320 --> 00:33:28.260
+Never were actually. Well, I mean, now we can't say that they were after what happened.
+
+00:33:28.460 --> 00:33:35.300
+And we can't say if baseball simulator 1000 is on the essential games list or not until
+
+00:33:35.780 --> 00:33:36.940
+we do that segment.
+
+00:33:36.960 --> 00:33:40.640
+So what do you say we do it right now on the essential games list?
+
+00:33:43.260 --> 00:33:48.860
+All right. So, you know, I gave that whole speech about how I feel about playing NES baseball games.
+
+00:33:49.020 --> 00:33:51.360
+You can kind of imagine where the vote's going to go here.
+
+00:33:51.360 --> 00:33:57.440
+But I'll start by saying that baseball simulator 1000 surprised me because I thought this was
+
+00:33:57.440 --> 00:34:03.080
+just going to be a very like technical game where gameplay was almost put second.
+
+00:34:03.080 --> 00:34:07.720
+And it was more about, you know, like really thinking about the statistics and building the
+
+00:34:07.720 --> 00:34:12.240
+team and being the manager and other like fun things could work off of that.
+
+00:34:12.240 --> 00:34:18.580
+But instead, it is a game that is mostly about the baseball at these long games that you're
+
+00:34:18.580 --> 00:34:22.260
+going to play for as many as 165 games in a single season.
+
+00:34:22.560 --> 00:34:28.200
+And then like, yeah, what you do kind of influences the statistics and build out that, you know,
+
+00:34:28.320 --> 00:34:29.880
+like the team grows from there.
+
+00:34:30.020 --> 00:34:31.200
+So that's cool and all.
+
+00:34:31.200 --> 00:34:37.280
+Like I actually feel like for an NES baseball game where you're mostly going to want to be
+
+00:34:37.280 --> 00:34:38.300
+playing baseball.
+
+00:34:38.480 --> 00:34:42.980
+This isn't out of the park baseball where you're mostly going to be like adjusting your lineups
+
+00:34:42.980 --> 00:34:47.940
+and making sure that your pitchers aren't tired and stuff like that and having a full featured
+
+00:34:47.940 --> 00:34:51.800
+rotation and trading players like that's what those simulator games are for.
+
+00:34:51.900 --> 00:34:55.440
+But this is really like baseball simulator junior, right?
+
+00:34:55.440 --> 00:35:01.840
+Like it's giving you just what you need to feel like you're doing more than just playing
+
+00:35:01.840 --> 00:35:06.520
+games of baseball on pre-assigned teams and you just happen to pick the most op team.
+
+00:35:06.640 --> 00:35:09.760
+Like, no, you can build your team and see where it takes you.
+
+00:35:09.880 --> 00:35:16.660
+But mostly you're playing 165 games of baseball or just five or maybe just one exhibition game
+
+00:35:16.660 --> 00:35:17.920
+and realizing it's not for you.
+
+00:35:19.000 --> 00:35:21.140
+And I'm not I don't fall into that last category.
+
+00:35:21.140 --> 00:35:27.120
+I played more than one, but I still don't feel like baseball simulator is taking baseball
+
+00:35:27.120 --> 00:35:29.360
+up a level even on the NES.
+
+00:35:29.640 --> 00:35:31.980
+So no, not on the essential games list for me.
+
+00:35:32.300 --> 00:35:38.560
+Joe. Yeah, it's really cool to me that the level of simulation and I say that it's cool to me
+
+00:35:38.560 --> 00:35:39.420
+knowing this.
+
+00:35:39.540 --> 00:35:46.660
+It's not for me personally, but it's cool that like someone who really is into baseball can
+
+00:35:46.660 --> 00:35:50.980
+make their little league team if they know all their statistics and play through a game.
+
+00:35:50.980 --> 00:35:53.300
+Like that's that's a great feature.
+
+00:35:54.240 --> 00:35:56.900
+And, you know, like you said that they didn't just go that route.
+
+00:35:57.060 --> 00:36:01.280
+They also went the route of like, hey, if you just want to have fun and like mess around,
+
+00:36:01.900 --> 00:36:08.260
+here's this ultra these ultra league that like you can, yeah, become a tornado or you can do
+
+00:36:08.260 --> 00:36:12.640
+all this like crazy goofy stuff while playing it to really give it a little extra life.
+
+00:36:12.640 --> 00:36:19.580
+But it does definitely does not like tip the scales of a baseball game or a sports game
+
+00:36:19.580 --> 00:36:24.420
+on the NES that like to that extreme high quality.
+
+00:36:24.640 --> 00:36:28.360
+We always talk about what you would need out of something like this to put it on the essential
+
+00:36:28.360 --> 00:36:32.360
+games list. So for me, I'm also not going to vote it essential.
+
+00:36:33.080 --> 00:36:42.480
+Sean. I would I would describe this not so much as baseball simulator junior, but more baseball
+
+00:36:42.480 --> 00:36:50.420
+sandbox because it calling it a simulator is kind of disingenuous, I think, because of how
+
+00:36:50.420 --> 00:36:51.800
+wacky things can get.
+
+00:36:51.800 --> 00:36:56.860
+But I also really like the concept of this game.
+
+00:36:57.060 --> 00:37:01.080
+I like what it brought to 2D baseball.
+
+00:37:02.540 --> 00:37:14.100
+I think that I still prefer baseball stars just because it seemed more what you were kind
+
+00:37:14.100 --> 00:37:19.420
+of making your own felt a bit more not realistic, but.
+
+00:37:20.120 --> 00:37:28.120
+Uh. Not as much like just plugging numbers in like you kind of grew attached to your characters,
+
+00:37:28.120 --> 00:37:35.340
+whereas in this one, you're just sort of making a simulacrum of whatever you whatever you want
+
+00:37:35.340 --> 00:37:37.180
+that there's there's less constraints.
+
+00:37:37.460 --> 00:37:41.060
+So I think that this is still really fun.
+
+00:37:41.240 --> 00:37:47.800
+I think there's a lot of especially in like the arcade aspects and the the goofy powers and
+
+00:37:48.680 --> 00:37:51.200
+making an earthquake or making a field or blow up.
+
+00:37:51.280 --> 00:37:55.520
+Those are really cool. But I'm also going to not put this on the essential games list.
+
+00:37:55.860 --> 00:37:58.440
+Sean, you bring up a great point there at the end about the difference between it and
+
+00:37:58.440 --> 00:38:05.800
+baseball stars. It's like baseball stars is the baseball RPG, you know, like because even the stats that
+
+00:38:05.800 --> 00:38:08.300
+you're editing in that one aren't statistics, right?
+
+00:38:08.380 --> 00:38:13.860
+Like you're assigning actual like attributes like you would in a RPG.
+
+00:38:13.860 --> 00:38:16.500
+So I I like that it does differentiate them.
+
+00:38:17.000 --> 00:38:19.260
+You know, I would have to go back and play baseball stars.
+
+00:38:19.440 --> 00:38:25.440
+I do remember that being more exciting even from a gameplay point of view, like if the
+
+00:38:25.440 --> 00:38:28.760
+action felt really good and yet the fielding was still responsive.
+
+00:38:29.640 --> 00:38:31.940
+So I'm not sure, you know, where I would land on that.
+
+00:38:32.040 --> 00:38:35.760
+But all said, competent baseball game we've got here, which is not something you could say
+
+00:38:35.760 --> 00:38:37.720
+every time you play an NES baseball game.
+
+00:38:37.880 --> 00:38:41.740
+That's true. You know, it's funny.
+
+00:38:42.040 --> 00:38:46.220
+So not last week's episode, but the week before that, I said I was starting this new thing
+
+00:38:46.220 --> 00:38:48.480
+where we were just going to end by like asking a question.
+
+00:38:48.880 --> 00:38:50.740
+And then I didn't do it last week.
+
+00:38:50.740 --> 00:38:53.580
+So people must have been like, wow, that segment died really fast.
+
+00:38:54.280 --> 00:38:57.120
+But no, I'm back with a question for you guys.
+
+00:38:57.120 --> 00:39:07.540
+And my question this time is, other than, you know, recent recent releases, how do you guys
+
+00:39:07.540 --> 00:39:10.420
+determine what you're going to play next on your backlog?
+
+00:39:10.720 --> 00:39:15.420
+So other than like something new just coming out, how do you determine when retro games
+
+00:39:15.420 --> 00:39:19.260
+or when games that you've always wanted to play come up and become the next thing you
+
+00:39:19.260 --> 00:39:22.280
+play? Honestly, I don't know if I have like a specific system.
+
+00:39:22.280 --> 00:39:26.920
+It's actually a bit of a problem for me because the time that the times that I really want
+
+00:39:26.920 --> 00:39:33.220
+to play like backlogged games or like, you know, like PlayStation one games that I never
+
+00:39:33.220 --> 00:39:39.160
+got around to playing or PS2 games or whatever is always when I'm when I'm like sick, because
+
+00:39:39.160 --> 00:39:42.860
+I think it just reminds me of when I was a kid and was sick and got to stay home from school.
+
+00:39:43.600 --> 00:39:48.220
+So whenever that happens, granted, now, obviously, I still have to work when I'm sick.
+
+00:39:48.220 --> 00:39:51.180
+But like whenever that happens, I'm just itching to play one of those games.
+
+00:39:51.280 --> 00:39:52.220
+And I always like look at it.
+
+00:39:52.300 --> 00:39:57.320
+And I always will just spend so much time trying to decide which game to play next that I end
+
+00:39:57.320 --> 00:39:58.200
+up playing none of them.
+
+00:39:58.640 --> 00:40:04.120
+So recently, I started making just a list of like, here are the JRPGs I want to play.
+
+00:40:04.240 --> 00:40:05.760
+Here are some platformers I want to play.
+
+00:40:05.940 --> 00:40:08.060
+And next time I'm sick, I'll just look at that list.
+
+00:40:08.100 --> 00:40:09.800
+And I'm going to just pick one of these things.
+
+00:40:09.940 --> 00:40:10.920
+And I'm just going to play it.
+
+00:40:11.020 --> 00:40:18.260
+And that's it. Like if I if I let myself if I let myself fathom the endless possibilities, I'll just
+
+00:40:18.260 --> 00:40:23.080
+do that for all of my free time until there's no time left to play any of the games.
+
+00:40:23.960 --> 00:40:25.700
+Yeah, I don't really have a system.
+
+00:40:27.060 --> 00:40:31.160
+And sometimes that causes me to just not play anything for a long time.
+
+00:40:31.160 --> 00:40:38.260
+But usually, whatever I'm playing, or maybe it's whatever I'm watching or whatever I've
+
+00:40:38.260 --> 00:40:46.500
+been reading about recently will trigger like, like I got into Rome for a while, just the
+
+00:40:46.500 --> 00:40:47.720
+concept of Roman history.
+
+00:40:48.000 --> 00:40:52.820
+So I was like, Oh, there are any good Rome games that aren't just Total War.
+
+00:40:53.000 --> 00:40:56.600
+So that led me to Expeditions Rome.
+
+00:40:56.600 --> 00:40:59.940
+And that kind of got me back into tactics games.
+
+00:40:59.940 --> 00:41:04.560
+So that then I started to play, I revisited XCOM.
+
+00:41:04.960 --> 00:41:07.300
+And then I was sort of into sci fi stuff.
+
+00:41:07.500 --> 00:41:17.860
+So it's just sort of like a really chaotic web of interests and comparable, either themes
+
+00:41:17.860 --> 00:41:19.320
+or comparable mechanics.
+
+00:41:19.840 --> 00:41:22.280
+And yeah, there's there's no method to the madness.
+
+00:41:22.520 --> 00:41:23.740
+And there doesn't have to be right.
+
+00:41:23.740 --> 00:41:29.720
+I think a lot of people suffer from that same decision paralysis of, you know, I have so
+
+00:41:29.720 --> 00:41:33.060
+many games on my backlog, that I just won't play any of them.
+
+00:41:33.300 --> 00:41:37.320
+And I'm certainly guilty of just adding things to my backlog.
+
+00:41:37.320 --> 00:41:42.680
+But I feel like there's, I have two lists, I have like, the immediate like what I want
+
+00:41:42.680 --> 00:41:43.680
+to be playing soon.
+
+00:41:43.920 --> 00:41:47.820
+And then just like the whenever I see a game that just interests me, even the slightest
+
+00:41:47.820 --> 00:41:52.780
+bit, I just like jot it down in my notes, in Apple notes, not like I don't have like a
+
+00:41:52.780 --> 00:41:54.360
+notebook of games I want to play.
+
+00:41:54.500 --> 00:41:55.880
+That does sound like a fun idea, though.
+
+00:41:55.880 --> 00:42:01.720
+So I know IGN came out with like IGN's playlist where you can like add games to a backlog there.
+
+00:42:01.940 --> 00:42:05.960
+I'm not really a fan of like organizing my video game playtime.
+
+00:42:06.220 --> 00:42:09.740
+I'm sure there was a time in my life where I was like trying to track exactly how many
+
+00:42:09.740 --> 00:42:12.980
+hours it was taking me to beat games on like howlongtobeat.com.
+
+00:42:13.260 --> 00:42:14.780
+Also not interested in that anymore.
+
+00:42:15.480 --> 00:42:21.500
+I guess like the more tools you add to like finding games to play, the longer it takes
+
+00:42:21.500 --> 00:42:23.340
+you to actually play any of those games.
+
+00:42:23.600 --> 00:42:30.800
+So Joe, I'm with you that like, I definitely have a long list somewhere of every JRPG I
+
+00:42:30.800 --> 00:42:33.720
+want to play, but I probably haven't touched any of them.
+
+00:42:34.080 --> 00:42:39.860
+I'm better off just looking at like one JRPG I want to play, writing that down and like making
+
+00:42:39.860 --> 00:42:41.460
+that my fortune for the year.
+
+00:42:41.460 --> 00:42:45.120
+Like you will play this game by the end of the year or something like that.
+
+00:42:45.360 --> 00:42:48.020
+Yeah. All right.
+
+00:42:48.100 --> 00:42:49.560
+So how do we end it after I ask the question?
+
+00:42:50.040 --> 00:42:53.060
+I think just awkwardly fade into silence.
+
+00:42:53.280 --> 00:42:54.120
+Sounds great.
+
+00:42:54.680 --> 00:42:59.560
+Before I fade off into silence, well, maybe we'll fade off into music instead.
+
+00:42:59.800 --> 00:43:04.500
+But just a reminder that, you know, there's a whole backlog of nostalgia episodes.
+
+00:43:04.500 --> 00:43:11.140
+So if you're just tuning in, let's say you've only listened to the last two, three,
+
+00:43:11.960 --> 00:43:18.600
+hundred episodes. You can also go back and listen to the other episodes because we're almost at 300 and we're
+
+00:43:18.600 --> 00:43:19.520
+going to celebrate that.
+
+00:43:19.720 --> 00:43:22.280
+And we have a bunch of unnumbered episodes.
+
+00:43:22.500 --> 00:43:23.440
+There's some weird ones in there.
+
+00:43:23.560 --> 00:43:26.660
+If you really scroll through the feed, got to figure out a better way to get people to
+
+00:43:26.660 --> 00:43:30.820
+find out like specific game episodes that they want to get access to.
+
+00:43:30.980 --> 00:43:34.500
+Can't be efficient to be scrolling to find the one you want.
+
+00:43:34.660 --> 00:43:39.140
+You let us know. So Twitter.com, that's their website.
+
+00:43:39.440 --> 00:43:47.920
+Our handle on that is at NostalgiaCast or go to NostalgiaCast.com and hit that contact
+
+00:43:47.920 --> 00:43:50.320
+button. We've had people contact us, believe it or not.
+
+00:43:50.440 --> 00:43:53.380
+It's not just that page isn't non-existent.
+
+00:43:53.380 --> 00:43:57.620
+That page gets some action and you could be the next person to show it some love.

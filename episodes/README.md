@@ -272,23 +272,23 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 265 | Roadblasters | [notes](265-roadblasters.md) |
 | 266 | Rock N Ball | [notes](266-rock-n-ball.md) |
 | 267 | Top Gun: The Second Mission | [notes](267-top-gun-the-second-mission.md) |
-| 268 | Top Players Tennis | [notes](268-top-players-tennis.md) |
-| 269 | Twin Cobra | [notes](269-twin-cobra.md) |
-| 270 | Batman: The Video Game | [notes](270-batman-the-video-game.md) |
-| 271 | Dash Galaxy in the Alien Asylum | [notes](271-dash-galaxy-in-the-alien-asylum.md) |
-| 272 | Destination Earthstar | [notes](272-destination-earthstar.md) |
-| 273 | Rollerball | [notes](273-rollerball.md) |
-| 274 | Super Spike VBall | [notes](274-super-spike-vball.md) |
-| 275 | Super Mario Bros. 3 | [notes](275-super-mario-bros-3.md) |
-| 276 | Abadox | [notes](276-abadox.md) |
-| 277 | The Adventures of Lolo 2 | [notes](277-the-adventures-of-lolo-2.md) |
-| 278 | Al Unser Jr's Turbo Racing | [notes](278-al-unser-jrs-turbo-racing.md) |
-| 279 | Astyanax | [notes](279-astyanax.md) |
-| 280 | Baseball Simulator 1.000 | [notes](280-baseball-simulator-1-000.md) |
-| 281 | Burai Fighter | [notes](281-burai-fighter.md) |
-| 282 | Code Name: Viper | [notes](282-code-name-viper.md) |
-| 283 | Conflict | [notes](283-conflict.md) |
-| 286 | Heavy Barrel | [notes](286-heavy-barrel.md) |
+| 268 | Top Players Tennis | [notes](268-top-players-tennis.md), [transcript](../transcripts/268-top-players-tennis.md) |
+| 269 | Twin Cobra | [notes](269-twin-cobra.md), [transcript](../transcripts/269-twin-cobra.md) |
+| 270 | Batman: The Video Game | [notes](270-batman-the-video-game.md), [transcript](../transcripts/270-batman-the-video-game.md) |
+| 271 | Dash Galaxy in the Alien Asylum | [notes](271-dash-galaxy-in-the-alien-asylum.md), [transcript](../transcripts/271-dash-galaxy-in-the-alien-asylum.md) |
+| 272 | Destination Earthstar | [notes](272-destination-earthstar.md), [transcript](../transcripts/272-destination-earthstar.md) |
+| 273 | Rollerball | [notes](273-rollerball.md), [transcript](../transcripts/273-rollerball.md) |
+| 274 | Super Spike VBall | [notes](274-super-spike-vball.md), [transcript](../transcripts/274-super-spike-vball.md) |
+| 275 | Super Mario Bros. 3 | [notes](275-super-mario-bros-3.md), [transcript](../transcripts/275-super-mario-bros-3.md) |
+| 276 | Abadox | [notes](276-abadox.md), [transcript](../transcripts/276-abadox.md) |
+| 277 | The Adventures of Lolo 2 | [notes](277-the-adventures-of-lolo-2.md), [transcript](../transcripts/277-the-adventures-of-lolo-2.md) |
+| 278 | Al Unser Jr's Turbo Racing | [notes](278-al-unser-jrs-turbo-racing.md), [transcript](../transcripts/278-al-unser-jrs-turbo-racing.md) |
+| 279 | Astyanax | [notes](279-astyanax.md), [transcript](../transcripts/279-astyanax.md) |
+| 280 | Baseball Simulator 1.000 | [notes](280-baseball-simulator-1-000.md), [transcript](../transcripts/280-baseball-simulator-1-000.md) |
+| 281 | Burai Fighter | [notes](281-burai-fighter.md), [transcript](../transcripts/281-burai-fighter.md) |
+| 282 | Code Name: Viper | [notes](282-code-name-viper.md), [transcript](../transcripts/282-code-name-viper.md) |
+| 283 | Conflict | [notes](283-conflict.md), [transcript](../transcripts/283-conflict.md) |
+| 286 | Heavy Barrel | [notes](286-heavy-barrel.md), [transcript](../transcripts/286-heavy-barrel.md) |
 | 287 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | [notes](287-jack-nicklaus-greatest-18-holes-of-major-championship-golf.md), [transcript](../transcripts/287-jack-nichols.md) |
 | 288 | Kid Kool | [notes](288-kid-kool.md), [transcript](../transcripts/288-kid-kool.md) |
 | 289 | Magic Johnson's Fast Break | [notes](289-magic-johnsons-fast-break.md), [transcript](../transcripts/289-magic-johnson.md) |
