@@ -12,7 +12,10 @@ Make sure the finished episode MP3 is in your iCloud NEStalgia folder, in `Mixes
 
 ## The easy way: do everything for a new episode in one go
 
-When a new episode comes out, **double-click `Check for New Episodes.command`** (in the same `scripts` folder). It:
+When a new episode comes out, **double-click `Update Everything.command`** (in the `scripts` folder). It refreshes your feed and spreadsheet,
+runs the steps below for any new episode, measures any missing audio shifts, tells you which episodes still need a Links tab, and then asks
+once before publishing everything. (It runs `sub-commands/Check for New Episodes.command` for the episode work, which you can also double-click
+by itself.) For the episode itself, that step:
 
 1. checks your podcast feed for new episodes,
 2. adds the episode's information and cover art to the repo,
@@ -26,9 +29,9 @@ Things to know:
   episode that still has no transcript (like one that came out this week) is treated as new.
 - **If the final mix isn't in `Mixes` yet**, the episode goes on a waiting list and is picked up automatically the next time you run it.
 - **It only commits its own files**, so anything else you have in progress is left alone. Safe to run again: if nothing is new it says so.
-- **To preview without changing anything**, run `python3 scripts/new_episodes.py --dry-run` in Terminal.
+- **To preview without changing anything**, run `python3 scripts/python/new_episodes.py --dry-run` in Terminal.
 - **To make it run by itself every Friday** (Fridays 9:00 and 14:00, Saturdays 10:00, whenever your Mac is awake), run
-  `python3 scripts/new_episodes.py --install-schedule` once. A notification appears when it finishes. Turn it off with `--uninstall-schedule`.
+  `python3 scripts/python/new_episodes.py --install-schedule` once. A notification appears when it finishes. Turn it off with `--uninstall-schedule`.
   The log is `~/Library/Logs/nestalgia-new-episodes.log`.
 - It does **not** write show notes, and it only finds web links if you ask (`--links`, needs an Anthropic key; otherwise use `/make-links`).
 
@@ -78,7 +81,7 @@ A small player floats at the bottom of the screen when you scroll away from the 
 
 The podcast host sometimes adds an ad at the start of the audio it serves, which shifts everything later by about a minute. The transcript
 tool measures that shift for each new episode automatically (it needs internet, and the episode must already be in the public feed)
-and saves it in `data/audio-offsets.json`. To measure episodes yourself: `python3 scripts/audio_offsets.py 450` or `--all`.
+and saves it in `data/audio-offsets.json`. To measure episodes yourself: `python3 scripts/python/audio_offsets.py 450` or `--all`.
 If a click ever lands a bit off (the host changed its ad), use the **−5s / +5s** buttons above the transcript. Your adjustment is
 remembered in your browser for that episode.
 
@@ -87,7 +90,7 @@ remembered in your browser for that episode.
 Transcripts made before this change still show `**Mike** [00:22]:` speaker lines. To convert all of them at once:
 
 1. In Finder, open the `scripts` folder (Shift + Command + G, paste `~/Developer/nestalgia/scripts`).
-2. Double-click **Strip Speakers.command**. It first shows a preview and changes nothing.
+2. Double-click **Strip Speakers.command** (in `scripts/sub-commands`). It first shows a preview and changes nothing.
 3. Type `y` to convert. It keeps every word and every timestamp, regroups the text into paragraphs, and skips any transcript that is
    already done, so it is safe to run again. It works offline.
 4. Type `y` to publish when it asks (that step needs internet). The website updates in a few minutes.
@@ -124,7 +127,7 @@ link before keeping it. Cost: a few cents to a few tens of cents per episode.
 ### Each time
 
 1. Make the transcript first (above). If the key is set up, the transcript tool will offer to find the links right after.
-2. Or double-click **Make Links.command** in the `scripts` folder, type an episode number like `446` (or `401-410`, or `ALL` for every
+2. Or double-click **Make Links.command** in the `scripts/sub-commands` folder, type an episode number like `446` (or `401-410`, or `ALL` for every
    transcript that has no links yet), and answer `y` when it offers to publish.
 3. Wait a few minutes. The website updates itself shortly after you publish.
 

@@ -35,7 +35,7 @@ jobs:
       - name: Update data, cover art and index from the feed
         env:
           PYTHONDONTWRITEBYTECODE: "1"
-        run: python scripts/update_from_feed.py
+        run: python scripts/python/update_from_feed.py
 
       - name: Commit, push and rebuild the website if anything changed
         env:

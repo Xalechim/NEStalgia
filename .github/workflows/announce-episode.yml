@@ -41,9 +41,9 @@ jobs:
           TEST_EPISODE: ${{ github.event.inputs.episode }}
         run: |
           if [ -n "$TEST_EPISODE" ]; then
-            python scripts/discord_post.py --only "$TEST_EPISODE" --force
+            python scripts/python/discord_post.py --only "$TEST_EPISODE" --force
           else
-            python scripts/discord_post.py
+            python scripts/python/discord_post.py
           fi
 
       - name: Remember what was announced

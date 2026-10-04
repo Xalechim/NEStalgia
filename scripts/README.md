@@ -9,7 +9,31 @@ Local, free transcripts (paragraphs with timestamps, no speaker labels). Nothing
 - Whisper `mlx-community/whisper-large-v3-turbo` downloads itself into the Hugging Face cache.
   (`~/.nestalgia-models/` held the speaker-recognition models and voice profiles from the retired speaker experiment; it can be deleted.)
 
-## Scripts
+## How this folder is organized
+
+```
+scripts/
+  Update Everything.command      MAIN: the one to double-click after anything happens (new episode, new verdict, new mixes)
+  Transcribe Episode.command     MAIN: make the transcript for specific episodes you name
+  sub-commands/                  the commands the main ones run (each also works by itself when double-clicked)
+    Refresh Feed and Spreadsheet.command    feed, cover art, spreadsheet verdicts/genres, Up next box, Wikipedia intros, box art
+    Check for New Episodes.command          transcript + audio shift for new episodes
+    Measure Audio Offsets.command           click-to-play timing for any transcript without it
+    Make Links.command                      links for the Links tab (lists what's missing; does them if an API key is set up)
+    Add Wikipedia Intros.command            just the Wikipedia intros (also part of Refresh)
+    Strip Speakers.command                  one-time converter for old speaker-labelled transcripts
+    _common.sh                              shared setup used by all of them
+  python/                        the Python scripts those commands run (plus tests/, and khinsider_lookup.js used by download_game_music.py)
+```
+
+**Update Everything** runs, in order: Refresh Feed and Spreadsheet, Check for New Episodes, Measure Audio Offsets, Make Links, then publishes
+everything once (it shows what changed and asks first; only `data`, cover art, the episode index and `transcripts` are ever committed).
+When a main command runs a sub-command it sets `NES_LAUNCHER=1`, which makes the sub-command skip its own pauses and publishing.
+The same refresh as step 1 also runs by itself on GitHub every 4 hours, so a verdict added to the spreadsheet shows up on the site within a few hours.
+Not part of the launcher because they need a person at the keyboard: making a Links tab without an API key (ask Claude Code: `/make-links 449`),
+getting KHInsider music and Audition project folders (`python/make_project_folders.py`, `python/download_game_music.py`).
+
+## Scripts (in `python/`)
 
 - `transcribe.py AUDIO --out transcripts/NNN-name --title "NNN - Name"` writes `NNN-name.md` (paragraphs, each starting with a `[mm:ss]` timestamp)
   and `NNN-name.vtt` (sentence-level subtitles). About 70 seconds for a 25-minute episode.
@@ -28,20 +52,21 @@ Local, free transcripts (paragraphs with timestamps, no speaker labels). Nothing
   except recent untranscribed episodes. `--dry-run`, `--no-publish`, `--episodes N`, `--redo`, `--links`, `--use-hosted-audio`,
   `--install-schedule` (a launchd agent, opt-in). Logs to `~/Library/Logs/nestalgia-new-episodes.log`. The Friday GitHub Action
   (`update-from-feed.yml`) still refreshes data/art on its own; the two don't conflict (generated files from this script win a rebase).
-- Tests: `python3 scripts/test_new_episodes.py`, `python3 scripts/test_paragraphs.py`, `python3 scripts/test_make_links.py`.
+- Tests: `python3 scripts/python/tests/test_new_episodes.py`, `python3 scripts/python/tests/test_paragraphs.py`, `python3 scripts/python/tests/test_make_links.py`.
 
 ## Auto-update from the feed
 
-`.github/workflows/update-from-feed.yml` runs on GitHub (not on your Mac) on Fridays at 11:30 and 15:30 UTC and Saturday at 15:30 UTC, and on demand
-(repo page, Actions tab, "Update from podcast feed", Run workflow). It runs `scripts/update_from_feed.py`, which:
+`.github/workflows/update-from-feed.yml` runs on GitHub (not on your Mac) every 4 hours, plus extra runs on Fridays at 11:30 and 15:30 UTC and Saturday at 15:30 UTC, and on demand
+(repo page, Actions tab, "Update from podcast feed", Run workflow). It runs `scripts/python/update_from_feed.py`, which:
 
 1. downloads cover art for new episodes (resized to 1000 px JPEG),
 2. rebuilds `data/episodes.json` and `episodes.csv`,
 3. rebuilds `episodes/README.md`,
+4. refreshes the spreadsheet data (`data/game-info.json`), the Up next box, Wikipedia intros, and swaps generic covers for NES box art,
 
 and commits the result as "Auto-update (feed spreadsheet ...)", naming what changed. If nothing is new, it does nothing.
 It does not make show notes or transcripts; those stay manual (the double-click tool for transcripts).
-Run the same thing by hand with `python3 scripts/update_from_feed.py` (needs `pip install pillow`).
+Run the same thing by hand with `python3 scripts/python/update_from_feed.py` (needs `pip install pillow`).
 
 ## Links tab (make_links.py)
 
@@ -52,7 +77,7 @@ Run the same thing by hand with `python3 scripts/update_from_feed.py` (needs `pi
 3. Verification: a non-Wikipedia URL is kept only if it appeared in the web search results and still loads. Episode titles that match a
    NEStalgia episode become "Our episode" links.
 `/make-links N` (`.claude/commands/make-links.md`) is the no-API-key route: Claude Code does steps 1-2 by hand, writes a proposals file (with `searched_urls`),
-and `--check-proposals` / `--from-proposals` run the same verification. Run `python3 scripts/test_make_links.py` for the offline tests (fake client, no key needed). Key: `~/.config/nestalgia/anthropic_key`
+and `--check-proposals` / `--from-proposals` run the same verification. Run `python3 scripts/python/tests/test_make_links.py` for the offline tests (fake client, no key needed). Key: `~/.config/nestalgia/anthropic_key`
 or `ANTHROPIC_API_KEY`. `--dry-run` shows the size of a request without spending anything; `--from-proposals FILE` verifies links from a
 file (used for the episode 446 sample). Untested against the live API as of this commit: there was no key on the dev machine.
 

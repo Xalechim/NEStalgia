@@ -36,7 +36,7 @@ jobs:
       - name: Build the site
         env:
           PYTHONDONTWRITEBYTECODE: "1"
-        run: python scripts/build_site.py
+        run: python scripts/python/build_site.py
 
       - name: Build the search index
         run: npx --yes pagefind@1 --site site

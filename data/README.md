@@ -8,7 +8,7 @@ One record for every item in the podcast feed (459 as of the last build), newest
 Rebuild both from the live feed any time (it also re-checks which notes, transcripts and art exist in the repo):
 
 ```bash
-python3 scripts/build_episode_data.py
+python3 scripts/python/build_episode_data.py
 ```
 
 ## Fields
@@ -34,4 +34,4 @@ Episodes that aren't in the public feed yet aren't in this file.
 ## Episode links
 
 `data/links/NNN-game-name.json` holds the links shown on an episode's Links tab (one file per episode that has a transcript). Made by
-`scripts/make_links.py`; safe to edit by hand.
+`scripts/python/make_links.py`; safe to edit by hand.
