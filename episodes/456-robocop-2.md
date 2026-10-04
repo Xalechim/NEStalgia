@@ -102,10 +102,10 @@
 
 - Case for Essential
   - The quota system is a perfect fossil of a specific NES-era design mistake, and a game that fails this legibly is more useful to understand than a competent one.
-- Supporting points: The memory-puzzle secret is a real idea, and rare in a tie-in. The anti-Game Genie hang is one of the stranger things anyone shipped on the console. It is a genuine artifact of the licensing boom at its peak.
+  - Supporting points: The memory-puzzle secret is a real idea, and rare in a tie-in. The anti-Game Genie hang is one of the stranger things anyone shipped on the console. It is a genuine artifact of the licensing boom at its peak.
 - Case against Essential
   - The central mechanic hides its own win condition from you, and no amount of RoboCop affection survives failing a level for a reason the game never showed you.
-- Supporting points: The arrest mechanic fights the shooting mechanic on purpose and neither one wins. Contemporary reviewers flagged the controls in 1991, so this is not hindsight. If you want a good RoboCop 2, the Spectrum and Amiga versions are the ones that won awards, and neither is on this console.
+  - Supporting points: The arrest mechanic fights the shooting mechanic on purpose and neither one wins. Contemporary reviewers flagged the controls in 1991, so this is not hindsight. If you want a good RoboCop 2, the Spectrum and Amiga versions are the ones that won awards, and neither is on this console.
 
 ## Research notes
 

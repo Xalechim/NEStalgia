@@ -1,4 +1,4 @@
-# 457 - Nobunaga's Ambition II
+# 455 - Nobunaga's Ambition II
 
 - Return to a world of loyalty and honor
 
@@ -96,7 +96,7 @@
 
 - Case for Essential
   - This is the NES library's deepest strategy game, and you cannot understand the console's full range without acknowledging that Koei shipped a 400-character historical simulation onto it in 1991.
-- The two-scenario structure gives it real replay value.
+  - The two-scenario structure gives it real replay value.
 - Case against Essential
   - You are asking listeners to read menus on a television for 40 hours, and the game solves itself once you understand that bigger armies win.
-- No NES-specific reason to play it. The computer versions are better and came first. The endgame stalls out into pure administration. Essential for the NES should probably mean essential ON the NES, and this was a port down, not a game built for the hardware.
+  - No NES-specific reason to play it. The computer versions are better and came first. The endgame stalls out into pure administration. Essential for the NES should probably mean essential ON the NES, and this was a port down, not a game built for the hardware.
