@@ -128,12 +128,11 @@ footer.site { background: var(--dark); color: #ddd; padding: 22px 20px; font-siz
 footer.site a { color: #ff8a80; }
 
 /* Pagefind search box */
-:root { --pagefind-ui-primary: #d62d20; --pagefind-ui-text: #1f1f1f; --pagefind-ui-background: var(--paper); --pagefind-ui-border: #2e2e2e; --pagefind-ui-border-width: 3px; --pagefind-ui-border-radius: 0px; --pagefind-ui-font: inherit; }
+:root { --pagefind-ui-primary: #d62d20; --pagefind-ui-text: var(--ink); --pagefind-ui-background: var(--paper); --pagefind-ui-border: var(--line); --pagefind-ui-border-width: 3px; --pagefind-ui-border-radius: 0px; --pagefind-ui-font: inherit; }
 
 @media (max-width: 760px) {
   .ep { grid-template-columns: 1fr; }
   .ep .art { max-width: 340px; }
-  header.site nav a { margin-left: 12px; }
 }
 
 [hidden] { display: none !important; }
@@ -192,12 +191,26 @@ main, .panel, .prose, .desc, .turn, .meta, .card .t, details.tx, .note {
   .turn { padding: 7px 8px; }
 }
 
-/* Top menu wraps instead of overflowing on very narrow screens */
-header.site nav { display: flex; flex-wrap: wrap; gap: 4px 16px; }
-header.site nav a { margin-left: 0; }
+/* Top menu: wraps without JavaScript; with it, links that do not fit move into a "More" dropdown (nav.js) */
+header.site nav { display: flex; align-items: center; justify-content: flex-end; gap: 4px 16px; flex-wrap: wrap; }
+header.site nav .links { display: flex; flex-wrap: wrap; gap: 4px 16px; justify-content: flex-end; }
+header.site nav a { margin-left: 0; white-space: nowrap; }
+html.js-nav header.site .bar { flex-wrap: nowrap; }
+html.js-nav header.site nav { flex: 1 1 0; min-width: 0; flex-wrap: nowrap; }
+html.js-nav header.site nav .links { flex: 0 1 auto; min-width: 0; flex-wrap: nowrap; overflow: hidden; justify-content: flex-start; }
+html.js-nav header.site nav .links a { flex: none; }
+header.site .brand { flex: none; }
+header.site #theme { margin-left: 0; flex: none; }
+.more { position: relative; flex: none; }
+.more[hidden], .menu[hidden] { display: none; }
+.morebtn { font: 700 14px var(--mono); text-transform: uppercase; letter-spacing: .06em; background: none; border: 0; color: #fff; cursor: pointer; padding: 0; }
+.morebtn:hover, .morebtn[aria-expanded=true], .morebtn[aria-current] { color: #ff8a80; }
+.menu { position: absolute; right: 0; top: calc(100% + 12px); z-index: 30; min-width: 170px; background: var(--dark); border: 2px solid var(--line); box-shadow: 4px 4px 0 var(--shadow); padding: 6px 0; display: flex; flex-direction: column; }
+header.site .menu a { display: block; margin: 0; padding: 9px 18px; }
+header.site .menu a:hover { background: rgba(255,255,255,.08); }
 @media (max-width: 420px) {
   header.site .bar { padding: 8px 14px; }
-  header.site nav a { font-size: 12.5px; }
+  header.site nav a, .morebtn { font-size: 12.5px; }
   header.site nav { gap: 4px 12px; }
 }
 

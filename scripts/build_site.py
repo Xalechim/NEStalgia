@@ -46,6 +46,7 @@ LINKS = [
     ("RSS", "https://anchor.fm/s/5808ab8/podcast/rss"),
 ]
 CONTACT_EMAIL = "michaelespositofilm@gmail.com"
+CONTACT_ALIAS = ""  # the private address FormSubmit issues after activation (hides the email from spam scrapers)
 SHEET_URL = "https://docs.google.com/spreadsheets/d/1r5WpTbM0EYLbr1ylXthvf57HWgjo1iScI_c5HKgfSKc/edit?usp=sharing"
 E = html.escape
 
@@ -376,12 +377,12 @@ def page(title, body, path, desc="", image=None, search=False, current="", jsonl
           f'<script src="{BASE}/pagefind/pagefind-ui.js"></script>') if search else ""
     nav = "".join(
         f'<a href="{BASE}{href}"{" aria-current=page" if current == key else ""}>{label}</a>'
-        for key, href, label in (("home", "/", "Home"), ("eps", "/episodes/", "Episodes"), ("essential", "/essential/", "Essentials"), ("stats", "/stats/", "Stats"), ("articles", "/articles/", "Articles"), ("search", "/search/", "Search"), ("about", "/about/", "About"))
+        for key, href, label in (("home", "/", "Home"), ("eps", "/episodes/", "Episodes"), ("essential", "/essential/", "Essentials"), ("stats", "/stats/", "Stats"), ("articles", "/articles/", "Articles"), ("search", "/search/", "Search"), ("about", "/about/", "About"), ("contact", "/contact/", "Contact"))
     )
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<script>(function(){{try{{var t=localStorage.getItem("theme");if(!t)t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.dataset.theme=t}}catch(e){{}}}})()</script>
+<script>(function(){{try{{var t=localStorage.getItem("theme");if(!t)t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.dataset.theme=t}}catch(e){{}}document.documentElement.classList.add("js-nav")}})()</script>
 <title>{E(title)}</title>
 {f'<link rel="canonical" href="{SITE_URL}{path}">' if path else ""}
 <meta name="description" content="{E(desc[:200])}">
@@ -390,11 +391,12 @@ def page(title, body, path, desc="", image=None, search=False, current="", jsonl
 <link rel="icon" href="{BASE}/icon.png"><link rel="apple-touch-icon" href="{BASE}/icon.png">
 <link rel="stylesheet" href="{BASE}/style.css">{pf}{jsonld_tag(jsonld)}</head>
 <body><a class="skip" href="#main">Skip to content</a>
-<header class="site"><div class="bar"><a class="brand" href="{BASE}/"><img src="{BASE}/logo.png" alt="NEStalgia"></a><nav>{nav}<button id="theme" type="button" aria-label="Switch between light and dark mode"></button></nav></div></header>
+<header class="site"><div class="bar"><a class="brand" href="{BASE}/"><img src="{BASE}/logo.png" alt="NEStalgia"></a><nav id="nav" aria-label="Main"><div class="links">{nav}</div><div class="more" hidden><button type="button" class="morebtn" aria-expanded="false" aria-haspopup="true" aria-controls="moremenu">More &#9662;</button><div class="menu" id="moremenu" hidden></div></div><button id="theme" type="button" aria-label="Switch between light and dark mode"></button></nav></div></header>
 <main id="main">{body}</main>
 <footer class="site">NEStalgia is a podcast by Michael Esposito and friends. Text is
 <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>; game art belongs to its owners.
 <a href="https://github.com/Xalechim/NEStalgia">Source on GitHub</a>.</footer>
+<script src="{BASE}/nav.js"></script>
 <script>document.getElementById("theme").addEventListener("click",function(){{var t=document.documentElement.dataset.theme==="dark"?"light":"dark";document.documentElement.dataset.theme=t;try{{localStorage.setItem("theme",t)}}catch(e){{}}}});</script>{analytics_tag()}
 </body></html>"""
 
@@ -547,7 +549,7 @@ def build_migrated(data, write, card_html):
     write("contact/index.html", page("Contact · NEStalgia", f"""<h1>Contact</h1>
 <p class="lede">Questions, corrections, or a game we should cover? Send us a message and it goes straight to our inbox.</p>
 <p id="sent" class="sent" hidden role="status"><b>Message sent.</b> Thanks for writing. We read everything.</p>
-<form class="cform" action="https://formsubmit.co/{CONTACT_EMAIL}" method="POST">
+<form class="cform" method="POST" data-user="{CONTACT_EMAIL.split("@")[0]}" data-domain="{CONTACT_EMAIL.split("@")[1]}" data-alias="{CONTACT_ALIAS}">
 <input type="hidden" name="_subject" value="New message from nestalgiacast.com">
 <input type="hidden" name="_next" value="{SITE_URL}/contact/?sent=1">
 <input type="hidden" name="_template" value="table">
@@ -559,10 +561,12 @@ def build_migrated(data, write, card_html):
 <button class="btn" type="submit">Send message</button>
 <p class="note">Sent through FormSubmit, which delivers it to our email. We only use your address to reply.</p>
 </form>
-<script>if(location.search.indexOf("sent=1")!==-1){{document.getElementById("sent").hidden=false;}}</script>
+<noscript><p class="note">The form needs JavaScript. Without it, reach us on Patreon or GitHub below.</p></noscript>
+<script>(function(){{var f=document.querySelector(".cform");f.action="https://formsubmit.co/"+(f.dataset.alias||(f.dataset.user+"@"+f.dataset.domain));
+if(location.search.indexOf("sent=1")!==-1){{document.getElementById("sent").hidden=false;}}}})();</script>
 <h2>Other ways to reach us</h2>
 <div class="btns" style="justify-content:flex-start"><a class="btn" href="https://www.patreon.com/nestalgia">Patreon</a>
-<a class="btn alt" href="https://github.com/Xalechim/NEStalgia/issues/new">Report a correction on GitHub</a></div>""", "/contact/"))
+<a class="btn alt" href="https://github.com/Xalechim/NEStalgia/issues/new">Report a correction on GitHub</a></div>""", "/contact/", current="contact"))
     real.add("/contact")
 
     # Redirect pages for every old address that no longer has a real page
@@ -625,7 +629,7 @@ def main():
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()
-    for f in ("style.css", "app.js", "tabs.js", "player.js", "logo.png", "icon.png"):
+    for f in ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "logo.png", "icon.png"):
         shutil.copy(SRC / f, OUT / f)
     (OUT / ".nojekyll").write_text("")
 
