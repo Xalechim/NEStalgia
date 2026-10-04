@@ -124,9 +124,14 @@ def measure(n, mix_path, url, log=print):
         # does the shift change later (a mid-roll)? Compare with the tail of the file.
         tail = os.path.join(td, "tail.mp3")
         tail_bytes = 4_000_000
-        download(url, f"bytes={size - tail_bytes}-{size - 1}", tail)
-        tail_start_abs = (size - tail_bytes) * 8 / bps
-        tail_env = envelope(decode(tail))
+        try:
+            download(url, f"bytes={size - tail_bytes}-{size - 1}", tail)
+            tail_start_abs = (size - tail_bytes) * 8 / bps
+            tail_env = envelope(decode(tail))
+        except subprocess.CalledProcessError:
+            # the host sent an end-of-file slice that can't be decoded (seen on a few episodes): use the slow whole-file method instead
+            log(f"   episode {n}: the end of the hosted file couldn't be sampled; aligning the whole file instead")
+            return measure_full(n, mix_path, url, off_start, log)
         win_start = max(0.0, mix_total - 150)
         mix_tail = envelope(decode(mix_path, win_start, 90))
         r2 = best_match(mix_tail, tail_env)
