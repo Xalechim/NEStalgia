@@ -1,0 +1,2005 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.220
+Pitch, hit, and run like the pros, bass is loaded!
+
+00:00:19.100 --> 00:00:27.560
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:27.840 --> 00:00:28.780
+I'm Mike.
+
+00:00:28.780 --> 00:00:29.700
+I'm Joe.
+
+00:00:30.020 --> 00:00:38.680
+And I'm Sean. And today we are talking about Jaleco's Bases Loaded, a baseball game, but I understand that,
+
+00:00:38.780 --> 00:00:42.660
+you know, not everyone here might be familiar with baseball.
+
+00:00:43.020 --> 00:00:47.140
+So, I mean, in order for you to understand what we're talking about with this game, you
+
+00:00:47.140 --> 00:00:50.360
+sort of have to understand what the sport of baseball is even about.
+
+00:00:50.360 --> 00:01:00.800
+So, basically, baseball is their weekly reenactments of the Battle of Gettysburg, where there were
+
+00:01:00.800 --> 00:01:04.660
+the Union troops who stood on top of large hills.
+
+00:01:04.660 --> 00:01:05.500
+Were they large?
+
+00:01:05.720 --> 00:01:07.340
+They were. It was a very large hill.
+
+00:01:07.540 --> 00:01:13.520
+And then the Confederate troops stood out in a wide field.
+
+00:01:13.860 --> 00:01:19.400
+And they had sticks and balls and basically would throw a ball up into the air and hit it
+
+00:01:19.400 --> 00:01:25.160
+with a stick. And if it hit the person that threw the ball, well, that's a strike.
+
+00:01:25.580 --> 00:01:28.340
+Baseball is also a numbers game.
+
+00:01:28.540 --> 00:01:29.560
+It's a game of numbers.
+
+00:01:29.820 --> 00:01:30.980
+It's a game of math magicians.
+
+00:01:31.460 --> 00:01:35.640
+It's a game for everybody who can count.
+
+00:01:36.400 --> 00:01:37.720
+Because ultimately, yeah, count down.
+
+00:01:38.380 --> 00:01:39.560
+Down? Mostly up.
+
+00:01:39.640 --> 00:01:42.160
+Yeah, I actually can't think of a scenario in baseball where you count down.
+
+00:01:42.180 --> 00:01:43.600
+Well, how many outs you have left.
+
+00:01:43.840 --> 00:01:45.480
+Yeah, you do everything in reverse.
+
+00:01:45.580 --> 00:01:47.520
+And how many more runs you have until 100.
+
+00:01:47.520 --> 00:01:50.140
+Until 100. From 100.
+
+00:01:50.320 --> 00:01:55.200
+You know, in true fashion though, no Major League Baseball game has ever scored 100 runs.
+
+00:01:55.440 --> 00:01:56.300
+Ever. How do you know?
+
+00:01:56.780 --> 00:01:58.520
+Combined? I just know.
+
+00:01:58.520 --> 00:02:02.500
+I think actually like the most combined runs ever was something like 36.
+
+00:02:02.900 --> 00:02:05.140
+That's stupid. It's a lot of runs in one game though.
+
+00:02:05.300 --> 00:02:08.020
+Yeah. Anyway, that's not what we're here to talk about.
+
+00:02:08.200 --> 00:02:11.100
+Thank you for your very accurate description of baseball, Sean.
+
+00:02:11.860 --> 00:02:16.540
+I'm sure if you listened to last week's episode, Faithful Fans, you already know what
+
+00:02:16.540 --> 00:02:17.540
+baseball is all about.
+
+00:02:17.780 --> 00:02:20.240
+It's about the American Revolutionary War.
+
+00:02:20.880 --> 00:02:21.780
+Not the Civil War.
+
+00:02:22.220 --> 00:02:28.160
+And we are going to get into that right away as we talk about what makes Jaleco's bases
+
+00:02:28.160 --> 00:02:34.360
+loaded. So much that more different than the other three baseball games that we've played so far.
+
+00:02:34.520 --> 00:02:38.820
+And I will take it away with the easiest description I can give you, which is that somebody has
+
+00:02:38.820 --> 00:02:44.320
+finally figured out a way to take what you're seeing on your TV when you watch a baseball game
+
+00:02:44.320 --> 00:02:49.660
+and then say, hey, why not just make it look like that while they play the baseball game?
+
+00:02:49.660 --> 00:03:06.880
+It seems that somebody in the art department at Jaleco finally took a class in human figure drawing because they actually do look like human beings instead of these very weird pudgy meatball men that also are wearing glaring hats and jerseys.
+
+00:03:06.880 --> 00:03:12.000
+Yeah. And the camera is definitely coming from center field where it is for all the game feeds.
+
+00:03:12.080 --> 00:03:17.820
+There's perspective. And yeah. And you see yourself on the pitcher's mound and it's facing the batter.
+
+00:03:17.840 --> 00:03:20.060
+And that doesn't change when you're at bat.
+
+00:03:20.200 --> 00:03:25.020
+You're still seeing the same view that you would see if you were watching a Major League
+
+00:03:25.020 --> 00:03:33.300
+baseball game. So this is the first time that we're really seeing a kind of like a rewrite on how to do a baseball game on the NES.
+
+00:03:33.520 --> 00:03:35.540
+And this is kind of, I mean, it's like the norm now too, right?
+
+00:03:35.640 --> 00:03:36.760
+I mean, it's like you're watching it on TV.
+
+00:03:37.000 --> 00:03:48.420
+I mean, this is actually a very good old timey looking thing that you would get if you were pitching in a game, like in a current game.
+
+00:03:48.440 --> 00:03:50.720
+But if you're batting, it's still behind you.
+
+00:03:50.840 --> 00:03:54.380
+That's right. I guess you could play it with you behind the pitcher.
+
+00:03:54.380 --> 00:03:55.820
+I actually never tried that.
+
+00:03:56.040 --> 00:04:02.200
+Yeah. Usually in games today, you're only ever like basically from the catcher's perspective.
+
+00:04:02.620 --> 00:04:08.180
+Yeah. But this looks like an HD remaster of the entire sport of baseball.
+
+00:04:08.360 --> 00:04:16.360
+I got to say, the graphics in this game are so choice, whether it's the batting screens or the fielding screens.
+
+00:04:16.540 --> 00:04:20.800
+They just look so tasty and scrumptious and like 70s mustaches everywhere.
+
+00:04:20.800 --> 00:04:25.160
+Yeah, it's a little like, I don't even know what to add to that, but you're right.
+
+00:04:25.480 --> 00:04:38.400
+Yeah. And there's also like, while we're talking about the presentation of everything, there's something here that all of the other games were missing for me in terms of like flair to these things.
+
+00:04:38.400 --> 00:04:39.600
+Like you can see. Like Rick Flair.
+
+00:04:40.160 --> 00:04:45.300
+Yeah, exactly. But you can see like people behind you in the stadium.
+
+00:04:45.520 --> 00:04:47.020
+Yeah. You can see like.
+
+00:04:47.200 --> 00:04:49.280
+Well, there are like little dots in the last game.
+
+00:04:49.520 --> 00:04:53.420
+The umpires get like, the umpires get names even, like for no good reason.
+
+00:04:53.420 --> 00:04:59.460
+It goes back to the scoreboard to show you like the entire lineups and who's coming up to bat.
+
+00:05:00.320 --> 00:05:04.840
+If you get a home run, you get a little, you get a cool little animatic.
+
+00:05:05.120 --> 00:05:08.880
+Yeah. Of the person rounding the bases behind the base.
+
+00:05:11.040 --> 00:05:20.100
+And also, you know, for those of you who are familiar with like baseball in the 80s and stuff like that, that's how minimal the scoreboard used to be too.
+
+00:05:20.100 --> 00:05:25.020
+So like, it's kind of like the on screen, the on screen, the constant on screen scoreboard.
+
+00:05:25.140 --> 00:05:28.300
+It like having like ball strikes outs right there and just showing you them.
+
+00:05:28.440 --> 00:05:32.000
+Like it feels, it feels very much alive in this one.
+
+00:05:32.120 --> 00:05:33.520
+I like, I like the presentation.
+
+00:05:33.520 --> 00:05:41.060
+They stepped it up tenfold from the only thing that's really missing from like a real factor is the catcher's mitt.
+
+00:05:41.260 --> 00:05:42.340
+What's going on there?
+
+00:05:43.620 --> 00:05:46.480
+This is next gen graphics here.
+
+00:05:46.480 --> 00:05:50.040
+Like, first of all, they didn't need to put the catcher's mitt in the game.
+
+00:05:50.220 --> 00:06:00.300
+The fact that they put it in, I know it's a weird thing that if it's way out, if it's, if it's way out of the strike zone, if he, the guy kind of loses his mitt.
+
+00:06:00.300 --> 00:06:06.460
+But the fact that it's in there at, it has like a, it has a purpose gameplay wise.
+
+00:06:06.860 --> 00:06:10.180
+Um, it's just a, I think a really cool addition.
+
+00:06:10.460 --> 00:06:16.240
+To elaborate on that a little bit, uh, the, what the catcher's mitt does is it, it basically moves where you're pitching the ball.
+
+00:06:16.360 --> 00:06:20.620
+So you can better see as the pitcher or as the batter, where the ball is going.
+
+00:06:20.620 --> 00:06:22.420
+Yeah. So it's a nice feature.
+
+00:06:22.520 --> 00:06:24.340
+It does kind of triangulate the position.
+
+00:06:24.600 --> 00:06:25.760
+And it does. Yes.
+
+00:06:25.900 --> 00:06:29.760
+It does float a little ways off the catcher's body and go way outside.
+
+00:06:29.900 --> 00:06:33.040
+It's almost like it's disembodied from him because he doesn't move at all.
+
+00:06:33.160 --> 00:06:34.180
+And I'm not expecting him to.
+
+00:06:34.380 --> 00:06:39.980
+So before anybody comes back, I was never expecting the catcher to actually like bend his knees a little and stuff like that.
+
+00:06:40.200 --> 00:06:44.660
+I just thought that was like a funny, like touch to like all this other, like great stuff that's going on.
+
+00:06:44.660 --> 00:06:47.760
+However, all made up teams and players.
+
+00:06:48.700 --> 00:06:52.300
+This isn't, this isn't a game breaker for me, or this isn't a deal breaker for me.
+
+00:06:52.440 --> 00:06:55.740
+I love games, uh, sports games that create that.
+
+00:06:55.740 --> 00:07:04.720
+I mean, they don't, this isn't created its own universe, but it does have like stories kind of told between the names of players and what teams they're on.
+
+00:07:04.900 --> 00:07:08.880
+Sort of like reminds me of, uh, Blitz the League.
+
+00:07:09.100 --> 00:07:13.640
+If you've ever played that, um, it's, I mean, it's, it's, it's a game.
+
+00:07:13.640 --> 00:07:14.980
+It's not anything like this.
+
+00:07:15.100 --> 00:07:22.200
+It's first of all, it's football, but it is, uh, made up teams with made up players and, uh, they all have their own little stories to tell.
+
+00:07:22.320 --> 00:07:23.840
+And this is sort of like that.
+
+00:07:23.940 --> 00:07:25.140
+It's fun. Yeah.
+
+00:07:25.340 --> 00:07:28.120
+I definitely didn't mean it as like a deal breaker either.
+
+00:07:28.360 --> 00:07:34.200
+I just thought that it's interesting how like we saw one game that did get the team names.
+
+00:07:34.260 --> 00:07:35.520
+The other one that got the player names.
+
+00:07:35.700 --> 00:07:37.740
+And this time it's just like, yeah, you know what?
+
+00:07:38.000 --> 00:07:38.800
+Yeah. None of that.
+
+00:07:38.940 --> 00:07:40.100
+But instead, Utah.
+
+00:07:40.340 --> 00:07:41.480
+Yeah. I was just going to say Utah.
+
+00:07:41.960 --> 00:07:42.820
+It's so funny.
+
+00:07:43.000 --> 00:07:49.340
+Right. But instead you get to choose like, um, you know, what, what factor you want in your game.
+
+00:07:49.440 --> 00:07:52.960
+So now, now in 1980 alone, we've had three different baseball games.
+
+00:07:52.960 --> 00:08:01.620
+So it's either you care about your team, you care about your players, your athletes, or you just care about presentation of what a baseball game is.
+
+00:08:01.660 --> 00:08:03.880
+Because a lot of people like to just like watch baseball.
+
+00:08:03.880 --> 00:08:05.000
+It's therapeutic, you know?
+
+00:08:05.140 --> 00:08:10.880
+Like, it's a long game that, um, some people recently have not, you know, have been trying to like speed up.
+
+00:08:10.880 --> 00:08:14.260
+But for everything baseball is, I think that, uh, this one is very faithful.
+
+00:08:14.520 --> 00:08:20.740
+Yeah. That adaptation. And I was surprised on booting the game up because I never looked at anything beforehand.
+
+00:08:21.000 --> 00:08:23.940
+I was surprised to see this graphical.
+
+00:08:24.560 --> 00:08:30.720
+Yeah. So was I. Not even just the graphical presentation, but just the, like the decisions on where the camera, quote unquote, the camera is and everything.
+
+00:08:30.880 --> 00:08:34.080
+I was, did not expect them to change up the formula that much.
+
+00:08:34.440 --> 00:08:45.760
+Yeah. They're really, they're really going for something here too, because immediately, uh, you can, you can see that you can do a whole, uh, 162 game season of, of, um, of baseball.
+
+00:08:46.120 --> 00:08:48.320
+I think it's a nine game season, but.
+
+00:08:48.720 --> 00:08:53.720
+Oh, really? I guess I never, like, I never asked myself like what a season would entail.
+
+00:08:53.720 --> 00:08:54.820
+I think that's like a round robin.
+
+00:08:54.880 --> 00:08:56.000
+But, okay. That's cool.
+
+00:08:56.240 --> 00:08:57.400
+You play, yeah, you play. You play the other team.
+
+00:08:57.640 --> 00:09:04.900
+Yeah. Okay. Because I was going to say that, uh, the password system there, um, gives you the option to like.
+
+00:09:05.220 --> 00:09:06.200
+Yeah. Store your progress.
+
+00:09:06.560 --> 00:09:07.960
+Store your progress and stuff like that.
+
+00:09:07.960 --> 00:09:11.540
+And the other team's records, because after every game it'll give you a box score.
+
+00:09:11.900 --> 00:09:23.640
+Yeah. So, uh, it was just, it was just neat to see like something that would actually like store stats in that way, rather than just provide the stats of players based on like, you know, the set stats that they provide.
+
+00:09:24.800 --> 00:09:29.460
+And they're not necessarily like the best teams will always just advance to the finals.
+
+00:09:29.980 --> 00:09:31.920
+Yeah. So that, that was, that was really cool.
+
+00:09:32.020 --> 00:09:33.940
+And I liked that there was a password system for that.
+
+00:09:34.100 --> 00:09:42.940
+It reminded me of like having, uh, a bunch of N64 sports games that I love and that you, if you didn't have a memory card, you could use a password for those to store your season.
+
+00:09:43.060 --> 00:09:45.100
+I did that with Wayne Gretzky's 3D hockey a lot.
+
+00:09:45.340 --> 00:09:46.160
+Do love that game.
+
+00:09:46.220 --> 00:09:52.140
+That's a great game. Uh, so, so that's that, but let's, uh, let's actually get into the gameplay of baseball here.
+
+00:09:52.340 --> 00:09:53.700
+We always start with batting.
+
+00:09:53.880 --> 00:10:00.960
+So, uh, who can talk me through kind of, you know, what makes this batting different than the other four, the three games we played?
+
+00:10:02.700 --> 00:10:03.740
+Um, do you want to go?
+
+00:10:03.860 --> 00:10:18.680
+It doesn't matter. I don't have, I mean, I can start, I guess, but the one, the one biggest difference that I noticed was that, uh, I personally relied a lot more on the shadow of the ball, uh, to, to see like the, to see how high or low it was pitched when I, you know, when I'm batting.
+
+00:10:18.680 --> 00:10:30.220
+And then, uh, and then I also, like we said, like the, the catcher's mitt do feel like it was easier than, um, RBI baseball to tell when to, to, to read the pitch.
+
+00:10:30.520 --> 00:10:44.720
+See, I, so the fact that we've completely switched the, the camera system here and again, camera loose term, but with the perspective now behind the pitcher, uh, at a sort of, uh, at an off angle.
+
+00:10:44.720 --> 00:10:55.980
+So that there's a lot more depth that needs to be communicated to you in some other way than just a straight line from the pitcher to the hitter.
+
+00:10:56.380 --> 00:11:01.700
+Um, the fact that all of these changes were made really threw me off in the beginning.
+
+00:11:01.700 --> 00:11:10.820
+Like I was swinging at air half the time, um, because the, the, you would think that it's coming at a low, uh, a low angle, but it's actually way above you.
+
+00:11:10.820 --> 00:11:16.300
+But you do eventually learn, um, and if this is your first game, then I'm sure it'll be a lot easier to pick up.
+
+00:11:17.900 --> 00:11:32.740
+Um, but the biggest difference between this game and the previous baseball games, aside from the perspective change, is that this is zone hitting as opposed to just move your guy around in the, in the batter's box and try and follow the ball.
+
+00:11:33.680 --> 00:11:37.200
+So if it looks like it's coming low, you can decide to swing low.
+
+00:11:37.320 --> 00:11:42.360
+If it looks like it's coming high, you can decide to swing high and all of the other permutations of that.
+
+00:11:42.720 --> 00:11:44.120
+Yeah, that's true. I forgot about that.
+
+00:11:44.240 --> 00:11:45.660
+And that made, that made a big difference.
+
+00:11:45.660 --> 00:11:50.800
+And also I will also say, I feel like the ball, uh, the pitch comes in slower.
+
+00:11:51.260 --> 00:11:54.660
+Yeah. It seems like so it's, so it's, that's my big reason why I think it's easier to read.
+
+00:11:55.200 --> 00:12:13.620
+Yeah. Uh, I don't really have much more to add to that, but I did think that it was interesting that there were times where even if you, um, even if you could predict what, you know, which zone the pitcher was pitching in, uh, I felt like you still couldn't make exact contact with the ball.
+
+00:12:13.620 --> 00:12:17.800
+Uh, if you chose like a, you know, a near area to it.
+
+00:12:17.860 --> 00:12:26.320
+So like if he was pitching high and you chose to swing high, you would see it, but it wouldn't necessarily always guarantee contact just because you chose correctly.
+
+00:12:26.640 --> 00:12:28.540
+And then sometimes it would even just give you a foul.
+
+00:12:28.800 --> 00:12:40.400
+Right. And I, and I thought that was, I thought that was kind of a strange choice here because there's already so many like permutations involved there of just like, well, there's eight different zones and, uh, or nine, there's nine different zones.
+
+00:12:40.400 --> 00:12:47.960
+And now I have to choose like nine different potential batting swings and guessing the right one should give like some kind of extra reward.
+
+00:12:47.960 --> 00:12:55.120
+I feel like it's kind of like in, um, the show you have the ability to kind of select like, I think he'll shoot here.
+
+00:12:55.200 --> 00:12:58.260
+And if, and if he does, they'll show you the pitch coming as like a reward.
+
+00:12:58.300 --> 00:13:07.180
+I think it does enough, uh, to reward you for guessing correctly, because if you guess wrong, you're not going to make any contact.
+
+00:13:07.180 --> 00:13:11.840
+So if you get, if you guess correctly, or you're not even guessing, you're just using the information provided.
+
+00:13:12.200 --> 00:13:20.600
+Uh, it really is just up to maybe, uh, it is up to the stats of the hitter and, uh, your timing.
+
+00:13:20.860 --> 00:13:25.620
+For me, I just had a little problem with like hitting in this game compared to our other baseball games.
+
+00:13:25.800 --> 00:13:28.320
+I, it was very hard to get on base.
+
+00:13:28.320 --> 00:13:31.740
+Uh, but you know, it, it was what it was.
+
+00:13:31.880 --> 00:13:39.760
+And I did like the, the added bonus of controlling where you swing instead of moving around in the batter's box, which is something we said we were doing a lot of baseball.
+
+00:13:40.120 --> 00:13:44.160
+And in this one, you're more trying to just think about like where you should be making contact.
+
+00:13:44.400 --> 00:13:49.040
+You can also do like, um, for bunts and stuff like that.
+
+00:13:49.120 --> 00:13:50.980
+You can, or even check swings and stuff.
+
+00:13:51.060 --> 00:13:53.880
+I thought that was interesting that you don't necessarily have to commit through.
+
+00:13:54.100 --> 00:13:55.920
+You can kind of do like a drag bunt too.
+
+00:13:55.920 --> 00:14:04.300
+Yeah. So there, there's, there's a lot of interesting stuff going on there with batting that they've added, uh, that could go either way for me.
+
+00:14:04.440 --> 00:14:08.680
+You know, I think at times, no, seriously, I think at times I really liked having this setup.
+
+00:14:09.060 --> 00:14:12.560
+And then at other times I thought like, well, maybe it was better when it was simpler.
+
+00:14:13.000 --> 00:14:15.260
+Okay. Uh, okay, cool.
+
+00:14:15.440 --> 00:14:16.460
+Let's talk about running.
+
+00:14:19.040 --> 00:14:25.680
+So with running, um, as soon as you make contact with the ball, uh, there is a, like a flash to black.
+
+00:14:25.680 --> 00:14:32.900
+And then you come on to a bit more recognizable screen, uh, of the full diamond and outfield.
+
+00:14:33.540 --> 00:14:38.760
+Um, and if you didn't quite hit it right, you're just going to get a, an error sound,
+
+00:14:38.900 --> 00:14:44.200
+the kind of, and it's just going to say foul, by the way, the presentation, this is a voiced
+
+00:14:44.200 --> 00:14:45.520
+announcer. Right.
+
+00:14:46.000 --> 00:14:48.240
+Yeah. We've heard them try to do that before.
+
+00:14:48.620 --> 00:14:50.360
+And this is the clearest I can hear.
+
+00:14:50.640 --> 00:14:54.520
+Great. Yeah. Um, I surprised that we, that we forgot to mention that.
+
+00:14:54.840 --> 00:14:59.000
+Yeah. We were busy talking about the television style, but I mean, to have an actual like commentary
+
+00:14:59.000 --> 00:15:00.380
+was cool. But yeah.
+
+00:15:00.780 --> 00:15:07.660
+And with it in hitting as well, like it'll say strike ball, um, foul.
+
+00:15:07.660 --> 00:15:15.380
+So you've gotten to contact and now you're on that screen and it's kind of, it's, it's
+
+00:15:15.380 --> 00:15:20.020
+similar to the previous games, but this similar to RBI baseball, except for it just maps them
+
+00:15:20.020 --> 00:15:28.100
+differently. Um, the, um, the, uh, sprites that are used in, as like the players in this game though,
+
+00:15:28.620 --> 00:15:32.240
+uh, retain a more realistic form factor.
+
+00:15:32.500 --> 00:15:35.860
+Um, and I think they're just a little bit, uh, snappier too.
+
+00:15:36.060 --> 00:15:38.380
+Like there's, there's some momentum to the, to the players.
+
+00:15:38.620 --> 00:15:44.360
+Sure. I actually would argue that, uh, in terms of both running fielding and just like the way
+
+00:15:44.360 --> 00:15:49.200
+that the game plays out, it's much more realistic in terms of like, you know, we talked
+
+00:15:49.200 --> 00:15:53.360
+about in the last episode, if you go get, get a ground ball to shortstop, you might make
+
+00:15:53.360 --> 00:15:55.580
+it in this one, you don't have a chance, you know, it's done.
+
+00:15:55.720 --> 00:15:59.840
+It's a done deal. You also have less time than you think overall when it comes to running.
+
+00:16:00.060 --> 00:16:02.620
+So you can't always, yeah, yeah.
+
+00:16:02.780 --> 00:16:06.860
+You can't always like, uh, just, just go to second because it was out, you know, it
+
+00:16:06.860 --> 00:16:08.120
+was into the outfield. Honestly.
+
+00:16:08.760 --> 00:16:14.740
+Yeah, it's true. Um, and I just wanted to say that the umpires in this game are bullshit.
+
+00:16:15.180 --> 00:16:19.180
+Uh, they are liars and they're cheats because I've seen it.
+
+00:16:19.200 --> 00:16:24.100
+I've definitely had my foot on one or two plates that are just called out.
+
+00:16:24.500 --> 00:16:27.360
+And I don't know if you guys had a similar experience.
+
+00:16:27.400 --> 00:16:29.540
+Was that yuck, dumb, boo, or bum?
+
+00:16:29.760 --> 00:16:31.040
+I think it may have been yuck.
+
+00:16:31.200 --> 00:16:36.540
+Okay. For those of you unaware, those are the names provided of the, uh, of the umpires on the
+
+00:16:36.540 --> 00:16:41.760
+scoreboard. Uh, yuck was the home plate umpire and he is the ultimate like controller of the game.
+
+00:16:41.920 --> 00:16:45.100
+So yeah, he's, he's actually have a similar experience.
+
+00:16:45.220 --> 00:16:47.140
+He is master hand in the Super Smash Brothers.
+
+00:16:47.140 --> 00:16:52.360
+Uh, I don't know if I had a, I think I would say that in this situation, the phrase tie
+
+00:16:52.360 --> 00:16:53.920
+goes to the runner is not true.
+
+00:16:54.260 --> 00:16:59.500
+Yeah. Uh, you know, I think that it's just automatically decided that close calls always just go to
+
+00:16:59.500 --> 00:17:02.280
+the fielding team, uh, regardless of things.
+
+00:17:02.580 --> 00:17:05.940
+But I don't know, as long as it's consistent, I feel like that's fine.
+
+00:17:06.140 --> 00:17:07.320
+Sure. Like it works for me.
+
+00:17:07.440 --> 00:17:11.260
+I would hate it if like the same thing happened as I was fielding.
+
+00:17:11.360 --> 00:17:13.260
+Now all of a sudden the runner is superior.
+
+00:17:13.600 --> 00:17:15.940
+Yeah. So I think it, I think it is a weird choice though.
+
+00:17:16.300 --> 00:17:17.440
+The tie always goes to the computer.
+
+00:17:18.120 --> 00:17:19.400
+Right. Yeah.
+
+00:17:19.740 --> 00:17:22.300
+Back then though, there was no video replays or anything like that.
+
+00:17:22.440 --> 00:17:26.780
+And a lot of times you would get, um, the benefit of the doubt as the runner in the tie.
+
+00:17:26.940 --> 00:17:27.880
+And that's where the saying comes from.
+
+00:17:27.880 --> 00:17:30.960
+So I would think it's kind of weird to program the game that way.
+
+00:17:31.400 --> 00:17:38.460
+However, uh, when it, when it comes to, uh, the simulation factor, uh, of the game here
+
+00:17:38.460 --> 00:17:40.720
+is specifically in base running and stuff like that.
+
+00:17:40.840 --> 00:17:43.740
+I think it nails just how hard it is.
+
+00:17:43.860 --> 00:17:47.860
+If you don't have the speed on your player, just how hard it is to actually get anywhere
+
+00:17:47.860 --> 00:17:49.000
+in baseball.
+
+00:17:49.000 --> 00:17:50.500
+It's not just about hitting the ball.
+
+00:17:50.680 --> 00:17:52.560
+It's about getting around the bases too.
+
+00:17:52.780 --> 00:17:56.960
+And you, some people might argue that they feel sluggish, but I don't think that they feel
+
+00:17:56.960 --> 00:18:01.300
+sluggish. I think it's just more like, well, that felt like 90 feet to base.
+
+00:18:01.800 --> 00:18:06.280
+Sluggish. But then if you compare it to everything else going on, the speed, the ball moves and everything
+
+00:18:06.280 --> 00:18:07.500
+else, then it's not sluggish.
+
+00:18:07.700 --> 00:18:09.240
+I think it's a pretty good representation.
+
+00:18:09.560 --> 00:18:14.660
+Yeah. So when you get around to pitching, it's, it's pretty much like you could describe it
+
+00:18:14.660 --> 00:18:19.400
+like, um, like the batting in the sense that you do get to choose between the nine different
+
+00:18:19.400 --> 00:18:25.340
+zones of where you want to pitch, but you can also choose between, um, four different
+
+00:18:25.340 --> 00:18:26.360
+pitches. Yes.
+
+00:18:26.360 --> 00:18:27.900
+Depending on your, depending on your D pad.
+
+00:18:28.080 --> 00:18:32.620
+And then you, so you first pick which type of pitch you want and then you pick which zone
+
+00:18:32.620 --> 00:18:33.460
+you want to throw it to.
+
+00:18:34.020 --> 00:18:37.140
+I thought pitching in this game was a lot better than the batting.
+
+00:18:37.140 --> 00:18:42.220
+I also felt that this was a bit more chaotic for me in terms of pitching.
+
+00:18:42.440 --> 00:18:45.220
+Like it was hard for me to put the ball where I wanted it.
+
+00:18:45.460 --> 00:18:49.460
+But, uh, again, I think it's supposed to be that way to some respect, especially for somebody
+
+00:18:49.460 --> 00:18:52.920
+that only played this for enough to, to record an episode about it.
+
+00:18:52.920 --> 00:18:54.980
+Sure. So, yeah, you get, I'm sure, yeah.
+
+00:18:55.080 --> 00:18:56.980
+I'm sure you develop the skill as you go.
+
+00:18:57.500 --> 00:19:03.760
+Um, but all the, again, with presentation, like all the, all the little, uh, hooks are
+
+00:19:03.760 --> 00:19:08.740
+there with like, you know, throwing it back and, um, you can bean somebody in this game.
+
+00:19:08.740 --> 00:19:16.240
+Uh, but, but what's interesting about that is that you can only bean, um, or rather you
+
+00:19:16.240 --> 00:19:20.180
+can only provoke one batter to charge the mound per team.
+
+00:19:20.180 --> 00:19:25.880
+I've, I didn't even know what I did because I, it happened to me and I got the guy to charge
+
+00:19:25.880 --> 00:19:29.820
+me. I don't know if it was like, if it was just because it was that guy.
+
+00:19:29.960 --> 00:19:31.320
+It's that guy. Only one.
+
+00:19:31.320 --> 00:19:33.260
+Oh, it's the specific batter that only.
+
+00:19:33.260 --> 00:19:34.300
+Only one batter per team.
+
+00:19:34.480 --> 00:19:37.040
+Usually the team's best hitter is who it is.
+
+00:19:37.480 --> 00:19:38.980
+And, um. And they threw him out.
+
+00:19:39.060 --> 00:19:40.240
+They can charge the mound.
+
+00:19:40.340 --> 00:19:41.540
+Yeah. It's like, it's like a whole thing.
+
+00:19:41.800 --> 00:19:45.200
+I really thought like, wow, that's, that's a extra level to go.
+
+00:19:45.480 --> 00:19:47.920
+Yeah. I didn't see it happen, but I read that that can happen.
+
+00:19:48.260 --> 00:19:51.560
+Yeah. It's interesting. It's interesting, uh, to see, I'll try and link a video if I can.
+
+00:19:51.560 --> 00:19:54.940
+Yeah. They give you another little animatic in the, uh, in the jumbotron.
+
+00:19:55.280 --> 00:20:01.040
+Right. And I mean, back, back in the eighties, like charging the mound was a little more frequent
+
+00:20:01.040 --> 00:20:03.180
+than it is today. Not that it doesn't happen today.
+
+00:20:03.180 --> 00:20:06.780
+It was just that like, you know, even my team, the New York Mets, they were known for
+
+00:20:06.780 --> 00:20:07.840
+being very aggressive.
+
+00:20:08.440 --> 00:20:12.220
+So like, I think, I think that's cool that they, that they chose to include that in the
+
+00:20:12.220 --> 00:20:15.060
+game and probably why they couldn't score any major league baseball licenses.
+
+00:20:15.520 --> 00:20:19.280
+Or maybe because major league baseball had already given them to, uh, like that would
+
+00:20:19.280 --> 00:20:21.760
+be funny actually to find out Jaleco just figures out like, wait a minute.
+
+00:20:22.580 --> 00:20:23.860
+They made a deal with the MLB.
+
+00:20:24.040 --> 00:20:25.100
+They made a deal with the NBA.
+
+00:20:25.100 --> 00:20:26.000
+What are we going to do?
+
+00:20:26.060 --> 00:20:27.220
+Give us team to Utah.
+
+00:20:27.560 --> 00:20:30.120
+That's right. Send that team to Utah.
+
+00:20:31.660 --> 00:20:36.080
+Uh, pitching, uh, Sean, just to get back into your point about like it not going where you
+
+00:20:36.080 --> 00:20:42.700
+wanted. I think for me, I didn't have that problem, but I had more of a problem of, uh, of figuring
+
+00:20:42.700 --> 00:20:48.120
+out what I wanted to do against the batter because these batters felt like they, yeah,
+
+00:20:48.180 --> 00:20:51.900
+they're pretty good compared to what we were talking about in the RBI baseball episode.
+
+00:20:52.760 --> 00:20:57.480
+And therefore it was more like, well, do I throw balls more often than I usually would?
+
+00:20:57.640 --> 00:21:02.000
+Like, it's not rewarding to throw bad pitches in baseball game, video games ever.
+
+00:21:02.200 --> 00:21:06.100
+You know, like you never, like, unless you're really playing on like harder difficulties and
+
+00:21:06.100 --> 00:21:06.980
+newer games and stuff like that.
+
+00:21:07.040 --> 00:21:09.100
+For the most part, people usually just throw like strikes.
+
+00:21:09.440 --> 00:21:10.620
+Or maybe against a real person.
+
+00:21:10.860 --> 00:21:11.900
+I don't know. Paint the corner.
+
+00:21:12.180 --> 00:21:13.580
+You know? Yeah, exactly. Right, right, right.
+
+00:21:13.760 --> 00:21:15.020
+Then I'm not saying down the middle.
+
+00:21:15.220 --> 00:21:16.880
+Nobody throws down the middle, hopefully.
+
+00:21:17.320 --> 00:21:19.360
+Down the middle, fallout fastball, you deserve it.
+
+00:21:19.360 --> 00:21:27.300
+One way that I was able to get a few guys to strike out was, um, to throw a, like a, um,
+
+00:21:27.580 --> 00:21:32.220
+a, not a slider, uh, to throw a slow ball.
+
+00:21:32.420 --> 00:21:34.640
+Okay. What would that be called usually?
+
+00:21:35.140 --> 00:21:36.580
+Cutter? Okay.
+
+00:21:36.580 --> 00:21:37.880
+I would throw a cutter.
+
+00:21:38.160 --> 00:21:43.700
+Okay. Um, and start near the bottom and just have a go up the strike zone.
+
+00:21:43.880 --> 00:21:47.540
+And the guy just got confused and would just swipe, swipe below it.
+
+00:21:47.540 --> 00:21:51.600
+And that would actually help for like a few pitches in a row before, you know, it would
+
+00:21:51.600 --> 00:21:52.880
+end up at the home run.
+
+00:21:53.100 --> 00:21:56.460
+But I guess it confuses the computer a little bit to do that.
+
+00:21:56.620 --> 00:21:58.400
+Would it like quote unquote catch on?
+
+00:21:58.940 --> 00:22:00.620
+Or? I mean, I don't know.
+
+00:22:00.880 --> 00:22:03.340
+No. I don't think it actually adapts to that.
+
+00:22:03.440 --> 00:22:08.220
+But I just mean that I was able to do it a few times in a row until it bit me on the
+
+00:22:08.220 --> 00:22:11.780
+ass. So I, that was my strategy for the most part.
+
+00:22:11.780 --> 00:22:15.080
+Right. And let's say you pitch the ball and they get a hit.
+
+00:22:15.340 --> 00:22:16.640
+Right. And it goes anywhere.
+
+00:22:17.560 --> 00:22:20.840
+Is everyone on your team just really freaking slow?
+
+00:22:21.100 --> 00:22:22.660
+Yes. Yeah, it is.
+
+00:22:23.180 --> 00:22:27.700
+Um, the one, the, the, the, sorry, even this is something we talked about in the last episode,
+
+00:22:27.700 --> 00:22:31.800
+but even the, the ball, when you are throwing, when you're fielding, I feel like when you're
+
+00:22:31.800 --> 00:22:34.140
+throwing the ball, it moves like slower than the runner.
+
+00:22:34.320 --> 00:22:35.220
+It has like weight to it. Yeah.
+
+00:22:35.340 --> 00:22:38.660
+It's like that you can run, you can outrun the ball in the air.
+
+00:22:38.900 --> 00:22:39.900
+It's a little, it's a little.
+
+00:22:39.940 --> 00:22:41.660
+I mean, I wouldn't say that.
+
+00:22:41.860 --> 00:22:43.560
+I wouldn't say go that far.
+
+00:22:43.900 --> 00:22:45.980
+Um, because I destroyed the game for me for what is word.
+
+00:22:46.060 --> 00:22:47.000
+So I am going to go that far.
+
+00:22:47.080 --> 00:22:52.320
+I wouldn't because I, I know that like the runners have are nowhere near as fast as the
+
+00:22:52.320 --> 00:22:53.860
+ball, especially. Oh no, no, no.
+
+00:22:53.900 --> 00:23:00.380
+Yeah, for sure. I meant more just like this overall feeling of like, of just like the sluggishness of,
+
+00:23:00.380 --> 00:23:05.500
+of the players and that you're better off actually in certain scenarios, just letting
+
+00:23:05.500 --> 00:23:09.480
+them control themselves, like not moving your outfielders because they will kind of like
+
+00:23:09.480 --> 00:23:13.800
+auto run if, if they're close to the area of a fly ball, you're better off having that
+
+00:23:13.800 --> 00:23:15.860
+than trying to like catch the momentum yourself.
+
+00:23:16.380 --> 00:23:19.920
+Especially if it's a fly ball because you get the same issue where you can't see them.
+
+00:23:20.120 --> 00:23:23.920
+Yeah. So let them do their thing until you can see them and then, and then take over if you
+
+00:23:23.920 --> 00:23:27.380
+need. I'll have to go back real quick and just say that the pitch I was thinking of was change
+
+00:23:27.380 --> 00:23:35.560
+up. And the other thing I would like to say is that I think that fielding was, well, yes,
+
+00:23:35.760 --> 00:23:37.560
+the fly balls, you still can't see.
+
+00:23:37.780 --> 00:23:40.300
+And that's, I feel like that's going to be a problem for a while.
+
+00:23:42.400 --> 00:23:49.380
+But I've turned into, since the last game, my litmus test has been, can I, can I execute
+
+00:23:49.380 --> 00:23:52.260
+a double play? And I was able to execute a double play in this game.
+
+00:23:52.260 --> 00:23:59.060
+So I do think that like, again, it's not perfect, but I think this is an improvement from the
+
+00:23:59.060 --> 00:24:00.420
+last game in terms of fielding.
+
+00:24:00.580 --> 00:24:07.140
+Yeah. Interesting. I felt like in this one, the ball gets in, I don't know what the terminology would be,
+
+00:24:07.260 --> 00:24:09.420
+but if the ball goes past you, let's say, right?
+
+00:24:09.560 --> 00:24:12.940
+Like, like, uh, it's a line drive and you didn't pick it up right away.
+
+00:24:12.940 --> 00:24:18.360
+Like now you're, you know, like you're guaranteeing like a triple just off of that.
+
+00:24:18.700 --> 00:24:20.880
+Really? Yeah. Like, that's how I felt.
+
+00:24:21.040 --> 00:24:21.900
+I felt similar.
+
+00:24:22.080 --> 00:24:27.440
+I did feel like just control, just controlling the, the fielders at all felt very clunky and
+
+00:24:27.440 --> 00:24:31.880
+like a little less, I don't want to say responsive because obviously it responds immediately, but
+
+00:24:31.880 --> 00:24:34.160
+like it just felt, felt harder to get where you're going.
+
+00:24:34.460 --> 00:24:37.080
+Like really then, then the previous game.
+
+00:24:37.120 --> 00:24:43.220
+And I know this is its own episode and I keep comparing it to, you know, we have a double
+
+00:24:43.220 --> 00:24:44.280
+header. Right. Exactly.
+
+00:24:44.560 --> 00:24:45.840
+Yeah. And we played these back to back.
+
+00:24:45.980 --> 00:24:48.780
+I mean, so it's, it's fresh in my head when I'm playing this game.
+
+00:24:49.560 --> 00:24:55.240
+But the sluggish feel from fielding does translate to the overall feel of this game, which I think
+
+00:24:55.240 --> 00:25:01.980
+is opposite to RBI baseball in that this game just takes a long time to get through one
+
+00:25:01.980 --> 00:25:03.960
+game, let alone an entire season.
+
+00:25:04.600 --> 00:25:09.180
+Yeah. You know, there, there, there's a, the fact that it, and maybe it is loading something
+
+00:25:09.180 --> 00:25:11.740
+like, you know, even though like games back then don't really have to load.
+
+00:25:16.140 --> 00:25:22.020
+voice controls. It's a lot of, it's just a lot of figuring out like getting to the next step and the wait
+
+00:25:22.020 --> 00:25:23.100
+times between them.
+
+00:25:23.100 --> 00:25:25.820
+You say it's a, it's a simulation that mimics the pace of baseball.
+
+00:25:26.000 --> 00:25:30.640
+Sure. And I think it is, but I also agreed that last episode that we shouldn't, we should
+
+00:25:30.640 --> 00:25:32.600
+maybe keep taking like 25 minutes.
+
+00:25:32.760 --> 00:25:36.780
+Yeah. Right. Whereas like, I think 25 minutes here might get you like half the game.
+
+00:25:37.660 --> 00:25:41.100
+Yeah. It's that double edged sword that it's nice to have that extra presentation.
+
+00:25:41.420 --> 00:25:45.760
+It's nice to be able to see, you know, you, you see the scoreboard, you see the little
+
+00:25:45.760 --> 00:25:49.260
+cut scene, quote unquote, of the, you know, when you hit a home run.
+
+00:25:49.480 --> 00:25:52.740
+But then after a few times, it's like, okay, it's a cut scene of a little
+
+00:25:52.740 --> 00:25:53.800
+sprite running across the thing.
+
+00:25:53.920 --> 00:25:55.080
+Like, I don't need to see it every time.
+
+00:25:55.700 --> 00:25:57.280
+And I know it's like, it's, I know it's nice.
+
+00:25:57.300 --> 00:25:59.480
+And I appreciate that the effort that was put into it.
+
+00:25:59.540 --> 00:26:02.360
+But then after a while I'm like, all right, I want to play the game now.
+
+00:26:02.560 --> 00:26:04.800
+I hate to say it, but I was wrong.
+
+00:26:05.440 --> 00:26:11.140
+I was wrong when in the previous episodes, I asked for more presentation because what I
+
+00:26:11.140 --> 00:26:15.860
+got instead was a game that focused on style over function.
+
+00:26:16.340 --> 00:26:17.680
+And I don't think so.
+
+00:26:17.860 --> 00:26:19.740
+And I don't think, I think, no, no, no.
+
+00:26:19.760 --> 00:26:20.880
+Because here's why.
+
+00:26:20.980 --> 00:26:23.120
+I know what you're saying. It's not that it doesn't work.
+
+00:26:23.520 --> 00:26:24.660
+That's not my problem here.
+
+00:26:24.920 --> 00:26:31.760
+It's that after playing it this way, I prefer the behind the catcher's mitt and swinging
+
+00:26:31.760 --> 00:26:34.120
+the bat that way and having the players look like meatballs.
+
+00:26:34.540 --> 00:26:39.460
+Like, I'm preferring that look now because, like, in terms of, in terms of how the gameplay
+
+00:26:39.460 --> 00:26:42.420
+went. If they made them look like regular humans, I'd be fine with that too.
+
+00:26:42.420 --> 00:26:49.880
+But I don't think that this TV presentation was working for me in actual gameplay.
+
+00:26:50.120 --> 00:26:53.540
+I think it should have been limited to, like, in between innings and stuff like that.
+
+00:26:53.540 --> 00:26:54.420
+I don't think that they're correlated.
+
+00:26:54.760 --> 00:26:58.320
+I think that, like, you're talking about the actual, like, little cut scenes.
+
+00:26:58.460 --> 00:27:04.300
+I'm talking about, for me, the experience of pitching and batting in this game is not
+
+00:27:04.300 --> 00:27:07.060
+as fun. Just the whole game, actually.
+
+00:27:07.200 --> 00:27:13.200
+Fielding, everything. is not as fun as RBI baseball was or any of those other baseball games because of the
+
+00:27:13.200 --> 00:27:16.940
+way that this one chose to present it.
+
+00:27:17.580 --> 00:27:19.440
+And, you know, I'm pitching and batting.
+
+00:27:19.440 --> 00:27:20.560
+I don't see that they're...
+
+00:27:20.560 --> 00:27:23.780
+Okay. So, like, the perspective change is the biggest part.
+
+00:27:23.780 --> 00:27:25.300
+The perspective change is the biggest part for me.
+
+00:27:25.360 --> 00:27:26.380
+That's what I'm saying. I see.
+
+00:27:26.380 --> 00:27:30.440
+Is that I had less fun playing this because I felt like I wasn't hitting as well.
+
+00:27:30.500 --> 00:27:31.600
+I wasn't pitching as well. Who knows?
+
+00:27:31.700 --> 00:27:33.560
+Maybe I just needed to spend, like...
+
+00:27:33.560 --> 00:27:35.840
+You know, we're so used to playing baseball games the other way.
+
+00:27:35.840 --> 00:27:39.760
+So, maybe seeing something with a different perspective just requires me to play it longer.
+
+00:27:40.720 --> 00:27:45.360
+But throughout the, you know, entire time that I gave the game, I always just kind of
+
+00:27:45.360 --> 00:27:47.920
+felt like, you know, oh, I just wish I was doing it the other way.
+
+00:27:48.140 --> 00:27:50.980
+Okay. I think I kind of agree, too.
+
+00:27:51.160 --> 00:27:53.780
+Like I said, I do like the perspective here.
+
+00:27:53.900 --> 00:27:55.400
+And it is like, wow, this looks like baseball.
+
+00:27:56.600 --> 00:27:58.000
+But just it being...
+
+00:27:58.000 --> 00:28:03.460
+The cartoony aspect of the last one just, first of all, fit with the, like, little sprite
+
+00:28:03.460 --> 00:28:04.780
+aesthetic of the rest of the game.
+
+00:28:05.220 --> 00:28:09.340
+And second of all, I feel like made it seem like a little smoother.
+
+00:28:09.820 --> 00:28:10.700
+Like, I don't know.
+
+00:28:10.800 --> 00:28:12.440
+Something about the, like, realistic...
+
+00:28:12.440 --> 00:28:17.920
+Yeah. This game, like, in terms of controlling fielders, like, is smoother.
+
+00:28:18.220 --> 00:28:20.880
+But while it is still slow, it feels much smoother.
+
+00:28:20.880 --> 00:28:22.500
+So, controlling fielders is not what I'm talking about.
+
+00:28:22.580 --> 00:28:23.800
+But I'm not sure.
+
+00:28:23.840 --> 00:28:25.640
+I still think that controlling fielders is clunkier.
+
+00:28:25.760 --> 00:28:28.560
+But I was talking even about, like, swinging the bat.
+
+00:28:28.920 --> 00:28:30.460
+Something about this one feels like...
+
+00:28:30.460 --> 00:28:31.880
+Not that it, like, should matter too much.
+
+00:28:31.940 --> 00:28:34.760
+But it feels like there are fewer frames or something.
+
+00:28:34.880 --> 00:28:36.280
+So, it feels... You know, it just...
+
+00:28:36.280 --> 00:28:38.440
+Okay. Yeah. Something about it in the other one.
+
+00:28:38.480 --> 00:28:40.860
+I think because they went with, like, a simpler aesthetic.
+
+00:28:41.200 --> 00:28:44.180
+It's just like, oh, yeah. This is what I'm getting for the rest of the game also.
+
+00:28:44.200 --> 00:28:45.760
+It's just like, I'm playing this game.
+
+00:28:46.120 --> 00:28:48.520
+But, yeah. I mean, I disagree about the fielding.
+
+00:28:48.540 --> 00:28:49.840
+I did feel like this was a little slower.
+
+00:28:49.980 --> 00:28:53.440
+But maybe I do have to, like, literally play them back-to-back to really get a better idea.
+
+00:28:53.660 --> 00:28:58.140
+But, yeah. Yeah. I definitely am not arguing about the presentation of the game at all.
+
+00:28:58.200 --> 00:29:00.200
+And I think it nailed that completely.
+
+00:29:00.200 --> 00:29:02.420
+And I was very surprised to see it.
+
+00:29:02.500 --> 00:29:07.080
+And I think no matter which way you slice it, this is...
+
+00:29:07.080 --> 00:29:11.480
+Like, every other back-of-the-box of all the other baseball games has been trying to tell you, like,
+
+00:29:11.560 --> 00:29:13.000
+this is Major League Baseball.
+
+00:29:13.080 --> 00:29:14.340
+And this is that. And it's like, no.
+
+00:29:14.440 --> 00:29:15.460
+This is Major League Baseball.
+
+00:29:15.500 --> 00:29:17.860
+Some kid looked at the back-of-the-box and saw all these images.
+
+00:29:18.040 --> 00:29:19.060
+They're buying this game.
+
+00:29:19.260 --> 00:29:22.700
+You know? For me, it just wasn't as fun.
+
+00:29:22.700 --> 00:29:25.800
+And I'm not saying that that's the case for everyone.
+
+00:29:25.840 --> 00:29:27.160
+I don't say I speak for everyone.
+
+00:29:27.400 --> 00:29:31.020
+I just think that I was surprised to come to that verdict.
+
+00:29:31.040 --> 00:29:32.380
+Because I was looking for this.
+
+00:29:32.460 --> 00:29:34.000
+And then I realized it wasn't what I wanted.
+
+00:29:53.820 --> 00:29:58.700
+Thank you.
+
+00:30:55.580 --> 00:30:57.820
+Thank you.
+
+00:30:57.820 --> 00:31:00.020
+Thank you.
+
+00:31:00.020 --> 00:31:02.660
+I wanted to say that, and it never did.
+
+00:31:03.240 --> 00:31:06.040
+You can't even see the bases loaded.
+
+00:31:06.400 --> 00:31:07.600
+Yeah. Because of the perspective.
+
+00:31:07.640 --> 00:31:08.740
+You've got the little, like, handy map.
+
+00:31:08.740 --> 00:31:10.280
+You've got the little, yeah, up in the top.
+
+00:31:10.380 --> 00:31:11.680
+Yeah, yeah, yeah. The top.
+
+00:31:11.840 --> 00:31:13.060
+They're just squares there.
+
+00:31:13.140 --> 00:31:16.120
+Yeah. I didn't like that at first, and then I thought about it.
+
+00:31:16.160 --> 00:31:18.380
+I mean, that's kind of how modern baseball games are, right?
+
+00:31:18.400 --> 00:31:20.660
+They have the little, I mean, I guess even the last one had the little map.
+
+00:31:20.660 --> 00:31:22.180
+They have, like, picture in picture.
+
+00:31:22.400 --> 00:31:23.640
+Yeah. Oh, gotcha.
+
+00:31:23.660 --> 00:31:24.500
+Yeah, they'd be like, listen, listen.
+
+00:31:25.060 --> 00:31:27.780
+We're not comparing these games to modern baseball games.
+
+00:31:27.780 --> 00:31:29.840
+I could barely tell the difference between this and modern baseball games.
+
+00:31:30.020 --> 00:31:35.700
+When I think of, like, what makes a great NES baseball game, it's one that I wouldn't mind to still play today.
+
+00:31:36.080 --> 00:31:44.040
+You know? Yeah. Like, when I boot up a lot of these games, these NES games, for me, it's not about comparing them to newer games.
+
+00:31:44.040 --> 00:31:47.380
+It's about splitting my time with newer games in this one.
+
+00:31:47.480 --> 00:31:48.480
+Is it worth it?
+
+00:31:48.720 --> 00:31:49.760
+It's worth the haunted.
+
+00:31:50.020 --> 00:31:53.420
+100%. It's worth the hauntedness of playing NES baseball games.
+
+00:31:54.100 --> 00:32:00.900
+And I'll tell you right now, for the most part, I have a lot of fun playing these games, but only for very small bursts.
+
+00:32:00.920 --> 00:32:08.340
+Oh, yeah. And I did look into it, Sean, throughout this podcast, and I'm pretty convinced that this is a full 162-game season.
+
+00:32:09.300 --> 00:32:12.460
+I could have sworn it was a nine-game round robin.
+
+00:32:12.540 --> 00:32:18.620
+Because I'm seeing passwords for game 162 to take you right to that.
+
+00:32:18.840 --> 00:32:20.040
+I thought it said it right in the manual.
+
+00:32:20.040 --> 00:32:22.400
+Yeah, the manual said a nine-game round robin.
+
+00:32:22.400 --> 00:32:23.940
+Right. And that's what I'm...
+
+00:32:23.940 --> 00:32:27.560
+Maybe there's, like, a difference between...
+
+00:32:27.560 --> 00:32:28.420
+Nine-game season.
+
+00:32:28.660 --> 00:32:31.180
+But is that for pennant, or is that for full season?
+
+00:32:31.580 --> 00:32:32.660
+There's only pennant and...
+
+00:32:32.660 --> 00:32:33.780
+Best of seven series.
+
+00:32:34.100 --> 00:32:37.000
+There's only pennant in verse mode, so I don't know why.
+
+00:32:37.000 --> 00:32:39.760
+Are you looking at bases loaded round three?
+
+00:32:40.240 --> 00:32:48.540
+I'm not. I'm looking at the regular bases loaded, and I did put in the code that they provided, and it did tell me game 162.
+
+00:32:49.080 --> 00:32:51.860
+I don't know, man. So I really don't know what to say.
+
+00:32:53.500 --> 00:32:55.880
+Baseball's haunted. But baseball's haunted in this regard.
+
+00:32:56.140 --> 00:32:56.960
+And who knows?
+
+00:32:57.160 --> 00:32:58.460
+You know? Who knows?
+
+00:32:58.620 --> 00:32:59.900
+Who can say? Mandela effect.
+
+00:33:00.280 --> 00:33:07.300
+Right, right. In my version, in my universe, I come from the one where bases loaded had 162 games, and you come from the one where you only got nine.
+
+00:33:07.780 --> 00:33:13.480
+Do I think that anybody would want to play a 162 season of baseball just to get to a World Series,
+
+00:33:13.540 --> 00:33:17.580
+or find out that they're not eligible for a World Series after 162 games?
+
+00:33:17.880 --> 00:33:18.900
+No. I don't.
+
+00:33:18.900 --> 00:33:20.560
+People did, but I wouldn't.
+
+00:33:20.920 --> 00:33:24.140
+Right. So I think, like, personally, nine would have been enough anyway.
+
+00:33:24.320 --> 00:33:25.640
+So if it's nine, great.
+
+00:33:25.640 --> 00:33:27.540
+If it's 162, that's also fine.
+
+00:33:27.940 --> 00:33:29.140
+Neither one is impressive.
+
+00:33:29.380 --> 00:33:33.420
+You know? Like, programming that in there is just a save code.
+
+00:33:33.700 --> 00:33:36.700
+So I'm glad that it's there.
+
+00:33:36.840 --> 00:33:41.140
+Don't get me wrong. Like, the ability to save wins and losses for however amount of time.
+
+00:33:41.140 --> 00:33:47.160
+But it didn't really add anything because it doesn't really, like, I don't know, it doesn't really carry any weight to it.
+
+00:33:47.340 --> 00:33:48.340
+What did you think of the music, Joe?
+
+00:33:48.680 --> 00:33:49.660
+I thought it was much better.
+
+00:33:49.860 --> 00:33:50.820
+Big improvement. Yes.
+
+00:33:51.280 --> 00:33:52.460
+I actually thought it was pretty good.
+
+00:33:52.740 --> 00:33:55.520
+Much better, but still entering, like, that carnival.
+
+00:33:56.020 --> 00:33:56.860
+Yeah. You know?
+
+00:33:57.620 --> 00:33:59.820
+Yeah. Like, something about this doesn't feel like baseball music.
+
+00:34:00.380 --> 00:34:02.640
+But we haven't heard... Baseball music is very carnival.
+
+00:34:02.740 --> 00:34:05.780
+Well, I was going to say that we haven't heard any actual baseball music yet.
+
+00:34:05.820 --> 00:34:09.840
+We haven't heard anybody do take me out to the ball game or even, like, any kind of pipe organ.
+
+00:34:09.840 --> 00:34:13.360
+Like, the weasel. Or where's, like, you know, charge.
+
+00:34:13.960 --> 00:34:15.720
+Right. Like, where's all that stuff?
+
+00:34:15.900 --> 00:34:18.320
+Yeah. I have to say something.
+
+00:34:18.580 --> 00:34:23.800
+I just realized that when I looked up whether it was nine-game season, I was looking at the RBI baseball manual.
+
+00:34:23.980 --> 00:34:25.860
+So I don't know. Whoopsies.
+
+00:34:26.080 --> 00:34:28.320
+But I still don't remember the last game.
+
+00:34:28.480 --> 00:34:29.420
+Sorry, guys. Oh, we both are.
+
+00:34:29.540 --> 00:34:31.040
+So there you go. There you go.
+
+00:34:31.180 --> 00:34:36.440
+Because now I vaguely remember, and I can't find it now, something about if you play a certain amount of games,
+
+00:34:36.440 --> 00:34:41.700
+you get a reward or something really vague like that in the manual.
+
+00:34:42.040 --> 00:34:45.680
+They just, like, show you a car from, like, Rad Racer.
+
+00:34:45.940 --> 00:34:47.160
+But it was, like, a lot of games.
+
+00:34:47.160 --> 00:34:48.400
+It's in your garage, but you can't go to your garage.
+
+00:34:51.020 --> 00:34:53.080
+All right. Let's do sequels and spinoffs.
+
+00:34:53.340 --> 00:34:57.500
+You are not going to believe how many more times we have to play Bases Loaded on the NES.
+
+00:34:57.740 --> 00:35:00.500
+How many? Not one more time.
+
+00:35:01.060 --> 00:35:02.280
+Not two more times.
+
+00:35:03.100 --> 00:35:04.540
+Zero more times.
+
+00:35:04.840 --> 00:35:05.780
+Zero would have been funny, too.
+
+00:35:05.780 --> 00:35:09.700
+We have to play Bases Loaded 2, Second Season.
+
+00:35:10.040 --> 00:35:14.460
+Whoa. Okay? And then forget ever naming them anything ever again.
+
+00:35:14.860 --> 00:35:18.820
+Second Season. That is Bases Loaded 3, Bases Loaded 4.
+
+00:35:19.280 --> 00:35:20.100
+And you know what?
+
+00:35:20.140 --> 00:35:22.600
+I had to kind of just peek ahead and look at the graphics.
+
+00:35:22.740 --> 00:35:24.380
+I was like, how could they get better, right?
+
+00:35:24.980 --> 00:35:26.140
+They almost kind of don't.
+
+00:35:26.460 --> 00:35:28.580
+They almost kind of, like, scale back at a point.
+
+00:35:29.060 --> 00:35:31.540
+There was also a Game Boy version of Bases Loaded.
+
+00:35:31.700 --> 00:35:32.840
+I didn't even look at that one.
+
+00:35:32.940 --> 00:35:39.200
+I didn't bother it. But it would be interesting to see if they did the TV perspective for the Game Boy.
+
+00:35:39.400 --> 00:35:40.580
+Oh, yeah. That would be a nightmare.
+
+00:35:40.740 --> 00:35:49.620
+I doubt it. The series does continue, though, on the SNES with Super Bases Loaded, Super Bases Loaded 2, and Super Bases Loaded 3.
+
+00:35:49.620 --> 00:35:54.580
+So really making me wonder why Bases Loaded 2 got the moniker Second Season.
+
+00:35:55.300 --> 00:36:03.340
+But the moniker comes back with the final entry on Sega Saturn and PlayStation 1.
+
+00:36:03.720 --> 00:36:09.760
+It is Bases Loaded 96 Doubleheader.
+
+00:36:11.060 --> 00:36:13.800
+And that game looks like ass.
+
+00:36:14.660 --> 00:36:18.840
+That game looks so bad for being a PlayStation and Sega Saturn game.
+
+00:36:18.900 --> 00:36:25.580
+It looks so bad that I'm not certain that they put faces on the people's heads.
+
+00:36:26.860 --> 00:36:30.660
+So something's happening to Jaleco at one point or another.
+
+00:36:30.660 --> 00:36:33.620
+But we'll find out as we continue to play these games.
+
+00:36:33.780 --> 00:36:38.120
+Just out of curiosity, are you looking forward to the other three Bases Loaded games?
+
+00:36:38.940 --> 00:36:43.280
+I don't know. I don't really want to keep playing baseball games.
+
+00:36:43.520 --> 00:36:46.240
+I set up for nostalgia, not basestalgia.
+
+00:36:46.420 --> 00:36:50.280
+Well, we're going to have to find out if you guys are looking forward to other Bases Loaded games
+
+00:36:50.280 --> 00:36:54.980
+when we find out if this Bases Loaded game was any good in our Essential Games list.
+
+00:36:57.860 --> 00:36:59.480
+Sorry, this is kind of boring.
+
+00:36:59.720 --> 00:37:04.660
+But, I mean, you heard my Essential vote from last week, which was no for that game.
+
+00:37:04.660 --> 00:37:08.800
+This one, I thought this one was pretty close to being equal.
+
+00:37:08.960 --> 00:37:11.040
+Maybe for me personally, slightly inferior.
+
+00:37:11.400 --> 00:37:12.660
+So I also have to say no.
+
+00:37:13.600 --> 00:37:15.840
+Well, apparently this is an unpopular opinion.
+
+00:37:16.100 --> 00:37:20.540
+This is a better game than the previous baseball games that we have played.
+
+00:37:20.700 --> 00:37:23.360
+It needs some tweaking for pacing and stuff.
+
+00:37:23.480 --> 00:37:29.060
+But in terms of baseball games in the NES, 10 out of 10 so far.
+
+00:37:29.700 --> 00:37:31.520
+But, no, it's not an Essential game.
+
+00:37:31.520 --> 00:37:33.100
+It's the same reason as the rest of them.
+
+00:37:33.700 --> 00:37:40.540
+All right. And, you know, for everything I've said about this game, I don't want to disappoint Sean here.
+
+00:37:41.860 --> 00:37:44.160
+I know what you're getting at here.
+
+00:37:44.220 --> 00:37:45.020
+I know what you're saying.
+
+00:37:45.040 --> 00:37:51.860
+Like, but I'm not certain that this game should be compared to RBI baseball.
+
+00:37:52.120 --> 00:37:55.520
+I feel like there are going to be fans of RBI baseball.
+
+00:37:55.760 --> 00:37:57.480
+They're baseball games. They can be compared.
+
+00:37:57.660 --> 00:38:02.160
+Right, right, right. But I meant like there are just some people who are going to like the arcane feel.
+
+00:38:02.160 --> 00:38:03.580
+Yeah, one doesn't have to win out over the other.
+
+00:38:03.680 --> 00:38:05.400
+Yeah, but we're just talking about opinions.
+
+00:38:05.560 --> 00:38:06.620
+It's always been about opinions.
+
+00:38:06.700 --> 00:38:07.560
+No, it's always been about opinions.
+
+00:38:08.040 --> 00:38:12.280
+I think, like, I surprise myself here, too, by not liking this game.
+
+00:38:12.280 --> 00:38:18.540
+But I wouldn't say that RBI baseball is the superior one.
+
+00:38:18.780 --> 00:38:22.080
+I just wouldn't say that bases loaded was the superior one either.
+
+00:38:22.300 --> 00:38:28.960
+I think that there's something to be offered in either, in both of those games that definitely puts them above the other two we played.
+
+00:38:29.340 --> 00:38:31.100
+But, I don't know.
+
+00:38:31.480 --> 00:38:35.760
+You know, RBI baseball didn't get Essential, so I'm not giving bases loaded an Essential vote either.
+
+00:38:35.760 --> 00:38:37.420
+So, it's not Essential.
+
+00:38:38.100 --> 00:38:42.600
+The trajectory of baseball games getting better and better in Sean's book is still happening.
+
+00:38:42.600 --> 00:38:45.720
+In my book, it's right where it was in the last episode.
+
+00:38:46.060 --> 00:38:48.940
+So, I'd give this one, like, a 40, like I said, for the other one.
+
+00:38:48.940 --> 00:38:53.940
+I consider this, like, one moment in time that both these games came out and they improved on what came before them.
+
+00:38:54.120 --> 00:38:56.700
+I'd give this a 40 as an improvement for my 25.
+
+00:38:56.720 --> 00:38:57.760
+There you go. Okay.
+
+00:38:58.180 --> 00:39:00.160
+It's almost like a fork in the road, you know.
+
+00:39:00.220 --> 00:39:01.720
+And now games are either going to have to choose.
+
+00:39:01.800 --> 00:39:02.860
+Baseball games are going to have to have to.
+
+00:39:02.860 --> 00:39:06.620
+Actually, sports games are just going to have to choose to either go, like, this route.
+
+00:39:06.620 --> 00:39:08.540
+More mustaches, less mustaches.
+
+00:39:08.780 --> 00:39:12.460
+Exactly. And baseball had a ton of mustaches in the 80s.
+
+00:39:12.520 --> 00:39:14.800
+So, yes. Okay, cool.
+
+00:39:15.000 --> 00:39:18.020
+So, you know where we stayed on baseball games for a while.
+
+00:39:18.020 --> 00:39:23.460
+I don't think we're going to get one again for this year, hopefully.
+
+00:39:23.720 --> 00:39:28.580
+Hopefully. But, you know, 1989 is a whole new season of baseball.
+
+00:39:28.600 --> 00:39:31.120
+And with that, a whole new season of us, too.
+
+00:39:31.120 --> 00:39:34.700
+I think the Dodgers won in 1988, the World Series.
+
+00:39:35.060 --> 00:39:37.360
+That's good to know. Just to keep that in your head.
+
+00:39:37.560 --> 00:39:38.460
+Spoilers. Spoilers suck.
+
+00:39:38.460 --> 00:39:39.360
+I was just catching up.
+
+00:39:39.540 --> 00:39:44.480
+Yeah, they suck. Also, happy Valentine's Day to everyone who's listening.
+
+00:39:45.000 --> 00:39:45.920
+Love is in the air.
+
+00:39:45.980 --> 00:39:47.560
+We love you guys. Is this posting on Valentine's Day?
+
+00:39:47.880 --> 00:39:49.920
+Yeah. We're recording it on Valentine's Day.
+
+00:39:50.020 --> 00:39:51.640
+Yeah, we're recording it right now on Valentine's Day.
+
+00:39:51.860 --> 00:39:53.600
+Yep. I love all the listeners.
+
+00:39:54.100 --> 00:39:56.980
+Sean, do you have anything Valentine's Day-ish you want to say to the listeners?
+
+00:39:56.980 --> 00:40:03.280
+I would really love a Valentine's Day card addressed to Wario.
+
+00:40:05.280 --> 00:40:07.380
+Wario probably doesn't get that much love.
+
+00:40:07.540 --> 00:40:09.120
+Yeah. I think that he deserves it.
+
+00:40:09.380 --> 00:40:12.780
+Also, while you're at it, send a Valentine's Day card to Bowser, too.
+
+00:40:13.260 --> 00:40:15.720
+Clearly, that guy doesn't want to do anything too evil.
+
+00:40:15.860 --> 00:40:19.120
+He just wants to kidnap the princess because he's lonely.
+
+00:40:19.120 --> 00:40:25.080
+Hey, and also, if there's a gamer girl or gamer boy in your life that you really want
+
+00:40:25.080 --> 00:40:27.960
+to give a Valentine's Day card to, you can do it.
+
+00:40:28.040 --> 00:40:29.480
+Just don't be creepy about it.
+
+00:40:29.680 --> 00:40:30.680
+Or just a gamer.
+
+00:40:30.980 --> 00:40:33.420
+Yeah. Any kind of gamer.
+
+00:40:33.560 --> 00:40:36.560
+Gamer dog. Gamer New Brunswick.
+
+00:40:36.740 --> 00:40:42.180
+Yeah. And we're now releasing our own little Valentine's Day cards you give out in elementary school,
+
+00:40:42.240 --> 00:40:43.640
+releasing Nostalgia Valentine.
+
+00:40:43.800 --> 00:40:46.780
+I didn't tell you guys about it, but I've been working on them as a side project.
+
+00:40:46.900 --> 00:40:52.080
+Yeah, okay, great. So releasing them, you can buy them in any store that you can find like Marvel Valentine's Day.
+
+00:40:52.080 --> 00:40:58.400
+Yeah, we're also, we partnered with Neko Candy Hearts to make Nostalgia-themed Neko Candy
+
+00:40:58.400 --> 00:40:59.760
+Hearts. They say like, one up.
+
+00:41:00.200 --> 00:41:03.320
+Yeah, no, they all just say either essential or not essential.
+
+00:41:03.820 --> 00:41:05.800
+Yeah, that's what the cards say.
+
+00:41:05.880 --> 00:41:07.580
+Like, will you be on my essential...
+
+00:41:07.580 --> 00:41:10.500
+Games list. Persons list, I don't know.
+
+00:41:10.700 --> 00:41:14.420
+Games list. Yeah, I apparently am not on certain people's essential persons list.
+
+00:41:14.620 --> 00:41:17.240
+I almost didn't make the cut, but Sean voted for me.
+
+00:41:17.240 --> 00:41:20.860
+That's right. And you only need one vote to be on the essential persons list.
+
+00:41:20.920 --> 00:41:23.020
+Those are the rules. What episode?
+
+00:41:23.340 --> 00:41:24.580
+Well, speaking of Valentine's Day...
+
+00:41:24.580 --> 00:41:27.060
+Apparently, he's been holding a grudge for all this time.
+
+00:41:27.240 --> 00:41:32.020
+Speaking of Valentine's Day, next week we will be playing Defender 2, and I will defend
+
+00:41:32.020 --> 00:41:38.440
+you. As long as I have to, listeners on Twitter, because we have a Twitter.
+
+00:41:38.900 --> 00:41:41.380
+It is at NostalgiaCast.
+
+00:41:41.820 --> 00:41:43.280
+Post a lot of cool stuff there.
+
+00:41:43.740 --> 00:41:47.640
+We posted a lot of bases loaded stuff there all week.
+
+00:41:47.920 --> 00:41:48.940
+We did that. Yeah.
+
+00:41:49.040 --> 00:41:50.020
+Did you notice any of it?
+
+00:41:50.840 --> 00:41:52.040
+Not you guys. The listeners.
+
+00:41:52.460 --> 00:41:53.620
+Oh, okay. It's like, yeah.
+
+00:41:53.680 --> 00:41:54.840
+It's hard to tell who you're talking to.
+
+00:41:54.940 --> 00:41:56.680
+Yeah. Well, they, you know, it's like Blue's Clues.
+
+00:41:56.800 --> 00:41:57.720
+They respond back to me.
+
+00:41:57.720 --> 00:41:58.680
+Yeah. I don't know.
+
+00:41:58.680 --> 00:41:59.600
+Call and response. Yeah.
+
+00:42:00.100 --> 00:42:00.920
+So there's that.
+
+00:42:01.140 --> 00:42:02.220
+I'm Michael Esposito.
+
+00:42:02.460 --> 00:42:05.620
+You can find me on at Esposito Film on Twitter, and I love you.

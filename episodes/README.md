@@ -56,12 +56,12 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 048 | Kid Icarus | [notes](048-kid-icarus.md), [transcript](../transcripts/048-kid-icarus.md) |
 | 049 | MIGHTY BOMB JACK | [transcript](../transcripts/049-mighty-bomb-jack.md) |
 | 050 | RYGAR | [transcript](../transcripts/050-rygar.md) |
-| 051 | Section Z | [notes](051-section-z.md) |
-| 052 | Solomon’s Key | [notes](052-solomons-key.md) |
-| 053 | Arkanoid | [notes](053-arkanoid.md) |
-| 054 | Athena | [notes](054-athena.md) |
-| 055 | Elevator Action | [notes](055-elevator-action.md) |
-| 056 | The Legend of Kage | [notes](056-the-legend-of-kage.md) |
+| 051 | Section Z | [notes](051-section-z.md), [transcript](../transcripts/051-section-z.md) |
+| 052 | Solomon’s Key | [notes](052-solomons-key.md), [transcript](../transcripts/052-solomons-key.md) |
+| 053 | Arkanoid | [notes](053-arkanoid.md), [transcript](../transcripts/053-arkanoid.md) |
+| 054 | Athena | [notes](054-athena.md), [transcript](../transcripts/054-athena.md) |
+| 055 | Elevator Action | [notes](055-elevator-action.md), [transcript](../transcripts/055-elevator-action.md) |
+| 056 | The Legend of Kage | [notes](056-the-legend-of-kage.md), [transcript](../transcripts/056-the-legend-of-kage.md) |
 | 057 | Metroid | [notes](057-metroid.md) |
 | 058 | The Legend of Zelda | [notes](058-the-legend-of-zelda.md) |
 | 059 | The 3-d Battles of Worldrunner | [notes](059-the-3-d-battles-of-worldrunner.md) |
@@ -99,62 +99,64 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 091 | Renegade | [notes](091-renegade.md) |
 | 092 | Contra | [notes](092-contra.md) |
 | 093 | Gun.Smoke | [notes](093-gun-smoke.md) |
-| 094 | Town & Country Surf Designs: Wood and Water Rage | [notes](094-town-country-surf-designs-wood-and-water-rage.md) |
-| 095 | Dragon Power | [notes](095-dragon-power.md) |
-| 096 | Ice Hockey | [notes](096-ice-hockey.md) |
-| 097 | R.c. Pro-am | [notes](097-r-c-pro-am.md) |
-| 098 | Freedom Force | [notes](098-freedom-force.md) |
-| 099 | Ikari Warriors II: Victory Road | [notes](099-ikari-warriors-ii-victory-road.md) |
-| 100 | Major League Baseball | [notes](100-major-league-baseball.md) |
-| 101 | City Connection | [notes](101-city-connection.md) |
-| 102 | Rambo | [notes](102-rambo.md) |
-| 103 | Double Dragon | [notes](103-double-dragon.md) |
-| 104 | Metal Gear | [notes](104-metal-gear.md) |
-| 105 | R.b.i Baseball | [notes](105-r-b-i-baseball.md) |
-| 106 | Bases Loaded | [notes](106-bases-loaded.md) |
-| 107 | Defender II | [notes](107-defender-ii.md) |
-| 108 | Gauntlet | [notes](108-gauntlet.md) |
-| 109 | Iron Tank | [notes](109-iron-tank.md) |
-| 110 | Legendary Wings | [notes](110-legendary-wings.md) |
-| 111 | Life Force | [notes](111-life-force.md) |
-| 112 | World Class Track Meet | [notes](112-world-class-track-meet.md) |
-| 113 | Adventure Island | [notes](113-adventure-island.md) |
-| 114 | Galaga: Demons of Death | [notes](114-galaga-demons-of-death.md) |
-| 115 | Golgo 13: Top Secret Episode | [notes](115-golgo-13-top-secret-episode.md) |
-| 116 | Jackal | [notes](116-jackal.md) |
-| 118 | Lee Trevino's Fighting Golf | [notes](118-lee-trevinos-fighting-golf.md) |
-| 119 | Milon's Secret Castle | [notes](119-milons-secret-castle.md) |
-| 120 | Wheel of Fortune | [notes](120-wheel-of-fortune.md) |
-| 121 | Xevious: The Avenger | [notes](121-xevious-the-avenger.md) |
-| 122 | 1943: The Battle of Midway | [notes](122-1943-the-battle-of-midway.md) |
-| 123 | Donkey Kong Classics | [notes](123-donkey-kong-classics.md) |
-| 124 | Ghostbusters | [notes](124-ghostbusters.md) |
-| 125 | Joust | [notes](125-joust.md) |
-| 126 | Magmax | [notes](126-magmax.md) |
-| 127 | Mickey Mousecapade | [notes](127-mickey-mousecapade.md) |
-| 128 | Millipede | [notes](128-millipede.md) |
-| 129 | Pac-man | [notes](129-pac-man.md) |
-| 130 | Racket Attack | [notes](130-racket-attack.md) |
-| 131 | Seicross | [notes](131-seicross.md) |
-| 132 | Spy vs Spy | [notes](132-spy-vs-spy.md) |
-| 133 | Super Mario Bros. 2 | [notes](133-super-mario-bros-2.md) |
-| 135 | Blaster Master | [notes](135-blaster-master.md) |
-| 136 | Bubble Bobble | [notes](136-bubble-bobble.md) |
-| 137 | Cobra Command | [notes](137-cobra-command.md) |
-| 138 | Dr. Chaos | [notes](138-dr-chaos.md) |
-| 139 | Super Mario Bros / Duck Hunt | [notes](139-super-mario-bros-duck-hunt.md) |
-| 140 | Super Team Games | [notes](140-super-team-games.md) |
-| 141 | Bionic Commando | [notes](141-bionic-commando.md) |
-| 142 | Bump 'N' Jump | [notes](142-bump-n-jump.md) |
-| 143 | Castlevania II: Simon's Quest | [notes](143-castlevania-ii-simons-quest.md) |
-| 144 | Blades of Steel | [notes](144-blades-of-steel.md) |
-| 145 | Indiana Jones and the Temple of Doom | [notes](145-indiana-jones-and-the-temple-of-doom.md) |
-| 146 | Othello | [notes](146-othello.md) |
-| 147 | Paperboy | [notes](147-paperboy.md) |
-| 148 | Platoon | [notes](148-platoon.md) |
-| 149 | Rampage | [notes](149-rampage.md) |
-| 150 | Robowarrior | [notes](150-robowarrior.md) |
-| 151 | Skate or Die | [notes](151-skate-or-die.md) |
+| 094 | Town & Country Surf Designs: Wood and Water Rage | [notes](094-town-country-surf-designs-wood-and-water-rage.md), [transcript](../transcripts/094-town-country-surf-designs-wood-and-water-rage.md) |
+| 095 | Dragon Power | [notes](095-dragon-power.md), [transcript](../transcripts/095-dragon-power.md) |
+| 096 | Ice Hockey | [notes](096-ice-hockey.md), [transcript](../transcripts/096-ice-hockey.md) |
+| 097 | R.c. Pro-am | [notes](097-r-c-pro-am.md), [transcript](../transcripts/097-r-c-pro-am.md) |
+| 098 | Freedom Force | [notes](098-freedom-force.md), [transcript](../transcripts/098-freedom-force.md) |
+| 099 | Ikari Warriors II: Victory Road | [notes](099-ikari-warriors-ii-victory-road.md), [transcript](../transcripts/099-ikari-warriors-ii-victory-road.md) |
+| 100 | Major League Baseball | [notes](100-major-league-baseball.md), [transcript](../transcripts/100-major-league-baseball.md) |
+| 101 | City Connection | [notes](101-city-connection.md), [transcript](../transcripts/101-city-connection.md) |
+| 102 | Rambo | [notes](102-rambo.md), [transcript](../transcripts/102-rambo.md) |
+| 103 | Double Dragon | [notes](103-double-dragon.md), [transcript](../transcripts/103-double-dragon.md) |
+| 104 | Metal Gear | [notes](104-metal-gear.md), [transcript](../transcripts/104-metal-gear.md) |
+| 105 | R.b.i Baseball | [notes](105-r-b-i-baseball.md), [transcript](../transcripts/105-r-b-i-baseball.md) |
+| 106 | Bases Loaded | [notes](106-bases-loaded.md), [transcript](../transcripts/106-bases-loaded.md) |
+| 107 | Defender II | [notes](107-defender-ii.md), [transcript](../transcripts/107-defender-ii.md) |
+| 108 | Gauntlet | [notes](108-gauntlet.md), [transcript](../transcripts/108-gauntlet.md) |
+| 109 | Iron Tank | [notes](109-iron-tank.md), [transcript](../transcripts/109-iron-tank.md) |
+| 110 | Legendary Wings | [notes](110-legendary-wings.md), [transcript](../transcripts/110-legendary-wings.md) |
+| 111 | Life Force | [notes](111-life-force.md), [transcript](../transcripts/111-life-force.md) |
+| 112 | World Class Track Meet | [notes](112-world-class-track-meet.md), [transcript](../transcripts/112-world-class-track-meet.md) |
+| 113 | Adventure Island | [notes](113-adventure-island.md), [transcript](../transcripts/113-adventure-island.md) |
+| 114 | Galaga: Demons of Death | [notes](114-galaga-demons-of-death.md), [transcript](../transcripts/114-galaga-demons-of-death.md) |
+| 115 | Golgo 13: Top Secret Episode | [notes](115-golgo-13-top-secret-episode.md), [transcript](../transcripts/115-golgo-13-top-secret-episode.md) |
+| 116 | Jackal | [notes](116-jackal.md), [transcript](../transcripts/116-jackal.md) |
+| 117 | JEOPARDY | [transcript](../transcripts/117-jeopardy.md) |
+| 118 | Lee Trevino's Fighting Golf | [notes](118-lee-trevinos-fighting-golf.md), [transcript](../transcripts/118-lee-trevinos-fighting-golf.md) |
+| 119 | Milon's Secret Castle | [notes](119-milons-secret-castle.md), [transcript](../transcripts/119-milons-secret-castle.md) |
+| 120 | Wheel of Fortune | [notes](120-wheel-of-fortune.md), [transcript](../transcripts/120-wheel-of-fortune.md) |
+| 121 | Xevious: The Avenger | [notes](121-xevious-the-avenger.md), [transcript](../transcripts/121-xevious-the-avenger.md) |
+| 122 | 1943: The Battle of Midway | [notes](122-1943-the-battle-of-midway.md), [transcript](../transcripts/122-1943-the-battle-of-midway.md) |
+| 123 | Donkey Kong Classics | [notes](123-donkey-kong-classics.md), [transcript](../transcripts/123-donkey-kong-classics.md) |
+| 124 | Ghostbusters | [notes](124-ghostbusters.md), [transcript](../transcripts/124-ghostbusters.md) |
+| 125 | Joust | [notes](125-joust.md), [transcript](../transcripts/125-joust.md) |
+| 126 | Magmax | [notes](126-magmax.md), [transcript](../transcripts/126-magmax.md) |
+| 127 | Mickey Mousecapade | [notes](127-mickey-mousecapade.md), [transcript](../transcripts/127-mickey-mousecapade.md) |
+| 128 | Millipede | [notes](128-millipede.md), [transcript](../transcripts/128-millipede.md) |
+| 129 | Pac-man | [notes](129-pac-man.md), [transcript](../transcripts/129-pac-man.md) |
+| 130 | Racket Attack | [notes](130-racket-attack.md), [transcript](../transcripts/130-racket-attack.md) |
+| 131 | Seicross | [notes](131-seicross.md), [transcript](../transcripts/131-seicross.md) |
+| 132 | Spy vs Spy | [notes](132-spy-vs-spy.md), [transcript](../transcripts/132-spy-vs-spy.md) |
+| 133 | Super Mario Bros. 2 | [notes](133-super-mario-bros-2.md), [transcript](../transcripts/133-super-mario-bros-2.md) |
+| 134 | ANTICIPATION | [transcript](../transcripts/134-anticipation.md) |
+| 135 | Blaster Master | [notes](135-blaster-master.md), [transcript](../transcripts/135-blaster-master.md) |
+| 136 | Bubble Bobble | [notes](136-bubble-bobble.md), [transcript](../transcripts/136-bubble-bobble.md) |
+| 137 | Cobra Command | [notes](137-cobra-command.md), [transcript](../transcripts/137-cobra-command.md) |
+| 138 | Dr. Chaos | [notes](138-dr-chaos.md), [transcript](../transcripts/138-dr-chaos.md) |
+| 139 | Super Mario Bros / Duck Hunt | [notes](139-super-mario-bros-duck-hunt.md), [transcript](../transcripts/139-super-mario-bros-duck-hunt.md) |
+| 140 | Super Team Games | [notes](140-super-team-games.md), [transcript](../transcripts/140-super-team-games.md) |
+| 141 | Bionic Commando | [notes](141-bionic-commando.md), [transcript](../transcripts/141-bionic-commando.md) |
+| 142 | Bump 'N' Jump | [notes](142-bump-n-jump.md), [transcript](../transcripts/142-bump-n-jump.md) |
+| 143 | Castlevania II: Simon's Quest | [notes](143-castlevania-ii-simons-quest.md), [transcript](../transcripts/143-castlevania-ii-simons-quest.md) |
+| 144 | Blades of Steel | [notes](144-blades-of-steel.md), [transcript](../transcripts/144-blades-of-steel.md) |
+| 145 | Indiana Jones and the Temple of Doom | [notes](145-indiana-jones-and-the-temple-of-doom.md), [transcript](../transcripts/145-indiana-jones-and-the-temple-of-doom.md) |
+| 146 | Othello | [notes](146-othello.md), [transcript](../transcripts/146-othello.md) |
+| 147 | Paperboy | [notes](147-paperboy.md), [transcript](../transcripts/147-paperboy.md) |
+| 148 | Platoon | [notes](148-platoon.md), [transcript](../transcripts/148-platoon.md) |
+| 149 | Rampage | [notes](149-rampage.md), [transcript](../transcripts/149-rampage.md) |
+| 150 | Robowarrior | [notes](150-robowarrior.md), [transcript](../transcripts/150-robowarrior.md) |
+| 151 | Skate or Die | [notes](151-skate-or-die.md), [transcript](../transcripts/151-skate-or-die.md) |
 | 152 | Superman | [notes](152-superman.md) |
 | 153 | Xenophobe | [notes](153-xenophobe.md) |
 | 154 | Zelda II: The Adventure of Link | [notes](154-zelda-ii-the-adventure-of-link.md) |

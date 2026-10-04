@@ -1,0 +1,2593 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.540
+Othello, a minute to learn, a lifetime to master.
+
+00:00:19.820 --> 00:00:27.800
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:28.020 --> 00:00:29.760
+I'm Mike. I'm Sean.
+
+00:00:30.220 --> 00:00:32.360
+And I'm Joe. And that's it.
+
+00:00:32.900 --> 00:00:40.860
+That's it. But, you know, we should probably kick one of us off the show today because Othello is really a two-player game.
+
+00:00:41.480 --> 00:00:42.820
+Alright, I'll talk to you guys next week.
+
+00:00:42.840 --> 00:00:43.680
+No, no, no, I'll go.
+
+00:00:44.500 --> 00:00:45.580
+I actually like Othello.
+
+00:00:46.340 --> 00:00:48.740
+Yeah, a lot of eager people to get off the show very quickly.
+
+00:00:48.740 --> 00:00:53.560
+I love Othello. Do you want to talk about your love for Othello, Joe?
+
+00:00:54.060 --> 00:00:56.180
+Sure, I'll give a little background.
+
+00:00:56.180 --> 00:01:05.820
+I'm not a fanatic, but I started playing Othello just casually as I would play Checkers, and I always liked it.
+
+00:01:06.400 --> 00:01:08.580
+I really don't have too much more to say about my love for Othello.
+
+00:01:08.580 --> 00:01:13.040
+It's not like I went to Othello tournaments or did any crazy story.
+
+00:01:13.080 --> 00:01:14.440
+But it's a fun strategy game.
+
+00:01:14.540 --> 00:01:17.340
+Like, not the NES game, the actual board game of Othello.
+
+00:01:17.780 --> 00:01:20.220
+Did you call it Othello or did you call it Reversi?
+
+00:01:20.220 --> 00:01:23.960
+I only heard about Reversi a couple minutes before we started recording.
+
+00:01:24.140 --> 00:01:25.080
+Mike mentioned that.
+
+00:01:25.240 --> 00:01:26.720
+I've only ever called it Othello.
+
+00:01:27.040 --> 00:01:27.880
+That's so weird.
+
+00:01:28.020 --> 00:01:29.880
+I mean, I had seen this game.
+
+00:01:30.280 --> 00:01:32.500
+Like, I'd seen people play it.
+
+00:01:32.580 --> 00:01:33.540
+I never really knew the rules.
+
+00:01:33.880 --> 00:01:36.420
+First, I thought it was just go, but I know it's not go.
+
+00:01:36.720 --> 00:01:40.380
+But the only other thing I had heard of was Reversi.
+
+00:01:40.380 --> 00:01:42.700
+I had never heard this described as Othello.
+
+00:01:43.660 --> 00:01:53.180
+Well, Sean, you gave me a great segue there because I also only knew it as Reversi until I started, like, I guess, looking into the game a little more.
+
+00:01:53.320 --> 00:01:56.720
+And then it became Othello, and that's how I knew it going into this episode.
+
+00:01:56.900 --> 00:02:03.400
+But the Othello thing actually comes because that's, like, that's the change between...
+
+00:02:03.400 --> 00:02:06.100
+There is actual differences between Reversi and Othello.
+
+00:02:06.100 --> 00:02:12.400
+Yeah. And there are, like, really small differences, but apparently, like, Othello is a game that's, like, patented in Japan.
+
+00:02:13.060 --> 00:02:19.200
+And so, when you go to, like, the App Store, nobody can just, like, make a generic Othello game.
+
+00:02:19.280 --> 00:02:23.520
+You have to call it Reversi because nobody has, like, a license on that one.
+
+00:02:23.840 --> 00:02:29.940
+But you can't, like, if you go to the App Store and look up, like, I just want to play some Othello today, they'll just show you Reversi games instead.
+
+00:02:30.540 --> 00:02:34.520
+It's really weird that it's just the naming convention, I guess.
+
+00:02:34.520 --> 00:02:37.020
+Yeah, like, everything else about it is up for grabs.
+
+00:02:37.680 --> 00:02:47.360
+Yeah. The modern version of the game, Othello, if you will, we'll refer to it just as that going forward, is...
+
+00:02:47.360 --> 00:03:00.440
+The only difference is that in Reversi, when a player could not make a move, that was, like, the end of the game.
+
+00:03:00.660 --> 00:03:06.680
+And I believe now in Othello, when the player cannot make a move, then the next player you just pass.
+
+00:03:06.840 --> 00:03:09.560
+And the other player is just able to continue to go.
+
+00:03:10.340 --> 00:03:14.460
+Should we do, like, a quick overview of the rules of the game Othello?
+
+00:03:14.460 --> 00:03:15.920
+Yeah, I think so.
+
+00:03:16.060 --> 00:03:23.380
+I think that's warranted because I imagine if I had to, like, rank the most common tabletop board game...
+
+00:03:23.380 --> 00:03:31.440
+I don't even know if you call them board games, but tabletop games in the world, chess would probably be, like, number one, go number two, checkers number three.
+
+00:03:31.920 --> 00:03:37.000
+And Othello is, like, probably one that doesn't have as much exposure as anywhere near those other three.
+
+00:03:37.000 --> 00:03:40.900
+It's, like, somewhere in the range of, like, a mousetrap.
+
+00:03:42.720 --> 00:03:44.220
+Oh, everyone knows mousetrap.
+
+00:03:44.320 --> 00:03:45.720
+Everyone knows how to build a mousetrap.
+
+00:03:46.740 --> 00:03:47.900
+Nobody knows how to play it.
+
+00:03:48.420 --> 00:03:49.560
+Joe, you volunteered.
+
+00:03:49.560 --> 00:03:52.540
+Would you like to walk us through a little rendition?
+
+00:03:52.680 --> 00:03:55.180
+You don't have to give me all the rules and all the complicatedness.
+
+00:03:55.420 --> 00:03:56.800
+I mean, it's pretty simple, really.
+
+00:03:57.420 --> 00:04:03.140
+You're on a board, I think it's an 8x8 board of 8x8 tiles, and there are...
+
+00:04:03.640 --> 00:04:07.100
+You have little discs that are black on one side, white on the other.
+
+00:04:07.780 --> 00:04:12.860
+So you put them in a little checkerboard, like, square in the middle, just four discs,
+
+00:04:13.440 --> 00:04:21.800
+and then really you just place one of your discs in your color surrounding or, like, on either end of however many of the other player's color.
+
+00:04:21.800 --> 00:04:26.580
+So, like, if you bookend your other player's color, you can flip over any...
+
+00:04:26.580 --> 00:04:32.420
+If you're white and you bookend the black pieces, you can flip over any black pieces in between your two white pieces.
+
+00:04:33.220 --> 00:04:35.000
+And that's really the game.
+
+00:04:35.200 --> 00:04:41.580
+The whole goal of the game is that once the board's filled, you want to have more of your pieces than the other player.
+
+00:04:41.740 --> 00:04:46.640
+And the result is actually kind of more complicated than it sounds because...
+
+00:04:46.640 --> 00:04:47.700
+Oh, yeah.
+
+00:04:47.780 --> 00:04:51.260
+At any given moment, like, half the board can switch.
+
+00:04:51.900 --> 00:05:02.260
+Yeah, and another quick note is that you may only place something down if it will result in a flip.
+
+00:05:02.460 --> 00:05:03.920
+Like, you can't just sort of...
+
+00:05:03.920 --> 00:05:08.640
+I'll put one over here that's not really interacting with the rest of the game.
+
+00:05:08.640 --> 00:05:10.440
+It just has to make a flip.
+
+00:05:11.080 --> 00:05:20.860
+Right, right. Yeah, and what's interesting here is, like, when Reverse first, like, became a thing, that was 1883.
+
+00:05:21.000 --> 00:05:28.520
+So, this is definitely the oldest video game, like, adaptation we're getting because of the time it took to get to here.
+
+00:05:28.740 --> 00:05:33.920
+But that's even, like, six years before Nintendo, the company, has found it.
+
+00:05:33.920 --> 00:05:42.840
+So, like, for Nintendo, this is kind of a big deal because Othello is really, like, a Japanese, you know, game.
+
+00:05:43.000 --> 00:05:44.440
+It was padded in Japan in 1971.
+
+00:05:44.840 --> 00:05:46.160
+They brought out the rulebook.
+
+00:05:46.280 --> 00:05:51.260
+They popularized the game a lot and opened up, like, official Othello tournaments.
+
+00:05:51.260 --> 00:06:00.760
+So, it does make sense that we're seeing this game before, say, like, you know, chess or checkers, which you would imagine you'd get way before you ever get a game like Othello.
+
+00:06:01.180 --> 00:06:10.820
+But I think that happens strictly because of the Japanese tie-in, and it's probably likely, although I didn't look it up, that this game came out in Japan long before...
+
+00:06:10.820 --> 00:06:12.800
+On the Famicom long before it came to the NES.
+
+00:06:13.120 --> 00:06:14.100
+I buy that.
+
+00:06:14.280 --> 00:06:17.580
+Yeah. I didn't know that this game had its roots in Japan.
+
+00:06:17.580 --> 00:06:18.900
+I thought it was another...
+
+00:06:19.280 --> 00:06:23.040
+I mean, I guess just because of the Reversi thing.
+
+00:06:23.220 --> 00:06:26.400
+But I guess that is, like, a European thing.
+
+00:06:27.040 --> 00:06:29.880
+Yes. Reversi is, I think, actually...
+
+00:06:29.880 --> 00:06:32.060
+Is that the UK, I think, that's where that started?
+
+00:06:32.240 --> 00:06:33.940
+I think it was in Scotland or Wales or something.
+
+00:06:34.460 --> 00:06:40.660
+Got it. And there's, like, two guys that each claim they made the game, and they say the other one's a liar.
+
+00:06:43.360 --> 00:06:44.640
+So, that is what it is.
+
+00:06:44.640 --> 00:06:47.140
+We'll never know the truth because it's been so long.
+
+00:06:47.140 --> 00:06:49.120
+Who could find the official documents?
+
+00:06:49.760 --> 00:06:54.220
+But, Joe, I think you gave a really solid explanation of how to play this game.
+
+00:06:54.620 --> 00:07:01.280
+So, were you surprised at all, upon booting up the NES version of this game, that it really is just Othello?
+
+00:07:01.340 --> 00:07:04.400
+Or is that about what we all expected to be doing?
+
+00:07:04.400 --> 00:07:06.960
+I mean, I think that is what we expected.
+
+00:07:07.840 --> 00:07:08.920
+Or what I expected, rather.
+
+00:07:09.300 --> 00:07:13.720
+But, Mike, I mentioned to you earlier that, like, I really don't have too much...
+
+00:07:13.720 --> 00:07:14.980
+Too much. I have a little bit.
+
+00:07:15.080 --> 00:07:18.200
+But to say about the NES game, because it's just...
+
+00:07:18.200 --> 00:07:21.400
+Everything I have to say about the NES game is the stuff I have to say about Othello.
+
+00:07:21.500 --> 00:07:25.580
+Because it is pretty darn accurately just exactly Othello.
+
+00:07:25.840 --> 00:07:29.160
+I mean, it's not like any of the sports games we play where, like, they can't get it all...
+
+00:07:29.160 --> 00:07:31.820
+The rules are simple enough where they can get it all into an NES game.
+
+00:07:33.060 --> 00:07:34.640
+So, no, I wasn't surprised.
+
+00:07:34.920 --> 00:07:35.800
+Sean, how about you?
+
+00:07:36.820 --> 00:07:49.280
+Yeah, I mean, I guess the only things that you can say about its port from Meatspace to the NES is how does it handle...
+
+00:07:50.680 --> 00:07:54.580
+How you interact with the game and how does it handle how you set up a game.
+
+00:07:54.760 --> 00:07:58.000
+I mean, I guess, like, you know, it's easier to set up.
+
+00:07:58.000 --> 00:08:03.280
+Um, uh, the fact that you have computer players is cool.
+
+00:08:03.460 --> 00:08:08.200
+They seem to be well-designed, um, in terms of their AI.
+
+00:08:08.960 --> 00:08:15.140
+Uh, and that's really all that you can say about the game outside of the actual board game, I think.
+
+00:08:15.320 --> 00:08:18.000
+And, like, it's got a very Spartan aesthetic.
+
+00:08:18.280 --> 00:08:21.960
+Like, they're not really doing too much to spice the game up.
+
+00:08:21.960 --> 00:08:23.420
+But I don't think it needs to.
+
+00:08:24.040 --> 00:08:34.500
+You must be reading my show notes because those two bullet points of how you interact with the game and computer difficulty are the two big talking points on my show notes today.
+
+00:08:34.720 --> 00:08:36.380
+Yeah. And so I'd love to...
+
+00:08:36.380 --> 00:08:38.380
+So all you can talk about. Well, you'd be surprised.
+
+00:08:38.620 --> 00:08:39.700
+I will go on a rant later.
+
+00:08:40.000 --> 00:08:43.860
+I can't wait. But let's talk about how you interact with the game.
+
+00:08:44.160 --> 00:08:48.040
+Because I think that is the most important part of this whole thing, right?
+
+00:08:48.160 --> 00:08:51.120
+Is that video games are the future, right?
+
+00:08:51.200 --> 00:08:55.520
+In the future, all games will be played on your TV or now in VR or whatever.
+
+00:08:55.700 --> 00:08:58.220
+And, like, there will be no need for physical objects.
+
+00:08:58.420 --> 00:09:03.460
+But is a game like Othello where the pieces really just switch between black and white?
+
+00:09:03.460 --> 00:09:15.120
+Like, is that a game that's complicated enough to warrant, like, oh, this will be so much better when I have the video game version because I won't have to waste my time flipping these tiles and hoping I made the right flips.
+
+00:09:15.240 --> 00:09:17.000
+Like, oh, I accidentally missed one this time.
+
+00:09:17.380 --> 00:09:20.900
+Is this a game that warrants, like, needing this much?
+
+00:09:20.960 --> 00:09:22.780
+Like, you think about, like, Monopoly, right?
+
+00:09:22.880 --> 00:09:27.020
+A real board game, which is not a real board game, of course, because we know what real board games are.
+
+00:09:27.200 --> 00:09:29.100
+But to the general population, real board games...
+
+00:09:29.100 --> 00:09:30.540
+Nobody understands what you mean.
+
+00:09:30.900 --> 00:09:32.780
+We're like elitists of board games.
+
+00:09:32.780 --> 00:09:34.220
+Yeah, yeah. Real board games.
+
+00:09:34.460 --> 00:09:35.780
+Your Euro board game dominance.
+
+00:09:36.640 --> 00:09:40.620
+Or I'm sure, you know, Settlers of Catan is, like, now a big thing, right?
+
+00:09:40.760 --> 00:09:41.580
+In, like, mainstream.
+
+00:09:41.840 --> 00:09:47.980
+And I think people would say that Settlers of Catan is way above Monopoly in terms of, like, a board game.
+
+00:09:48.200 --> 00:09:53.600
+Sure. You know? But Monopoly is a game that almost every American is familiar with.
+
+00:09:53.600 --> 00:09:56.760
+And that's a game that I believe we're going to get on the NES.
+
+00:09:56.920 --> 00:09:58.960
+But that's one that, like, makes sense, right?
+
+00:09:59.080 --> 00:10:01.660
+There's a lot of, like, can you even trust the banker?
+
+00:10:01.700 --> 00:10:04.040
+But then the banker has, like, a lot of different mistakes.
+
+00:10:04.060 --> 00:10:06.400
+And there's money to be handed out and properties.
+
+00:10:06.400 --> 00:10:08.900
+And you have to, like, keep it all in a tiny space to yourself.
+
+00:10:09.320 --> 00:10:10.760
+So, like, that makes sense.
+
+00:10:10.760 --> 00:10:19.680
+In a game where all you have to do is just pick up a pebble and put it on an 8x8 grid, do you need this to be on the NES?
+
+00:10:19.680 --> 00:10:28.960
+Yes. I guess the one thing that does, Sean, you mentioned it that I forgot to mention when I was talking about it, is the AI.
+
+00:10:29.380 --> 00:10:36.260
+I mean, I guess in the 80s, you can't just, like, go online and play Othello online and you want to play Othello and you don't have someone to play it with.
+
+00:10:36.620 --> 00:10:39.660
+I guess that's a selling point that you can play against the computer.
+
+00:10:40.680 --> 00:10:41.540
+You can practice.
+
+00:10:41.700 --> 00:10:42.560
+You can hone your skills.
+
+00:10:43.180 --> 00:10:53.440
+But, yeah, to your point, I mean, if you were to just take Monopoly and Othello and forget about which one you like better and just decide based on, like, which one would have more value in being a video game, I guess Monopoly.
+
+00:10:53.700 --> 00:10:55.740
+I mean, there's more setup to be done.
+
+00:10:55.840 --> 00:10:57.080
+There's more that's going on.
+
+00:10:57.660 --> 00:11:02.140
+Whereas, like, Othello, yeah, you don't have to set up the board, but you're tied to your TV.
+
+00:11:02.360 --> 00:11:04.940
+So, like, setting up the board doesn't take that much time anyways.
+
+00:11:05.780 --> 00:11:14.880
+I, yeah, I think that the main draw for something like this is the fact that there are AI opponents.
+
+00:11:15.280 --> 00:11:22.300
+Like, there are computer opponents of varying difficulty with different rules that you can enforce.
+
+00:11:24.000 --> 00:11:29.180
+It is funny that, like, it's such a basic thing that we're simulating here.
+
+00:11:29.180 --> 00:11:40.420
+It almost feels like some of the first video games, which were just, like, just experiments of, like, well, let's just try and recreate this with machine code.
+
+00:11:42.020 --> 00:11:47.200
+Obviously, all you need is a piece of paper to play X's and O's.
+
+00:11:47.360 --> 00:11:48.420
+What was it? Oh, Jesus Christ.
+
+00:11:49.040 --> 00:11:52.520
+Tic-tac-toe. Rock over scissors.
+
+00:11:53.900 --> 00:11:58.120
+Obviously, all you need is a piece of paper to play that game, but let's have a computer do it.
+
+00:11:58.120 --> 00:12:04.860
+This almost feels like this kind of experiment, but no, I mean, just because it has a computer opponent, I think it has some value.
+
+00:12:05.100 --> 00:12:07.060
+Yeah, okay. I think that's a good point.
+
+00:12:07.220 --> 00:12:14.080
+And to be fair, like, anything that can be emulated into a video game experience is totally, like, justified to do so.
+
+00:12:14.300 --> 00:12:16.660
+Like, I'm not saying this was a waste of time.
+
+00:12:16.660 --> 00:12:31.080
+I'm arguing that I would just rather, having played this NES version, you know, whether Othello, like, itself is a great game or something like that, isn't, like, going to be changed on someone's opinion of, like, this port of it to the NES.
+
+00:12:31.080 --> 00:12:44.420
+And so I would actually say that in this case, because it is a pretty simple to set up game and play, it's kind of just more fun and immersive, if you will, to just play in the real world, like, physical.
+
+00:12:44.620 --> 00:12:53.180
+Just have, like, the tabletop game set up and flip those pieces, because the total time of that game versus an NES game is really not that much different.
+
+00:12:53.340 --> 00:12:55.280
+I totally understand where you guys are coming from.
+
+00:12:55.380 --> 00:13:03.760
+No, yeah. I mean, I'd very much prefer the tactile experience of playing the board game.
+
+00:13:03.920 --> 00:13:08.160
+But I just thought it was funny the way that you said that with the immersion.
+
+00:13:09.180 --> 00:13:14.780
+Like, whenever you go out into the baseball field and you're playing with your buddies, like, oh, this is so immersive.
+
+00:13:15.720 --> 00:13:24.940
+Right, right. Well, I can't be the only one of the group that actually sees, like, the war qualities of a game like Othello,
+
+00:13:24.940 --> 00:13:33.760
+where it is actually, like, you know, there's a battlefield here and being defensive, you know, if we're talking strategies,
+
+00:13:34.000 --> 00:13:41.140
+being defensive early on and then going on the attack later is, like, this beautiful art form in playing the game
+
+00:13:41.140 --> 00:13:51.120
+where you kind of need to, like, focus on just maintaining ground at first and then expanding your ground later on when there's less choices to be had.
+
+00:13:51.120 --> 00:13:52.780
+So this way you keep that lead.
+
+00:13:52.980 --> 00:13:57.340
+I think that there is definitely, like, some war games going on here.
+
+00:13:57.460 --> 00:14:05.320
+And so, you know, I'm not saying that that's, like, immersive, but it's fun to, like, see that happen in front of you rather than with, you know, 8-bit graphics.
+
+00:14:06.140 --> 00:14:07.640
+That's true. I get what you're saying.
+
+00:14:07.800 --> 00:14:11.920
+But also to that point, then, Othello is such a...
+
+00:14:11.920 --> 00:14:17.560
+As simple as it is, like, the more you play it, the more you realize that the strategy is, like, really, really deep in Othello.
+
+00:14:18.500 --> 00:14:21.480
+So, like, to that point, if you are, like, trying to get better at it and stuff,
+
+00:14:22.200 --> 00:14:28.000
+then there's also just something really cool about being able to play against the computer over and over again,
+
+00:14:28.140 --> 00:14:33.200
+try out your different strategies, test them out, and, like, when there's no stakes of playing against an actual opponent.
+
+00:14:33.620 --> 00:14:35.060
+Granted, I mean, the computer might...
+
+00:14:35.060 --> 00:14:37.840
+The AI might be flawed, but so would your opponent be.
+
+00:14:39.020 --> 00:14:43.440
+But, yeah, there's a lot of strategies that, like, you might think, well, would this work?
+
+00:14:43.480 --> 00:14:48.300
+And it's just hard to get your mind around, so it's good to have that, like, model that you can test.
+
+00:14:48.580 --> 00:14:50.140
+So this game is more utility.
+
+00:14:51.160 --> 00:14:54.680
+Yeah. Yeah, it's like a training center.
+
+00:14:54.920 --> 00:14:58.940
+Yeah. Yeah, that's a great point, though, Sean, about being a training center,
+
+00:14:58.960 --> 00:15:05.320
+because I imagine that that's actually a very valid purpose for this kind of thing.
+
+00:15:05.320 --> 00:15:14.100
+You know, even today, but, like, back then, you know, computer chess, computer Go, computer Othello,
+
+00:15:14.280 --> 00:15:20.200
+like, these high-strategy games that were, like, you know, oh, the best players in the world are, like,
+
+00:15:20.300 --> 00:15:25.620
+so much better than the rest of, you know, the players that play is a really neat concept,
+
+00:15:25.620 --> 00:15:29.200
+and to see it at, like, a high level, like Joe was saying, it is a very deep game.
+
+00:15:29.200 --> 00:15:35.280
+And when computers first started, it was actually, like, a programming challenge to say, like,
+
+00:15:35.340 --> 00:15:41.920
+how am I going to beat the best human players in the world using a computer, using mathematics,
+
+00:15:41.920 --> 00:15:48.400
+and, you know, like, puzzles to solve this, and schedules and stuff like that?
+
+00:15:48.460 --> 00:15:50.180
+Like, how am I going to overcome that?
+
+00:15:50.180 --> 00:15:55.780
+And I think that that's where the NES version really shines, is that, you know,
+
+00:15:56.220 --> 00:16:01.860
+there's enough programming power here to really challenge the average player.
+
+00:16:01.980 --> 00:16:07.260
+I don't know about top players, but this could be a very challenging experience compared to,
+
+00:16:07.480 --> 00:16:13.120
+you know, playing your friend in a casual two-player match where neither one of you really cares all that much about strategy.
+
+00:16:13.120 --> 00:16:23.800
+It's funny because in the manual for this game, it describes the different computer difficulty levels,
+
+00:16:25.020 --> 00:16:30.940
+not so much in how much better they are in just, like, how they're going to make the decisions,
+
+00:16:31.000 --> 00:16:35.460
+but it's more that the computer gets more time to think about the decision.
+
+00:16:35.680 --> 00:16:40.440
+Like, it's just, it's simulating however many permutations that this board can go,
+
+00:16:41.960 --> 00:16:46.480
+and when it gets to the harder level, it stops, it doesn't cut it off so quickly,
+
+00:16:46.480 --> 00:16:48.580
+so it makes the less than ideal move.
+
+00:16:49.620 --> 00:16:56.540
+So this is probably the most resource-intensive NES game we've played, if that's to be believed,
+
+00:16:56.820 --> 00:17:02.820
+because it's probably, it's probably doing all of that, like, at the highest clock speed that it can.
+
+00:17:04.000 --> 00:17:07.660
+So, yeah, no, I mean, I really like the history of computer chess,
+
+00:17:07.660 --> 00:17:14.620
+and while it seems like Othello isn't as high permutation, maybe I'm wrong,
+
+00:17:14.760 --> 00:17:16.640
+it's sort of the same concept.
+
+00:17:17.380 --> 00:17:21.640
+So, I actually have a question about that, because I wasn't sure what was happening
+
+00:17:21.640 --> 00:17:24.320
+when you got into higher difficulties and it was taking longer.
+
+00:17:24.600 --> 00:17:30.200
+And I thought maybe it was, like, trying to make me feel like it's taking longer in thinking,
+
+00:17:30.320 --> 00:17:33.200
+but do you think that it really, like, I don't know anything about computer chess and how that works,
+
+00:17:33.200 --> 00:17:37.760
+but do you think it really was, like, taking that time in order to, like,
+
+00:17:38.340 --> 00:17:42.440
+I just didn't think the AI would even be that advanced on the NES to be able to do that,
+
+00:17:42.440 --> 00:17:46.740
+so I thought it was just, like, an immersion thing, which I thought would have been silly,
+
+00:17:46.740 --> 00:17:50.440
+but if it is actually taking that time, that's really fascinating,
+
+00:17:50.480 --> 00:17:54.700
+because it really is making the difficulty higher by just making the opponent better.
+
+00:17:54.880 --> 00:17:56.120
+Go ahead, Sean. No, you can go ahead.
+
+00:17:56.600 --> 00:18:00.360
+Okay. Yeah, absolutely, Joe, because even, like, very early computers,
+
+00:18:00.360 --> 00:18:03.840
+essentially, what I was calling schedules, I'm not sure where I came up with that,
+
+00:18:03.960 --> 00:18:10.320
+I'm referring to, like, trees, where there's a bunch of, like, legal moves laid out in patterns
+
+00:18:10.320 --> 00:18:15.660
+that computers recognize, and they look at the legal moves available to them,
+
+00:18:15.760 --> 00:18:17.200
+and they're able to, like, look forward.
+
+00:18:17.640 --> 00:18:20.700
+Yeah. So, like, there's all these different trees, essentially,
+
+00:18:20.760 --> 00:18:24.740
+and they make deterministic things based on, like, the final outcome that they can see.
+
+00:18:24.940 --> 00:18:29.060
+Obviously, like, humans are not really capable of doing something like that.
+
+00:18:29.060 --> 00:18:32.980
+We're very bad at that. We're looking ahead that, you know, that many steps.
+
+00:18:33.140 --> 00:18:34.220
+But a computer can.
+
+00:18:34.620 --> 00:18:39.600
+And obviously, like, in a game, you were saying this is an 8x8 board, which it is.
+
+00:18:39.700 --> 00:18:44.360
+There are smaller Othello boards, but this is the one that you get access to in the NES version.
+
+00:18:44.760 --> 00:18:52.440
+There's no way that the NES had enough power to do, like, 10 to the 54th power amount of trees,
+
+00:18:52.640 --> 00:18:57.060
+you know, to figure out, like, all the different nodes possible to solve the game.
+
+00:18:57.060 --> 00:18:59.580
+I don't even think Othello's ever been solved, actually.
+
+00:18:59.700 --> 00:19:01.740
+I think it's still to this day not a solved game.
+
+00:19:02.040 --> 00:19:04.260
+Yeah. Wow. I mean, think about that number, though.
+
+00:19:04.400 --> 00:19:05.780
+10 to the 54th power.
+
+00:19:06.040 --> 00:19:12.720
+They've been able to get a computer Go that can beat a human, but...
+
+00:19:12.720 --> 00:19:13.680
+No, no, no, sorry, no.
+
+00:19:13.840 --> 00:19:15.100
+Beat a human, no problem.
+
+00:19:15.340 --> 00:19:18.740
+Othello can easily beat a human with today's computers.
+
+00:19:19.140 --> 00:19:27.900
+Oh, okay. It's not a solved game in the sense of, like, if you do all these moves, white can never win if you go first, you know?
+
+00:19:28.280 --> 00:19:31.340
+Oh, interesting. Like, it has not been...
+
+00:19:31.340 --> 00:19:33.420
+Where checkers has been solved, apparently.
+
+00:19:33.920 --> 00:19:36.480
+Okay. I mean, checkers is, yes, pretty simple.
+
+00:19:36.900 --> 00:19:49.880
+Yeah, yeah. But I'm saying, like, you know, that's the difference, I guess, is, like, you know, these computers try to brute force their way into, like, figuring out the one, like, series of steps that will always guarantee victory.
+
+00:19:49.980 --> 00:19:57.160
+But because there's so many possible outcomes, you know, computers even have a long way to go before we can figure out that answer.
+
+00:19:57.400 --> 00:19:59.000
+I didn't realize this was on that level, yeah.
+
+00:19:59.440 --> 00:20:13.980
+Yeah, to make a long story short, for Joe, the computer is absolutely doing that here, and that's the difference, is, like, the time that it gets to calculate is the time that it's able to, like, look ahead and make the best possible decision based on future moves.
+
+00:20:14.100 --> 00:20:20.940
+So when you're playing on difficulty one, it's not that the computer is, you know, like, set to be terrible and make dumb moves.
+
+00:20:21.000 --> 00:20:24.320
+I don't think computer difficulty one ever really makes a stupid move.
+
+00:20:24.440 --> 00:20:33.200
+No. But I think it might make a suboptimal move compared to the level four, which I just found to be, you know, like, way beyond my talents.
+
+00:20:34.320 --> 00:20:46.900
+I mean, I was only able, I played through, like, maybe a half dozen games, and I only won once, and that was with using, I think I did two cancellations in that match.
+
+00:20:47.860 --> 00:20:53.540
+So, I mean, if we're going by the real rules of the game, I didn't win a single one, even on level one.
+
+00:20:54.980 --> 00:20:56.500
+I don't know how you guys performed.
+
+00:20:56.820 --> 00:21:01.680
+I did, like, four games, and I think I won two, both against level one.
+
+00:21:01.780 --> 00:21:05.480
+I played one against level four, and I don't think I won that one.
+
+00:21:06.700 --> 00:21:20.600
+I guess we'll start on just computer difficulty in games like Othello, because I do think that the computer difficulty in this game is making a mistake here in the way that it was programmed,
+
+00:21:20.600 --> 00:21:25.940
+because there really needs to be, especially for the audience that this is designed for, right?
+
+00:21:26.040 --> 00:21:33.300
+I doubt there were people, like, there are always people who are going to be, like, hardcore into chess or for the Eastern audience, like, hardcore into go.
+
+00:21:33.760 --> 00:21:34.920
+There's always going to be that.
+
+00:21:34.920 --> 00:21:36.800
+But this is not played at the same level.
+
+00:21:36.800 --> 00:21:42.940
+And so a lot of people who are picking up this game need to, like, first learn how to play this game.
+
+00:21:43.100 --> 00:21:46.860
+And there's no difficulty like that for the computer in this game.
+
+00:21:46.980 --> 00:21:55.040
+There's no, like, the computer will hand you victories, but you will also learn, like, why you were able to beat the computer,
+
+00:21:55.040 --> 00:22:01.400
+because you continue to take more than you give, and you figure out, like, oh, the corners are super important,
+
+00:22:01.440 --> 00:22:05.640
+and I need to dominate, like, fixed spaces that the computer will never be able to get back.
+
+00:22:06.160 --> 00:22:12.660
+Like, to learn those things is something that I had to go outside of the game to find out.
+
+00:22:12.780 --> 00:22:14.660
+It was not something that the game was going to teach me here.
+
+00:22:14.700 --> 00:22:22.260
+And I'm not asking for tutorials, but I'm saying when the computer only really ever makes good to great to amazing moves,
+
+00:22:22.260 --> 00:22:31.340
+we're really just missing out on the experience of ever, like, learning from something that might be able to teach us the game in a more intuitive way.
+
+00:22:31.520 --> 00:22:32.480
+I don't know, though. Without tutorials...
+
+00:22:32.480 --> 00:22:34.680
+And that sounds like you're asking for a tutorial.
+
+00:22:35.300 --> 00:22:40.540
+Yeah, that's what I'm thinking, too, because I think without tutorials, the only way to do that would be...
+
+00:22:40.540 --> 00:22:45.580
+Well, yeah, I mean, to do it the way that you're saying, where it's, like, just have it so the AI is more flawed,
+
+00:22:45.580 --> 00:22:49.000
+so it's, like, an even easier mode would probably be fine,
+
+00:22:49.000 --> 00:22:57.500
+but I feel like playing against, like, a competent computer opponent still made me...
+
+00:22:57.500 --> 00:22:59.300
+Like I said, I've played this when I was younger.
+
+00:22:59.300 --> 00:23:01.900
+I haven't played it in years, so I had forgotten any strategy I had.
+
+00:23:02.580 --> 00:23:03.720
+And after a couple...
+
+00:23:03.720 --> 00:23:10.360
+After my first two times playing, I was already kind of getting some strategy just from all the things I was doing wrong.
+
+00:23:10.720 --> 00:23:14.280
+Like, I feel like it's the same thing as if you were to pick up...
+
+00:23:14.280 --> 00:23:18.220
+You know, if you were to now go teach someone, or not teach someone, but play with someone who's a beginner
+
+00:23:18.220 --> 00:23:20.620
+and you just start playing and you start making right moves,
+
+00:23:21.260 --> 00:23:26.200
+unless you're going to verbally teach them, they'll just learn by losing to you, you know?
+
+00:23:27.700 --> 00:23:29.280
+Or just seeing what's happening.
+
+00:23:29.400 --> 00:23:30.400
+I feel like it's just such a...
+
+00:23:30.400 --> 00:23:34.700
+It's, like, you could say part of it could be trial and error, but also part of it is, like,
+
+00:23:34.820 --> 00:23:36.900
+a lot of thinking ahead and, like...
+
+00:23:38.040 --> 00:23:41.520
+It lends itself to you figuring out how to work it.
+
+00:23:41.520 --> 00:23:46.300
+Like, it's not like these techniques are impossible to figure out by thinking ahead.
+
+00:23:46.500 --> 00:23:47.760
+Yeah, I think that's a great point.
+
+00:23:47.960 --> 00:23:49.080
+I believe in that, too.
+
+00:23:49.180 --> 00:23:53.500
+And I heard, Sean, I think you were saying that it sounds like I kind of am asking for a tutorial,
+
+00:23:53.700 --> 00:23:55.020
+which maybe I am, to be honest.
+
+00:23:55.260 --> 00:23:57.800
+Not sure exactly what I was looking for here.
+
+00:23:57.940 --> 00:23:59.840
+I would just say that, you know,
+
+00:24:01.800 --> 00:24:05.140
+when you're playing against another person in a game like this,
+
+00:24:06.300 --> 00:24:10.860
+either you fall into a trap where you're really good at this game from playing it all the time,
+
+00:24:10.860 --> 00:24:14.560
+and your friend isn't quite there and they have to, like, either catch up
+
+00:24:14.560 --> 00:24:19.100
+or you just continue to learn how to exploit the common mistakes that they keep making.
+
+00:24:19.360 --> 00:24:20.500
+Like when you have to play chess.
+
+00:24:21.060 --> 00:24:21.880
+Yeah, yeah, sure.
+
+00:24:22.680 --> 00:24:26.980
+Exactly. Or you have the computer who, you know,
+
+00:24:27.140 --> 00:24:32.140
+because the only real thing it can do is just predict the consequences of the moves
+
+00:24:32.140 --> 00:24:34.960
+that you're likely to make, just play better than you.
+
+00:24:34.960 --> 00:24:38.440
+I agree that, like, level one is not impossible,
+
+00:24:38.870 --> 00:24:44.760
+but we have to mention that, like, the computer in this game is pretty damn good
+
+00:24:44.760 --> 00:24:50.520
+and, like, there is no necessary, like, beginner mode for someone in this game.
+
+00:24:50.640 --> 00:24:53.760
+You will learn by losing to the computer even on level one.
+
+00:24:53.840 --> 00:24:55.280
+Like, you will learn from that, no doubt.
+
+00:24:55.360 --> 00:25:04.140
+Yeah. It's just not the same friendly video game experience that we might be, you know, used to today.
+
+00:25:04.360 --> 00:25:11.160
+Yeah. I guess the closest thing that it offers is playing on the lowest difficulty level
+
+00:25:11.160 --> 00:25:13.000
+also without a time limit.
+
+00:25:14.180 --> 00:25:15.540
+Because then you can...
+
+00:25:16.700 --> 00:25:19.620
+Because, like I said, all the strategy is there before you.
+
+00:25:19.720 --> 00:25:23.980
+You just have to really be able to, like, take the time to really think about, like,
+
+00:25:23.980 --> 00:25:25.940
+what's going to happen if I go here, what's going to happen if I go there?
+
+00:25:26.120 --> 00:25:28.620
+You have to do what the AI is doing on level four.
+
+00:25:28.760 --> 00:25:31.520
+You have to sit there, probably take you a lot longer, and go through all your moves.
+
+00:25:31.680 --> 00:25:33.060
+And, like, that's kind of how you...
+
+00:25:33.440 --> 00:25:38.440
+Like, you can just, cognitively, you can just come up with those strategies
+
+00:25:38.440 --> 00:25:41.360
+by figuring them out as you're looking at your next move.
+
+00:25:41.860 --> 00:25:43.020
+So, like, I think...
+
+00:25:43.620 --> 00:25:44.760
+I've never played this game.
+
+00:25:44.840 --> 00:25:48.680
+I've never played Othello with a time limit, but I assume a lot of people do.
+
+00:25:48.920 --> 00:25:51.140
+And I think just being able to play it without a time limit
+
+00:25:51.140 --> 00:25:53.620
+and without the pressure of having another person whose time you're wasting
+
+00:25:54.100 --> 00:25:57.060
+gives you, like, just the infinite amount of time to, like, figure it out.
+
+00:25:57.160 --> 00:25:58.500
+And then those strategies will come to you.
+
+00:25:58.940 --> 00:26:03.960
+It's not necessarily the cleanest solution to what you're asking for, Mike.
+
+00:26:04.100 --> 00:26:06.560
+It's still just kind of like a workaround that the player has to do.
+
+00:26:07.860 --> 00:26:10.280
+But short of them having some sort of lessons or something.
+
+00:26:11.100 --> 00:26:13.120
+Yeah, that's the only thing that I can think of.
+
+00:26:13.200 --> 00:26:15.500
+I don't really know how they would go about it.
+
+00:26:15.500 --> 00:26:18.940
+Maybe have some baked-in situations that...
+
+00:26:19.860 --> 00:26:26.500
+Sort of like when I use Lichess, like, every day they would have, like, a board
+
+00:26:26.500 --> 00:26:28.100
+and arrange in a certain way.
+
+00:26:28.240 --> 00:26:29.660
+What's the optimal move?
+
+00:26:30.580 --> 00:26:35.560
+And I guess just have, like, a dozen of these baked in to the game
+
+00:26:36.080 --> 00:26:40.380
+that, like, once you select it, it'll say why that was the correct answer,
+
+00:26:40.420 --> 00:26:41.560
+why that's the wrong answer.
+
+00:26:42.180 --> 00:26:47.320
+But I don't know, like, especially in a game in this generation,
+
+00:26:48.160 --> 00:26:51.080
+how in-depth they can go with that.
+
+00:26:51.420 --> 00:26:59.200
+I think that just an easy computer and a very generous time limit
+
+00:26:59.200 --> 00:27:01.840
+is probably the best they can do beyond that.
+
+00:27:02.760 --> 00:27:04.300
+Yeah, that's a great point.
+
+00:27:04.600 --> 00:27:10.620
+And, you know, for what it's worth, we have talked about the game here,
+
+00:27:10.620 --> 00:27:13.560
+and I think somewhat the strategy, but I would say that, you know,
+
+00:27:13.600 --> 00:27:16.360
+even though Joe and I have familiar background with the game
+
+00:27:16.360 --> 00:27:19.900
+and Sean seems to as well, I don't think any of us are experts enough
+
+00:27:19.900 --> 00:27:23.500
+to tell you what are actually good strategies, just what our strategies are.
+
+00:27:25.460 --> 00:27:27.520
+But there's other things to talk about here, too.
+
+00:27:27.800 --> 00:27:29.500
+And Joe mentioned the timers.
+
+00:27:30.140 --> 00:27:32.520
+I don't know if this was just me, and maybe, like,
+
+00:27:32.520 --> 00:27:34.640
+if you play against a level 4 computer often enough,
+
+00:27:34.640 --> 00:27:37.520
+you would want the much longer timers.
+
+00:27:37.520 --> 00:27:40.020
+But I was actually looking for a timer that was more like,
+
+00:27:40.640 --> 00:27:42.560
+give me five minutes, you know?
+
+00:27:42.800 --> 00:27:48.080
+Or do, like, do a chess clock style where, you know,
+
+00:27:48.120 --> 00:27:51.880
+it's like bullet chess where you get a minute on each side,
+
+00:27:51.880 --> 00:27:55.840
+but when you make a move, you gain 10 seconds of time.
+
+00:27:55.940 --> 00:27:59.700
+So you're kind of, like, always trying to make a move in 10 seconds
+
+00:27:59.700 --> 00:28:02.580
+to gain more time, so it's where you have more time later
+
+00:28:02.580 --> 00:28:03.700
+when you really need to think.
+
+00:28:03.700 --> 00:28:06.620
+Like, you know, something like that where you gain time
+
+00:28:06.620 --> 00:28:08.540
+for making fast decisions is interesting.
+
+00:28:09.160 --> 00:28:11.560
+I don't even know if the NES would be possible for that,
+
+00:28:11.580 --> 00:28:13.980
+but I just thought the time thing was a little strange,
+
+00:28:13.980 --> 00:28:16.140
+and I get that, like, the computer takes more time to think
+
+00:28:16.140 --> 00:28:17.860
+in later ones and might need more time,
+
+00:28:17.860 --> 00:28:19.760
+or you might need more time against it.
+
+00:28:19.960 --> 00:28:22.260
+But I was looking for, like, a shorter option, too.
+
+00:28:22.500 --> 00:28:25.120
+I mean, I agree that I didn't never,
+
+00:28:25.200 --> 00:28:26.900
+I never really needed the 20 minutes.
+
+00:28:27.840 --> 00:28:31.000
+Maybe it's just because I was being too slapdash
+
+00:28:31.000 --> 00:28:33.260
+with my decision-making, but I was,
+
+00:28:33.820 --> 00:28:37.700
+it never felt too hard, even when I was at the 20-minute mark.
+
+00:28:38.920 --> 00:28:40.940
+But I feel like I'm getting deja vu.
+
+00:28:41.160 --> 00:28:44.900
+Was there another game where there was a timer
+
+00:28:44.900 --> 00:28:48.160
+and you wanted a shorter timer, or am I just kind of...
+
+00:28:48.160 --> 00:28:49.820
+I think I always want shorter timers.
+
+00:28:49.940 --> 00:28:52.500
+It was probably Anticipation.
+
+00:28:53.500 --> 00:28:54.700
+Okay, maybe it was that.
+
+00:28:54.780 --> 00:28:55.940
+I thought it was... Oh, you know what?
+
+00:28:56.000 --> 00:28:57.120
+No, it was Jeopardy, right?
+
+00:28:57.420 --> 00:28:58.300
+Jeopardy, or...
+
+00:28:58.300 --> 00:28:59.280
+No, not Family Feud.
+
+00:28:59.400 --> 00:29:00.560
+We didn't even play that. Wheel of Fortune?
+
+00:29:00.820 --> 00:29:03.620
+I don't even know. Something gave you, I think it was Jeopardy,
+
+00:29:03.700 --> 00:29:06.480
+they gave you, like, a... They gave you not enough time or something like that.
+
+00:29:06.600 --> 00:29:08.360
+I wanted more time. But this happens all the time.
+
+00:29:08.560 --> 00:29:10.660
+I even choose time, you know, I'm fluctuating.
+
+00:29:11.020 --> 00:29:14.640
+Yeah. No, I mean, I do like that idea, though,
+
+00:29:14.840 --> 00:29:18.940
+of at least in a one-on-one, like, person versus person,
+
+00:29:19.080 --> 00:29:20.160
+that is interesting to me.
+
+00:29:20.200 --> 00:29:21.560
+I don't really know how useful it would come
+
+00:29:22.160 --> 00:29:23.060
+against a computer,
+
+00:29:23.060 --> 00:29:25.180
+which is making these decisions much faster,
+
+00:29:25.320 --> 00:29:28.120
+but for sure, I like that.
+
+00:30:08.140 --> 00:30:14.920
+And did you guys notice that when you start up this game with awful music,
+
+00:30:14.940 --> 00:30:16.380
+I really don't understand the music,
+
+00:30:16.380 --> 00:30:20.040
+they just kind of throw a bunch of notes all over the place and hope something sticks.
+
+00:30:20.120 --> 00:30:22.860
+It really just sounds like it's all spilling out of a cup.
+
+00:30:22.960 --> 00:30:24.520
+Did anybody else feel that way?
+
+00:30:25.020 --> 00:30:28.640
+I actually don't really remember the menu music, which is the music.
+
+00:30:30.380 --> 00:30:31.220
+It's just happening.
+
+00:30:31.220 --> 00:30:32.880
+I didn't really think too much about it.
+
+00:30:33.600 --> 00:30:39.620
+Well, go back and listen, because it's definitely, it's no Mega Man, or Castlevania for that matter.
+
+00:30:40.400 --> 00:30:41.600
+I just, I was blown away.
+
+00:30:41.600 --> 00:30:44.160
+I was like, wow, they're really not even trying here.
+
+00:30:44.160 --> 00:30:46.900
+But, I don't know, maybe it's nice they gave us music.
+
+00:30:46.900 --> 00:30:51.820
+They didn't have to. They could have just given us like a ticking clock sound at the menu.
+
+00:30:51.820 --> 00:30:54.660
+And then like a shush when you start the game.
+
+00:30:54.820 --> 00:30:56.120
+Like everybody, yeah, exactly.
+
+00:30:56.440 --> 00:31:03.300
+Be quiet. But when you start the game up, you know, you're presented with a lot of choices.
+
+00:31:03.920 --> 00:31:08.000
+And, you know, comfortably, the first choice is always the best choice, right?
+
+00:31:08.100 --> 00:31:10.000
+You're probably playing this game by yourself.
+
+00:31:10.180 --> 00:31:11.340
+You hit play with the computer.
+
+00:31:11.580 --> 00:31:12.880
+You probably just want 20 minutes.
+
+00:31:12.920 --> 00:31:14.860
+So, you hit start for that too.
+
+00:31:14.860 --> 00:31:16.760
+And you probably don't want to name yourself.
+
+00:31:16.880 --> 00:31:19.780
+So, you hit start again. So, that's start, start, start.
+
+00:31:20.400 --> 00:31:25.880
+And if you hit start the fourth time, it'll take you to the end of writing your name.
+
+00:31:26.080 --> 00:31:28.240
+And you'll hit start again, and nothing will happen.
+
+00:31:28.280 --> 00:31:30.680
+And you're like, oh, I guess I have to like type in my name.
+
+00:31:30.680 --> 00:31:32.240
+I guess they won't let you have a blank name.
+
+00:31:32.600 --> 00:31:33.740
+No, that's not it.
+
+00:31:34.080 --> 00:31:35.140
+It's no matter what.
+
+00:31:35.360 --> 00:31:38.100
+You have to then hit A to get into the game.
+
+00:31:38.100 --> 00:31:41.340
+So, it's start, start, start, A.
+
+00:31:42.100 --> 00:31:46.980
+No, I thought you had to go over to the little end thing on the keyboard that you're typing in your name.
+
+00:31:47.180 --> 00:31:48.040
+Yeah, but you have to press A on that.
+
+00:31:48.040 --> 00:31:49.600
+But the start will take you directly to the end.
+
+00:31:50.540 --> 00:31:53.700
+I cannot believe you right now, Mike.
+
+00:31:54.880 --> 00:31:56.300
+I agree that that's goofy.
+
+00:31:58.840 --> 00:32:02.580
+You could be in a game so much faster if you just click start, start, start, start.
+
+00:32:03.200 --> 00:32:05.380
+Instead, you have to do start, start, start, A.
+
+00:32:06.160 --> 00:32:08.840
+You're right. This is a joke of a game.
+
+00:32:09.000 --> 00:32:11.240
+It's a mess. But it's like they didn't play the game.
+
+00:32:11.440 --> 00:32:14.040
+It's like they didn't play the game if you think about it, right?
+
+00:32:14.440 --> 00:32:16.700
+They have to know that that's weird, too.
+
+00:32:17.000 --> 00:32:21.720
+Or maybe they're saying, we want players to make a conscious choice when they start this game.
+
+00:32:21.880 --> 00:32:23.220
+So, they shouldn't hit start.
+
+00:32:23.260 --> 00:32:24.360
+They should hit A.
+
+00:32:24.560 --> 00:32:26.060
+Well, yeah, because it could be dangerous.
+
+00:32:26.900 --> 00:32:31.920
+If you let go, it cancels because we know that it's a huge time commitment.
+
+00:32:32.540 --> 00:32:36.220
+You know? Yeah, and it's dangerous, too, because you're like, start, start, start.
+
+00:32:36.220 --> 00:32:39.840
+You're going so fast, you might actually just hit it a fourth time and you didn't want to start the game.
+
+00:32:39.980 --> 00:32:41.380
+And then where are you?
+
+00:32:42.740 --> 00:32:44.620
+These are all ridiculous situations.
+
+00:32:46.800 --> 00:32:53.440
+I always, whenever I turn on a game, I just rapidly press the start button and hope I don't accidentally start the game.
+
+00:32:54.640 --> 00:32:58.400
+I'm always trying to eliminate clutter in my life, okay?
+
+00:32:58.620 --> 00:33:01.080
+And I saw an opportunity here and I went for it.
+
+00:33:01.080 --> 00:33:05.280
+Also, what's up with every player having a great manicure?
+
+00:33:06.100 --> 00:33:10.560
+What? Like, did you see the purple, like, fingernails?
+
+00:33:11.040 --> 00:33:16.980
+That, like, every character, every player, it's a floating hand, but they all have these very nice manicures.
+
+00:33:17.180 --> 00:33:19.040
+I guess I didn't really think about it.
+
+00:33:19.200 --> 00:33:22.260
+Are we trying to, like, are we trying to pause for time right now?
+
+00:33:22.400 --> 00:33:24.720
+Like, with this?
+
+00:33:25.620 --> 00:33:27.200
+I'm not trying to pause for time.
+
+00:33:27.460 --> 00:33:28.800
+I'm being serious here for a minute.
+
+00:33:29.040 --> 00:33:30.940
+I'm getting some Donkey Kong Collection vibes.
+
+00:33:32.260 --> 00:33:39.340
+It was, no, I'm not going to pick on the rest of the game, although it is weird to fill the empty space with just gray, right?
+
+00:33:39.440 --> 00:33:42.600
+Like, just expand the entire board in that case.
+
+00:33:43.040 --> 00:33:44.280
+Don't fill it with gray.
+
+00:33:44.920 --> 00:33:48.480
+Yeah. But I'm not getting nitpicky here.
+
+00:33:48.580 --> 00:33:52.840
+I do think it's weird that, you know, you just have this, you know...
+
+00:33:52.840 --> 00:33:58.400
+The hands? Two female hand players when you could just, like, all the same.
+
+00:33:58.480 --> 00:34:04.480
+You could just say you don't even need the hands because that's just gliding over the entire board and you're likely to make a mistake.
+
+00:34:04.480 --> 00:34:12.400
+And instead, the box that you want to be in is just glowing or highlighted in some way and you just move over those.
+
+00:34:12.580 --> 00:34:20.300
+So this way it's like you're moving across the grid rather than you're this, like, floating hand that I get is supposed to represent a real hand.
+
+00:34:20.420 --> 00:34:21.740
+But, like, bear with me for a minute.
+
+00:34:21.920 --> 00:34:23.600
+It's also incredibly small.
+
+00:34:23.840 --> 00:34:24.900
+I mean... Incredibly small.
+
+00:34:24.900 --> 00:34:26.080
+When I was looking at...
+
+00:34:26.080 --> 00:34:35.720
+I mean, that all being said, I didn't even recognize that there was a different design than what I think of as the hand cursor from Final Fantasy.
+
+00:34:36.040 --> 00:34:37.360
+Just a white-gloved hand.
+
+00:34:37.500 --> 00:34:38.780
+I thought that's all I was seeing.
+
+00:34:39.140 --> 00:34:48.740
+Like, in... Like, thinking back on my gameplay for this episode, I must have blocked out that the hand looked any different at all.
+
+00:34:49.960 --> 00:34:51.120
+So I didn't...
+
+00:34:51.120 --> 00:34:53.520
+I did not care, I guess is what I'm saying.
+
+00:34:53.520 --> 00:35:01.720
+Yeah. I mean, I guess I didn't care either, but I will say it did throw me off at first as to, like, why is there a cursor in an NES game?
+
+00:35:01.720 --> 00:35:02.760
+It felt kind of like...
+
+00:35:03.100 --> 00:35:05.320
+What is it? Like, Sim Earth or whatever on the...
+
+00:35:05.320 --> 00:35:06.480
+Where it's like, that needs a cursor.
+
+00:35:06.720 --> 00:35:07.640
+This doesn't need a cursor.
+
+00:35:07.760 --> 00:35:09.260
+I feel you just need to select your...
+
+00:35:09.260 --> 00:35:10.140
+Oh, it needs a cursor.
+
+00:35:10.580 --> 00:35:13.760
+I mean, like, selecting a square is in itself a cursor.
+
+00:35:13.980 --> 00:35:15.340
+It's just a design element.
+
+00:35:15.480 --> 00:35:19.240
+Right. But it just felt weird to me that it was like a smooth-moving, like a mouse.
+
+00:35:19.440 --> 00:35:20.820
+You know? Like, it didn't just...
+
+00:35:20.820 --> 00:35:21.900
+You didn't just go from square to square.
+
+00:35:21.960 --> 00:35:23.180
+You press up once, you're on the next square.
+
+00:35:23.520 --> 00:35:24.900
+You had to, like, move at a...
+
+00:35:24.900 --> 00:35:26.380
+Yeah, you are. It just seemed...
+
+00:35:26.380 --> 00:35:27.360
+No, you are?
+
+00:35:27.920 --> 00:35:29.280
+Yeah. Are you sure?
+
+00:35:29.420 --> 00:35:31.060
+Oh, okay. Then maybe I'm crazy.
+
+00:35:31.920 --> 00:35:33.740
+Yeah. It was just a...
+
+00:35:33.740 --> 00:35:38.860
+I'm sorry you guys don't like the hand, but it acts as any grid cursor.
+
+00:35:39.160 --> 00:35:40.400
+I thought the cursor...
+
+00:35:40.400 --> 00:35:44.440
+The cursor just was unexpected to me, because usually we just...
+
+00:35:44.440 --> 00:35:45.500
+We don't see that on NES.
+
+00:35:45.500 --> 00:35:46.820
+Yes. That's true.
+
+00:35:48.300 --> 00:35:49.980
+You know, in terms of table...
+
+00:35:49.980 --> 00:35:51.940
+Where the heck are chess and checkers?
+
+00:35:52.100 --> 00:35:52.940
+I'm sure they're coming.
+
+00:35:53.080 --> 00:35:58.040
+In fact, I think a game called Battle Chess is actually going to be the first chess game
+
+00:35:58.040 --> 00:35:59.460
+we get on the NES.
+
+00:35:59.620 --> 00:36:00.900
+And I'm excited for what that is.
+
+00:36:01.160 --> 00:36:06.780
+Yeah, for sure. I know there was a chess game on the computer, I think, along...
+
+00:36:06.780 --> 00:36:09.200
+Oh, no, Sega CD. Star Wars Chess.
+
+00:36:09.500 --> 00:36:14.020
+Where the Emperor, like, has animations for, like, straight up killing.
+
+00:36:14.460 --> 00:36:16.060
+Luke, Leia, Chewbacca.
+
+00:36:16.200 --> 00:36:17.940
+Like, does terrible things to all of them.
+
+00:36:18.080 --> 00:36:20.260
+Ooh. And you can look those up on YouTube.
+
+00:36:20.680 --> 00:36:22.100
+Maybe I'll include a show link to that.
+
+00:36:22.860 --> 00:36:24.620
+But, you know, chess sounds cool.
+
+00:36:24.820 --> 00:36:29.460
+Checkers sounds great. I'll take any of these tabletop games, because they're just easy to bring over, and why not,
+
+00:36:29.640 --> 00:36:33.260
+right? Yeah. But also, like, where are, like, the family games?
+
+00:36:33.420 --> 00:36:34.640
+You know, like, this is a...
+
+00:36:35.000 --> 00:36:37.880
+This is, like, a big, you know, like, family fun system.
+
+00:36:37.880 --> 00:36:39.060
+Like, come on and get it.
+
+00:36:39.160 --> 00:36:40.700
+Come down to your NES and play Monopoly.
+
+00:36:40.880 --> 00:36:41.840
+Sorry. Yahtzee.
+
+00:36:41.960 --> 00:36:43.260
+Like, where are those games?
+
+00:36:44.200 --> 00:36:45.740
+What about that board game we played?
+
+00:36:45.900 --> 00:36:46.820
+What the heck was that called?
+
+00:36:47.620 --> 00:36:49.640
+Anticipation, right? Anticipation?
+
+00:36:50.480 --> 00:36:54.920
+Yeah, well, Anticipation was really the pinnacle of 1980s board gaming.
+
+00:36:55.100 --> 00:36:59.380
+So you are right. There's no reason to have Sorry or Yahtzee after you...
+
+00:36:59.380 --> 00:37:00.700
+Or other NES games.
+
+00:37:01.380 --> 00:37:02.540
+Yeah, that was...
+
+00:37:02.540 --> 00:37:04.200
+That's true. It peaked so early.
+
+00:37:04.480 --> 00:37:15.600
+Yeah. And apparently, like, Othello is, in North America, I guess, is owned by Mattel for the
+
+00:37:15.600 --> 00:37:16.560
+licensing for that.
+
+00:37:16.560 --> 00:37:20.560
+So, Mattel, as we know, is already down for making NES games.
+
+00:37:20.820 --> 00:37:27.180
+So, they also own the rights to Uno, Phase 10, and Apples to Apples, of which we're not
+
+00:37:27.180 --> 00:37:29.620
+getting any NES ports of those three games.
+
+00:37:29.740 --> 00:37:31.080
+Which one would you want, Sean?
+
+00:37:33.620 --> 00:37:36.260
+I don't even remember what Apples to Apples is.
+
+00:37:37.260 --> 00:37:39.560
+It's like, uh... It's against humanity, but nicer.
+
+00:37:39.780 --> 00:37:40.800
+But safe. Yeah.
+
+00:37:40.980 --> 00:37:41.980
+Oh. Okay.
+
+00:37:42.800 --> 00:37:44.160
+Um... Well, that's impossible.
+
+00:37:45.140 --> 00:37:46.540
+Um... I...
+
+00:37:46.540 --> 00:37:49.040
+I guess I would go with Uno.
+
+00:37:49.140 --> 00:37:50.280
+I don't know, man.
+
+00:37:51.700 --> 00:37:54.200
+Uno would be even worse, though.
+
+00:37:54.900 --> 00:37:57.340
+Yeah. How would you do that, too, on, like, one screen against...
+
+00:37:57.340 --> 00:37:58.480
+I guess you'd have to be against a computer.
+
+00:37:58.700 --> 00:38:00.400
+You couldn't really play, like, player versus player.
+
+00:38:00.400 --> 00:38:02.300
+If you give me a Texas Hold'em...
+
+00:38:02.300 --> 00:38:04.400
+A Texas Hold'em game, uh...
+
+00:38:04.400 --> 00:38:05.820
+A poker, uh...
+
+00:38:05.820 --> 00:38:06.980
+On NES, I'll play it.
+
+00:38:07.420 --> 00:38:09.500
+I'll play it. I'm down for that.
+
+00:38:09.600 --> 00:38:13.660
+Yeah. If you just put 52 playing cards in front of me, I'll play with them.
+
+00:38:15.860 --> 00:38:20.380
+Uh... We will get Pictionary, so no need to worry about that.
+
+00:38:20.540 --> 00:38:23.860
+I know some people were like, wait a minute, Mattel, the Pictionary...
+
+00:38:23.860 --> 00:38:25.160
+I'm like, yeah, don't worry, it's coming.
+
+00:38:25.480 --> 00:38:30.980
+Alright? Like, we will play NES Pictionary, which has one of the greatest soundtracks of all time.
+
+00:38:31.040 --> 00:38:36.380
+And that's really why we ask people to listen to every episode of Nostalgia, because you'll
+
+00:38:36.380 --> 00:38:38.160
+just never learn about these games.
+
+00:38:38.300 --> 00:38:43.000
+You know, everybody knows what happens in Metroid and Legend of Zelda and Super Mario Bros.
+
+00:38:43.700 --> 00:38:46.420
+You know, oh, like, Metroid's a girl?
+
+00:38:46.620 --> 00:38:50.280
+Like, you know, those things everybody finds out, and we just recap them in the episodes.
+
+00:38:50.660 --> 00:38:51.980
+But how are you going to call her Metroid?
+
+00:38:52.700 --> 00:38:54.460
+I did that to be funny, but...
+
+00:38:54.460 --> 00:38:55.460
+Okay. Yeah.
+
+00:38:55.460 --> 00:39:01.380
+Thank you. But, you know, you'll never find out that Pictionary has an amazing soundtrack unless you listen
+
+00:39:01.380 --> 00:39:02.280
+to all the episodes.
+
+00:39:02.520 --> 00:39:05.780
+Or skip the Pictionary episode now, because I told you that fact in this episode.
+
+00:39:27.860 --> 00:39:34.480
+Now, as I mentioned at the, you know, closer to the top of the show, we are not good at this game by any means.
+
+00:39:34.960 --> 00:39:36.360
+Actually, good is fine.
+
+00:39:36.500 --> 00:39:37.620
+I'll say I'm good at the game.
+
+00:39:37.740 --> 00:39:40.220
+I won't say I'm great, and I won't say I would ever play in a tournament.
+
+00:39:41.040 --> 00:39:45.440
+But, you know, we're not people you should be listening to, but we're going to give tips
+
+00:39:45.440 --> 00:39:47.460
+anyway if you want to get better at Othello.
+
+00:39:47.740 --> 00:39:51.680
+So each one of us is just going to give one tip on Othello.
+
+00:39:51.680 --> 00:39:54.580
+Joe, would you like to start us off since you seem to have the most familiarity?
+
+00:39:55.680 --> 00:39:59.420
+Sure. This is just something I remember, like, reading when I was younger.
+
+00:40:00.860 --> 00:40:04.320
+So, I mean, you already mentioned taking the corners, Mike.
+
+00:40:04.480 --> 00:40:09.740
+But another thing that I feel like is less intuitive is taking the middle square.
+
+00:40:10.320 --> 00:40:13.820
+Like, trying to keep the middle square your color as long as you can, because that gives
+
+00:40:13.820 --> 00:40:19.940
+you stuff to, like, stuff between, you know, the outer squares, and it gives you, like, roots
+
+00:40:19.940 --> 00:40:25.980
+to the outer. Even if you feel like your flips at the beginning are not giving you, like, your opponent is
+
+00:40:25.980 --> 00:40:31.100
+giving you, um, with every move, your opponent is getting more of your color.
+
+00:40:31.480 --> 00:40:35.220
+Uh, sometimes that's actually what you want at the beginning, which I, it took me a while
+
+00:40:35.220 --> 00:40:38.600
+to, like, figure that out, because I'm always, like, you just think you want to get as many
+
+00:40:38.600 --> 00:40:39.780
+as you want from the very beginning.
+
+00:40:39.980 --> 00:40:42.020
+That makes it so that it's easy to reverse at the end.
+
+00:40:42.160 --> 00:40:45.160
+I don't know if that was one tip or if that was, like, three tips in, like, one weird
+
+00:40:45.160 --> 00:40:47.300
+long run-on sentence, but there it is.
+
+00:40:47.440 --> 00:40:48.980
+Yeah, try not to steal all of our tips.
+
+00:40:49.120 --> 00:40:51.660
+Yeah. Sean, you have a tip?
+
+00:40:51.880 --> 00:40:53.600
+No, no, you go first. Okay.
+
+00:40:53.780 --> 00:40:59.620
+I would just say that this is more of, like, a hack to beat people who don't know, uh,
+
+00:41:00.320 --> 00:41:04.960
+Othello or a reversey that well, is that, and I kind of alluded to this early in the episode,
+
+00:41:05.140 --> 00:41:10.520
+that you really don't want to, uh, conquer the, uh, the board early, because essentially
+
+00:41:10.520 --> 00:41:16.000
+all you're doing is leaving spots for, if you can imagine winding up in Joe's situation
+
+00:41:16.000 --> 00:41:19.700
+where there's, like, just a few, let's say you're black and you're dominating the board,
+
+00:41:19.700 --> 00:41:21.420
+and there's just a few white spaces left.
+
+00:41:21.620 --> 00:41:27.940
+However, later on, if white has a way from the middle all the way out to the edge, it
+
+00:41:27.940 --> 00:41:33.940
+could score, you know, it could change 12, 15, who knows how many pieces all at once because
+
+00:41:33.940 --> 00:41:38.540
+you're counting, you know, uh, diagonals, you're counting diagonals in all different
+
+00:41:38.540 --> 00:41:41.060
+directions too, but also entire lines.
+
+00:41:41.060 --> 00:41:47.100
+So, if you really want to, uh, play this game smart against someone who's not prepared for
+
+00:41:47.100 --> 00:41:51.640
+it, make it seem like you're actually, like, trying to lose and try to keep as few pieces
+
+00:41:51.640 --> 00:41:55.580
+as possible. Now, clearly the strategy won't work with someone who's good at Othello, and in fact,
+
+00:41:55.720 --> 00:41:58.940
+really good players can actually take all your pieces and end the game.
+
+00:41:59.080 --> 00:42:01.200
+Like, you actually won't have any pieces left on the board.
+
+00:42:01.500 --> 00:42:06.420
+But assuming you can keep three to four pieces of the board early on, that'll open up a lot
+
+00:42:06.420 --> 00:42:11.780
+of opportunities for you later to take the outer edges and accumulate a lot of lines and
+
+00:42:11.780 --> 00:42:13.140
+diagonals all at once.
+
+00:42:13.740 --> 00:42:16.160
+Sean? Those are really good tips.
+
+00:42:16.740 --> 00:42:23.060
+Um, my tip is, uh, don't let them see the fear in your eyes.
+
+00:42:23.140 --> 00:42:27.820
+If you get, like, the computer, whether it's the computer or the human, play with confidence.
+
+00:42:27.840 --> 00:42:32.940
+Play with that big dick energy or whatever, whatever you want to call it.
+
+00:42:33.140 --> 00:42:35.800
+Like, even if you're losing, act like you're winning.
+
+00:42:35.800 --> 00:42:38.200
+Uh, it really throws them off their game.
+
+00:42:38.600 --> 00:42:43.360
+Again, whether it's a computer or a person, uh, I was just playing Mario Party with some
+
+00:42:43.360 --> 00:42:48.500
+friends, and I was, I was really behind, but I kept, I kept talking smack.
+
+00:42:48.860 --> 00:42:50.380
+I mean, that's just how you have to do it.
+
+00:42:50.400 --> 00:42:51.520
+I ended up winning that game.
+
+00:42:51.740 --> 00:42:57.140
+Uh, it may or may not have had to do with, uh, me calling them a bitch, but I won.
+
+00:42:57.500 --> 00:42:59.160
+So, do that.
+
+00:42:59.240 --> 00:43:01.620
+You got a lot of those secret stars at the end, didn't you?
+
+00:43:01.900 --> 00:43:03.120
+Goddamn right. The bonus stars.
+
+00:43:03.360 --> 00:43:04.820
+Yeah. Yeah, that's, that's what it's all about.
+
+00:43:04.820 --> 00:43:08.320
+Uh, I like that strategy because a lot of people don't know this.
+
+00:43:08.420 --> 00:43:10.640
+The NES controller can detect sweat.
+
+00:43:12.660 --> 00:43:17.720
+And it'll know, uh, that's actually why, like, a lot of people can't get past level two in
+
+00:43:17.720 --> 00:43:21.840
+Ghosts and Goblins is because they, the game actually gets harder the more you sweat on
+
+00:43:21.840 --> 00:43:22.940
+the, the controller itself.
+
+00:43:25.260 --> 00:43:26.940
+Been a while since we brought up Ghosts and Goblins.
+
+00:43:27.040 --> 00:43:28.040
+I figured I'd go for it.
+
+00:43:28.200 --> 00:43:30.560
+Yeah. Anyway, those are our tips.
+
+00:43:30.560 --> 00:43:39.160
+We have to, on whether Othello, the game that was patented in Japan in 1971, not the game
+
+00:43:39.160 --> 00:43:43.020
+that was created in Scotland or Wales in 1883.
+
+00:43:43.740 --> 00:43:49.160
+Um, we have to give our recommendation on whether that game is in the Essential Games list.
+
+00:43:52.240 --> 00:43:54.480
+It's time for the Essential Games list.
+
+00:43:54.700 --> 00:44:04.060
+And it's also time to see if a, uh, game that existed for more than 200 years, uh, that's a lie.
+
+00:44:04.580 --> 00:44:08.300
+But close to that, you know, 2083 is very soon.
+
+00:44:08.880 --> 00:44:10.980
+And, uh, you know, who knows?
+
+00:44:11.100 --> 00:44:13.280
+Maybe the Essential Games list will still stand in 2083.
+
+00:44:13.280 --> 00:44:14.900
+So let's just pretend like it will.
+
+00:44:15.220 --> 00:44:20.920
+And let's vote as if, uh, Othello may or may not be an Essential Game in 2083.
+
+00:44:21.200 --> 00:44:26.740
+Joe? So I don't think that there's, I don't think that there's enough that is added to the experience
+
+00:44:26.740 --> 00:44:33.780
+of playing Othello, uh, like we mentioned, uh, by playing on the NES that makes it something
+
+00:44:33.780 --> 00:44:34.680
+that you have to do.
+
+00:44:34.880 --> 00:44:37.140
+Like, something that's, that's like a must play.
+
+00:44:37.140 --> 00:44:44.220
+So yes, it's nice to have that AI, but otherwise, Othello the Game, I think is an Essential Game
+
+00:44:44.220 --> 00:44:48.440
+in the world. But I don't think Othello the NES game is an Essential NES game.
+
+00:44:48.600 --> 00:44:52.820
+Also, I even take that Othello the Game being Essential back because I think it's, I think
+
+00:44:52.820 --> 00:44:55.700
+it's, it's, it's, it's a very specific taste.
+
+00:44:55.720 --> 00:44:57.360
+I like it a lot. I don't know that everybody will.
+
+00:44:57.660 --> 00:44:59.420
+So you can play it in the real world.
+
+00:45:00.360 --> 00:45:02.580
+Okay, nothing. Except for my own, I like it.
+
+00:45:04.320 --> 00:45:06.180
+And that's in your personal folders.
+
+00:45:06.380 --> 00:45:10.660
+Yeah. I, I, I know how popular Othello is among other people before I can just, Othello.
+
+00:45:10.940 --> 00:45:12.660
+Sean, clean up this mess.
+
+00:45:13.440 --> 00:45:19.080
+Um, well, you did say that we were reviewing the, uh, 1970 something game.
+
+00:45:19.480 --> 00:45:24.780
+Uh, this isn't the game that was trademarked in the 1970s, was it?
+
+00:45:24.860 --> 00:45:28.360
+Like, this is a, this is a video simulation of that game.
+
+00:45:28.720 --> 00:45:29.520
+That is true.
+
+00:45:29.520 --> 00:45:31.460
+And so you've caught me on semantics.
+
+00:45:31.460 --> 00:45:32.260
+Yeah. I will.
+
+00:45:32.560 --> 00:45:34.860
+That's the best kind of caught on semantics.
+
+00:45:35.160 --> 00:45:38.980
+Uh, I am not reviewing Othello, the board game.
+
+00:45:39.120 --> 00:45:42.760
+I'm reviewing, uh, Othello, the NES game.
+
+00:45:42.760 --> 00:45:46.120
+Uh, now that's because you don't have a license to review board games.
+
+00:45:46.240 --> 00:45:55.120
+No, no, no. I have a license to drive, a license to kill, and a license to review NES games, uh, on an
+
+00:45:55.120 --> 00:45:56.080
+audio platform.
+
+00:45:56.080 --> 00:45:58.160
+Um, not a video platform.
+
+00:45:59.360 --> 00:46:02.160
+Oh, but what I mean to say is that it's not essential.
+
+00:46:03.200 --> 00:46:04.120
+Sorry. That was.
+
+00:46:04.400 --> 00:46:05.960
+Oh, we gathered. Yeah, it's not essential.
+
+00:46:06.800 --> 00:46:11.220
+We could hear it in the huffs that you were making throughout the entire stump speech you
+
+00:46:11.220 --> 00:46:13.420
+just gave us, but, uh, you understand.
+
+00:46:13.420 --> 00:46:14.760
+I'm here to clean up the mess.
+
+00:46:15.580 --> 00:46:21.240
+Yeah, yeah, yeah. Look, Othello being an essential game, it's just not a black and white issue.
+
+00:46:21.240 --> 00:46:29.260
+All right, like, for me, for me, you flip, this is, you flop, you flip and flop the pieces,
+
+00:46:30.120 --> 00:46:35.400
+and I can flip flop my ideas all day long to you people, but I'm just going to make it
+
+00:46:35.400 --> 00:46:40.300
+clean. I don't think it's an essential game on the NES, uh, whether the tabletop game or whatever
+
+00:46:40.300 --> 00:46:43.240
+you want to call it, like, whether that's an essential, like, that's like asking if it's
+
+00:46:43.240 --> 00:46:44.420
+an essential thing, though.
+
+00:46:44.540 --> 00:46:48.260
+Yeah, but we're not, we don't have a license to essentialize board games.
+
+00:46:48.260 --> 00:46:50.620
+I know, but it's just, I'm just saying that's such a weird question.
+
+00:46:50.620 --> 00:46:54.420
+No one's, no one should ever dispute, like, games like that.
+
+00:46:54.600 --> 00:47:00.780
+It's like disputing if, if chess, you know, is, like, an essential game, like, it's, it's
+
+00:47:00.780 --> 00:47:03.300
+just a, it's a thing that happens in life.
+
+00:47:03.300 --> 00:47:06.640
+I don't think, I don't think anybody but us makes anything essential games.
+
+00:47:08.700 --> 00:47:09.960
+That's true, that's true.
+
+00:47:10.060 --> 00:47:13.080
+We're probably the only people that go, uh, this far into it.
+
+00:47:13.120 --> 00:47:17.120
+In fact, I don't even know if anybody's ever said the sentence, chess is not up for debate
+
+00:47:17.120 --> 00:47:19.180
+on whether it's an essential game or not.
+
+00:47:21.060 --> 00:47:26.240
+But here's what I'll say, uh, about, about this whole thing with Othello and stuff like
+
+00:47:26.240 --> 00:47:31.920
+that. The back of the box that I read at the beginning of the episode said, a minute to learn, a
+
+00:47:31.920 --> 00:47:33.120
+lifetime to master.
+
+00:47:33.820 --> 00:47:34.960
+I believe that.
+
+00:47:35.140 --> 00:47:38.480
+I believe that this is a deep strategy game if you want it to be.
+
+00:47:38.660 --> 00:47:40.860
+It's simple enough that anybody can get into it.
+
+00:47:40.860 --> 00:47:46.720
+But it is a very complicated game that only gets better when you play against real people
+
+00:47:47.320 --> 00:47:48.940
+that are just as good as you.
+
+00:47:49.080 --> 00:47:51.100
+Like, that is the peak Othello experience.
+
+00:47:51.620 --> 00:47:55.700
+And I think you're going to be hard pressed to find that in your living room in 1988.
+
+00:47:56.160 --> 00:48:02.800
+So, I, I think that the lifetime to master thing was the wrong marketing angle for a game
+
+00:48:02.800 --> 00:48:07.020
+like this. Because it's more like a minute to learn and a minute to put down.
+
+00:48:07.500 --> 00:48:08.700
+Because. Oh, man.
+
+00:48:08.900 --> 00:48:10.260
+That would have been great marketing.
+
+00:48:10.760 --> 00:48:15.160
+Right, right. Because, but that's like where you ultimately wind up with a game like this.
+
+00:48:15.280 --> 00:48:17.980
+You know, you're, this is not the game that you bought.
+
+00:48:17.980 --> 00:48:19.140
+It'll be over before you know it.
+
+00:48:19.520 --> 00:48:21.700
+Right. This is not the game that you bought.
+
+00:48:21.700 --> 00:48:26.660
+This is the game that your aunt bought for you because mom was requesting something a
+
+00:48:26.660 --> 00:48:29.840
+little more like educational or something for your birthday.
+
+00:48:30.560 --> 00:48:35.020
+You know. No, no, but no kid went to the store and said, I gotta get Othello.
+
+00:48:35.200 --> 00:48:39.060
+Because I'll tell you right now, they didn't, but they didn't take any even cheap shots though.
+
+00:48:39.380 --> 00:48:41.120
+There's no like fake graphics.
+
+00:48:41.560 --> 00:48:47.380
+There's no like guy on a, on a white horse with like a giant sword and he, you know, as
+
+00:48:47.380 --> 00:48:53.160
+like the front cover. There's, you know, like Atari 2600 games had these incredible covers for things that just
+
+00:48:53.160 --> 00:48:55.300
+didn't even come close to the graphics in the game.
+
+00:48:55.400 --> 00:49:00.280
+But you really got sold on like the, you know, they were all like science fiction novel covers.
+
+00:49:00.460 --> 00:49:01.760
+These Atari 2600 games.
+
+00:49:01.820 --> 00:49:07.600
+So you're saying that they should have reframed what the game was as like a, like a battle for
+
+00:49:07.600 --> 00:49:08.840
+the galaxy or.
+
+00:49:11.580 --> 00:49:12.780
+I'm not saying that.
+
+00:49:13.040 --> 00:49:14.600
+I'm saying that. You're saying that.
+
+00:49:15.280 --> 00:49:19.520
+I think that that's your, that's your family angle, Mike, is that it's, it's accessible
+
+00:49:19.520 --> 00:49:24.800
+to everyone. It's not, it's not a, it's not a kid's action thing or for people.
+
+00:49:24.940 --> 00:49:26.360
+It's just that everyone knows how to play Othello.
+
+00:49:27.580 --> 00:49:28.860
+And everybody loves.
+
+00:49:28.980 --> 00:49:30.220
+That's probably how the pitch went. Huh?
+
+00:49:31.120 --> 00:49:32.380
+That's probably how the pitch went.
+
+00:49:32.640 --> 00:49:33.640
+Everybody loves Othello.
+
+00:49:33.980 --> 00:49:36.740
+And everybody loves to play Othello on Wednesday nights.
+
+00:49:38.980 --> 00:49:41.020
+Well, nobody knows what we're talking about.
+
+00:49:41.480 --> 00:49:44.920
+No, they do. We gave them a whole episode on it, actually, if you remember.
+
+00:49:46.440 --> 00:49:50.320
+The, uh, the, um, Bubble Bobble episode had it.
+
+00:49:50.480 --> 00:49:51.860
+Oh, good. We explained it there.
+
+00:49:52.000 --> 00:49:55.580
+So look, refer to the Bubble Bobble episode for the Easter egg of what we're talking about
+
+00:49:55.580 --> 00:50:01.380
+right now. I will say one more thing now, because this is a very long essential games list, uh, episode
+
+00:50:01.380 --> 00:50:04.120
+that I'm going to have to like cut down and figure out how to make it work.
+
+00:50:04.400 --> 00:50:11.960
+But since I have your attention, gentlemen, I played another version of Othello on, um, online.
+
+00:50:11.960 --> 00:50:14.680
+With a computer that was significantly easier.
+
+00:50:15.260 --> 00:50:17.280
+And that was not fun.
+
+00:50:17.420 --> 00:50:19.020
+But here's what was fun.
+
+00:50:19.440 --> 00:50:26.640
+That version of Othello gave me little small dots when it was my turn of every possible
+
+00:50:26.640 --> 00:50:28.200
+move available to me.
+
+00:50:29.140 --> 00:50:35.080
+And I liked that because I was able to see all of my moves, but I was still in control.
+
+00:50:35.160 --> 00:50:38.140
+It didn't show me like, oh, if you place it here though, then they'll do this.
+
+00:50:38.240 --> 00:50:40.140
+Like it just showed you your possible moves.
+
+00:50:41.040 --> 00:50:44.120
+And I, I still had full control over my choices.
+
+00:50:44.120 --> 00:50:48.140
+And I think I played a lot better just seeing all of that.
+
+00:50:48.240 --> 00:50:50.760
+And I want to just get like a quick take from you guys.
+
+00:50:51.140 --> 00:50:53.960
+Is that version of the game like cheating?
+
+00:50:55.280 --> 00:50:58.500
+I think. I guess it's not.
+
+00:50:58.620 --> 00:50:59.460
+I know it's not cheating.
+
+00:50:59.460 --> 00:51:05.780
+It, I think part of it, it, it, it does sort of level the playing field because there are
+
+00:51:05.780 --> 00:51:07.460
+things that you may just have missed.
+
+00:51:08.040 --> 00:51:15.980
+Uh, but I, it's sort of like in any computer chess game, at least a very, like in the more
+
+00:51:15.980 --> 00:51:22.480
+modern computer chess games that when you select a unit to move, it'll show you all the places
+
+00:51:22.480 --> 00:51:29.320
+that that can go. So like, and that's pretty accepted, um, in terms of competition.
+
+00:51:29.360 --> 00:51:31.520
+So why wouldn't it be for this?
+
+00:51:31.520 --> 00:51:33.100
+I guess. I don't know.
+
+00:51:33.700 --> 00:51:38.940
+I, I guess, I guess only because you're playing against the computer that can inherently see
+
+00:51:38.940 --> 00:51:41.460
+all its moves, no matter what, and can't miss moves.
+
+00:51:42.020 --> 00:51:46.220
+So I guess in that, in that situation, then maybe not, but I, but I feel like any other
+
+00:51:46.220 --> 00:51:49.660
+situation, if you're playing against another player on this and then you could both see all
+
+00:51:49.660 --> 00:51:52.640
+your moves. I mean, I guess it's not cheating there because you both have that.
+
+00:51:52.640 --> 00:51:56.500
+But I also think that's not the same game anymore because I think, I think part of the game
+
+00:51:56.500 --> 00:51:58.440
+is recognizing your moves.
+
+00:51:59.860 --> 00:52:04.580
+I suppose. Like, like part of the game is the, the ability to miss something and you can, you know, you
+
+00:52:04.580 --> 00:52:07.420
+can be like, Oh my God, I totally, if you don't say that, then you don't, you don't have
+
+00:52:07.420 --> 00:52:08.940
+Very weird counter here.
+
+00:52:09.120 --> 00:52:13.560
+But the only thing I'll say is I'm just going to use Fire Emblem, the series here.
+
+00:52:13.780 --> 00:52:21.660
+Okay. But any like tactical role-playing game, I guess, could fit under the same bill is there.
+
+00:52:22.020 --> 00:52:27.980
+Anything that you could do is presented to you in the options or, you know, menu, right?
+
+00:52:28.140 --> 00:52:30.040
+Like, like anything you wanted to do.
+
+00:52:30.040 --> 00:52:34.680
+So, uh, and sometimes even like with Fire Emblem, they'll tell you like how the outcome
+
+00:52:34.680 --> 00:52:37.120
+might go based on percentages, right?
+
+00:52:37.300 --> 00:52:38.680
+Like they'll say like, Oh, if you do this.
+
+00:52:39.380 --> 00:52:44.140
+But I, I've never played Fire Emblem, but I, but I imagine that the game of Fire Emblem
+
+00:52:44.140 --> 00:52:45.140
+is built around it.
+
+00:52:45.240 --> 00:52:46.280
+Those are the rules of Fire Emblem.
+
+00:52:46.280 --> 00:52:52.340
+If you're, if you're playing a game, you're trying to play Othello and you add this new
+
+00:52:52.340 --> 00:52:53.860
+thing that's not in the original Othello.
+
+00:52:54.020 --> 00:52:59.760
+I mean, that's fine in this version of Othello, but that's, that is adding a crutch to what
+
+00:52:59.760 --> 00:53:01.480
+the rules of Othello originally were.
+
+00:53:02.280 --> 00:53:06.120
+Like, it's not like you've taken Fire Emblem as like that was a board game, put it here,
+
+00:53:06.260 --> 00:53:07.740
+but then added these little extra things.
+
+00:53:07.940 --> 00:53:09.320
+I'm not saying that you shouldn't do it.
+
+00:53:09.420 --> 00:53:13.700
+I mean, it's fair if both players have it, but, but I do think that it changes the game.
+
+00:53:14.360 --> 00:53:15.720
+It's a modification. You're right.
+
+00:53:15.720 --> 00:53:17.180
+I agree with that assessment.
+
+00:53:17.180 --> 00:53:23.560
+If only because if, when it comes down to it, the final version of Othello in the, uh,
+
+00:53:23.740 --> 00:53:26.980
+like, you know, grandmasters tournament, which I will link to on YouTube.
+
+00:53:26.980 --> 00:53:28.000
+I already have it prepared.
+
+00:53:28.340 --> 00:53:33.200
+Uh, you know, when you're, when you're watching that there, it's just the straight game.
+
+00:53:33.200 --> 00:53:38.340
+So you are right that like anything that you do, even in the smallest ways to change the
+
+00:53:38.340 --> 00:53:41.260
+game are still a modification of the game and therefore slightly different.
+
+00:53:41.420 --> 00:53:45.580
+Whereas like my argument for Fire Emblem doesn't quite work out because that's something
+
+00:53:45.580 --> 00:53:47.220
+that was always in the game.
+
+00:53:47.380 --> 00:53:52.900
+I was just making the argument that like, technically it didn't add any new rules to the game.
+
+00:53:52.900 --> 00:53:55.900
+It just showed you all the available options to you.
+
+00:53:55.900 --> 00:54:01.300
+But I agree with where we landed on this, that it is a modification of Othello and it is now
+
+00:54:01.300 --> 00:54:02.360
+called Esposito.
+
+00:54:03.600 --> 00:54:05.040
+Right. We did agree on that.
+
+00:54:05.200 --> 00:54:08.180
+All right. I like, I like where we left off with that.
+
+00:54:08.580 --> 00:54:11.780
+I think that's all the time we have for this episode.
+
+00:54:12.340 --> 00:54:20.380
+But, uh, next Friday when we release our next episode, we will all be on our paperboy shifts
+
+00:54:20.380 --> 00:54:26.060
+because it is paperboy and we are picking up some routes and we're going on city bikes
+
+00:54:26.060 --> 00:54:32.400
+throughout the city and we are going to deliver the, you know, uh, whatever paper they delivers
+
+00:54:32.400 --> 00:54:33.960
+around here. Paper periodicals.
+
+00:54:34.440 --> 00:54:35.840
+What do you get these days?
+
+00:54:36.000 --> 00:54:37.420
+You get like the penny saver, right?
+
+00:54:38.040 --> 00:54:44.560
+Uh, yeah, I think I've been getting some, uh, very, uh, nevermind.
+
+00:54:45.080 --> 00:54:46.220
+Yeah. It's fine.
+
+00:54:46.220 --> 00:54:47.120
+I'm just not going to bring it up.
+
+00:54:47.180 --> 00:54:51.320
+I'm sorry. Yeah. No, it's like, I always just see them like thrown around.
+
+00:54:51.320 --> 00:54:54.700
+Like there's just this guy around the neighborhood who just throws these things, but I'm like,
+
+00:54:55.340 --> 00:54:57.720
+you know, I live in an apartment complex.
+
+00:54:57.960 --> 00:54:59.700
+Like, you know, who ordered it?
+
+00:54:59.880 --> 00:55:02.500
+Like no one ever comes out and collects it, but somebody must.
+
+00:55:02.700 --> 00:55:04.400
+No, there's not there the next day.
+
+00:55:04.500 --> 00:55:06.100
+There's advertising promotions. Okay.
+
+00:55:06.320 --> 00:55:07.140
+That makes sense.
+
+00:55:07.480 --> 00:55:09.460
+Yeah. Anyway, that's what we're going to do all together.
+
+00:55:09.760 --> 00:55:14.320
+You guys as well, the listeners, everybody should play paperboy on the NES, even though
+
+00:55:14.320 --> 00:55:15.720
+it's better on the Sega Genesis.
+
+00:55:16.100 --> 00:55:19.140
+Play it on the NES because that's what we'll be doing.
+
+00:55:19.140 --> 00:55:25.800
+And, um, as for the show itself, you can always get in contact with us at NostalgiaCast on
+
+00:55:25.800 --> 00:55:31.480
+Twitter. And Hey, if you're feeling really frisky, come on Facebook because nobody's there.
+
+00:55:31.580 --> 00:55:33.940
+You could have a whole platform to talk to us there.
+
+00:55:34.040 --> 00:55:35.300
+You could say whatever you want there.
+
+00:55:35.760 --> 00:55:44.060
+Uh, I know that Sean, uh, is trying to get to, I think 1000 followers on Facebook and for
+
+00:55:44.060 --> 00:55:45.880
+the nostalgia account, not for his personal account.
+
+00:55:45.880 --> 00:55:50.020
+And if, if that happens, he will post his phone number in the chat.
+
+00:55:50.240 --> 00:55:51.760
+I will. I will post it in the chat.
+
+00:55:51.760 --> 00:55:54.640
+I'm not sure what chat, uh, you think it's going to be.
+
+00:55:54.840 --> 00:55:57.000
+You gotta be there. You're so gonna have to be there.
+
+00:55:57.600 --> 00:56:04.680
+Yep. And, um, another thing, I think, uh, our hundred and fifty, what is it?
+
+00:56:04.760 --> 00:56:07.860
+Our hundred and fifty fifth episode spectacular is coming up.
+
+00:56:08.060 --> 00:56:09.600
+Uh, so that's exciting.
+
+00:56:09.900 --> 00:56:13.760
+We'll have a big one hundred and fifty fifth spectacular where we look back at the
+
+00:56:13.760 --> 00:56:15.200
+other seven hundred episodes.
+
+00:56:15.200 --> 00:56:16.080
+Yeah.
+
+00:56:16.860 --> 00:56:18.460
+And I'm Michael Esposito.
+
+00:56:18.820 --> 00:56:22.080
+You can find me at Esposito Film on Twitter and I'll talk to you soon.
+
+00:56:22.080 --> 00:56:47.320
+Hey. Hey Hey.
+
+00:56:47.320 --> 00:56:48.300
+Thank you.
