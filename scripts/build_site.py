@@ -23,6 +23,8 @@ from PIL import Image
 sys.path.insert(0, str(Path(__file__).parent))
 from build_episode_data import local_files  # noqa: E402
 from wikipedia_intros import boilerplate_only  # noqa: E402
+import show_stats  # noqa: E402
+import site_extras  # noqa: E402
 
 REPO = Path(__file__).resolve().parent.parent
 OUT = REPO / "site"
@@ -43,6 +45,7 @@ LINKS = [
     ("Twitch", "https://www.twitch.tv/nestalgia"),
     ("RSS", "https://anchor.fm/s/5808ab8/podcast/rss"),
 ]
+CONTACT_EMAIL = "michaelespositofilm@gmail.com"
 SHEET_URL = "https://docs.google.com/spreadsheets/d/1r5WpTbM0EYLbr1ylXthvf57HWgjo1iScI_c5HKgfSKc/edit?usp=sharing"
 E = html.escape
 
@@ -300,6 +303,15 @@ def last_modified():
     return mod
 
 
+def analytics_tag():
+    """GoatCounter's privacy-friendly counter (no cookies, no personal data), only when a code is set in site-src/analytics.json."""
+    f = SRC / "analytics.json"
+    code = (json.loads(f.read_text()).get("goatcounter") or "").strip() if f.exists() else ""
+    if not re.fullmatch(r"[a-z0-9-]+", code):
+        return ""
+    return f'<script data-goatcounter="https://{code}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
+
+
 def jsonld_tag(items):
     """<script type=application/ld+json> for one or more schema.org objects (what Google reads to understand the page)."""
     if not items:
@@ -364,7 +376,7 @@ def page(title, body, path, desc="", image=None, search=False, current="", jsonl
           f'<script src="{BASE}/pagefind/pagefind-ui.js"></script>') if search else ""
     nav = "".join(
         f'<a href="{BASE}{href}"{" aria-current=page" if current == key else ""}>{label}</a>'
-        for key, href, label in (("home", "/", "Home"), ("eps", "/episodes/", "Episodes"), ("articles", "/articles/", "Articles"), ("search", "/search/", "Search"), ("about", "/about/", "About"))
+        for key, href, label in (("home", "/", "Home"), ("eps", "/episodes/", "Episodes"), ("essential", "/essential/", "Essentials"), ("stats", "/stats/", "Stats"), ("articles", "/articles/", "Articles"), ("search", "/search/", "Search"), ("about", "/about/", "About"))
     )
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
@@ -381,7 +393,7 @@ def page(title, body, path, desc="", image=None, search=False, current="", jsonl
 <main id="main">{body}</main>
 <footer class="site">NEStalgia is a podcast by Michael Esposito and friends. Text is
 <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>; game art belongs to its owners.
-<a href="https://github.com/Xalechim/NEStalgia">Source on GitHub</a>.</footer>
+<a href="https://github.com/Xalechim/NEStalgia">Source on GitHub</a>.</footer>{analytics_tag()}
 </body></html>"""
 
 
@@ -518,6 +530,9 @@ def build_migrated(data, write, card_html):
 
     # Pages
     for name, pg in pages.items():
+        if name == "essential" and (OUT / "essential/index.html").exists():
+            real.add(pg["path"].rstrip("/"))
+            continue  # replaced by the generated Essential Games List
         wide = name == "zapper"
         inner = prose(pg["body"], ep_map)
         title = pg["title"]
@@ -526,12 +541,26 @@ def build_migrated(data, write, card_html):
         write(f"{name}/index.html", page(f"{title} · NEStalgia", body, f"/{name}/", current="articles"))
         real.add(pg["path"].rstrip("/"))
 
-    # Contact (the Squarespace form can't move to a static site)
+    # Contact: a form that emails the show, sent through FormSubmit (no account needed; the first message must be confirmed once)
     write("contact/index.html", page("Contact · NEStalgia", f"""<h1>Contact</h1>
-<p class="lede">Questions, corrections, or game suggestions? Join the conversation on Patreon, or tell us about a mistake in the show notes or transcripts by
-<a href="https://github.com/Xalechim/NEStalgia/issues/new">opening an issue on GitHub</a>.</p>
+<p class="lede">Questions, corrections, or a game we should cover? Send us a message and it goes straight to our inbox.</p>
+<p id="sent" class="sent" hidden role="status"><b>Message sent.</b> Thanks for writing. We read everything.</p>
+<form class="cform" action="https://formsubmit.co/{CONTACT_EMAIL}" method="POST">
+<input type="hidden" name="_subject" value="New message from nestalgiacast.com">
+<input type="hidden" name="_next" value="{SITE_URL}/contact/?sent=1">
+<input type="hidden" name="_template" value="table">
+<input type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px">
+<label>Your name<input name="name" required autocomplete="name"></label>
+<label>Your email<input type="email" name="email" required autocomplete="email"></label>
+<label>What is this about?<select name="topic"><option>General question</option><option>Game suggestion</option><option>Correction (show notes, transcript, links)</option><option>Guest or collaboration</option><option>Something else</option></select></label>
+<label>Message<textarea name="message" rows="7" required></textarea></label>
+<button class="btn" type="submit">Send message</button>
+<p class="note">Sent through FormSubmit, which delivers it to our email. We only use your address to reply.</p>
+</form>
+<script>if(location.search.indexOf("sent=1")!==-1){{document.getElementById("sent").hidden=false;}}</script>
+<h2>Other ways to reach us</h2>
 <div class="btns" style="justify-content:flex-start"><a class="btn" href="https://www.patreon.com/nestalgia">Patreon</a>
-<a class="btn alt" href="https://github.com/Xalechim/NEStalgia/issues/new">Report a correction</a></div>""", "/contact/"))
+<a class="btn alt" href="https://github.com/Xalechim/NEStalgia/issues/new">Report a correction on GitHub</a></div>""", "/contact/"))
     real.add("/contact")
 
     # Redirect pages for every old address that no longer has a real page
@@ -618,6 +647,9 @@ def main():
         r["prev"] = ordered[i - 1] if i > 0 else None
         r["next"] = ordered[i + 1] if i + 1 < len(ordered) else None
 
+    related_idx = site_extras.build_related_index(data, GAME_INFO)
+    related_html_for = lambda r: site_extras.related_html(r, related_idx, GAME_INFO, card, E, BASE)
+
     for r in data:
         def kind(p):
             return "Outline" if p.endswith("-outline.md") else "Early notes" if p.endswith("-early-notes.md") else "Show notes"
@@ -678,6 +710,7 @@ def main():
 <div class="btns" style="justify-content:flex-start">{listen}</div>
 <div class="desc">{desc_html}</div></div></div>
 <div data-pagefind-body>{tabs_html}</div>
+{related_html_for(r)}
 <div class="pn">{pn}</div>{'<script src="' + BASE + '/player.js" defer></script>' if (r["transcript"] or links_html) else ""}"""
         url = f"/episodes/{r['key']}/"
         desc = intro["text"] if intro else r["description"].split("\n")[0]
@@ -735,6 +768,11 @@ The site updates itself when new episodes come out. Transcript speaker names are
 <p>Episode data is also available as <a href="https://github.com/Xalechim/NEStalgia/blob/main/data/episodes.json">JSON</a> and
 <a href="https://github.com/Xalechim/NEStalgia/blob/main/data/episodes.csv">CSV</a>.</p>"""
     write("about/index.html", page("About · NEStalgia", body, "/about/", current="about"))
+    if GAME_INFO:
+        write("essential/index.html", page("Essential Games List · NEStalgia", site_extras.essential_body(data, GAME_INFO, card, E, BASE), "/essential/",
+                                           desc="Every NES game the NEStalgia podcast voted Essential, in the order we covered them.", current="essential"))
+        write("stats/index.html", page("The Stats · NEStalgia", site_extras.stats_body(show_stats.compute(GAME_INFO, data), E, BASE), "/stats/",
+                                       desc="Which NES publishers, developers and genres score best on NEStalgia, plus streaks, droughts and how the hosts vote.", current="stats"))
     extra = build_migrated(data, write, card)
     mod = last_modified()
     lastmod = {}
@@ -747,7 +785,7 @@ The site updates itself when new episodes come out. Transcript speaker names are
             lastmod[f"/episodes/{r['key']}/"] = max(days)
     if lastmod:
         lastmod["/"] = lastmod["/episodes/"] = max(lastmod.values())
-    urls = ["/", "/episodes/", "/search/", "/about/"] + extra + [f"/episodes/{r['key']}/" for r in data]
+    urls = ["/", "/episodes/", "/essential/", "/stats/", "/search/", "/about/"] + [u for u in extra if u.rstrip("/") != "/essential"] + [f"/episodes/{r['key']}/" for r in data]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
           + "".join(f"<url><loc>{SITE_URL}{u}</loc>" + (f"<lastmod>{lastmod[u]}</lastmod>" if u in lastmod else "") + "</url>" for u in urls) + "</urlset>")
     write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")

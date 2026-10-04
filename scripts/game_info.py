@@ -48,7 +48,7 @@ def parse(text):
     if not rows:
         return {}
     head = [h.strip().lower() for h in rows[0]]
-    c = {k: head.index(k) for k in ("season", "ep #", "episode", "release date", "developer 1", "developer 2", "publisher", "genre", "verdict") if k in head}
+    c = {k: head.index(k) for k in ("season", "ep #", "episode", "release date", "developer 1", "developer 2", "publisher", "genre", "verdict", "comment") if k in head}
     out = {}
     for r in rows[1:]:
         try:
@@ -64,6 +64,7 @@ def parse(text):
                 "title": get("episode"), "developers": devs, "publishers": pubs, "genre": get("genre"),
                 "year": year, "month": month, "season": int(get("season")),
                 "verdict": VERDICTS.get(get("verdict").lower(), ""),
+                "comment": get("comment"),
             }
         except (KeyError, IndexError, ValueError):
             continue

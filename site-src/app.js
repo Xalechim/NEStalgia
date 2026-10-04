@@ -11,6 +11,7 @@
   var verdictBtns = Array.prototype.slice.call(document.querySelectorAll("button[data-verdict]"));
   var fields = Array.prototype.slice.call(document.querySelectorAll("[data-f]"));
   var type = "all", newest = true;
+  if (grid.dataset.sort === "oldest") newest = false;
 
   function all(list, fn) { Array.prototype.forEach.call(list, fn); }
 
@@ -19,6 +20,7 @@
   if (params.get("q")) q.value = params.get("q");
   if (params.get("type")) type = params.get("type");
   if (params.get("sort") === "oldest") newest = false;
+  if (params.get("sort") === "newest") newest = true;
   var chosen = (params.get("verdict") || "").split(",").filter(Boolean);
   verdictBtns.forEach(function (b) { b.setAttribute("aria-pressed", chosen.indexOf(b.dataset.verdict) !== -1 ? "true" : "false"); });
   fields.forEach(function (f) { if (params.get(f.dataset.f)) f.value = params.get(f.dataset.f); });
@@ -53,7 +55,8 @@
     var p = new URLSearchParams();
     if (q.value.trim()) p.set("q", q.value.trim());
     if (type !== "all") p.set("type", type);
-    if (!newest) p.set("sort", "oldest");
+    if (newest === (grid.dataset.sort !== "oldest")) { /* default order: leave it out of the address */ }
+    else p.set("sort", newest ? "newest" : "oldest");
     if (verdicts.length) p.set("verdict", verdicts.join(","));
     fields.forEach(function (f) { if (f.value.trim()) p.set(f.dataset.f, f.value.trim()); });
     var s = p.toString();
