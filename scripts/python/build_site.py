@@ -24,6 +24,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from build_episode_data import local_files  # noqa: E402
 from wikipedia_intros import boilerplate_only  # noqa: E402
 import share_cards  # noqa: E402
+import bytes_info  # noqa: E402
 import show_stats  # noqa: E402
 import site_extras  # noqa: E402
 
@@ -46,6 +47,7 @@ LINKS = [
     ("Twitch", "https://www.twitch.tv/nestalgia"),
     ("RSS", "https://anchor.fm/s/5808ab8/podcast/rss"),
 ]
+PATREON_PAGE = "https://www.patreon.com/nestalgia"
 CONTACT_EMAIL = "michaelespositofilm@gmail.com"
 CONTACT_ALIAS = "eadd631cab7eee30e436788843647564"  # the private address FormSubmit issued after activation (hides the email from spam scrapers)
 SHEET_URL = "https://docs.google.com/spreadsheets/d/1r5WpTbM0EYLbr1ylXthvf57HWgjo1iScI_c5HKgfSKc/edit?usp=sharing"
@@ -323,9 +325,44 @@ def asset(name):
     return f"{BASE}/{name}?v={h}"
 
 
+def bytes_records():
+    """NEStalgia Bytes episodes (Patreon-only) as site records: no audio, notes, transcript or links, just a page pointing to Patreon."""
+    f = REPO / "data/bytes-info.json"
+    info = json.loads(f.read_text()) if f.exists() else {}
+    out = []
+    for n, v in info.items():
+        name = bytes_info.cover_name(n, v["title"])
+        if not (REPO / "assets/episode-art" / f"{name}.jpg").exists():
+            continue  # bytes_art.py makes the cover; a Bytes episode without one waits for it
+        out.append({"type": "bytes", "number": int(n), "title": v["title"], "feed_title": f"NEStalgia Bytes {int(n):03d} - {v['title']}",
+                    "published": v["published"], "duration_seconds": None, "description": "", "audio_url": None, "episode_page": None,
+                    "art": f"assets/episode-art/{name}.jpg", "guid": None, "patreon_url": v.get("patreon_url", "")})
+    return out
+
+
+def bytes_page_body(r, prev, nxt):
+    url = r.get("patreon_url") or ""
+    cta = (f'<a class="btn" href="{E(url)}" rel="noopener">Listen on Patreon</a>' if url else
+           f'<a class="btn" href="{PATREON_PAGE}" rel="noopener">Find it on Patreon</a>')
+    pn = "".join(f'<a href="{BASE}/episodes/{x["key"]}/">{lab}</a>' if x else "<span></span>"
+                 for x, lab in ((prev, f'← {E(prev["title"])}' if prev else ""), (nxt, f'{E(nxt["title"])} →' if nxt else "")))
+    when = fmt_date(r["published"]) + " · " if r["published"] else ""
+    return f"""<p class="crumbs"><a href="{BASE}/episodes/">← All episodes</a></p>
+<div class="ep"><div class="art"><img src="{BASE}/art/{r['key']}.jpg" alt="{E(cover_alt(r))}" width="1000" height="1000"></div>
+<div data-pagefind-body><h1 data-pagefind-meta="title">Bytes {r['number']:03d} · {E(r['title'])}</h1>
+<div class="meta">{when}NEStalgia Bytes · Patreon members only</div>
+<aside class="patreon-box"><b>Members-only episode</b>
+<p>NEStalgia Bytes is our Patreon-exclusive show about Famicom games you can play without any Japanese knowledge.
+Members at the $5 level and above can listen to this episode on Patreon.</p>
+<div class="btns" style="justify-content:flex-start">{cta}</div></aside></div></div>
+<div class="pn">{pn}</div>"""
+
+
 def cover_alt(r):
     """Alt text for an episode's cover art: what it is, for which game, which episode (helps screen readers and image search)."""
     game = r["title"].title() if r["title"].isupper() else r["title"]
+    if r["type"] == "bytes":
+        return f"Cover art for NEStalgia Bytes {r['number']}: {game}"
     if r["type"] == "episode" and r["number"] is not None:
         return f"NES box art for {game}, the cover of NEStalgia episode {r['number']}"
     return f"Cover art for the NEStalgia episode {game}"
@@ -373,6 +410,8 @@ def episode_jsonld(r, url, desc):
         ep["episodeNumber"] = r["number"]
         ep["about"] = {"@type": "VideoGame", "name": r["title"].title() if r["title"].isupper() else r["title"],
                        "gamePlatform": "Nintendo Entertainment System"}
+    if r["type"] == "bytes":
+        ep["isAccessibleForFree"] = False
     if iso_duration(r.get("duration_seconds")):
         ep["timeRequired"] = iso_duration(r["duration_seconds"])
     if r.get("audio_url"):
@@ -440,8 +479,9 @@ def write(rel, content):
 
 
 def card(r):
-    label = f"{r['number']:03d}" if r["number"] is not None and r["type"] == "episode" else ("Special" if r["type"] == "special" else "")
-    tags = [t for t, on in (("NOTES", r["notes"]), ("LINKS", r.get("has_links")), ("TRANSCRIPT", r["transcript"])) if on]
+    label = (f"{r['number']:03d}" if r["number"] is not None and r["type"] == "episode" else
+             f"Bytes {r['number']:03d}" if r["type"] == "bytes" else ("Special" if r["type"] == "special" else ""))
+    tags = [t for t, on in (("NOTES", r["notes"]), ("LINKS", r.get("has_links")), ("TRANSCRIPT", r["transcript"]), ("PATREON", r["type"] == "bytes")) if on]
     info = GAME_INFO.get(str(r["number"])) if r["type"] == "episode" and r["number"] is not None else None
     extra = ""
     if info:
@@ -658,7 +698,11 @@ def main():
     global GAME_INFO
     GAME_INFO = load_game_info()
     # data/episodes.json can be a little stale (it is refreshed on a schedule); what is actually in the repo wins.
+    data = [r for r in data if r["type"] != "bytes"] + bytes_records()  # Bytes come from the spreadsheet, not the feed
     for r in data:
+        if r["type"] == "bytes":  # paid content: never any notes, transcript or links
+            r["notes"], r["transcript"], r["has_links"] = [], None, False
+            continue
         r["notes"], r["transcript"] = local_files(r["type"], r["number"], r["title"], r["feed_title"])
         r["has_links"] = bool(r["type"] == "episode" and r["number"] is not None and render_links(r["number"]))
     if OUT.exists():
@@ -694,18 +738,29 @@ def main():
             bits = [(meta["publishers"] or meta["developers"] or [""])[0], f'{meta["month"] + " " if meta["month"] else ""}{meta["year"] or ""}'.strip()]
         game = r["title"].title() if r["title"].isupper() else r["title"]
         share_cards.make_episode_card(REPO / r["art"], share_cards.clean_label(r["number"], r["type"]), game,
-                                      meta["verdict"] if meta else "", " · ".join(b for b in bits if b), SRC / "logo.png",
+                                      "Patreon" if r["type"] == "bytes" else (meta["verdict"] if meta else ""), " · ".join(b for b in bits if b), SRC / "logo.png",
                                       OUT / "art/share" / f"{r['key']}.jpg")
 
-    ordered = sorted((r for r in data if r["published"]), key=lambda r: (r["published"], r["number"] or 0))
-    for i, r in enumerate(ordered):
-        r["prev"] = ordered[i - 1] if i > 0 else None
-        r["next"] = ordered[i + 1] if i + 1 < len(ordered) else None
+    regular = sorted((r for r in data if r["published"] and r["type"] != "bytes"), key=lambda r: (r["published"], r["number"] or 0))
+    bytes_eps = sorted((r for r in data if r["type"] == "bytes"), key=lambda r: r["number"])
+    for group in (regular, bytes_eps):
+        for i, r in enumerate(group):
+            r["prev"] = group[i - 1] if i > 0 else None
+            r["next"] = group[i + 1] if i + 1 < len(group) else None
 
     related_idx = site_extras.build_related_index(data, GAME_INFO)
     related_html_for = lambda r: site_extras.related_html(r, related_idx, GAME_INFO, card, E, BASE)
 
     for r in data:
+        if r["type"] == "bytes":
+            url = f"/episodes/{r['key']}/"
+            desc = f"NEStalgia Bytes {r['number']:03d}: {r['title']}. A members-only Patreon episode about a Famicom game."
+            write(f"episodes/{r['key']}/index.html",
+                  page(f"{r['title']} · NEStalgia Bytes {r['number']} (Patreon) · NEStalgia", bytes_page_body(r, r["prev"], r["next"]), url, desc=desc,
+                       image=f"/art/share/{r['key']}.jpg", current="eps", og_type="article", published=r["published"] or None, image_dims=(1200, 630),
+                       jsonld=[episode_jsonld(r, url, desc), breadcrumbs(("Home", "/"), ("Episodes", "/episodes/"), (r["title"], url))]))
+            continue
+
         def kind(p):
             return "Outline" if p.endswith("-outline.md") else "Early notes" if p.endswith("-early-notes.md") else "Show notes"
 
@@ -784,7 +839,7 @@ def main():
     body = f"""<h1>All episodes</h1>
 <div class="controls"><input id="q" type="search" placeholder="Filter by title or number" aria-label="Filter episodes">
 <button data-filter="all" aria-pressed="true">All</button><button data-filter="episode" aria-pressed="false">Episodes</button>
-<button data-filter="special" aria-pressed="false">Specials</button><button id="sort" type="button">Newest first</button>
+<button data-filter="special" aria-pressed="false">Specials</button><button data-filter="bytes" aria-pressed="false">Bytes</button><button id="sort" type="button">Newest first</button>
 <span id="count"></span></div>
 {filter_panel(data)}
 <div class="grid" id="grid">{''.join(card(r) for r in newest_first)}</div>
@@ -793,7 +848,7 @@ def main():
 
     # Home
     buttons = "".join(f'<a class="btn{" alt" if i > 1 else ""}" href="{u}" rel="noopener">{n}</a>' for i, (n, u) in enumerate(LINKS))
-    latest = "".join(card(r) for r in newest_first[:12])
+    latest = "".join(card(r) for r in [x for x in newest_first if x["type"] != "bytes"][:12])
     body = f"""<div class="hero"><h1 class="sr">NEStalgia: A chronological exploration of every NES game</h1><img src="{BASE}/logo.png" alt="">
 <p class="tag">A chronological exploration of <b>every</b> NES game released in North America. Join us and play along.</p>
 <div class="btns">{buttons}</div></div>

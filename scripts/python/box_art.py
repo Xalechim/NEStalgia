@@ -75,8 +75,8 @@ def compose(png_bytes, size=1000):
     left, top = (cover.width - size) // 2, (cover.height - size) // 2
     bg = cover.crop((left, top, left + size, top + size)).filter(ImageFilter.GaussianBlur(28))
     bg = Image.blend(bg, Image.new("RGB", bg.size, (28, 28, 34)), 0.35)
-    h = round(size * 0.94)
-    fg = box.resize((round(box.width * h / box.height), h), Image.LANCZOS)
+    scale = min(size * 0.94 / box.width, size * 0.94 / box.height)  # the whole image, whether portrait or landscape
+    fg = box.resize((round(box.width * scale), round(box.height * scale)), Image.LANCZOS)
     bg.paste(fg, ((size - fg.width) // 2, (size - fg.height) // 2))
     return bg
 

@@ -11,6 +11,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import build_episode_data  # noqa: E402
 import box_art  # noqa: E402
+import bytes_art  # noqa: E402
+import bytes_info  # noqa: E402
 import build_index  # noqa: E402
 import game_info  # noqa: E402
 import next_episode  # noqa: E402
@@ -40,3 +42,9 @@ except SystemExit:
     pass
 except Exception as e:
     print(f"Couldn't check for generic covers: {e}")
+
+try:  # the NEStalgia Bytes list (Patreon-only episodes) from the spreadsheet, and covers for any new ones
+    bytes_info.refresh()
+    bytes_art.main([])
+except Exception as e:
+    print(f"Couldn't update the Bytes episodes: {e}")

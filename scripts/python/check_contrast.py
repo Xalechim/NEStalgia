@@ -43,7 +43,7 @@ def ratio(a, b):
 
 # (what, text color, background color, minimum). Colors are variable names ("ink") or hex.
 FIXED = {"white": "#ffffff", "navhover": "#ff8a80", "yellow": "#f2c230", "yellowink": "#1a1a1a", "blue": "#2a6fdb", "gray-bar": "#6f6f78",
-         "blue-dark": "#4a86ea", "gray-bar-dark": "#8a8a96", "skip-dark": "#3a3a46"}
+         "purple": "#5a3fa0", "blue-dark": "#4a86ea", "gray-bar-dark": "#8a8a96", "skip-dark": "#3a3a46"}
 PAIRS = {
     "light": [
         ("Body text on page", "ink", "bg", 4.5), ("Body text on cards", "ink", "card", 4.5),
@@ -51,7 +51,7 @@ PAIRS = {
         ("Links on page", "link", "bg", 4.5), ("Links on cards", "link", "card", 4.5),
         ("Menu links on header", "white", "dark", 4.5), ("Menu hover on header", "navhover", "dark", 4.5),
         ("Button text", "white", "red", 4.5), ("Section label", "white", "dark", 4.5),
-        ("TRANSCRIPT tag (white on red)", "white", "red", 4.5), ("NOTES tag", "yellowink", "yellow", 4.5), ("LINKS tag (white on blue)", "white", "blue", 4.5),
+        ("TRANSCRIPT tag (white on red)", "white", "red", 4.5), ("NOTES tag", "yellowink", "yellow", 4.5), ("LINKS tag (white on blue)", "white", "blue", 4.5), ("PATREON tag (white on purple)", "white", "purple", 4.5),
         ("Verdict: Essential", "yellowink", "yellow", 4.5), ("Verdict: Play it", "white", "blue", 4.5), ("Verdict: Skip it", "white", "dark", 4.5),
         ("Stats bar: skip colour vs card (UI)", "gray-bar", "card", 3.0), ("Stats bar: blue vs card (UI)", "blue", "card", 3.0), ("Stats bar: yellow vs card (UI)", "yellow", "card", 1.4),
         ("Card border vs page (UI)", "line", "bg", 3.0),

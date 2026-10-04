@@ -41,6 +41,12 @@ getting KHInsider music and Audition project folders (`python/make_project_folde
   best internal break (longer pause + change of vocabulary = new subject); pieces under ~170 characters are folded into a neighbour.
 - `strip_speakers.py` (double-click `Strip Speakers.command`) converts old speaker-labelled transcripts in bulk: timing from the `.vtt`,
   speaker names dropped, regrouped into paragraphs, word count verified unchanged, idempotent, offline. `--dry-run` previews.
+- `bytes_info.py` / `bytes_art.py`: the NEStalgia Bytes episodes (Patreon-only) on the site. `bytes_info.py` reads the spreadsheet's "Byte" rows
+  (gaps filled from the `episodes/bytes` file names; a typo'd number or a future date is skipped) into `data/bytes-info.json`; add a
+  spreadsheet column whose header contains "Patreon" and paste each post's address in it to link a Bytes page straight to its Patreon post
+  (otherwise it points to the Patreon page). `bytes_art.py` makes each cover: the Famicom/NES box scan from the libretro library if the game is
+  there, else a generated "BYTES" cover; put your own picture at `assets/episode-art/nb-NNN-name.jpg` to override. Bytes pages have no player,
+  notes, transcript or links. Both run inside `update_from_feed.py`.
 - `audio_offsets.py` measures the shift between your final mix (what transcript timestamps are measured on) and the audio the podcast host
   serves (Megaphone inserts pre-rolls: 56-60 s on most recent episodes, 0 on others). It aligns loudness envelopes using only the first
   and last few MB of the hosted file (a full alignment is the fallback if the shift changes mid-episode) and writes

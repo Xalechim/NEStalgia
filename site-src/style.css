@@ -399,3 +399,9 @@ header.site :focus-visible { outline-color: #fff; }
 .sr { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
 .sbar i.e, .slegend i.e, .cb i.e { box-shadow: inset 0 0 0 2px rgba(26, 26, 26, .6); }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
+
+/* NEStalgia Bytes: Patreon-only episodes */
+.card .b-patreon { background: #5a3fa0; }
+.patreon-box { border: 3px solid var(--line); background: var(--card); box-shadow: 4px 4px 0 var(--shadow); padding: 14px 20px 6px; margin: 18px 0; }
+.patreon-box b { display: block; font-family: var(--mono); text-transform: uppercase; letter-spacing: .08em; margin-bottom: 6px; }
+.patreon-box p { margin: 0 0 12px; }

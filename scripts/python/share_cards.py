@@ -14,6 +14,7 @@ STAMPS = {  # verdict -> (fill, text color)
     "Essential": ((242, 194, 48), (26, 26, 26)),
     "Play it": ((42, 111, 219), (255, 255, 255)),
     "Skip it": ((111, 111, 120), (255, 255, 255)),
+    "Patreon": ((255, 66, 77), (26, 26, 26)),  # NEStalgia Bytes: members-only on Patreon
 }
 SANS = ["DejaVuSans-Bold.ttf", "LiberationSans-Bold.ttf", ("/System/Library/Fonts/Helvetica.ttc", 1), "Arial Bold.ttf"]
 MONO = ["DejaVuSansMono-Bold.ttf", "LiberationMono-Bold.ttf", ("/System/Library/Fonts/Menlo.ttc", 1), "Courier New Bold.ttf"]
@@ -148,4 +149,24 @@ def make_default_card(logo_path, tagline, out_path):
 def clean_label(number, kind):
     if kind == "episode" and number is not None:
         return f"Episode {number}"
+    if kind == "bytes" and number is not None:
+        return f"NEStalgia Bytes {number:03d}"
     return {"special": "Special episode", "bytes": "NEStalgia Bytes"}.get(kind, "NEStalgia")
+
+
+def make_bytes_cover(title, number, out_path, size=1000):
+    """A square cover for a Bytes episode with no box art: dark, red top stripe, 'BYTES' label and the game's name."""
+    img = Image.new("RGB", (size, size), BG)
+    d = ImageDraw.Draw(img)
+    d.rectangle([0, 0, size, 26], fill=RED)
+    d.rectangle([0, size - 26, size, size], fill=RED)
+    d.text((size / 2, 150), "NEStalgia", font=font(MONO, 64), fill=MUTED, anchor="mm")
+    d.text((size / 2, 250), f"BYTES {number:03d}" if number is not None else "BYTES", font=font(MONO, 96), fill=PINK, anchor="mm")
+    f, lines = fit_title(d, title, size - 160, max_lines=5, sizes=(96, 84, 72, 62, 54, 46, 40), max_height=400)
+    y = 360 + (400 - len(lines) * int(f.size * 1.12)) // 2
+    for line in lines:
+        d.text((size / 2, y), line, font=f, fill=INK, anchor="mt")
+        y += int(f.size * 1.12)
+    d.text((size / 2, size - 90), "FAMICOM GAMES YOU CAN PLAY WITHOUT JAPANESE", font=font(MONO, 26), fill=MUTED, anchor="mm")
+    Path(out_path).parent.mkdir(parents=True, exist_ok=True)
+    img.save(out_path, "JPEG", quality=84, optimize=True)

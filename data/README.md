@@ -35,3 +35,6 @@ Episodes that aren't in the public feed yet aren't in this file.
 
 `data/links/NNN-game-name.json` holds the links shown on an episode's Links tab (one file per episode that has a transcript). Made by
 `scripts/python/make_links.py`; safe to edit by hand.
+
+`bytes-info.json` lists the NEStalgia Bytes episodes (Patreon-only) shown on the website: `{number: {title, published, patreon_url}}`, read from
+the episode spreadsheet by `scripts/python/bytes_info.py`. `bytes-art-sources.json` records where each Bytes cover came from.
