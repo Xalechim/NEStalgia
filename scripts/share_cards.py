@@ -112,7 +112,10 @@ def make_episode_card(art_path, label, title, verdict, meta, logo_path, out_path
         d.text((tx, y), line, font=f, fill=INK)
         y += int(f.size * 1.12)
     if meta:
-        d.text((tx, y + 10), meta, font=font(MONO, 28), fill=MUTED)
+        size = 28
+        while size > 18 and d.textlength(meta, font=font(MONO, size)) > tw:
+            size -= 1
+        d.text((tx, y + 10), meta, font=font(MONO, size), fill=MUTED)
     if verdict in STAMPS:
         s = stamp(verdict)
         img.paste(s, (tx - 8, H - s.height - 28), s)
