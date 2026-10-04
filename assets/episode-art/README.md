@@ -2,20 +2,8 @@
 
 Cover art for every item in the podcast feed, downsized to 1000 px JPEGs. File names follow the episode numbers used in `episodes/`.
 
-459 images. 15 episodes use the generic show art:
+459 images. 3 episodes use the generic show art:
 
-- 050 - RYGAR (`050-rygar.jpg`)
-- 051 - SECTION Z (`051-section-z.jpg`)
-- 052 - SOLOMON’S KEY (`052-solomons-key.jpg`)
-- 059 - THE 3-D BATTLES OF WORLDRUNNER (`059-the-3-d-battles-of-worldrunner.jpg`)
-- 062 - LODE RUNNER (`062-lode-runner.jpg`)
-- 084 - STAR FORCE (`084-star-force.jpg`)
-- 113 - Adventure Island (`113-adventure-island.jpg`)
-- 127 - MICKEY MOUSECAPADE (`127-mickey-mousecapade.jpg`)
-- 128 - MILLIPEDE (`128-millipede.jpg`)
-- 262 - The Miracle Piano Teaching System (`262-the-miracle-piano-teaching-system.jpg`)
-- 285 - Fisher Price Perfect Fit (`285-fisher-price-perfect-fit.jpg`)
-- 366 - M.U.L.E (`366-m-u-l-e.jpg`)
 - Patreon Mailbag 2023 (`patreon-mailbag-2023.jpg`)
 - SPECIAL 006 - Best of 1990 (`s006-best-of-1990.jpg`)
 - S06 - THE BEST OF 1989 (`s006-the-best-of-1989.jpg`)
