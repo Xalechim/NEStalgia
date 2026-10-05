@@ -18,6 +18,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+from textutil import nice_case  # noqa: E402
 
 REPO = Path(__file__).resolve().parents[2]
 STORE = REPO / "data/wikipedia-intros.json"
@@ -77,7 +78,7 @@ def lookup(title):
     import next_episode as N
     if "/" in title:
         return None
-    game = title.title() if title.isupper() else title
+    game = nice_case(title)
     d = N.find_wikipedia(game)
     if not d or not d.get("extract"):
         return None

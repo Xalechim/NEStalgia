@@ -17,6 +17,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+from textutil import nice_case  # noqa: E402
 import mixes  # noqa: E402
 
 REPO = Path(__file__).resolve().parents[2]
@@ -35,7 +36,7 @@ def feed_title(n: int):
         for r in json.loads((REPO / "data/episodes.json").read_text()):
             if r["type"] == "episode" and r["number"] == n and "remaster" not in r["feed_title"].lower():
                 t = r["title"].strip()
-                return t.title() if t.isupper() else t
+                return nice_case(t)
     except Exception:
         pass
     return None

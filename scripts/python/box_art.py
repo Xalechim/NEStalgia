@@ -22,6 +22,9 @@ from pathlib import Path
 import numpy as np
 from PIL import Image, ImageFilter
 
+sys.path.insert(0, str(Path(__file__).parent))
+from textutil import nice_case  # noqa: E402
+
 REPO = Path(__file__).resolve().parents[2]
 SOURCES = REPO / "data/box-art-sources.json"
 REPO_API = "https://api.github.com/repos/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/git/trees/master?recursive=1"
@@ -102,7 +105,7 @@ def main():
     names = box_names() if not a.file else []
     done = 0
     for r in todo:
-        title = r["title"].title() if r["title"].isupper() else r["title"]
+        title = nice_case(r["title"])
         fname = a.file if a.file else sources.get(str(r["number"]), {}).get("file") or auto_match(title, names)
         if not fname:
             print(f"   {r['number']:03d} {title}: no box art found; left as is")

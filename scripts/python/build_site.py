@@ -21,6 +21,7 @@ import markdown
 from PIL import Image
 
 sys.path.insert(0, str(Path(__file__).parent))
+from textutil import nice_case  # noqa: E402
 from build_episode_data import local_files  # noqa: E402
 from wikipedia_intros import boilerplate_only  # noqa: E402
 import share_cards  # noqa: E402
@@ -360,7 +361,7 @@ Members at the $5 level and above can listen to this episode on Patreon.</p>
 
 def cover_alt(r):
     """Alt text for an episode's cover art: what it is, for which game, which episode (helps screen readers and image search)."""
-    game = r["title"].title() if r["title"].isupper() else r["title"]
+    game = nice_case(r["title"])
     if r["type"] == "bytes":
         return f"Cover art for NEStalgia Bytes {r['number']}: {game}"
     if r["type"] == "episode" and r["number"] is not None:
@@ -408,7 +409,7 @@ def episode_jsonld(r, url, desc):
           "description": desc, "partOfSeries": SERIES, "image": f"{SITE_URL}/art/{r['key']}.jpg"}
     if r["type"] == "episode" and r["number"] is not None:
         ep["episodeNumber"] = r["number"]
-        ep["about"] = {"@type": "VideoGame", "name": r["title"].title() if r["title"].isupper() else r["title"],
+        ep["about"] = {"@type": "VideoGame", "name": nice_case(r["title"]),
                        "gamePlatform": "Nintendo Entertainment System"}
     if r["type"] == "bytes":
         ep["isAccessibleForFree"] = False
@@ -736,7 +737,7 @@ def main():
         bits = []
         if meta:
             bits = [(meta["publishers"] or meta["developers"] or [""])[0], f'{meta["month"] + " " if meta["month"] else ""}{meta["year"] or ""}'.strip()]
-        game = r["title"].title() if r["title"].isupper() else r["title"]
+        game = nice_case(r["title"])
         share_cards.make_episode_card(REPO / r["art"], share_cards.clean_label(r["number"], r["type"]), game,
                                       "Patreon" if r["type"] == "bytes" else (meta["verdict"] if meta else ""), " · ".join(b for b in bits if b), SRC / "logo.png",
                                       OUT / "art/share" / f"{r['key']}.jpg")
@@ -825,7 +826,7 @@ def main():
         url = f"/episodes/{r['key']}/"
         desc = intro["text"] if intro else r["description"].split("\n")[0]
         if r["type"] == "episode" and r["number"] is not None:  # the game's name first: that is what people search for
-            game = r["title"].title() if r["title"].isupper() else r["title"]
+            game = nice_case(r["title"])
             seo_title = f"{game} (NES) · Episode {r['number']} · NEStalgia"
         else:
             seo_title = f"{r['title']} · NEStalgia"
