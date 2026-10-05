@@ -69,12 +69,12 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 061 | Double Dribble | [notes](061-double-dribble.md), [transcript](../transcripts/061-double-dribble.md) |
 | 062 | Lode Runner | [notes](062-lode-runner.md), [transcript](../transcripts/062-lode-runner.md) |
 | 063 | Raid on Bungeling Bay | [notes](063-raid-on-bungeling-bay.md), [transcript](../transcripts/063-raid-on-bungeling-bay.md) |
-| 064 | Ring King | [notes](064-ring-king.md) |
-| 065 | Sky Kid | [notes](065-sky-kid.md) |
-| 066 | Spelunker | [notes](066-spelunker.md) |
-| 067 | Spy Hunter | [notes](067-spy-hunter.md) |
-| 068 | Sqoon | [notes](068-sqoon.md) |
-| 069 | Stadium Events | [notes](069-stadium-events.md) |
+| 064 | Ring King | [notes](064-ring-king.md), [transcript](../transcripts/064-ring-king.md) |
+| 065 | Sky Kid | [notes](065-sky-kid.md), [transcript](../transcripts/065-sky-kid.md) |
+| 066 | Spelunker | [notes](066-spelunker.md), [transcript](../transcripts/066-spelunker.md) |
+| 067 | Spy Hunter | [notes](067-spy-hunter.md), [transcript](../transcripts/067-spy-hunter.md) |
+| 068 | Sqoon | [notes](068-sqoon.md), [transcript](../transcripts/068-sqoon.md) |
+| 069 | Stadium Events | [notes](069-stadium-events.md), [transcript](../transcripts/069-stadium-events.md) |
 | 070 | Star Voyager | [early notes](070-star-voyager-early-notes.md), [notes](070-star-voyager.md) |
 | 071 | Stinger | [notes](071-stinger.md) |
 | 072 | Tiger Heli | [notes](072-tiger-heli.md) |
