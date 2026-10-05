@@ -452,8 +452,17 @@ def iso_duration(seconds):
 SERIES = {"@type": "PodcastSeries", "name": "NEStalgia", "url": f"{SITE_URL}/"}
 
 
+BRAND_NAMES = ["NEStalgia Podcast", "NEStalgiacast", "NEStalgia cast"]  # other ways people write or say the name
+
+
+def website_jsonld():
+    """Tells search engines the site's name is the made-up word NEStalgia (N-E-S-talgia), not the common word 'nostalgia'."""
+    return {"@type": "WebSite", "name": "NEStalgia", "alternateName": BRAND_NAMES, "url": f"{SITE_URL}/", "inLanguage": "en",
+            "description": "NEStalgia is a podcast that covers every NES game released in North America, one game per episode."}
+
+
 def series_jsonld():
-    return {**SERIES, "description": "A chronological exploration of every NES game released in North America, one game per episode.",
+    return {**SERIES, "alternateName": BRAND_NAMES, "description": "A chronological exploration of every NES game released in North America, one game per episode.",
             "image": f"{SITE_URL}/logo.png", "webFeed": "https://anchor.fm/s/5808ab8/podcast/rss",
             "sameAs": [u for _, u in LINKS if u != "https://anchor.fm/s/5808ab8/podcast/rss"],
             "inLanguage": "en"}
@@ -938,7 +947,7 @@ def main():
 <p style="margin-top:20px"><a class="btn" href="{BASE}/episodes/">Browse all episodes</a>
 <a class="btn alt" href="{SHEET_URL}" rel="noopener">Spreadsheet</a></p>
 {patrons_html()}"""
-    write("index.html", page("NEStalgia: A chronological exploration of every NES game", body, "/", desc="A chronological exploration of every NES game.", search=True, current="home", jsonld=[series_jsonld()]))
+    write("index.html", page("NEStalgia: A chronological exploration of every NES game", body, "/", desc="A chronological exploration of every NES game.", search=True, current="home", jsonld=[website_jsonld(), series_jsonld()]))
 
     # Search page
     body = f"""<h1>Search</h1><p class="lede">Search every episode's description, show notes and transcript.</p><div id="search"></div>
