@@ -414,3 +414,5 @@ header.site :focus-visible { outline-color: #fff; }
 .review li { margin: 0 0 .7em; }
 .review .rverdict { margin: 12px 0 18px; }
 .review .src { font-size: 13px; color: var(--gray); border-top: 2px dashed var(--rule); padding-top: 10px; margin-top: 24px; }
+
+.guide-link { margin: -6px 0 14px; font-size: 15px; }

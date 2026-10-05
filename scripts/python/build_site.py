@@ -240,6 +240,38 @@ WIKI_INTROS = {}
 GAME_INFO = {}
 
 
+def load_seo():
+    """Per-page search-engine text, related-episode blocks and extra redirects, from site-src/seo.json."""
+    f = SRC / "seo.json"
+    return json.loads(f.read_text()) if f.exists() else {}
+
+
+SEO = {}
+
+
+def guide_link(r):
+    """On an episode page, a link to the article that goes with it (SHMUP episodes -> the SHMUP guide). Helps readers and search engines."""
+    info = GAME_INFO.get(str(r["number"])) if r["type"] == "episode" and r["number"] is not None else None
+    if not info:
+        return ""
+    for g in SEO.get("episode_guides", []):
+        if (g.get("genre") and info["genre"] == g["genre"]) or (g.get("title_contains") and g["title_contains"].lower() in r["title"].lower()):
+            return f'<p class="guide-link" data-pagefind-ignore><a href="{BASE}{g["href"]}">{E(g["label"])} &rarr;</a></p>'
+    return ""
+
+
+def related_block(cfg, data, card_html):
+    """'Every X we've covered': episode cards for a genre, newest game last, with a link to the filtered Episodes page."""
+    rows = [r for r in data if r["type"] == "episode" and r["number"] is not None and (GAME_INFO.get(str(r["number"])) or {}).get("genre") == cfg["genre"]]
+    rows.sort(key=lambda r: r["number"])
+    if not rows:
+        return ""
+    more = f'{BASE}/episodes/?{urllib.parse.urlencode(cfg["see_all"])}'
+    return (f'<section class="related" data-pagefind-ignore><h2>{E(cfg["heading"])} ({len(rows)})</h2>'
+            f'<div class="grid">{"".join(card_html(r) for r in rows)}</div>'
+            f'<p style="margin-top:16px"><a class="btn" href="{more}">{E(cfg.get("see_all_label", "See them all"))}</a></p></section>')
+
+
 def load_game_info():
     f = REPO / "data/game-info.json"
     return json.loads(f.read_text()) if f.exists() else {}
@@ -609,13 +641,15 @@ def build_migrated(data, write, card_html):
     real = {a["path"].rstrip("/") for a in articles}
     for a in articles:
         tags = "".join(f'<span class="atag">{E(t)}</span>' for t in a["tags"])
+        ov = (SEO.get("articles") or {}).get(a["path"].rstrip("/"), {})
+        extra = related_block(ov["related"], data, card_html) if ov.get("related") else ""
         body = f"""<p class="crumbs"><a href="{BASE}/articles/">← All articles</a></p>
 <article data-pagefind-body><h1 data-pagefind-meta="title">{E(a["title"])}</h1>
 <div class="meta">{fmt_date(a["date"])} · {E(a["author"])}</div>{('<div class="tags">'+tags+'</div>') if tags else ""}
-<div class="prose">{prose(a["body"], ep_map)}</div></article>"""
+<div class="prose">{prose(a["body"], ep_map)}</div></article>{extra}"""
         img = a["image"].replace("{BASE}", "") if a.get("image") else None
         write(a["path"].strip("/") + "/index.html",
-              page(f'{a["title"]} · NEStalgia', body, "/" + a["path"].strip("/") + "/", desc=a["excerpt"], image=img, current="articles",
+              page(ov.get("title") or f'{a["title"]} · NEStalgia', body, "/" + a["path"].strip("/") + "/", desc=ov.get("description") or a["excerpt"], image=img, current="articles",
                    og_type="article", published=str(a["date"])[:10] if a.get("date") else None))
     cards = "".join(
         f'<a class="card wide" href="{BASE}{a["path"]}/">'
@@ -688,8 +722,10 @@ if(location.search.indexOf("sent=1")!==-1){{document.getElementById("sent").hidd
         if not (OUT / old_c.strip("/") / "index.html").exists():
             write(old_c.strip("/") + "/index.html", redirect_stub(tgt))
             n += 1
-    for old in ("/nestalgia/podcast", "/show-notes", "/episodes-old"):
-        pass
+    for old, tgt in (SEO.get("redirects") or {}).items():  # old addresses that still get visitors or search impressions
+        if not (OUT / old.strip("/") / "index.html").exists():
+            write(old.strip("/") + "/index.html", redirect_stub(tgt))
+            n += 1
     print(f"migrated: {len(articles)} articles, {len(pages)} pages, {n} redirect pages")
     return [a["path"] + "/" for a in articles] + [f"/{k}/" for k in pages] + ["/contact/", "/articles/"]
 
@@ -718,8 +754,9 @@ def main():
     OFFSETS = load_offsets()
     global WIKI_INTROS
     WIKI_INTROS = load_wiki_intros()
-    global GAME_INFO
+    global GAME_INFO, SEO
     GAME_INFO = load_game_info()
+    SEO = load_seo()
     # data/episodes.json can be a little stale (it is refreshed on a schedule); what is actually in the repo wins.
     data = [r for r in data if r["type"] != "bytes"] + bytes_records()  # Bytes come from the spreadsheet, not the feed
     for r in data:
@@ -841,7 +878,7 @@ def main():
         body = f"""<p class="crumbs"><a href="{BASE}/episodes/">← All episodes</a></p>
 <div class="ep"{ep_attrs}><div class="art"><img src="{BASE}/art/{r['key']}.jpg" alt="{E(cover_alt(r))}" width="1000" height="1000"></div>
 <div data-pagefind-body><h1 data-pagefind-meta="title">{label}{E(r['title'])}</h1>
-{game_tags(r)}<div class="meta">{fmt_date(r['published'])} · {fmt_dur(r['duration_seconds'])}{' · transcript available' if r['transcript'] else ''}</div>
+{game_tags(r)}{guide_link(r)}<div class="meta">{fmt_date(r['published'])} · {fmt_dur(r['duration_seconds'])}{' · transcript available' if r['transcript'] else ''}</div>
 <audio id="player" controls preload="none" src="{r['audio_url']}"></audio>
 <div class="btns" style="justify-content:flex-start">{listen}</div>
 <div class="desc">{desc_html}</div></div></div>
