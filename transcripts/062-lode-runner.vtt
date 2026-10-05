@@ -1,0 +1,2674 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.560
+Lode Runner, you're a highly trained galactic commando deep in enemy territory.
+
+00:00:04.900 --> 00:00:11.040
+Your mission? To recover a fortune in gold, stolen from the bungling people by their power-hungry leaders.
+
+00:00:26.800 --> 00:00:34.640
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:34.920 --> 00:00:35.860
+I'm Mike.
+
+00:00:36.080 --> 00:00:36.920
+I'm Sam.
+
+00:00:37.140 --> 00:00:38.560
+I'm Joe. And I'm Sean.
+
+00:00:38.560 --> 00:00:41.320
+And today we're talking about Lode Runner.
+
+00:00:42.020 --> 00:00:43.960
+Guys, what do you know about Lode Runner?
+
+00:00:44.540 --> 00:00:51.700
+Absolutely nothing. I know it is a game that is on the Nintendo Entertainment System in North America.
+
+00:00:51.820 --> 00:00:52.860
+Oh wait, I played this game.
+
+00:00:52.880 --> 00:00:54.460
+Yeah, I was gonna say, but we all played it, right?
+
+00:00:54.680 --> 00:00:57.320
+Yeah, yeah, yeah. I mean, I know as much as I played.
+
+00:00:57.500 --> 00:01:02.540
+Yeah, I only knew nothing about this until I played it recently, but...
+
+00:01:02.540 --> 00:01:05.520
+Well, I think it's funny that you bring that up, Joe, because this is actually like a popular
+
+00:01:05.520 --> 00:01:06.700
+game back in the day.
+
+00:01:07.040 --> 00:01:09.080
+Like, this was on almost everything.
+
+00:01:09.400 --> 00:01:11.480
+Yeah. A lot of computers play this game.
+
+00:01:11.600 --> 00:01:12.900
+It's big on the Apple II, actually.
+
+00:01:12.900 --> 00:01:15.560
+It's mostly known for its Apple II release.
+
+00:01:15.980 --> 00:01:17.840
+And that was back in 1983.
+
+00:01:19.280 --> 00:01:25.880
+And while not a big success on the NES, the port is simple enough that they managed to convert
+
+00:01:25.880 --> 00:01:28.020
+it to, like, anything that would play it.
+
+00:01:28.780 --> 00:01:30.140
+So... I believe that.
+
+00:01:30.340 --> 00:01:32.180
+Yeah. Like, I mean, it's fairly simple, right?
+
+00:01:32.180 --> 00:01:35.760
+It's not like, oh, how are we gonna write the code for this one?
+
+00:01:36.320 --> 00:01:40.360
+But it actually was one of the first Famicom third-party games.
+
+00:01:40.520 --> 00:01:43.900
+This game came out in 1984 on the Famicom.
+
+00:01:43.900 --> 00:01:47.280
+So that's before the NES even comes to America.
+
+00:01:47.500 --> 00:01:48.660
+I feel like that's a waste.
+
+00:01:48.900 --> 00:01:54.620
+Like, it's a waste of, like, a superlative, like, first third-party game, or if...
+
+00:01:54.620 --> 00:01:56.320
+Unless it was just one of the first.
+
+00:01:56.440 --> 00:01:57.980
+Yeah, it's not the official first.
+
+00:01:58.080 --> 00:01:59.660
+Unless it was just, like, really popular.
+
+00:02:00.100 --> 00:02:01.120
+And people, like...
+
+00:02:01.120 --> 00:02:04.180
+It's all very questionable. People were really hyped that this was on...
+
+00:02:05.180 --> 00:02:06.400
+That this was on NES.
+
+00:02:06.640 --> 00:02:08.440
+They were like, oh, man, now I don't have to buy an Apple II.
+
+00:02:08.440 --> 00:02:13.580
+But I do wonder about, like, how it got big over in Japan, like, big enough to scoop up,
+
+00:02:13.620 --> 00:02:14.740
+like, a Famicom release.
+
+00:02:14.940 --> 00:02:16.820
+Yeah. Because it is a Western...
+
+00:02:16.820 --> 00:02:18.920
+I mean, it was developed by Doug Smith.
+
+00:02:19.000 --> 00:02:20.040
+That's one guy.
+
+00:02:20.260 --> 00:02:24.540
+Okay? I don't know it personally, but I'm gonna say his name like that just because...
+
+00:02:24.540 --> 00:02:26.000
+I feel like you gotta include, like, allegedly.
+
+00:02:26.440 --> 00:02:29.140
+Well, we never... We never had that before, really.
+
+00:02:29.240 --> 00:02:32.540
+Like, you know, a game made by, like, one person.
+
+00:02:33.220 --> 00:02:36.040
+Is his... Does he have, like, his name, like, on the title screen?
+
+00:02:36.040 --> 00:02:38.120
+Yeah, he has his name in a lot of places.
+
+00:02:39.440 --> 00:02:43.900
+Maybe not for the NES release because Hudson Soft did the porting for that.
+
+00:02:44.060 --> 00:02:47.060
+He didn't actually, like, do the converting for each system.
+
+00:02:47.220 --> 00:02:49.240
+He's responsible for the computer releases.
+
+00:02:49.540 --> 00:02:52.160
+Okay. But, yeah, that was like, you know...
+
+00:02:52.160 --> 00:02:53.860
+Any games were a thing even back then.
+
+00:02:54.060 --> 00:02:56.000
+Even in Japan, there's a lot of...
+
+00:02:56.000 --> 00:02:58.000
+For the computers, a lot of people were doing that.
+
+00:02:58.120 --> 00:02:59.580
+Even Iwata was doing that.
+
+00:03:00.080 --> 00:03:02.520
+I just want to get Doug on the line.
+
+00:03:02.900 --> 00:03:04.060
+Like, I feel like he's accessible.
+
+00:03:04.060 --> 00:03:07.080
+It's kind of a shame that we don't have Doug as a special guest for this episode.
+
+00:03:07.200 --> 00:03:08.580
+I know. Like, we could probably...
+
+00:03:08.580 --> 00:03:11.020
+Until now. Hey, it's Doug.
+
+00:03:11.220 --> 00:03:12.240
+Look under your seat.
+
+00:03:12.640 --> 00:03:16.420
+Joe was about to be arrested for impersonating a game developer.
+
+00:03:17.440 --> 00:03:19.580
+Yeah, you didn't say his last name, so you could have just been any Doug.
+
+00:03:19.580 --> 00:03:20.540
+People call me Doug sometimes.
+
+00:03:20.740 --> 00:03:26.040
+Yeah, Doug from the hit Nickelodeon or Disney show, depending on which one you watched.
+
+00:03:26.300 --> 00:03:31.300
+So is this the part of the show where you tell us all about Doug and his life story and how he made the game?
+
+00:03:31.300 --> 00:03:35.480
+I don't really want to talk too much about Doug because I couldn't find a whole lot out there on him,
+
+00:03:35.600 --> 00:03:38.720
+but I just thought it was worth noting that he developed the entire game.
+
+00:03:39.160 --> 00:03:41.020
+It is published in the U.S.
+
+00:03:41.100 --> 00:03:45.560
+by Broderbund, the guys who brought us Deadly Towers, and we hate that.
+
+00:03:45.660 --> 00:03:48.220
+Classic. What? Was that where we landed on that?
+
+00:03:48.320 --> 00:03:50.400
+No, I'm just kidding. I was like, are you sure?
+
+00:03:51.440 --> 00:03:56.940
+I mean, there was a lot to be said about Deadly Towers that I don't want to talk about again here,
+
+00:03:57.120 --> 00:04:02.680
+but I don't feel like I'm holding it against Lode Runner knowing that it was developed by an entirely different guy.
+
+00:04:02.960 --> 00:04:08.960
+Yeah. A lot of times we see familiar company names, and we immediately think about what else they've delivered to us.
+
+00:04:09.080 --> 00:04:12.180
+In this case, I'm just thinking Broderbund is just a publisher.
+
+00:04:12.200 --> 00:04:17.880
+They had no hand in the actual development of even the NES port, I feel like.
+
+00:04:17.880 --> 00:04:23.220
+But having played that game, Deadly Towers, and just recently having played this game,
+
+00:04:24.420 --> 00:04:27.500
+it's not, because these are some of their first games that they've published,
+
+00:04:27.760 --> 00:04:32.540
+and it's just not a good look for me.
+
+00:04:32.740 --> 00:04:34.760
+Spoiler alert. Their taste, I would say.
+
+00:04:35.240 --> 00:04:37.440
+Like, their best foot forward, maybe.
+
+00:04:38.360 --> 00:04:40.060
+Anyway. Yeah, no, that's fine.
+
+00:04:40.120 --> 00:04:43.260
+In fact, since we're talking about the game now, why don't we do some first impressions?
+
+00:04:43.700 --> 00:04:45.020
+Sam, you want to start us off?
+
+00:04:45.020 --> 00:04:48.680
+It just kind of looks like a generic arcade game to me.
+
+00:04:48.920 --> 00:04:54.380
+You know, there's guys you've got to avoid, there's things you've got to climb, things you've got to collect.
+
+00:04:54.760 --> 00:04:57.320
+I don't know, it wasn't really, nothing really jumped out at me.
+
+00:04:57.420 --> 00:04:58.560
+It wasn't, like, colorful.
+
+00:04:58.680 --> 00:05:00.260
+I think it's just a black background.
+
+00:05:01.080 --> 00:05:02.680
+Well, you were in space, right?
+
+00:05:03.300 --> 00:05:07.900
+Well, you were in space, and now you're on the planet of, I'm not sure what the...
+
+00:05:07.900 --> 00:05:10.400
+The Bungles or something. Yeah, we're going to have to talk about that.
+
+00:05:11.800 --> 00:05:15.780
+Sean revealing that as if it's, like, commonly known knowledge that you're in space.
+
+00:05:15.840 --> 00:05:19.040
+I don't know. I just feel like to most people, it's like you're in a cave.
+
+00:05:19.240 --> 00:05:21.580
+I mean, it looked like I was in a cave until I read the manual.
+
+00:05:21.780 --> 00:05:27.560
+I will say that, like, going up ladders in some NES games has been difficult for some reason.
+
+00:05:27.680 --> 00:05:30.720
+Like, you know, the transition between walking on the ground and, like, climbing.
+
+00:05:30.720 --> 00:05:32.120
+It was very difficult even in Donkey Kong.
+
+00:05:32.120 --> 00:05:34.740
+Yeah, this, I think they get ladders right.
+
+00:05:35.180 --> 00:05:36.500
+So if there's anything...
+
+00:05:36.500 --> 00:05:37.660
+There's one point. Yeah. One point.
+
+00:05:38.360 --> 00:05:40.020
+They get ladders right in this game.
+
+00:05:40.180 --> 00:05:42.700
+If you're a big fan of ladders, you'll love Ladder.
+
+00:05:43.020 --> 00:05:43.840
+Yeah, you're right.
+
+00:05:43.960 --> 00:05:46.000
+This is a perfect ladder simulator.
+
+00:05:46.020 --> 00:05:48.980
+Well, you think about how poorly elevator action handled stairs.
+
+00:05:49.500 --> 00:05:51.900
+Well, hold on. Well, I mean, think about what you just said.
+
+00:05:54.640 --> 00:05:57.220
+They made them hard on purpose because...
+
+00:05:57.220 --> 00:06:00.860
+It's propaganda against stairs. Right, they wanted people to use the elevator, so they made the stairs hard.
+
+00:06:00.860 --> 00:06:05.280
+Where did we land on the ladder simulation in Wrecking Crew?
+
+00:06:06.080 --> 00:06:07.240
+Like, was that... I was a fan of that.
+
+00:06:07.460 --> 00:06:08.920
+Oh, you know what? Yeah, never mind.
+
+00:06:09.060 --> 00:06:10.320
+They have pretty ladders, too.
+
+00:06:10.360 --> 00:06:14.020
+I don't know if there was a time in Wrecking Crew that I ever had to, like, catch a ladder
+
+00:06:14.020 --> 00:06:15.820
+in the air, and I feel like you'd do that in this game.
+
+00:06:15.920 --> 00:06:17.700
+Yeah. Which, I don't know if you could have.
+
+00:06:17.800 --> 00:06:19.000
+So it's a little bit more...
+
+00:06:19.000 --> 00:06:21.600
+It's more detailed ladder simulation.
+
+00:06:22.480 --> 00:06:26.440
+The physics is better in this game than I've seen in other arcade games like this.
+
+00:06:26.700 --> 00:06:30.520
+Okay. Like, climbing across that little clothesline is easier in this game.
+
+00:06:30.520 --> 00:06:33.840
+You see what happens when you soul search for your first impressions, Sam?
+
+00:06:34.000 --> 00:06:37.900
+You went from, I have no idea what I'm about to say, to, I have a lot of thoughts on ladders.
+
+00:06:38.080 --> 00:06:39.100
+No, it just got me thinking.
+
+00:06:39.320 --> 00:06:43.920
+Great. Joe, what are your first impressions on the game, not ladders?
+
+00:06:44.800 --> 00:06:46.260
+But you're allowed to talk about that.
+
+00:06:46.260 --> 00:06:52.080
+All right, all right. I'm going to kind of mirror what Sam said before the ladder stuff, which was, you know, I actually
+
+00:06:52.080 --> 00:06:54.160
+started out reading the manual, which I don't do a lot.
+
+00:06:54.260 --> 00:06:55.500
+I don't read the manual first a lot.
+
+00:06:55.740 --> 00:07:00.280
+But while I was reading it, I was kind of already a little, like, worn out on this idea,
+
+00:07:00.300 --> 00:07:03.640
+because I was like, this feels like we've had so many of these arcade games.
+
+00:07:03.800 --> 00:07:08.700
+I'm just kind of overall, like, I was unfairly just saying, like, I'm already overall just,
+
+00:07:08.780 --> 00:07:11.240
+like, tired of this. It looks like something that I already know what it is.
+
+00:07:13.040 --> 00:07:16.380
+So it just being that, like, generic arcade game kind of turned me off right away.
+
+00:07:16.500 --> 00:07:20.840
+And it did better once I was playing it than I thought it was going to.
+
+00:07:20.940 --> 00:07:22.580
+Like, I enjoyed it more than I thought I was going to.
+
+00:07:22.680 --> 00:07:24.880
+But middle of the road, at least at the beginning.
+
+00:07:25.300 --> 00:07:30.440
+Specifically for you, Joe, when you say arcade game, right, is it the fact that it's going
+
+00:07:30.440 --> 00:07:34.900
+to be a very simple, repetitive gameplay loop that bothers you?
+
+00:07:35.100 --> 00:07:38.840
+Is it the, like, high score featured mechanic that bothers you?
+
+00:07:38.840 --> 00:07:40.300
+Like, what is it about the arcade thing?
+
+00:07:40.380 --> 00:07:43.300
+Well, I also use the term arcade game very, like, loosely.
+
+00:07:43.660 --> 00:07:47.680
+I'm not, like, there's actually nothing about it that, like, means that these are just arcade
+
+00:07:47.680 --> 00:07:50.320
+games. Yeah, I've heard you call Final Fantasy an arcade game.
+
+00:07:50.340 --> 00:07:51.300
+You have not heard that.
+
+00:07:51.740 --> 00:07:53.600
+I have absolutely not heard that.
+
+00:07:53.600 --> 00:08:01.300
+Do not put tarnished my name. I would like to maybe step in and say that I could see this game with, like, the insert
+
+00:08:01.300 --> 00:08:02.940
+coin overlay under it.
+
+00:08:03.080 --> 00:08:05.000
+Right. So I think maybe that is what you mean.
+
+00:08:05.000 --> 00:08:07.520
+Yeah, I guess I'm thinking more of, like, a specific, like,
+
+00:08:09.060 --> 00:08:10.220
+type of arcade game.
+
+00:08:10.380 --> 00:08:14.080
+Like, a Donkey Kong style thing, which I'm not even a big fan of Donkey Kong, where it's
+
+00:08:14.080 --> 00:08:15.520
+just like this, yeah, it's like one screen.
+
+00:08:15.680 --> 00:08:17.420
+Granted, this is, like, a little more than one screen.
+
+00:08:18.000 --> 00:08:22.120
+But, like, you're climbing landers, you're grabbing, I guess not, but, you know, you're
+
+00:08:22.120 --> 00:08:24.640
+grabbing little power-ups and stuff, but, I don't know.
+
+00:08:24.780 --> 00:08:27.500
+It's just, it's just that sort of style.
+
+00:08:27.500 --> 00:08:30.520
+I'm, like, drawing with my hands right now, like the listeners can hear, can see me.
+
+00:08:30.520 --> 00:08:37.580
+But, it's just like that sort of style of arcade game that I'm just never been big on.
+
+00:08:37.740 --> 00:08:39.360
+I think you explained it very well.
+
+00:08:40.000 --> 00:08:41.540
+Sean, first impression.
+
+00:08:41.900 --> 00:08:50.020
+Well, ladder physics notwithstanding, I will just jump on the meh parade here of, yeah,
+
+00:08:50.140 --> 00:08:53.960
+I mean, this is a pretty simple game in every instance.
+
+00:08:54.540 --> 00:09:00.940
+And, um, I, I thought it was, you know, at least, like, the controls are tight, and the
+
+00:09:02.620 --> 00:09:04.480
+enemies behave correctly.
+
+00:09:05.300 --> 00:09:12.840
+And, um, I guess, like, there is some critical thinking involved, but as far as puzzle platformers
+
+00:09:12.840 --> 00:09:17.440
+go, this is a pretty, like, I'm nonplussed by it.
+
+00:09:17.920 --> 00:09:21.720
+And then, uh, just for you, Sean, here, since you brought up the enemies and stuff like that,
+
+00:09:21.720 --> 00:09:25.700
+AI in NES games so far, what's the verdict?
+
+00:09:26.640 --> 00:09:33.540
+I, I, some games have done well, at least with pathfinding and trying to, uh, like, ambush
+
+00:09:33.540 --> 00:09:36.720
+you, I guess. Especially in a game like this, that's the whole thing, isn't it?
+
+00:09:36.860 --> 00:09:42.900
+Yeah, that is the whole thing. Um, but that has been, like, it's been this, uh, what's the word?
+
+00:09:43.360 --> 00:09:48.720
+It's been this in, intentional, like, since at least, like, Pac-Man.
+
+00:09:48.980 --> 00:09:52.680
+Right, okay. So, it's not that impressive, it's just like, yeah, it works.
+
+00:09:53.000 --> 00:09:57.060
+Yeah. I think the AI's like, well, I don't want to get to, I'll get into it later.
+
+00:09:57.340 --> 00:10:00.820
+Okay. Yeah. Alright, so that was first impressions, and I think that was great.
+
+00:10:01.000 --> 00:10:05.260
+Real quick, my first impression of the game, I cheated a little bit by doing some research
+
+00:10:05.260 --> 00:10:09.840
+on this, and I was actually just very surprised to find out that it didn't all take place on
+
+00:10:09.840 --> 00:10:14.720
+one screen, uh, and that it does, like, have a scrolling screen, because all the other
+
+00:10:14.720 --> 00:10:19.140
+versions of this game, uh, especially the original computer versions, all took place
+
+00:10:19.140 --> 00:10:20.600
+on one screen.
+
+00:10:20.860 --> 00:10:25.540
+Oh. With the scale of the game significantly, like, zoomed back.
+
+00:10:25.820 --> 00:10:30.700
+Yeah. To the point where you're just a little stick figure, and you can see every piece of gold,
+
+00:10:30.980 --> 00:10:33.780
+every ladder, every enemy, all at one time.
+
+00:10:34.040 --> 00:10:35.320
+So, I think that would be much better.
+
+00:10:35.420 --> 00:10:36.280
+That makes way more sense.
+
+00:10:36.560 --> 00:10:39.400
+Yeah. Because there were times where I just, I didn't know what to do, because I didn't
+
+00:10:39.400 --> 00:10:40.340
+know where the enemies were.
+
+00:10:40.600 --> 00:10:44.040
+Right, and you have to kind of prepare for that, because I think one thing that we're
+
+00:10:44.040 --> 00:10:49.460
+about to talk about is maybe the objective slash how to play of the game, because the
+
+00:10:49.460 --> 00:10:55.340
+only way that you really have to work around the enemies is by, uh, like, removing the,
+
+00:10:56.040 --> 00:10:57.040
+um... Gold?
+
+00:10:57.220 --> 00:10:58.200
+The... No, um...
+
+00:10:58.480 --> 00:11:00.020
+The floor. Oh, removing the floor.
+
+00:11:00.120 --> 00:11:02.100
+Oh, yeah. Removing the floor around them, so this way they fall through it.
+
+00:11:02.100 --> 00:11:03.580
+We haven't really talked about that. We should talk about that.
+
+00:11:03.600 --> 00:11:05.580
+Yeah. So, go ahead, Sean.
+
+00:11:05.580 --> 00:11:10.220
+So, in Lode Runner, I don't really know what you are, but you...
+
+00:11:10.220 --> 00:11:11.480
+You're a Galactic Commando.
+
+00:11:11.500 --> 00:11:13.320
+You're a Galactic Commando that went out...
+
+00:11:13.320 --> 00:11:14.300
+With a pretty good shovel.
+
+00:11:14.320 --> 00:11:21.160
+Equipped with a shovel, and apparently your only mode of defense is to dig a hole for your
+
+00:11:21.160 --> 00:11:27.040
+enemies to fall in, um, but you're also trying to collect big mounds of gold while you do
+
+00:11:27.040 --> 00:11:34.200
+that. Now, these enemies that follow you around and try and kick you off their planet cave, whatever
+
+00:11:34.200 --> 00:11:40.280
+it is, um, will sometimes pick up the gold, and you have to, uh, bury them in order to
+
+00:11:40.280 --> 00:11:46.500
+get it back. It's typical, like, you know, mid-80s Japanese arcade game, like, logic.
+
+00:11:46.880 --> 00:11:50.100
+Yeah, it's like a maze more than anything, right?
+
+00:11:50.200 --> 00:11:54.980
+Yeah. Like, you're kind of exploring each level in the sense of it being a thing that you have
+
+00:11:54.980 --> 00:11:59.000
+to explore, figuring out the best way to get the gold without being touched.
+
+00:11:59.000 --> 00:12:00.640
+Exactly. You don't want to get touched.
+
+00:12:00.940 --> 00:12:04.840
+And you can choose to dig a hole on your left or dig a hole on your right.
+
+00:12:04.960 --> 00:12:10.160
+You may not dig a hole under you, and it's best not to run into one of your holes.
+
+00:12:11.120 --> 00:12:14.300
+Yeah, because... Well, I'd say it's crucial not to run into one of your holes.
+
+00:12:14.520 --> 00:12:15.800
+Yeah. Why would you say that?
+
+00:12:15.980 --> 00:12:17.120
+In some cases, you want to, though.
+
+00:12:17.180 --> 00:12:20.720
+In some cases, you might need to drop down on something that's below your hole.
+
+00:12:20.880 --> 00:12:23.400
+That's true. But you can't get out of your hole once you're in your hole.
+
+00:12:23.560 --> 00:12:25.880
+Well, no, but sometimes the hole, like, if you're on, like, a...
+
+00:12:25.880 --> 00:12:26.940
+If you're on a platform...
+
+00:12:26.940 --> 00:12:28.440
+Oh, that's true. Yeah, then you can drop down.
+
+00:12:28.740 --> 00:12:32.700
+Okay, yeah. I guess I meant that more in the, like, you know, you'll accidentally kill yourself way.
+
+00:12:32.840 --> 00:12:35.100
+But yeah, that's true. It is another way of navigating.
+
+00:12:35.140 --> 00:12:36.700
+Yeah, the holes do fill back in seconds after you dig them.
+
+00:12:37.500 --> 00:12:42.480
+And so the game, you know, we haven't really described it in full yet, but it's just a
+
+00:12:42.480 --> 00:12:44.720
+bunch of, like, blocks, right?
+
+00:12:44.840 --> 00:12:48.840
+Like, you're just walking on, like, the equivalent of, like, brick wall blocks.
+
+00:12:49.340 --> 00:12:51.460
+And they're not brick walls, obviously, because you're creating...
+
+00:12:51.460 --> 00:12:55.440
+You know, they're dirt. But it's not a very, like, visually enhanced game.
+
+00:12:55.900 --> 00:12:57.280
+It's kind of just...
+
+00:12:57.280 --> 00:12:58.600
+I don't... I'm not saying abstract.
+
+00:12:58.600 --> 00:13:03.240
+You can tell what everything is, but it's so simple that it doesn't leave...
+
+00:13:03.240 --> 00:13:06.900
+Like, it leads it all to your imagination, and I'm not trying to imagine anything as crazy
+
+00:13:06.900 --> 00:13:08.940
+as the manuals leading me on to believe.
+
+00:13:09.860 --> 00:13:13.500
+But hey, this is, like, one of the first games, I guess, along with Wrecking Crew, which
+
+00:13:13.960 --> 00:13:16.780
+could put on the back of the box, like, fully destructible environments.
+
+00:13:17.280 --> 00:13:18.240
+You know, like, that just...
+
+00:13:18.240 --> 00:13:19.400
+That got big in the mid-2000s.
+
+00:13:19.400 --> 00:13:24.340
+Yeah, not even Crackdown 3 could complete the fully destructible environment thing that
+
+00:13:24.340 --> 00:13:25.440
+they were tooting for years.
+
+00:13:25.740 --> 00:13:29.260
+But is it fully destructible if everything you destruct comes right back immediately?
+
+00:13:29.620 --> 00:13:31.640
+Well, also, the ladders are indestructible.
+
+00:13:32.120 --> 00:13:33.020
+As they should be.
+
+00:13:33.280 --> 00:13:34.320
+Yeah, that's ladder physics.
+
+00:13:34.440 --> 00:13:37.040
+Yeah, ladder physics explain that things aren't destructible.
+
+00:13:37.820 --> 00:13:42.740
+All right, to bring it back to the manual for a second, I feel like we owe everybody...
+
+00:13:42.740 --> 00:13:44.460
+We owe everybody the plot.
+
+00:13:44.920 --> 00:13:49.280
+Yeah, we owe everybody the plot, at least, because, as Sean said, this game does take
+
+00:13:49.280 --> 00:13:50.260
+place in space.
+
+00:13:50.540 --> 00:13:54.420
+You are a galactic commando deep in enemy territory.
+
+00:13:55.000 --> 00:14:00.360
+Power-hungry, and I'm going to emphasize hungry here, leaders of the repressive, bungling
+
+00:14:00.360 --> 00:14:05.100
+empire have stolen a fortune in gold from the people.
+
+00:14:05.600 --> 00:14:08.240
+That's... Wait, did they say repressive or oppressive?
+
+00:14:08.480 --> 00:14:09.700
+They said repressive.
+
+00:14:09.960 --> 00:14:12.540
+Interesting. Yeah, interesting choice of words.
+
+00:14:12.700 --> 00:14:14.940
+Wait, you're not even sure where this is about to go, okay?
+
+00:14:16.400 --> 00:14:21.640
+They've taken a fortune in gold from the people, whether that's from this planet or another
+
+00:14:21.640 --> 00:14:22.960
+planet. People capitalized or...
+
+00:14:22.960 --> 00:14:24.460
+People is not capitalized.
+
+00:14:24.560 --> 00:14:27.000
+I'm emphasizing the people more than they are.
+
+00:14:27.580 --> 00:14:33.680
+And they've taken all this gold from the people by means of excessive fast food taxes.
+
+00:14:34.900 --> 00:14:38.580
+What? Yeah, they've taxed the fast food.
+
+00:14:38.800 --> 00:14:40.100
+Oh. And so, like...
+
+00:14:40.100 --> 00:14:41.360
+They didn't even, like, raid for it?
+
+00:14:41.380 --> 00:14:42.280
+Is that really stealing?
+
+00:14:42.520 --> 00:14:43.600
+Yeah. It sounds like...
+
+00:14:43.600 --> 00:14:45.300
+This game has, like, a political agenda, right?
+
+00:14:45.560 --> 00:14:47.120
+Wait, do they take over...
+
+00:14:47.120 --> 00:14:48.040
+They took over the government?
+
+00:14:48.400 --> 00:14:53.120
+Yeah, well, the bungling empire would be presumably the government itself, right?
+
+00:14:54.360 --> 00:14:55.400
+Taxation is theft.
+
+00:14:56.100 --> 00:14:58.000
+Yeah. It's essentially what the game is.
+
+00:14:58.120 --> 00:15:05.940
+Honestly. So, now your task is to infiltrate each of the 50 different treasure rooms.
+
+00:15:05.960 --> 00:15:07.700
+That's right. There's 50 levels in this game.
+
+00:15:07.800 --> 00:15:13.760
+Oh, jeez. And evade the deadly bungling guards and recover every stack of bungling booty.
+
+00:15:14.080 --> 00:15:16.260
+For taxes? It's just a terrible name.
+
+00:15:17.000 --> 00:15:18.340
+Yeah. Bungling booty.
+
+00:15:18.340 --> 00:15:22.440
+Also, wait, if you're taking the gold, right, which is the taxing of the people, are you
+
+00:15:22.440 --> 00:15:23.860
+then redistributing the wealth?
+
+00:15:23.980 --> 00:15:25.480
+It does not say. Or are you keeping it for yourself?
+
+00:15:25.480 --> 00:15:27.040
+I feel like you're... I don't remember a cutscene.
+
+00:15:27.080 --> 00:15:29.860
+You're taking my tax dollars and keeping it for yourself.
+
+00:15:29.860 --> 00:15:30.920
+You're lining your own pockets.
+
+00:15:31.040 --> 00:15:34.760
+I don't want to play a game where somebody else goes to, like, the, you know, the Federal
+
+00:15:34.760 --> 00:15:38.520
+Reserve and steals all the money and then it's like, I was already taxed on that.
+
+00:15:38.520 --> 00:15:40.000
+They're taxing fast food also.
+
+00:15:40.200 --> 00:15:41.580
+Like, that's not that bad. Yeah.
+
+00:15:41.820 --> 00:15:43.300
+They could be doing a whole lot worse.
+
+00:15:43.680 --> 00:15:45.380
+But these people are trying to kill you over it?
+
+00:15:47.060 --> 00:15:50.860
+Did you mean sin tax isn't, like, a computer language or it's a sin to tax?
+
+00:15:51.140 --> 00:15:53.960
+No, it's a tax on a sin, like obesity.
+
+00:15:54.220 --> 00:15:57.820
+Oh, okay. Or, like, you know, I guess, uh, uh, what's, what's the word?
+
+00:15:58.080 --> 00:15:59.300
+Not... Gluttony? Gluttony.
+
+00:15:59.440 --> 00:16:02.340
+Yeah. Gluttony. It's a, it's a nanny state maneuver.
+
+00:16:02.880 --> 00:16:04.780
+Wow. Yeah. I love where this is going.
+
+00:16:05.000 --> 00:16:07.480
+This has been a fantastic episode so far.
+
+00:16:07.480 --> 00:16:08.900
+Between the lines of the manual there.
+
+00:16:09.220 --> 00:16:11.820
+I was going to say, maybe it's time for us to talk about gameplay.
+
+00:16:12.380 --> 00:16:13.700
+We've been talking about it.
+
+00:16:14.620 --> 00:16:15.920
+We have been talking about it.
+
+00:16:15.980 --> 00:16:17.760
+I don't, I don't really actually know where I was about to.
+
+00:16:17.940 --> 00:16:20.140
+Leave it out. Anything but what we're talking about.
+
+00:16:21.060 --> 00:16:25.360
+The, uh, a couple of interesting things for you guys when it comes to the NES version of
+
+00:16:25.360 --> 00:16:29.440
+this game, other than the fact that they removed, like, the best feature that it could
+
+00:16:29.440 --> 00:16:33.940
+all be handled on one screen, presumably a programming limit for the NES maybe.
+
+00:16:34.260 --> 00:16:37.020
+Like, it was like, oh, but if you try to put it all on one screen.
+
+00:16:37.020 --> 00:16:39.340
+I think it was more just probably like a resolution thing.
+
+00:16:39.600 --> 00:16:41.600
+Oh, okay. Yeah. I guess, I guess that's what I meant.
+
+00:16:41.720 --> 00:16:43.840
+Yeah. But you're, yeah, you're making more sense out of it.
+
+00:16:43.960 --> 00:16:48.520
+Yeah. Okay. There's a great video by, um, the 8-bit guy on YouTube.
+
+00:16:48.720 --> 00:16:49.980
+Oh, yeah. A very wholesome guy.
+
+00:16:50.320 --> 00:16:51.640
+Um, no, seriously, wholesome.
+
+00:16:51.880 --> 00:16:58.260
+Okay. And he does a video explaining, like, NES graphics and just, like, how, how they work and how
+
+00:16:58.260 --> 00:17:01.260
+you, like, design a sprite and how that sprite is read in the memory.
+
+00:17:01.420 --> 00:17:02.840
+So, I'll, I'll link that video.
+
+00:17:02.840 --> 00:17:05.100
+I think it's really cool and worth checking out.
+
+00:17:05.100 --> 00:17:11.720
+But the NES version of this game has the 50 levels, has the scrolling screens, and added
+
+00:17:11.720 --> 00:17:17.060
+music. There was no music in the other versions of this game before the NES version.
+
+00:17:17.280 --> 00:17:18.480
+Might that have been preferable?
+
+00:17:18.860 --> 00:17:20.600
+Um, you know, I think so.
+
+00:17:20.740 --> 00:17:24.900
+Because, uh, if anybody would like to sing the track right now, go for it.
+
+00:17:24.960 --> 00:17:26.660
+But I guarantee you do not remember it.
+
+00:17:26.720 --> 00:17:27.960
+I don't. Nope.
+
+00:17:28.220 --> 00:17:29.360
+Yeah. Well, actually, no.
+
+00:17:29.360 --> 00:17:33.260
+Okay, I was gonna say, that'd be crazy if you just have, like, all of the NES tunes
+
+00:17:33.260 --> 00:17:34.880
+we've played so far stuck in your head.
+
+00:17:35.420 --> 00:17:39.300
+I'm sure some of the listeners do, because we play all the music in between this stuff,
+
+00:17:39.360 --> 00:17:41.400
+and I'm sure some of them wish we would just get on with the show.
+
+00:17:41.840 --> 00:17:43.520
+Would you have already played this?
+
+00:17:43.620 --> 00:17:44.700
+I would have at least played that.
+
+00:17:44.860 --> 00:17:48.920
+If it is just the one track that I'm thinking that it is, then I would have played it by now.
+
+00:17:48.920 --> 00:17:50.940
+So, listeners, you go ahead and hum it out loud.
+
+00:17:51.000 --> 00:17:52.300
+Wait, you mean this track? You just play it again right now?
+
+00:17:52.420 --> 00:17:53.940
+Do you want me to play a track from a different game?
+
+00:17:54.000 --> 00:17:54.960
+No, no, the same track.
+
+00:17:55.180 --> 00:17:56.480
+All right, I'll play it. This is Muck Rider.
+
+00:17:58.220 --> 00:17:59.400
+Yeah, sure, I'll play it right now.
+
+00:18:27.960 --> 00:18:28.780
+Yeah, that one.
+
+00:18:29.060 --> 00:18:30.080
+So, that's the one song.
+
+00:18:31.280 --> 00:18:36.660
+That's the one song, and then also, the graphics were redone in a more cartoon style.
+
+00:18:37.020 --> 00:18:42.760
+And then, the biggest addition, in my opinion, fruits and vegetables randomly appear, which
+
+00:18:42.760 --> 00:18:44.160
+may be grabbed for additional points.
+
+00:18:44.740 --> 00:18:45.980
+There were no fruits and vegetables.
+
+00:18:46.100 --> 00:18:49.440
+How was the game even playable before the NES version?
+
+00:18:49.440 --> 00:18:51.560
+See, now the fruits and vegetables makes more sense.
+
+00:18:51.720 --> 00:18:53.440
+Right. Because of the fast food tax.
+
+00:18:53.680 --> 00:18:55.320
+Yes, exactly. I'm glad you understand.
+
+00:18:55.320 --> 00:18:56.200
+So, it's like, you can just get these.
+
+00:18:56.480 --> 00:18:59.380
+Yeah, this is actually a post-burger time world.
+
+00:19:01.240 --> 00:19:05.840
+Where people, the chef from Burger Time is having so many nightmares about making those
+
+00:19:05.840 --> 00:19:10.080
+patties that he decided to tax all of the people, so this way he wouldn't have to make
+
+00:19:10.080 --> 00:19:11.660
+any more burgers. I didn't know this whole time.
+
+00:19:11.660 --> 00:19:12.500
+Emphasis on the people.
+
+00:19:12.880 --> 00:19:15.820
+Right. I know this whole time we were in the bungling empire.
+
+00:19:15.980 --> 00:19:17.920
+It's all part of the NES cinematic universe.
+
+00:19:18.080 --> 00:19:19.480
+Yeah. Okay. Yep.
+
+00:19:20.220 --> 00:19:25.260
+And then a level editor, of course, is included in the game, but there's no way to save levels.
+
+00:19:25.640 --> 00:19:27.020
+So, hooray.
+
+00:19:27.360 --> 00:19:30.460
+Another one of those. But did anybody play around with that?
+
+00:19:30.620 --> 00:19:33.600
+Yeah. I dabbled in it a little bit because I do like the level editors.
+
+00:19:33.960 --> 00:19:39.560
+This one, though, I mean, I think I need to say a little bit more about the gameplay as well.
+
+00:19:39.560 --> 00:19:45.780
+But with this level editor, I think it's just that this game is even simpler than Wrecking Crew.
+
+00:19:46.720 --> 00:19:51.800
+It's not as fun to me to set up the levels because there's not as much to play with to make an interesting puzzle.
+
+00:19:52.640 --> 00:19:58.240
+Yeah, it's almost like, and it's not as much fun as this, but we were talking about Pac-Man earlier.
+
+00:19:58.360 --> 00:20:06.240
+Sean mentioned that. And I think that if you were given a level creator for Pac-Man, it's not like, oh my god, sky's the limit.
+
+00:20:06.260 --> 00:20:08.000
+I want to create so many levels.
+
+00:20:08.000 --> 00:20:15.640
+It's like, you could create a few, and Pac-Man Championship Edition has some great new levels that people haven't played before.
+
+00:20:15.800 --> 00:20:17.120
+Gimmicky levels. Yeah, gimmicky things.
+
+00:20:17.300 --> 00:20:22.820
+But it's not, at the end of the day, all you're trying to do is just avoid other enemies and pick up gold.
+
+00:20:22.900 --> 00:20:28.100
+In Wrecking Crew, you had a more defined objective that made puzzling cool.
+
+00:20:28.340 --> 00:20:31.100
+In this one, there's not many puzzles to solve.
+
+00:20:31.160 --> 00:20:32.300
+It's not really a puzzle game.
+
+00:20:32.300 --> 00:20:33.240
+It's just a maze.
+
+00:20:33.820 --> 00:20:35.940
+Yeah. Wow. Maze is a puzzle.
+
+00:20:36.480 --> 00:20:38.120
+That's true. I think what...
+
+00:20:38.120 --> 00:20:39.360
+I didn't... Well, you know what?
+
+00:20:39.460 --> 00:20:41.980
+I'm not going to rescind it, but I understand what you're getting at.
+
+00:20:42.100 --> 00:20:47.420
+Are mazes puzzles? Mazes are puzzles in the sense that you have to find your way out of them, but I'm saying
+
+00:20:47.420 --> 00:20:48.520
+that there's no, like...
+
+00:20:48.520 --> 00:20:49.900
+It's just A to B.
+
+00:20:50.080 --> 00:20:51.720
+It's not A to B to C.
+
+00:20:51.780 --> 00:20:57.000
+When I see, like in an airport, I feel like they say mazes and puzzles, like on the little
+
+00:20:57.680 --> 00:20:58.900
+paperback books you can write in.
+
+00:20:58.900 --> 00:21:01.260
+I feel like it's all...
+
+00:21:01.260 --> 00:21:03.360
+They list both as if they're separate entities.
+
+00:21:03.680 --> 00:21:05.360
+Write in if you think a mace is a puzzle.
+
+00:21:06.260 --> 00:21:10.720
+I don't want to forget that Joe had thoughts on actual gameplay, so I'd like to get back
+
+00:21:10.720 --> 00:21:12.060
+to those actual thoughts.
+
+00:21:13.100 --> 00:21:17.200
+So, because I actually, while I was playing this, like I said, my initial impression was
+
+00:21:17.200 --> 00:21:19.100
+like, I was like, ah, like, great, another one of these.
+
+00:21:19.100 --> 00:21:21.780
+But I sort of like reluctantly had fun.
+
+00:21:22.080 --> 00:21:24.820
+Like, I was kind of like, I wanted to be like bitter about it.
+
+00:21:24.900 --> 00:21:25.860
+I'm like, no, this is stupid.
+
+00:21:26.080 --> 00:21:32.580
+But I had some fun, and I think that came from like some of the design of the way the
+
+00:21:32.580 --> 00:21:37.220
+levels work, I think, have to do with the fact that you can't dig straight below you.
+
+00:21:37.480 --> 00:21:42.560
+So like sometimes there'll be like several layers of ground, and if you don't like plan
+
+00:21:42.560 --> 00:21:47.560
+ahead when you're at the top, how many tiles back you want to go, you're going to end up
+
+00:21:47.560 --> 00:21:51.640
+trapping yourself where the only place to go is down, and then you can't go down.
+
+00:21:51.780 --> 00:21:55.180
+So like if you don't have anything right next to you, ground right next to you, you can't
+
+00:21:55.180 --> 00:21:58.060
+dig into a wall, you're trapped.
+
+00:21:58.220 --> 00:21:59.300
+Like you have to start the level over.
+
+00:21:59.380 --> 00:22:03.180
+And I think that was like a little bit of a, what presented a little bit of the challenge.
+
+00:22:03.180 --> 00:22:07.360
+The problem was, was that that was like one of the only things that made it like puzzly
+
+00:22:07.360 --> 00:22:10.660
+for me. It was like just deciding where to dig those holes.
+
+00:22:10.860 --> 00:22:11.660
+Very one dimensional.
+
+00:22:11.920 --> 00:22:13.380
+And that didn't really keep my attention for too long.
+
+00:22:13.480 --> 00:22:16.980
+And I think that that leads to a note that I had kind of going through.
+
+00:22:16.980 --> 00:22:21.860
+I didn't go through all 50 levels, but as the game progressed, in short, like levels
+
+00:22:21.860 --> 00:22:26.920
+did get harder in the sense of like enemies were killing me faster, but it wasn't becoming
+
+00:22:26.920 --> 00:22:31.080
+more challenging from like a, oh, how do I get the gold?
+
+00:22:31.240 --> 00:22:32.400
+And how do I climb the ladder?
+
+00:22:32.560 --> 00:22:34.680
+Like, you know, there was no like new obstacles.
+
+00:22:35.020 --> 00:22:41.060
+A refresh would have been good if even like every 10 levels, something new got introduced,
+
+00:22:41.240 --> 00:22:44.160
+you know, because that would at least you'd only need to come up with five new things.
+
+00:22:44.160 --> 00:22:48.900
+And then you'd, you know, like you'd be good to have some fresh gameplay every now and
+
+00:22:48.900 --> 00:22:51.000
+again, while maybe like reinventing the hook.
+
+00:22:51.360 --> 00:22:55.580
+With this, it's like, I don't know, after the first 10 levels, I'm sure that there were
+
+00:22:55.580 --> 00:22:59.720
+other levels that were harder or maybe like pose some kind of new challenge.
+
+00:22:59.720 --> 00:23:00.980
+But you already have all the concepts.
+
+00:23:00.980 --> 00:23:02.480
+Yeah, but all the concepts are down.
+
+00:23:02.480 --> 00:23:04.860
+And so it just didn't make for a very interesting gameplay.
+
+00:23:05.160 --> 00:23:09.360
+And even, even like beyond just the difficulty based on like adding new concepts, just the
+
+00:23:09.360 --> 00:23:11.620
+difficulty based on the design of the puzzles.
+
+00:23:12.040 --> 00:23:14.880
+I, after a while, I just skipped because you, it's one of those games where you don't have
+
+00:23:14.880 --> 00:23:16.960
+to play through every level. You can just skip to whatever level you want.
+
+00:23:17.240 --> 00:23:19.280
+Yeah. I just skipped to level 50 to see what it was all about.
+
+00:23:19.420 --> 00:23:22.580
+And it wasn't like much harder than some of the other levels.
+
+00:23:22.620 --> 00:23:25.340
+And in fact, I think I'd probably already played levels that were harder than that one.
+
+00:23:25.460 --> 00:23:27.780
+I don't remember exactly. Remember, we had that with Wrecking Crew too.
+
+00:23:27.920 --> 00:23:31.380
+Yeah. Which was another game where you could select levels and we kind of were like, oh, the
+
+00:23:31.380 --> 00:23:33.000
+last level is not that hard.
+
+00:23:33.060 --> 00:23:36.560
+It didn't seem like they were trying to do like a gradually getting more difficult, which
+
+00:23:36.980 --> 00:23:41.260
+makes it. I feel like when you have such a limited palette though, there's, there are only, only so many
+
+00:23:41.980 --> 00:23:50.020
+permutations of those items or all those instances of obstacle or like, you know, the ground
+
+00:23:50.020 --> 00:23:51.120
+or ladders again.
+
+00:23:51.280 --> 00:23:56.480
+Sure, that's true. But I'm saying, I'm saying even without like adding new things or anything like that, if you
+
+00:23:56.480 --> 00:23:59.980
+just take all those levels and say like, what, there must be an order to which that they're
+
+00:23:59.980 --> 00:24:03.140
+like generally to most people, like the easiest and the hardest.
+
+00:24:03.380 --> 00:24:06.780
+Yeah. And you like, I don't know, it feels weird to not put them in that order.
+
+00:24:06.880 --> 00:24:07.720
+Like it's not as rewarding.
+
+00:24:08.080 --> 00:24:13.860
+Yeah. I guess my point was just that it's, I don't think that you can make something all that
+
+00:24:13.860 --> 00:24:17.600
+much different when you only have, you know what I mean?
+
+00:24:17.720 --> 00:24:18.960
+Like when there's only so many.
+
+00:24:19.100 --> 00:24:23.000
+Wrecking Crew had so many different like enemies and types of things.
+
+00:24:23.000 --> 00:24:28.320
+And like, you know, the structure of the stages could be designed differently based on like
+
+00:24:28.320 --> 00:24:30.140
+where you place the bombs and the walls.
+
+00:24:30.680 --> 00:24:31.940
+There was just enough variables.
+
+00:24:32.160 --> 00:24:35.460
+In this one, to Sean's point, there's just not enough variables in the game to make.
+
+00:24:35.560 --> 00:24:37.360
+Especially to make 50 levels of it.
+
+00:24:37.620 --> 00:24:38.920
+Maybe you made too many levels.
+
+00:24:39.060 --> 00:24:43.080
+You could probably just get real gimmicky every now and then as like level variations.
+
+00:24:43.080 --> 00:24:46.420
+Like one with almost no floor and it's all ladders.
+
+00:24:46.900 --> 00:24:51.420
+All ladders, yeah. All ladders are all ladders and clotheslines, whatever that rope thing is.
+
+00:24:52.100 --> 00:24:53.580
+You know, but yeah, I agree.
+
+00:24:53.660 --> 00:24:55.140
+There's really not a lot you can do with it.
+
+00:24:55.280 --> 00:24:59.840
+And I do want to give, since Joe talked about like being able to select the levels, I want
+
+00:24:59.840 --> 00:25:01.320
+to give that a shout out as a feature.
+
+00:25:01.600 --> 00:25:02.400
+I kind of like that.
+
+00:25:02.400 --> 00:25:06.800
+So this way you don't have to like, let's say someone actually does like this game and
+
+00:25:06.800 --> 00:25:10.360
+like the level 21 to 29 is just really good.
+
+00:25:10.560 --> 00:25:13.600
+You don't want to have to play through all the fat again to get to that.
+
+00:25:13.600 --> 00:25:17.100
+So I do like that like the games include this as an option.
+
+00:25:17.320 --> 00:25:21.700
+I'm not saying like Ghost and Goblin should have a stage select right at the beginning,
+
+00:25:21.900 --> 00:25:23.200
+right? That's not like the same comparison.
+
+00:25:23.400 --> 00:25:26.620
+I guess I'm talking more for like Solomon's Key didn't have that.
+
+00:25:26.740 --> 00:25:30.060
+And remember how much we hated that, that like you had to go back to the beginning when
+
+00:25:30.060 --> 00:25:33.140
+you died, when you actually had an official game over.
+
+00:25:33.320 --> 00:25:36.820
+I would have liked to have just been able to see all the different variations of the puzzles
+
+00:25:36.820 --> 00:25:39.640
+because it's kind of like Sudoku, right?
+
+00:25:39.640 --> 00:25:44.320
+Like if you do like a Sudoku puzzle, you don't ever want to solve that same puzzle again.
+
+00:25:44.560 --> 00:25:46.560
+You solved it. Now you want a different thing.
+
+00:25:46.660 --> 00:25:52.240
+So this is a nitpick and I'm not really holding it against the game, but for some reason,
+
+00:25:52.720 --> 00:25:58.000
+psychologically, like if it's a game like Hitman and as soon as I buy the game, like I
+
+00:25:58.000 --> 00:26:01.040
+can play any mission that I want, like that makes sense to me.
+
+00:26:01.040 --> 00:26:07.960
+But if I'm playing an 80s NES game, for some reason, I just feel like I'm in debug mode
+
+00:26:07.960 --> 00:26:10.240
+if they give me all the levels at once.
+
+00:26:10.540 --> 00:26:11.380
+Like, I don't know.
+
+00:26:11.520 --> 00:26:17.100
+Like I feel like the progression of, you know, level one, two, three, four just makes more
+
+00:26:17.100 --> 00:26:18.180
+sense in that sort of sense.
+
+00:26:18.180 --> 00:26:19.880
+I understand. It's less rewarding when you have everything.
+
+00:26:20.020 --> 00:26:21.840
+Yeah, exactly. I understand that.
+
+00:26:21.840 --> 00:26:23.520
+It's kind of like playing with cheat codes on.
+
+00:26:23.720 --> 00:26:28.880
+Yeah. You know? And it's because like such a large precedent had already been set to say, don't do that.
+
+00:26:28.880 --> 00:26:34.260
+Yeah. Do the, do like the, you know, there's no narrative, but it's almost like if you could
+
+00:26:34.260 --> 00:26:38.660
+select in Super Mario Brothers to go right to World 8, which you kind of technically can,
+
+00:26:38.800 --> 00:26:41.980
+but like, let's say even right from the main menu, you would do it.
+
+00:26:42.240 --> 00:26:45.680
+You wouldn't be like, oh, today I'm just going to start on World 3.
+
+00:26:45.880 --> 00:26:47.260
+It's a speedrun. Yeah. Right.
+
+00:26:48.520 --> 00:26:53.020
+I realized I was going to say something about the AI earlier, and that was just that it's
+
+00:26:53.020 --> 00:26:57.340
+like really basic, but it is, you can manipulate it, which I think makes good AI.
+
+00:26:57.340 --> 00:27:00.620
+AI. So, I mean, what else is the AI supposed to do in this except for follow you?
+
+00:27:00.860 --> 00:27:04.440
+So you can kind of lead it down one way and then like juke them and go the other way.
+
+00:27:04.860 --> 00:27:10.580
+So like I did the first level without digging holes, just because I didn't realize you could
+
+00:27:10.580 --> 00:27:11.460
+do that the first time I played.
+
+00:27:12.780 --> 00:27:17.340
+But I did lots of like tricking the AI, which I, it did make me feel at least a little bit
+
+00:27:17.340 --> 00:27:19.240
+clever. So I think that, you know.
+
+00:27:19.240 --> 00:27:20.340
+Was it clever or cheesy?
+
+00:27:21.420 --> 00:27:22.780
+You know, a little bit of both.
+
+00:27:22.780 --> 00:27:23.620
+But, uh.
+
+00:27:23.900 --> 00:27:26.040
+Well, I like the juke to your point.
+
+00:27:26.140 --> 00:27:27.800
+Like I do like. You can manipulate them.
+
+00:27:27.880 --> 00:27:34.280
+Which I think is good. Yeah. Doing like sidesteps that make it seem like I'm about to jump off the ledge.
+
+00:27:34.280 --> 00:27:35.880
+Yeah. And then all the AI like starts jumping.
+
+00:27:36.040 --> 00:27:36.960
+They're like, guys, he's going to jump.
+
+00:27:37.040 --> 00:27:38.060
+And they all line up down there.
+
+00:27:38.060 --> 00:27:39.920
+Right. I'm like, you idiots. I'm getting the gold over there.
+
+00:27:40.120 --> 00:27:43.760
+Exactly. So I thought it was a nice touch because you couldn't necessarily do something like that
+
+00:27:43.760 --> 00:27:44.900
+in Donkey Kong. Yeah.
+
+00:27:44.900 --> 00:27:49.560
+Which I guess is like relative to this game since it came out in 83 and Donkey Kong came
+
+00:27:49.560 --> 00:27:55.300
+out in 81. So there is like some relative programming there that I would give Douglas Smith some credit
+
+00:27:55.300 --> 00:27:56.140
+for. Just Doug.
+
+00:27:56.540 --> 00:27:58.000
+Yeah. I called him Douglas this time.
+
+00:27:59.420 --> 00:28:00.640
+Mr. Douglas Smith.
+
+00:28:01.060 --> 00:28:02.060
+Joe, did you think of it?
+
+00:28:02.180 --> 00:28:07.380
+Yeah. It was just a random, random tack on to what you guys were saying, which about the, I think
+
+00:28:07.380 --> 00:28:13.180
+the ideal world of these list level, which obviously is limited on the NES.
+
+00:28:13.180 --> 00:28:16.440
+But like, I think it would be that you're, as you beat a level, you've unlocked it to
+
+00:28:16.440 --> 00:28:20.300
+play again. But now we're talking about battery saves and whatnot.
+
+00:28:20.560 --> 00:28:23.280
+Yeah. Like an open world version.
+
+00:28:23.400 --> 00:28:24.500
+Yes. Open world load runner.
+
+00:28:24.780 --> 00:28:28.300
+And I will mention just since we were talking about the stage editor and I missed this.
+
+00:28:28.540 --> 00:28:35.620
+The manual actually does have a cool little like guide for how to create a playable level.
+
+00:28:36.120 --> 00:28:41.920
+Not that it actually like teaches game theory or design, but just like simple questions
+
+00:28:41.920 --> 00:28:43.440
+that kids might not think about.
+
+00:28:43.600 --> 00:28:47.920
+So I thought that that was like a nice touch to have that in the manual just to share the...
+
+00:28:47.920 --> 00:28:49.060
+Is it possible to complete?
+
+00:28:49.380 --> 00:28:50.300
+Yeah. Yeah, exactly.
+
+00:28:50.500 --> 00:28:53.140
+Like are all the gold placed where they can be gotten?
+
+00:28:53.400 --> 00:28:56.020
+Is there an escape ladder reaching to the top of the screen?
+
+00:28:56.320 --> 00:28:58.240
+Is there a way to get to the escape ladder?
+
+00:28:58.460 --> 00:28:59.440
+You know, things like that.
+
+00:28:59.900 --> 00:29:06.420
+That's cool. I think like, you know, we don't need something like that, but kids definitely would need something
+
+00:29:06.420 --> 00:29:09.640
+like that when they try to make these and then not understand why they're not working
+
+00:29:09.640 --> 00:29:13.720
+out. Unless they're, you know, really dumb kids, I guess.
+
+00:29:14.120 --> 00:29:15.360
+Like... And we can't help them.
+
+00:29:15.480 --> 00:29:21.660
+Yeah, we can't help them. But I just wanted to say that Joe earlier had brought up the arcade game thing and he
+
+00:29:21.660 --> 00:29:29.180
+wasn't wrong because Irem developed an arcade version of Lode Runner and it added features
+
+00:29:29.180 --> 00:29:36.280
+like the ability to hang off the ends of ladders and an actual improved enemy AI, but I tried
+
+00:29:36.280 --> 00:29:38.260
+to look up like what was improved about it.
+
+00:29:38.640 --> 00:29:39.460
+Just improved.
+
+00:29:39.660 --> 00:29:45.980
+Just improved, yeah. It's like one of those like patch notes that doesn't give you any actual significant details.
+
+00:29:46.340 --> 00:29:47.620
+So I was like, all right, whatever.
+
+00:29:47.840 --> 00:29:48.840
+Improved balance.
+
+00:29:49.080 --> 00:29:54.800
+Yeah, right? And then I'm going to talk a little bit about Doug Smith since...
+
+00:29:54.800 --> 00:29:57.160
+Dougie! Sean was a little upset I didn't talk about him.
+
+00:29:57.220 --> 00:29:58.260
+I read it right at the very top.
+
+00:29:58.460 --> 00:29:59.580
+I thought that's what we do here.
+
+00:29:59.720 --> 00:30:04.820
+So I'll give you some quotes from him because we love hearing developer quotes.
+
+00:30:05.040 --> 00:30:07.080
+This is a new segment on the show, the Doug Smith quotes every episode.
+
+00:30:07.260 --> 00:30:09.800
+Every episode Doug will give his feedback on games.
+
+00:30:10.060 --> 00:30:15.740
+So this was an interview with IGN for like a history of Lode Runner thing.
+
+00:30:16.900 --> 00:30:21.720
+And I think this actually came out around the time that Lode Runner was getting an N64 game.
+
+00:30:22.940 --> 00:30:24.660
+So bear with me for a minute.
+
+00:30:24.780 --> 00:30:25.940
+Wait, did he develop the N64 game?
+
+00:30:25.940 --> 00:30:27.860
+I think he played some kind of role in it.
+
+00:30:27.980 --> 00:30:29.280
+Wow. That's cool.
+
+00:30:29.660 --> 00:30:35.580
+So the interviewer asks, can you talk a little bit about how the original Lode Runner concept
+
+00:30:35.580 --> 00:30:36.900
+and game came about?
+
+00:30:37.420 --> 00:30:42.600
+Doug answers, the original Lode Runner game came about in the summer of 1982.
+
+00:30:42.600 --> 00:30:48.340
+At that point in time, I was a student at the University of Washington studying architecture
+
+00:30:48.340 --> 00:30:50.860
+and my minor was in numerical analysis.
+
+00:30:51.500 --> 00:30:54.920
+As a starving student, I took a part-time job at the campus.
+
+00:30:55.340 --> 00:30:58.980
+That job was a consultant at the Academic Computer Center.
+
+00:30:59.300 --> 00:31:04.860
+Basically, my job was to help the students log on, print their jobs, etc, etc.
+
+00:31:05.620 --> 00:31:08.900
+But for the summer quarter, there are basically no students.
+
+00:31:08.900 --> 00:31:13.380
+So I'm sitting at a desk with nothing to do and I had access to all the computers.
+
+00:31:13.780 --> 00:31:18.440
+So to occupy the time where I was just paid to sit there and do nothing, another friend
+
+00:31:18.440 --> 00:31:19.800
+and I started to write a game.
+
+00:31:20.080 --> 00:31:21.420
+We'll pause there for a second.
+
+00:31:21.720 --> 00:31:23.180
+Does anybody see like a dilemma here?
+
+00:31:23.320 --> 00:31:26.720
+I think the game is owned by the university.
+
+00:31:26.900 --> 00:31:28.840
+That's a problem.
+
+00:31:29.080 --> 00:31:31.580
+Yeah. Thankfully, he didn't admit it until 1999.
+
+00:31:32.480 --> 00:31:36.340
+And also, well, to be fair, copyrights at the time were probably different.
+
+00:31:36.820 --> 00:31:43.100
+You know, like, there probably wasn't a precedent for someone making a game at a university
+
+00:31:43.840 --> 00:31:47.660
+and having it be like a debate for whose intellectual property it is.
+
+00:31:47.660 --> 00:31:50.840
+Yeah, I have no idea how IP law was in the 80s.
+
+00:31:51.500 --> 00:31:52.620
+So it's fun.
+
+00:31:52.840 --> 00:31:58.400
+Yeah. And, you know, we mentioned that Broderbund, you know, published the game and stuff like
+
+00:31:58.400 --> 00:32:03.140
+that. So he submitted a rough version of the game to Broderbund in October of 82.
+
+00:32:03.240 --> 00:32:06.480
+So it actually really only did take him that summer to make the game.
+
+00:32:06.480 --> 00:32:11.360
+And he received a one-line rejection letter in response.
+
+00:32:11.360 --> 00:32:15.580
+And it was something along the lines of, this is Doug remembering it.
+
+00:32:15.840 --> 00:32:18.140
+Thank you for submitting your game concept.
+
+00:32:18.420 --> 00:32:21.280
+Unfortunately, it does not fit within our product line.
+
+00:32:22.140 --> 00:32:28.720
+And Doug never said no because around Christmas of 1982, he submitted the game, now renamed
+
+00:32:28.720 --> 00:32:31.460
+to Lode Runner. I don't know what he originally had it renamed as.
+
+00:32:31.460 --> 00:32:36.560
+And he submitted it to four publishers and quickly received offers from all four, Sierra,
+
+00:32:36.820 --> 00:32:39.040
+Cirrus, Synergistic, and Broderbund.
+
+00:32:39.180 --> 00:32:40.640
+And he took the deal with Broderbund.
+
+00:32:40.900 --> 00:32:43.020
+Wow. So it turned out all you need is just to change the name.
+
+00:32:44.440 --> 00:32:47.940
+All you need to do is just change the name and you have a winning product.
+
+00:32:48.760 --> 00:32:50.580
+Wow. Yep. Good job, Doug.
+
+00:32:50.860 --> 00:32:54.680
+Any thoughts? I thought Doug actually gave like a legitimate answer to an interview.
+
+00:32:54.920 --> 00:32:57.240
+No, that was very good compared to what we're used to.
+
+00:32:57.320 --> 00:33:00.600
+Yeah. I mean, the Japanese talking like, you know, cryptic circle.
+
+00:33:00.600 --> 00:33:07.740
+Like, I feel like Sakamoto says things and then like people at Nintendo get it.
+
+00:33:07.920 --> 00:33:09.160
+They're like, oh, yes, yes.
+
+00:33:09.320 --> 00:33:11.280
+I understand that reference he's making.
+
+00:33:11.440 --> 00:33:16.260
+And we're all sitting here like, he's just talking about like the smallest little detail
+
+00:33:16.260 --> 00:33:17.520
+in a game that means nothing.
+
+00:33:17.880 --> 00:33:18.800
+You missed the bus that day.
+
+00:33:18.960 --> 00:33:22.640
+Right, right. I have a question, but it's not about the interview.
+
+00:33:22.780 --> 00:33:24.140
+It's about the context of the interview.
+
+00:33:24.300 --> 00:33:26.520
+Sure. Lode Runner for N64?
+
+00:33:26.920 --> 00:33:31.120
+Yeah. Yeah, we're going to get to that, but it is with 3D polygons.
+
+00:33:31.400 --> 00:33:35.820
+But like a 2.5D kind of deal or is it like a 3D?
+
+00:33:35.940 --> 00:33:37.380
+Yeah. Let me, hold on.
+
+00:33:37.440 --> 00:33:41.460
+I could pull it up for just for you guys, but you're going to have to give me.
+
+00:33:41.980 --> 00:33:44.220
+All right. Well, that was totally different than what I thought it would look like.
+
+00:33:44.400 --> 00:33:46.020
+Yeah, but you were right about the 2.5D.
+
+00:33:46.380 --> 00:33:49.620
+Yeah, but it was cool. It was still like in a 3D world, which was cool.
+
+00:33:49.760 --> 00:33:51.440
+I thought it would be like Super Smash Bros looking.
+
+00:33:51.440 --> 00:33:57.680
+Yeah, I have a very controversial opinion with that first generation of 3D games for N64
+
+00:33:57.680 --> 00:33:59.580
+and PS1 where I hate them all.
+
+00:33:59.720 --> 00:34:01.300
+Oh, I didn't think it was controversial.
+
+00:34:02.920 --> 00:34:08.020
+I kind of like how crappy they all look, you know, in just like a look where we've come
+
+00:34:08.020 --> 00:34:09.500
+from kind of deal.
+
+00:34:09.940 --> 00:34:12.880
+Yeah, I just find most of them to be like, it's actually amazing.
+
+00:34:12.880 --> 00:34:19.020
+I've kind of fallen in love with like PS1 2D games just because like the sprite work
+
+00:34:19.020 --> 00:34:20.380
+is like so good.
+
+00:34:20.620 --> 00:34:26.280
+And it's like, it's like, wow, it's a step above Super Nintendo graphics without like
+
+00:34:26.280 --> 00:34:28.920
+forgetting all of the good things about Super Nintendo games.
+
+00:34:29.160 --> 00:34:32.300
+So it's like every now and again, we need to be reminded that stuff like that exists.
+
+00:34:32.740 --> 00:34:36.280
+I'm talking specifically probably about like Castlevania Symphony of the Night, which
+
+00:34:36.280 --> 00:34:38.660
+is just such a, such a cool game.
+
+00:34:38.840 --> 00:34:41.100
+Still holds up. Absolutely. That would be on my essential games list.
+
+00:34:41.220 --> 00:34:43.320
+I'm just going to say it. Oh, all right.
+
+00:34:43.680 --> 00:34:51.440
+Okay. No, I still find, I still find the old PS1 N64 graphics charming in the very least.
+
+00:34:51.540 --> 00:34:55.100
+And there definitely are games that did it correctly.
+
+00:34:55.380 --> 00:34:56.780
+Yeah. It really depends on the game.
+
+00:34:56.980 --> 00:34:58.320
+I think Metal Gear Solid was.
+
+00:34:58.420 --> 00:35:00.420
+Yeah. The closer that they try to look real.
+
+00:35:00.780 --> 00:35:02.160
+Yeah. The worse it is.
+
+00:35:02.280 --> 00:35:04.200
+You guys haven't played. They don't look real yet.
+
+00:35:04.480 --> 00:35:08.360
+If it's like a charming like cartoon, then I think like Crash Bandicoot, I think looks
+
+00:35:08.360 --> 00:35:12.020
+great. This is a tangent, but if you haven't played Paperboy 64.
+
+00:35:12.420 --> 00:35:14.040
+I have played Paperboy 64.
+
+00:35:14.400 --> 00:35:16.200
+Just look at that hot, hot garbage.
+
+00:35:16.700 --> 00:35:20.020
+And it is trash.
+
+00:35:20.520 --> 00:35:21.760
+That game is not good.
+
+00:35:21.960 --> 00:35:25.320
+And so that N64 game was called Lode Runner 3D.
+
+00:35:26.260 --> 00:35:28.000
+In my opinion, it looks archaic.
+
+00:35:28.320 --> 00:35:31.520
+But, you know, I guess at the time it was received.
+
+00:35:31.720 --> 00:35:32.760
+It was 3D. That one.
+
+00:35:33.000 --> 00:35:34.000
+Well, I mean, yeah.
+
+00:35:35.000 --> 00:35:36.860
+2.5D was not going to catch on.
+
+00:35:36.980 --> 00:35:40.700
+That one looked better. If they called it Lode Runner 2.5D, people wouldn't get it.
+
+00:35:40.780 --> 00:35:43.400
+That one looked better than I've seen N64 games look.
+
+00:35:43.600 --> 00:35:46.220
+So I'll get at that. There were other Lode Runner games though, guys.
+
+00:35:46.340 --> 00:35:48.540
+Let's not forget Championship Lode Runner.
+
+00:35:48.720 --> 00:35:50.480
+Of course. Which came out in 1984.
+
+00:35:51.060 --> 00:35:56.760
+A direct sequel with 50 levels edited by fans and intended for expert play.
+
+00:35:56.940 --> 00:35:59.280
+So fans were so big about it that they made their own levels.
+
+00:35:59.400 --> 00:36:02.760
+And then this was like the best of the original Lode Runner.
+
+00:36:02.760 --> 00:36:06.180
+Then you have Lode Runner Roman Numeral 2.
+
+00:36:06.760 --> 00:36:08.440
+Is there something to pronounce it that way?
+
+00:36:08.440 --> 00:36:09.420
+Are you sure it's not just 11?
+
+00:36:09.860 --> 00:36:12.160
+It could be. I think it's I.I.
+
+00:36:12.160 --> 00:36:13.200
+It's I.I.
+
+00:36:14.540 --> 00:36:17.240
+And this was actually on the MSX.
+
+00:36:17.540 --> 00:36:19.040
+It was only released on the MSX.
+
+00:36:19.280 --> 00:36:21.260
+And came out in 1985.
+
+00:36:22.320 --> 00:36:25.400
+22 original levels and 28 new levels.
+
+00:36:25.560 --> 00:36:26.360
+So that's cool.
+
+00:36:27.160 --> 00:36:30.680
+And sorry, the 22 original levels doesn't mean 22 new.
+
+00:36:31.040 --> 00:36:33.060
+The first ones. 22 of the first ones, yes.
+
+00:36:33.700 --> 00:36:35.320
+It's funny that like for us, right?
+
+00:36:35.420 --> 00:36:38.200
+Like I don't. I could care less about the levels, right?
+
+00:36:38.260 --> 00:36:41.140
+Like I'm not like, oh, I hope they're right back stage six.
+
+00:36:42.360 --> 00:36:43.960
+But apparently fans did.
+
+00:36:45.140 --> 00:36:49.500
+Then there's Lode Runner's Rescue on the Atari and Commodore 64,
+
+00:36:49.500 --> 00:36:50.680
+which came out in 1985.
+
+00:36:51.680 --> 00:36:53.120
+A 3D sequel.
+
+00:36:53.540 --> 00:36:55.220
+And again, like. People really like this game, huh?
+
+00:36:55.220 --> 00:36:56.420
+3D not in this.
+
+00:36:56.540 --> 00:36:58.300
+You know, it's 3D perspective levels.
+
+00:36:58.300 --> 00:37:03.540
+So we're talking about like on the Commodore 64, which couldn't clearly do 3D.
+
+00:37:03.540 --> 00:37:05.500
+That was the name of it like just in Europe, though, right?
+
+00:37:05.580 --> 00:37:07.960
+Because I think in America it was Lode Runner Other M.
+
+00:37:09.560 --> 00:37:10.760
+That's very funny.
+
+00:37:14.040 --> 00:37:15.780
+Considering we had the Metroid episode.
+
+00:37:15.920 --> 00:37:17.340
+That's why I'm laughing so much.
+
+00:37:18.580 --> 00:37:25.160
+But this one also came with a screen design editor and dozens of 3D perspective levels.
+
+00:37:25.420 --> 00:37:29.300
+So good on them for trying something new with the formula for the first time.
+
+00:37:29.720 --> 00:37:35.520
+And then Hyper Lode Runner in 1989, which is just the Game Boy version of the game.
+
+00:37:35.740 --> 00:37:38.080
+So I don't know what's hyper about it.
+
+00:37:38.740 --> 00:37:45.260
+Hot. And then Battle Lode Runner, which is not a Battle Royale Lode Runner game.
+
+00:37:45.520 --> 00:37:54.060
+It's a 1993 PC engine game and revolves around traveling through 50 different stages in 11 different time periods,
+
+00:37:54.740 --> 00:37:56.800
+collecting gold without being caught by enemies.
+
+00:37:57.020 --> 00:37:59.880
+The characters can climb ropes and ladders.
+
+00:38:00.080 --> 00:38:01.720
+So ladders make their return.
+
+00:38:02.460 --> 00:38:04.980
+Thankfully, I was worried ladders weren't going to be confirmed.
+
+00:38:06.240 --> 00:38:15.000
+And you can walk on top of enemies, collect power-ups, and, of course, dig a hole to the right or left of yourself.
+
+00:38:15.100 --> 00:38:16.300
+They got right and left in there?
+
+00:38:16.320 --> 00:38:19.140
+Right and left. I'm just imagining these things written on the back of the box.
+
+00:38:19.640 --> 00:38:22.340
+You can walk on top of enemies in this game, too, don't you?
+
+00:38:22.460 --> 00:38:23.620
+I don't know. I don't know if you can.
+
+00:38:23.620 --> 00:38:24.540
+I never tried it.
+
+00:38:25.640 --> 00:38:27.960
+If they fall in the hole, don't they die, though?
+
+00:38:28.260 --> 00:38:31.460
+No, if they fall in the hole, they only die if the hole regenerates.
+
+00:38:31.580 --> 00:38:33.840
+Oh, right, right. So you can use them and you can leave.
+
+00:38:33.840 --> 00:38:35.280
+Okay, that makes sense. It's like you get them out of your way.
+
+00:38:35.400 --> 00:38:36.520
+They fall down and then you walk over.
+
+00:38:36.520 --> 00:38:37.920
+Right, but then you can walk over. Okay, cool.
+
+00:38:38.280 --> 00:38:41.380
+I cannot believe that we've been talking about this game for this long.
+
+00:38:42.200 --> 00:38:44.720
+Well, if you wanted more information about Lode Runner,
+
+00:38:44.960 --> 00:38:50.500
+you could always check the Lode Runner Museum at loadrunner.home.insightbb.com.
+
+00:38:50.700 --> 00:38:51.800
+I thought it was somewhere in New York.
+
+00:38:53.360 --> 00:38:55.040
+The Lode Runner Museum in Paris.
+
+00:38:55.580 --> 00:39:00.240
+It's funny because we had, like, the elevator museum when we were talking about elevator action.
+
+00:39:00.240 --> 00:39:04.520
+True. So Lode Runner having a real-life museum wasn't out of the realm of the possibilities.
+
+00:39:12.840 --> 00:39:20.320
+But before we get to the essential games list, I do need to talk about the reception from media outlets at the time of Lode Runner's release.
+
+00:39:20.320 --> 00:39:25.920
+Because, as I mentioned, this was a very well-received game and obviously, like, fans loved it.
+
+00:39:26.060 --> 00:39:30.940
+So it wouldn't be fair if we just kind of poo-poo all over it without talking about how it was received at the time.
+
+00:39:31.120 --> 00:39:37.760
+I think it's totally fair. So I'll just give you a couple of, I'll give you the name of the magazine or publisher or whatever, and then what they said.
+
+00:39:38.300 --> 00:39:40.360
+Wait, to be clear, this is the Apple II version?
+
+00:39:40.520 --> 00:39:42.740
+This is for, yeah, mostly for the Apple II version.
+
+00:39:42.860 --> 00:39:44.820
+I think there's some for the Commodore 64 version.
+
+00:39:44.840 --> 00:39:47.040
+Okay, but this is, like, how it's meant to be played.
+
+00:39:47.180 --> 00:39:48.320
+Yes, exactly. Okay.
+
+00:39:49.080 --> 00:39:54.680
+Softline in 1983 praised Lode Runner, calling it smooth, thoughtful, and quite addictive.
+
+00:39:55.920 --> 00:40:07.840
+Great. Computer Gaming World praised Lode Runner's unusually easy-to-use level editor and the strategy necessary for an arcade title, describing it as one of the few thinking men's arcade games.
+
+00:40:08.000 --> 00:40:08.860
+Oh, my God.
+
+00:40:09.140 --> 00:40:12.760
+This was a lot earlier than when the NES game came out, correct?
+
+00:40:13.040 --> 00:40:23.380
+Yes, 83. Ahoy, in 1984, called the game a top-notch action game that requires both a quick mind and an agile joystick.
+
+00:40:24.760 --> 00:40:32.800
+Zzap 64, called the Commodore 64 version, not one of the most recent games, but certainly one of the best.
+
+00:40:33.060 --> 00:40:35.320
+A classic for a long time to come.
+
+00:40:35.680 --> 00:40:44.540
+Graphically minuscule and orally crude, the game's sheer addiction kept my eyes popped open until the owls went to bed.
+
+00:40:45.060 --> 00:40:47.840
+Until the owls went to bed.
+
+00:40:48.040 --> 00:40:48.900
+That is beautifully written.
+
+00:40:48.900 --> 00:40:51.420
+No, that is too purple for a review.
+
+00:40:51.420 --> 00:40:53.960
+Yeah, this guy was in the middle of writing Moby Dick 2.
+
+00:40:54.420 --> 00:41:00.380
+And he was writing the sequel and at the same time had to review Commodore 64 games.
+
+00:41:00.380 --> 00:41:04.020
+I actually just don't even think it's that well crafted of a sentence.
+
+00:41:04.240 --> 00:41:08.660
+Like, while not the most recent game, is not like something you should hold against it.
+
+00:41:08.700 --> 00:41:10.220
+Like, I don't understand this guy.
+
+00:41:10.440 --> 00:41:12.360
+It's not new. It came out a while ago.
+
+00:41:12.700 --> 00:41:18.660
+But. And the graphics stink and it's kind of crude.
+
+00:41:19.420 --> 00:41:20.780
+But. I like.
+
+00:41:20.780 --> 00:41:21.860
+When are you going to start phrasing it?
+
+00:41:22.020 --> 00:41:25.800
+Night birds. You refer to owls as night birds?
+
+00:41:26.640 --> 00:41:28.220
+Yeah, right? Okay, yeah, sure.
+
+00:41:29.440 --> 00:41:32.580
+And. Last but not least, in 1984.
+
+00:41:33.000 --> 00:41:35.140
+Kotaku. Load Runner was awarded.
+
+00:41:35.920 --> 00:41:37.240
+Jason Trier said.
+
+00:41:38.560 --> 00:41:45.980
+In 1984, Load Runner was awarded 1984 Computer Game of the Year at the 5th Annual Arcee Awards.
+
+00:41:46.240 --> 00:41:49.120
+That's just astounding. So, there you have it.
+
+00:41:49.120 --> 00:41:52.440
+I mean, I was looking up some of the reviews and I was kind of surprised to see, like, just
+
+00:41:52.440 --> 00:41:55.140
+even like modern reviews talking very fondly about it.
+
+00:41:55.140 --> 00:41:58.160
+Which, like I said, I had fun with it, but I just don't see it.
+
+00:41:58.220 --> 00:41:59.400
+I just don't see what the.
+
+00:41:59.760 --> 00:42:03.440
+And I guess it had to do with the time and what was available at the time.
+
+00:42:03.600 --> 00:42:04.460
+And maybe.
+
+00:42:04.780 --> 00:42:09.540
+I could say that I've had as much fun with that game as I do with, like, the offline dinosaur
+
+00:42:10.700 --> 00:42:12.280
+in, like, a browser.
+
+00:42:12.500 --> 00:42:13.760
+Oh, I like the offline dinosaur.
+
+00:42:14.060 --> 00:42:14.940
+I don't know what you're talking about.
+
+00:42:15.100 --> 00:42:17.560
+I think I like the offline dinosaur more for being real.
+
+00:42:17.660 --> 00:42:18.560
+It's so funny.
+
+00:42:18.680 --> 00:42:20.180
+The offline dinosaur.
+
+00:42:21.000 --> 00:42:22.480
+Wow, deep cuts over here.
+
+00:42:22.660 --> 00:42:24.180
+Anyway, I'm sorry. No, that's fine.
+
+00:42:24.180 --> 00:42:28.000
+I think it's time that we move into the Essential Games list.
+
+00:42:31.040 --> 00:42:32.480
+So, you have Lode Runner.
+
+00:42:33.080 --> 00:42:43.740
+All right. A game that was released in 1983, but really in 1987 for us, but also in 1984 for the Japanese.
+
+00:42:44.760 --> 00:42:47.980
+And then it also got released on the N64 in 1999.
+
+00:42:48.840 --> 00:42:53.360
+And now you're going to vote for its Essential Games list, you know, whether it's on there
+
+00:42:53.360 --> 00:42:57.220
+or not. And that means, is it still worth playing today?
+
+00:42:58.700 --> 00:43:00.980
+Sean? All right.
+
+00:43:01.040 --> 00:43:06.240
+I sort of regret saying that I had more fun with the offline dinosaur because that's not
+
+00:43:06.240 --> 00:43:10.620
+true. I think that Doug deserves more than that.
+
+00:43:10.620 --> 00:43:14.660
+And I was just being like a little too facetious.
+
+00:43:14.940 --> 00:43:18.760
+But that being said, I didn't really enjoy this game.
+
+00:43:18.920 --> 00:43:24.560
+I mean, like it like I played it and I didn't feel like I was like pulling teeth.
+
+00:43:25.560 --> 00:43:28.560
+But it's just there's not too much going on here.
+
+00:43:28.940 --> 00:43:30.800
+We talked about this way too much.
+
+00:43:31.560 --> 00:43:32.560
+More than it deserved.
+
+00:43:32.840 --> 00:43:35.880
+But yeah, it's not going on the Essential Games list for me.
+
+00:43:36.520 --> 00:43:37.980
+Maybe you guys think so.
+
+00:43:38.360 --> 00:43:44.480
+Joe? I mean, I'm always I'm drawn to puzzle games somewhat.
+
+00:43:44.900 --> 00:43:49.580
+And like even even like something that's like so simple that the mechanic is so simple.
+
+00:43:49.720 --> 00:43:52.620
+I'm like, oh, they could do some interesting things with just this one mechanic to be cool.
+
+00:43:52.620 --> 00:43:56.400
+But I feel like they never really got into the stride of like doing anything that was that
+
+00:43:56.400 --> 00:43:58.300
+that got that complicated or that interesting.
+
+00:43:58.520 --> 00:44:00.060
+So like overall, I kind of.
+
+00:44:01.080 --> 00:44:06.480
+It lost me relatively quickly and it was it was it was a fun aside, but I probably wouldn't
+
+00:44:06.480 --> 00:44:08.880
+go back to play it. OK, Sam.
+
+00:44:10.020 --> 00:44:11.620
+Kind of what everyone else has been saying.
+
+00:44:11.900 --> 00:44:14.260
+It's I just didn't really like it that much.
+
+00:44:14.440 --> 00:44:15.880
+It's like a basic arcade game.
+
+00:44:17.220 --> 00:44:19.100
+It accomplishes what it set out to do.
+
+00:44:19.100 --> 00:44:24.260
+But also like the fact that the whole game doesn't even fit on the screen makes this
+
+00:44:24.260 --> 00:44:26.320
+not even the best version of this game.
+
+00:44:26.740 --> 00:44:32.000
+So there's no way that it's essential for the NES if NES version of it isn't even the
+
+00:44:32.000 --> 00:44:32.920
+best way to play it.
+
+00:44:33.100 --> 00:44:34.500
+So I'm saying no.
+
+00:44:35.060 --> 00:44:35.860
+All right. Point.
+
+00:44:36.620 --> 00:44:39.400
+This whole time I've been playing the offline dinosaur game.
+
+00:44:39.860 --> 00:44:44.620
+You guys are doing your Essential Games list votes because I had to look it up and I
+
+00:44:44.620 --> 00:44:47.460
+have played this before, but I had to make sure I knew what Sean was talking about.
+
+00:44:47.460 --> 00:44:52.220
+He's talking about that game on Chrome when you're not connected to the Internet.
+
+00:44:52.420 --> 00:44:55.080
+I think you have the dinosaur jumping over the cactuses.
+
+00:44:55.440 --> 00:44:57.240
+Oh, I thought that that was like I'm sorry.
+
+00:44:57.380 --> 00:44:58.440
+I didn't describe it correctly.
+
+00:44:59.100 --> 00:45:00.000
+Yeah. No, no, no. I just know.
+
+00:45:00.180 --> 00:45:03.020
+Yeah. I mean, like you made it seem like it was like something everybody knew.
+
+00:45:03.100 --> 00:45:04.200
+I was like, wow, deep cut.
+
+00:45:05.880 --> 00:45:10.520
+So, yeah, if you want to play that game, I will admit that I only played that for about
+
+00:45:10.520 --> 00:45:12.780
+I'd say a minute and a half while you three talked.
+
+00:45:12.980 --> 00:45:14.420
+But yeah, it's a much better game than.
+
+00:45:15.660 --> 00:45:20.320
+Wow. And it's and there's much less even to the sounds to that you're missing.
+
+00:45:20.500 --> 00:45:21.380
+Oh, I'm missing the sounds.
+
+00:45:21.500 --> 00:45:23.900
+I turn them off to be put on my podcast.
+
+00:45:24.340 --> 00:45:26.200
+Yeah. But here's the thing.
+
+00:45:26.380 --> 00:45:30.340
+If that was better in just two minutes than load runner, then I think we have our answer.
+
+00:45:30.500 --> 00:45:31.980
+Of course, load runner is not essential.
+
+00:45:32.340 --> 00:45:35.720
+Look, I'm sure that this game was fun when it first came out.
+
+00:45:35.960 --> 00:45:40.240
+Right. The difference is, is that like when you go around and ask people about Pac-Man, they
+
+00:45:40.240 --> 00:45:42.380
+still have heard about Pac-Man to this day.
+
+00:45:42.460 --> 00:45:43.780
+Like people have played Pac-Man.
+
+00:45:43.920 --> 00:45:45.100
+You can still have access to it.
+
+00:45:45.100 --> 00:45:50.460
+No one's looking around for like an Apple II to get load runner on, you know, like that's
+
+00:45:50.460 --> 00:45:52.720
+the problem. But why are they still making load runner then?
+
+00:45:53.020 --> 00:45:54.320
+Are they? I don't understand.
+
+00:45:54.620 --> 00:45:56.500
+Well, the last thing was like the 1999 game.
+
+00:45:56.620 --> 00:45:57.900
+Still, that's like a that's a while.
+
+00:45:58.180 --> 00:46:00.240
+Yeah. I mean, but we're we're like now.
+
+00:46:00.420 --> 00:46:01.600
+That's true. All right.
+
+00:46:01.860 --> 00:46:03.200
+Sorry. I interrupted.
+
+00:46:04.640 --> 00:46:05.780
+It sounds wrong, but it's true.
+
+00:46:08.020 --> 00:46:10.280
+So. With four no's.
+
+00:46:10.800 --> 00:46:13.580
+That is not going to make the essential games list.
+
+00:46:14.880 --> 00:46:17.760
+But it also means that we're at the end of our show.
+
+00:46:18.160 --> 00:46:19.000
+Oh, good.
+
+00:46:19.680 --> 00:46:24.160
+So without without anything else to say, that's been Nostalgia.
+
+00:46:24.500 --> 00:46:25.460
+I hope you've enjoyed it.
+
+00:46:25.580 --> 00:46:27.180
+Today was a pretty good episode for us.
+
+00:46:27.300 --> 00:46:28.260
+I had a lot of laughs.
+
+00:46:28.260 --> 00:46:30.880
+I learned that owls are just night birds.
+
+00:46:31.180 --> 00:46:33.660
+Night birds. And you guys know night birds.
+
+00:46:33.860 --> 00:46:36.740
+And we all were gifted the offline dinosaur game.
+
+00:46:37.120 --> 00:46:39.280
+Join us next time for the offline dinosaur game.
+
+00:46:39.400 --> 00:46:44.900
+Actually, if you go into your phone now, you have it like it's it's available now.
+
+00:46:45.100 --> 00:46:46.480
+How do you know what phones they have?
+
+00:46:46.540 --> 00:46:48.760
+It'll be a flip phone. Download Chrome and then do it.
+
+00:46:49.900 --> 00:46:52.980
+Anyway, they could have flip phones now, too, because they got those foldable phones.
+
+00:46:53.260 --> 00:46:55.600
+But they do have foldable phones now.
+
+00:46:55.640 --> 00:46:56.560
+Yeah, it's crazy.
+
+00:46:56.860 --> 00:47:04.320
+With the glass. Yeah. But if you have a you know, if you have a mobile device, you could also type in www.nostalgiacast.com
+
+00:47:04.320 --> 00:47:06.480
+because we are optimized for mobile, baby.
+
+00:47:06.820 --> 00:47:11.100
+Yeah, girl. If you go to that website, you'll get a specific look just for the mobile look.
+
+00:47:11.240 --> 00:47:13.320
+We even have an optimized for tablets, too.
+
+00:47:13.480 --> 00:47:18.100
+So if you have an iPad or a shield or a Surface.
+
+00:47:18.580 --> 00:47:19.900
+An NVIDIA shield? Yeah, I don't know.
+
+00:47:20.220 --> 00:47:23.440
+Does the NVIDIA shield exist anymore in like a handheld form?
+
+00:47:23.580 --> 00:47:25.660
+I don't know. I heard it's a great emulator.
+
+00:47:25.660 --> 00:47:28.120
+Um, or a great use for emulators.
+
+00:47:28.820 --> 00:47:30.760
+Okay. But yeah, go on the website.
+
+00:47:31.120 --> 00:47:32.320
+Check out all the other stuff we have.
+
+00:47:32.460 --> 00:47:33.860
+There'll be links to everything here.
+
+00:47:34.000 --> 00:47:39.400
+I don't put the links in the actual descriptors of the episode specifically so that you go to the website.
+
+00:47:39.860 --> 00:47:41.540
+Fun fact, the website's free.
+
+00:47:41.900 --> 00:47:45.040
+Uh, we don't charge anything to go on there.
+
+00:47:45.040 --> 00:47:52.540
+For now. Yeah, you won't be sent a bill in the mail 31 days later being contacted that your ISP has hit the, uh, the URL.
+
+00:47:52.920 --> 00:47:54.040
+We also don't have pop-ups.
+
+00:47:54.200 --> 00:47:56.220
+We also don't have taxes on fast food.
+
+00:47:56.540 --> 00:47:58.300
+It's true. Um, on the website.
+
+00:47:58.300 --> 00:48:00.240
+I can't speak about your specific country.
+
+00:48:00.480 --> 00:48:02.560
+I know that we have a few international listeners.
+
+00:48:02.560 --> 00:48:05.560
+So, for all I know, they are taxed on fast food.
+
+00:48:05.760 --> 00:48:07.520
+Canada seems like the kind of place that would do that.
+
+00:48:07.840 --> 00:48:11.960
+I mean, we're all, I mean, whenever I go to a fast food place, there is like tax on the receipt.
+
+00:48:12.220 --> 00:48:16.040
+But you consider that like a fast food tax or you just consider that sales tax?
+
+00:48:16.420 --> 00:48:18.800
+Technically, I mean. Okay. Look, that's for the post show.
+
+00:48:19.040 --> 00:48:20.140
+Okay? Sorry.
+
+00:48:21.680 --> 00:48:29.300
+Um, NostalgiaCast. And then always, uh, if you're also in, uh, in the website, if you go to contact, you can contact us, submit a little form submission.
+
+00:48:29.440 --> 00:48:30.480
+I know that's how a lot of people do it.
+
+00:48:30.600 --> 00:48:33.740
+We get the email and then we get to read all your nice thoughts.
+
+00:48:33.800 --> 00:48:35.960
+I just want to say we've been getting a lot of thoughts lately.
+
+00:48:36.260 --> 00:48:37.360
+So, I love that.
+
+00:48:37.540 --> 00:48:43.100
+Keep it coming. And if you don't want to do it that way, you can always, uh, contact us on Twitter, uh, at NostalgiaCast.
+
+00:48:43.100 --> 00:48:49.960
+NostalgiaCast, we post, uh, at least one to two images every single day of relevant games that we're currently covering.
+
+00:48:50.000 --> 00:48:53.840
+And we have the schedule for the upcoming games on the Twitter.
+
+00:48:54.000 --> 00:48:58.300
+It's a, it's my, uh, the pinned post on the NostalgiaCast page.
+
+00:48:58.300 --> 00:49:01.140
+So, if you want to know what games are coming up that you can play along.
+
+00:49:01.460 --> 00:49:02.740
+That's how you do it. All right.
+
+00:49:03.020 --> 00:49:04.220
+Great. I'm Mike Esposito.
+
+00:49:04.400 --> 00:49:06.580
+You can find me on, at Esposito Film on Twitter.
+
+00:49:06.880 --> 00:49:07.780
+And I'll talk to you soon.
+
+00:49:14.540 --> 00:49:15.940
+Bye.
