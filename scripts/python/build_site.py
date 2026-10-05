@@ -264,6 +264,28 @@ def guide_link(r):
     return "".join(out)
 
 
+def year_stats(year, by_num):
+    """Stat tiles for one release year, worked out from the spreadsheet: games, first-party and third-party counts, the biggest genre(s), and the
+    games that made the Essential list. First party means Nintendo published it."""
+    import collections
+    games = [(int(n), v) for n, v in GAME_INFO.items() if v.get("year") == year]
+    if not games:
+        return ""
+    first = sum(1 for _, v in games if "Nintendo" in v["publishers"])
+    genres = collections.Counter(v["genre"] for _, v in games if v["genre"])
+    top = [g for g, c in genres.items() if c == max(genres.values())] if genres else []
+    most = max(genres.values()) if genres else 0
+    essential = sorted((n, v) for n, v in games if v["verdict"] == "Essential")
+    tile = lambda big, label: f'<div class="tile"><b>{E(str(big))}</b><span>{E(label)}</span></div>'
+    out = [tile(len(games), "Games released"), tile(first, "First party"), tile(len(games) - first, "Third party")]
+    if top:
+        out.append(tile(" & ".join(top), f"Genre{'s' if len(top) > 1 else ''} with the most games ({most}{' each' if len(top) > 1 else ''})"))
+    if essential:
+        links = "".join(f'<a class="gtag" href="{BASE}/episodes/{by_num[n]["key"]}/">{E(nice_case(by_num[n]["title"]))}</a>' for n, _ in essential if n in by_num)
+        out.append(f'<div class="tile wide"><span>Titles added to the Essential Games List</span><div class="gchips">{links}</div></div>')
+    return "".join(out)
+
+
 def countdown_html(a, cfg, data, ep_map):
     """Rebuild a 'Top 5' article in the site's own style: a link to the matching special episode, the stats and 'year in review' text
     if the article has them, then one card per game with the episode's cover, verdict and a link to the episode, with the original
@@ -285,6 +307,7 @@ def countdown_html(a, cfg, data, ep_map):
     first = body.find("<figure>")
     intro = body[:first] if first > 0 else ""
     intro = re.sub(r"<h2>\s*PRELUDE\s*</h2>", "", intro)
+    intro = re.sub(r"<h[1-6][^>]*>\s*(?:#\d[^<]*|<br\s*/?>)?\s*</h[1-6]>", "", intro)  # a stray '#5 - Game' or empty heading before the first game
     quote = re.search(r"<blockquote>(.*?)</blockquote>", intro, re.S)
     before, after = (intro[:quote.start()], intro[quote.end():]) if quote else ("", intro)
     has_text = lambda h: bool(re.sub(r"<[^>]+>|\s", "", h))
@@ -304,9 +327,15 @@ def countdown_html(a, cfg, data, ep_map):
                 tiles.append(f'<div class="tile"><b>{E(value.strip())}</b><span>{E(label)}</span></div>')
         if tiles:
             out.append(f'<h2>The year in numbers</h2><div class="estats">{"".join(tiles)}</div>')
+    if not quote and cfg.get("stats"):  # no stats written in the article: work them out from the spreadsheet
+        st = year_stats(cfg["stats"]["year"], by_num)
+        if st:
+            if cfg["stats"].get("intro"):
+                out.append(f'<div class="prose"><p>{E(cfg["stats"]["intro"])}</p></div>')
+            out.append(f'<h2>The year in numbers</h2><div class="estats">{st}</div>')
     if has_text(after):
         out.append(f'<div class="manual"><div class="mtab">What the year tells us</div>{prose(after, ep_map)}</div>')
-    if has_text(before) or quote or has_text(after):
+    if has_text(before) or quote or has_text(after) or cfg.get("stats"):
         out.append("<h2>Our top five</h2>")
 
     pat = r'<figure><img src="([^"]*)"[^>]*><figcaption>(.*?)</figcaption></figure>(.*?)(?=<figure>|\Z)'
