@@ -4,17 +4,68 @@
     "/articles/shmups": {
       "title": "How to Enjoy SHMUPs: 5 NES Shoot 'Em Ups to Try · NEStalgia",
       "description": "New to SHMUPs? Learn what a shoot 'em up is, why they get easier to love, and five NES games to try first, from Star Force and Gradius to Life Force.",
-      "related": {"heading": "Every SHMUP we've covered on the show", "genre": "SHMUP", "see_all": {"genre": "shmup"}, "see_all_label": "See them all with our verdicts"}
+      "related": {
+        "heading": "Every SHMUP we've covered on the show",
+        "genre": "SHMUP",
+        "see_all": {
+          "genre": "shmup"
+        },
+        "see_all_label": "See them all with our verdicts"
+      }
     },
     "/articles/tetris": {
       "title": "Tetris Evolution: NES Tetris vs. Modern Versions · NEStalgia",
       "description": "Why many players still love the original NES Tetris, and how Tetris DS, Tetris Effect and Tetris 99 stack up against the classic.",
-      "related": {"heading": "Tetris and the other puzzle games we've covered", "genre": "Puzzle", "see_all": {"genre": "puzzle"}, "see_all_label": "See every puzzle game with our verdicts"}
+      "related": {
+        "heading": "Tetris and the other puzzle games we've covered",
+        "genre": "Puzzle",
+        "see_all": {
+          "genre": "puzzle"
+        },
+        "see_all_label": "See every puzzle game with our verdicts"
+      }
+    },
+    "/articles/best-of-1986": {
+      "title": "The Top 5 NES Games of 1986 (Our 19-Game Recap) · NEStalgia",
+      "description": "Our ranking of the top 5 NES games of 1986 out of 19 releases, plus the stats: first-party vs. third-party games and which ones made the Essential list."
+    },
+    "/articles/best-of-1985": {
+      "title": "The Top 5 NES Launch Games of 1985 · NEStalgia",
+      "description": "Our ranking of the top 5 of the 17 NES launch games of 1985, with what still holds up today, from Excitebike on up."
+    },
+    "/articles/nestalgia/blog/m6pdirlpwivfnwsefaez851zzyq0u8": {
+      "title": "NES Essential Games List Community Vote (2024) · NEStalgia",
+      "description": "Our Patreon community ranked the NEStalgia Essential Games List: top-10 votes scored 10 points for first down to 1 for tenth. Here's the final top 10."
+    },
+    "/articles/nestalgia/blog/1985romhack": {
+      "title": "Weird Romhacks of the 1985 NES Launch Games · NEStalgia",
+      "description": "Odd, clunky and downright unfortunate romhacks of the NES launch games, from Duck Hunt: Moon Walk to Mario's Alley to Golf starring KISS."
+    },
+    "/articles/savestates": {
+      "title": "Are Save States Cheating? Why They're Not · NEStalgia",
+      "description": "Is it cheating to use save states, a Game Genie or the Konami code? Our take on saving progress, practicing and rewinding in classic games."
+    },
+    "/articles/nestalgia/blog/is-nes-baseball-haunted": {
+      "title": "Is NES Baseball Haunted? Four Spooky Clues · NEStalgia",
+      "description": "Balls that pass right through you, creepy team names, fielders you can't control: our tongue-in-cheek case that the NES launch game Baseball is haunted."
     }
   },
   "episode_guides": [
-    {"genre": "SHMUP", "href": "/articles/shmups/", "label": "New to SHMUPs? Read our guide: How To Enjoy SHMUPs"},
-    {"title_contains": "Tetris", "href": "/articles/tetris/", "label": "Read more: Tetris Evolution, how the NES classic compares to modern versions"}
+    {
+      "genre": "SHMUP",
+      "href": "/articles/shmups/",
+      "label": "New to SHMUPs? Read our guide: How To Enjoy SHMUPs"
+    },
+    {
+      "title_contains": "Tetris",
+      "href": "/articles/tetris/",
+      "label": "Read more: Tetris Evolution, how the NES classic compares to modern versions"
+    },
+    {
+      "title_equals": "Baseball",
+      "href": "/articles/nestalgia/blog/is-nes-baseball-haunted/",
+      "label": "Read: Is NES Baseball haunted?"
+    }
   ],
   "redirects": {
     "/the-approved-list": "/essential/"

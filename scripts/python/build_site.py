@@ -255,7 +255,8 @@ def guide_link(r):
     if not info:
         return ""
     for g in SEO.get("episode_guides", []):
-        if (g.get("genre") and info["genre"] == g["genre"]) or (g.get("title_contains") and g["title_contains"].lower() in r["title"].lower()):
+        if ((g.get("genre") and info["genre"] == g["genre"]) or (g.get("title_contains") and g["title_contains"].lower() in r["title"].lower())
+                or (g.get("title_equals") and g["title_equals"].lower() == r["title"].strip().lower())):
             return f'<p class="guide-link" data-pagefind-ignore><a href="{BASE}{g["href"]}">{E(g["label"])} &rarr;</a></p>'
     return ""
 
@@ -474,6 +475,18 @@ def episode_jsonld(r, url, desc):
     return ep
 
 
+def article_jsonld(a, desc, img):
+    """Structured data for an article page: headline, author, date and picture, so search engines and AI answers can cite it properly."""
+    out = {"@type": "BlogPosting", "headline": a["title"], "datePublished": str(a["date"])[:10], "author": {"@type": "Person", "name": a.get("author") or "Michael Esposito"},
+           "publisher": {"@type": "Organization", "name": "NEStalgia", "url": f"{SITE_URL}/", "logo": {"@type": "ImageObject", "url": f"{SITE_URL}/logo.png"}},
+           "mainEntityOfPage": f"{SITE_URL}/{a['path'].strip('/')}/", "inLanguage": "en"}
+    if desc:
+        out["description"] = desc
+    if img:
+        out["image"] = img if img.startswith("http") else f"{SITE_URL}{img}"
+    return out
+
+
 def breadcrumbs(*trail):
     """trail = (name, path) pairs from the home page down; the last is the current page."""
     return {"@type": "BreadcrumbList", "itemListElement": [
@@ -640,6 +653,7 @@ def build_migrated(data, write, card_html):
             a["image"] = m.group(1) if m else None
     real = {a["path"].rstrip("/") for a in articles}
     for a in articles:
+        a["body"] = re.sub(r"(?:Start|End)Fragment", "", a["body"])  # leftovers from pasting into Squarespace
         tags = "".join(f'<span class="atag">{E(t)}</span>' for t in a["tags"])
         ov = (SEO.get("articles") or {}).get(a["path"].rstrip("/"), {})
         extra = related_block(ov["related"], data, card_html) if ov.get("related") else ""
@@ -650,7 +664,8 @@ def build_migrated(data, write, card_html):
         img = a["image"].replace("{BASE}", "") if a.get("image") else None
         write(a["path"].strip("/") + "/index.html",
               page(ov.get("title") or f'{a["title"]} · NEStalgia', body, "/" + a["path"].strip("/") + "/", desc=ov.get("description") or a["excerpt"], image=img, current="articles",
-                   og_type="article", published=str(a["date"])[:10] if a.get("date") else None))
+                   og_type="article", published=str(a["date"])[:10] if a.get("date") else None,
+                   jsonld=[article_jsonld(a, ov.get("description") or a["excerpt"], img), breadcrumbs(("Home", "/"), ("Articles", "/articles/"), (a["title"], "/" + a["path"].strip("/") + "/"))]))
     cards = "".join(
         f'<a class="card wide" href="{BASE}{a["path"]}/">'
         + (f'<img src="{(a["image"] or "").replace("{BASE}", BASE)}" alt="" loading="lazy">' if a.get("image") else "")
