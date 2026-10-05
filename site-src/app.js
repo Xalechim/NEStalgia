@@ -73,6 +73,14 @@
       c.hidden = !ok;
       if (ok) shown++;
     });
+    // The number on each verdict button: how many games would match with that verdict under every OTHER filter chosen
+    // (so Season 7 shows how many Essentials there are in season 7, and picking a verdict doesn't zero out the others).
+    verdictBtns.forEach(function (b) {
+      var n = 0;
+      cards.forEach(function (c) { if (matches(c, term, [b.dataset.verdict])) n++; });
+      var span = b.querySelector("span");
+      if (span) span.textContent = n;
+    });
     var ordered = cards.slice().sort(function (a, b) {
       return newest ? b.dataset.date.localeCompare(a.dataset.date) : a.dataset.date.localeCompare(b.dataset.date);
     });
