@@ -32,12 +32,20 @@
 
   function has(c, key, term) { return (" " + (c.dataset[key] || "") + " ").indexOf(" " + term + " ") !== -1; }
 
-  function matches(c, term, verdicts) {
+  function fieldValues() {  // the filters as typed/picked right now: { genre: "rpg", year: "", ... }
+    var v = {};
+    fields.forEach(function (f) { v[f.dataset.f] = f.value.trim().toLowerCase(); });
+    return v;
+  }
+
+  // `vals` lets a count ask "what if this one dropdown were set to X?" while leaving every other filter as it is.
+  function matches(c, term, verdicts, vals) {
+    vals = vals || fieldValues();
     if (type !== "all" && c.dataset.type !== type) return false;
     if (term && c.dataset.title.indexOf(term) === -1 && c.dataset.num !== term) return false;
     if (verdicts.length && verdicts.indexOf(c.dataset.verdict) === -1) return false;
     for (var i = 0; i < fields.length; i++) {
-      var key = fields[i].dataset.f, val = fields[i].value.trim().toLowerCase();
+      var key = fields[i].dataset.f, val = vals[key];
       if (!val) continue;
       if (key === "has") { if (!has(c, "has", val)) return false; }
       else if (key === "dev" || key === "pub") {
@@ -80,6 +88,20 @@
       cards.forEach(function (c) { if (matches(c, term, [b.dataset.verdict])) n++; });
       var span = b.querySelector("span");
       if (span) span.textContent = n;
+    });
+    // The same for every dropdown option: "Platformer (12)" is how many platformers match everything else you've chosen.
+    var current = fieldValues();
+    fields.forEach(function (f) {
+      if (f.tagName !== "SELECT") return;
+      Array.prototype.forEach.call(f.options, function (o) {
+        if (!o.value) return;  // "Any genre" and the like carry no number
+        if (!o.dataset.label) o.dataset.label = o.textContent.replace(/\s*\(\d+\)\s*$/, "");
+        var vals = {}; for (var k in current) vals[k] = current[k];
+        vals[f.dataset.f] = o.value;
+        var n = 0;
+        cards.forEach(function (c) { if (matches(c, term, verdicts, vals)) n++; });
+        o.textContent = o.dataset.label + " (" + n + ")";
+      });
     });
     var ordered = cards.slice().sort(function (a, b) {
       return newest ? b.dataset.date.localeCompare(a.dataset.date) : a.dataset.date.localeCompare(b.dataset.date);
