@@ -90,18 +90,25 @@
       if (span) span.textContent = n;
     });
     // The same for every dropdown option: "Platformer (12)" is how many platformers match everything else you've chosen.
+    // Options that would match nothing are left out of the list (the one currently picked stays, so the box never changes by itself).
     var current = fieldValues();
     fields.forEach(function (f) {
       if (f.tagName !== "SELECT") return;
-      Array.prototype.forEach.call(f.options, function (o) {
-        if (!o.value) return;  // "Any genre" and the like carry no number
+      if (!f._allOptions) f._allOptions = Array.prototype.slice.call(f.options);
+      var picked = f.value, keep = [];
+      f._allOptions.forEach(function (o) {
+        if (!o.value) { keep.push(o); return; }  // "Any genre" and the like carry no number and always stay
         if (!o.dataset.label) o.dataset.label = o.textContent.replace(/\s*\(\d+\)\s*$/, "");
         var vals = {}; for (var k in current) vals[k] = current[k];
         vals[f.dataset.f] = o.value;
         var n = 0;
         cards.forEach(function (c) { if (matches(c, term, verdicts, vals)) n++; });
         o.textContent = o.dataset.label + " (" + n + ")";
+        if (n > 0 || o.value === picked) keep.push(o);
       });
+      while (f.firstChild) f.removeChild(f.firstChild);
+      keep.forEach(function (o) { f.appendChild(o); });
+      f.value = picked;
     });
     var ordered = cards.slice().sort(function (a, b) {
       return newest ? b.dataset.date.localeCompare(a.dataset.date) : a.dataset.date.localeCompare(b.dataset.date);
