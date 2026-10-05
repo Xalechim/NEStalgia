@@ -252,13 +252,52 @@ SEO = {}
 def guide_link(r):
     """On an episode page, a link to the article that goes with it (SHMUP episodes -> the SHMUP guide). Helps readers and search engines."""
     info = GAME_INFO.get(str(r["number"])) if r["type"] == "episode" and r["number"] is not None else None
-    if not info:
-        return ""
     for g in SEO.get("episode_guides", []):
-        if ((g.get("genre") and info["genre"] == g["genre"]) or (g.get("title_contains") and g["title_contains"].lower() in r["title"].lower())
-                or (g.get("title_equals") and g["title_equals"].lower() == r["title"].strip().lower())):
+        if (g.get("key") and g["key"] == r.get("key")) or (g.get("number") and r["type"] == "episode" and g["number"] == r["number"]):
+            return f'<p class="guide-link" data-pagefind-ignore><a href="{BASE}{g["href"]}">{E(g["label"])} &rarr;</a></p>'
+        if info and ((g.get("genre") and info["genre"] == g["genre"]) or (g.get("title_contains") and g["title_contains"].lower() in r["title"].lower())
+                     or (g.get("title_equals") and g["title_equals"].lower() == r["title"].strip().lower())):
             return f'<p class="guide-link" data-pagefind-ignore><a href="{BASE}{g["href"]}">{E(g["label"])} &rarr;</a></p>'
     return ""
+
+
+def countdown_html(a, cfg, data, ep_map):
+    """Rebuild a 'Top 5' article in the site's own style: one card per game with the episode's cover, verdict and a link to the episode,
+    a link to the matching special episode at the top, and the original write-up and screenshots underneath."""
+    by_num = {r["number"]: r for r in data if r["type"] == "episode" and r["number"] is not None}
+    special = next((r for r in data if r["key"] == cfg.get("special")), None)
+    parts = re.findall(r'<figure><img src="([^"]*)"[^>]*><figcaption>(.*?)</figcaption></figure>\s*(<div class="gallery">.*?</div>)?', a["body"], re.S)
+    out = []
+    if special:
+        out.append(f'<aside class="rank-lead"><a class="rank-special" href="{BASE}/episodes/{special["key"]}/"><img src="{BASE}/art/thumb/{special["key"]}.jpg" alt="" width="120" height="120">'
+                   f'<div><b>Listen to the special episode</b><span>{E(special["title"])}</span></div></a><p>{E(cfg.get("intro", ""))}</p></aside>')
+    for _cover, caption, gallery in parts:
+        head = re.match(r"\s*<p>#(\d+)\s*-\s*(.*?)</p>(.*)", caption, re.S)
+        if not head:
+            continue
+        rank, name, text = head.group(1), head.group(2).strip(), head.group(3).strip()
+        r = by_num.get(cfg["ranks"].get(rank))
+        link = f"{BASE}/episodes/{r['key']}/" if r else None
+        info = (GAME_INFO.get(str(r["number"])) or {}) if r else {}
+        chips = ""
+        if info.get("verdict"):
+            vq = urllib.parse.urlencode({"verdict": info["verdict"].lower()})
+            chips += f'<a class="gtag v-{info["verdict"].lower().replace(" ", "")}" href="{BASE}/episodes/?{vq}" title="See every episode with this verdict">{E(info["verdict"])}</a>'
+        if info.get("genre"):
+            chips += f'<a class="gtag" href="{BASE}/episodes/?{urllib.parse.urlencode({"genre": info["genre"].lower()})}">{E(info["genre"])}</a>'
+        if info.get("publishers"):
+            chips += f'<a class="gtag" href="{BASE}/episodes/?{urllib.parse.urlencode({"pub": info["publishers"][0].lower()})}">{E(info["publishers"][0])}</a>'
+        shots = ""
+        if gallery:
+            imgs = re.findall(r"<img [^>]*>", gallery)
+            keep = [i for i in imgs if 'class="px"' in i] or imgs  # the screenshots are listed twice (smooth and crisp): keep the crisp ones
+            shots = '<div class="gallery">' + "".join(keep) + "</div>"
+        cover = (f'<a class="rank-cover" href="{link}"><img src="{BASE}/art/{r["key"]}.jpg" alt="{E(cover_alt(r))}" width="300" height="300" loading="lazy"></a>' if r else "")
+        title = f'<a href="{link}">{E(name)}</a>' if link else E(name)
+        listen = (f'<p class="rank-listen"><a class="btn" href="{link}">Hear our episode: {E(nice_case(r["title"]))}</a></p>' if r else "")
+        out.append(f'<section class="rank" id="rank-{rank}"><div class="rank-head"><span class="rank-n">#{rank}</span><h2>{title}</h2></div>'
+                   f'<div class="rank-main">{cover}<div class="rank-text"><div class="gchips">{chips}</div>{prose(text, ep_map)}{listen}</div></div>{prose(shots, ep_map) if shots else ""}</section>')
+    return "".join(out)
 
 
 def related_block(cfg, data, card_html):
@@ -669,7 +708,7 @@ def build_migrated(data, write, card_html):
         body = f"""<p class="crumbs"><a href="{BASE}/articles/">← All articles</a></p>
 <article data-pagefind-body><h1 data-pagefind-meta="title">{E(a["title"])}</h1>
 <div class="meta">{fmt_date(a["date"])} · {E(a["author"])}</div>{('<div class="tags">'+tags+'</div>') if tags else ""}
-<div class="prose">{prose(a["body"], ep_map)}</div></article>{extra}"""
+{countdown_html(a, ov, data, ep_map) if ov.get("layout") == "countdown" else '<div class="prose">' + prose(a["body"], ep_map) + "</div>"}</article>{extra}"""
         img = a["image"].replace("{BASE}", "") if a.get("image") else None
         write(a["path"].strip("/") + "/index.html",
               page(ov.get("title") or f'{a["title"]} · NEStalgia', body, "/" + a["path"].strip("/") + "/", desc=ov.get("description") or a["excerpt"], image=img, current="articles",

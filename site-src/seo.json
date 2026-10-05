@@ -31,7 +31,18 @@
     },
     "/articles/best-of-1985": {
       "title": "The Top 5 NES Launch Games of 1985 · NEStalgia",
-      "description": "Our ranking of the top 5 of the 17 NES launch games of 1985, with what still holds up today, from Excitebike on up."
+      "description": "Our ranking of the top 5 of the 17 NES launch games of 1985, with what still holds up today, from Excitebike on up.",
+      "layout": "countdown",
+      "special": "special-best-of-1985",
+      "intro": "Our top five of the 17 NES launch games of 1985, counted down from number five to number one. Every game links to the episode where we covered it.",
+      "ranks": {
+        "5": 5,
+        "4": 10,
+        "3": 4,
+        "2": 6,
+        "1": 14
+      },
+      "episode_label": "Ranked #{rank} in our Top 5 NES Games of 1985"
     },
     "/articles/nestalgia/blog/m6pdirlpwivfnwsefaez851zzyq0u8": {
       "title": "NES Essential Games List Community Vote (2024) · NEStalgia",
@@ -65,6 +76,36 @@
       "title_equals": "Baseball",
       "href": "/articles/nestalgia/blog/is-nes-baseball-haunted/",
       "label": "Read: Is NES Baseball haunted?"
+    },
+    {
+      "key": "special-best-of-1985",
+      "href": "/articles/best-of-1985/",
+      "label": "Read the written recap: The Top 5 NES Games of 1985"
+    },
+    {
+      "number": 5,
+      "href": "/articles/best-of-1985/#rank-5",
+      "label": "Ranked #5 in our Top 5 NES Games of 1985"
+    },
+    {
+      "number": 10,
+      "href": "/articles/best-of-1985/#rank-4",
+      "label": "Ranked #4 in our Top 5 NES Games of 1985"
+    },
+    {
+      "number": 4,
+      "href": "/articles/best-of-1985/#rank-3",
+      "label": "Ranked #3 in our Top 5 NES Games of 1985"
+    },
+    {
+      "number": 6,
+      "href": "/articles/best-of-1985/#rank-2",
+      "label": "Ranked #2 in our Top 5 NES Games of 1985"
+    },
+    {
+      "number": 14,
+      "href": "/articles/best-of-1985/#rank-1",
+      "label": "Ranked #1 in our Top 5 NES Games of 1985"
     }
   ],
   "redirects": {

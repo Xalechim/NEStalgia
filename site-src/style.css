@@ -416,3 +416,24 @@ header.site :focus-visible { outline-color: #fff; }
 .review .src { font-size: 13px; color: var(--gray); border-top: 2px dashed var(--rule); padding-top: 10px; margin-top: 24px; }
 
 .guide-link { margin: -6px 0 14px; font-size: 15px; }
+
+/* Countdown articles ("Top 5 of 1985") in the site's own style */
+.rank-lead { display: flex; gap: 18px; align-items: center; flex-wrap: wrap; border: 3px solid var(--line); background: var(--card); box-shadow: 4px 4px 0 var(--shadow); padding: 14px 18px; margin: 18px 0 26px; }
+.rank-lead p { margin: 0; flex: 1 1 300px; }
+.rank-special { display: flex; gap: 14px; align-items: center; text-decoration: none; color: var(--ink); }
+.rank-special img { width: 96px; height: 96px; border: 3px solid var(--line); box-shadow: 3px 3px 0 var(--shadow); }
+.rank-special b { display: block; font-family: var(--mono); text-transform: uppercase; letter-spacing: .06em; font-size: 13px; color: var(--link); }
+.rank-special span { font-weight: 700; }
+.rank { border: 3px solid var(--line); background: var(--card); box-shadow: 5px 5px 0 var(--shadow); margin: 0 0 30px; }
+.rank-head { display: flex; align-items: center; gap: 14px; background: var(--dark); color: #fff; padding: 8px 16px; }
+.rank-head h2 { background: none; margin: 0; padding: 0; font-size: 1.4rem; text-transform: none; letter-spacing: 0; font-family: inherit; display: block; }
+.rank-head h2 a { color: #fff; text-decoration: none; }
+.rank-head h2 a:hover { text-decoration: underline; }
+.rank-n { font-family: var(--mono); font-weight: 700; font-size: 1.8rem; color: #f2c230; line-height: 1; }
+.rank-main { display: grid; grid-template-columns: 220px 1fr; gap: 22px; padding: 18px 20px 6px; align-items: start; }
+.rank-cover img { width: 100%; height: auto; border: 3px solid var(--line); box-shadow: 4px 4px 0 var(--shadow); display: block; }
+.rank-text p { margin: 0 0 1em; }
+.gchips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 14px; }
+.rank-listen { margin: 6px 0 14px !important; }
+.rank .gallery { margin: 4px 20px 20px; }
+@media (max-width: 640px) { .rank-main { grid-template-columns: 1fr; } .rank-cover { max-width: 240px; } }
