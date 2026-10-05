@@ -250,32 +250,82 @@ SEO = {}
 
 
 def guide_link(r):
-    """On an episode page, a link to the article that goes with it (SHMUP episodes -> the SHMUP guide). Helps readers and search engines."""
+    """On an episode page, links to the articles that go with it (SHMUP episodes -> the SHMUP guide; the five games of a Top 5 -> that article).
+    Helps readers and search engines."""
     info = GAME_INFO.get(str(r["number"])) if r["type"] == "episode" and r["number"] is not None else None
+    out = []
     for g in SEO.get("episode_guides", []):
-        if (g.get("key") and g["key"] == r.get("key")) or (g.get("number") and r["type"] == "episode" and g["number"] == r["number"]):
-            return f'<p class="guide-link" data-pagefind-ignore><a href="{BASE}{g["href"]}">{E(g["label"])} &rarr;</a></p>'
-        if info and ((g.get("genre") and info["genre"] == g["genre"]) or (g.get("title_contains") and g["title_contains"].lower() in r["title"].lower())
-                     or (g.get("title_equals") and g["title_equals"].lower() == r["title"].strip().lower())):
-            return f'<p class="guide-link" data-pagefind-ignore><a href="{BASE}{g["href"]}">{E(g["label"])} &rarr;</a></p>'
-    return ""
+        hit = (g.get("key") and g["key"] == r.get("key")) or (g.get("number") and r["type"] == "episode" and g["number"] == r["number"])
+        if not hit and info:
+            hit = ((g.get("genre") and info["genre"] == g["genre"]) or (g.get("title_contains") and g["title_contains"].lower() in r["title"].lower())
+                   or (g.get("title_equals") and g["title_equals"].lower() == r["title"].strip().lower()))
+        if hit:
+            out.append(f'<p class="guide-link" data-pagefind-ignore><a href="{BASE}{g["href"]}">{E(g["label"])} &rarr;</a></p>')
+    return "".join(out)
 
 
 def countdown_html(a, cfg, data, ep_map):
-    """Rebuild a 'Top 5' article in the site's own style: one card per game with the episode's cover, verdict and a link to the episode,
-    a link to the matching special episode at the top, and the original write-up and screenshots underneath."""
+    """Rebuild a 'Top 5' article in the site's own style: a link to the matching special episode, the stats and 'year in review' text
+    if the article has them, then one card per game with the episode's cover, verdict and a link to the episode, with the original
+    write-up and screenshots underneath. Understands both ways these articles were written ('#5 - Title' in the caption, or '#5' / '- TITLE' /
+    developer on separate lines with the text pasted in as headings)."""
+    body = a["body"]
     by_num = {r["number"]: r for r in data if r["type"] == "episode" and r["number"] is not None}
     special = next((r for r in data if r["key"] == cfg.get("special")), None)
-    parts = re.findall(r'<figure><img src="([^"]*)"[^>]*><figcaption>(.*?)</figcaption></figure>\s*(<div class="gallery">.*?</div>)?', a["body"], re.S)
     out = []
+
+    def para(h):  # text that was pasted in as a heading becomes a paragraph again
+        return re.sub(r"<(h[1-6])[^>]*>(.*?)</\1>", r"<p>\2</p>", h, flags=re.S)
+
     if special:
         out.append(f'<aside class="rank-lead"><a class="rank-special" href="{BASE}/episodes/{special["key"]}/"><img src="{BASE}/art/thumb/{special["key"]}.jpg" alt="" width="120" height="120">'
                    f'<div><b>Listen to the special episode</b><span>{E(special["title"])}</span></div></a><p>{E(cfg.get("intro", ""))}</p></aside>')
-    for _cover, caption, gallery in parts:
-        head = re.match(r"\s*<p>#(\d+)\s*-\s*(.*?)</p>(.*)", caption, re.S)
-        if not head:
+
+    # The introduction before the first game: stats (a quote block of "Label - Value" lines) and the year-in-review text
+    first = body.find("<figure>")
+    intro = body[:first] if first > 0 else ""
+    intro = re.sub(r"<h2>\s*PRELUDE\s*</h2>", "", intro)
+    quote = re.search(r"<blockquote>(.*?)</blockquote>", intro, re.S)
+    before, after = (intro[:quote.start()], intro[quote.end():]) if quote else ("", intro)
+    has_text = lambda h: bool(re.sub(r"<[^>]+>|\s", "", h))
+    if has_text(before):  # the opening paragraph leads straight into the stats, as it was written
+        out.append(f'<div class="prose">{prose(before, ep_map)}</div>')
+    if quote:
+        tiles = []
+        for line in re.findall(r"<p>(.*?)</p>", quote.group(1), re.S):
+            label, _, value = re.sub(r"<[^>]+>", "", line).strip().partition(" - ")
+            if not value:
+                continue
+            if "essential" in label.lower():
+                links = "".join(f'<a class="gtag" href="{BASE}/episodes/{by_num[n]["key"]}/">{E(nice_case(by_num[n]["title"]))}</a>'
+                                for n in (cfg.get("essential_added") or []) if n in by_num)
+                tiles.append(f'<div class="tile wide"><span>{E(label)}</span><div class="gchips">{links or E(value)}</div></div>')
+            else:
+                tiles.append(f'<div class="tile"><b>{E(value.strip())}</b><span>{E(label)}</span></div>')
+        if tiles:
+            out.append(f'<h2>The year in numbers</h2><div class="estats">{"".join(tiles)}</div>')
+    if has_text(after):
+        out.append(f'<div class="manual"><div class="mtab">What the year tells us</div>{prose(after, ep_map)}</div>')
+    if has_text(before) or quote or has_text(after):
+        out.append("<h2>Our top five</h2>")
+
+    pat = r'<figure><img src="([^"]*)"[^>]*><figcaption>(.*?)</figcaption></figure>(.*?)(?=<figure>|\Z)'
+    for _cover, caption, rest in re.findall(pat, body, re.S):
+        ps = [p.strip() for p in re.findall(r"<p>(.*?)</p>", caption, re.S)]
+        if not ps:
             continue
-        rank, name, text = head.group(1), head.group(2).strip(), head.group(3).strip()
+        m = re.match(r"#(\d+)\s*-\s*(.*)", ps[0], re.S)
+        if m:  # '#4 - Kung-Fu*' then the write-up, all in the caption
+            rank, name, dev, text = m.group(1), m.group(2).strip(), "", "".join(f"<p>{x}</p>" for x in ps[1:])
+        else:  # '#5', '- DONKEY KONG', 'Nintendo R&D 1', then the write-up pasted in after the picture
+            rank = re.sub(r"\D", "", ps[0])
+            name = nice_case(re.sub(r"^[-\s]+", "", ps[1])) if len(ps) > 1 else ""
+            dev = ps[2] if len(ps) > 2 else ""
+            text = ""
+        gm = re.search(r'<div class="gallery">.*?</div>', rest, re.S)
+        gallery = gm.group(0) if gm else ""
+        if not text:
+            text = para(rest.replace(gallery, "")).strip()
         r = by_num.get(cfg["ranks"].get(rank))
         link = f"{BASE}/episodes/{r['key']}/" if r else None
         info = (GAME_INFO.get(str(r["number"])) or {}) if r else {}
@@ -285,8 +335,12 @@ def countdown_html(a, cfg, data, ep_map):
             chips += f'<a class="gtag v-{info["verdict"].lower().replace(" ", "")}" href="{BASE}/episodes/?{vq}" title="See every episode with this verdict">{E(info["verdict"])}</a>'
         if info.get("genre"):
             chips += f'<a class="gtag" href="{BASE}/episodes/?{urllib.parse.urlencode({"genre": info["genre"].lower()})}">{E(info["genre"])}</a>'
-        if info.get("publishers"):
-            chips += f'<a class="gtag" href="{BASE}/episodes/?{urllib.parse.urlencode({"pub": info["publishers"][0].lower()})}">{E(info["publishers"][0])}</a>'
+        if info.get("developers"):
+            chips += f'<a class="gtag" href="{BASE}/episodes/?{urllib.parse.urlencode({"dev": info["developers"][0].lower()})}" title="Developer">{E(info["developers"][0])}</a>'
+        elif dev:
+            chips += f'<span class="gtag">{E(dev)}</span>'
+        if info.get("publishers") and info["publishers"][0] not in (info.get("developers") or [""])[:1]:
+            chips += f'<a class="gtag" href="{BASE}/episodes/?{urllib.parse.urlencode({"pub": info["publishers"][0].lower()})}" title="Publisher">{E(info["publishers"][0])}</a>'
         shots = ""
         own = (cfg.get("screenshots") or {}).get(rank)
         if own:  # screenshots chosen for this game in seo.json replace the original ones
@@ -296,10 +350,10 @@ def countdown_html(a, cfg, data, ep_map):
         elif gallery:
             # The original lists every screenshot twice (a smooth and a crisp copy). Keep one of each, preferring the crisp copy.
             seen = {}
-            for i in re.findall(r"<img [^>]*>", gallery):
-                src = re.search(r'src="([^"]*)"', i).group(1)
-                if src not in seen or ('class="px"' in i and 'class="px"' not in seen[src]):
-                    seen[src] = i
+            for i2 in re.findall(r"<img [^>]*>", gallery):
+                src = re.search(r'src="([^"]*)"', i2).group(1)
+                if src not in seen or ('class="px"' in i2 and 'class="px"' not in seen[src]):
+                    seen[src] = i2
             shots = '<div class="gallery">' + "".join(seen.values()) + "</div>"
         cover = (f'<a class="rank-cover" href="{link}"><img src="{BASE}/art/{r["key"]}.jpg" alt="{E(cover_alt(r))}" width="300" height="300" loading="lazy"></a>' if r else "")
         title = f'<a href="{link}">{E(name)}</a>' if link else E(name)
@@ -311,7 +365,10 @@ def countdown_html(a, cfg, data, ep_map):
 
 def related_block(cfg, data, card_html):
     """'Every X we've covered': episode cards for a genre, newest game last, with a link to the filtered Episodes page."""
-    rows = [r for r in data if r["type"] == "episode" and r["number"] is not None and (GAME_INFO.get(str(r["number"])) or {}).get("genre") == cfg["genre"]]
+    def wanted(r):
+        info = GAME_INFO.get(str(r["number"])) or {}
+        return (cfg.get("genre") and info.get("genre") == cfg["genre"]) or (cfg.get("year") and info.get("year") == cfg["year"])
+    rows = [r for r in data if r["type"] == "episode" and r["number"] is not None and wanted(r)]
     rows.sort(key=lambda r: r["number"])
     if not rows:
         return ""

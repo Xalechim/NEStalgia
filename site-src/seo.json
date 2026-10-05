@@ -27,7 +27,30 @@
     },
     "/articles/best-of-1986": {
       "title": "The Top 5 NES Games of 1986 (Our 19-Game Recap) · NEStalgia",
-      "description": "Our ranking of the top 5 NES games of 1986 out of 19 releases, plus the stats: first-party vs. third-party games and which ones made the Essential list."
+      "description": "Our ranking of the top 5 NES games of 1986 out of 19 releases, plus the stats: first-party vs. third-party games and which ones made the Essential list.",
+      "layout": "countdown",
+      "special": "s002-best-of-1986",
+      "intro": "Our top five of the 19 NES games released in 1986, with the year's stats and what they tell us about the console's first real year.",
+      "ranks": {
+        "5": 18,
+        "4": 34,
+        "3": 26,
+        "2": 24,
+        "1": 35
+      },
+      "essential_added": [
+        24,
+        35
+      ],
+      "episode_label": "Ranked #{rank} in our Top 5 NES Games of 1986",
+      "related": {
+        "heading": "Every NES game of 1986 we covered",
+        "year": 1986,
+        "see_all": {
+          "year": 1986
+        },
+        "see_all_label": "See all of 1986 with our verdicts"
+      }
     },
     "/articles/best-of-1985": {
       "title": "The Top 5 NES Launch Games of 1985 · NEStalgia",
@@ -126,6 +149,36 @@
       "number": 14,
       "href": "/articles/best-of-1985/#rank-1",
       "label": "Ranked #1 in our Top 5 NES Games of 1985"
+    },
+    {
+      "key": "s002-best-of-1986",
+      "href": "/articles/best-of-1986/",
+      "label": "Read the written recap: The Top 5 NES Games of 1986"
+    },
+    {
+      "number": 18,
+      "href": "/articles/best-of-1986/#rank-5",
+      "label": "Ranked #5 in our Top 5 NES Games of 1986"
+    },
+    {
+      "number": 34,
+      "href": "/articles/best-of-1986/#rank-4",
+      "label": "Ranked #4 in our Top 5 NES Games of 1986"
+    },
+    {
+      "number": 26,
+      "href": "/articles/best-of-1986/#rank-3",
+      "label": "Ranked #3 in our Top 5 NES Games of 1986"
+    },
+    {
+      "number": 24,
+      "href": "/articles/best-of-1986/#rank-2",
+      "label": "Ranked #2 in our Top 5 NES Games of 1986"
+    },
+    {
+      "number": 35,
+      "href": "/articles/best-of-1986/#rank-1",
+      "label": "Ranked #1 in our Top 5 NES Games of 1986"
     }
   ],
   "redirects": {

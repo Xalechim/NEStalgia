@@ -438,3 +438,6 @@ header.site :focus-visible { outline-color: #fff; }
 .rank .gallery { margin: 4px 20px 20px; }
 @media (max-width: 640px) { .rank-main { grid-template-columns: 1fr; } .rank-cover { max-width: 240px; } }
 .rank .gallery img { aspect-ratio: auto; height: auto; object-fit: contain; align-self: start; }
+.tile.wide { flex: 1 1 100%; max-width: 100%; }
+.tile.wide .gchips { margin: 6px 0 0; }
+.estats .tile b { font-size: 1.5rem; overflow-wrap: anywhere; }
