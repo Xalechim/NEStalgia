@@ -1,0 +1,467 @@
+{
+  "episode": 2,
+  "title": "002 - Baseball",
+  "generated": "2026-10-05",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "15f8794edc44",
+  "items": [
+    {
+      "name": "Baseball",
+      "kind": "game",
+      "description": "The episode's game: Nintendo's launch-day NES baseball game, a port of the 1983 Famicom original.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Baseball_(1983_video_game)",
+          "label": "Wikipedia: Baseball (1983 video game)",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/4516/baseball/releases/",
+          "label": "Baseball - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/nes/578280-baseball",
+          "label": "Baseball for NES - GameFAQs",
+          "source": "reference"
+        },
+        {
+          "url": "https://tcrf.net/Baseball_(NES,_Famicom_Disk_System)",
+          "label": "Baseball (NES, Famicom Disk System) - The Cutting Room Floor",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "10-Yard Fight",
+      "kind": "game",
+      "description": "The other NES launch game, covered in the previous episode, also a simple sports title.",
+      "timestamp": "01:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/10-Yard_Fight",
+          "label": "Wikipedia: 10-Yard Fight",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "001-10-yard-fight",
+      "episode_title": "10-YARD FIGHT"
+    },
+    {
+      "name": "Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "The console Baseball launched with in October 1985; the hosts also compare it to the Japanese Famicom original.",
+      "timestamp": "00:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
+          "label": "Wikipedia: Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Toys \"R\" Us",
+      "kind": "company",
+      "description": "One of the stores where you could pick up the NES at launch.",
+      "timestamp": "00:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Toys_%22R%22_Us",
+          "label": "Wikipedia: Toys \"R\" Us",
+          "source": "wikipedia",
+          "note": "American toy, clothing, and baby product retailer"
+        }
+      ]
+    },
+    {
+      "name": "Circuit City",
+      "kind": "company",
+      "description": "Electronics retailer another host remembers buying the NES from; the story is saved for the post show.",
+      "timestamp": "00:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Circuit_City",
+          "label": "Wikipedia: Circuit City",
+          "source": "wikipedia",
+          "note": "Consumer electronics retailer"
+        }
+      ]
+    },
+    {
+      "name": "Game manuals (NES manual archive)",
+      "kind": "website_or_article",
+      "description": "The instruction booklet Sam studied for ten minutes to make sense of all the controls.",
+      "timestamp": "02:32",
+      "links": [
+        {
+          "url": "https://archive.org/details/nes-manual-archive",
+          "label": "NES Manual Archive - Internet Archive",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Backyard Baseball",
+      "kind": "game",
+      "description": "A computer baseball game with a jingle for every batter, which the hosts wish this game had.",
+      "timestamp": "15:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Backyard_Baseball_(1997_video_game)",
+          "label": "Wikipedia: Backyard Baseball (1997 video game)",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/56578/backyard-baseball/",
+          "label": "Backyard Baseball (1997) - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Hit by pitch",
+      "kind": "event_or_term",
+      "description": "The ball passes straight through the batter in this game, so a hit by pitch never happens.",
+      "timestamp": "14:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hit_by_pitch",
+          "label": "Wikipedia: Hit by pitch",
+          "source": "wikipedia",
+          "note": "Baseball statistic"
+        }
+      ]
+    },
+    {
+      "name": "Extra innings",
+      "kind": "event_or_term",
+      "description": "After a tie in the ninth inning this game simply ends instead of playing extra innings.",
+      "timestamp": "11:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Extra_innings",
+          "label": "Wikipedia: Extra innings",
+          "source": "wikipedia",
+          "note": "Extended play of baseball"
+        }
+      ]
+    },
+    {
+      "name": "Perfect game",
+      "kind": "event_or_term",
+      "description": "The hosts joke that a perfect game is impossible when you can't control the fielders.",
+      "timestamp": "15:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Perfect_game_(baseball)",
+          "label": "Wikipedia: Perfect game (baseball)",
+          "source": "wikipedia",
+          "note": "Game where at least one team has no baserunners"
+        }
+      ]
+    },
+    {
+      "name": "MLB (the league)",
+      "kind": "team_or_league",
+      "description": "The league whose teams the game's single-letter squads are based on.",
+      "timestamp": "16:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+          "label": "Wikipedia: Major League Baseball",
+          "source": "wikipedia",
+          "note": "North American professional baseball league"
+        }
+      ]
+    },
+    {
+      "name": "New York Yankees",
+      "kind": "team_or_league",
+      "description": "One of the real MLB teams the game's letter-and-color teams stand in for.",
+      "timestamp": "16:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/New_York_Yankees",
+          "label": "Wikipedia: New York Yankees",
+          "source": "wikipedia",
+          "note": "Major League Baseball franchise"
+        }
+      ]
+    },
+    {
+      "name": "Detroit Tigers",
+      "kind": "team_or_league",
+      "description": "Another real team the game's teams appear to be modeled on.",
+      "timestamp": "16:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Detroit_Tigers",
+          "label": "Wikipedia: Detroit Tigers",
+          "source": "wikipedia",
+          "note": "Major League Baseball franchise in Detroit, Michigan"
+        }
+      ]
+    },
+    {
+      "name": "Philadelphia Phillies",
+      "kind": "team_or_league",
+      "description": "A real MLB club the hosts spotted among the game's teams.",
+      "timestamp": "16:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Philadelphia_Phillies",
+          "label": "Wikipedia: Philadelphia Phillies",
+          "source": "wikipedia",
+          "note": "American Major League Baseball team"
+        }
+      ]
+    },
+    {
+      "name": "Boston Red Sox",
+      "kind": "team_or_league",
+      "description": "A real MLB club the hosts spotted among the game's teams.",
+      "timestamp": "16:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Boston_Red_Sox",
+          "label": "Wikipedia: Boston Red Sox",
+          "source": "wikipedia",
+          "note": "Major League Baseball franchise"
+        }
+      ]
+    },
+    {
+      "name": "NES Remix",
+      "kind": "game",
+      "description": "A Wii U and 3DS series in which Baseball appears only as a bottom-of-the-ninth challenge.",
+      "timestamp": "17:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NES_Remix",
+          "label": "Wikipedia: NES Remix",
+          "source": "wikipedia",
+          "note": "Video game series"
+        },
+        {
+          "url": "https://fictionalcrossover.fandom.com/wiki/Baseball_(Nintendo)_X_NES_Remix",
+          "label": "Baseball (Nintendo) X NES Remix",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Wii U",
+      "kind": "hardware",
+      "description": "One of the platforms NES Remix was released on.",
+      "timestamp": "17:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wii_U",
+          "label": "Wikipedia: Wii U",
+          "source": "wikipedia",
+          "note": "Home video game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo 3DS",
+      "kind": "hardware",
+      "description": "The other platform NES Remix was released on.",
+      "timestamp": "17:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_3DS",
+          "label": "Wikipedia: Nintendo 3DS",
+          "source": "wikipedia",
+          "note": "Handheld game console"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "Our Hall of Fame of NES games still worth playing; Baseball did not make it.",
+      "timestamp": "17:48",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "R.B.I. Baseball",
+      "kind": "game",
+      "description": "A later NES baseball game one host remembers being more fun than this one.",
+      "timestamp": "22:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/R.B.I._Baseball",
+          "label": "Wikipedia: R.B.I. Baseball",
+          "source": "wikipedia",
+          "note": "Baseball video game series"
+        },
+        {
+          "url": "https://www.mobygames.com/game/10371/rbi-baseball/",
+          "label": "R.B.I. Baseball (1986) - MobyGames",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "105-r-b-i-baseball",
+      "episode_title": "R.B.I BASEBALL"
+    },
+    {
+      "name": "MLB The Show",
+      "kind": "game",
+      "description": "The modern baseball video game the hosts say shows how far the genre has come.",
+      "timestamp": "24:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/MLB%3A_The_Show",
+          "label": "Wikipedia: MLB: The Show",
+          "source": "wikipedia",
+          "note": "American baseball video game series"
+        }
+      ]
+    },
+    {
+      "name": "Buffalo Bisons",
+      "kind": "team_or_league",
+      "description": "The Triple-A team near where two hosts grew up; its location and parent club are a running joke.",
+      "timestamp": "26:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Buffalo_Bisons",
+          "label": "Wikipedia: Buffalo Bisons",
+          "source": "wikipedia",
+          "note": "Minor League Baseball (AAA) team in Buffalo, New York"
+        },
+        {
+          "url": "https://www.mlb.com/milb/buffalo",
+          "label": "Official Buffalo Bisons Website",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "New York Mets",
+      "kind": "team_or_league",
+      "description": "The team one host adopted after a trade-off with their friend's Buffalo Bills fandom.",
+      "timestamp": "26:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/New_York_Mets",
+          "label": "Wikipedia: New York Mets",
+          "source": "wikipedia",
+          "note": "Major League Baseball franchise"
+        }
+      ]
+    },
+    {
+      "name": "Buffalo Bills",
+      "kind": "team_or_league",
+      "description": "The NFL team the other host was made to adopt.",
+      "timestamp": "26:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Buffalo_Bills",
+          "label": "Wikipedia: Buffalo Bills",
+          "source": "wikipedia",
+          "note": "NFL team in Orchard Park, New York"
+        }
+      ]
+    },
+    {
+      "name": "T-ball",
+      "kind": "event_or_term",
+      "description": "A beginner version of baseball one host played as a kid.",
+      "timestamp": "27:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tee-ball",
+          "label": "Wikipedia: Tee-ball",
+          "source": "wikipedia",
+          "note": "Children's team sport"
+        }
+      ]
+    },
+    {
+      "name": "Little League Baseball",
+      "kind": "event_or_term",
+      "description": "The youth leagues everyone enjoys until it stops being fun, according to the post show.",
+      "timestamp": "28:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Little_League_Baseball",
+          "label": "Wikipedia: Little League Baseball",
+          "source": "wikipedia",
+          "note": "American youth sports organization"
+        }
+      ]
+    },
+    {
+      "name": "Seventh-inning stretch",
+      "kind": "event_or_term",
+      "description": "The ballpark tradition with its own song that the hosts find charming.",
+      "timestamp": "28:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Seventh-inning_stretch",
+          "label": "Wikipedia: Seventh-inning stretch",
+          "source": "wikipedia",
+          "note": "Break during a baseball game"
+        }
+      ]
+    },
+    {
+      "name": "Shea Stadium",
+      "kind": "other",
+      "description": "The Mets' old ballpark, where planes landing at LaGuardia flew overhead, which a baseball game once recreated.",
+      "timestamp": "30:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shea_Stadium",
+          "label": "Wikipedia: Shea Stadium",
+          "source": "wikipedia",
+          "note": "Stadium in Queens, New York (1964–2009)"
+        }
+      ]
+    },
+    {
+      "name": "LaGuardia Airport",
+      "kind": "other",
+      "description": "The New York airport whose planes flew over Shea Stadium.",
+      "timestamp": "30:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/LaGuardia_Airport",
+          "label": "Wikipedia: LaGuardia Airport",
+          "source": "wikipedia",
+          "note": "Airport in East Elmhurst, Queens, New York City, U.S."
+        }
+      ]
+    },
+    {
+      "name": "Kickball",
+      "kind": "event_or_term",
+      "description": "A schoolyard variation of baseball one host was famously bad at.",
+      "timestamp": "31:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kickball",
+          "label": "Wikipedia: Kickball",
+          "source": "wikipedia",
+          "note": "Team sport"
+        }
+      ]
+    }
+  ]
+}
