@@ -42,7 +42,28 @@
         "2": 6,
         "1": 14
       },
-      "episode_label": "Ranked #{rank} in our Top 5 NES Games of 1985"
+      "episode_label": "Ranked #{rank} in our Top 5 NES Games of 1985",
+      "screenshots": {
+        "3": [
+          {
+            "file": "duck-hunt-nes-screenshot-1-dog-title.png",
+            "alt": "Duck Hunt: the dog pops out of the grass at the start of round 1",
+            "px": true
+          },
+          {
+            "file": "duck-hunt-nes-screenshot-2-dog-sniffing.jpg",
+            "alt": "Duck Hunt: the dog sniffs through the grass at the start of a round"
+          },
+          {
+            "file": "duck-hunt-nes-screenshot-3-duck-down.jpg",
+            "alt": "Duck Hunt: a duck you shot falls, showing 1000 points, while another flies away"
+          },
+          {
+            "file": "duck-hunt-nes-screenshot-4-dog-two-ducks.jpg",
+            "alt": "Duck Hunt: the dog holds up two ducks you shot"
+          }
+        ]
+      }
     },
     "/articles/nestalgia/blog/m6pdirlpwivfnwsefaez851zzyq0u8": {
       "title": "NES Essential Games List Community Vote (2024) · NEStalgia",

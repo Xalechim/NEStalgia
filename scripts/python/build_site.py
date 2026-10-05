@@ -288,10 +288,19 @@ def countdown_html(a, cfg, data, ep_map):
         if info.get("publishers"):
             chips += f'<a class="gtag" href="{BASE}/episodes/?{urllib.parse.urlencode({"pub": info["publishers"][0].lower()})}">{E(info["publishers"][0])}</a>'
         shots = ""
-        if gallery:
-            imgs = re.findall(r"<img [^>]*>", gallery)
-            keep = [i for i in imgs if 'class="px"' in i] or imgs  # the screenshots are listed twice (smooth and crisp): keep the crisp ones
-            shots = '<div class="gallery">' + "".join(keep) + "</div>"
+        own = (cfg.get("screenshots") or {}).get(rank)
+        if own:  # screenshots chosen for this game in seo.json replace the original ones
+            px = ' class="px"'
+            shots = '<div class="gallery">' + "".join(
+                '<img%s src="{BASE}/media/%s" alt="%s" loading="lazy">' % (px if o.get("px") else "", E(o["file"]), E(o.get("alt", ""))) for o in own) + "</div>"
+        elif gallery:
+            # The original lists every screenshot twice (a smooth and a crisp copy). Keep one of each, preferring the crisp copy.
+            seen = {}
+            for i in re.findall(r"<img [^>]*>", gallery):
+                src = re.search(r'src="([^"]*)"', i).group(1)
+                if src not in seen or ('class="px"' in i and 'class="px"' not in seen[src]):
+                    seen[src] = i
+            shots = '<div class="gallery">' + "".join(seen.values()) + "</div>"
         cover = (f'<a class="rank-cover" href="{link}"><img src="{BASE}/art/{r["key"]}.jpg" alt="{E(cover_alt(r))}" width="300" height="300" loading="lazy"></a>' if r else "")
         title = f'<a href="{link}">{E(name)}</a>' if link else E(name)
         listen = (f'<p class="rank-listen"><a class="btn" href="{link}">Hear our episode: {E(nice_case(r["title"]))}</a></p>' if r else "")
