@@ -405,3 +405,12 @@ header.site :focus-visible { outline-color: #fff; }
 .patreon-box { border: 3px solid var(--line); background: var(--card); box-shadow: 4px 4px 0 var(--shadow); padding: 14px 20px 6px; margin: 18px 0; }
 .patreon-box b { display: block; font-family: var(--mono); text-transform: uppercase; letter-spacing: .08em; margin-bottom: 6px; }
 .patreon-box p { margin: 0 0 12px; }
+
+/* Review tab */
+.card .b-review { background: #0b6e5a; }
+.review { max-width: 46em; }
+.review h3 { font-family: var(--mono); text-transform: uppercase; letter-spacing: .06em; font-size: 1rem; margin: 26px 0 8px; }
+.review ul { padding-left: 1.2em; }
+.review li { margin: 0 0 .7em; }
+.review .rverdict { margin: 12px 0 18px; }
+.review .src { font-size: 13px; color: var(--gray); border-top: 2px dashed var(--rule); padding-top: 10px; margin-top: 24px; }

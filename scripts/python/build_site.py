@@ -160,6 +160,28 @@ def nice(t):
     return " ".join(words)
 
 
+def review_path(number):
+    """The written review for an episode (reviews/NNN-game-name.md), if there is one."""
+    hits = sorted((REPO / "reviews").glob(f"{number:03d}-*.md"))
+    return hits[0] if hits else None
+
+
+def render_review(path, number):
+    """Review markdown -> HTML for the Review tab, with the verdict from the spreadsheet shown at the top."""
+    text = path.read_text()
+    lines = text.split("\n")
+    if lines and lines[0].startswith("# "):
+        lines = lines[1:]
+    html_ = markdown.markdown("\n".join(lines), extensions=["tables"])
+    info = GAME_INFO.get(str(number)) or {}
+    verdict = info.get("verdict")
+    badge = ""
+    if verdict:
+        badge = (f'<p class="rverdict"><a class="gtag v-{verdict.lower().replace(" ", "")}" href="{BASE}/episodes/?{urllib.parse.urlencode({"verdict": verdict.lower()})}"'
+                 f' title="See every episode with this verdict">Our verdict: {E(verdict)}</a></p>')
+    return f'<div class="review">{badge}{html_}<p class="src">Written from our conversation in this episode.</p></div>'
+
+
 def render_links(number):
     hits = sorted((REPO / "data/links").glob(f"{number:03d}-*.json"))
     if not hits:
@@ -275,7 +297,7 @@ def filter_panel(data):
     months_order = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
     has = collections.Counter()
     for r, _ in infos:
-        has.update(w for w, on in (("notes", r["notes"]), ("links", r.get("has_links")), ("transcript", r["transcript"])) if on)
+        has.update(w for w, on in (("review", r.get("review")), ("notes", r["notes"]), ("links", r.get("has_links")), ("transcript", r["transcript"])) if on)
     chips = "".join(f'<button type="button" class="chip v-{v.lower().replace(" ", "")}" data-verdict="{v.lower()}" aria-pressed="false">{v} <span>{verdicts[v]}</span></button>'
                     for v in ("Essential", "Play it", "Skip it") if verdicts.get(v))
     return f"""<details class="filters" open data-pagefind-ignore><summary>Filter by game details</summary>
@@ -285,7 +307,7 @@ def filter_panel(data):
 <label>Release year<select data-f="year"><option value="">Any year</option>{options(years, order=sorted(years))}</select></label>
 <label>Release month<select data-f="month"><option value="">Any month</option>{options(months, order=[m for m in months_order if m in months])}</select></label>
 <label>Season<select data-f="season"><option value="">Any season</option>{options(seasons, label=lambda k: f"Season {k}", order=sorted(seasons))}</select></label>
-<label>Episode has<select data-f="has"><option value="">Anything</option>{"".join(f'<option value="{k}">{lab} ({has[k]})</option>' for k, lab in (("transcript", "A transcript"), ("links", "A Links tab"), ("notes", "Show notes")) if has.get(k))}</select></label>
+<label>Episode has<select data-f="has"><option value="">Anything</option>{"".join(f'<option value="{k}">{lab} ({has[k]})</option>' for k, lab in (("review", "A review"), ("transcript", "A transcript"), ("links", "A Links tab"), ("notes", "Show notes")) if has.get(k))}</select></label>
 <label>Developer<input type="text" data-f="dev" list="dev-list" placeholder="Type or pick, e.g. Capcom" autocomplete="off"></label>
 <label>Publisher<input type="text" data-f="pub" list="pub-list" placeholder="Type or pick, e.g. Konami" autocomplete="off"></label>
 </div>
@@ -302,7 +324,7 @@ def load_wiki_intros():
 def last_modified():
     """{repo file path: date (YYYY-MM-DD) of the last commit that touched it}, from git history. Empty if git isn't available."""
     try:
-        out = subprocess.run(["git", "-C", str(REPO), "log", "--format=@%cs", "--name-only", "--", "episodes", "transcripts", "data/links"],
+        out = subprocess.run(["git", "-C", str(REPO), "log", "--format=@%cs", "--name-only", "--", "episodes", "transcripts", "data/links", "reviews"],
                              capture_output=True, text=True, check=True).stdout
     except Exception:
         return {}
@@ -482,11 +504,11 @@ def write(rel, content):
 def card(r):
     label = (f"{r['number']:03d}" if r["number"] is not None and r["type"] == "episode" else
              f"Bytes {r['number']:03d}" if r["type"] == "bytes" else ("Special" if r["type"] == "special" else ""))
-    tags = [t for t, on in (("NOTES", r["notes"]), ("LINKS", r.get("has_links")), ("TRANSCRIPT", r["transcript"]), ("PATREON", r["type"] == "bytes")) if on]
+    tags = [t for t, on in (("REVIEW", r.get("review")), ("NOTES", r["notes"]), ("LINKS", r.get("has_links")), ("TRANSCRIPT", r["transcript"]), ("PATREON", r["type"] == "bytes")) if on]
     info = GAME_INFO.get(str(r["number"])) if r["type"] == "episode" and r["number"] is not None else None
     extra = ""
     if info:
-        has = [w for w, on in (("notes", r["notes"]), ("links", r.get("has_links")), ("transcript", r["transcript"])) if on]
+        has = [w for w, on in (("review", r.get("review")), ("notes", r["notes"]), ("links", r.get("has_links")), ("transcript", r["transcript"])) if on]
         extra = (f' data-verdict="{E(info["verdict"].lower())}" data-genre="{E(info["genre"].lower())}" data-year="{info["year"] or ""}"'
                  f' data-month="{E((info["month"] or "").lower())}" data-season="{info["season"]}"'
                  f' data-dev="{E("|".join(info["developers"]).lower())}" data-pub="{E("|".join(info["publishers"]).lower())}"'
@@ -706,6 +728,7 @@ def main():
             continue
         r["notes"], r["transcript"] = local_files(r["type"], r["number"], r["title"], r["feed_title"])
         r["has_links"] = bool(r["type"] == "episode" and r["number"] is not None and render_links(r["number"]))
+        r["review"] = review_path(r["number"]) if r["type"] == "episode" and r["number"] is not None else None
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()
@@ -782,6 +805,8 @@ def main():
         else:
             intro = None
         panels = []  # (id, tab label, html)
+        if r.get("review"):  # first in the list, so it is the tab that opens
+            panels.append(("review", "Review", f'<div class="panel">{render_review(r["review"], r["number"])}</div>'))
         if notes:
             panels.append(("notes", "Show notes", f'<div class="panel">{notes}</div>'))
         links_html = render_links(r["number"]) if r["type"] == "episode" and r["number"] is not None else ""
@@ -888,7 +913,7 @@ The site updates itself when new episodes come out. Transcript speaker names are
     mod = last_modified()
     lastmod = {}
     for r in data:  # the newest change to anything shown on the episode's page
-        files = list(r["notes"]) + ([r["transcript"]] if r["transcript"] else [])
+        files = list(r["notes"]) + ([r["transcript"]] if r["transcript"] else []) + ([str(r["review"].relative_to(REPO))] if r.get("review") else [])
         if r["type"] == "episode" and r["number"] is not None:
             files += [str(f.relative_to(REPO)) for f in (REPO / "data/links").glob(f"{r['number']:03d}-*.json")]
         days = [mod[f] for f in files if f in mod] + ([r["published"][:10]] if r["published"] else [])
