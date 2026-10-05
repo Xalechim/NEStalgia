@@ -1,0 +1,4936 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.840
+Mike Tyson's Punch-Out.
+
+00:00:02.020 --> 00:00:04.840
+Meet the Ultimate Challenge Fight, Mike Tyson.
+
+00:00:20.440 --> 00:00:27.840
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:27.840 --> 00:00:29.020
+I'm Mike.
+
+00:00:29.140 --> 00:00:30.320
+I'm Sam. I'm Joe.
+
+00:00:30.540 --> 00:00:36.440
+And I'm Sean. And today we're talking about, if you haven't guessed it from the double intro, Mike Tyson's Punch-Out.
+
+00:00:36.580 --> 00:00:38.460
+Guys, what do we know about Mike Tyson?
+
+00:00:38.680 --> 00:00:41.280
+I feel like we've learned a lot recently by playing the game.
+
+00:00:41.940 --> 00:00:50.420
+You know, I know that he was a very controversial boxing man who threatened to eat people's children.
+
+00:00:50.720 --> 00:00:52.300
+And eventually like ate someone's ear.
+
+00:00:52.640 --> 00:00:53.600
+Eats ears. Yeah, bit an ear.
+
+00:00:54.120 --> 00:00:55.360
+Stars in the Hangover.
+
+00:00:55.920 --> 00:00:58.340
+I feel like that's how I know him the best.
+
+00:00:58.480 --> 00:01:02.840
+Yeah. Because I had never watched boxing or anything, but I did watch The Hangover a lot when it came out.
+
+00:01:03.100 --> 00:01:04.540
+Yeah. And he was a big deal.
+
+00:01:04.680 --> 00:01:11.100
+And what's interesting is Nintendo signed Mike Tyson to this deal before he even became like the world boxing champion.
+
+00:01:11.800 --> 00:01:14.120
+So that was a good get for them, I guess.
+
+00:01:14.240 --> 00:01:21.880
+They just said, I think it was someone from Nintendo of America went to a boxing fight, saw Mike Tyson and was like, this guy's a big deal.
+
+00:01:21.880 --> 00:01:22.840
+Yeah, he's a big deal.
+
+00:01:22.980 --> 00:01:24.380
+Like, let's get him a contract.
+
+00:01:24.640 --> 00:01:25.840
+And then they signed him.
+
+00:01:25.900 --> 00:01:28.320
+And six months later, he became the world boxing champion.
+
+00:01:28.320 --> 00:01:30.200
+And so good get for Nintendo.
+
+00:01:30.460 --> 00:01:34.120
+Yeah, you're right to say that he's a controversial figure now.
+
+00:01:34.580 --> 00:01:37.640
+But at the time, he was the biggest deal in sports.
+
+00:01:37.820 --> 00:01:40.100
+I mean, you had Jordan in basketball.
+
+00:01:40.320 --> 00:01:41.540
+You had Gretzky on the ice.
+
+00:01:42.480 --> 00:01:43.580
+Who's like the baseball?
+
+00:01:43.940 --> 00:01:45.540
+What game was on ice? Ken Griffey, I guess.
+
+00:01:45.720 --> 00:01:46.560
+Ken Griffey is all I was going to say.
+
+00:01:47.000 --> 00:01:48.560
+Wait, were you saying Ken Griffey on ice?
+
+00:01:48.920 --> 00:01:50.060
+No, no, it's the sport.
+
+00:01:50.680 --> 00:01:51.680
+It's the sport on ice.
+
+00:01:51.680 --> 00:01:53.300
+That's hockey. Oh, yes.
+
+00:01:53.300 --> 00:01:54.800
+We haven't gotten a hockey game yet on the NES.
+
+00:01:54.800 --> 00:01:55.700
+I know, I'm looking forward to one.
+
+00:01:55.720 --> 00:01:57.520
+So, is that what you were alluding to?
+
+00:01:57.900 --> 00:01:59.460
+No, I just wanted to make a joke.
+
+00:01:59.620 --> 00:02:01.000
+Okay. Got it.
+
+00:02:01.320 --> 00:02:04.220
+Was there any football equivalent to those other sports?
+
+00:02:04.440 --> 00:02:06.580
+I guess like Bo, but I don't think...
+
+00:02:06.580 --> 00:02:07.720
+But he was also the baseball guy, right?
+
+00:02:07.800 --> 00:02:08.920
+I guess he was also baseball.
+
+00:02:09.420 --> 00:02:10.520
+Yeah, that's interesting. Jim Kelly.
+
+00:02:11.200 --> 00:02:12.040
+Jim Kelly.
+
+00:02:12.540 --> 00:02:14.260
+Specifically and only Jim Kelly.
+
+00:02:14.380 --> 00:02:15.300
+Shout out Buffalo.
+
+00:02:15.460 --> 00:02:16.300
+And Thurman Thomas.
+
+00:02:16.860 --> 00:02:17.940
+Anyway. Anyway, yeah.
+
+00:02:18.160 --> 00:02:19.280
+To get back to Mike Tyson.
+
+00:02:19.720 --> 00:02:21.660
+So, this is Mike Tyson's punch out.
+
+00:02:21.660 --> 00:02:24.820
+There was punch out on the arcade, which was just punch out.
+
+00:02:25.000 --> 00:02:26.580
+Then it becomes Mike Tyson's punch out.
+
+00:02:26.760 --> 00:02:28.860
+Then it goes back to being just punch out.
+
+00:02:28.960 --> 00:02:31.600
+But that's not because of anything that Mike Tyson did.
+
+00:02:31.860 --> 00:02:35.700
+He was in jail around that, like a couple years later.
+
+00:02:35.980 --> 00:02:37.720
+But the contract had just ended.
+
+00:02:37.720 --> 00:02:39.800
+So, they had to go back to calling it just punch out.
+
+00:02:39.880 --> 00:02:42.920
+They weren't going to, now that he's the world boxing champion and such a big deal,
+
+00:02:43.080 --> 00:02:46.080
+they're not going to give him a huge sum of money to keep the license around.
+
+00:02:46.220 --> 00:02:48.780
+So, they just said, well, what if we just change Mike Tyson to Mr.
+
+00:02:48.920 --> 00:02:51.020
+Dream? Yeah, redacted's punch out.
+
+00:02:51.200 --> 00:02:55.880
+Yep. So, had any of you guys played Mike Tyson's punch out before this record?
+
+00:02:56.220 --> 00:02:58.880
+It's weird because this, well, before this record, yes.
+
+00:02:59.180 --> 00:03:00.120
+That was a true question.
+
+00:03:01.260 --> 00:03:02.100
+I got you.
+
+00:03:02.760 --> 00:03:04.980
+No, it's weird because this is like one of those games where it's like,
+
+00:03:05.160 --> 00:03:10.740
+of course I know about it, but I just always assumed it's one of those games
+
+00:03:10.740 --> 00:03:13.600
+that everyone has this crazy nostalgia for but doesn't really hold up.
+
+00:03:14.980 --> 00:03:22.020
+So, this was the first time I've played it and I was pleasantly surprised that it was not quite what I was thinking it was.
+
+00:03:22.160 --> 00:03:26.380
+Well, you know, that's the thing with the NES games is a lot of them, as Sam would say, they're janky.
+
+00:03:26.560 --> 00:03:32.200
+You know, it's like they used to be good games, but now over time they just haven't quite matured.
+
+00:03:32.200 --> 00:03:34.140
+But this one feels pretty good.
+
+00:03:34.240 --> 00:03:35.580
+Would you guys agree? For sure.
+
+00:03:35.720 --> 00:03:37.880
+This was my first time playing any punch out game.
+
+00:03:38.240 --> 00:03:44.160
+So, it was kind of, it was weird because it was new, but it was also exactly what I expected.
+
+00:03:44.540 --> 00:03:57.500
+Huh. Okay. I would say that, yeah, punch out was always just a game that sort of in the same mold as, what was the game that was in that we have already played?
+
+00:03:58.020 --> 00:03:59.140
+Ranking? No.
+
+00:03:59.520 --> 00:04:01.940
+The game that was featured in Back to the Future.
+
+00:04:02.900 --> 00:04:04.120
+Oh, Hogan's Alley.
+
+00:04:04.660 --> 00:04:05.800
+Okay. No. The other one.
+
+00:04:05.940 --> 00:04:06.860
+Urban Champion?
+
+00:04:07.160 --> 00:04:08.500
+The Western one.
+
+00:04:08.900 --> 00:04:09.720
+Oh, wow.
+
+00:04:09.840 --> 00:04:11.080
+Yeah. I'm thinking of Hogan's Alley.
+
+00:04:11.420 --> 00:04:12.560
+Yeah. You're thinking of.
+
+00:04:13.020 --> 00:04:14.260
+Oh, shoot. We did a whole podcast.
+
+00:04:15.440 --> 00:04:16.400
+Wild Gunman?
+
+00:04:16.480 --> 00:04:17.300
+Wild Gunman.
+
+00:04:17.520 --> 00:04:31.680
+In the same mold as Wild Gunman, it's just the iconography and the imagery of the game are plastered into our cultural mind because we've seen that movie and we've seen it played in other places, but it was a game I never played.
+
+00:04:31.840 --> 00:04:33.340
+That was sort of what punch out was to me.
+
+00:04:33.440 --> 00:04:35.900
+I just knew the wireframe for Super Punch Out.
+
+00:04:36.440 --> 00:04:42.300
+I had played Super Punch Out very briefly before this one, only because I have a Super NES classic.
+
+00:04:42.920 --> 00:04:45.780
+And we all know Little Mac from Super Smash Bros.
+
+00:04:46.220 --> 00:04:47.480
+Yeah. Which is an interesting take.
+
+00:04:47.840 --> 00:04:51.560
+Yeah. So, yeah, this is my first time playing the original.
+
+00:04:51.980 --> 00:04:54.940
+Yeah. And so I mentioned Punch Out started as an arcade game.
+
+00:04:55.300 --> 00:04:57.340
+Genyo Takata produced that.
+
+00:04:57.540 --> 00:05:04.520
+Miyamoto actually designed the characters, including Little Mac, although in the arcade version, Little Mac is a wireframe character.
+
+00:05:04.520 --> 00:05:08.040
+He's not a small little guy, so I guess you can't even call him Little Mac.
+
+00:05:08.260 --> 00:05:09.920
+They don't call him that in the arcade game.
+
+00:05:09.940 --> 00:05:10.780
+Mecha Mac. Yeah.
+
+00:05:11.640 --> 00:05:20.500
+Wire Mac. So there's that, but also there's like a split screen version or the only version of the arcade game.
+
+00:05:20.600 --> 00:05:22.060
+It plays on two separate TVs.
+
+00:05:22.420 --> 00:05:30.380
+So there's your TV that you look at where all the boxing match is happening, and then there's another TV above that where all the stats and the meters are.
+
+00:05:30.380 --> 00:05:35.540
+And it's kind of interesting that they could, you know, it's almost like a DS look to it, where there's a top and bottom screen.
+
+00:05:35.920 --> 00:05:42.260
+So if you wanted to play that, you know, on MAME or something, you would need to turn your monitor like vertically.
+
+00:05:42.620 --> 00:05:46.600
+Interesting. Which, yeah, is not many games have that going for them outside of shmups.
+
+00:05:46.880 --> 00:05:48.240
+A lot of shmups do vertical, but.
+
+00:05:48.240 --> 00:05:57.140
+Oh, yeah. So Takata was known for Popeye and StarTropics, but this game is something that he produced before it ever got big on the NES.
+
+00:05:57.580 --> 00:06:00.040
+Is StarTropics a game that comes out in North America?
+
+00:06:00.040 --> 00:06:02.580
+Yes. And it only comes out in North America.
+
+00:06:02.680 --> 00:06:03.960
+I think that's right.
+
+00:06:04.080 --> 00:06:06.480
+I remember. I think it came out in Europe, too, to be honest.
+
+00:06:07.180 --> 00:06:14.940
+But the arcade version has Little Mac as a wireframe character, and he's unnamed, and Koji Kondo did all the music for the game.
+
+00:06:15.140 --> 00:06:16.160
+So that's pretty cool.
+
+00:06:16.260 --> 00:06:17.960
+But it's also his first game as a composer.
+
+00:06:17.960 --> 00:06:23.840
+So we've already been introduced to him through Legend of Zelda and some Mario Brothers, but Punch-Out was where he got his start.
+
+00:06:24.120 --> 00:06:25.820
+Sam, any music thoughts on this game?
+
+00:06:26.000 --> 00:06:27.060
+Music is good in this game.
+
+00:06:27.460 --> 00:06:28.800
+I'm a big fan. Joe?
+
+00:06:28.800 --> 00:06:37.000
+It gives you, like, it's really just the one track while you're fighting, but it gives you, like, an on-the-edge-of-your-seat sort of feel.
+
+00:06:37.120 --> 00:06:39.400
+It really gives you attention.
+
+00:06:39.500 --> 00:06:41.400
+It's some pump-up music, for sure.
+
+00:06:41.780 --> 00:06:48.340
+Yeah. And this was a Nintendo R&D3 joint, which we don't really ever talk about them too much.
+
+00:06:48.480 --> 00:06:50.360
+It's usually R&D1 or R&D4.
+
+00:06:50.580 --> 00:06:53.640
+So for R&D3 to come in here and hit something is interesting.
+
+00:06:54.020 --> 00:06:58.620
+Their primary responsibilities were for technical hardware and design.
+
+00:06:58.620 --> 00:07:06.920
+So I guess that's how the Punch-Out, it just seems like, oh, if you're going to develop this thing for two TVs, might as well have the R&D3 division do the hardware and the software part of it.
+
+00:07:06.920 --> 00:07:08.700
+So there's that.
+
+00:07:08.840 --> 00:07:14.500
+But more importantly, R&D3 was also credited with the creation of the backup memory battery to save NES games.
+
+00:07:14.880 --> 00:07:19.100
+Obviously, the first implementation of that being The Legend of Zelda, which we just played a few podcasts ago.
+
+00:07:19.680 --> 00:07:22.700
+Did this game have that for saving records?
+
+00:07:22.920 --> 00:07:23.800
+It did not.
+
+00:07:24.640 --> 00:07:32.020
+And I think that's interesting because it came out in the United States after Zelda, but they just chose not to include a battery on it.
+
+00:07:32.020 --> 00:07:34.460
+But the password system is pretty good.
+
+00:07:34.680 --> 00:07:36.960
+I think it was because there's not too much for it to remember.
+
+00:07:37.200 --> 00:07:39.000
+It's either where were you in the...
+
+00:07:39.000 --> 00:07:40.160
+And what's your record.
+
+00:07:40.380 --> 00:07:42.100
+Yeah, exactly. So it's not like there's...
+
+00:07:42.100 --> 00:07:47.140
+Whereas Metroid had a very long password that you had to fill in each time, and that was a little TV.
+
+00:07:47.140 --> 00:07:50.060
+You don't have an inventory or anything that needs to remember or anything like that.
+
+00:07:50.120 --> 00:07:54.240
+We haven't played it, but I know Castlevania II has one of the longest ever.
+
+00:07:54.460 --> 00:07:58.700
+Oh, no. Yeah, it's something like 30 characters.
+
+00:08:00.200 --> 00:08:02.520
+So, okay. So that's that on the arcade game.
+
+00:08:02.620 --> 00:08:03.940
+We are not here to talk about the arcade game.
+
+00:08:04.040 --> 00:08:05.320
+We're here to talk about the NES game.
+
+00:08:05.480 --> 00:08:09.640
+I figured we'd do a little Tales from the Manual section here just to kind of give the story.
+
+00:08:10.140 --> 00:08:11.220
+You play as Little Mac.
+
+00:08:11.460 --> 00:08:15.060
+He was born in the Bronx, which is in New York City for those that don't know.
+
+00:08:15.480 --> 00:08:17.920
+17 years old, 107 pounds.
+
+00:08:18.040 --> 00:08:19.100
+Who let this kid in the ring?
+
+00:08:20.640 --> 00:08:26.080
+You commented on this earlier, Sean, about how he's fighting Piston Honda in there,
+
+00:08:26.080 --> 00:08:29.440
+and that guy is just this mammoth of a man.
+
+00:08:30.020 --> 00:08:33.700
+And then you have this 107-pound little boy in the ring, and the rest is like...
+
+00:08:33.700 --> 00:08:34.820
+He's not even 18 yet.
+
+00:08:35.960 --> 00:08:38.440
+The thing is, Mike, that I don't think I told you that.
+
+00:08:38.580 --> 00:08:39.860
+That might have been Joe. Oh, okay.
+
+00:08:39.900 --> 00:08:45.040
+But it's just that whole idea of kids like you.
+
+00:08:45.620 --> 00:08:46.840
+Like, these kids just like you.
+
+00:08:46.920 --> 00:08:48.600
+Yeah. Right, yeah. It's an underdog story.
+
+00:08:48.700 --> 00:08:54.680
+Yeah. Because really, most of the enemies, not all of them, but most of them are at least more than twice your size.
+
+00:08:55.100 --> 00:08:56.540
+Like, you're as big as their feet.
+
+00:08:57.060 --> 00:09:00.020
+And I'm not sure if you guys know this, but I'll go ahead and spoil it.
+
+00:09:00.120 --> 00:09:04.660
+That was obviously done because they couldn't recreate the wireframe in the NES version,
+
+00:09:04.660 --> 00:09:10.460
+so they made him small so that this way there was a way to see what your opponent was doing without...
+
+00:09:10.460 --> 00:09:13.040
+Like, that's the whole reason he was wireframing in the arcade version.
+
+00:09:13.220 --> 00:09:16.840
+So you could see through him. So in the arcade version, he was like an appropriately sized person.
+
+00:09:16.860 --> 00:09:17.980
+Appropriately sized person, yes.
+
+00:09:17.980 --> 00:09:20.240
+And so in this one, they make him very small.
+
+00:09:20.360 --> 00:09:21.200
+So this way it's...
+
+00:09:21.200 --> 00:09:23.500
+I like the theory that he's you.
+
+00:09:23.740 --> 00:09:25.100
+If you're small, you're a kid.
+
+00:09:25.260 --> 00:09:27.560
+You could beat Hippo King.
+
+00:09:28.200 --> 00:09:30.220
+Oh, God. But, yeah.
+
+00:09:30.380 --> 00:09:32.500
+So in this one, he's just small.
+
+00:09:32.700 --> 00:09:38.920
+And I like that they use that as a design choice because his reaches when he goes for uppercuts,
+
+00:09:39.080 --> 00:09:40.800
+it's really cool how it translates.
+
+00:09:41.180 --> 00:09:44.620
+It doesn't feel like Michael Jordan extending his arm in Space Jam.
+
+00:09:44.840 --> 00:09:47.540
+You know? It actually looks like the arm connects.
+
+00:09:47.980 --> 00:09:49.940
+Yeah. So that's that.
+
+00:09:50.080 --> 00:09:53.220
+And there's not much of a story to the game other than you're just kind of working through the circuits.
+
+00:09:53.540 --> 00:09:58.340
+But there is that Doc Lewis character who, you know...
+
+00:09:58.340 --> 00:09:59.360
+Who gives you advice. Yeah.
+
+00:09:59.360 --> 00:10:00.500
+You're a trainer. You're a corner.
+
+00:10:00.920 --> 00:10:07.360
+Yeah. And, you know, it's weird to think that he's like some 40-year-old man who found this 17-year-old kid and said...
+
+00:10:07.360 --> 00:10:11.380
+He's a phenom. Of course he's going to find some attention if he can fight with the big guys.
+
+00:10:11.560 --> 00:10:14.580
+I can't really stop thinking about the Rocky parallels, right?
+
+00:10:14.580 --> 00:10:17.120
+There's a lot of Rocky going on in this punch-out thing.
+
+00:10:17.200 --> 00:10:18.400
+There is. And Rocky was 1979.
+
+00:10:18.940 --> 00:10:26.600
+Honestly, I thought that it was going to actually take place in Philadelphia because in between matches or in between circuits, I don't remember.
+
+00:10:26.760 --> 00:10:34.000
+Yeah, circuits. There will be these little cut scenes of him basically doing the Rocky run, like from the montages.
+
+00:10:34.260 --> 00:10:35.760
+But then you see the Statue of Liberty.
+
+00:10:35.800 --> 00:10:38.220
+So I guess that ties in with the Bronx.
+
+00:10:38.480 --> 00:10:41.820
+But I just thought, you know, I thought they could throw it back to Rocky.
+
+00:10:43.020 --> 00:10:47.700
+And since we're in the New York City thing and we're talking about that, Sam, you had a little thought about those cut scenes.
+
+00:10:47.820 --> 00:10:52.480
+Well, we were talking about where that takes place because when you see...
+
+00:10:52.480 --> 00:11:01.400
+Originally, I was thinking that he was somewhere on the Upper West Side looking at Newark across the river.
+
+00:11:01.780 --> 00:11:03.980
+And then I realized, no, he's not there.
+
+00:11:04.520 --> 00:11:09.160
+But the Statue of Liberty comes from the left side, which means he's going south.
+
+00:11:09.420 --> 00:11:12.800
+He is going south. So Mike and I were talking, we think he's Staten Island.
+
+00:11:13.060 --> 00:11:18.280
+Hey, I think he's in Staten Island, but I still don't see why he wouldn't see the Twin Towers.
+
+00:11:18.360 --> 00:11:21.780
+So the thing is that we're now just going to debate about the geography.
+
+00:11:22.700 --> 00:11:26.180
+Yeah, based on... Well, I'll tell you one thing, even though he was born in the Bronx, he's definitely not in the Bronx.
+
+00:11:26.300 --> 00:11:27.400
+No, he's not. Of course not.
+
+00:11:27.540 --> 00:11:32.560
+For the moments where I thought he was running on the Upper West Side, I thought it was really cool because that's where I run.
+
+00:11:32.700 --> 00:11:35.440
+And I see a similar view when I'm running.
+
+00:11:35.580 --> 00:11:36.920
+I don't see the Statue of Liberty.
+
+00:11:37.180 --> 00:11:38.100
+A picturesque Newark.
+
+00:11:38.140 --> 00:11:39.620
+He's just a 17-year-old boy like me.
+
+00:11:40.060 --> 00:11:42.100
+Exactly. Yeah. No, I thought that was cool.
+
+00:11:42.140 --> 00:11:44.720
+And so we started talking about it and I realized, no, it's probably not.
+
+00:11:44.720 --> 00:11:47.300
+Now it's a dog shit game because of poor...
+
+00:11:47.300 --> 00:11:49.540
+I did think it was weird that they didn't include a map.
+
+00:11:49.720 --> 00:11:50.540
+There should be a map.
+
+00:11:51.900 --> 00:11:55.700
+Yeah, I thought it was weird that you don't get a choice either of your signing bonuses.
+
+00:11:55.700 --> 00:11:57.300
+And you're into the next world circuits.
+
+00:11:57.480 --> 00:11:59.940
+There's no money that you can use from your championships.
+
+00:12:00.280 --> 00:12:01.100
+Yeah, it's very unrealistic.
+
+00:12:01.280 --> 00:12:02.880
+I would like to...
+
+00:12:02.880 --> 00:12:10.480
+I don't know if this is a tangent, but I would like to state that I like the framing of this entire game.
+
+00:12:10.700 --> 00:12:17.500
+I like it when games create a story out of just the structure of sports.
+
+00:12:17.500 --> 00:12:23.700
+Whether it's franchise mode or season mode or going through a circuit.
+
+00:12:24.780 --> 00:12:33.040
+It's sort of the small stories that this game presents, and they're very small stories, fit really well into that sort of mold.
+
+00:12:33.200 --> 00:12:39.280
+But even with the other characters, because you'll beat Piston Honda and he was the original champion of the first circuit.
+
+00:12:39.380 --> 00:12:43.020
+And then he shows up two circuits later and he's a lot better too.
+
+00:12:43.020 --> 00:12:46.280
+So there's even a story there about how even your villains...
+
+00:12:46.280 --> 00:12:47.100
+Villains.
+
+00:12:47.980 --> 00:12:52.700
+It's like referring to Mark McGuire as a villain of baseball, right?
+
+00:12:54.200 --> 00:12:55.480
+So no, they're not villains.
+
+00:12:55.600 --> 00:13:02.260
+But the other fighters, they've worked up too to get better and develop new strategies and stuff like that.
+
+00:13:02.360 --> 00:13:07.200
+They could have easily just taken Piston Honda again and just had his timing be better.
+
+00:13:07.320 --> 00:13:10.300
+But they even implement new moves for him and stuff, which is cool.
+
+00:13:11.460 --> 00:13:15.220
+Yeah. And then there's that limited move set for Little Mac.
+
+00:13:15.420 --> 00:13:19.720
+You know, he's got jabs, body blows, the uppercut, and then that star special.
+
+00:13:20.540 --> 00:13:25.380
+Doesn't sound like a lot, but it really works effectively just giving you that limited range.
+
+00:13:25.560 --> 00:13:37.520
+I think that the simplicity of it allows for a lot of creativity in how you go about creating your combos or just discovering what works on what character.
+
+00:13:37.520 --> 00:13:44.640
+Yeah, because it doesn't feel like when you start, it doesn't feel like a game that you would have to use a lot of strategy or really thinking about it.
+
+00:13:45.120 --> 00:13:47.980
+You would think you're just trying to hit him as much as you can.
+
+00:13:48.080 --> 00:13:52.440
+But it's really a lot of learning and strategizing for each opponent.
+
+00:13:52.620 --> 00:13:54.000
+It's almost like a puzzle game.
+
+00:13:54.000 --> 00:13:55.240
+Exactly what I was going to say.
+
+00:13:55.360 --> 00:13:58.820
+Yeah. This game is a puzzle game masquerading as a sports title.
+
+00:13:59.120 --> 00:14:02.920
+Yeah. Tricked you. And the best, Sam and I have both followed the speed running.
+
+00:14:02.920 --> 00:14:08.180
+And the best players in the world, for them, it's now, it's still like a dexterity battle.
+
+00:14:08.380 --> 00:14:14.260
+Like, it's getting the inputs in fast enough so that they can shave off the slightest milliseconds off their time.
+
+00:14:14.480 --> 00:14:20.440
+Because if they can just get that punch in a beat earlier, because the game actually is timed to the millisecond.
+
+00:14:20.640 --> 00:14:27.280
+So if they can get that punch in just a millisecond earlier, it'll count and it'll get a different result than whatever would have happened next.
+
+00:14:27.480 --> 00:14:29.960
+Wow. There's very little RNG in the game.
+
+00:14:30.160 --> 00:14:32.440
+I think certain enemies have some RNG behind them.
+
+00:14:32.440 --> 00:14:34.040
+Mike Tyson has a lot in this fight.
+
+00:14:34.420 --> 00:14:35.400
+So there's that.
+
+00:14:35.460 --> 00:14:37.920
+But at the same time, there's the tells.
+
+00:14:38.240 --> 00:14:41.040
+And the tells are the most interesting part of the game for me.
+
+00:14:41.460 --> 00:14:45.180
+Every character has their own tell that they're about to punch you.
+
+00:14:45.380 --> 00:14:48.120
+Which is great because their punches do an awful lot of damage.
+
+00:14:48.560 --> 00:14:50.300
+So it's much better to know.
+
+00:14:50.520 --> 00:14:52.360
+I think of this in a shmup, right?
+
+00:14:52.580 --> 00:15:01.180
+Wouldn't it be great if every ship that you were seeing ahead of you communicated that it was about to charge at you or shoot at you rather than just act randomly?
+
+00:15:01.600 --> 00:15:05.440
+And that's kind of what these fighters do is they communicate, I'm about to punch you.
+
+00:15:05.580 --> 00:15:07.300
+And you think like, oh, that sounds really easy.
+
+00:15:07.360 --> 00:15:08.720
+He's going to tell me every single time.
+
+00:15:08.860 --> 00:15:10.880
+But you have to be in rhythm with him.
+
+00:15:10.980 --> 00:15:13.600
+So it's as much a puzzle game as it is a rhythm game.
+
+00:15:13.820 --> 00:15:18.660
+You're right. Any other thoughts on that timing and telling mechanic?
+
+00:15:18.900 --> 00:15:20.620
+Because I think the tell is something that we...
+
+00:15:20.620 --> 00:15:22.200
+Well, that is the defining...
+
+00:15:22.200 --> 00:15:31.100
+That is what separates each level of the game is just what pattern they have, what tell you'll have to...
+
+00:15:31.100 --> 00:15:32.300
+They communicate to you.
+
+00:15:33.020 --> 00:15:36.940
+So without them, this is just a series of the same match over and over.
+
+00:15:37.060 --> 00:15:40.200
+So yeah, I think it's the most important part of the fighting mechanics.
+
+00:15:40.340 --> 00:15:44.580
+It reminds me a little bit of something like Monster Hunter.
+
+00:15:45.140 --> 00:15:48.420
+Oh, yeah. You know, where the thing that you're trying to kill has...
+
+00:15:49.200 --> 00:15:55.040
+You know, it has a certain tell to it that you have to figure out and exploit and figure out how to get around that thing.
+
+00:15:55.160 --> 00:15:58.320
+And even when you think you've figured it out, a new one gets added.
+
+00:15:58.320 --> 00:16:04.320
+So there's this whole thing of when you think you've figured out Piston Honda, the champion for the first circuit,
+
+00:16:04.560 --> 00:16:09.020
+all of a sudden he takes a step back and he starts charging up for something.
+
+00:16:09.240 --> 00:16:11.080
+And, you know, I've never seen this before.
+
+00:16:11.120 --> 00:16:12.000
+What's about to happen?
+
+00:16:12.060 --> 00:16:14.120
+And then he goes left, right, left, right, left, right.
+
+00:16:14.580 --> 00:16:17.140
+And there's many strategies to how to work around that.
+
+00:16:17.420 --> 00:16:22.980
+Sam showed me a really cool one right before we started the show where you give him a belly punch at the perfect time to knock him out.
+
+00:16:23.040 --> 00:16:23.980
+And he goes, oh, my tummy.
+
+00:16:24.280 --> 00:16:25.800
+He does. He really does say that.
+
+00:16:25.800 --> 00:16:27.840
+He says that verbatim, yeah.
+
+00:16:28.700 --> 00:16:29.720
+Uh, no. No.
+
+00:16:31.380 --> 00:16:33.300
+What's funny is we have three different stories here.
+
+00:16:33.360 --> 00:16:34.360
+He says it in English.
+
+00:16:34.380 --> 00:16:35.660
+He says it in Japanese.
+
+00:16:35.880 --> 00:16:36.700
+He says it at all.
+
+00:16:37.620 --> 00:16:40.000
+I know the answer, but I'm just not saying it.
+
+00:16:40.000 --> 00:16:43.380
+Okay, good. I was just so excited to perform it that I wasn't listening to it.
+
+00:16:43.520 --> 00:16:47.640
+That's cool. I mean, there is some voice synthesis in this game, right?
+
+00:16:48.820 --> 00:16:53.200
+I don't have a recollection of any actual voice synthesis.
+
+00:16:53.540 --> 00:17:24.780
+Okay. I wasn't approved that he was Mario.
+
+00:17:24.780 --> 00:17:28.780
+You think it's just another, like, generic short Italian man?
+
+00:17:28.920 --> 00:17:30.200
+Well, he shows up in everything.
+
+00:17:30.500 --> 00:17:32.780
+He was the golfer in golf.
+
+00:17:33.340 --> 00:17:35.840
+I, that one's still a little bit of a stretch for me, the golfer.
+
+00:17:35.840 --> 00:17:36.880
+And it turns out not to be real.
+
+00:17:37.020 --> 00:17:42.020
+Remember we talked about that obscure Japanese Wii game that gives that golf character a totally different person.
+
+00:17:42.020 --> 00:17:44.220
+You're telling me right now that Mario is not the referee.
+
+00:17:44.400 --> 00:17:47.060
+No, I'm sure he is, but he was also the umpire in tennis.
+
+00:17:47.220 --> 00:17:49.880
+So how many times does this guy have between saving the princess?
+
+00:17:49.880 --> 00:17:55.780
+The thing about Mario is he has all the time in the world between saving the princess times.
+
+00:17:56.020 --> 00:17:57.420
+Yeah, what is he? He's like, he's kind of waiting around.
+
+00:17:57.420 --> 00:17:58.460
+Is he only saving princess?
+
+00:17:58.460 --> 00:17:59.780
+He's a prover. These are his weekends.
+
+00:18:00.040 --> 00:18:03.140
+Yeah. Well, it is in New York City, so at least that makes sense.
+
+00:18:03.400 --> 00:18:06.520
+You know, there's no, I mean, maybe he was playing at the U.S.
+
+00:18:06.620 --> 00:18:08.800
+Open for the tennis thing, and that's why he was the umpire.
+
+00:18:09.560 --> 00:18:13.300
+But to Sam's point, you mentioned that he was kind of snuck into the game.
+
+00:18:13.420 --> 00:18:14.580
+I heard that somewhere. Is that true?
+
+00:18:14.580 --> 00:18:23.940
+I believe it just because Miyamoto had this thing where whenever there was like a chance to throw in Mario in the early days, he would just be like, oh, well, we can make Mario that, or we can put Mario here.
+
+00:18:24.140 --> 00:18:29.180
+There was a whole thing for Super Mario Brothers where that game was originally just like.
+
+00:18:29.180 --> 00:18:30.900
+Not going to have Mario. Yeah, seriously.
+
+00:18:31.260 --> 00:18:34.040
+Wait, seriously? Yeah, they didn't know like what they were going to do with it.
+
+00:18:34.080 --> 00:18:39.200
+They were just designing this big game, and then they were like, well, Mario Brothers is selling really well.
+
+00:18:39.400 --> 00:18:40.980
+Let's put Super Mario Brothers.
+
+00:18:40.980 --> 00:18:47.100
+For some reason, I was imagining like it was for Mario Brothers 2, and I was like, should we even put Mario in there?
+
+00:18:47.880 --> 00:18:48.860
+Mario is missing.
+
+00:18:49.220 --> 00:19:14.420
+Yeah. So I think Punch-Out!
+
+00:19:14.460 --> 00:19:17.080
+worked best by what it doesn't let you control.
+
+00:19:17.440 --> 00:19:18.700
+Does that make sense?
+
+00:19:18.920 --> 00:19:21.280
+Yeah. Like, you can't control his movement.
+
+00:19:21.460 --> 00:19:23.480
+Yeah, and remember Ring King?
+
+00:19:23.900 --> 00:19:25.820
+I don't know if it was just a human meat thing.
+
+00:19:25.960 --> 00:19:26.840
+The classic Ring King?
+
+00:19:26.960 --> 00:19:28.760
+Yeah, the BJ thing.
+
+00:19:29.080 --> 00:19:29.960
+Oh. Is that the BJ game?
+
+00:19:29.980 --> 00:19:31.520
+Well, yeah, that was in that.
+
+00:19:31.680 --> 00:19:33.400
+Yeah. Defining characteristic of the game.
+
+00:19:33.740 --> 00:19:36.020
+Yeah. What does that say about that game?
+
+00:19:36.120 --> 00:19:37.440
+That's the first thing you think of.
+
+00:19:37.640 --> 00:19:39.680
+But anyway, Ring King, that was a boxing game.
+
+00:19:39.680 --> 00:19:43.080
+Yeah. And you get to do everything you could possibly do in boxing.
+
+00:19:43.340 --> 00:19:44.820
+You pivot around. You can clinch.
+
+00:19:45.400 --> 00:19:48.700
+And I don't know about you, Sean, but for me, that made a very clunky experience.
+
+00:19:49.040 --> 00:19:50.620
+It was a terrible game. Yeah, that didn't do anything.
+
+00:19:50.820 --> 00:19:55.640
+Whereas in this one, because they've decided you shouldn't have to move, you could duck out
+
+00:19:55.640 --> 00:19:59.380
+of the way, but you shouldn't have to move, now all of a sudden you have to focus more
+
+00:19:59.380 --> 00:20:04.640
+on the punches. And because you only have two different types of punches and then left and right choosing
+
+00:20:04.640 --> 00:20:08.100
+your sides, now you don't have many ways to control your punch, so you don't have to
+
+00:20:08.100 --> 00:20:09.900
+worry about not connecting those punches.
+
+00:20:10.040 --> 00:20:11.700
+It's either going to be blocked or it's going to punch.
+
+00:20:11.920 --> 00:20:16.300
+Right. I think the limited thing here, the simplicity of it, is actually what complements it the
+
+00:20:16.300 --> 00:20:18.580
+most. Yeah. I think that works in a lot of games.
+
+00:20:18.920 --> 00:20:22.720
+Go ahead. I think in developing it, it made it a lot easier for them.
+
+00:20:22.780 --> 00:20:27.300
+I imagine it would make it a lot easier for them to create something where they can control
+
+00:20:27.300 --> 00:20:30.820
+what strategy you're supposed to be trying to figure out.
+
+00:20:30.920 --> 00:20:33.060
+So they're figuring out, this is what we need them to do.
+
+00:20:33.120 --> 00:20:36.180
+We need them to think to hit this weak spot and that weak spot.
+
+00:20:36.180 --> 00:20:39.340
+But if you have too many things that you're able to do where you're thinking, I'll just
+
+00:20:39.340 --> 00:20:45.360
+run to this side of the ring or dodge this way, it kind of lends itself to having specific
+
+00:20:45.360 --> 00:20:47.120
+strategies that you're supposed to discover.
+
+00:20:47.260 --> 00:20:54.240
+For sure. I think it also is just another example of the prevailing theme so far in the NES catalog
+
+00:20:54.240 --> 00:20:59.260
+of simulation sports games really having a hard time being good.
+
+00:20:59.340 --> 00:21:05.220
+And when they actually go in a more arcade route, you can have a lot more fun with it because
+
+00:21:05.220 --> 00:21:08.540
+you don't have to worry about micromanaging all the simulation aspects of it.
+
+00:21:08.940 --> 00:21:14.040
+Yeah. I mean, imagine if all of a sudden, let's just say you could hold on to your opponent.
+
+00:21:14.240 --> 00:21:17.040
+You know, in boxing, sometimes they'll put their arms on the other guy's shoulder.
+
+00:21:17.260 --> 00:21:18.680
+Imagine if that was like an option.
+
+00:21:18.840 --> 00:21:20.800
+Forget that there's not an input for that, right?
+
+00:21:20.880 --> 00:21:22.220
+Like you wouldn't even know how to map that.
+
+00:21:22.360 --> 00:21:26.240
+But that's a whole nother thing now that you have to add to the game for each character
+
+00:21:26.240 --> 00:21:27.460
+to work a separate way.
+
+00:21:27.580 --> 00:21:30.860
+And so by doing that, you're just complicating the game further than it needs to be.
+
+00:21:30.980 --> 00:21:35.140
+I also think even just imagine if you could punch the chest instead of just the
+
+00:21:35.140 --> 00:21:40.360
+body or the head, you know, it'd be nice, but you don't have to have it either because
+
+00:21:40.360 --> 00:21:41.800
+it's perfectly fine without it.
+
+00:21:42.000 --> 00:21:43.360
+I think simplicity is king in this game.
+
+00:21:43.560 --> 00:21:46.100
+Yeah. I think in every game, honestly.
+
+00:21:46.380 --> 00:21:48.240
+Oh, okay. Yeah. Especially for these older games.
+
+00:21:48.300 --> 00:21:52.920
+I agree with that. Especially when, yeah, when the limitations of the system are only so much.
+
+00:21:52.920 --> 00:21:54.660
+So you work well within that.
+
+00:21:54.860 --> 00:21:58.760
+One of my favorite games on the system so far, Balloon Fight, is one of the most simple
+
+00:21:58.760 --> 00:21:59.880
+games that we've ever played.
+
+00:22:00.140 --> 00:22:02.220
+Yeah. Anybody can pick that game up.
+
+00:22:03.020 --> 00:22:05.880
+And I don't even think you really need instructions.
+
+00:22:06.420 --> 00:22:07.900
+No. You just start pressing the button.
+
+00:22:08.240 --> 00:22:12.600
+So speaking of instructions, I think that's going to get us into Glass Joe, who we can finally
+
+00:22:12.600 --> 00:22:14.000
+talk about. Not Joe over here.
+
+00:22:14.620 --> 00:22:18.700
+Glass Joe is the first enemy you fight in the minor circuit.
+
+00:22:19.220 --> 00:22:20.940
+And he's not really a tutorial.
+
+00:22:21.220 --> 00:22:24.280
+You know, we've seen things where Super Mario Brothers has like that.
+
+00:22:24.440 --> 00:22:26.520
+He's the closest thing this game gets to one.
+
+00:22:26.520 --> 00:22:33.120
+Yeah, exactly. But there's no teaching you via pop-up commands or anything like that what you need to do.
+
+00:22:33.260 --> 00:22:36.320
+He just lets you punch him no matter what.
+
+00:22:36.480 --> 00:22:39.760
+Like you must punch him first before he ever starts doing anything to you.
+
+00:22:39.840 --> 00:22:41.740
+That's true. And I think that's a smart thing to do.
+
+00:22:41.840 --> 00:22:44.780
+It's like if you want to connect, if you want to learn how to play this game, you got
+
+00:22:44.780 --> 00:22:46.060
+to connect to punch. Mm-hmm.
+
+00:22:46.580 --> 00:22:48.900
+I didn't, yeah, I guess I did notice that.
+
+00:22:49.400 --> 00:22:55.120
+I thought it was just an AI thing where you had to, you had to make a move and he would
+
+00:22:55.120 --> 00:22:57.300
+just like try to counter it at first.
+
+00:22:57.420 --> 00:22:59.920
+But no, it makes sense that, yeah, you have to land a blow.
+
+00:23:00.640 --> 00:23:03.160
+Yeah. Any other thoughts on Glass Joe at all?
+
+00:23:03.280 --> 00:23:05.360
+I mean, he's, he's funny, I think.
+
+00:23:05.700 --> 00:23:06.820
+What a poor name.
+
+00:23:07.060 --> 00:23:12.160
+Yeah. Imagine if you're being introduced into your boxing, not your debut.
+
+00:23:12.360 --> 00:23:13.500
+Like you've been around for a while.
+
+00:23:13.880 --> 00:23:14.700
+A long, long time. Yeah.
+
+00:23:15.020 --> 00:23:18.440
+Oh, I mean, there's Glass, there's like a WWE character.
+
+00:23:18.800 --> 00:23:19.960
+Yeah, there's Glass Mike.
+
+00:23:20.360 --> 00:23:22.440
+I wonder how he's going to do today.
+
+00:23:22.440 --> 00:23:30.220
+Aside from Mike Tyson himself, I think he is the closest thing to another icon in the
+
+00:23:31.900 --> 00:23:33.580
+mythos of Punch-Out.
+
+00:23:33.760 --> 00:23:37.740
+Like Glass Joe is probably the most famous character outside of Little Mac.
+
+00:23:37.740 --> 00:23:40.360
+Because anybody who's ever played Punch-Out has played against Glass Joe.
+
+00:23:40.680 --> 00:23:41.760
+He always goes first.
+
+00:23:41.920 --> 00:23:43.440
+I believe he's in Super Punch-Out, right?
+
+00:23:43.440 --> 00:23:44.840
+He is. He's the first person you play against.
+
+00:23:44.860 --> 00:23:45.760
+And he was in Punch-Out, the arcade.
+
+00:23:45.860 --> 00:23:46.840
+He's the first person you play against.
+
+00:23:46.860 --> 00:23:48.840
+Poor guy's getting beat up for his whole life.
+
+00:23:49.040 --> 00:23:53.400
+Yeah. And it's kind of those in-between rounds things, which we haven't really talked about yet.
+
+00:23:53.400 --> 00:24:00.300
+But in-between rounds, you have like the corner and you hear Doc Lewis talking to you and
+
+00:24:00.300 --> 00:24:03.300
+the other enemy kind of giving like a hint.
+
+00:24:03.540 --> 00:24:05.500
+Yeah. So like how to fight them.
+
+00:24:05.780 --> 00:24:07.100
+And I like that.
+
+00:24:07.200 --> 00:24:09.580
+But with Glass Joe, there's no hint.
+
+00:24:09.880 --> 00:24:13.880
+It's just like, please, let's just get this over with.
+
+00:24:14.420 --> 00:24:16.540
+Can I take a nap before the next round?
+
+00:24:16.580 --> 00:24:17.640
+I think is one of his lines.
+
+00:24:18.480 --> 00:24:19.800
+So poor Glass Joe.
+
+00:24:20.220 --> 00:24:21.300
+Thankfully, he's pretty easy.
+
+00:24:21.500 --> 00:24:24.260
+So I don't mean that it's not a tutorial in a bad way.
+
+00:24:24.260 --> 00:24:28.260
+I mean, it's nice that they didn't feel the need to explain it to you, but made it easy
+
+00:24:28.260 --> 00:24:31.940
+enough that you can just kind of learn the ropes right there for the entirety of the game.
+
+00:24:32.120 --> 00:24:34.740
+Every mechanic that you need is presented in there.
+
+00:24:35.060 --> 00:24:44.920
+Yeah. And one thing we haven't talked about yet is the accumulation of stars.
+
+00:24:45.460 --> 00:24:47.240
+Does anybody want to try to tackle that?
+
+00:24:47.800 --> 00:24:48.700
+So I got this.
+
+00:24:48.880 --> 00:24:55.300
+So the way that stars work are when you press start, you get a and you have it when you have
+
+00:24:55.300 --> 00:25:02.260
+a star, you press start to do a special uppercut that does a ton of damage and it's good for
+
+00:25:02.260 --> 00:25:09.400
+knocking people out. And the way you get those stars is by hitting people in certain ways.
+
+00:25:09.960 --> 00:25:16.300
+I think that one of them is if you get enough uppercuts against, I forget which person.
+
+00:25:16.420 --> 00:25:17.880
+It's unique to each character.
+
+00:25:18.040 --> 00:25:19.620
+And this is something Sean and I were talking about.
+
+00:25:19.780 --> 00:25:20.900
+And it's hard to figure out.
+
+00:25:21.060 --> 00:25:24.120
+You know, you really need to look it up, but it's also something you just experience on
+
+00:25:24.120 --> 00:25:28.520
+your own too. And later in the game, they become essential and you actually need them to beat the
+
+00:25:28.520 --> 00:25:30.000
+characters. Yeah.
+
+00:25:30.160 --> 00:25:32.740
+And I think that the uppercut inclusion is nice.
+
+00:25:32.740 --> 00:25:37.080
+It's nice that it's mapped to the start button, a button that you can't otherwise do anything
+
+00:25:37.080 --> 00:25:42.000
+with because much to probably Joe's disappointment, there's no pause sound in this game because
+
+00:25:42.000 --> 00:25:43.180
+you cannot pause.
+
+00:25:43.860 --> 00:25:45.900
+You know, I don't think I tried to pause the game.
+
+00:25:46.220 --> 00:25:48.980
+It doesn't seem like you should pause, but I'm having a great time.
+
+00:25:49.000 --> 00:25:50.140
+Who pauses in the middle of a boxing match?
+
+00:25:50.420 --> 00:25:54.740
+You should think that I'm going to be the one that's going to try and pause every game.
+
+00:25:54.740 --> 00:25:58.500
+So I apologize. This is how winter games should have handled pausing.
+
+00:25:58.720 --> 00:25:59.580
+Do you remember winter games?
+
+00:25:59.740 --> 00:26:01.760
+Yeah. The whole down start.
+
+00:26:02.360 --> 00:26:05.920
+And then you, you know, like if you let go of it, it just resumed.
+
+00:26:06.180 --> 00:26:07.740
+It should have just been no pausing at all.
+
+00:26:08.080 --> 00:26:10.780
+You can't pause in the middle of your events and your sport.
+
+00:26:11.060 --> 00:26:11.980
+Really? All games.
+
+00:26:12.180 --> 00:26:13.260
+Don't make sense. All games should.
+
+00:26:13.260 --> 00:26:15.360
+Yeah. It doesn't make sense. I just had a random thought with winter games.
+
+00:26:15.500 --> 00:26:17.600
+What if you hold it and then unplug the controller?
+
+00:26:17.820 --> 00:26:18.760
+Do you think that would work? Wow.
+
+00:26:18.760 --> 00:26:19.920
+We should try that. Yeah.
+
+00:26:20.100 --> 00:26:21.200
+Okay. I'll try that. No, I'm serious.
+
+00:26:21.300 --> 00:26:22.260
+I'll try that. That's a great thought.
+
+00:26:22.620 --> 00:26:26.080
+I'm sure it won't work. I'm sure it will just assume that you've let go of Stark.
+
+00:26:26.700 --> 00:26:28.140
+This podcast is over.
+
+00:26:28.320 --> 00:26:31.900
+See us next week after we've tried the removing of the controller.
+
+00:26:32.060 --> 00:26:33.800
+Please switch to side B on the whole set.
+
+00:26:33.840 --> 00:26:36.620
+Full episode of what happens when you remove the controller.
+
+00:26:36.900 --> 00:26:37.820
+So that's the stars.
+
+00:26:37.880 --> 00:26:39.120
+And then there's hearts, too.
+
+00:26:39.280 --> 00:26:40.680
+Anybody want to try and give hearts a go?
+
+00:26:41.520 --> 00:26:43.860
+Hearts is basically your stamina.
+
+00:26:44.880 --> 00:26:49.280
+Yeah. Every time you miss, you'll lose hearts.
+
+00:26:49.440 --> 00:26:50.980
+Every time you get hit, you'll lose hearts.
+
+00:26:51.020 --> 00:26:54.580
+It's the well from which you pull your energy to do anything.
+
+00:26:54.720 --> 00:26:56.960
+And once you're out of hearts, you turn pink, right?
+
+00:26:57.040 --> 00:26:57.900
+You're like glow pink.
+
+00:26:58.000 --> 00:26:59.120
+You are very tired.
+
+00:26:59.360 --> 00:27:00.440
+And you're tired. And you cannot attack.
+
+00:27:00.440 --> 00:27:01.700
+You can only dodge. Yeah.
+
+00:27:01.900 --> 00:27:06.560
+And you have to dodge for essentially five seconds before you can start punching again.
+
+00:27:06.760 --> 00:27:13.300
+I think it's a great mechanic, though, because it also allows for rallies to happen.
+
+00:27:13.300 --> 00:27:20.240
+Like, you see the guy getting hit in the boxing match in real life, and he can either just
+
+00:27:20.240 --> 00:27:26.500
+go down or he'll weather the storm for a while and come back with a storm of his own.
+
+00:27:26.580 --> 00:27:30.660
+It's a great punishment, too, to not just keep trying body check after body check.
+
+00:27:30.840 --> 00:27:32.280
+It forces you to be decisive.
+
+00:27:32.500 --> 00:27:34.940
+Even the blocks count against your stamina.
+
+00:27:35.080 --> 00:27:38.960
+If you keep punching him in the stomach and Glass Joe keeps blocking it, you're actually
+
+00:27:38.960 --> 00:27:43.240
+losing stamina by doing that, because you would get winded in a real boxing match if you just
+
+00:27:43.240 --> 00:27:46.260
+kept throwing your right arm again and again and again.
+
+00:27:46.460 --> 00:27:49.000
+So the one system accomplishes multiple things.
+
+00:27:49.180 --> 00:27:51.180
+Yeah. That's great. And did anybody else...
+
+00:27:51.180 --> 00:27:54.320
+I kind of skipped over this real fast, but the intermission between rounds.
+
+00:27:54.420 --> 00:27:56.100
+Did anybody have any other thoughts on that?
+
+00:27:56.240 --> 00:28:00.400
+I think it's a pretty cool way to handle the only time you can pause.
+
+00:28:00.620 --> 00:28:02.260
+I like how it changes depending on how you're doing.
+
+00:28:02.520 --> 00:28:08.740
+Yeah. If you get beat up a lot, then Little Mac looks like shit, and his eye is swollen, and he's
+
+00:28:08.740 --> 00:28:10.180
+got a little purple around it, too.
+
+00:28:10.440 --> 00:28:11.560
+He's the same with the opposition, too.
+
+00:28:11.620 --> 00:28:13.620
+And he says, I don't know how much longer I can take it.
+
+00:28:13.700 --> 00:28:18.440
+Yeah. And then the opposition, yeah, the opposition, you see how they're doing as well.
+
+00:28:18.720 --> 00:28:22.080
+And sometimes they get angry, and sometimes they're smug.
+
+00:28:22.540 --> 00:28:23.800
+So I think it's really cool.
+
+00:28:24.040 --> 00:28:29.540
+One thing I talked to Sam about, and I read this, so I don't know how much it's confirmed,
+
+00:28:29.540 --> 00:28:36.980
+but if you press select as soon as the round goes to the cutscene, when you resume the
+
+00:28:36.980 --> 00:28:41.620
+next fight, you gain a ton more energy, or health, essentially.
+
+00:28:42.240 --> 00:28:47.120
+You gain a ton more health back, because that's kind of like helping apply the bandages.
+
+00:28:47.560 --> 00:28:48.860
+Yeah, that is in the manual.
+
+00:28:48.980 --> 00:28:51.320
+Oh, okay, great. So it is an actual thing.
+
+00:28:51.560 --> 00:28:54.840
+Yeah. I think a lot of this game already is showing...
+
+00:28:54.840 --> 00:28:59.020
+We're only on Glass Joe, but it's showing a lot of promise because of all the little
+
+00:28:59.020 --> 00:29:00.380
+details that it puts into it.
+
+00:29:01.160 --> 00:29:06.640
+So after Glass Joe, you face Von Kaiser, and I don't really have much to say about him,
+
+00:29:06.680 --> 00:29:11.500
+other than he was the one where I learned my essential strategy for most of the enemies
+
+00:29:11.500 --> 00:29:16.680
+in the game, which is after you knock down Von Kaiser the first time, he will most likely
+
+00:29:16.680 --> 00:29:20.200
+get up. It'll be one, two, three, and then he'll get back up.
+
+00:29:20.500 --> 00:29:26.820
+And then if you dodge his attack, whatever comes next, dodge it, hit him with an uppercut,
+
+00:29:26.820 --> 00:29:31.060
+you can switch between uppercut left, uppercut right, uppercut left, uppercut right.
+
+00:29:31.220 --> 00:29:32.860
+You mean like a hook left or right?
+
+00:29:32.860 --> 00:29:34.100
+Oh, sorry. Yeah, hook left, hook right.
+
+00:29:34.240 --> 00:29:39.480
+Yeah, like that. And you can just continue to chain it again and again, as long as you alternate between
+
+00:29:39.480 --> 00:29:40.640
+left, right, left, right.
+
+00:29:40.980 --> 00:29:42.460
+He'll never break out of it.
+
+00:29:42.700 --> 00:29:46.620
+Now, again, he must be knocked down once before this happens, but he'll never break out
+
+00:29:46.620 --> 00:29:48.460
+of it and he'll go right to being knocked down again.
+
+00:29:48.660 --> 00:29:52.380
+It's not much fun, but if I'm playing through this game from the beginning again and I want to
+
+00:29:52.380 --> 00:29:54.840
+get through it pretty fast, you better believe I'm going to use that strategy.
+
+00:29:54.840 --> 00:29:57.320
+It also feels pretty awesome the first time you do it.
+
+00:29:57.460 --> 00:29:58.640
+Yeah, so it gets me pumped.
+
+00:29:58.820 --> 00:30:01.540
+Yeah. So that's Von Kaiser.
+
+00:30:01.540 --> 00:30:02.480
+Any other thoughts on him?
+
+00:30:03.080 --> 00:30:08.360
+Okay. And then Piston Honda, a guy we've been talking about a lot because he is the first like massive
+
+00:30:08.800 --> 00:30:09.880
+character you fight.
+
+00:30:10.480 --> 00:30:12.840
+Kind of looks like the guy from Street Fighter.
+
+00:30:13.440 --> 00:30:14.520
+Which guy from Street Fighter?
+
+00:30:14.700 --> 00:30:16.260
+Oh, yeah, Ryu?
+
+00:30:16.700 --> 00:30:19.880
+No. Maybe I'm thinking of a different fighting game.
+
+00:30:19.880 --> 00:30:21.620
+I think you are thinking of a different fighting game.
+
+00:30:22.200 --> 00:30:24.720
+Okay. Yeah. I'll just go back into my corner.
+
+00:30:24.720 --> 00:30:27.280
+I was like, yeah, because I don't think he really looks like Ryu, but I was trying to
+
+00:30:27.280 --> 00:30:29.300
+throw you a bone. Sam?
+
+00:30:29.740 --> 00:30:34.140
+This was the first one that when I was playing this the first time, it kind of felt like a
+
+00:30:34.140 --> 00:30:37.520
+real fight where the other ones you can kind of cheese your way out of it.
+
+00:30:37.940 --> 00:30:44.520
+This one really, I think this is where the game actually starts and stops being a tutorial
+
+00:30:44.520 --> 00:30:48.560
+and starts being more of a game because he's got his little special fight that he does.
+
+00:30:48.560 --> 00:30:50.740
+Yeah, the back up and then approach.
+
+00:30:50.820 --> 00:30:53.820
+He backs up and then he charges and he has the Fists of Fury or whatever it is.
+
+00:30:53.940 --> 00:30:55.800
+So what was it when that first happened to you guys?
+
+00:30:55.860 --> 00:30:58.680
+Because I think that's the first like trick move in the game, right?
+
+00:30:58.760 --> 00:31:01.680
+Yeah. When that came out, what was your first strategy?
+
+00:31:01.860 --> 00:31:03.660
+Don't tell me what you actually have to do.
+
+00:31:03.760 --> 00:31:05.420
+But what was your first reaction to that?
+
+00:31:05.580 --> 00:31:06.760
+Did you just take the blows?
+
+00:31:06.980 --> 00:31:08.840
+Did you try to dodge to the left and right?
+
+00:31:08.840 --> 00:31:10.040
+I think I tried to dodge.
+
+00:31:10.360 --> 00:31:11.880
+Yeah, I tried to dodge too. I didn't do it very well.
+
+00:31:12.080 --> 00:31:15.380
+Yeah. It was tough because I mean that was especially the first time I saw that coming.
+
+00:31:16.180 --> 00:31:17.760
+I had no idea that was coming.
+
+00:31:17.800 --> 00:31:20.080
+So it just kind of took me by surprise.
+
+00:31:20.280 --> 00:31:25.560
+I think I tried to do a dodge punch like I tried with the other moves and that worked.
+
+00:31:25.960 --> 00:31:31.000
+Yeah. I wonder, has anybody been able to dodge left or right and successfully time it?
+
+00:31:31.100 --> 00:31:35.020
+Or will you be by dodging to the left or right, will you eventually get hit by one of his punches?
+
+00:31:35.200 --> 00:31:36.620
+Like can you perfectly time those?
+
+00:31:36.620 --> 00:31:39.840
+Because I know if you hit down on the deep head, you'll block.
+
+00:31:40.000 --> 00:31:45.380
+I think that you can get into a good enough rhythm so that you can be missed by all of them.
+
+00:31:45.520 --> 00:31:48.680
+You can also, if you hit down twice, I think you dodge as well.
+
+00:31:48.680 --> 00:31:50.700
+Oh, really? Okay. I did not notice that either.
+
+00:31:50.840 --> 00:31:52.180
+I really need to check out this manual.
+
+00:31:52.480 --> 00:31:53.640
+I think that's true.
+
+00:31:53.840 --> 00:31:57.140
+Okay. But I never dodged it successfully.
+
+00:31:57.380 --> 00:32:01.000
+All that said though for Piston Honda, he's still an approachable character.
+
+00:32:01.220 --> 00:32:03.240
+The game hasn't hit like hard mode yet.
+
+00:32:03.240 --> 00:32:05.920
+It's just giving you something new that you have to prepare for.
+
+00:32:05.920 --> 00:32:13.960
+I think it was, like Sam said, I think it was the first time for me where I really had to think of a strategy or kind of decide, be more decisive with my attacks.
+
+00:32:14.060 --> 00:32:21.220
+Like when he does some crazy uppercut and that's when you got to jump in and, you know, throw all your attacks at once.
+
+00:32:21.400 --> 00:32:24.380
+Right. And we mentioned a little, the quick way to get in.
+
+00:32:24.380 --> 00:32:25.320
+All-time body punch.
+
+00:32:26.320 --> 00:32:29.000
+Yeah. And kudos to Sam for showing that to me.
+
+00:32:29.240 --> 00:32:32.020
+So then you become the champion of the minor circuit.
+
+00:32:32.020 --> 00:32:34.100
+There's a nice little screen for that and everything.
+
+00:32:34.320 --> 00:32:38.740
+And then there's the amazing cut scene that we just talked about where he's in Staten Island?
+
+00:32:38.900 --> 00:32:39.940
+Staten Island. Let's go with it.
+
+00:32:40.060 --> 00:32:42.640
+Maybe a lower, maybe West Village.
+
+00:32:42.640 --> 00:32:49.620
+And it was interesting, too, because I, really my only knowledge of Little Mac was from my also limited knowledge of Super Smash Brothers.
+
+00:32:49.840 --> 00:32:52.680
+And there's a skin in Super Smash Brothers where he's wearing a pink hoodie.
+
+00:32:52.780 --> 00:32:54.640
+And I always thought it was just a funny thing they put in there.
+
+00:32:54.700 --> 00:32:55.880
+But it's from that cut scene.
+
+00:32:56.100 --> 00:32:58.940
+Well, then you'll also know in Smash Brothers there's a wireframe version, too.
+
+00:32:59.300 --> 00:33:01.240
+Yeah. And that's from the arcade version.
+
+00:33:02.720 --> 00:33:04.620
+You just pointed that out to me, just so you know.
+
+00:33:04.620 --> 00:33:09.160
+I did not put the connection between the pink hoodie and the Smash Brothers skin.
+
+00:33:09.400 --> 00:33:10.440
+So that's really cool.
+
+00:33:40.120 --> 00:33:47.340
+I did not put the connection between the two and the two and the two. After the amazing cut scene, you go to the major circuit, which obviously would be a little step up from the minor circuit.
+
+00:33:47.480 --> 00:33:50.460
+But you're not quite up to Mike Tyson's scale yet.
+
+00:33:50.640 --> 00:33:55.820
+And that's when you get, in my opinion, the real personality of the game starts to come out.
+
+00:33:55.900 --> 00:34:00.260
+The first three characters definitely feel like people you might run into in a boxing match.
+
+00:34:00.540 --> 00:34:02.440
+You know, they're real people.
+
+00:34:02.620 --> 00:34:04.840
+Then Don Flamenco comes out.
+
+00:34:05.180 --> 00:34:09.800
+And that music, you know, which I imagine is just royalty-free music, right?
+
+00:34:09.800 --> 00:34:12.000
+What is that? I forget what song it is.
+
+00:34:12.160 --> 00:34:17.420
+Yeah. Anyway, he comes out to that with a rose.
+
+00:34:17.740 --> 00:34:19.900
+Spanish-sounding, yeah. It's a famous song.
+
+00:34:20.020 --> 00:34:22.540
+I can't remember. Yeah. It's just so funny that he's doing this.
+
+00:34:23.160 --> 00:34:27.140
+And that kind of, like, put a smile on my face coming off of the cut scene.
+
+00:34:27.200 --> 00:34:28.640
+You know, I'm already like, let's do it.
+
+00:34:28.740 --> 00:34:30.020
+Next round. And then you see this.
+
+00:34:30.020 --> 00:34:31.320
+And I'm like, I can fight this guy.
+
+00:34:32.260 --> 00:34:33.700
+Like, he's better than Glass Joe.
+
+00:34:34.100 --> 00:34:35.180
+Kind of looks like Glass Joe.
+
+00:34:35.580 --> 00:34:36.600
+A little? A little bit.
+
+00:34:36.600 --> 00:34:37.680
+Okay. He's tanned.
+
+00:34:37.900 --> 00:34:40.540
+We're having a hard time, like, visualizing things right now.
+
+00:34:40.740 --> 00:34:42.200
+Yeah. I was seeing...
+
+00:34:42.200 --> 00:34:43.340
+Yeah, he had black hair.
+
+00:34:43.480 --> 00:34:45.800
+I was seeing Honda from Street Fighter.
+
+00:34:46.120 --> 00:34:47.560
+I think a big part of it is...
+
+00:34:47.560 --> 00:34:51.120
+You were seeing Honda? I think a big part of it is just that he's...
+
+00:34:51.440 --> 00:34:53.900
+Since Glass Joe, we've seen a lot of people that are, like, twice your size.
+
+00:34:54.000 --> 00:34:55.120
+This is the other guy that's, like, more your size.
+
+00:34:55.260 --> 00:34:56.560
+So it reminded me of him. He's a skinny guy.
+
+00:34:56.740 --> 00:34:58.800
+Probably not 107 pounds like yourself.
+
+00:34:59.660 --> 00:35:01.940
+But, nevertheless, he's a pro 17-year-old.
+
+00:35:01.940 --> 00:35:06.460
+But, yeah, flamenco sort of gets by just by taunting you the whole time.
+
+00:35:06.660 --> 00:35:08.720
+Yeah. So that's new.
+
+00:35:09.200 --> 00:35:10.560
+I like that, though, too.
+
+00:35:10.640 --> 00:35:15.460
+The idea of a cocky fighter who thinks, like, oh, you're from the minor circuit.
+
+00:35:15.460 --> 00:35:16.460
+I'm on the major circuit.
+
+00:35:16.480 --> 00:35:18.640
+Your hustle is 17 and 107 pounds.
+
+00:35:19.480 --> 00:35:21.720
+Right. This is probably going to be pretty easy.
+
+00:35:21.820 --> 00:35:24.420
+I solved flamenco with the old left and right again.
+
+00:35:24.960 --> 00:35:26.400
+Just doing the knockdown.
+
+00:35:26.560 --> 00:35:27.860
+And then when he gets back up, doing that.
+
+00:35:27.860 --> 00:35:33.200
+But there are people who play this game that get very creative with knocking people out as fast as possible.
+
+00:35:33.680 --> 00:35:40.800
+And one thing that's really interesting with the speedrunning scene is that they don't time the game from real-time duration.
+
+00:35:41.200 --> 00:35:43.200
+They just go from fight to fight.
+
+00:35:43.300 --> 00:35:51.580
+And then at the end of each fight, they add up the total time because it tells you, like, you beat him in 2 minutes, 13 seconds, .2.
+
+00:35:51.820 --> 00:35:52.640
+You know? Interesting.
+
+00:35:52.840 --> 00:35:55.360
+And they add up each of those to get a final thing.
+
+00:35:55.360 --> 00:36:00.260
+Just because, like, the time between rounds is set?
+
+00:36:00.600 --> 00:36:03.500
+I guess it's just more like, oh, how fast can you hit the start button?
+
+00:36:03.780 --> 00:36:06.840
+You know? Yeah. Making sure that, you know, there's no skill really involved there.
+
+00:36:06.840 --> 00:36:09.560
+So I guess there was more just making sure that the fights count.
+
+00:36:09.840 --> 00:36:20.500
+Yeah. But it's people figuring out, you know, and this is not specifically for Don Flamenco, but there's people who figured out, oh, if you knock this guy out at exactly 43 seconds, it will just count as a KO.
+
+00:36:20.500 --> 00:36:24.320
+Like, he will not get up as long as you do the timer at 43 seconds.
+
+00:36:24.660 --> 00:36:28.680
+Or if you give this guy two star punches in a row, he'll TKO.
+
+00:36:29.020 --> 00:36:33.020
+You know? It's little things like that that people learn throughout it that I think is really interesting.
+
+00:36:33.120 --> 00:36:34.520
+Me, I'm just going at them.
+
+00:36:34.660 --> 00:36:38.040
+That 43-second thing seems like RNG, though.
+
+00:36:38.280 --> 00:36:39.660
+Not RNG because it's not random.
+
+00:36:39.820 --> 00:36:43.300
+It's 43 seconds. But what logic is behind that?
+
+00:36:43.440 --> 00:36:44.420
+I don't know. It's interesting.
+
+00:36:44.600 --> 00:36:48.040
+And who knows? For all, I think the 43 is the only thing that's required.
+
+00:36:48.040 --> 00:36:50.220
+I don't think it's a specific series of inputs.
+
+00:36:50.660 --> 00:36:54.740
+So, yeah, it seems like almost it was coded into the game to have that.
+
+00:36:55.160 --> 00:36:57.700
+Interesting. Any other thoughts on Flamenco?
+
+00:36:58.540 --> 00:36:59.920
+Who's not Flamenco?
+
+00:37:01.100 --> 00:37:07.000
+After that, we have King Hippo, who I would argue is the first trick fight of the game and maybe the only one.
+
+00:37:07.640 --> 00:37:08.880
+What do you mean by trick fight?
+
+00:37:09.000 --> 00:37:14.580
+So you can't actually do anything to him unless you, like, he must be KO'd.
+
+00:37:14.860 --> 00:37:18.820
+Yeah. And the only way to attack him is to knock down his pants.
+
+00:37:20.000 --> 00:37:20.800
+Oh, yes.
+
+00:37:21.960 --> 00:37:22.980
+Over and over again.
+
+00:37:22.980 --> 00:37:23.980
+Like, you can't, yeah, exactly.
+
+00:37:24.140 --> 00:37:33.680
+You can't hurt him through anything other than him winding up for his punch, which is different because he winds up for his punch sometimes and you can't do anything to him.
+
+00:37:33.680 --> 00:37:42.620
+But if he winds up his punch and opens his mouth, that's your chance to punch him in the belly, knock down his shorts, and then punch him in the belly as many times as possible.
+
+00:37:42.620 --> 00:37:43.680
+Everyone knows how shorts work.
+
+00:37:43.920 --> 00:37:46.280
+Your hands up, your mouth's open, your shorts are going to fall down.
+
+00:37:46.440 --> 00:37:50.500
+This fight was, I couldn't get past it for the longest time.
+
+00:37:50.620 --> 00:37:59.560
+Interesting. I had to look it up, but I didn't understand that I could only hit him if he raised his arm over his head with the mouth and stuff like that.
+
+00:37:59.680 --> 00:38:00.780
+Yeah. It was.
+
+00:38:00.920 --> 00:38:02.880
+He glows a little too on it though, too, right?
+
+00:38:02.880 --> 00:38:04.500
+He does like a brief shimmer.
+
+00:38:04.880 --> 00:38:05.700
+Maybe. Yeah.
+
+00:38:05.700 --> 00:38:12.080
+I know that in the cut scene though, in between rounds, he talks about his mouth or Doc Lewis talks about his mouth.
+
+00:38:12.220 --> 00:38:13.040
+I forget who does it.
+
+00:38:13.280 --> 00:38:14.740
+Well, first, Little Mac says something.
+
+00:38:14.980 --> 00:38:19.260
+This is all paraphrasing, but Little Mac says something along the lines of like, I just can't get through to him.
+
+00:38:19.520 --> 00:38:22.900
+And Doc gives like a borderline hint.
+
+00:38:23.060 --> 00:38:26.420
+But then Hippo is the one who talks about his mouth.
+
+00:38:26.720 --> 00:38:29.460
+And so that's like the key to like look for the mouth to be open.
+
+00:38:29.460 --> 00:38:35.860
+And it's also just, you have to be, I was so focused just staring at his face like, is he going to tell?
+
+00:38:35.960 --> 00:38:45.060
+Is he going to tell? And that visual information making its way to my hands of like whether I should punch or not just wasn't getting through.
+
+00:38:45.460 --> 00:38:47.760
+He's also got the bandage around his belly button.
+
+00:38:48.380 --> 00:38:49.300
+Oh, I didn't. Yeah.
+
+00:38:49.440 --> 00:38:51.440
+I mean like that's there. I just, I didn't think about that.
+
+00:38:51.620 --> 00:38:52.800
+So we're hitting him in his weak spot.
+
+00:38:53.000 --> 00:38:54.640
+Right. Yeah. That's cool.
+
+00:38:55.280 --> 00:38:56.320
+I like King Hippo.
+
+00:38:57.060 --> 00:38:59.100
+I like him too. I think he's a great fight character.
+
+00:38:59.100 --> 00:39:04.640
+I think this is the first one that actually like took some time to figure out the pattern.
+
+00:39:05.300 --> 00:39:07.840
+It's a little more difficult to solve the pattern.
+
+00:39:07.980 --> 00:39:09.840
+Yeah. The first time I faced him, I lost.
+
+00:39:10.220 --> 00:39:12.880
+Yeah. I think he's, I had no idea what to do.
+
+00:39:13.040 --> 00:39:15.420
+One of the most iconic people in this whole game.
+
+00:39:15.580 --> 00:39:20.220
+Yeah. And he shows up in all the games too, I think, including the Wii version that we'll talk about later.
+
+00:39:21.180 --> 00:39:22.220
+So that's King Hippo.
+
+00:39:22.380 --> 00:39:26.580
+He also shows up on the Captain N TV show, which we're not about to talk about today.
+
+00:39:26.580 --> 00:39:28.720
+Are you sure you don't want to go on a 15 minute?
+
+00:39:29.460 --> 00:39:34.100
+Yeah. And join back to our Donkey Kong days when we were talking about the Donkey Kong TV show,
+
+00:39:34.260 --> 00:39:35.080
+which was a thing.
+
+00:39:35.240 --> 00:39:36.740
+People, check it out on YouTube.
+
+00:39:37.080 --> 00:39:38.960
+It even got a Donkey Kong Junior show.
+
+00:39:39.180 --> 00:39:40.340
+Let's keep talking about Donkey Kong.
+
+00:39:40.460 --> 00:39:42.820
+Let's do this. Yeah. Why isn't Donkey Kong in this game?
+
+00:39:43.200 --> 00:39:44.180
+Wouldn't that be amazing?
+
+00:39:44.300 --> 00:39:46.640
+Isn't he? Isn't, oh no.
+
+00:39:46.700 --> 00:39:48.360
+You're thinking of in the Punch-Out!
+
+00:39:48.400 --> 00:39:49.720
+Arcade version, he's in the crowd.
+
+00:39:49.720 --> 00:39:50.840
+Oh, okay.
+
+00:39:51.040 --> 00:39:54.920
+Yeah, it's him, Mario, and somebody else.
+
+00:39:55.320 --> 00:39:56.560
+Probably Luigi. Cool.
+
+00:39:56.560 --> 00:39:58.580
+And then in Super Punch-Out!, I think even Yoshi's there.
+
+00:39:58.900 --> 00:40:01.800
+Aw. Which is weird that they let a dinosaur into the...
+
+00:40:02.360 --> 00:40:03.980
+He's an adorable dinosaur.
+
+00:40:04.160 --> 00:40:08.420
+Yes, he is. Speaking of adorable, we have Great Tiger up next.
+
+00:40:08.760 --> 00:40:11.140
+Not that adorable. Great Tiger is not that adorable.
+
+00:40:11.140 --> 00:40:18.360
+But he's pretty crazy because he has that onslaught of attacks that he does with his special,
+
+00:40:18.360 --> 00:40:22.840
+where if you thought Piston Honda was bad, he just keeps coming at you and at you.
+
+00:40:22.920 --> 00:40:28.160
+And this is the one for me where every time he came at me, I was very low on stamina
+
+00:40:28.160 --> 00:40:32.200
+and usually wound up, at the very least, if I wasn't knocked down by him,
+
+00:40:32.360 --> 00:40:38.500
+I was getting those pink flashes because I wasn't able to punch back because I was doing too much blocking.
+
+00:40:38.740 --> 00:40:41.880
+Mm-hmm. Right. This one took me a while to get through...
+
+00:40:41.880 --> 00:40:44.360
+Not a while, but it was difficult for me to get through the first round.
+
+00:40:45.420 --> 00:40:48.400
+But then in the second round, that's when he starts zipping around the ring.
+
+00:40:48.500 --> 00:40:50.140
+Yeah. And I was like, what's going on?
+
+00:40:50.220 --> 00:40:51.260
+He's teleporting.
+
+00:40:51.420 --> 00:40:54.180
+I was so panicked when all of a sudden he was just zooming around.
+
+00:40:54.740 --> 00:40:56.560
+That was the first thing that really...
+
+00:40:57.060 --> 00:41:00.720
+The first opponent that was really shockingly...
+
+00:41:00.720 --> 00:41:04.300
+But he's got the glowing head thing.
+
+00:41:04.520 --> 00:41:06.180
+On his turban, he has a jewel.
+
+00:41:06.180 --> 00:41:07.200
+Like a jewel.
+
+00:41:07.540 --> 00:41:08.580
+Yeah. And I like that.
+
+00:41:08.640 --> 00:41:09.760
+I thought that was neat. Mm-hmm.
+
+00:41:10.060 --> 00:41:11.120
+It's like, okay, sure.
+
+00:41:11.960 --> 00:41:15.660
+You know, like, it's better than the eyes glowing or the punch or something like that.
+
+00:41:15.660 --> 00:41:16.660
+So I'm down with it.
+
+00:41:17.640 --> 00:41:20.820
+Another thing I wanted to say about Great Tiger, though, besides the on-slave attacks,
+
+00:41:20.980 --> 00:41:26.680
+is that he does hint at the teleporting thing at the very beginning of the match when he gets out of the corner.
+
+00:41:26.680 --> 00:41:29.040
+He does teleport.
+
+00:41:29.300 --> 00:41:33.940
+Teleport. Ever so slightly. Yeah, like, teleport just a little bit further into the stage, which could look like a glitch.
+
+00:41:34.300 --> 00:41:38.800
+Oh, yeah. If you don't know the special move yet, it could just look like, oh, that was weird.
+
+00:41:38.980 --> 00:41:41.000
+Like, he just moved enough.
+
+00:41:41.320 --> 00:41:44.680
+Right. Like, it wasn't like he's teleporting around the entire ring.
+
+00:41:45.000 --> 00:41:47.780
+Yeah. It was like, get ready for this thing that's coming up.
+
+00:41:48.080 --> 00:41:57.880
+I actually really like that special move, though, despite how it requires, like, very precise timing of blocks or maybe a correct attack at the right time.
+
+00:41:57.880 --> 00:42:01.840
+I really thought that was interesting because now it's like we're in a different world.
+
+00:42:02.000 --> 00:42:05.920
+You know? Everybody so far has been grounded to reality in one way or another.
+
+00:42:06.160 --> 00:42:10.080
+Yeah. And then Great Tiger comes, and he's like, oh, by the way, I can teleport like Goku.
+
+00:42:10.840 --> 00:42:15.740
+Aside from maybe King Hippo not looking like a human being, but I get what you're saying.
+
+00:42:15.740 --> 00:42:18.380
+I'm sure somebody looks like that and they're offended by you saying that.
+
+00:42:19.180 --> 00:42:21.300
+I didn't notice it.
+
+00:42:21.360 --> 00:42:26.400
+I knew afterwards from watching Let's Plays and stuff, but I didn't notice it as teleporting.
+
+00:42:26.460 --> 00:42:30.000
+I thought it was just their way of showing him, like, running around, being really fast.
+
+00:42:30.720 --> 00:42:32.340
+But I guess this is supposed to be teleporting.
+
+00:42:32.340 --> 00:42:33.240
+Fast Joe. Yeah.
+
+00:42:33.400 --> 00:42:34.580
+That was a thing.
+
+00:42:34.720 --> 00:42:37.220
+He's just zipping around. Isn't that what Goku does?
+
+00:42:37.380 --> 00:42:39.560
+He just runs really fast and it looks like he's a teleporter?
+
+00:42:39.760 --> 00:42:41.160
+No, it's called instant transmission.
+
+00:42:41.420 --> 00:42:43.040
+Oh, I don't see. That shows what I know.
+
+00:42:43.040 --> 00:42:45.680
+He puts his two fingers on his forehead and it just happens.
+
+00:42:45.700 --> 00:42:47.000
+It goes, zink. Yeah.
+
+00:42:47.420 --> 00:42:48.440
+That's such a cool sound.
+
+00:42:48.520 --> 00:42:51.400
+Something like that. Yeah. And here's that sound right here.
+
+00:42:51.760 --> 00:42:52.800
+No, no, no.
+
+00:42:53.700 --> 00:42:55.620
+Yeah, this is now a Dragon Ball Z show.
+
+00:42:57.060 --> 00:42:59.040
+What do you guys think of Android 18?
+
+00:42:59.040 --> 00:43:03.720
+So, Bald Bull is the next character on our list.
+
+00:43:03.880 --> 00:43:05.780
+Does anybody want to talk about Bald Bull?
+
+00:43:06.720 --> 00:43:07.940
+No. Bald Bull.
+
+00:43:10.400 --> 00:43:12.380
+Bald Bull would be interesting, though.
+
+00:43:13.220 --> 00:43:14.110
+Bald Bull is...
+
+00:43:15.740 --> 00:43:20.760
+If there's one thing I'm going to say about this guy, it's that he's the equivalent to Piston
+
+00:43:20.760 --> 00:43:23.340
+Honda in terms of someone who actually looks like a boxer.
+
+00:43:23.600 --> 00:43:24.920
+Yes. Yeah, he's scary looking.
+
+00:43:25.180 --> 00:43:29.280
+Yeah. He definitely doesn't...
+
+00:43:30.260 --> 00:43:35.520
+And... I guess I don't know what I want to say here, but he's not as challenging to me as Great
+
+00:43:35.520 --> 00:43:38.000
+Tiger was, so it's weird that he comes afterwards.
+
+00:43:38.400 --> 00:43:40.960
+A bit of a respite to you, then?
+
+00:43:41.080 --> 00:43:45.040
+Like, oh, I'm recovering from this hard fight with a more easy fight?
+
+00:43:45.140 --> 00:43:46.720
+I don't think it's an easy fight, though, I guess.
+
+00:43:46.720 --> 00:43:52.020
+Because even though it's not as tricky as Great Tiger, I did find that Bald Bull's punches
+
+00:43:52.020 --> 00:43:54.700
+did an awful lot of damage to Little Mac.
+
+00:43:54.900 --> 00:43:59.120
+So, I actually found myself getting knocked down a lot, and that's tough because Bald Bull
+
+00:43:59.120 --> 00:44:00.280
+can't be KO'd.
+
+00:44:00.640 --> 00:44:02.300
+Yes. He can only...
+
+00:44:02.300 --> 00:44:03.140
+Can't be KO'd?
+
+00:44:03.180 --> 00:44:04.780
+He can only get TKO'd.
+
+00:44:05.260 --> 00:44:06.360
+Oh, oh. You can't...
+
+00:44:06.360 --> 00:44:07.520
+Knock him down three times, yeah.
+
+00:44:07.600 --> 00:44:09.300
+Exactly. You have to knock him down three times.
+
+00:44:09.540 --> 00:44:14.020
+He's unbeatable by decision, so if you go all three rounds, you won't be able to...
+
+00:44:14.020 --> 00:44:18.660
+They'll just decide that Bald Bull won the match, and I guess...
+
+00:44:18.660 --> 00:44:20.240
+Bald Bull. We'll just call him BB going forward.
+
+00:44:20.300 --> 00:44:22.520
+I think that's kind of BS, you know?
+
+00:44:22.680 --> 00:44:26.820
+Because if you're, like, a little kid, and you knock down this guy more than he knocks
+
+00:44:26.820 --> 00:44:28.020
+you down, I think you win.
+
+00:44:28.460 --> 00:44:30.400
+Yeah. I actually don't know.
+
+00:44:30.540 --> 00:44:31.860
+I've never won by decision.
+
+00:44:32.060 --> 00:44:34.280
+If I'm just going off a little bit here...
+
+00:44:34.280 --> 00:44:37.420
+Well, chances are, if it takes you three rounds to get through a fight, you're probably,
+
+00:44:37.880 --> 00:44:39.480
+you know, not doing that well.
+
+00:44:39.480 --> 00:44:41.800
+But is it possible? Yeah, but he's also not doing that well.
+
+00:44:42.020 --> 00:44:43.960
+You know? You know, he's also fighting me.
+
+00:44:44.140 --> 00:44:45.240
+Yeah, a 17-year-old boy.
+
+00:44:45.240 --> 00:44:49.420
+A 17-year-old, 107-pound boy, and he can't beat me, so what does that say about him?
+
+00:44:49.560 --> 00:44:53.220
+Yeah, if you go three rounds with Mike Tyson, I feel like you should just be decided the
+
+00:44:53.220 --> 00:44:56.320
+winner. Yeah. But, so, Joe, did you win a round?
+
+00:44:56.320 --> 00:44:58.440
+So, I did not win by decision, but I...
+
+00:44:58.960 --> 00:45:03.020
+Afterwards, after I stopped and couldn't get any farther, when I was watching a Let's
+
+00:45:03.020 --> 00:45:07.080
+Play, I saw, actually, against Mike Tyson, they won by decision.
+
+00:45:07.220 --> 00:45:08.040
+Really? Yeah. Okay.
+
+00:45:08.300 --> 00:45:09.580
+I thought it was... Oh, wow.
+
+00:45:09.600 --> 00:45:11.080
+I did not know that that was possible.
+
+00:45:11.760 --> 00:45:13.380
+So, with Bald Bull, I...
+
+00:45:13.380 --> 00:45:19.200
+Yeah. There's another one of those secret ways of ending him.
+
+00:45:19.380 --> 00:45:24.100
+Okay. Which is, when he does his little bull hop thing...
+
+00:45:24.100 --> 00:45:25.680
+Gotta hit him in the stomach again.
+
+00:45:25.760 --> 00:45:27.760
+Yeah, you hit him in the stomach on the third hop.
+
+00:45:27.980 --> 00:45:31.580
+He jumps towards you three times, and I think...
+
+00:45:31.580 --> 00:45:32.640
+And then he attacks you.
+
+00:45:32.640 --> 00:45:36.260
+And on the third hop, the second he jumps, or while he's...
+
+00:45:36.260 --> 00:45:37.860
+I'm not exactly sure what the timing is.
+
+00:45:38.540 --> 00:45:41.080
+If you do a body blow, then it just knocks him right out.
+
+00:45:41.460 --> 00:45:42.920
+Yeah. And I think you kind of, like...
+
+00:45:42.920 --> 00:45:47.000
+You have to do something like that, because he goes into, like, an infinite loop...
+
+00:45:47.000 --> 00:45:48.360
+Yeah. ...of that, you know?
+
+00:45:48.440 --> 00:45:49.320
+So, if you're...
+
+00:45:49.320 --> 00:45:53.580
+If you don't know what to do, you're just gonna have to continue blocking that infinite
+
+00:45:53.580 --> 00:45:58.900
+loop of him doing this weird leapfrog game, where he, like, backs up into the corner,
+
+00:45:58.900 --> 00:46:00.240
+and then boom, boom, boom.
+
+00:46:00.640 --> 00:46:01.580
+That's what I'm talking about.
+
+00:46:01.800 --> 00:46:06.900
+I think it's with 40 seconds left that always triggers, because I was trying over and over
+
+00:46:06.900 --> 00:46:10.280
+and over just to knock him down three times before that would happen.
+
+00:46:10.500 --> 00:46:15.820
+Yeah. But I think it also will jump into that if you knock him down twice, so that you can't just
+
+00:46:15.820 --> 00:46:22.100
+TKO... You can't TKO him before he does those charges.
+
+00:46:22.360 --> 00:46:58.260
+Yeah. And now we will move on to the World Circuit, where we see the repeat of Piston Honda.
+
+00:46:59.220 --> 00:47:00.200
+Um... Ball Ball.
+
+00:47:02.300 --> 00:47:03.880
+Uh... And Don Flamenco.
+
+00:47:04.080 --> 00:47:05.780
+They return. They're a little bit harder.
+
+00:47:06.040 --> 00:47:09.420
+I don't want to talk about them again, though, but one thing I did want to call out that
+
+00:47:09.420 --> 00:47:15.340
+I watched a YouTube video on was that the second time you fight Piston Honda, there is...
+
+00:47:15.340 --> 00:47:20.320
+And it was known in the community for a long time that there's a special timing for a punch
+
+00:47:20.320 --> 00:47:23.620
+that will knock out Piston Honda and end the match.
+
+00:47:23.620 --> 00:47:29.560
+Wow. But nobody could figure out how to, like, what was the timing or when to do it, but there
+
+00:47:29.560 --> 00:47:35.740
+actually is a visual cue in the game that was staring at gamers all across the globe
+
+00:47:35.740 --> 00:47:40.300
+for 20 years before it was finally discovered about a year or two ago.
+
+00:47:40.300 --> 00:47:45.580
+So, in the audience, those pink characters with the black silhouettes, you know, uh, who I'm
+
+00:47:45.580 --> 00:47:46.860
+talking about, like, all the little heads.
+
+00:47:47.100 --> 00:47:52.760
+Mm-hmm. In the left side, right behind, like, right behind where Piston Honda would be standing,
+
+00:47:53.380 --> 00:47:57.760
+as soon as the timing comes, the audience member ducks.
+
+00:47:58.580 --> 00:48:00.040
+They actually duck.
+
+00:48:00.040 --> 00:48:05.020
+And if you punch, if you give him an uppercut, as soon as that character ducks, which only
+
+00:48:05.020 --> 00:48:09.320
+happens in that round, you will knock him out and it will be a TKO.
+
+00:48:09.320 --> 00:48:10.180
+That's actually amazing.
+
+00:48:10.360 --> 00:48:15.140
+I want a spinoff game about that character and him trying to give you hints.
+
+00:48:15.680 --> 00:48:16.680
+Right? Like, what does he know?
+
+00:48:16.820 --> 00:48:18.600
+Isn't there a camera one also?
+
+00:48:18.880 --> 00:48:25.540
+I think there's a few video audience cues, but that one stood out the most interesting
+
+00:48:25.540 --> 00:48:27.960
+to me because it wasn't discovered for 20 years.
+
+00:48:27.960 --> 00:48:33.080
+There had to have been some kid in 1987 or a few of them that knew about it, like, found
+
+00:48:33.080 --> 00:48:35.060
+out and just kept their mouth shut for so long.
+
+00:48:35.820 --> 00:48:37.240
+Yeah, I'm keeping this to myself.
+
+00:48:38.260 --> 00:48:39.440
+I just think it's really cool, though.
+
+00:48:39.600 --> 00:48:40.840
+I mean, I never looked at the audience.
+
+00:48:41.200 --> 00:48:45.400
+I know there was some guy taking a picture, but I didn't think, oh, I should punch the guy
+
+00:48:45.400 --> 00:48:46.360
+while he's taking the picture.
+
+00:48:47.420 --> 00:48:51.300
+But we do face one new character, and that's Soda Popinski.
+
+00:48:52.360 --> 00:48:56.020
+Very Russian. Originally Vodka Drunkinski.
+
+00:48:56.320 --> 00:49:00.400
+More Russian. Yeah, that was censored by Nintendo of America.
+
+00:49:00.820 --> 00:49:04.540
+There were some unfortunate stereotypes going on at some point.
+
+00:49:04.720 --> 00:49:09.360
+And, yeah, he's very Russian, to Sean's point, so that's probably why they didn't want to
+
+00:49:09.360 --> 00:49:11.360
+do the Vodka Drunkinski.
+
+00:49:12.100 --> 00:49:14.340
+So, anything to say about Soda?
+
+00:49:15.460 --> 00:49:18.160
+I honestly don't think I made it to him.
+
+00:49:18.180 --> 00:49:21.920
+I think I could only get through the repeats.
+
+00:49:21.920 --> 00:49:23.780
+Okay. Well, you don't fade it.
+
+00:49:23.860 --> 00:49:25.100
+I don't think the repeats, sorry.
+
+00:49:25.200 --> 00:49:30.560
+I don't think it's Piston Honda, Ball, Ball, and Don Flamenco before Soda, is it?
+
+00:49:30.820 --> 00:49:33.760
+I only played a couple guys I had already played before.
+
+00:49:33.960 --> 00:49:40.740
+I'm pretty sure, yeah. Anyway, Soda Popinski, the long story short on him is that it's just at this point in the
+
+00:49:40.740 --> 00:49:43.900
+game, all of the fights are very challenging, in my opinion.
+
+00:49:44.420 --> 00:49:49.160
+This is the kind of, once you get to the world circuit, we're at the point now where it's
+
+00:49:49.160 --> 00:49:52.180
+going to come down to a few times playing through each character.
+
+00:49:52.560 --> 00:49:56.320
+Just to get, like, the groove of how to fight them, what to dodge.
+
+00:49:56.320 --> 00:50:01.200
+And even when you get up to them, there's no guarantee that you're going to perform perfectly.
+
+00:50:01.520 --> 00:50:06.040
+Yeah. You know, it's sad to say, but I feel like the next three characters, Mr.
+
+00:50:06.140 --> 00:50:11.840
+Sandman, Super Macho Man, and Mike Tyson, for the average player who's not obsessed with Mike Tyson's
+
+00:50:11.840 --> 00:50:15.080
+punch out, they really don't stand a chance against those three guys.
+
+00:50:15.380 --> 00:50:17.880
+Yeah. Well, I'm living proof of that.
+
+00:50:18.340 --> 00:50:22.440
+Definitely. Not definitely you, but also definitely you.
+
+00:50:23.260 --> 00:50:27.980
+Mr. Sandman was as far as I got to anything.
+
+00:50:28.160 --> 00:50:29.160
+Same with me. Yeah.
+
+00:50:29.380 --> 00:50:32.940
+And I did not last more than the first round with Mr.
+
+00:50:33.020 --> 00:50:38.200
+Sandman. Even just trying to dodge things, my timing was just very awful.
+
+00:50:38.740 --> 00:50:43.500
+I was constantly getting uppercuts hit on me, and he takes off a massive amount.
+
+00:50:43.540 --> 00:50:45.600
+He hit on you, too? Yeah.
+
+00:50:47.060 --> 00:50:50.540
+Mr. Sandman not only brought me a dream, but he hit on me.
+
+00:50:51.760 --> 00:50:54.540
+Jeez. They really want to just embarrass you here.
+
+00:50:54.600 --> 00:50:59.920
+So I don't want to say that the game isn't fair, because it is definitely fair.
+
+00:51:00.080 --> 00:51:04.820
+It requires a certain dexterity that I do not have.
+
+00:51:04.900 --> 00:51:12.280
+I do not have the capacity to time my dodges and my punches to match these guys.
+
+00:51:12.420 --> 00:51:14.080
+These guys are playing on...
+
+00:51:14.080 --> 00:51:15.620
+Four-dimensional chess here.
+
+00:51:15.620 --> 00:51:17.780
+Yeah, four-dimensional chess, but also steroids.
+
+00:51:17.780 --> 00:51:22.100
+I think it also just requires an amount of practice.
+
+00:51:22.500 --> 00:51:25.040
+Yeah. That's what I think is so cool about these games is that it's...
+
+00:51:25.040 --> 00:51:28.040
+I think it's the first time we've seen boss battles like this.
+
+00:51:28.220 --> 00:51:33.440
+I mean, that are... That you really have to learn and practice and get that satisfaction of beating a boss afterwards.
+
+00:51:33.600 --> 00:51:37.760
+I mean, I think the closest thing was maybe Twin B had some things we had to learn what was happening.
+
+00:51:37.760 --> 00:51:39.300
+This is the first boss rush game, too.
+
+00:51:39.520 --> 00:51:42.140
+But this is the first real boss that you have to...
+
+00:51:42.140 --> 00:51:44.780
+I mean, every battle, every fight, every battle.
+
+00:51:45.120 --> 00:51:45.960
+I'm not a boxer.
+
+00:51:46.360 --> 00:51:48.300
+You were talking about Stinger there, right?
+
+00:51:49.680 --> 00:51:50.840
+Twin B, we didn't...
+
+00:51:50.840 --> 00:51:53.080
+Twin B is the Japanese version?
+
+00:51:53.340 --> 00:51:54.620
+It's the Japanese version. Okay, yes. Stinger.
+
+00:51:56.500 --> 00:51:59.780
+Stinger, yep.
+
+00:51:59.780 --> 00:52:05.340
+You described this to me, though, earlier this week, that this game is essentially a boss rush.
+
+00:52:05.460 --> 00:52:12.940
+Right. And I love that you said that, because I think that's the closest thing we've ever had to a boss rush in any NES game so far.
+
+00:52:13.340 --> 00:52:14.560
+I just had the realization.
+
+00:52:14.820 --> 00:52:20.400
+Right. Imagine if you had to play, like, Legend of Zelda on Dungeon 8 right before Ganon.
+
+00:52:20.480 --> 00:52:24.740
+You have to fight every other villain again before you can get to Ganon.
+
+00:52:24.860 --> 00:52:25.820
+Like, that would be ridiculous.
+
+00:52:26.360 --> 00:52:28.000
+Here, that's the whole game.
+
+00:52:28.240 --> 00:52:29.980
+Right. Wow.
+
+00:52:30.760 --> 00:52:34.540
+And it feels to me a little more like modern boss battles.
+
+00:52:35.080 --> 00:52:36.860
+Just because of the way...
+
+00:52:36.860 --> 00:52:39.440
+On the NES, it's usually a little thing.
+
+00:52:39.540 --> 00:52:41.880
+Oh, you gotta hit it in that weak spot, and then you gotta figure that out.
+
+00:52:41.920 --> 00:52:43.020
+Or when this opens up, you hit it.
+
+00:52:43.080 --> 00:52:47.520
+But this is really pattern memory, or pattern recognition.
+
+00:52:47.720 --> 00:52:52.360
+When we were talking about the tells earlier, I wasn't sure if I was going to be ridiculed for this,
+
+00:52:52.480 --> 00:52:57.580
+but I was looking at Joe, and Joe is a big Shadow of the Colossus fan and played through that entire game.
+
+00:52:57.580 --> 00:53:08.300
+And now that we're talking about it, I need to ask, are there any similarities for you here between the Colossi in Shadow of the Colossus and how you deal with them,
+
+00:53:08.320 --> 00:53:12.640
+and then, like, these 8-bit interpretations of bosses here?
+
+00:53:12.640 --> 00:53:15.860
+I mean, now that you mention it, I hadn't thought of it that way, but now that you mention it, yeah.
+
+00:53:16.200 --> 00:53:23.940
+I mean, obviously, if you take away the obvious differences of Shadow of the Colossus being this giant, beautiful 3D rendered thing,
+
+00:53:24.080 --> 00:53:29.300
+but it's just the idea of recognizing, okay, what is this guy's quirk, and what do you do?
+
+00:53:29.300 --> 00:53:34.540
+I actually thought a little bit of it, this is also, I don't want to be ridiculed for this either,
+
+00:53:34.740 --> 00:53:40.440
+but I was feeling the same feeling that I get when I'm fighting a boss in Kingdom Hearts.
+
+00:53:41.140 --> 00:53:45.020
+Because obviously those bosses are very different, you're running around, there's a lot more strategy,
+
+00:53:45.220 --> 00:53:50.120
+but it's still, you're seeing, okay, so once I do this, he's going to start doing this move now,
+
+00:53:50.240 --> 00:53:51.720
+and I've got to think of how to counter that.
+
+00:53:51.720 --> 00:54:01.200
+I think any well-designed, like, 3D character action game that has the concept of bosses has this to some extent.
+
+00:54:01.400 --> 00:54:03.880
+Right, definitely, and I think that's why this is amazing to me.
+
+00:54:03.980 --> 00:54:10.060
+It's the first one that feels like what most 3D boss battles feel like, and it's just not in the NES.
+
+00:54:10.220 --> 00:54:17.140
+You're not moving. I haven't played it, but this game reminded me of kind of what people talk about with Dark Souls,
+
+00:54:17.740 --> 00:54:20.000
+you know, with dodging and countering and everything.
+
+00:54:20.240 --> 00:54:23.380
+Okay. And I don't know if that's accurate because I haven't played it.
+
+00:54:23.660 --> 00:54:30.640
+I think that, again, I think that Dark Souls, while it's more difficult than a lot of games,
+
+00:54:30.820 --> 00:54:36.440
+it still borrows heavily from every sort of action game that came before it,
+
+00:54:36.580 --> 00:54:45.060
+at least in how it designs bosses, except that every different enemy in that game is sort of designed like a boss
+
+00:54:45.840 --> 00:54:48.620
+with tells and when you should attack and when you shouldn't.
+
+00:54:48.620 --> 00:54:50.240
+I like that we're having this discussion.
+
+00:54:50.600 --> 00:54:56.980
+I think it goes back to what Sean said, how every good boss fight should be feeling this way.
+
+00:54:57.720 --> 00:55:00.560
+And so I don't mean to say that when you get to Mr.
+
+00:55:00.720 --> 00:55:02.560
+Sandman, Super Macho Man and Mike Tyson,
+
+00:55:02.780 --> 00:55:04.240
+that all of a sudden it's a bad game.
+
+00:55:04.360 --> 00:55:11.700
+But it is noticeably different that the other ones or the other fights all up until then were more approachable and maybe took some time.
+
+00:55:11.760 --> 00:55:14.320
+And I'm sure if I had more time, maybe I would learn Mr.
+
+00:55:14.440 --> 00:55:17.460
+Sandman. And then slowly more time I'd get through Super Macho Man.
+
+00:55:17.540 --> 00:55:19.280
+And who knows, maybe one day I'd beat Mike Tyson.
+
+00:55:19.280 --> 00:55:25.860
+I know that a lot of people all over the globe would talk about the NES and Mike Tyson's Punch-Out specifically
+
+00:55:25.860 --> 00:55:27.940
+because it is considered one of the hardest NES games.
+
+00:55:28.180 --> 00:55:33.020
+There are a lot of people who also consider it a very fair game, similar to how we talk about Ghosts and Goblins,
+
+00:55:33.060 --> 00:55:34.900
+which not many people consider a fair game.
+
+00:55:34.900 --> 00:55:38.000
+But I never felt like it was punishing us in a way that we didn't deserve,
+
+00:55:38.020 --> 00:55:42.980
+other than maybe the Red Devil onslaught, which was maybe our first example of a boss rush,
+
+00:55:43.740 --> 00:55:46.000
+even though it's just a minor character in the game.
+
+00:55:46.000 --> 00:55:50.300
+But all that said, I kind of wish that Mr.
+
+00:55:50.380 --> 00:55:51.780
+Sandman, Super Macho Man, and Mike Tyson
+
+00:55:51.780 --> 00:55:58.700
+only ramped up slightly each time in difficulty instead of all of a sudden this floor that I couldn't overcome.
+
+00:55:59.080 --> 00:56:03.760
+Yeah, I think that difficulty curves are still a thing that everybody is working on right now,
+
+00:56:03.880 --> 00:56:10.680
+not only just for, again, prolonging the amount of time that it takes to finish a game.
+
+00:56:10.900 --> 00:56:12.620
+You're spending 60 bucks on the game.
+
+00:56:12.720 --> 00:56:15.640
+Yeah, but also just for game design in general.
+
+00:56:16.000 --> 00:56:19.760
+I do think, though, that because of the way the save system works,
+
+00:56:20.420 --> 00:56:25.660
+I mean, not that anyone said it wasn't fair, but I do think it's very fair in that it doesn't put you all the way back at the beginning.
+
+00:56:25.800 --> 00:56:28.180
+Yeah. You know, it sends you, what, to the beginning of the world circuit?
+
+00:56:28.360 --> 00:56:29.260
+The beginning of the circuit that you're on, yeah.
+
+00:56:29.260 --> 00:56:31.740
+Which is still a lot of people to get back to Mr.
+
+00:56:31.860 --> 00:56:35.100
+Sandman, but I think it's still...
+
+00:56:35.100 --> 00:56:38.340
+It's more fair than, say, going to have to start with Glass Joe again.
+
+00:56:38.420 --> 00:56:39.300
+Absolutely. Yeah, yeah, yeah.
+
+00:56:39.520 --> 00:56:42.780
+So I think that's kind of, it's kind of cool because it doesn't set you back that much.
+
+00:56:42.780 --> 00:56:48.920
+And then by the end of it, you can breeze through, you know, Pissin' Honda, Bald Bull, and...
+
+00:56:48.920 --> 00:56:54.060
+Bald Bull. The rural juror.
+
+00:56:55.380 --> 00:56:56.740
+And Donnie Flamingo.
+
+00:56:56.860 --> 00:56:58.180
+Yeah, Donnie Flamingo.
+
+00:56:58.240 --> 00:56:59.260
+I like that. Yeah.
+
+00:56:59.260 --> 00:57:03.920
+So I would have liked the inclusion of a practice mode, maybe, where you could pick who you want
+
+00:57:03.920 --> 00:57:07.560
+to fight against just to learn the ropes, and it wouldn't count for anything, but you could
+
+00:57:07.560 --> 00:57:09.020
+learn how to play against the characters.
+
+00:57:09.260 --> 00:57:13.240
+But I could see how that also goes against the spirit of the game and getting the title.
+
+00:57:13.420 --> 00:57:17.740
+It's like, hey, Bald Bull, do you want to have a practice match in the back?
+
+00:57:17.920 --> 00:57:19.240
+Like, that wouldn't happen.
+
+00:57:19.420 --> 00:57:20.360
+Yeah. I don't think so.
+
+00:57:20.540 --> 00:57:21.480
+It goes against the lore.
+
+00:57:21.600 --> 00:57:23.260
+There is something interesting to point out.
+
+00:57:23.800 --> 00:57:30.520
+We're now on a whole different level of talking about video games right now, but in SNK's 40th
+
+00:57:30.520 --> 00:57:37.260
+anniversary compilation, you can actually watch that game play itself, and then at any moment
+
+00:57:37.260 --> 00:57:38.860
+say, I'd like to take control.
+
+00:57:39.060 --> 00:57:44.920
+And so you can just watch the whole game play itself, get to the final battle, and say, I'm
+
+00:57:44.920 --> 00:57:47.500
+ready to jump in and do that.
+
+00:57:47.640 --> 00:57:51.620
+And, you know, that kind of accessibility in this day and age is nice.
+
+00:57:51.620 --> 00:57:57.320
+I'm not saying it would have worked in 1987 to just watch a computer little Mac fight
+
+00:57:57.320 --> 00:57:59.520
+everybody and then be like, oh, cool, he's back up to Mr.
+
+00:57:59.620 --> 00:58:00.780
+Sandman. It's my turn now.
+
+00:58:00.800 --> 00:58:08.020
+I feel like stuff like that only happens when a game becomes so incredibly niche or has evolved
+
+00:58:08.940 --> 00:58:11.760
+inside of itself so much that fighting games have become.
+
+00:58:11.920 --> 00:58:13.100
+Think about what we're talking about, too.
+
+00:58:13.180 --> 00:58:15.260
+We're talking about a 40th anniversary compilation.
+
+00:58:15.540 --> 00:58:17.660
+Like, of course, it would have a feature like that.
+
+00:58:17.740 --> 00:58:19.080
+You know, it's a museum thing.
+
+00:58:19.540 --> 00:58:21.640
+It's not like, yeah, you know what I'm saying?
+
+00:58:21.640 --> 00:58:25.380
+It's not like you're about to go play, you know, Kingdom Hearts 3.
+
+00:58:26.060 --> 00:58:27.140
+He's going to let it play.
+
+00:58:27.880 --> 00:58:29.240
+Yeah, and just let it play.
+
+00:58:29.680 --> 00:58:31.580
+Like a whole, like, adventure game.
+
+00:58:31.920 --> 00:58:35.160
+Right. They're never going to put that in there because the whole point of the game was for you to
+
+00:58:35.160 --> 00:58:38.780
+play it. Yeah. So I'm just throwing that in hindsight.
+
+00:58:38.800 --> 00:58:42.340
+I'm not saying, like, what were the developers thinking by not including that?
+
+00:58:42.440 --> 00:58:45.380
+I'm just saying, wow, wouldn't that be nice if that was here?
+
+00:58:45.380 --> 00:58:49.800
+Sure. This podcast is just now a collection of wouldn't that be nicest.
+
+00:58:50.340 --> 00:58:54.340
+Well, speaking of wouldn't that be nicest, then, kind of going back to what you were saying,
+
+00:58:54.440 --> 00:58:59.000
+Mike, about the difficulty curve kind of ramping up so quickly.
+
+00:58:59.040 --> 00:59:06.520
+I wonder how would you have felt if just before those last, what, four opponents, you beat
+
+00:59:06.520 --> 00:59:08.240
+the game. Like, that's the end of the game.
+
+00:59:08.240 --> 00:59:10.460
+And then these are, like, the bonus opponents.
+
+00:59:10.720 --> 00:59:14.540
+Would it feel more satisfying where it's like, all right, now I get the, like, end game, like,
+
+00:59:14.600 --> 00:59:15.740
+post game opponents?
+
+00:59:15.980 --> 00:59:16.820
+I don't think so.
+
+00:59:17.040 --> 00:59:19.000
+Yeah, I agree. I think because I was thinking of that.
+
+00:59:19.120 --> 00:59:22.940
+But I think that the difficulty curve, maybe it's a little steep all of a sudden.
+
+00:59:23.040 --> 00:59:25.260
+But I like that all of a sudden it gets really difficult.
+
+00:59:25.460 --> 00:59:29.620
+And that's where it's like, you have to train and you have to play this a lot to get past
+
+00:59:29.620 --> 00:59:30.880
+those. Oh, sorry.
+
+00:59:31.320 --> 00:59:36.680
+I'm thinking maybe a compromise could be a save point right before Soda Popinski.
+
+00:59:36.680 --> 00:59:40.020
+Soda Popinski, you know, after you already beat those three guys that you've beaten before.
+
+00:59:40.460 --> 00:59:43.600
+I think that could be, not that it's more fair.
+
+00:59:44.500 --> 00:59:45.340
+Yeah, I hear you.
+
+00:59:45.480 --> 00:59:47.940
+It just might be a little bit more, you know.
+
+00:59:48.120 --> 00:59:49.660
+It's just less annoying to have to replay.
+
+00:59:49.900 --> 00:59:52.500
+Yeah, it's interesting to consider the number of opponents.
+
+00:59:52.720 --> 00:59:54.920
+I mean, we had the minor circuit had three.
+
+00:59:55.200 --> 00:59:58.480
+The major circuit had, I think, four, maybe five.
+
+00:59:58.700 --> 01:00:04.140
+Four. And then the world circuit goes on to have one, two, three, four, five, six people in it.
+
+01:00:04.140 --> 01:00:07.220
+So it is a large jump all of a sudden.
+
+01:00:07.520 --> 01:00:14.140
+And then on top of that, to Joe's point, beating Super Macho Man is kind of like beating the
+
+01:00:14.140 --> 01:00:17.140
+game. Mike Tyson is treated as kind of like a bonus fight.
+
+01:00:17.360 --> 01:00:19.400
+You've already like won.
+
+01:00:19.880 --> 01:00:22.200
+He's not part of the world circuit.
+
+01:00:22.480 --> 01:00:24.620
+You beat Super Macho Man.
+
+01:00:24.620 --> 01:00:26.600
+You win. You get like this great cut scene.
+
+01:00:26.700 --> 01:00:31.000
+And then all of a sudden it treats it almost like a dream fight, you know, where all of a
+
+01:00:31.000 --> 01:00:32.220
+sudden it's... It's not really happening.
+
+01:00:33.360 --> 01:00:34.660
+That's what they call it, right? The dream fight?
+
+01:00:34.820 --> 01:00:37.760
+I think they do. And there's a weird thing going on.
+
+01:00:37.840 --> 01:00:40.240
+I don't know if it was because of the password that I played with.
+
+01:00:40.400 --> 01:00:42.460
+I typed in a password to get to Mike Tyson.
+
+01:00:42.680 --> 01:00:44.820
+Cheater. There's a very well-known password for it.
+
+01:00:45.240 --> 01:00:49.680
+And there's something about it that the stage and the ring just feel weird.
+
+01:00:49.880 --> 01:00:50.860
+They feel different.
+
+01:00:51.560 --> 01:00:52.680
+It's all shimmery.
+
+01:00:53.200 --> 01:00:54.900
+No, it kind of like blends in.
+
+01:00:55.160 --> 01:00:56.140
+You were there.
+
+01:00:56.660 --> 01:00:58.240
+The ring kind of like blends in.
+
+01:00:58.300 --> 01:00:59.480
+But that might have just been like my bad fight.
+
+01:00:59.480 --> 01:01:00.760
+Everyone's naked for some reason.
+
+01:01:00.760 --> 01:01:03.560
+No, I mean, that makes sense if it was a creative decision.
+
+01:01:10.500 --> 01:01:12.740
+So are we going to talk about the Mike Tyson fight now?
+
+01:01:12.740 --> 01:01:14.420
+We need to talk about the Mike Tyson fight.
+
+01:01:14.420 --> 01:01:16.040
+No, that's it. Thanks, everyone.
+
+01:01:17.100 --> 01:01:19.260
+I thought that was the cue to start talking about it.
+
+01:01:19.260 --> 01:01:21.000
+Yes, please. Talk about the Mike Tyson fight.
+
+01:01:21.100 --> 01:01:23.120
+I don't know anything about the Mike Tyson fight.
+
+01:01:23.120 --> 01:01:24.920
+Nothing. So you need to do it.
+
+01:01:25.060 --> 01:01:26.420
+Okay, well... Can you guys do it?
+
+01:01:26.420 --> 01:01:27.880
+I didn't get to Mike Tyson's...
+
+01:01:27.880 --> 01:01:31.820
+I watched the Game Grumps fight Mike Tyson for a half hour, but I didn't play.
+
+01:01:32.160 --> 01:01:34.140
+You watched him fight him for a half hour?
+
+01:01:34.240 --> 01:01:35.360
+I mean, over and over again.
+
+01:01:35.400 --> 01:01:36.500
+Not one match, obviously.
+
+01:01:36.640 --> 01:01:39.100
+I watched some videos about fighting him, but I didn't fight him.
+
+01:01:39.280 --> 01:01:40.600
+Okay, so this is what I'll say.
+
+01:01:40.600 --> 01:01:46.680
+The only thing that I encountered with Mike Tyson was that I do not...
+
+01:01:46.680 --> 01:01:51.800
+And I do not know who does, but I do not have the reflexes to even respond to anything.
+
+01:01:51.960 --> 01:01:54.460
+I found myself just ducking all...
+
+01:01:54.460 --> 01:01:55.760
+Like, not ducking to left and right.
+
+01:01:55.880 --> 01:01:58.260
+Like, just blocking as much as I could.
+
+01:01:58.440 --> 01:02:00.220
+And then being like, oh, that looks like an opening.
+
+01:02:00.360 --> 01:02:01.580
+And then, nope, he blocks it.
+
+01:02:01.720 --> 01:02:03.120
+Oh, that looks like a... Nope, he blocks it.
+
+01:02:03.220 --> 01:02:05.740
+He blocked every single punch that I did.
+
+01:02:05.860 --> 01:02:07.560
+And granted, I only tried him three times.
+
+01:02:07.560 --> 01:02:11.760
+But if you suck so badly all three times, there's a good chance you're not saying,
+
+01:02:11.900 --> 01:02:12.720
+I'll take more of that.
+
+01:02:13.000 --> 01:02:14.080
+I'll continue again.
+
+01:02:14.300 --> 01:02:18.040
+And I've watched videos, too, of people playing Mike Tyson and beating him, obviously.
+
+01:02:18.040 --> 01:02:19.080
+They put it in their title.
+
+01:02:19.680 --> 01:02:21.500
+And it's just like they're playing on another level.
+
+01:02:21.860 --> 01:02:24.600
+It's just not fair. It doesn't look as hard when you watch someone playing it.
+
+01:02:24.620 --> 01:02:28.980
+And it's the equivalent of watching someone else play.
+
+01:02:29.100 --> 01:02:32.080
+We've talked about this sometimes with NES games, where you watch someone else play,
+
+01:02:32.160 --> 01:02:34.140
+and you're like, oh, man, why aren't you doing that thing right now?
+
+01:02:34.200 --> 01:02:37.060
+And then you get in there, and you suck just as much.
+
+01:02:37.060 --> 01:02:39.220
+We were doing that with Ghost and Goblins, me and you.
+
+01:02:39.320 --> 01:02:40.660
+And I was like, Joe, no, no, no, you've got to do this.
+
+01:02:40.880 --> 01:02:41.980
+I'm going to do it.
+
+01:02:42.180 --> 01:02:43.060
+You try it.
+
+01:02:43.220 --> 01:02:44.800
+I go in, and I die even earlier.
+
+01:02:45.080 --> 01:02:52.060
+You know? It's like there's this weird thing about the Mike Tyson fight that I feel you either have it or you don't.
+
+01:02:52.420 --> 01:02:54.380
+You're born with it or you'll never have it.
+
+01:02:54.460 --> 01:02:59.180
+Because I didn't even earn the fight, because I was putting in a password to even get there,
+
+01:02:59.360 --> 01:03:03.000
+I feel like I just didn't even have the skill set required.
+
+01:03:03.000 --> 01:03:07.620
+Yeah. So in the video that I watched, it was mostly dodging.
+
+01:03:07.800 --> 01:03:13.080
+But then there must be some tell that I wasn't recognizing, where after enough, at a certain point,
+
+01:03:13.220 --> 01:03:17.140
+he would get several punches in at once, like maybe like six at once.
+
+01:03:17.180 --> 01:03:18.340
+And that was like his pattern.
+
+01:03:18.540 --> 01:03:21.280
+And once in a while, there's like a split.
+
+01:03:21.580 --> 01:03:25.000
+It's like a frame where Mike Tyson...
+
+01:03:25.720 --> 01:03:26.740
+Cries. Oh.
+
+01:03:27.040 --> 01:03:27.940
+Yeah, cries. No.
+
+01:03:28.280 --> 01:03:29.400
+He glows, and you're right.
+
+01:03:29.400 --> 01:03:31.020
+It's one frame. It's one single frame.
+
+01:03:31.020 --> 01:03:33.120
+And if you put it on that, it's a knockout.
+
+01:03:33.320 --> 01:03:40.000
+Wow. Yeah. The only thing that's funny about that, because I also watched this video, is when he glows for that one frame,
+
+01:03:40.020 --> 01:03:44.460
+if you do manage to punch him, he makes the stupidest face in the whole world.
+
+01:03:44.620 --> 01:03:45.700
+It is so funny.
+
+01:03:46.100 --> 01:03:49.600
+First off, it's funny that they even like designed him to not look good.
+
+01:03:49.600 --> 01:03:55.240
+Like this game is named after him, and they already designed him as like someone who's taken a few blows to the head.
+
+01:03:55.460 --> 01:03:58.840
+He's got a very puffy, cheeky face.
+
+01:03:59.420 --> 01:04:00.560
+And I'm just making fun of him.
+
+01:04:00.680 --> 01:04:04.040
+No, I'm just saying I think sometimes he looked better in real life.
+
+01:04:04.180 --> 01:04:05.180
+Like it's actually crazy.
+
+01:04:05.660 --> 01:04:08.080
+Wait, you're saying he looked better in real life than on the NES?
+
+01:04:09.560 --> 01:04:10.900
+Yes, I am saying that.
+
+01:04:11.220 --> 01:04:17.540
+Even in the in-between rounds, you know, when you're in the corners, he does not look good in the corners.
+
+01:04:17.540 --> 01:04:18.640
+He looks like he's been bruised.
+
+01:04:18.820 --> 01:04:20.340
+One of his eyes barely opens.
+
+01:04:20.480 --> 01:04:21.840
+And it's not because you've injured him.
+
+01:04:21.880 --> 01:04:23.520
+It's just the way that they designed him.
+
+01:04:23.940 --> 01:04:25.620
+Is it because he's already got the facial tattoo?
+
+01:04:27.060 --> 01:04:28.120
+No, he doesn't have the facial tattoo.
+
+01:04:28.320 --> 01:04:30.060
+At this point, he does not have the facial tattoo.
+
+01:04:30.260 --> 01:04:31.120
+Nintendo predicted it.
+
+01:04:32.460 --> 01:04:34.940
+I did. I am managing to pull up the frame now.
+
+01:04:35.040 --> 01:04:36.260
+So just give me one second.
+
+01:04:36.600 --> 01:04:38.180
+And we'll show you guys right now.
+
+01:04:38.360 --> 01:04:40.380
+I won't show you guys, but I'm going to show these guys.
+
+01:04:40.520 --> 01:04:42.300
+So I'll play some music during this.
+
+01:05:01.080 --> 01:05:15.800
+I won't show you guys.
+
+01:05:15.800 --> 01:05:18.520
+And does anybody else have anything to add?
+
+01:05:20.040 --> 01:05:21.120
+If no.
+
+01:05:21.360 --> 01:05:22.200
+Yeah, I do.
+
+01:05:22.400 --> 01:05:30.040
+Okay. Yeah, go for it. So I before or while playing this game, I checked out Summoning Salts.
+
+01:05:30.540 --> 01:05:33.180
+He was a he's a speed runner of this game.
+
+01:05:33.360 --> 01:05:34.480
+I've heard on YouTube.
+
+01:05:34.480 --> 01:05:37.660
+He does the progression videos on YouTube as well.
+
+01:05:37.820 --> 01:05:41.960
+He documents how each game is evolved in speed running.
+
+01:05:41.960 --> 01:05:44.280
+And he does really good videos on these.
+
+01:05:44.440 --> 01:05:49.260
+And one of the videos he did was a blindfolded Mike Tyson's punch out video.
+
+01:05:49.280 --> 01:05:51.440
+Which just puts everything I just said before into show.
+
+01:05:51.840 --> 01:05:58.780
+And the history of, you know, people doing that who I think they started doing it at AGDQ.
+
+01:05:59.040 --> 01:06:01.200
+Yes. Awesome games done quick for the uninformed.
+
+01:06:01.320 --> 01:06:07.080
+Yeah. And it's it's wild to know that some people have beaten this game without even looking
+
+01:06:07.080 --> 01:06:12.200
+at it. Right. And that's when I think it really becomes a rhythm game because you're just listening to
+
+01:06:12.200 --> 01:06:13.040
+music cues.
+
+01:06:13.180 --> 01:06:14.580
+Yeah. To know when to punch people.
+
+01:06:14.840 --> 01:06:18.220
+And he also mentioned something in the video, which I don't think we talked about, which is
+
+01:06:18.220 --> 01:06:19.240
+when you get knocked down.
+
+01:06:19.240 --> 01:06:24.280
+I think if you wait until a certain amount of time, you get more health when you come back
+
+01:06:24.280 --> 01:06:25.560
+up. Oh, interesting.
+
+01:06:25.560 --> 01:06:27.660
+So if you wait till like the seven count.
+
+01:06:28.080 --> 01:06:29.040
+Something like that. Okay.
+
+01:06:29.600 --> 01:06:31.520
+Yeah. I like it.
+
+01:06:31.740 --> 01:06:34.020
+You guys. Everyone should check out that channel because it's really good.
+
+01:06:34.360 --> 01:06:38.640
+And then, Sean, this might have been something you either asked earlier in the podcast or before
+
+01:06:38.640 --> 01:06:40.400
+we started, or maybe it was Joe.
+
+01:06:40.600 --> 01:06:46.360
+I don't remember. One of you asked about the music for during the.
+
+01:06:46.360 --> 01:06:49.760
+Oh, yes. I recognize the music during the cut scenes.
+
+01:06:49.760 --> 01:06:52.040
+Yes. From something else.
+
+01:06:52.200 --> 01:06:58.740
+And that is, that song is called Look Sharp, B Sharp March by Mahan Merrick.
+
+01:06:58.860 --> 01:07:04.340
+And that theme was used for the radio and TV program Gillette Cavalcade of Sports, which
+
+01:07:04.340 --> 01:07:08.100
+covered a variety of different sports, but over time began to focus more on boxing.
+
+01:07:08.400 --> 01:07:14.280
+Prior to the release of Mike Tyson's Punch Out in 1987, this song was featured in Raging
+
+01:07:14.280 --> 01:07:19.580
+Bull. So I just knew this song from like real life and not video games?
+
+01:07:19.820 --> 01:07:23.300
+Yes. It just sounds so much like a video game song.
+
+01:07:23.560 --> 01:07:27.000
+It's interesting to think that this song was also in Raging Bull, but also makes it more
+
+01:07:27.000 --> 01:07:28.800
+perfect for Mike Tyson's Punch Out.
+
+01:07:28.980 --> 01:07:30.800
+Raging Bull is the boxing movie.
+
+01:07:31.200 --> 01:07:32.780
+True. Except for Rocky.
+
+01:07:33.380 --> 01:07:34.560
+Yeah. I guess that's true.
+
+01:07:34.680 --> 01:07:36.980
+But I don't know. I think Raging Bull is better than Rocky.
+
+01:07:37.020 --> 01:07:38.200
+Well, it is. How does this song go again?
+
+01:07:38.780 --> 01:07:40.300
+Which one? The one?
+
+01:07:43.980 --> 01:07:44.840
+I'm totally going to fight.
+
+01:07:44.960 --> 01:07:45.940
+I can't do it. No, that's good.
+
+01:07:46.080 --> 01:07:46.960
+That sounded right. Got it? Yeah.
+
+01:07:47.120 --> 01:07:48.560
+No, never mind. Cool.
+
+01:07:49.200 --> 01:07:52.120
+Then there's a lot of sequels and spinoffs to cover.
+
+01:07:52.320 --> 01:07:53.460
+Wait. I do have one more thing.
+
+01:07:53.580 --> 01:07:57.740
+Oh, okay. Yeah. So when you beat Mike Tyson, which obviously none of us did, but when you beat Mike Tyson,
+
+01:07:58.160 --> 01:08:03.380
+you get a little cut scene with all of your opponents, kind of like a little credits.
+
+01:08:03.940 --> 01:08:07.420
+No, no. They each have their own little profile picture that comes up.
+
+01:08:07.580 --> 01:08:09.520
+Okay. But then you also get a newspaper.
+
+01:08:09.820 --> 01:08:11.480
+Can I read a little bit of this newspaper?
+
+01:08:11.480 --> 01:08:13.600
+Oh, yeah. Please talk about the newspaper because it's really good.
+
+01:08:13.780 --> 01:08:15.180
+It's really good. I'm glad you brought this up.
+
+01:08:15.200 --> 01:08:16.720
+We've got a newspaper and there's Little Mac.
+
+01:08:17.120 --> 01:08:18.480
+He's got the champion belt on.
+
+01:08:18.580 --> 01:08:19.740
+His arms are up. He's triumphant.
+
+01:08:19.740 --> 01:08:22.480
+And it says, new champ, the WVBA World Circuit.
+
+01:08:22.680 --> 01:08:24.740
+Last night, we found a small but great champ.
+
+01:08:24.940 --> 01:08:26.020
+His name is Little Mac.
+
+01:08:26.380 --> 01:08:27.480
+Push start for the dream fight.
+
+01:08:27.560 --> 01:08:28.820
+Okay. So I'm sorry. This is before.
+
+01:08:29.300 --> 01:08:31.420
+This is before the dream fight.
+
+01:08:31.640 --> 01:08:32.800
+Push start for the dream fight.
+
+01:08:32.900 --> 01:08:33.720
+It's printed in the newspaper.
+
+01:08:34.100 --> 01:08:36.580
+Then underneath, there's like, I guess these are unrelated.
+
+01:08:36.780 --> 01:08:39.760
+There's like these ads that were taken out that they included in the newspaper.
+
+01:08:40.120 --> 01:08:42.180
+The first one, daddy, come back home.
+
+01:08:42.420 --> 01:08:44.040
+No. With a picture of Mario.
+
+01:08:44.900 --> 01:08:46.620
+I don't know if it's Mario, but.
+
+01:08:46.680 --> 01:08:47.940
+Oh, a picture of the ref.
+
+01:08:48.420 --> 01:08:52.480
+No, but daddy, come back home is actually in reference to Glass Joe, I believe.
+
+01:08:52.920 --> 01:08:58.480
+Really? Yeah. I don't know the whole story on this, but I heard something about that newspaper with,
+
+01:08:58.640 --> 01:09:01.020
+I mean, like, this is all hearsay at this point, but I heard.
+
+01:09:01.020 --> 01:09:02.340
+It also has a phone number.
+
+01:09:02.460 --> 01:09:03.820
+Yeah. Oh, is there.
+
+01:09:03.960 --> 01:09:05.320
+It says, I found a key.
+
+01:09:05.520 --> 01:09:07.280
+Oh, yeah. So that looks like it's unrelated.
+
+01:09:07.280 --> 01:09:08.260
+I found a key.
+
+01:09:08.800 --> 01:09:10.300
+Maybe that's a code. Is that a code?
+
+01:09:10.540 --> 01:09:11.720
+Did anybody call that number?
+
+01:09:11.900 --> 01:09:13.040
+I didn't call it. Back in the day.
+
+01:09:13.040 --> 01:09:14.880
+I didn't call it. What if we call it now?
+
+01:09:15.560 --> 01:09:16.880
+Let's call it right here on the air.
+
+01:09:16.880 --> 01:09:18.080
+We're on the air, right?
+
+01:09:18.420 --> 01:09:19.380
+Yeah, we're on the air.
+
+01:09:20.300 --> 01:09:21.120
+This is live.
+
+01:09:21.920 --> 01:09:25.980
+Yeah, I thought that daddy come back home thing was related to something.
+
+01:09:26.120 --> 01:09:27.580
+Unfortunately, I do not know.
+
+01:09:30.580 --> 01:09:31.400
+So there's that.
+
+01:09:31.900 --> 01:09:33.380
+Yeah, and the date is April 1st.
+
+01:09:33.880 --> 01:09:35.500
+So you didn't really beat him.
+
+01:09:35.700 --> 01:09:36.880
+This is an all April Fool's joke.
+
+01:09:37.640 --> 01:09:38.660
+Oh, yeah, that's true.
+
+01:09:38.820 --> 01:09:39.800
+It is April 1st.
+
+01:09:39.880 --> 01:09:41.320
+Wow. Okay, there's a lot of things about this game going on.
+
+01:09:41.320 --> 01:09:43.780
+They make a joke about that in the Game Grumps, and I thought it was funny.
+
+01:09:44.040 --> 01:09:46.940
+No 17-year-old 107-bound kid could beat Mike Tyson.
+
+01:09:47.360 --> 01:09:48.480
+You've been punked.
+
+01:09:54.000 --> 01:09:56.140
+All right. Sequels and spinoffs time.
+
+01:09:56.420 --> 01:09:58.780
+Here we go. Super Punch-Out!
+
+01:09:59.640 --> 01:10:02.800
+Comes out in arcades before this game.
+
+01:10:04.280 --> 01:10:06.320
+Oh. So Mike Tyson's Punch-Out!
+
+01:10:06.360 --> 01:10:10.060
+is released in 1987 on the NES, but Super Punch-Out!
+
+01:10:10.180 --> 01:10:12.240
+comes out in the arcade in 1985.
+
+01:10:12.900 --> 01:10:14.560
+So this is like a demake?
+
+01:10:15.360 --> 01:10:21.000
+Right? In some ways, it's like we cannot possibly port the Super Punch-Out!
+
+01:10:21.060 --> 01:10:24.840
+version of this game to the NES, so we'll just give them the regular Punch-Out!
+
+01:10:24.840 --> 01:10:26.980
+So, hold on.
+
+01:10:27.560 --> 01:10:28.800
+The order goes Punch-Out!
+
+01:10:28.820 --> 01:10:31.100
+for arcade in 84, Super Punch-Out!
+
+01:10:31.160 --> 01:10:33.260
+in 85, Mike Tyson's Punch-Out!
+
+01:10:33.260 --> 01:10:37.080
+in 87, um, regular Punch-Out!
+
+01:10:37.180 --> 01:10:39.520
+on NES, where it replaces Mike Tyson with Mr.
+
+01:10:39.680 --> 01:10:43.840
+Dream in 90, then Super Punch-Out!
+
+01:10:43.920 --> 01:10:49.100
+for Super Nintendo in 1994, and then Punch-Out!
+
+01:10:49.180 --> 01:10:54.380
+goes like dark for a really long time before it returns in 2009.
+
+01:10:55.040 --> 01:10:55.900
+for the Wii.
+
+01:10:56.640 --> 01:11:00.440
+Yes. And, uh, they took on a really cool style for that game.
+
+01:11:00.600 --> 01:11:04.140
+I don't want to say cel-shaded, but definitely like cartoon-looking.
+
+01:11:04.420 --> 01:11:10.160
+Yeah. And you use the Wiimote and the Nunchuck as your, um, one-two punch kind of thing.
+
+01:11:10.420 --> 01:11:16.720
+And then you can even use the balance board to, uh, to sway to the left and right to dodge.
+
+01:11:16.860 --> 01:11:21.400
+I think that that's a pretty unique stance for the, I mean, like how many other games is the balance board?
+
+01:11:21.540 --> 01:11:22.520
+It's basically VR. VR. Yeah.
+
+01:11:23.100 --> 01:11:25.560
+I've, I always felt like every Wii game was VR.
+
+01:11:27.400 --> 01:11:30.380
+Uh, and, and then if that wasn't weird enough, Punch-Out!
+
+01:11:30.400 --> 01:11:33.060
+making its like random return in 2009 for the Wii,
+
+01:11:33.820 --> 01:11:35.340
+Doc Lewis's Punch-Out!
+
+01:11:35.700 --> 01:11:37.760
+gets released for WiiWare.
+
+01:11:37.960 --> 01:11:40.480
+Is this, do you take the role as a corner man?
+
+01:11:40.480 --> 01:11:44.580
+It's just a, it's, no, you, you, you just, it's a training game.
+
+01:11:44.780 --> 01:11:46.040
+It's just, it's like a training mode.
+
+01:11:46.400 --> 01:11:49.580
+Oh, I see. It's a standalone prequel to Punch-Out!
+
+01:11:49.860 --> 01:11:53.320
+where you're essentially just training for the minor circuit.
+
+01:11:53.660 --> 01:11:55.040
+Huh. Wow.
+
+01:11:55.300 --> 01:11:57.260
+Yep. So wait, what do you do in that game?
+
+01:11:57.420 --> 01:12:03.200
+You're just, uh, you're just doing like practice essentially with, it's, it's just, so for those that don't know,
+
+01:12:03.200 --> 01:12:11.180
+so WiiWare was like what they called these downloadable, like very cheap games that you could only get on the Wii Shop.
+
+01:12:11.580 --> 01:12:16.340
+Okay. For like, and it's only for a limited time too, so you couldn't actually get Doc Lewis's Punch-Out!
+
+01:12:16.440 --> 01:12:20.060
+anymore. There's only, there's no way to play that game other than via Dolphin, I guess.
+
+01:12:20.400 --> 01:12:26.420
+Interesting. And so in that game you were essentially just doing like target practice and maybe like a fight or two.
+
+01:12:26.920 --> 01:12:29.480
+It was not a full game with a story mode and everything.
+
+01:12:29.780 --> 01:12:36.720
+Wow. Yep. Then Little Mac, of course, joins the fight in Super Smash Brothers for Wii U and 3DS.
+
+01:12:37.240 --> 01:12:41.100
+And Sam, as our resident Smash Brothers guy, how do you feel about Little Mac in Smash Brothers?
+
+01:12:41.320 --> 01:12:45.740
+I personally don't like fighting him, but, you know, he's just a new character, so you gotta get used to it.
+
+01:12:45.920 --> 01:12:48.640
+And I think that it's, I think that he's, it's a really cool addition.
+
+01:12:48.640 --> 01:12:52.560
+I think that he suffers a lot in Smash Ultimate because he has no recovery.
+
+01:12:53.060 --> 01:12:55.280
+Yeah. Is he, is he new to Ultimate?
+
+01:12:55.600 --> 01:12:57.480
+No, he's new to Smash 4.
+
+01:12:57.680 --> 01:13:02.180
+Yeah. I don't like that he has the, I forget what it's called, the, um.
+
+01:13:02.500 --> 01:13:05.580
+The KO? The KO punch, the, the uppercut thing.
+
+01:13:05.800 --> 01:13:07.240
+That you just press B and someone dies.
+
+01:13:07.360 --> 01:13:08.800
+I don't like that, but that's just me.
+
+01:13:09.340 --> 01:13:13.820
+It was a real, so that is a little confusing though, but that was in the Punch-Out!
+
+01:13:13.860 --> 01:13:15.260
+Arcade game. Okay.
+
+01:13:15.260 --> 01:13:19.200
+There is a meter that builds up as you play well in Punch-Out!
+
+01:13:19.300 --> 01:13:22.540
+Yeah. I'm just not crazy about that as a mechanic in Smash Bros.
+
+01:13:22.740 --> 01:13:26.720
+How faithful do you feel like he translates over though from playing Punch-Out!
+
+01:13:26.800 --> 01:13:31.580
+to this? I feel like, I feel like now I have to go back and play as Little Mac in both of these games
+
+01:13:31.580 --> 01:13:32.440
+to really see.
+
+01:13:32.600 --> 01:13:34.400
+Because I think that he is really.
+
+01:13:34.400 --> 01:13:36.220
+I think it's more like a spirit of Little Mac.
+
+01:13:36.320 --> 01:13:40.300
+Yeah. It doesn't really like translate how you play as Little Mac in, in Punch-Out!
+
+01:13:40.300 --> 01:13:45.060
+I'm thinking about the moves because his side B is like the, it's like the star punch,
+
+01:13:45.520 --> 01:13:46.880
+you know, where he lunges.
+
+01:13:47.120 --> 01:13:53.240
+Yeah. The aerial moves are kind of whatever because it's not really anything.
+
+01:13:53.780 --> 01:13:57.420
+Yeah. It's mostly just punches though, which is nice.
+
+01:13:57.600 --> 01:14:00.900
+He's little and he's fast, which I guess is what, you know, what it is.
+
+01:14:00.900 --> 01:14:03.920
+I just think it's nice they didn't give him anything like stupid, you know?
+
+01:14:04.160 --> 01:14:05.320
+They didn't give him a sword or a gun.
+
+01:14:05.320 --> 01:14:11.260
+Right, exactly. Or like any accessories, like, imagine if he just like, well imagine if he just like
+
+01:14:11.260 --> 01:14:14.620
+threw like one of those boxing bag thing, you know, like punching bags.
+
+01:14:14.640 --> 01:14:16.960
+Like if he brought one of those out, like that's dumb.
+
+01:14:17.100 --> 01:14:20.100
+It would have been more like the design of Duck Hunt Dog.
+
+01:14:21.560 --> 01:14:25.180
+Yeah, he's like working with Mike Tyson, he's like lifting him up and stuff.
+
+01:14:26.200 --> 01:14:27.140
+Yeah, it's funny.
+
+01:14:27.660 --> 01:14:28.520
+I like that.
+
+01:14:28.860 --> 01:14:35.360
+This is why we talk. I think as far as, you know, a Smash Brothers version of him, I think they did a pretty good
+
+01:14:35.360 --> 01:14:36.300
+job. Cool.
+
+01:14:36.500 --> 01:14:40.300
+See, for me as someone who doesn't, I'm not a Smash Brothers guy, I'm pretty bad at the
+
+01:14:40.300 --> 01:14:45.100
+game, but I do, when I do play, I always kind of play around with different characters and
+
+01:14:45.100 --> 01:14:48.560
+see once in a while, I'll do okay with a character and I'll be like, oh, that's going to be my
+
+01:14:48.560 --> 01:14:49.400
+character from now on.
+
+01:14:49.500 --> 01:14:50.480
+It's really just a fluke.
+
+01:14:52.080 --> 01:14:56.920
+But Little Mac was one of those in Smash Brothers Ultimate and I was doing really good with them.
+
+01:14:56.920 --> 01:15:01.580
+Not, but I do agree with you about the one hit KO punch, kind of cheap.
+
+01:15:02.120 --> 01:15:07.260
+But I, without really remembering too much of how he played, because I'm not a big Smash
+
+01:15:07.260 --> 01:15:09.800
+Brothers guy in general, I really liked playing as him.
+
+01:15:10.160 --> 01:15:16.300
+Yeah. I think he's fun and I think he's good for beginners to get like a good upper hand on
+
+01:15:16.300 --> 01:15:17.880
+people because he does a ton of damage.
+
+01:15:18.320 --> 01:15:23.620
+Yeah. So as long as you're willing to go out there and connect some punches, you'll punch out
+
+01:15:23.620 --> 01:15:24.700
+your opponent. Ha!
+
+01:15:25.260 --> 01:15:26.260
+Name drop. We did it.
+
+01:15:26.260 --> 01:15:31.980
+Yep. It is time now for a little game we like to call The Essential Games List.
+
+01:15:34.940 --> 01:15:40.680
+Guys, today we are voting on Mike Tyson's Punch Out for the unaware listener who just listened
+
+01:15:40.680 --> 01:15:45.740
+to about an hour of us talking about it and is now like, oh, they're voting on Mike Tyson's
+
+01:15:45.740 --> 01:15:47.240
+Punch Out? Not Smash.
+
+01:15:47.420 --> 01:15:48.240
+Not Smash, yeah.
+
+01:15:48.440 --> 01:15:50.100
+We will get there some year.
+
+01:15:50.360 --> 01:15:52.180
+Yeah. 3,060 or something.
+
+01:15:52.180 --> 01:15:54.880
+But right now we're just talking about Mike Tyson's Punch Out.
+
+01:15:55.040 --> 01:15:57.620
+We're voting whether it is essential today.
+
+01:15:58.040 --> 01:16:01.820
+Not talking about 1987, not talking about that 1984 arcade port.
+
+01:16:02.060 --> 01:16:05.220
+I'm talking about, is this game still worth playing today?
+
+01:16:05.500 --> 01:16:06.460
+Does it hold up?
+
+01:16:07.060 --> 01:16:11.500
+Sam. I think this game is essential.
+
+01:16:11.540 --> 01:16:13.080
+I'm going to say it right off the bat.
+
+01:16:13.340 --> 01:16:14.720
+I think that there's... Go all in, baby.
+
+01:16:14.840 --> 01:16:15.700
+There's no...
+
+01:16:15.700 --> 01:16:20.360
+I think this is one of the most essential games for the NES that we've played.
+
+01:16:20.360 --> 01:16:25.400
+I think that playing this game, there's really no other game like it.
+
+01:16:25.720 --> 01:16:26.980
+It has all the...
+
+01:16:26.980 --> 01:16:30.960
+Like, the 8-bit graphics are charming.
+
+01:16:31.280 --> 01:16:33.160
+You know, it doesn't look weird or anything.
+
+01:16:33.380 --> 01:16:38.320
+Everyone has like a weird personality to their characters.
+
+01:16:38.320 --> 01:16:43.280
+There's... The mechanics are simple, but they're really, you know, easy to figure out.
+
+01:16:43.360 --> 01:16:46.360
+But it's complicated to beat all the characters.
+
+01:16:46.780 --> 01:16:47.880
+You know, it's got music.
+
+01:16:47.880 --> 01:16:53.800
+It's got that killer cut scene when you're running and possibly what is Staten Island, maybe Battery Park.
+
+01:16:53.920 --> 01:16:55.740
+We're not really sure. And...
+
+01:16:55.740 --> 01:16:57.020
+This is very important.
+
+01:16:58.920 --> 01:17:00.120
+And it's hard.
+
+01:17:00.420 --> 01:17:02.920
+It's that kind of Nintendo hard that you hear about.
+
+01:17:03.100 --> 01:17:04.480
+But I think that it's a...
+
+01:17:04.480 --> 01:17:06.140
+Look, we talked about it. I think it's a fair hard.
+
+01:17:06.300 --> 01:17:09.520
+I think it is an essential NES game.
+
+01:17:09.680 --> 01:17:11.520
+And just an essential game in general.
+
+01:17:12.060 --> 01:17:13.180
+Great. Joe?
+
+01:17:13.400 --> 01:17:19.300
+So I came into this with these two conflicting notions about this game.
+
+01:17:19.300 --> 01:17:24.640
+One was my, so far, previous experience with games that are trying to simulate some sort of fighting.
+
+01:17:24.780 --> 01:17:28.780
+Boxing or wrestling. Which have been very bad so far up until this point.
+
+01:17:29.200 --> 01:17:34.400
+But the other was knowing that this is a really popular, famous game that everyone's nostalgic for.
+
+01:17:34.640 --> 01:17:37.840
+So, like I said in the beginning, I kind of thought that this was going to be like...
+
+01:17:37.840 --> 01:17:41.360
+One of those games that people misremember as being good.
+
+01:17:41.380 --> 01:17:42.360
+And it's really not that great.
+
+01:17:42.520 --> 01:17:45.200
+But I was pleasantly surprised to find...
+
+01:17:45.200 --> 01:17:48.800
+This is, I think, one of the best games we've played so far.
+
+01:17:48.800 --> 01:17:49.660
+Gameplay wise.
+
+01:17:50.120 --> 01:17:54.280
+And I think, especially because of the way that you learn a boss.
+
+01:17:54.460 --> 01:18:00.080
+I think that what we were talking about the boss rush element of it is what really makes it stand out to me.
+
+01:18:00.200 --> 01:18:04.620
+That it feels like a satisfying experience for each battle.
+
+01:18:04.640 --> 01:18:06.920
+Especially the more difficult ones that come later on.
+
+01:18:07.040 --> 01:18:09.060
+To have struggled with it for a while.
+
+01:18:09.240 --> 01:18:10.060
+Slowly learn it.
+
+01:18:10.160 --> 01:18:10.980
+Understand the patterns.
+
+01:18:11.220 --> 01:18:14.220
+And that moment when you finally beat it is just so...
+
+01:18:14.220 --> 01:18:15.920
+There's something so satisfying about it.
+
+01:18:15.940 --> 01:18:17.960
+Similar to the way games are now.
+
+01:18:18.800 --> 01:18:20.140
+Sorry, I'm getting a little long-winded here.
+
+01:18:20.180 --> 01:18:21.880
+No, it's okay. It's very beautiful.
+
+01:18:22.340 --> 01:18:26.360
+And Sam mentioned the Nintendo hard idea.
+
+01:18:26.560 --> 01:18:31.980
+And I think this is that Nintendo hard, but not the negative side.
+
+01:18:32.040 --> 01:18:33.060
+Not the jank hard.
+
+01:18:33.060 --> 01:18:35.260
+Yeah, not the negative side of Nintendo hard where it's just...
+
+01:18:35.260 --> 01:18:40.860
+I mean, I'm kind of just mirroring what you just said, but where it's just bad game design.
+
+01:18:40.860 --> 01:18:45.940
+It's hard where it's a challenge that you can learn and you can actually get better at it.
+
+01:18:46.600 --> 01:18:48.040
+So, no, not a...
+
+01:18:48.040 --> 01:18:49.000
+No, I'm just kidding. Yes.
+
+01:18:49.840 --> 01:18:51.620
+Definitely essential. Okay.
+
+01:18:51.980 --> 01:18:56.020
+If Sean votes it in, then it will be an essential game.
+
+01:18:56.240 --> 01:18:57.940
+Sean? All right.
+
+01:18:58.100 --> 01:19:01.640
+So, I come into this again struggling...
+
+01:19:02.620 --> 01:19:08.120
+Not struggling, but wrestling with the idea of what the essential games list means.
+
+01:19:09.400 --> 01:19:16.060
+And when it comes to punch out, we already know that there is a super punch out.
+
+01:19:16.560 --> 01:19:19.840
+I haven't really played too much of super punch out.
+
+01:19:19.980 --> 01:19:24.640
+So, I don't know if it is just a flat out better version of this game.
+
+01:19:24.820 --> 01:19:33.380
+So, I have to think about Mike Tyson's punch out as the only punch out that I've ever played.
+
+01:19:34.780 --> 01:19:44.480
+But regardless of whether one's better than the other, I think that the series as a whole itself is just a unique enough experience.
+
+01:19:45.340 --> 01:19:52.820
+But regardless of whether one game is better than the other within the same series, since I've only played one,
+
+01:19:52.960 --> 01:19:59.820
+and I agree with everything that Sam and Joe has said about it in regards to how good this game is, so I won't reiterate,
+
+01:19:59.820 --> 01:20:04.940
+I think that this game is also essential, even if super punch out may be better.
+
+01:20:05.120 --> 01:20:08.660
+I haven't played it. There's a lot of things that make a game non-essential.
+
+01:20:08.980 --> 01:20:14.420
+I think I check off more boxes right off the bat when I start a game that make it not essential
+
+01:20:14.420 --> 01:20:17.260
+than would ever make me consider it being essential.
+
+01:20:17.540 --> 01:20:20.800
+I actually, when I judge these games, I actually think,
+
+01:20:20.960 --> 01:20:24.480
+why wouldn't this game be on the essential games list rather than why it should be on?
+
+01:20:25.100 --> 01:20:31.380
+Then there's certain games that are Nintendo-made games that are very well-known games in the history of video games.
+
+01:20:31.520 --> 01:20:37.460
+We've dealt with this a few times now with Super Mario Brothers, Legend of Zelda, Metroid, and now Mike Tyson's punch out.
+
+01:20:37.560 --> 01:20:43.540
+These are the four games that I think a lot of people just know that they're essential games,
+
+01:20:43.560 --> 01:20:46.480
+and it's up to us to kind of put our own spin on that,
+
+01:20:46.580 --> 01:20:50.840
+even if you suspected that we were going to vote Super Mario Brothers in as essential,
+
+01:20:50.860 --> 01:20:52.640
+or The Legend of Zelda in as essential.
+
+01:20:53.940 --> 01:20:57.540
+Sometimes you have played those games before, sometimes you haven't.
+
+01:20:57.760 --> 01:21:00.480
+I didn't play Mike Tyson's punch out before we started doing this.
+
+01:21:00.620 --> 01:21:03.900
+I honestly didn't even see too much of that game beforehand.
+
+01:21:03.900 --> 01:21:06.600
+I didn't know how to play.
+
+01:21:06.600 --> 01:21:08.820
+I didn't see any videos that often.
+
+01:21:09.120 --> 01:21:13.060
+So entering this game for me was just a surprise in general,
+
+01:21:13.060 --> 01:21:17.520
+because after playing for maybe four to five hours,
+
+01:21:17.540 --> 01:21:20.480
+I thought about what would I want to change in this game,
+
+01:21:20.480 --> 01:21:25.800
+and the things that I want to change in this game are not gameplay related.
+
+01:21:26.080 --> 01:21:28.860
+They're more like just quality of life improvements,
+
+01:21:28.860 --> 01:21:33.860
+like a practice mode or a save battery or maybe...
+
+01:21:33.860 --> 01:21:35.000
+You want more of this game.
+
+01:21:35.140 --> 01:21:35.980
+Yeah, exactly.
+
+01:21:36.540 --> 01:21:42.620
+Maybe an option to choose who you fight next instead of just getting thrown into the same bracket each time.
+
+01:21:43.400 --> 01:21:48.560
+There's something about that component of it where I'm asking for more features,
+
+01:21:48.560 --> 01:21:50.180
+but not necessarily like,
+
+01:21:50.540 --> 01:21:53.020
+oh, I wish that punching mechanics would have worked this way,
+
+01:21:53.040 --> 01:21:55.520
+or I wish that you did have the freedom to move,
+
+01:21:55.640 --> 01:22:01.480
+or I wish that Little Mac was bigger in scale so I could do other things to my opponent.
+
+01:22:01.680 --> 01:22:04.420
+It doesn't matter because I'm not wishing for those things,
+
+01:22:04.420 --> 01:22:07.660
+and I think that that's the testament of an essential game.
+
+01:22:07.660 --> 01:22:10.780
+To what Sean was talking about when it comes to Super Punch-Out,
+
+01:22:10.940 --> 01:22:12.540
+the only thing I'll say there is,
+
+01:22:12.680 --> 01:22:16.980
+I don't have a problem with Punch-Out and Super Punch-Out being on an essential games list,
+
+01:22:17.020 --> 01:22:19.620
+just like I wouldn't have a problem with Super Mario Bros.
+
+01:22:19.700 --> 01:22:21.240
+1 and possibly Super Mario Bros.
+
+01:22:21.340 --> 01:22:22.900
+2, 3, World,
+
+01:22:23.100 --> 01:22:25.080
+all those other games being on the essential games list.
+
+01:22:25.280 --> 01:22:28.340
+Each game at the end of the day still speaks for itself,
+
+01:22:28.860 --> 01:22:33.660
+and I think that there is a difference between playing, say, a Pokemon Red and Blue
+
+01:22:33.660 --> 01:22:35.640
+over playing Pokemon Sun and Moon.
+
+01:22:35.800 --> 01:22:38.360
+You can say that Pokemon Sun and Moon are a million times better
+
+01:22:38.360 --> 01:22:40.480
+because they have a million more times content,
+
+01:22:41.440 --> 01:22:45.800
+but at the end of the day there's a certain atmosphere and polish to Red and Blue
+
+01:22:45.800 --> 01:22:47.320
+that Sun and Moon aren't going to offer,
+
+01:22:47.360 --> 01:22:48.300
+and that's the same thing here.
+
+01:22:48.480 --> 01:22:52.820
+There's a Wii game that takes Punch-Out and completely flips it
+
+01:22:52.820 --> 01:22:54.460
+with a Wiimote and a Nunchuck,
+
+01:22:54.640 --> 01:22:56.160
+and you're actually controlling the character,
+
+01:22:56.160 --> 01:22:58.740
+and that sounds like an awesome boxing experience,
+
+01:22:58.840 --> 01:23:00.800
+but does it translate to a great game?
+
+01:23:01.040 --> 01:23:02.480
+I don't know. I didn't play it.
+
+01:23:02.560 --> 01:23:06.180
+But I did play Mike Tyson's Punch-Out on the NES,
+
+01:23:06.380 --> 01:23:09.060
+and I'm confidently going to vote that into the essential games list,
+
+01:23:09.080 --> 01:23:12.000
+not only because I think that's where it belongs,
+
+01:23:12.000 --> 01:23:16.660
+just based on its ability to play so well in 2019,
+
+01:23:16.660 --> 01:23:20.260
+but also just because the amount of polish it has
+
+01:23:20.260 --> 01:23:23.280
+over virtually every NES game we've played so far,
+
+01:23:23.280 --> 01:23:27.840
+besides, for me, Gradius, is just insane.
+
+01:23:28.100 --> 01:23:30.860
+I think this game is way more polished than, say, Super Mario Bros.
+
+01:23:31.160 --> 01:23:32.320
+It was beautiful, Mike.
+
+01:23:38.180 --> 01:23:40.520
+So, and when I say polished for Gradius,
+
+01:23:40.600 --> 01:23:42.020
+because I know I'm going to get some flack for that,
+
+01:23:42.180 --> 01:23:43.860
+I really want people to think about
+
+01:23:43.860 --> 01:23:48.020
+all of the options and choices you have in Gradius,
+
+01:23:48.020 --> 01:23:49.520
+and I think that that's really, like,
+
+01:23:49.520 --> 01:23:51.920
+something that NES games just weren't offering.
+
+01:23:52.140 --> 01:23:53.740
+Legend of Zelda offers you an exploration
+
+01:23:53.740 --> 01:23:55.220
+that no other game can offer,
+
+01:23:55.240 --> 01:23:57.340
+but there are still some gameplay tweaks there
+
+01:23:57.340 --> 01:23:58.680
+that definitely could have been made,
+
+01:23:58.800 --> 01:24:02.400
+where, say, Gradius, just no matter how hard it is,
+
+01:24:02.500 --> 01:24:05.260
+It is Gradius. Yeah, it's still great.
+
+01:24:05.660 --> 01:24:09.440
+Yes. So I think it's games like that,
+
+01:24:09.600 --> 01:24:11.000
+and Legend of Zelda's on the essential games list,
+
+01:24:11.000 --> 01:24:12.800
+it's games like that that stand out for me.
+
+01:24:12.900 --> 01:24:16.480
+You know, we play maybe 10 to 11 bad games in a row,
+
+01:24:16.480 --> 01:24:18.740
+and then all of a sudden we get fed one that's just like,
+
+01:24:18.860 --> 01:24:20.440
+wow, I definitely still want to play this.
+
+01:24:20.620 --> 01:24:22.580
+That makes the rest of the shit games worth it.
+
+01:24:22.720 --> 01:24:25.120
+Right. One day I'd love to beat Mike Tyson.
+
+01:24:25.260 --> 01:24:28.660
+I don't know if I ever will, but I definitely see this as a game I'll keep coming back to.
+
+01:24:28.820 --> 01:24:30.460
+I do go back to Balloon Fight.
+
+01:24:30.700 --> 01:24:32.280
+You know, that's a game that I voted essential,
+
+01:24:32.280 --> 01:24:33.340
+and I still play it,
+
+01:24:33.400 --> 01:24:35.140
+and I still try to beat my high scores on that,
+
+01:24:35.240 --> 01:24:37.180
+and that's interesting, because I'm not really a high score guy.
+
+01:24:37.700 --> 01:24:38.620
+So I think...
+
+01:24:38.620 --> 01:24:40.500
+I feel like we just learned something about you.
+
+01:24:40.580 --> 01:24:42.440
+Yeah, there's a thing to me
+
+01:24:42.880 --> 01:24:44.420
+about the essential games list
+
+01:24:44.420 --> 01:24:47.300
+where I'm confident in my votes
+
+01:24:47.300 --> 01:24:49.320
+because I keep going back to those games.
+
+01:24:49.480 --> 01:24:51.380
+I felt like if I vote something in
+
+01:24:51.380 --> 01:24:52.660
+and I'm not feeling it,
+
+01:24:52.940 --> 01:24:56.740
+there is a chance that I'm going to ask for it to be removed.
+
+01:24:57.840 --> 01:25:00.980
+All right. That's a thinly veiled threat, but I get it.
+
+01:25:01.400 --> 01:25:04.520
+All right. We are done with this week's episode.
+
+01:25:04.560 --> 01:25:05.620
+End of the day. Yeah.
+
+01:25:06.660 --> 01:25:08.000
+This has been a great episode.
+
+01:25:08.240 --> 01:25:09.940
+Are you happy? I'm very happy.
+
+01:25:10.120 --> 01:25:11.000
+How are you guys feeling?
+
+01:25:11.000 --> 01:25:13.540
+Mike Tyson's Punch-Out is an essential game.
+
+01:25:14.000 --> 01:25:15.920
+Unanimously. Yes. I did want to mention,
+
+01:25:16.040 --> 01:25:18.660
+you said if Sean had voted it in,
+
+01:25:18.720 --> 01:25:21.620
+it would have been essential. Have we officially changed our rule?
+
+01:25:21.620 --> 01:25:22.880
+No, I just keep forgetting the rule.
+
+01:25:22.880 --> 01:25:24.760
+Yeah, it was already essential, but...
+
+01:25:24.760 --> 01:25:26.960
+Yeah, sorry. I keep forgetting that we had it at 50%.
+
+01:25:26.960 --> 01:25:27.820
+We definitely need to change it.
+
+01:25:27.820 --> 01:25:29.760
+Yeah, I'm in favor of changing next year.
+
+01:25:29.760 --> 01:25:31.520
+But that's something we have to talk about, yeah,
+
+01:25:31.620 --> 01:25:33.060
+in our Best of 87,
+
+01:25:33.060 --> 01:25:35.280
+which is an episode that's coming up relatively soon.
+
+01:25:35.280 --> 01:25:37.480
+We have a few more great games to get through, though.
+
+01:25:38.340 --> 01:25:40.580
+Next week, we're doing Rad Racer.
+
+01:25:41.160 --> 01:25:44.280
+Which is... Whether that's one of those games is yet to be seen.
+
+01:25:44.540 --> 01:25:47.180
+Yeah, no. Whether it's an essential game is anyone's guess.
+
+01:25:47.320 --> 01:25:50.300
+But it is a square soft game.
+
+01:25:50.300 --> 01:25:52.100
+So I think they were just going by square at that point.
+
+01:25:52.260 --> 01:25:55.920
+Still square, yeah. But, you know, that's all I have to tease about that.
+
+01:25:56.000 --> 01:25:58.100
+They made 3D Battles of World Runner,
+
+01:25:58.260 --> 01:26:00.640
+which was episode 59, if you want to go check it out.
+
+01:26:01.560 --> 01:26:03.620
+In that one, we weren't too hyped about it,
+
+01:26:03.700 --> 01:26:06.840
+but they did create a 3D on the NES.
+
+01:26:07.100 --> 01:26:09.520
+A 3D. Yeah, you know, whether it was good or not,
+
+01:26:09.660 --> 01:26:10.600
+you be the judge.
+
+01:26:11.140 --> 01:26:14.440
+And that reminds me that you can always follow along with Nostalgia
+
+01:26:14.440 --> 01:26:16.280
+by going to our Twitter account,
+
+01:26:16.500 --> 01:26:17.980
+at NostalgiaCast.
+
+01:26:18.100 --> 01:26:21.480
+We have a pinned post there that I update about once a week.
+
+01:26:21.480 --> 01:26:22.780
+I'd like to update it twice a week,
+
+01:26:22.840 --> 01:26:23.900
+but I don't see the point, really,
+
+01:26:23.980 --> 01:26:25.980
+other than posting the same thing again.
+
+01:26:26.180 --> 01:26:27.840
+But essentially what I do is I just give you
+
+01:26:27.840 --> 01:26:29.920
+the next four games that are coming up,
+
+01:26:29.960 --> 01:26:32.600
+and that gives you a whole month to play the fourth game.
+
+01:26:32.600 --> 01:26:36.120
+So definitely check out that list if you're looking forward to what's coming
+
+01:26:36.120 --> 01:26:37.480
+and want to play along with us.
+
+01:26:37.600 --> 01:26:40.660
+We do our best here to describe how these games play,
+
+01:26:40.700 --> 01:26:42.040
+but at the end of the day,
+
+01:26:42.180 --> 01:26:44.260
+you're really going to need to, at the very least,
+
+01:26:44.360 --> 01:26:47.140
+watch a video to get the gist of these NES games.
+
+01:26:47.220 --> 01:26:52.320
+They're abstract. Yeah, it's more fun to play than to listen to us describe the play.
+
+01:26:52.440 --> 01:26:55.040
+And if you're ever concerned about going back to play older games
+
+01:26:55.040 --> 01:26:57.300
+that we've already touched on the podcast,
+
+01:26:57.920 --> 01:27:01.860
+you can always check out www.nostalgiacast.com.
+
+01:27:02.020 --> 01:27:04.540
+We have an episode section where we actually have a whole column
+
+01:27:04.540 --> 01:27:08.380
+dedicated to whether you should skip it, play it, or consider it essential.
+
+01:27:08.660 --> 01:27:09.460
+They have links.
+
+01:27:09.740 --> 01:27:12.700
+There's a lot of links to other pages on the page.
+
+01:27:12.720 --> 01:27:15.180
+Yes, absolutely, where we have in-depth thoughts.
+
+01:27:15.340 --> 01:27:16.920
+We have thoughts. Lots of thoughts.
+
+01:27:16.960 --> 01:27:20.440
+Several thoughts. Most of us think every second of our lives.
+
+01:27:20.840 --> 01:27:21.740
+At least once.
+
+01:27:21.780 --> 01:27:24.940
+But us, we only think on the website, and that's where you can find it.
+
+01:27:24.940 --> 01:27:32.980
+Yep, I have a secret URL on that website that uploads my conscious stream of thoughts.
+
+01:27:33.300 --> 01:27:35.000
+And it's just like... How do you get that to work?
+
+01:27:35.560 --> 01:27:37.420
+I had to put a microchip in my brain,
+
+01:27:37.540 --> 01:27:39.480
+but thankfully the government gave it to me free of charge.
+
+01:27:40.160 --> 01:27:48.880
+Oh. Yep. In other news, you can always reach us via the contact option on the website.
+
+01:27:48.880 --> 01:27:51.320
+That's at www.nostalgiacast.com.
+
+01:27:51.420 --> 01:27:52.260
+There's a little contact form.
+
+01:27:52.280 --> 01:27:53.920
+You can fill that in, hit the send.
+
+01:27:53.920 --> 01:27:59.240
+Or you can just email us at nostalgiacast at gmail.com.
+
+01:28:00.440 --> 01:28:02.320
+That's nostalgiacast at gmail.com.
+
+01:28:02.540 --> 01:28:04.400
+You can write a letter to the website.
+
+01:28:08.460 --> 01:28:10.720
+Ask for birthday performances.
+
+01:28:10.720 --> 01:28:11.720
+We do those.
+
+01:28:12.200 --> 01:28:18.980
+Yeah. If you just put on your mail, like on your envelope, with no letter or anything in it...
+
+01:28:18.980 --> 01:28:20.620
+Just like Mike. Mike from NostalgiaCast.
+
+01:28:20.740 --> 01:28:22.040
+Yeah, Mike from NostalgiaCast.
+
+01:28:22.040 --> 01:28:23.240
+It'll find it right to him.
+
+01:28:23.240 --> 01:28:24.600
+It will probably come to me.
+
+01:28:24.880 --> 01:28:26.540
+Yeah. Is that it?
+
+01:28:26.640 --> 01:28:27.980
+All right. Yeah, that's it.
+
+01:28:28.340 --> 01:28:29.900
+Thank you guys so much for listening.
+
+01:28:30.100 --> 01:28:33.500
+Sorry if you listened to this back half, but you know the rules by now.
+
+01:28:33.640 --> 01:28:35.780
+You must listen to the entire episodes.
+
+01:28:35.940 --> 01:28:39.820
+Because otherwise, you wouldn't know this week's secret code word, which is potato.
+
+01:28:40.580 --> 01:28:44.700
+Please tweet me from only seven days from today.
+
+01:28:45.000 --> 01:28:46.040
+Tweet me potato.
+
+01:28:46.040 --> 01:28:48.540
+Potato, and I will send you...
+
+01:28:48.540 --> 01:28:50.380
+A potato. 15 nostalgia bucks.
+
+01:28:50.700 --> 01:28:55.040
+Yeah. 15 nostalgia bucks that are redeemable on the store's website.
+
+01:28:55.240 --> 01:28:56.920
+Yes. The store's website.
+
+01:28:59.980 --> 01:29:02.560
+Where, who knows, maybe you can purchase a domain.
+
+01:29:03.400 --> 01:29:05.560
+We're selling the podcast.
+
+01:29:06.200 --> 01:29:07.360
+Any buyers?
+
+01:29:07.740 --> 01:29:10.000
+Yes. We only have one buyer right now.
+
+01:29:10.100 --> 01:29:11.300
+His name is John B.
+
+01:29:11.360 --> 01:29:13.800
+He's a legend in the nostalgia circles.
+
+01:29:13.800 --> 01:29:16.360
+He donates to the podcast every month.
+
+01:29:16.520 --> 01:29:19.080
+You don't have to, but we'll think less of you.
+
+01:29:21.000 --> 01:29:22.000
+Right now, John B's the end of the deal.
+
+01:29:22.000 --> 01:29:22.940
+It's not that we think less of you.
+
+01:29:23.020 --> 01:29:24.720
+It's just that we think more of John B.
+
+01:29:24.920 --> 01:29:25.860
+Oh, yeah. I like that.
+
+01:29:26.080 --> 01:29:28.960
+Yeah, yeah, yeah. We just think not more of you.
+
+01:29:29.120 --> 01:29:34.460
+The problem is that when I go to sleep at night, you know, I'm not thinking of all of the listeners.
+
+01:29:34.460 --> 01:29:36.340
+I'm just thinking about John B.
+
+01:29:36.440 --> 01:29:38.700
+Who is no longer a listener after this episode.
+
+01:29:40.820 --> 01:29:43.540
+If it makes anybody feel better, I don't know what John B looks like.
+
+01:29:46.280 --> 01:29:48.580
+That's all the time we have for this episode.
+
+01:29:48.780 --> 01:29:49.880
+That's our end. Nostalgia.
+
+01:29:51.040 --> 01:29:53.720
+Join us next time for Rad Racer.
+
+01:29:54.020 --> 01:29:55.160
+I'm Michael Esposito.
+
+01:29:55.360 --> 01:29:57.620
+You can find me on at Esposito Film on Twitter.
+
+01:29:57.860 --> 01:30:00.580
+You can find Nostalgia on at NostalgiaCast on Twitter.
+
+01:30:01.020 --> 01:30:03.180
+And we will both be talking to you soon.
+
+01:30:03.180 --> 01:30:06.720
+Me and the NostalgiaCast Twitter, which is also run by me.
+
+01:30:06.720 --> 01:30:08.500
+So you'll always be talking to me no matter what you do.
+
+01:30:08.660 --> 01:30:36.600
+Goodbye. Thank you.

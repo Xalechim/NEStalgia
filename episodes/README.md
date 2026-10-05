@@ -75,15 +75,15 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 067 | Spy Hunter | [notes](067-spy-hunter.md), [transcript](../transcripts/067-spy-hunter.md) |
 | 068 | Sqoon | [notes](068-sqoon.md), [transcript](../transcripts/068-sqoon.md) |
 | 069 | Stadium Events | [notes](069-stadium-events.md), [transcript](../transcripts/069-stadium-events.md) |
-| 070 | Star Voyager | [early notes](070-star-voyager-early-notes.md), [notes](070-star-voyager.md) |
-| 071 | Stinger | [notes](071-stinger.md) |
-| 072 | Tiger Heli | [notes](072-tiger-heli.md) |
-| 073 | Winter Games | [notes](073-winter-games.md) |
-| 074 | Alpha Mission | [notes](074-alpha-mission.md) |
-| 075 | Lunar Pool | [notes](075-lunar-pool.md) |
-| 076 | Mike Tyson's Punch-Out!! | [notes](076-mike-tysons-punch-out.md) |
-| 077 | Rad Racer | [notes](077-rad-racer.md) |
-| 078 | Zanac | [notes](078-zanac.md) |
+| 070 | Star Voyager | [early notes](070-star-voyager-early-notes.md), [notes](070-star-voyager.md), [transcript](../transcripts/070-star-voyager-early-notes.md) |
+| 071 | Stinger | [notes](071-stinger.md), [transcript](../transcripts/071-stinger.md) |
+| 072 | Tiger Heli | [notes](072-tiger-heli.md), [transcript](../transcripts/072-tiger-heli.md) |
+| 073 | Winter Games | [notes](073-winter-games.md), [transcript](../transcripts/073-winter-games.md) |
+| 074 | Alpha Mission | [notes](074-alpha-mission.md), [transcript](../transcripts/074-alpha-mission.md) |
+| 075 | Lunar Pool | [notes](075-lunar-pool.md), [transcript](../transcripts/075-lunar-pool.md) |
+| 076 | Mike Tyson's Punch-Out!! | [notes](076-mike-tysons-punch-out.md), [transcript](../transcripts/076-mike-tysons-punch-out.md) |
+| 077 | Rad Racer | [notes](077-rad-racer.md), [transcript](../transcripts/077-rad-racer.md) |
+| 078 | Zanac | [notes](078-zanac.md), [transcript](../transcripts/078-zanac.md) |
 | 079 | The Goonies II | [notes](079-the-goonies-ii.md) |
 | 080 | Gotcha! The Sport! | [notes](080-gotcha-the-sport.md) |
 | 081 | Jaws | [notes](081-jaws.md) |
