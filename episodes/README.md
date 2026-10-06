@@ -98,7 +98,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 090 | Karnov | [notes](090-karnov.md) |
 | 091 | Renegade | [notes](091-renegade.md) |
 | 092 | Contra | [notes](092-contra.md), [transcript](../transcripts/092-contra.md) |
-| 093 | Gun.Smoke | [notes](093-gun-smoke.md) |
+| 093 | Gun.Smoke | [notes](093-gun-smoke.md), [transcript](../transcripts/093-gun-smoke.md) |
 | 094 | Town & Country Surf Designs: Wood and Water Rage | [notes](094-town-country-surf-designs-wood-and-water-rage.md), [transcript](../transcripts/094-town-country-surf-designs-wood-and-water-rage.md) |
 | 095 | Dragon Power | [notes](095-dragon-power.md), [transcript](../transcripts/095-dragon-power.md) |
 | 096 | Ice Hockey | [notes](096-ice-hockey.md), [transcript](../transcripts/096-ice-hockey.md) |
