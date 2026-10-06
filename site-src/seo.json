@@ -422,6 +422,162 @@
         },
         "see_all_label": "See all of 1988 with our verdicts"
       }
+    },
+    "/articles/nes-wall-of-shame": {
+      "title": "THE NES WALL OF SHAME: 11 Games We Cannot Forgive · NEStalgia",
+      "description": "A roast of eleven of the worst NES games we have covered, in alphabetical order, from Athena and Deadly Towers to Super Pitfall and Winter Games, with every complaint from our reviews and the show.",
+      "layout": "countdown",
+      "numbered": false,
+      "heading": "The inmates",
+      "intro_label": "A word from the warden",
+      "listen_label": "Hear the trial",
+      "ranks": {
+        "1": 54,
+        "2": 212,
+        "3": 213,
+        "4": 433,
+        "5": 60,
+        "6": 427,
+        "7": 448,
+        "8": 13,
+        "9": 85,
+        "10": 249,
+        "11": 73
+      },
+      "screenshots": {
+        "1": [
+          {
+            "file": "athena-nes-screenshot-title.png",
+            "alt": "Athena: the title screen",
+            "px": true
+          },
+          {
+            "file": "athena-nes-screenshot-gameplay.png",
+            "alt": "Athena: a warrior with a green helmet jumps across a forest ledge beside a giant yellow tree trunk, with a score and timer at the top",
+            "px": true
+          }
+        ],
+        "2": [
+          {
+            "file": "back-to-the-future-nes-screenshot-title.png",
+            "alt": "Back to the Future: the title screen",
+            "px": true
+          },
+          {
+            "file": "back-to-the-future-nes-screenshot-gameplay.png",
+            "alt": "Back to the Future: a top-down street where Marty skates past two people and a rolling barrel, with the score and clock at the bottom",
+            "px": true
+          }
+        ],
+        "3": [
+          {
+            "file": "bad-street-brawler-nes-screenshot-title.png",
+            "alt": "Bad Street Brawler: the title screen",
+            "px": true
+          },
+          {
+            "file": "bad-street-brawler-nes-screenshot-gameplay.png",
+            "alt": "Bad Street Brawler: Duke walks along a sidewalk in front of a city skyline, with a time counter and player and enemy health bars",
+            "px": true
+          }
+        ],
+        "4": [
+          {
+            "file": "conan-nes-screenshot-title.png",
+            "alt": "Conan: The Mysteries of Time: the title screen",
+            "px": true
+          },
+          {
+            "file": "conan-nes-screenshot-gameplay.png",
+            "alt": "Conan: The Mysteries of Time: a barbarian faces a skeleton on a rocky cave ledge while a green creature waits nearby",
+            "px": true
+          }
+        ],
+        "5": [
+          {
+            "file": "deadly-towers-nes-screenshot-title.png",
+            "alt": "Deadly Towers: the title screen",
+            "px": true
+          },
+          {
+            "file": "deadly-towers-nes-screenshot-gameplay.png",
+            "alt": "Deadly Towers: the prince stands before a green castle with a monster face above the open doorway and a flame beside him",
+            "px": true
+          }
+        ],
+        "6": [
+          {
+            "file": "peter-pan-nes-screenshot-title.png",
+            "alt": "Fox's Peter Pan and the Pirates: The Revenge of Captain Hook: the title screen",
+            "px": true
+          },
+          {
+            "file": "peter-pan-nes-screenshot-gameplay.png",
+            "alt": "Peter Pan and the Pirates: Peter and a pirate walk through a jungle clearing toward a campfire, with the score and lives at the top",
+            "px": true
+          }
+        ],
+        "7": [
+          {
+            "file": "harlem-globetrotters-nes-screenshot-title.png",
+            "alt": "Harlem Globetrotters: the title screen",
+            "px": true
+          },
+          {
+            "file": "harlem-globetrotters-nes-screenshot-gameplay.png",
+            "alt": "Harlem Globetrotters: a basketball court seen from the side with players in white and green near the hoop and a scoreboard above",
+            "px": true
+          }
+        ],
+        "8": [
+          {
+            "file": "stack-up-nes-screenshot-title.png",
+            "alt": "Stack-Up: the title screen",
+            "px": true
+          },
+          {
+            "file": "stack-up-nes-screenshot-gameplay.png",
+            "alt": "Stack-Up: the Direct mode screen shows a stack of colored discs to copy and a little pilot standing on an on-screen controller pad",
+            "px": true
+          }
+        ],
+        "9": [
+          {
+            "file": "super-pitfall-nes-screenshot-title.png",
+            "alt": "Super Pitfall: the title screen",
+            "px": true
+          },
+          {
+            "file": "super-pitfall-nes-screenshot-gameplay.png",
+            "alt": "Super Pitfall: the explorer climbs between stone columns in front of pyramids, with a ladder at the right edge and a pit below",
+            "px": true
+          }
+        ],
+        "10": [
+          {
+            "file": "uncanny-x-men-nes-screenshot-title.png",
+            "alt": "The Uncanny X-Men: the title screen",
+            "px": true
+          },
+          {
+            "file": "uncanny-x-men-nes-screenshot-gameplay.png",
+            "alt": "The Uncanny X-Men: a top-down orange room where an X-Man in blue fires at another character beside a doorway",
+            "px": true
+          }
+        ],
+        "11": [
+          {
+            "file": "winter-games-nes-screenshot-title.png",
+            "alt": "Winter Games: the title screen",
+            "px": true
+          },
+          {
+            "file": "winter-games-nes-screenshot-gameplay.png",
+            "alt": "Winter Games: a skier flies off the jump above a snowy brown mountain with a red gate and the Player 1 score below",
+            "px": true
+          }
+        ]
+      }
     }
   },
   "episode_guides": [
@@ -609,6 +765,61 @@
       "number": 133,
       "href": "/articles/best-of-1988/#rank-1",
       "label": "Ranked #1 in our Top 10 NES Games of 1988"
+    },
+    {
+      "number": 54,
+      "href": "/articles/nes-wall-of-shame/#rank-1",
+      "label": "Inducted into THE NES WALL OF SHAME"
+    },
+    {
+      "number": 212,
+      "href": "/articles/nes-wall-of-shame/#rank-2",
+      "label": "Inducted into THE NES WALL OF SHAME"
+    },
+    {
+      "number": 213,
+      "href": "/articles/nes-wall-of-shame/#rank-3",
+      "label": "Inducted into THE NES WALL OF SHAME"
+    },
+    {
+      "number": 433,
+      "href": "/articles/nes-wall-of-shame/#rank-4",
+      "label": "Inducted into THE NES WALL OF SHAME"
+    },
+    {
+      "number": 60,
+      "href": "/articles/nes-wall-of-shame/#rank-5",
+      "label": "Inducted into THE NES WALL OF SHAME"
+    },
+    {
+      "number": 427,
+      "href": "/articles/nes-wall-of-shame/#rank-6",
+      "label": "Inducted into THE NES WALL OF SHAME"
+    },
+    {
+      "number": 448,
+      "href": "/articles/nes-wall-of-shame/#rank-7",
+      "label": "Inducted into THE NES WALL OF SHAME"
+    },
+    {
+      "number": 13,
+      "href": "/articles/nes-wall-of-shame/#rank-8",
+      "label": "Inducted into THE NES WALL OF SHAME"
+    },
+    {
+      "number": 85,
+      "href": "/articles/nes-wall-of-shame/#rank-9",
+      "label": "Inducted into THE NES WALL OF SHAME"
+    },
+    {
+      "number": 249,
+      "href": "/articles/nes-wall-of-shame/#rank-10",
+      "label": "Inducted into THE NES WALL OF SHAME"
+    },
+    {
+      "number": 73,
+      "href": "/articles/nes-wall-of-shame/#rank-11",
+      "label": "Inducted into THE NES WALL OF SHAME"
     }
   ],
   "redirects": {

@@ -334,7 +334,7 @@ def countdown_html(a, cfg, data, ep_map):
                 out.append(f'<div class="prose"><p>{E(cfg["stats"]["intro"])}</p></div>')
             out.append(f'<h2>The year in numbers</h2><div class="estats">{st}</div>')
     if has_text(after):
-        out.append(f'<div class="manual"><div class="mtab">What the year tells us</div>{prose(after, ep_map)}</div>')
+        out.append(f'<div class="manual"><div class="mtab">{E(cfg.get("intro_label", "What the year tells us"))}</div>{prose(after, ep_map)}</div>')
     if has_text(before) or quote or has_text(after) or cfg.get("stats"):
         out.append("<h2>%s</h2>" % E(cfg.get("heading", "Our top five")))
 
@@ -386,8 +386,9 @@ def countdown_html(a, cfg, data, ep_map):
             shots = '<div class="gallery">' + "".join(seen.values()) + "</div>"
         cover = (f'<a class="rank-cover" href="{link}"><img src="{BASE}/art/{r["key"]}.jpg" alt="{E(cover_alt(r))}" width="300" height="300" loading="lazy"></a>' if r else "")
         title = f'<a href="{link}">{E(name)}</a>' if link else E(name)
-        listen = (f'<p class="rank-listen"><a class="btn" href="{link}">Hear our episode: {E(nice_case(r["title"]))}</a></p>' if r else "")
-        out.append(f'<section class="rank" id="rank-{rank}"><div class="rank-head"><span class="rank-n">#{rank}</span><h2>{title}</h2></div>'
+        rank_n = "" if cfg.get("numbered") is False else "<span class=\"rank-n\">#%s</span>" % rank
+        listen = (f'<p class="rank-listen"><a class="btn" href="{link}">{E(cfg.get("listen_label", "Hear our episode"))}: {E(nice_case(r["title"]))}</a></p>' if r else "")
+        out.append(f'<section class="rank" id="rank-{rank}"><div class="rank-head">{rank_n}<h2>{title}</h2></div>'
                    f'<div class="rank-main">{cover}<div class="rank-text"><div class="gchips">{chips}</div>{prose(text, ep_map)}{listen}</div></div>{prose(shots, ep_map) if shots else ""}</section>')
     return "".join(out)
 
