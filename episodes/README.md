@@ -264,12 +264,12 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 257 | Double Dragon II | [notes](257-double-dragon-ii.md) |
 | 258 | Genghis Kahn | [notes](258-genghis-kahn.md) |
 | 259 | Infiltrator | [notes](259-infiltrator.md) |
-| 260 | Kings of the Beach | [notes](260-kings-of-the-beach.md) |
-| 261 | The Magic of Scheherazade | [notes](261-the-magic-of-scheherazade.md) |
-| 262 | The Miracle Piano Teaching System | [notes](262-the-miracle-piano-teaching-system.md) |
-| 263 | Rescue: The Embassy Mission | [notes](263-rescue-the-embassy-mission.md) |
-| 264 | River City Ransom | [notes](264-river-city-ransom.md) |
-| 265 | Roadblasters | [notes](265-roadblasters.md) |
+| 260 | Kings of the Beach | [notes](260-kings-of-the-beach.md), [transcript](../transcripts/260-kings-of-the-beach.md) |
+| 261 | The Magic of Scheherazade | [notes](261-the-magic-of-scheherazade.md), [transcript](../transcripts/261-the-magic-of-scheherazade.md) |
+| 262 | The Miracle Piano Teaching System | [notes](262-the-miracle-piano-teaching-system.md), [transcript](../transcripts/262-the-miracle-piano-teaching-system.md) |
+| 263 | Rescue: The Embassy Mission | [notes](263-rescue-the-embassy-mission.md), [transcript](../transcripts/263-rescue-the-embassy-mission.md) |
+| 264 | River City Ransom | [notes](264-river-city-ransom.md), [transcript](../transcripts/264-river-city-ransom.md) |
+| 265 | Roadblasters | [notes](265-roadblasters.md), [transcript](../transcripts/265-roadblasters.md) |
 | 266 | Rock N Ball | [notes](266-rock-n-ball.md), [transcript](../transcripts/266-rock-n-ball.md) |
 | 267 | Top Gun: The Second Mission | [notes](267-top-gun-the-second-mission.md), [transcript](../transcripts/267-top-gun-the-second-mission.md) |
 | 268 | Top Players Tennis | [notes](268-top-players-tennis.md), [transcript](../transcripts/268-top-players-tennis.md) |

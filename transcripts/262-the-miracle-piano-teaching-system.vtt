@@ -1,0 +1,2608 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.340
+Miracle Piano, the keys are in your hand.
+
+00:00:18.680 --> 00:00:26.200
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:26.420 --> 00:00:27.800
+I'm Mike. I'm Sean.
+
+00:00:28.700 --> 00:00:29.740
+And I'm Joe.
+
+00:00:30.000 --> 00:00:35.220
+And that was not a real back of the box because this game's box was actually the whole freaking
+
+00:00:35.220 --> 00:00:41.080
+piano. There's no like separate like Miracle Piano cartridge only box sold somewhere.
+
+00:00:41.360 --> 00:00:44.240
+So it was just a bunch of jargon on the back of the box.
+
+00:00:44.340 --> 00:00:45.620
+And I thought that was clever.
+
+00:00:45.800 --> 00:00:46.920
+So I'm going to give myself a point there.
+
+00:00:47.280 --> 00:00:53.300
+Yeah, I was going to say that was a good back of the box, but you've come a long way.
+
+00:00:54.220 --> 00:00:58.620
+And if you want more creative back of the boxes, we do that all the time on the Bytes episodes because
+
+00:00:58.620 --> 00:01:00.020
+I can't read Japanese.
+
+00:01:01.240 --> 00:01:03.780
+You could if you tried, but that's not why we're here.
+
+00:01:04.060 --> 00:01:11.160
+We're here to talk about learning how to play piano on the NES.
+
+00:01:11.860 --> 00:01:13.840
+Yeah, the ultimate video game experience.
+
+00:01:14.220 --> 00:01:18.680
+Yeah. Like this is an actual like application software.
+
+00:01:19.600 --> 00:01:22.680
+Yeah. And so, you know, great segue, Sean.
+
+00:01:22.860 --> 00:01:26.460
+This is this is not playable via anything other than that
+
+00:01:26.460 --> 00:01:30.580
+giant piano with the box and everything that I was talking about a second ago.
+
+00:01:30.700 --> 00:01:31.600
+That's the only way to
+
+00:01:31.600 --> 00:01:34.160
+play this game. You do need an NES controller as well.
+
+00:01:34.860 --> 00:01:38.720
+But you need the piano to actually register that
+
+00:01:38.720 --> 00:01:44.660
+you're hitting the right keys so that the program, the application can continue to move along and
+
+00:01:44.660 --> 00:01:47.760
+recognize that you're playing the notes correctly.
+
+00:01:47.980 --> 00:01:52.280
+So the only way to play this game, unless you're
+
+00:01:52.280 --> 00:01:57.540
+really skilled with emulation and configuring media outputs and stuff like that, you know,
+
+00:01:57.600 --> 00:01:59.180
+there's M-I-D-I. I think those are called media.
+
+00:02:00.100 --> 00:02:04.160
+It's really like most NES emulators cannot do this.
+
+00:02:04.400 --> 00:02:06.760
+You definitely need the actual miracle piano.
+
+00:02:06.920 --> 00:02:09.280
+You can't like fake it with even like another keyboard.
+
+00:02:09.580 --> 00:02:11.440
+So it just takes a lot of effort.
+
+00:02:11.760 --> 00:02:16.740
+So the really the only way to really experience the miracle piano is with the actual hardware,
+
+00:02:17.200 --> 00:02:21.980
+the NES, a CRT, an NES controller, like you need everything.
+
+00:02:22.140 --> 00:02:23.560
+You need to basically find someone's
+
+00:02:23.560 --> 00:02:27.260
+old game room and hope that they have all that equipment so that you can get your hands on
+
+00:02:27.260 --> 00:02:32.700
+really checking this out because otherwise this is now what the kids would call like a
+
+00:02:32.700 --> 00:02:36.460
+Twitch experience where you just go on YouTube and you watch someone else play the game and you
+
+00:02:36.460 --> 00:02:37.720
+say, hey, that's how it's done.
+
+00:02:37.820 --> 00:02:38.680
+And that's what it was like.
+
+00:02:38.780 --> 00:02:40.280
+And I'll never experience that.
+
+00:02:40.700 --> 00:02:42.720
+I mean, but you did though.
+
+00:02:42.980 --> 00:02:48.500
+You did. I did what Mike said, but Mike, you did some real real shit.
+
+00:02:49.020 --> 00:02:55.660
+Yes. So, you know, unlike the power pad, the miracle piano works pretty well when you buy them
+
+00:02:56.160 --> 00:02:57.980
+and people have them on the reg.
+
+00:02:58.140 --> 00:03:01.060
+I was kind of surprised to find out that like when I typed
+
+00:03:01.060 --> 00:03:05.380
+it on eBay, it's not like you're competing with the other bunch of other bidders for the one
+
+00:03:05.760 --> 00:03:06.840
+working miracle piano.
+
+00:03:07.400 --> 00:03:11.000
+It's just like how much you're willing to spend on it and adjusted for
+
+00:03:11.000 --> 00:03:13.340
+inflation. These things were like $500 back in the day.
+
+00:03:13.480 --> 00:03:15.060
+So to get them for a hundred is kind of like
+
+00:03:15.060 --> 00:03:16.120
+the steel. Oh, wow.
+
+00:03:16.120 --> 00:03:22.920
+Yeah. I'm also surprised that like, you know, just by the market, uh,
+
+00:03:23.500 --> 00:03:31.080
+ebbing and flowing with NES games and paraphernalia, uh, along with the NES chronological
+
+00:03:31.080 --> 00:03:38.640
+exploration that there wasn't like a long lead up in price, uh, culminating on like yesterday,
+
+00:03:39.180 --> 00:03:40.100
+you know? Yeah.
+
+00:03:40.260 --> 00:03:43.920
+No, knowing the amount of listeners that we have, you would think that
+
+00:03:43.920 --> 00:03:48.740
+they would all be buying miracle pianos to properly experience this at the same time as us.
+
+00:03:49.180 --> 00:03:53.160
+And for the most part, everybody who wanted to get their hands on a miracle piano could
+
+00:03:53.160 --> 00:03:56.340
+have based on what I saw, uh, in terms of listings and stuff.
+
+00:03:56.420 --> 00:03:58.240
+Now I've never seen one at a thrift shop or anything.
+
+00:03:58.280 --> 00:04:01.600
+So people who have these things seem to know what they have.
+
+00:04:01.740 --> 00:04:06.180
+It was something you definitely had to be like, make an educated decision to buy again, $500
+
+00:04:06.700 --> 00:04:07.500
+back in the day.
+
+00:04:07.720 --> 00:04:10.620
+So you're not like, you're not getting this unless you can convince your
+
+00:04:10.620 --> 00:04:12.580
+parents that you want to learn the piano.
+
+00:04:12.900 --> 00:04:14.560
+Right. I see it.
+
+00:04:14.620 --> 00:04:15.840
+First of all, I want to say that I do,
+
+00:04:15.840 --> 00:04:22.840
+I do quite regret not, not buying one of these and trying it myself as I've been looking into it this
+
+00:04:22.840 --> 00:04:26.620
+week and watching some streamers and stuff, uh, learning.
+
+00:04:27.020 --> 00:04:28.380
+Uh, I'm like, oh, that could have
+
+00:04:28.380 --> 00:04:29.340
+would have been fun to try.
+
+00:04:29.520 --> 00:04:32.420
+And like, maybe I guess it was a little more accessible than I thought
+
+00:04:32.420 --> 00:04:34.880
+it would have been, but is it confirmed that you need a CRT?
+
+00:04:35.260 --> 00:04:39.600
+I know like, light gun games and stuff you do because of the way the light gun works, but are the inputs like
+
+00:04:39.600 --> 00:04:40.740
+in some way only?
+
+00:04:41.000 --> 00:04:43.740
+No, you would need a modded, you would need a modded NES though, right?
+
+00:04:43.840 --> 00:04:47.100
+Like how else would you, I'm thinking about the inputs on the back of an NES.
+
+00:04:47.440 --> 00:04:50.600
+Maybe I was, maybe I just didn't look at mine, but mine's hooked up to a CRT.
+
+00:04:50.780 --> 00:04:53.040
+So I just didn't think you could hook up an NES to an HDMI.
+
+00:04:53.940 --> 00:04:56.700
+I think there used to be a coaxial, but I also thought,
+
+00:04:56.800 --> 00:05:01.020
+isn't there actually like, aren't there some that have the, um, what are they called?
+
+00:05:01.500 --> 00:05:02.720
+Video audio? What are those called?
+
+00:05:02.940 --> 00:05:05.760
+Auxiliary? Oh, the, uh, yeah, they have red and yellow.
+
+00:05:06.700 --> 00:05:10.320
+Yeah. Yeah. So, I mean, so a lot of flat screens still have those.
+
+00:05:10.620 --> 00:05:11.720
+Oh, okay. So I guess I just
+
+00:05:11.720 --> 00:05:12.760
+wasn't thinking about it logically.
+
+00:05:12.760 --> 00:05:17.060
+So you don't need the CRT per se, but, um, you do need a red and
+
+00:05:17.060 --> 00:05:19.260
+yellow, uh, what are those called, Sean?
+
+00:05:19.400 --> 00:05:21.180
+You know, you must know. Yeah. Component cable.
+
+00:05:21.500 --> 00:05:22.320
+You need, component cable.
+
+00:05:22.320 --> 00:05:26.100
+You need a, uh, a TV old enough to still have those.
+
+00:05:26.380 --> 00:05:28.220
+Or a modded NES that lets you play
+
+00:05:28.220 --> 00:05:32.100
+on HDMI that stretches out the image to 16 by nine.
+
+00:05:32.340 --> 00:05:33.820
+And then everybody yells at you on the internet
+
+00:05:33.820 --> 00:05:35.120
+when you post a screenshot of it.
+
+00:05:36.840 --> 00:05:41.160
+So, uh, do either of you guys have any history with
+
+00:05:41.160 --> 00:05:44.560
+playing piano or keys or anything like that?
+
+00:05:44.960 --> 00:05:49.040
+We had at my house growing up, my next door neighbor
+
+00:05:49.040 --> 00:05:50.440
+was getting rid of a piano.
+
+00:05:50.720 --> 00:05:53.980
+And for some reason, my mom was like, yeah, we'll take it.
+
+00:05:54.120 --> 00:05:55.040
+And this piano
+
+00:05:55.040 --> 00:05:57.220
+sat in my parents' house like my whole life.
+
+00:05:57.660 --> 00:05:58.900
+No, none of us played piano.
+
+00:05:59.080 --> 00:06:00.040
+No one knew how to use it.
+
+00:06:00.040 --> 00:06:01.200
+It was always just sitting there.
+
+00:06:01.400 --> 00:06:03.900
+My sister tried to learn when she was little, right around the time
+
+00:06:03.900 --> 00:06:06.900
+we got it. Um, but then like that went away fast.
+
+00:06:07.020 --> 00:06:09.560
+And then we just had a piano for like 25 years and
+
+00:06:09.560 --> 00:06:10.560
+then finally got rid of it.
+
+00:06:10.620 --> 00:06:13.320
+No one ever used it. So like I would mess around on it and I could like
+
+00:06:13.320 --> 00:06:16.400
+play a couple of like things by ear by just screwing around.
+
+00:06:16.400 --> 00:06:17.820
+But like, I never actually learned
+
+00:06:17.820 --> 00:06:19.360
+any, uh, real piano.
+
+00:06:19.560 --> 00:06:23.000
+Was it like on display or was it in like a storage room?
+
+00:06:24.140 --> 00:06:26.720
+Yeah, it was a piece of
+
+00:06:26.720 --> 00:06:27.880
+in our, in our front room.
+
+00:06:27.960 --> 00:06:30.060
+And it was, I don't remember, I don't know if my mom bought it off
+
+00:06:30.060 --> 00:06:32.480
+my neighbor or if she was just gonna throw it out and we just took it or whatever.
+
+00:06:32.560 --> 00:06:36.240
+But I know that like shortly after getting it, she was like, we gotta get rid of that thing.
+
+00:06:36.360 --> 00:06:37.880
+And then we just kept it for 25 more years.
+
+00:06:38.180 --> 00:06:40.220
+Joe, the same thing happened to my family.
+
+00:06:41.280 --> 00:06:45.500
+No way. They were throwing the people like our next door neighbors were throwing out a,
+
+00:06:45.500 --> 00:06:50.680
+you know, grand piano or not a grand piano, the, uh, you know, a real full size,
+
+00:06:50.680 --> 00:06:51.660
+yeah, an upright piano.
+
+00:06:52.300 --> 00:06:54.700
+And my parents were like, oh, this will be great.
+
+00:06:55.140 --> 00:06:56.480
+Mostly as furniture, right?
+
+00:06:56.640 --> 00:07:00.980
+Like, but hey, if the kids want to play with it or whatever, but they decided to go a step further
+
+00:07:00.980 --> 00:07:02.760
+and move it down to the basement.
+
+00:07:03.520 --> 00:07:06.000
+Um, which is just not a good spot to get rid of, you know,
+
+00:07:06.060 --> 00:07:07.660
+like to put something if you ever want to get rid of it.
+
+00:07:08.140 --> 00:07:10.380
+Right. So we, we brought it down to the
+
+00:07:10.380 --> 00:07:15.080
+basement. And I remember our neighbor helped us and the piano like slid too fast down the stairs
+
+00:07:15.080 --> 00:07:16.160
+and hit him in the head.
+
+00:07:16.260 --> 00:07:17.740
+And he was like bleeding out of his head.
+
+00:07:17.840 --> 00:07:23.120
+I was like, this is, it's like, this is not worth it for this piano that, you know, and then it was out of tune the
+
+00:07:23.120 --> 00:07:24.280
+entire time we had it.
+
+00:07:24.420 --> 00:07:27.900
+Well, yeah, it's just like, no, we also had keys that didn't work.
+
+00:07:28.280 --> 00:07:29.240
+Get it tuned or something, right?
+
+00:07:29.320 --> 00:07:31.340
+Like if you took the effort to bring it into your house and
+
+00:07:31.340 --> 00:07:34.260
+then it just doesn't work, it was the craziest piece of furniture we ever had.
+
+00:07:34.620 --> 00:07:35.420
+We had to like
+
+00:07:35.420 --> 00:07:39.260
+hack it with an axe to get it out because we weren't going to take it back up the stairs.
+
+00:07:40.020 --> 00:07:46.580
+Um, so that was my like, you know, regular traditional piano experience of just not playing anything.
+
+00:07:46.580 --> 00:07:52.440
+But we did have a keyboard that had all sorts of, you know, not unlike the miracle piano,
+
+00:07:52.520 --> 00:07:53.800
+it had all sorts of fun effects.
+
+00:07:54.240 --> 00:07:57.520
+Yeah. It could teach you songs with a, uh, it would highlight
+
+00:07:57.520 --> 00:08:01.240
+the keys in red of the notes you were supposed to play and then it would play the next note.
+
+00:08:01.640 --> 00:08:10.080
+And weirdly enough, I have never touched the, or, or seen the miracle piano like learning system
+
+00:08:10.080 --> 00:08:12.260
+before I got my hands on this.
+
+00:08:12.380 --> 00:08:17.560
+And I learned in my own brain, the same way that miracle piano teaches
+
+00:08:17.560 --> 00:08:21.560
+you at the beginning by just attributing numbers to keys.
+
+00:08:21.580 --> 00:08:23.960
+And then just remembering like, you know,
+
+00:08:24.080 --> 00:08:28.680
+this song goes one, three, five, three, one, you know, like just something like that.
+
+00:08:28.820 --> 00:08:32.400
+And like using the numbers in my head, that's how I came up with it on the keyboard.
+
+00:08:32.580 --> 00:08:35.320
+And then that's how miracle piano
+
+00:08:35.320 --> 00:08:40.360
+at least starts to teach you the placement of the keys by giving them numbers.
+
+00:08:40.520 --> 00:08:41.340
+And I thought that was crazy.
+
+00:08:41.460 --> 00:08:44.620
+I was like, Whoa, I haven't thought about this in 10, 15 years.
+
+00:08:44.900 --> 00:08:46.420
+Yeah. I, my experience
+
+00:08:46.420 --> 00:08:49.160
+was closer to that second experience.
+
+00:08:49.160 --> 00:08:53.500
+You said, Mike, where we did have like a Casio keyboard that had
+
+00:08:53.500 --> 00:09:01.120
+like 99 pre-programmed songs with different, uh, with different MIDI effects or whatever kind of
+
+00:09:02.540 --> 00:09:06.520
+like tint, sorry, canned synth effects in there.
+
+00:09:06.700 --> 00:09:12.240
+And it also had, um, different layers of like
+
+00:09:12.240 --> 00:09:18.920
+tutorial where you could just play any key and it would play the song or then, then it's like you could
+
+00:09:18.920 --> 00:09:24.460
+play any key, uh, then you could play the key, but it would wait for you to continue the song.
+
+00:09:24.600 --> 00:09:29.140
+And then it would just keep going where the song is playing with, with, or without you.
+
+00:09:29.240 --> 00:09:31.040
+Uh, and you have to actually
+
+00:09:31.040 --> 00:09:33.400
+be good at playing the piano to keep up.
+
+00:09:33.940 --> 00:09:38.060
+So stuff like that is what I'm used to, but, and so it's
+
+00:09:38.060 --> 00:09:43.940
+good to hear that this miracle piano actually comes with tools that let you learn.
+
+00:09:44.080 --> 00:09:49.460
+And while we've mentioned that it's not a game, it's a teaching system, there are some mini games, but we'll get
+
+00:09:49.460 --> 00:09:55.540
+to them later. Um, that, you know, cross the line into video game, but this is kind of a weird thing
+
+00:09:55.540 --> 00:09:56.380
+for us to cover.
+
+00:09:56.480 --> 00:10:00.240
+We are out of our element as we all just described our piano experiences and stuff.
+
+00:10:00.240 --> 00:10:06.420
+So this is not going to be the episode where we try to, uh, explain how to play piano or,
+
+00:10:06.420 --> 00:10:09.500
+uh, really get into depth on any of that.
+
+00:10:09.520 --> 00:10:11.620
+We're going to talk about it, you know, as much as the
+
+00:10:11.620 --> 00:10:12.460
+game covers it.
+
+00:10:12.680 --> 00:10:17.420
+But if anybody was expecting to learn or think that we learned how to play piano
+
+00:10:17.420 --> 00:10:19.320
+for this episode, you will be disappointed.
+
+00:10:19.980 --> 00:10:22.060
+By the end of this episode, you will be,
+
+00:10:22.160 --> 00:10:24.120
+you will be able to play piano.
+
+00:10:24.660 --> 00:10:26.480
+You will be able to play hot cross buns.
+
+00:10:27.040 --> 00:10:28.320
+Yeah. Listen to this in
+
+00:10:28.320 --> 00:10:32.000
+your sleep for a month and you'll be able to play piano.
+
+00:10:33.180 --> 00:10:35.440
+Oddly, this was not labeled as part of
+
+00:10:35.440 --> 00:10:37.060
+Nintendo's education line.
+
+00:10:37.220 --> 00:10:39.460
+The, you know, the thing that only had Donkey Kong Jr.
+
+00:10:39.640 --> 00:10:41.080
+math and nothing else.
+
+00:10:41.400 --> 00:10:44.660
+Um, they, they just abandoned labeling those games altogether, right?
+
+00:10:44.680 --> 00:10:45.820
+Those were just the black box
+
+00:10:45.820 --> 00:10:46.980
+games that got labels.
+
+00:10:47.160 --> 00:10:50.620
+It's no, no longer do we hear like, this is part of the action series.
+
+00:10:50.620 --> 00:10:52.480
+And this is part of the zapper series.
+
+00:10:53.020 --> 00:10:55.440
+I mean, I think the world's a better place for it.
+
+00:10:55.920 --> 00:10:58.580
+Yeah. You can't categorize your life like that.
+
+00:10:58.720 --> 00:11:01.040
+Exactly. That leads to, uh,
+
+00:11:02.940 --> 00:11:03.820
+mental asphyxiation.
+
+00:11:04.120 --> 00:11:06.760
+And even though we're not going to teach you how to play piano,
+
+00:11:07.800 --> 00:11:13.340
+my understanding by all accounts of, you know, people who have had this thing for many years
+
+00:11:13.340 --> 00:11:18.180
+and, um, people who have played it on YouTube to show how it works and stuff like that.
+
+00:11:18.360 --> 00:11:22.460
+And the, probably the most famous example of the miracle piano is, uh, the speed runner,
+
+00:11:22.700 --> 00:11:28.620
+the Mexican runner who completed every NES game ever actually completed and pretty much learned
+
+00:11:28.620 --> 00:11:33.920
+the piano in order to do so completed all the lessons in miracle piano as part of his like
+
+00:11:34.480 --> 00:11:36.160
+objective to beat every NES game.
+
+00:11:36.640 --> 00:11:38.200
+This isn't guitar hero.
+
+00:11:38.420 --> 00:11:39.500
+This isn't like making,
+
+00:11:40.020 --> 00:11:45.160
+you know, like fun ways to like see the notes and then hit the right keys at the right time and just
+
+00:11:45.160 --> 00:11:49.880
+learn gimmicks. This is an actual teaching system that wasn't just on the NES.
+
+00:11:50.040 --> 00:11:50.920
+The miracle piano was a
+
+00:11:50.920 --> 00:11:57.620
+whole line of things for computers, for other consoles, uh, you know, and the way it works under the hood
+
+00:11:57.620 --> 00:11:58.580
+is actually pretty cool.
+
+00:11:58.600 --> 00:12:02.320
+So I think like, you know, it's just different than we've ever talked about
+
+00:12:02.320 --> 00:12:07.240
+before, because I, I, I don't know if you guys were even thinking guitar hero or rhythm game
+
+00:12:07.240 --> 00:12:11.860
+equivalent, but I'd argue that, uh, you know, like I've always argued Mike Tyson's punch out is more
+
+00:12:11.860 --> 00:12:13.360
+of a rhythm game than this game.
+
+00:12:13.900 --> 00:12:18.720
+Yeah. Yeah. I mean, when I first, uh, watched any content from
+
+00:12:18.720 --> 00:12:25.500
+this game, all, I, all thoughts of guitar hero were pretty quickly out of my head because I mean,
+
+00:12:25.540 --> 00:12:28.520
+so I watched like the main thing I watched, I watched a couple of different things, but the main
+
+00:12:28.520 --> 00:12:30.260
+thing I watched was the Mexican runner stream.
+
+00:12:30.860 --> 00:12:34.660
+And, um, it is actually pretty remarkable to see him
+
+00:12:34.660 --> 00:12:39.740
+start. And I mean, it doesn't seem like he has any, uh, knowledge of playing piano.
+
+00:12:39.980 --> 00:12:41.420
+And at the end,
+
+00:12:41.580 --> 00:12:47.300
+like he's not a, you know, he's not going to be like at some like grand piano recital or anything,
+
+00:12:47.400 --> 00:12:50.100
+but like the guy, it, it sounds like he's playing the piano.
+
+00:12:50.480 --> 00:12:52.060
+Like it actually kind of blows my mind.
+
+00:12:52.140 --> 00:12:56.600
+So like when you watch the regional thing, like they are like little, you know, I would equate them
+
+00:12:56.600 --> 00:12:59.440
+to like online lessons or something.
+
+00:12:59.600 --> 00:13:03.240
+I, it feels like that. I'm curious, um, how you felt actually with
+
+00:13:03.240 --> 00:13:07.220
+the software Mike, but if you felt like you were learning anything.
+
+00:13:08.200 --> 00:13:09.200
+Yeah. Cause the,
+
+00:13:09.300 --> 00:13:16.340
+the video game component of this or the, you know, the lessons, uh, it's not just watching videos.
+
+00:13:16.340 --> 00:13:20.560
+Like I feel like some of these Casio keyboards that you would have got would have came with like
+
+00:13:20.560 --> 00:13:23.520
+an instructional DVD that you would have had to like follow along.
+
+00:13:23.840 --> 00:13:25.120
+But the fact that now you have
+
+00:13:25.120 --> 00:13:31.420
+an input that not only tells you whether you press the right or wrong key, but also the difference in
+
+00:13:31.420 --> 00:13:37.240
+timing. So, you know, if you play like, if you play a little bit off the, there's a metronome that just
+
+00:13:37.240 --> 00:13:40.820
+constantly keeps ticking, play a little bit off that, that also doesn't count.
+
+00:13:40.880 --> 00:13:43.240
+So it's not just waiting for you to hit the right notes.
+
+00:13:43.240 --> 00:13:44.340
+You have to be in time.
+
+00:13:44.500 --> 00:13:47.200
+That kind of direct feedback is what
+
+00:13:47.200 --> 00:13:51.760
+makes this probably more impressive than other ways to learn the piano.
+
+00:13:51.900 --> 00:13:53.040
+That that's gotta be the sell,
+
+00:13:53.040 --> 00:13:55.220
+right. Is that there's this interactive component.
+
+00:13:55.720 --> 00:13:58.600
+Yeah. And like sort of to bring it to a modern
+
+00:13:58.600 --> 00:14:06.300
+equivalent, this reminds me a lot of Rocksmith, which while it didn't give you, um, like this is
+
+00:14:06.300 --> 00:14:11.680
+something that I had on the PS3 back in the day, it was a fun little oddity that I sort of like my
+
+00:14:11.680 --> 00:14:14.940
+last gasp to try and continue to learn guitar.
+
+00:14:15.380 --> 00:14:20.520
+Um, but it was, uh, it was the disc and then it was a
+
+00:14:20.520 --> 00:14:30.060
+USB to a quarter inch jack and you would just plug your actual electric guitar into it.
+
+00:14:30.380 --> 00:14:39.600
+And I don't know if it was like spectrum analyzing or something, but it could tell what you, what string you were
+
+00:14:39.600 --> 00:14:44.840
+playing, what fret you were at probably just by telling like the actual note you were playing.
+
+00:14:44.840 --> 00:14:54.500
+Um, and it would have like a guitar hero ask like fret, but it was an actual, like, this is the actual
+
+00:14:54.500 --> 00:15:00.860
+music you're supposed to be playing, not this rhythm game, uh, input button.
+
+00:15:01.460 --> 00:15:05.020
+Um, so it, it also had a lot
+
+00:15:05.020 --> 00:15:09.300
+of like teaching mechanisms, not so much game stuff.
+
+00:15:09.400 --> 00:15:12.860
+So that's like how it, that's what it sounds like to
+
+00:15:12.860 --> 00:15:14.200
+me, at least for piano.
+
+00:15:14.580 --> 00:15:16.920
+And you, you're saying any guitar would have worked.
+
+00:15:17.000 --> 00:15:18.680
+You didn't have to buy like Rocksmith's guitar.
+
+00:15:18.880 --> 00:15:20.520
+No, any electric guitar.
+
+00:15:21.000 --> 00:15:22.160
+That's amazing. Yeah.
+
+00:15:22.280 --> 00:15:23.080
+That's like, that's what I
+
+00:15:23.080 --> 00:15:27.040
+feel like was missing here was either, either one of the other things should have happened either,
+
+00:15:27.660 --> 00:15:32.980
+you know, the miracle piano should have been the software and you could have plugged in via the
+
+00:15:32.980 --> 00:15:39.920
+power of a MIDI to NES controller, like plug in any keyboard of your choosing, or it could have had
+
+00:15:39.920 --> 00:15:41.880
+the NES controller like built into it.
+
+00:15:42.120 --> 00:15:45.100
+And then you could have a lot of fun playing other, like,
+
+00:15:45.140 --> 00:15:47.600
+you know, trying to beat Mega Man on your miracle piano.
+
+00:15:48.620 --> 00:15:51.440
+Yeah. I guess what, what, what, from what
+
+00:15:51.440 --> 00:15:57.700
+you're describing and what I've seen in videos from the game or videos of people playing the game,
+
+00:15:57.880 --> 00:16:03.580
+uh, is that there's a lot more information coming to and from the keyboard.
+
+00:16:03.580 --> 00:16:07.020
+Like the audio of the game
+
+00:16:07.020 --> 00:16:08.560
+itself comes from the keyboard.
+
+00:16:08.820 --> 00:16:10.120
+Like nothing comes from the TV, right?
+
+00:16:10.900 --> 00:16:12.780
+Right. Not, well, the metronome
+
+00:16:12.780 --> 00:16:13.720
+comes from the TV.
+
+00:16:13.880 --> 00:16:17.200
+So that it's an interesting distinction to like just pop that out.
+
+00:16:17.200 --> 00:16:21.540
+But yes, the metronome comes from the TV and everything else comes out of the keyboard.
+
+00:16:21.540 --> 00:16:22.640
+So it's not just
+
+00:16:22.640 --> 00:16:23.980
+the keys that you're pressing.
+
+00:16:24.200 --> 00:16:28.580
+It's actually like menu music also comes out of the, uh, speakers on
+
+00:16:28.580 --> 00:16:33.980
+your keyboard. So it's like, I don't, I'm not sure why, um, they make that distinguish, but yeah,
+
+00:16:33.980 --> 00:16:39.880
+it is nice to have the metronome not be like interrupted as you're playing keyboard sounds
+
+00:16:39.880 --> 00:16:41.360
+because you're using that to keep time.
+
+00:16:42.020 --> 00:16:45.680
+Yeah. I mean, I think it's a, it sort of calls back to,
+
+00:16:45.820 --> 00:16:48.520
+you know, you wouldn't have the metronome right in your ear.
+
+00:16:48.540 --> 00:16:50.660
+It would be somewhere in the room,
+
+00:16:50.740 --> 00:16:51.880
+but not right there.
+
+00:16:52.080 --> 00:16:53.420
+Right. I don't know.
+
+00:16:53.660 --> 00:16:58.380
+But on that, on that Casio keyboard, or I don't know what I had, I don't think I had a Casio,
+
+00:16:58.480 --> 00:17:02.460
+but like on that keyboard you were talking about, um, and the one that I had that lit up the red
+
+00:17:02.460 --> 00:17:07.680
+lights to show which keys to press that one, the metronome was also on the speakers.
+
+00:17:07.900 --> 00:17:08.920
+So you would run into that problem.
+
+00:17:09.060 --> 00:17:13.300
+Yeah. That, I mean, that's more so out of necessity because Casio or whoever
+
+00:17:13.300 --> 00:17:16.260
+isn't just going to make another plugin of like, okay.
+
+00:17:16.300 --> 00:17:18.560
+And then the, the clicks will come out over
+
+00:17:18.560 --> 00:17:23.440
+here. I guess like with this game, they could have a second output.
+
+00:17:23.780 --> 00:17:25.540
+So it would make sense to
+
+00:17:25.540 --> 00:17:27.380
+put that somewhere else.
+
+00:17:27.560 --> 00:17:32.380
+I do like the idea though, that like your whole giant blocky CRT TV,
+
+00:17:32.380 --> 00:17:36.140
+in 1990 was just functioning basically as the metronome.
+
+00:17:37.040 --> 00:17:39.100
+Like, like, I guess there's also text
+
+00:17:39.100 --> 00:17:43.780
+on the screen, but, or like stuff you're seeing on the screen, but audibly the metronome.
+
+00:17:44.420 --> 00:17:46.940
+And the piano itself is pretty bulky.
+
+00:17:47.180 --> 00:17:50.120
+It's definitely not, uh, you know, the piano that I brought down
+
+00:17:50.120 --> 00:17:55.140
+to my basement and that my neighbor hit his head into, but it's just a bulky full size keyboard.
+
+00:17:55.140 --> 00:18:00.520
+It's not a, not a midsize or like, you know, just one set of keys that then you have to like toggle to get
+
+00:18:00.520 --> 00:18:01.760
+to the next octave.
+
+00:18:02.060 --> 00:18:03.420
+Uh, this is, this'll do it all.
+
+00:18:03.540 --> 00:18:06.540
+So it does require a separate power source that you
+
+00:18:06.540 --> 00:18:09.200
+have to, uh, plug both into the piano and to an outlet.
+
+00:18:09.380 --> 00:18:11.920
+And then you also have to plug, uh, the
+
+00:18:11.920 --> 00:18:16.900
+piano into the second controller port on the NES because the first controller port is your NES
+
+00:18:16.900 --> 00:18:20.920
+controller that you use to cycle through the menus and decide to take on the next lesson.
+
+00:18:20.920 --> 00:18:27.780
+There are six different effects for the piano and, uh, you can even toggle the effects to split them
+
+00:18:27.780 --> 00:18:32.360
+on the keyboard. So like half is like synthesizer and half is organ.
+
+00:18:32.600 --> 00:18:33.580
+Thought that was pretty cool.
+
+00:18:34.160 --> 00:18:38.320
+Um, but you could also just have the whole thing be a synthesizer and the whole thing be an organ or
+
+00:18:38.320 --> 00:18:40.140
+the whole thing just be electric piano.
+
+00:18:40.580 --> 00:18:43.400
+Uh, and then there's the select button on the keyboard,
+
+00:18:43.400 --> 00:18:50.080
+which if you use that in combination with the volume key, you can get different piano sounds,
+
+00:18:50.080 --> 00:18:52.840
+like new age rock jazz.
+
+00:18:52.840 --> 00:18:57.840
+That was less cool than the, um, like synthesize, like turning your computer,
+
+00:18:58.000 --> 00:19:01.940
+your keyboard into a synthesizer, but still impressive options.
+
+00:19:02.080 --> 00:19:03.340
+And I didn't have this,
+
+00:19:03.420 --> 00:19:09.320
+but apparently there's an overlay that you can put over all these, um, these buttons and lights
+
+00:19:09.320 --> 00:19:14.260
+to explain like how to access those other things, but you can just look it up online.
+
+00:19:14.260 --> 00:19:15.480
+So it's not necessary.
+
+00:19:16.340 --> 00:19:21.100
+There was a foot pedal, but that's, that's the crazy expensive thing.
+
+00:19:21.100 --> 00:19:22.000
+And when I say
+
+00:19:22.000 --> 00:19:23.820
+foot pedal, I'm being generous.
+
+00:19:23.960 --> 00:19:25.940
+So I didn't have it, but I saw it online.
+
+00:19:26.500 --> 00:19:27.800
+Yeah. It's a little button
+
+00:19:27.800 --> 00:19:30.180
+that you push down for the pedal effect.
+
+00:19:30.280 --> 00:19:32.300
+Like you could almost like, you could hold it in your hand
+
+00:19:32.300 --> 00:19:35.960
+instead, you know, if you want to play like one handed keyboard and then just push this button or
+
+00:19:35.960 --> 00:19:36.960
+have somebody else push the button.
+
+00:19:37.080 --> 00:19:39.620
+Honestly, like it's weird that it's like, it's actually just a
+
+00:19:39.620 --> 00:19:48.160
+clicker. Yeah. I feel like the, from what I've seen, uh, the fragile construction and just how
+
+00:19:48.160 --> 00:19:54.000
+little of, like, if you're going to be wearing shoes and you're going to use this thing, you
+
+00:19:54.000 --> 00:19:58.480
+probably are going to have like press the button down without even realizing it.
+
+00:19:58.560 --> 00:19:59.400
+You might crush it.
+
+00:19:59.520 --> 00:20:02.580
+I'm pretty sure a lot of these just didn't survive the first user.
+
+00:20:02.820 --> 00:20:04.100
+Yeah. And I think that's got to be,
+
+00:20:04.100 --> 00:20:10.060
+or, or it's just so small that it went missing, you know, or, you know, who, who can say, but that
+
+00:20:10.060 --> 00:20:16.660
+is the, um, as one of our Patreon members said, that is like the Holy grail of this thing that like,
+
+00:20:17.340 --> 00:20:22.320
+that's what, that's what brings this thing back to its $500 price tag is if you had the foot pedal.
+
+00:20:24.000 --> 00:20:25.840
+What did, what prices are the foot pedal?
+
+00:20:26.020 --> 00:20:29.660
+Did you see? Well, the thing is like when you see complete, right.
+
+00:20:29.840 --> 00:20:32.640
+With like a nice box and the piano and the
+
+00:20:32.640 --> 00:20:37.460
+foot pedal and the controller and every, uh, cartridge that is like some people are, you
+
+00:20:37.460 --> 00:20:38.760
+know, buy it now, 1500.
+
+00:20:39.060 --> 00:20:40.180
+That doesn't mean they're going to get it.
+
+00:20:40.380 --> 00:20:41.520
+You know, that doesn't, you know,
+
+00:20:41.540 --> 00:20:43.440
+they're just putting buy it now's at those prices.
+
+00:20:43.680 --> 00:20:45.660
+I didn't see one go for auction.
+
+00:20:45.880 --> 00:20:50.420
+I don't know if I would have even toyed with it because spoiler alert, I didn't learn the piano here.
+
+00:20:50.560 --> 00:20:51.540
+I never got to the
+
+00:20:51.540 --> 00:20:53.820
+foot pedal lessons. So it's not like it matters.
+
+00:20:54.220 --> 00:20:57.000
+Um, but like, Oh, so there are actual lessons.
+
+00:20:57.180 --> 00:20:58.000
+Oh, it's required. Yeah.
+
+00:20:58.000 --> 00:21:00.380
+Yeah. Oh, okay.
+
+00:21:00.560 --> 00:21:03.140
+Well then that's a, that, that sucks.
+
+00:21:03.440 --> 00:21:04.780
+Yeah. It does suck.
+
+00:21:04.900 --> 00:21:08.760
+But again, you know, we're just, it's like Duolingo, right?
+
+00:21:08.820 --> 00:21:12.260
+When you join it, you don't think about beating Duolingo, right?
+
+00:21:12.360 --> 00:21:13.560
+Like you don't think about like, Oh, I can't wait to
+
+00:21:13.560 --> 00:21:18.240
+get to that very end of the scroll and learn the most complicated words in that language.
+
+00:21:18.240 --> 00:21:21.940
+Like most people just stop after like the fourth series of lessons.
+
+00:21:22.960 --> 00:21:26.900
+Right. But, but I guess I'm curious, like, yeah, you're, if you're trying to be like a
+
+00:21:27.560 --> 00:21:31.240
+completionist and, and beat the game, then that sucks because you can't, but can you just like
+
+00:21:31.240 --> 00:21:36.400
+skip the foot pedal lesson or is it like, okay, from now on in order to pass these lessons,
+
+00:21:36.500 --> 00:21:40.560
+you're going to need to be using the foot pedal or in order to like not pass these lessons,
+
+00:21:40.600 --> 00:21:42.260
+but even get anything out of these lessons.
+
+00:21:42.640 --> 00:21:45.220
+Right, right. You need the foot pedal to achieve the effects.
+
+00:21:45.580 --> 00:21:46.900
+Does that make sense? Right.
+
+00:21:47.460 --> 00:21:51.900
+Yeah. Yeah. But I, you know, so I'm assuming it'll like not, it'll like say nope,
+
+00:21:52.100 --> 00:21:53.380
+wrong, like you failed or whatever.
+
+00:21:53.380 --> 00:21:55.380
+If you're not using the foot pedal and you're not going to get
+
+00:21:55.380 --> 00:21:56.200
+anything out of the lesson.
+
+00:21:56.400 --> 00:22:01.100
+Yeah. The nicest it might be to you is just like, you know, say that you messed up a little bit,
+
+00:22:01.180 --> 00:22:03.220
+like, because it's not just pass or fail.
+
+00:22:03.380 --> 00:22:06.660
+It does tell you like, if you played it perfectly or if you
+
+00:22:06.660 --> 00:22:10.120
+played it really poorly, but it also tells you like, you know, not bad.
+
+00:22:10.280 --> 00:22:12.240
+Like, so, so there's a spectrum
+
+00:22:12.240 --> 00:22:18.160
+of things. So at best you would get like a not bad for not using the foot pedal, but on, you know,
+
+00:22:18.240 --> 00:22:22.140
+on the later songs that it's teaching you and the later techniques it's teaching you pretty much
+
+00:22:22.140 --> 00:22:23.200
+required. Right.
+
+00:22:23.360 --> 00:22:29.600
+And so another question, uh, it's because it's not this like, um, you know, not really supposed
+
+00:22:29.600 --> 00:22:30.740
+to be a gaming experience.
+
+00:22:30.940 --> 00:22:34.020
+Can you just choose any lesson or do you have to go like progressively,
+
+00:22:34.360 --> 00:22:36.180
+like you have to unlock each lesson?
+
+00:22:36.180 --> 00:22:42.740
+Yeah. So when you start the game, you actually get to choose not only what section of lessons you
+
+00:22:42.740 --> 00:22:49.360
+want to join from, uh, I think one to 36, you also choose whether you're a child or an adult.
+
+00:22:49.700 --> 00:22:55.260
+And that, um, you know, changes like, I guess what they think, you know, about the piano.
+
+00:22:55.500 --> 00:22:58.540
+I chose child thinking that that's the beginning lessons.
+
+00:22:58.800 --> 00:23:01.160
+So the way it teaches you on the screen
+
+00:23:01.160 --> 00:23:06.700
+is that it shows the, it shows the keyboard and then it puts a bunch of numbers on the keys.
+
+00:23:06.880 --> 00:23:12.440
+So rather than saying E flat, it just gives you, you know, this is number two and the key next to
+
+00:23:12.440 --> 00:23:17.660
+it is number three. And there's a bunch of numbers on screen, like a floating above the keyboard that
+
+00:23:17.660 --> 00:23:20.940
+you have to press in order, um, that, you know, that represent those.
+
+00:23:21.100 --> 00:23:22.160
+So first it starts it off,
+
+00:23:22.200 --> 00:23:28.320
+just press the one, which is your thumb in this case, then two, three, four, five, four, three,
+
+00:23:28.320 --> 00:23:34.380
+two, one. And it waits for you to like push those buttons and you, you know, it's, it's just neat
+
+00:23:34.380 --> 00:23:37.740
+to see that it's recognizing your keyboard with the NES.
+
+00:23:38.260 --> 00:23:40.580
+But that's like that, you know, that is just
+
+00:23:40.580 --> 00:23:41.860
+the first thing that it tells you.
+
+00:23:41.960 --> 00:23:45.020
+Then it says like, all right, well now do it, you know, in time.
+
+00:23:45.020 --> 00:23:46.800
+And then you do it with the metronome.
+
+00:23:47.140 --> 00:23:49.040
+Then it's like, all right, well now we're going to speed that
+
+00:23:49.040 --> 00:23:52.340
+up. And you keep, you know, you just keep slowly learning information.
+
+00:23:52.840 --> 00:23:54.400
+I use Duolingo as like a
+
+00:23:54.400 --> 00:23:58.200
+reference earlier, but this thing, honestly, it teaches you way more efficiently than Duolingo
+
+00:23:58.200 --> 00:24:02.460
+does. I would think it's strange for lesson, a language lesson learning when they're like,
+
+00:24:02.540 --> 00:24:07.180
+the first thing you need to know is like this particular animal and how to say like mother.
+
+00:24:07.420 --> 00:24:12.700
+And it's like, I'm just trying to go abroad and understand like the, you know, just the general
+
+00:24:12.700 --> 00:24:13.700
+phrases that I need to know.
+
+00:24:13.780 --> 00:24:16.620
+And you think I need to understand how to say owl in French.
+
+00:24:18.300 --> 00:24:19.800
+I'm never going to say that to anybody.
+
+00:24:21.060 --> 00:24:23.560
+I don't know. I can't really respect this game.
+
+00:24:23.560 --> 00:24:30.220
+If, if, if you're going through your scales and get to like actual music that quickly,
+
+00:24:30.220 --> 00:24:36.300
+because from what I've been told, uh, music lessons and piano lessons, especially have to
+
+00:24:36.300 --> 00:24:38.540
+be scales for like at least the first year.
+
+00:24:38.760 --> 00:24:41.000
+Yeah. You're playing a song by like lesson four.
+
+00:24:41.000 --> 00:24:44.580
+I think, I think they give you ode to joy, um, as your first song.
+
+00:24:44.780 --> 00:24:46.760
+Oh, the, the get the drink milk song.
+
+00:24:46.760 --> 00:24:48.300
+Yeah. What's the drink?
+
+00:24:48.420 --> 00:24:50.480
+Is that, is that, is that what you call it?
+
+00:24:51.580 --> 00:24:52.960
+Drink milk, love life.
+
+00:24:53.560 --> 00:24:54.700
+Yeah. Yeah.
+
+00:24:54.700 --> 00:24:56.520
+Yeah. Yeah. We, we, we might get demodized.
+
+00:24:56.540 --> 00:24:58.380
+Yeah. Absolutely. But, oh, I didn't know.
+
+00:24:58.480 --> 00:25:00.240
+I didn't, I don't know that. I don't know that reference.
+
+00:25:00.720 --> 00:25:03.300
+Wow. Okay. The drink milk song?
+
+00:25:03.300 --> 00:25:04.400
+Yeah. Western New York stuff. Crazy.
+
+00:25:05.000 --> 00:25:06.600
+West. No, no, no.
+
+00:25:06.760 --> 00:25:08.080
+Not Western New York stuff.
+
+00:25:08.980 --> 00:25:10.320
+Everybody knows it except for you.
+
+00:25:10.320 --> 00:25:16.280
+Well, to get back to the teaching, um, it's not, it also teaches you which fingers to use for each
+
+00:25:16.280 --> 00:25:19.740
+key. So you're not just doing the hunting and pecking with your index fingers.
+
+00:25:19.900 --> 00:25:24.560
+Like some people do for keyboards, uh, mechanical keyboards, like you type on a computer.
+
+00:25:24.940 --> 00:25:27.500
+Um, and then, you know,
+
+00:25:27.560 --> 00:25:28.420
+it evolves from there.
+
+00:25:28.520 --> 00:25:30.740
+So like we were saying, you, you start to learn songs and stuff like that,
+
+00:25:30.800 --> 00:25:32.360
+but you also have to learn chords, you know?
+
+00:25:32.500 --> 00:25:34.760
+So imagine the system starting with the numbers,
+
+00:25:34.980 --> 00:25:37.460
+then it flips the number system into the letter system.
+
+00:25:37.460 --> 00:25:39.700
+So you learn that, Hey, that key that was number two
+
+00:25:39.700 --> 00:25:42.240
+is now that's actually E flat, you know?
+
+00:25:42.400 --> 00:25:45.160
+And then it starts showing you sheet music with the numbers
+
+00:25:45.160 --> 00:25:49.360
+next to the notes. So, you know, Oh, Hey, that number was that key, which is now what that note
+
+00:25:49.360 --> 00:25:50.360
+looks like on a sheet.
+
+00:25:50.960 --> 00:25:53.280
+And then, you know, you could see where it goes from there.
+
+00:25:53.460 --> 00:25:57.360
+It literally starts teaching you the nuances of playing the piano and reading sheet music.
+
+00:25:57.360 --> 00:25:58.860
+There are eventually
+
+00:25:58.860 --> 00:26:02.100
+not lessons I got to, but there would be different time signatures.
+
+00:26:02.340 --> 00:26:03.720
+There would be the understanding
+
+00:26:03.720 --> 00:26:06.820
+of the quarter note and an eighth note, um, rest notes, right?
+
+00:26:06.920 --> 00:26:08.620
+Like actually counting your own
+
+00:26:08.620 --> 00:26:09.820
+rhythm instead of the metronome.
+
+00:26:10.000 --> 00:26:13.900
+Like it's, it's pretty damn advanced, but to Sean's point,
+
+00:26:14.060 --> 00:26:16.560
+I felt like it got there pretty fast too.
+
+00:26:17.060 --> 00:26:18.380
+You were, you know, you were saying like,
+
+00:26:18.480 --> 00:26:19.860
+you need to know scales for a while.
+
+00:26:20.040 --> 00:26:22.440
+Like I felt like I needed a lot more before I was,
+
+00:26:22.440 --> 00:26:24.020
+uh, thrown into it.
+
+00:26:24.240 --> 00:26:29.280
+Yeah. I mean, I wish I could remember how to play, uh, how to read sheet music.
+
+00:26:29.280 --> 00:26:34.620
+And it sounds like you got to this point where it was somewhat legible pretty quickly.
+
+00:26:35.160 --> 00:26:42.640
+Um, so do you think like, maybe you can't read it, read it, but like, do you have like an idea of it
+
+00:26:42.640 --> 00:26:49.380
+right now? Sure. But I would, I would say that I did band for like, um, probably at least, at least
+
+00:26:49.380 --> 00:26:53.560
+eight years in, in school, uh, elementary school through high school.
+
+00:26:53.940 --> 00:26:55.720
+So, you know, I knew I actually
+
+00:26:55.720 --> 00:27:00.780
+played trombone. So it was a different, instead of the like, um, I forget what it's called, but
+
+00:27:00.780 --> 00:27:04.580
+whatever that clef is that starts the sheet, mine's the bass.
+
+00:27:04.980 --> 00:27:06.020
+Yeah. So mine was the, yeah,
+
+00:27:06.220 --> 00:27:08.180
+mine was the bass, um, clef.
+
+00:27:08.300 --> 00:27:10.380
+So, or I don't even, clef is the right word.
+
+00:27:10.520 --> 00:27:11.400
+So this is how bad I am with
+
+00:27:11.400 --> 00:27:15.960
+music, but basically my notes didn't translate exactly.
+
+00:27:15.960 --> 00:27:18.580
+So what was a for me wasn't a for the
+
+00:27:18.580 --> 00:27:23.380
+piano. So it actually took a little bit of like rewiring and maybe confused me a little more.
+
+00:27:23.380 --> 00:27:28.620
+So I just literally started remembering the numbers more than anything, which is probably not the way that
+
+00:27:28.620 --> 00:27:29.440
+they want you to know the piano.
+
+00:27:29.540 --> 00:27:31.960
+Probably why I didn't progress that fast, but I already had an
+
+00:27:31.960 --> 00:27:33.720
+idea of like how sheet music worked.
+
+00:27:33.840 --> 00:27:37.820
+It doesn't quite get into the nuances of that in the game.
+
+00:27:38.660 --> 00:27:46.000
+Well, speaking of like band lessons and stuff, I mean, I, I wonder if this is a tool best used
+
+00:27:46.000 --> 00:27:51.240
+as like homework for your actual in-person music lessons.
+
+00:27:51.300 --> 00:27:52.180
+Like, I feel like that's,
+
+00:27:52.180 --> 00:27:58.680
+as someone who didn't play it and also doesn't play the piano, but like, it feels like that would be
+
+00:27:59.300 --> 00:28:03.060
+the best combination is like, you're going to your lessons and this is how you practice,
+
+00:28:03.480 --> 00:28:06.280
+you know? So it's like, you're getting some of that in-person stuff.
+
+00:28:06.420 --> 00:28:08.600
+That's like maybe taking
+
+00:28:08.600 --> 00:28:12.480
+that time in between your first scale and suddenly ode to joy.
+
+00:28:12.840 --> 00:28:19.180
+Yeah. I'd say that this is less, uh, the, the situation that Mike described of like,
+
+00:28:19.180 --> 00:28:23.260
+you're a kid and you're like, mom, mom, I want to learn how to play piano.
+
+00:28:23.460 --> 00:28:24.940
+Spend $500 on me.
+
+00:28:25.120 --> 00:28:29.380
+This is more the mom saying you will learn to play the piano.
+
+00:28:29.380 --> 00:28:31.000
+And I know you hate going to your
+
+00:28:31.000 --> 00:28:35.880
+lessons, but we're going to make the NES another version of your piano lessons.
+
+00:28:36.140 --> 00:28:37.260
+So here it is.
+
+00:28:37.720 --> 00:28:42.980
+Yeah. We're going to take the thing you love and make you do the thing you don't want to do.
+
+00:28:43.280 --> 00:28:47.280
+And just to be clear, like, you know, there are many songs that you learn, but the ode to joy
+
+00:28:47.280 --> 00:28:51.620
+that they throw you into on like the fourth lesson or whatever, you're only playing the melody.
+
+00:28:51.780 --> 00:28:55.780
+You know, they haven't taught you, uh, the chords yet or how to even play with two hands.
+
+00:28:55.800 --> 00:28:59.660
+So it's not like, I didn't want to make it seem like all of a sudden they were like, great, now play this full
+
+00:28:59.660 --> 00:29:01.960
+song. Yeah.
+
+00:29:01.980 --> 00:29:06.220
+This is like, play that one thing from the Lincoln Park song and like fourth grade
+
+00:29:06.220 --> 00:29:07.600
+everybody tried to do.
+
+00:29:07.960 --> 00:29:10.900
+Yeah. You might work your way up to like the Rugrats team or something.
+
+00:29:11.480 --> 00:29:17.420
+And then for the mini games, um, there's, there's three mini games and they are thrown into the
+
+00:29:17.420 --> 00:29:18.540
+lessons as well.
+
+00:29:18.680 --> 00:29:23.340
+But, uh, the first one you're, it kind of reminded me of gyromite just maybe like
+
+00:29:23.340 --> 00:29:29.620
+graphically, but you're this like Rob style robot that is moving to the beat.
+
+00:29:29.620 --> 00:29:31.680
+And then there are,
+
+00:29:32.120 --> 00:29:38.740
+um, you know, the, the note is presented above his head at a certain point and you have to hit the
+
+00:29:38.740 --> 00:29:40.000
+key at the right time.
+
+00:29:40.260 --> 00:29:43.380
+And you are playing this like to a song, which is kind of nice, right?
+
+00:29:43.500 --> 00:29:49.280
+But you're, you're hitting those keys at the right time to create a bridge for the robot to continue to walk
+
+00:29:49.280 --> 00:29:53.460
+through. If, if you miss the robot will fall and then you'll lose.
+
+00:29:53.760 --> 00:29:56.140
+So that kind of like gamifying,
+
+00:29:56.160 --> 00:30:00.920
+it's like, I'm not quite sure that should maybe should have just been like its own thing entirely,
+
+00:30:00.920 --> 00:30:02.740
+not like part of the lessons.
+
+00:30:02.880 --> 00:30:05.460
+Cause I get like, in a way you're having fun and learning, right?
+
+00:30:05.540 --> 00:30:09.440
+But that just feels like it's all three of these games that we're going to do, just feel like they should
+
+00:30:09.440 --> 00:30:10.880
+just be their own thing.
+
+00:30:11.220 --> 00:30:14.980
+Oh, wow. I only saw some footage of the first one.
+
+00:30:15.160 --> 00:30:16.060
+Please describe the
+
+00:30:16.060 --> 00:30:23.560
+second. So there's a, there's a duck hunt one as well, where, um, you have the ducks populate and
+
+00:30:23.560 --> 00:30:29.220
+then they have the, um, you know, they have like the key that you need to press above them.
+
+00:30:29.400 --> 00:30:32.060
+And then you click that key and it shoots them.
+
+00:30:33.680 --> 00:30:36.480
+So again, just to, just to get with it, you know, that's not
+
+00:30:36.480 --> 00:30:38.960
+different than the robot game, right?
+
+00:30:39.100 --> 00:30:42.600
+Like they just gave you a different graphic way of understanding.
+
+00:30:42.700 --> 00:30:43.680
+It's like different sheet music.
+
+00:30:43.860 --> 00:30:45.380
+Well, isn't it kind of different?
+
+00:30:45.580 --> 00:30:46.860
+Well, one's different because
+
+00:30:46.860 --> 00:30:49.680
+the other one is kind of rhythm based and this is specific keys.
+
+00:30:49.900 --> 00:30:50.940
+No, no, no. You have to,
+
+00:30:50.980 --> 00:30:53.860
+this is like, you have to, the robot one, you still have to hit the right key though.
+
+00:30:54.000 --> 00:30:55.800
+It's not just hitting any key to the time.
+
+00:30:56.180 --> 00:30:57.580
+You have to hit the correct key.
+
+00:30:58.200 --> 00:31:00.680
+I see. I still think now what you've
+
+00:31:00.680 --> 00:31:04.740
+got like four or five inputs, maybe this is just like a slightly higher difficulty.
+
+00:31:05.080 --> 00:31:05.900
+Yes, that makes sense. Yeah.
+
+00:31:06.020 --> 00:31:07.100
+More difficult. Right.
+
+00:31:07.520 --> 00:31:10.380
+Yeah. Cause the, the, the duck hunt thing looks a lot more like
+
+00:31:10.380 --> 00:31:11.300
+a bar of music.
+
+00:31:11.580 --> 00:31:15.760
+So I feel like maybe it's like getting you a step closer to like associating it with
+
+00:31:15.760 --> 00:31:17.340
+the reading music, you know?
+
+00:31:17.440 --> 00:31:21.400
+Yeah, I, I, I guess I think Sean's more right that like each one of these
+
+00:31:21.400 --> 00:31:24.340
+games is just like increasing the skill level.
+
+00:31:24.500 --> 00:31:28.140
+So like Robo man was playing like one note at a time.
+
+00:31:28.440 --> 00:31:33.400
+The duck hunt game is more like, you know, managing all the, you know, the ducks on screen.
+
+00:31:33.400 --> 00:31:40.060
+And then the final one with the paratroopers is about pressing the correct combination of keys to make the cord
+
+00:31:40.060 --> 00:31:42.820
+to land the paratroopers onto the target.
+
+00:31:42.820 --> 00:31:45.920
+So it, it is kind of teaching you, but again, it's,
+
+00:31:45.980 --> 00:31:50.600
+it's really just the same game with like, it's almost like the, the, the Sesame street style
+
+00:31:50.600 --> 00:31:55.600
+of remember how like it presented itself as like an option menu with seven different games.
+
+00:31:55.780 --> 00:31:59.100
+But really it's just like now instead of letters, it's words.
+
+00:31:59.280 --> 00:32:00.200
+And now instead of words,
+
+00:32:00.400 --> 00:32:01.400
+it's matching words.
+
+00:32:01.540 --> 00:32:03.660
+Like it was just taking like one extra step.
+
+00:32:04.020 --> 00:32:05.440
+This one at least was nice enough
+
+00:32:05.440 --> 00:32:06.840
+to change the game at least.
+
+00:32:06.940 --> 00:32:10.020
+So it's not like it's just the robot building bridges, but this time you
+
+00:32:10.020 --> 00:32:10.960
+press cords instead.
+
+00:32:11.140 --> 00:32:14.500
+So I give them kudos for that, but it just felt like it was against the learning.
+
+00:32:14.500 --> 00:32:19.940
+I still gotta, gotta, I still gotta say though, I do think that the duck one, I mean, looking at it,
+
+00:32:20.060 --> 00:32:24.080
+it's the, the ducks are on the bar in the act where the notes are.
+
+00:32:24.180 --> 00:32:26.160
+Like I think that's what makes it like the next step.
+
+00:32:26.300 --> 00:32:27.300
+That would make sense. Yeah, no, of course you have to.
+
+00:32:27.360 --> 00:32:28.460
+Yeah. You have to do it in order.
+
+00:32:28.620 --> 00:32:29.840
+Oh, okay. From left to right.
+
+00:32:29.980 --> 00:32:34.000
+Then yeah, it's, you're doing, you're playing a melody or you're playing a bar.
+
+00:32:34.000 --> 00:32:39.600
+Yeah. And then also like with the robot one, it's just like, it's, it's just like totally,
+
+00:32:40.080 --> 00:32:46.160
+it looks to me totally isolated from anything that's like music related visually.
+
+00:32:46.520 --> 00:32:50.040
+The duck one, like it's a bar of music where the ducks are on the bar.
+
+00:32:50.180 --> 00:32:51.980
+Like, oh, this is a B plus or a B flat,
+
+00:32:52.060 --> 00:32:57.280
+a B flat because it's like where, you know, it's on the B line or whatever.
+
+00:32:57.580 --> 00:32:59.940
+And this is, this is an F note because it's on the F note.
+
+00:32:59.940 --> 00:33:01.240
+It has a triple A rating.
+
+00:33:02.300 --> 00:33:05.600
+Yeah. It's a B plus, it's a A minus.
+
+00:33:06.180 --> 00:33:07.080
+No, I like that.
+
+00:33:07.120 --> 00:33:08.780
+I give that explanation an A plus.
+
+00:33:09.660 --> 00:33:10.580
+An A flat.
+
+00:33:10.900 --> 00:33:12.140
+It fell flat.
+
+00:33:14.520 --> 00:33:16.440
+Wow. I'm right.
+
+00:33:18.400 --> 00:33:20.880
+The miracle system, right?
+
+00:33:21.000 --> 00:33:22.540
+Like not even just the NES version,
+
+00:33:22.760 --> 00:33:24.940
+but just all versions of the miracle system.
+
+00:33:25.280 --> 00:33:27.780
+Apparently it was a commercial flop because
+
+00:33:28.500 --> 00:33:37.420
+they wanted anywhere from 300 to $419, which is the equivalent of 500 to $800 today.
+
+00:33:38.620 --> 00:33:42.440
+Depending on which, like which console you bought it for computer you bought it for,
+
+00:33:43.320 --> 00:33:46.000
+you know, I think they were asking way too much, right?
+
+00:33:46.320 --> 00:33:47.140
+That's why I was saying like,
+
+00:33:47.160 --> 00:33:50.420
+I'm kind of surprised they didn't just like shrink this down to like half a keyboard
+
+00:33:50.960 --> 00:33:56.440
+to get this thing rolling because that's a large, like the NES, I don't even think was that expensive.
+
+00:33:57.220 --> 00:34:01.880
+$299? Wasn't it like 200 and you also got a zapper and duck hunt?
+
+00:34:02.060 --> 00:34:03.300
+Like that's crazy that like,
+
+00:34:03.440 --> 00:34:04.780
+you'd have to convince people to.
+
+00:34:04.860 --> 00:34:05.760
+I mean, can you use it?
+
+00:34:06.600 --> 00:34:08.560
+Can you use it unplugged from the NES?
+
+00:34:08.820 --> 00:34:12.220
+Like, is it a working keyboard outside of the game?
+
+00:34:12.340 --> 00:34:14.120
+You know, that's the one thing I didn't, I wish I would have tried that.
+
+00:34:14.120 --> 00:34:15.700
+I'm sure it would work, right?
+
+00:34:15.780 --> 00:34:20.420
+Because it has its own power source and the sound is coming out of that.
+
+00:34:20.720 --> 00:34:22.260
+So that makes sense. Yeah.
+
+00:34:22.880 --> 00:34:26.520
+That would make sense to me to be expensive if you're also getting
+
+00:34:26.520 --> 00:34:28.940
+a functional standalone keyboard.
+
+00:34:29.300 --> 00:34:32.800
+Right. That's what I didn't consider, but I guess I'm just, and sorry for cutting you off there, Joe,
+
+00:34:32.880 --> 00:34:38.260
+but I guess what I'm getting at is like, you know, for this thing to work as a commercial success,
+
+00:34:38.800 --> 00:34:42.740
+you kind of just wish that they produced a cheaper accessory, right?
+
+00:34:42.820 --> 00:34:44.040
+Like people were used to paying,
+
+00:34:44.860 --> 00:34:47.960
+you know, the console should have been the most expensive thing.
+
+00:34:48.020 --> 00:34:48.840
+So you kind of have to at
+
+00:34:48.840 --> 00:34:51.220
+least come in under the console price, right?
+
+00:34:51.600 --> 00:34:54.140
+Yeah. It would be nice if there was like a cheap,
+
+00:34:54.140 --> 00:34:59.120
+I'm thinking of like a piano that you would get like a toddler version that comes with the NES,
+
+00:34:59.240 --> 00:35:06.520
+that comes with the game or the option to buy like the advanced actual keyboard for $500 or whatever it
+
+00:35:06.520 --> 00:35:07.860
+was. Yeah.
+
+00:35:08.060 --> 00:35:13.740
+I mean, and also like even in modern parallels, like you can build a computer for $800
+
+00:35:13.740 --> 00:35:18.640
+and then buy a $1,200 VR headset or something like that.
+
+00:35:18.720 --> 00:35:22.300
+I mean, it's not on, it's not completely.
+
+00:35:22.760 --> 00:35:24.620
+Yeah. And that's, but that's true, Sean.
+
+00:35:24.760 --> 00:35:27.600
+And also though, VR headsets while not being like,
+
+00:35:27.880 --> 00:35:32.780
+you know, gigantic profitable enterprises aren't commercial failures either.
+
+00:35:32.920 --> 00:35:39.940
+Right? Like the valve index by all things that I've read, isn't like valve is now struggling to make a profit off of
+
+00:35:39.940 --> 00:35:45.940
+it. No, I mean, I think their business model makes it so that they're somewhat profitable and they sell
+
+00:35:45.940 --> 00:35:47.180
+out. Right.
+
+00:35:47.280 --> 00:35:54.560
+So I guess I, I, I think like Miracle Piano shot, uh, you know, they, they, they dream too
+
+00:35:54.560 --> 00:35:56.660
+big for, for starting off.
+
+00:35:56.820 --> 00:36:01.660
+And it's why we didn't see a lot of this with other instruments or even just
+
+00:36:01.660 --> 00:36:02.960
+like other crafts.
+
+00:36:03.080 --> 00:36:07.880
+Like, I feel like it is cool that the video game, especially back then, it was
+
+00:36:07.880 --> 00:36:14.440
+probably even cooler that the video game is the teacher and is able to actually explain to you,
+
+00:36:14.560 --> 00:36:16.840
+like what you did right or wrong.
+
+00:36:16.960 --> 00:36:19.640
+Like that was maybe the one thing I should have talked more about
+
+00:36:19.640 --> 00:36:24.600
+is that it is cool that timing matters, not just pass fail.
+
+00:36:24.920 --> 00:36:26.900
+And that that's something you can't get
+
+00:36:26.900 --> 00:36:29.820
+off of a instructional YouTube video.
+
+00:36:29.980 --> 00:36:32.180
+Like there's no feedback there between you and the person you're
+
+00:36:32.180 --> 00:36:36.620
+watching. You're definitely going to get that on a DVD back in the day, but even the keyboard I had,
+
+00:36:36.620 --> 00:36:43.320
+it was just like, it, it was either the keys, the, the glowing red keys kept moving along to the next
+
+00:36:43.320 --> 00:36:47.280
+set of keys that you had to press, or you could set it to this way.
+
+00:36:47.380 --> 00:36:48.380
+It would wait. And the song
+
+00:36:48.380 --> 00:36:51.000
+would just stop completely until you pressed those keys.
+
+00:36:51.200 --> 00:36:52.960
+And neither one of those is really teaching
+
+00:36:52.960 --> 00:36:54.000
+you anything either.
+
+00:36:54.480 --> 00:36:57.460
+This is the first one that I feel like it's actually saying like, you know,
+
+00:36:57.680 --> 00:36:59.960
+yeah, you are, you are, you're getting it.
+
+00:37:00.060 --> 00:37:01.120
+Like try that again.
+
+00:37:03.100 --> 00:37:05.180
+So it'll give you like a statistical feedback.
+
+00:37:05.780 --> 00:37:07.800
+No, I wish it would have actually said like you hit
+
+00:37:07.800 --> 00:37:08.740
+80% of the notes.
+
+00:37:08.840 --> 00:37:11.240
+Like I do think it should have incorporated some of that stuff.
+
+00:37:11.520 --> 00:37:18.680
+Um, and, and it does kind of only give you a pass fail reading while it's actually playing, uh, the song
+
+00:37:18.680 --> 00:37:20.020
+that you're playing back to it.
+
+00:37:20.020 --> 00:37:23.520
+It only gives you that, but it, it, the actual, you know, when it goes
+
+00:37:23.520 --> 00:37:28.820
+to the green chalkboard screen, like that is customized to based on how you played.
+
+00:37:29.260 --> 00:37:33.980
+Got it. I mean, plus just the fact that there's literal like instant feedback while you're playing,
+
+00:37:34.220 --> 00:37:37.120
+even if it's not feedback, like it telling you what you're doing right or wrong.
+
+00:37:37.220 --> 00:37:40.160
+I mean, you can see on the screen what you're supposed to be doing and you can hear that you're doing it
+
+00:37:40.160 --> 00:37:42.600
+wrong. You can hear that you missed this note in real time.
+
+00:37:42.600 --> 00:37:43.420
+You can hear that you're not,
+
+00:37:43.480 --> 00:37:46.480
+you're not in time, you know, a sheet of music.
+
+00:37:46.900 --> 00:37:48.080
+You can't do that unless someone,
+
+00:37:48.200 --> 00:37:50.860
+you have a metronome or someone else is there telling you, Hey, that, that was out of,
+
+00:37:50.900 --> 00:37:52.440
+out of time or you missed that or whatever.
+
+00:37:52.540 --> 00:37:54.920
+Like this is a lot more precise in that way.
+
+00:37:54.920 --> 00:38:00.800
+Right. So I want to know like, where's my NES cross stitching game where, you know, like
+
+00:38:00.800 --> 00:38:07.280
+where's my NES basketball game where, you know, it teaches me how to shoot my shot better because
+
+00:38:07.280 --> 00:38:09.000
+that's one thing I cannot do with a basketball.
+
+00:38:09.260 --> 00:38:10.420
+I always shoot like left.
+
+00:38:10.600 --> 00:38:16.600
+I don't know how that's possible, but I, if I line myself up just a little right to the net, I know I'll have a better shot.
+
+00:38:16.660 --> 00:38:19.560
+I won't make it in every time, but I'll have a better shot because for whatever reason,
+
+00:38:19.560 --> 00:38:21.360
+my hand just throws the ball to the left.
+
+00:38:21.520 --> 00:38:24.780
+These are things that like after seeing the miracle piano,
+
+00:38:24.980 --> 00:38:29.100
+I just wonder like what other crafts, not even musical instruments, what other crafts could they
+
+00:38:29.100 --> 00:38:32.160
+have included to teach you using the power of video games?
+
+00:38:32.200 --> 00:38:33.780
+I really don't know what's even
+
+00:38:33.780 --> 00:38:35.680
+possible aside from music.
+
+00:38:35.920 --> 00:38:42.860
+I think music is input output, like digital enough that it can be
+
+00:38:42.860 --> 00:38:44.000
+Hey, the game boy had that sewing machine.
+
+00:38:45.160 --> 00:38:46.060
+Okay. Yeah.
+
+00:38:47.580 --> 00:38:49.420
+You got me, but you're right.
+
+00:38:49.420 --> 00:38:52.880
+No, it's true. Even like, you know, the Wii had an opportunity, right?
+
+00:38:52.980 --> 00:38:54.820
+To maybe get people's
+
+00:38:54.820 --> 00:38:57.040
+golf better, but it didn't, right?
+
+00:38:57.160 --> 00:38:59.340
+Instead, it just treated the Wiimote as something you swing,
+
+00:38:59.360 --> 00:39:01.980
+but it could have taught you like how you're swinging, right?
+
+00:39:03.100 --> 00:39:07.000
+Mm-hmm. You know what I think could translate well is just typing.
+
+00:39:07.600 --> 00:39:09.180
+Oh. Just get a keyboard.
+
+00:39:09.480 --> 00:39:13.800
+Like, see, it's always got to be some sort of keyboard, but learn how to type,
+
+00:39:13.960 --> 00:39:17.640
+learn how to type that. We should make it like horror zombie themed.
+
+00:39:19.460 --> 00:39:24.140
+Well, that's what I kind of thought that, you know, when I was explaining the duck hunt game on this,
+
+00:39:24.220 --> 00:39:27.320
+I thought that that's what it sounded like was, you know, because you're shooting the ducks,
+
+00:39:27.340 --> 00:39:29.860
+it sounded like typing of the dead, but it's not.
+
+00:39:30.020 --> 00:39:35.180
+And also, Mario Teaches Typing is a game that never
+
+00:39:35.180 --> 00:39:39.900
+came to the NES, but, you know, Joe, it should have, right?
+
+00:39:39.980 --> 00:39:44.680
+They could have done it. I'm ahead of my time, except I'm actually behind my time.
+
+00:39:46.100 --> 00:39:47.840
+You're smarter than the people from yesterday.
+
+00:39:48.540 --> 00:39:49.920
+It's true. Some of them.
+
+00:39:49.920 --> 00:39:56.500
+Around 1995, the technology from the Miracle System was incorporated into what was called
+
+00:39:56.500 --> 00:40:02.080
+the Piano Discovery System, which did not get, like, console ports or anything.
+
+00:40:02.080 --> 00:40:04.000
+It's not like, oh, this one's on the N64.
+
+00:40:04.380 --> 00:40:09.960
+It's, this was just PC only, but it worked with any MIDI keyboard,
+
+00:40:10.260 --> 00:40:12.380
+including the Miracle Piano Systems.
+
+00:40:12.500 --> 00:40:16.180
+So, they did get the memo eventually that, you know,
+
+00:40:16.180 --> 00:40:20.220
+Rocksmith, you just, you can't force people to buy a keyboard, but you can force them to use your
+
+00:40:20.220 --> 00:40:24.160
+software. And that's also, like, the time where, like, software was king anyway, right?
+
+00:40:24.340 --> 00:40:26.960
+Like, Internet Explorer domination and all that.
+
+00:40:27.400 --> 00:40:31.040
+So, by 1997, the Miracle Product had been discontinued,
+
+00:40:31.040 --> 00:40:34.400
+and the Piano Discovery System took its place completely.
+
+00:40:34.720 --> 00:40:36.740
+And to be honest, I didn't look up if,
+
+00:40:36.800 --> 00:40:40.120
+like, that Piano Discovery System even made it out of that year or not.
+
+00:40:40.240 --> 00:40:42.400
+Maybe it's, maybe it's a big thing, maybe it's dead.
+
+00:40:42.600 --> 00:40:43.480
+Who's to know?
+
+00:40:43.480 --> 00:40:46.920
+Well, what do you think of video games as education tools?
+
+00:40:47.800 --> 00:40:49.800
+Is that, like, not even the
+
+00:40:49.800 --> 00:40:55.540
+same thing? Like, are LeapFrog systems and stuff like that, are those not video games?
+
+00:40:55.760 --> 00:40:56.700
+Or, is this
+
+00:40:56.700 --> 00:40:57.640
+not a video game?
+
+00:40:58.660 --> 00:41:03.780
+No, I mean, I think that, I think that video games as education tools can be video games.
+
+00:41:03.940 --> 00:41:06.880
+I don't think I would consider this a video game.
+
+00:41:07.180 --> 00:41:10.800
+I mean, maybe technically, but in some definition it is, but
+
+00:41:11.660 --> 00:41:13.420
+The three mini-games, yeah.
+
+00:41:13.980 --> 00:41:21.080
+Yeah, sure. But overall, like, this is, I mean, this is, you know, obviously moving towards that
+
+00:41:21.080 --> 00:41:25.260
+category we've had for other things, where it's like, okay, this wasn't trying to do the same kind
+
+00:41:25.260 --> 00:41:28.160
+of thing most of the games we have are trying to do.
+
+00:41:28.280 --> 00:41:30.060
+But, like, I think that there's a lot of
+
+00:41:30.060 --> 00:41:36.540
+potential, even back in the 80s and 90s, of having, like, these educational games work and do well,
+
+00:41:36.540 --> 00:41:39.780
+and, like, be like, wow, this thing actually helped me learn piano.
+
+00:41:40.060 --> 00:41:41.160
+I think where it's,
+
+00:41:41.880 --> 00:41:47.320
+I think the thing that something like this has going against it is that the Venn diagram of,
+
+00:41:47.420 --> 00:41:52.900
+like, everything that needs to happen has too many things in the center of, like, you need to have
+
+00:41:53.320 --> 00:41:59.240
+a kid who, or, you know, we'll say it's a kid, I mean, it's probably more likely children in the
+
+00:41:59.240 --> 00:42:07.940
+90s playing on the NES, um, who has an NES, plays video games, is going to learn piano,
+
+00:42:08.180 --> 00:42:15.040
+and has a parent that is willing to spend the money on a piano, on a keyboard that connects to the NES,
+
+00:42:15.240 --> 00:42:22.880
+and an adult in the 90s who trusts the NES to be, like, a good tool for teaching something useful.
+
+00:42:22.880 --> 00:42:28.620
+And I just feel like all that stuff, like, probably a pretty rare consumer that fits all of those,
+
+00:42:29.580 --> 00:42:30.560
+all of those bullets.
+
+00:42:31.460 --> 00:42:37.200
+Yeah, I mean, to answer your question, Mike, it is not a video game, those, those mini games not
+
+00:42:37.200 --> 00:42:45.540
+withstanding. It's just a piece of software that happens to have a video game system as its platform,
+
+00:42:45.540 --> 00:42:52.400
+I guess, you know, with the story of the naming convention of the NES, the Nintendo Entertainment
+
+00:42:52.400 --> 00:42:56.500
+System kind of, like, alludes to this, that there would be more like this.
+
+00:42:56.720 --> 00:42:58.060
+Maybe we will see more,
+
+00:42:58.140 --> 00:43:01.100
+maybe there will be a budgeting software that we have to review.
+
+00:43:01.720 --> 00:43:03.760
+Um, but, uh...
+
+00:43:03.760 --> 00:43:05.240
+I thought that was, uh, Goosebumps.
+
+00:43:05.240 --> 00:43:06.480
+Very much.
+
+00:43:06.660 --> 00:43:13.300
+No, that was more, uh, that was more an allegory for, uh, late-stage capitalism, you know?
+
+00:43:13.760 --> 00:43:16.360
+Oh, right, right. Yeah, not so much an actual budgeting software.
+
+00:43:16.880 --> 00:43:22.680
+But, um, it reminds me of, like, nowadays you'll see on Steam, like, literally,
+
+00:43:23.300 --> 00:43:30.600
+You Need a Budget is something you can buy on Steam, or, uh, like, 3D rendering software will be there.
+
+00:43:30.600 --> 00:43:37.000
+Like, it's definitely, it's obviously a video game marketplace, but the software kind of creeps in.
+
+00:43:37.140 --> 00:43:38.060
+It's sort of like that.
+
+00:43:38.140 --> 00:43:43.880
+Yeah, I think, Sean, when you were saying that just because it's on a video game system doesn't make it a video game,
+
+00:43:44.020 --> 00:43:46.380
+you made me think of old memories here.
+
+00:43:46.820 --> 00:43:53.240
+Game Boy Advance Video, which was, uh, Game Boy Advance cartridges that contained, like, you know,
+
+00:43:53.380 --> 00:43:56.980
+The Adventures of Jimmy Neutron, and it had, like, four episodes on it.
+
+00:43:56.980 --> 00:44:00.520
+And you could watch them, and it was incredibly condensed.
+
+00:44:00.720 --> 00:44:03.840
+Like, I actually, I know they did it for movies, too.
+
+00:44:03.960 --> 00:44:12.780
+I have no idea how they crunched these things down to play, uh, on what are equivalent of, like, what, uh, 32 megabyte cartridges?
+
+00:44:13.380 --> 00:44:16.700
+Um. They had movies on Game Boy Advance?
+
+00:44:17.040 --> 00:44:17.960
+That's how I watched Heat.
+
+00:44:18.620 --> 00:44:20.460
+Like, live action movies?
+
+00:44:20.460 --> 00:44:24.880
+That's how I watched Heat is a great line. Uh, they had Shark Tale, Shrek, and Shrek 2.
+
+00:44:24.880 --> 00:44:26.100
+Yeah. That is wild.
+
+00:44:26.100 --> 00:44:27.460
+I can't wait to see Shrek.
+
+00:44:27.520 --> 00:44:29.380
+I remember the video now.
+
+00:44:29.640 --> 00:44:34.620
+Yeah, the video now was a big thing, but this is actually the Game Boy Advance video now.
+
+00:44:34.800 --> 00:44:37.020
+That's wild. Uh, no, they didn't have the now in there.
+
+00:44:37.220 --> 00:44:42.120
+But, um, you know, those, if we were doing a chronological exploration of the Game Boy Advance,
+
+00:44:43.040 --> 00:44:44.920
+I don't even know if I'd include those.
+
+00:44:45.060 --> 00:44:49.100
+Like, that's, like, Game Boy Advance Video separately is, like, branding it as a different thing, right?
+
+00:44:49.100 --> 00:44:52.300
+Like, there's Game Boy Advance games, and then this is Game Boy Advance Video.
+
+00:44:52.740 --> 00:44:55.220
+The NES, they didn't quite go there with this.
+
+00:44:55.360 --> 00:45:00.040
+They, they still, you know, they weren't, they weren't thinking about those kinds of nuances in terms of branding.
+
+00:45:00.360 --> 00:45:06.800
+The reason that I think that I would include this in, in our podcast, but not Game Boy Advance Video,
+
+00:45:06.920 --> 00:45:09.700
+is that Game Boy Advance Video has no user interaction.
+
+00:45:10.140 --> 00:45:13.040
+Yes. Like, that's what I think sets it apart.
+
+00:45:13.200 --> 00:45:19.600
+I think anything that you are interacting with, other than, like, selecting something on a menu, uh, should be, you know,
+
+00:45:19.780 --> 00:45:21.560
+is great to be included in this.
+
+00:45:21.820 --> 00:45:27.440
+Uh, but yeah, if they were just suddenly, like, oh, they released a movie on the NES, I think, maybe we'd talk about it.
+
+00:45:27.500 --> 00:45:31.480
+It'd be fun to talk about, but I don't think that would be an episode that we would go to the Essential Games list with or something.
+
+00:45:31.480 --> 00:45:41.160
+All right, so, all this in mind about whether or not Miracle Piano is a video game, we'll take into account when we vote for it on the Essential Games list.
+
+00:45:43.960 --> 00:45:51.000
+Sean might have already said this, but if we're just judging this on the minigames, which is the video game portion of the game,
+
+00:45:51.220 --> 00:45:53.680
+then no, it's not an Essential Game in my book.
+
+00:45:53.680 --> 00:45:59.720
+I didn't think that those were, I thought they were graphically fun, interesting ways to learn music,
+
+00:45:59.880 --> 00:46:04.800
+but defeated the whole, like, point about introducing sheet music and learning the nuances of that.
+
+00:46:04.940 --> 00:46:07.780
+So, if we're, if we're judging it based off of that, then no.
+
+00:46:07.960 --> 00:46:14.380
+But if we're judging this based on its merits of teaching you the piano, which I don't think is EGL criteria,
+
+00:46:14.380 --> 00:46:20.100
+I never asked if Mega Man 2 taught me, uh, how to, you know, shoot an arm cannon.
+
+00:46:20.100 --> 00:46:24.320
+So, I'm not gonna judge whether I learned the piano or not here.
+
+00:46:24.640 --> 00:46:27.960
+I would say that this is a pretty neat way to learn an instrument.
+
+00:46:28.380 --> 00:46:32.540
+But it's not a video game, at least not in the traditional sense of what a video game is.
+
+00:46:32.940 --> 00:46:38.620
+And therefore, not something I would recommend that you play in the present day when there probably,
+
+00:46:38.640 --> 00:46:45.280
+I don't know, there probably are better ways to learn the piano with, I don't know, maybe ChatGPT.
+
+00:46:45.800 --> 00:46:49.540
+Maybe AI can eventually teach us how to use the pianos and that'll be better.
+
+00:46:49.540 --> 00:46:58.680
+The Miracle Piano is a very, um, old, expensive, and, um, you know, I don't want to say outdated,
+
+00:46:58.700 --> 00:47:03.120
+because nothing's changed about how we learn how to play piano, but it's not complete.
+
+00:47:03.340 --> 00:47:12.160
+Sean? I would say that, like, this is a piece of software that, I think on the Essential Games list,
+
+00:47:12.380 --> 00:47:15.600
+I, it should, the game itself should be the rubric.
+
+00:47:15.600 --> 00:47:18.820
+Whatever it's trying to do, it should be eligible.
+
+00:47:19.440 --> 00:47:30.300
+So, if this was the best way to learn a piano, then, and it was the, the best version of that experience on the NES,
+
+00:47:30.300 --> 00:47:34.840
+I'd say, you know, you could put it on the Essential Games list if you really wanted to,
+
+00:47:34.920 --> 00:47:36.880
+but I didn't play the game.
+
+00:47:36.880 --> 00:47:41.660
+Um, I'm just here sort of as an active audience member.
+
+00:47:41.940 --> 00:47:45.540
+Uh, so, I would vote not applicable.
+
+00:47:46.400 --> 00:47:47.640
+All right, and Joe?
+
+00:47:47.920 --> 00:47:53.980
+Yeah, I have, I have voted not applicable for some, uh, of those Sesame Street, 1, 2, 3, ABC games,
+
+00:47:54.120 --> 00:48:00.500
+I think another one, too. Um, I'm not sure that I'm on the same page, though, as, like, the game should be its own rubric for this,
+
+00:48:00.520 --> 00:48:04.720
+because the only reason is because I, I still consider the Essential Games list as, like,
+
+00:48:04.940 --> 00:48:07.620
+something for gamers to look at and say,
+
+00:48:07.620 --> 00:48:10.760
+I love video games, what's on the NES I should still play?
+
+00:48:11.060 --> 00:48:14.860
+I don't think this scratches any sort of itch for, like, someone who's just a gamer.
+
+00:48:15.040 --> 00:48:17.400
+I think that maybe, again, I also didn't play it,
+
+00:48:17.640 --> 00:48:20.280
+maybe this scratches the itch of someone who wants to learn piano.
+
+00:48:20.280 --> 00:48:22.540
+Maybe it's a really fun, interesting way to learn piano.
+
+00:48:23.720 --> 00:48:26.200
+Um, and if I were voting that way,
+
+00:48:26.360 --> 00:48:30.500
+I also don't know how I would vote it on or off,
+
+00:48:30.600 --> 00:48:34.020
+because I, I didn't, I, I mean, one, I didn't use it at all,
+
+00:48:34.020 --> 00:48:40.040
+and I certainly didn't use it for the amount of time it would take me to actually learn enough from it
+
+00:48:40.040 --> 00:48:42.660
+to, like, be able to review it in that way.
+
+00:48:42.960 --> 00:48:46.100
+But, um, so as it stands, I, I'm going to vote no,
+
+00:48:46.340 --> 00:48:50.240
+because of it, for me, it is not applicable in that sense.
+
+00:48:50.620 --> 00:48:56.160
+Um, and if it, if I were voting on, like, how good of a piano teaching teacher this is,
+
+00:48:56.340 --> 00:48:58.720
+uh, TBD, maybe, one day.
+
+00:48:59.460 --> 00:49:01.160
+I can see you getting into it, Joe.
+
+00:49:01.440 --> 00:49:03.720
+I feel like I would actually really enjoy it.
+
+00:49:04.020 --> 00:49:08.500
+All right, well, next week, it was supposed to be, um, Rescue Mission,
+
+00:49:08.720 --> 00:49:11.380
+but we already released that episode because I wasn't feeling well,
+
+00:49:11.540 --> 00:49:14.140
+so next week is now River City Ransom,
+
+00:49:14.380 --> 00:49:16.280
+which is weird to say, because in the future,
+
+00:49:16.320 --> 00:49:19.840
+I'm probably going to rearrange these so they actually are in the correct chronological order.
+
+00:49:20.360 --> 00:49:23.960
+So, um, you know, just check out what episode you're listening to.
+
+00:49:24.140 --> 00:49:27.660
+Most likely, next week will be River City Ransom for most of you,
+
+00:49:27.760 --> 00:49:31.380
+but if you're joining us late, it'll be Rescue Mission, uh, Rescue,
+
+00:49:32.020 --> 00:49:33.080
+the Embassy Mission.
+
+00:49:33.220 --> 00:49:34.060
+What was that game called?
+
+00:49:34.840 --> 00:49:35.920
+The Embassy Mission.
+
+00:49:36.120 --> 00:49:38.020
+Rescue the Embassy Mission. Well, it was called Hostages, right?
+
+00:49:38.140 --> 00:49:40.580
+Like, first, so that was, that was confusing.
+
+00:49:40.640 --> 00:49:42.340
+Yeah, let's do a whole thing all over again.
+
+00:49:42.340 --> 00:49:44.860
+And then our Nostalgia Bite episode coming up,
+
+00:49:45.040 --> 00:49:47.460
+because we've been talking so much about the Patreon and everything,
+
+00:49:47.460 --> 00:49:51.780
+uh, that episode is Captain Tsubasa 2 Super Striker.
+
+00:49:51.960 --> 00:49:52.980
+We're jumping right to the second one,
+
+00:49:53.140 --> 00:49:56.280
+because the first one is actually an NES game we will play,
+
+00:49:56.340 --> 00:49:57.180
+so that's a little confusing.
+
+00:49:57.180 --> 00:50:00.200
+We're going to play the sequel before we play the real NES game,
+
+00:50:00.260 --> 00:50:02.660
+but that's why we do weird stuff like that on the Bites things,
+
+00:50:02.700 --> 00:50:04.840
+is where we don't confuse the main listeners.
+
+00:50:05.060 --> 00:50:08.200
+If you want to join us, that's patreon.com slash nostalgia.
+
+00:50:08.980 --> 00:50:12.700
+It's, uh, $1 just to get access to the Discord and all the other fun stuff,
+
+00:50:12.700 --> 00:50:15.240
+and support a great website, NostalgiaCast.com,
+
+00:50:15.320 --> 00:50:17.780
+but for $5 you get everything else.
+
+00:50:17.780 --> 00:50:19.640
+You get the Bites, you get, um,
+
+00:50:20.200 --> 00:50:23.180
+the bragging rights to the other Discord members to be like,
+
+00:50:23.280 --> 00:50:25.880
+hey, I heard the Bites episode, you're on the Discord,
+
+00:50:25.880 --> 00:50:27.780
+and you didn't get to hear it, which is weird,
+
+00:50:27.780 --> 00:50:29.920
+and would be toxic, so don't do that,
+
+00:50:30.220 --> 00:50:32.400
+but, you know, do what you gotta do,
+
+00:50:33.300 --> 00:50:34.460
+because Mountain Dew.
+
+00:50:42.700 --> 00:50:44.380
+be由 be由 be由
+
+00:50:44.380 --> 00:50:45.320
+be由
