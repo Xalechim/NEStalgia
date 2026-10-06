@@ -424,13 +424,12 @@
       }
     },
     "/articles/nes-wall-of-shame": {
-      "title": "THE NES WALL OF SHAME: 11 Games We Cannot Forgive · NEStalgia",
+      "title": "THE NES WALL OF SHAME: 11 NES Games That Really Suck · NEStalgia",
       "description": "A roast of eleven of the worst NES games we have covered, in alphabetical order, from Athena and Deadly Towers to Super Pitfall and Winter Games, with every complaint from our reviews and the show.",
       "layout": "countdown",
       "numbered": false,
-      "heading": "The inmates",
-      "intro_label": "A word from the warden",
-      "listen_label": "Hear the trial",
+      "heading": "The wall",
+      "intro_label": "About the wall",
       "ranks": {
         "1": 54,
         "2": 212,
@@ -769,57 +768,57 @@
     {
       "number": 54,
       "href": "/articles/nes-wall-of-shame/#rank-1",
-      "label": "Inducted into THE NES WALL OF SHAME"
+      "label": "On THE NES WALL OF SHAME"
     },
     {
       "number": 212,
       "href": "/articles/nes-wall-of-shame/#rank-2",
-      "label": "Inducted into THE NES WALL OF SHAME"
+      "label": "On THE NES WALL OF SHAME"
     },
     {
       "number": 213,
       "href": "/articles/nes-wall-of-shame/#rank-3",
-      "label": "Inducted into THE NES WALL OF SHAME"
+      "label": "On THE NES WALL OF SHAME"
     },
     {
       "number": 433,
       "href": "/articles/nes-wall-of-shame/#rank-4",
-      "label": "Inducted into THE NES WALL OF SHAME"
+      "label": "On THE NES WALL OF SHAME"
     },
     {
       "number": 60,
       "href": "/articles/nes-wall-of-shame/#rank-5",
-      "label": "Inducted into THE NES WALL OF SHAME"
+      "label": "On THE NES WALL OF SHAME"
     },
     {
       "number": 427,
       "href": "/articles/nes-wall-of-shame/#rank-6",
-      "label": "Inducted into THE NES WALL OF SHAME"
+      "label": "On THE NES WALL OF SHAME"
     },
     {
       "number": 448,
       "href": "/articles/nes-wall-of-shame/#rank-7",
-      "label": "Inducted into THE NES WALL OF SHAME"
+      "label": "On THE NES WALL OF SHAME"
     },
     {
       "number": 13,
       "href": "/articles/nes-wall-of-shame/#rank-8",
-      "label": "Inducted into THE NES WALL OF SHAME"
+      "label": "On THE NES WALL OF SHAME"
     },
     {
       "number": 85,
       "href": "/articles/nes-wall-of-shame/#rank-9",
-      "label": "Inducted into THE NES WALL OF SHAME"
+      "label": "On THE NES WALL OF SHAME"
     },
     {
       "number": 249,
       "href": "/articles/nes-wall-of-shame/#rank-10",
-      "label": "Inducted into THE NES WALL OF SHAME"
+      "label": "On THE NES WALL OF SHAME"
     },
     {
       "number": 73,
       "href": "/articles/nes-wall-of-shame/#rank-11",
-      "label": "Inducted into THE NES WALL OF SHAME"
+      "label": "On THE NES WALL OF SHAME"
     }
   ],
   "redirects": {
