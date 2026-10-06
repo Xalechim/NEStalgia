@@ -15,7 +15,7 @@ Mike Tyson's Punch-Out is the game we most expected to be overrated, and it turn
 
 ### Where it's rough
 
-- **The difficulty cliff.** The first two circuits are approachable, and then the World Circuit jumps to Mr. Sandman, Super Macho Man and Mike Tyson. Most of us stalled at Sandman, and several of us never got a real run at Tyson. Even though it's fair, the climb is steep, and a save point before the last few fights would have helped.
+- **The difficulty cliff.** The first two circuits are approachable, and then the World Circuit jumps to Mr. Sandman, Super Macho Man and Mike Tyson. We mostly stalled at Sandman, and we barely got a real run at Tyson. Even though it's fair, the climb is steep, and a save point before the last few fights would have helped.
 - **Some fights are decided by tricks.** King Hippo can only be hurt after you knock his shorts down. Bald Bull can only be won by a TKO, and a decision never goes your way. These fights feel good once you know the secret and confusing until then.
 - **No practice mode and no battery.** We would have loved to pick an opponent and practice. Wanting more game, and not a different game, is a compliment, but it's still a gap.
 - **Hard to explain, easy to underrate.** Like the other NES games we've covered, it's more fun to play than to hear described.
@@ -26,4 +26,4 @@ The arcade original came first: Punch-Out in 1984, then Super Punch-Out in 1985,
 
 ### The bottom line
 
-Essential. This is the kind of game that makes a stretch of bad ones worth it: simple to learn, deep to master, and rewarding when you finally figure a fighter out. Some of us will keep coming back to try to beat Tyson. All four of us voted it onto the Essential Games List.
+Essential. This is the kind of game that makes a stretch of bad ones worth it: simple to learn, deep to master, and rewarding when you finally figure a fighter out. We'll keep coming back to try to beat Tyson. All four of us voted it onto the Essential Games List.

@@ -4,9 +4,9 @@ Baseball was one of the NES launch games, and our verdict came out the way the r
 
 ### What it gets right
 
-- **Smart controls for a two-button pad.** There is a lot to learn, and the manual is worth reading. You can pick your pitch, steer the ball after it leaves your hand, pick runners off, send or hold them with the D-pad and B, and shuffle around the batter's box (we think of that as an ancient cousin of the "guess the pitch" feature in modern games). Joe, who defended the game, was impressed by how much you can do, Sam admired how many solutions Nintendo found to the controller's limits, and one of us even liked it more than 10-Yard Fight.
+- **Smart controls for a two-button pad.** There is a lot to learn, and the manual is worth reading. You can pick your pitch, steer the ball after it leaves your hand, pick runners off, send or hold them with the D-pad and B, and shuffle around the batter's box (we think of that as an ancient cousin of the "guess the pitch" feature in modern games). Joe, who defended the game, was impressed by how much you can do, Sam admired how many solutions Nintendo found to the controller's limits, and it even beat 10-Yard Fight for some of us.
 - **It really is baseball.** The rules are all there. Getting a full game of baseball onto the NES in 1985 is an achievement on its own.
-- **Little touches.** The teams are real-style clubs shown only as a letter and a color, and the original Famicom version used Japanese teams. A couple of us loved the whooshing sound of the ball. It also lives on in NES Remix as a single bottom-of-the-ninth challenge, which we all agreed is the best way to play it.
+- **Little touches.** The teams are real-style clubs shown only as a letter and a color, and the original Famicom version used Japanese teams. We loved the whooshing sound of the ball. It also lives on in NES Remix as a single bottom-of-the-ninth challenge, which we all agreed is the best way to play it.
 
 ### Where it falls apart
 
@@ -14,11 +14,11 @@ Baseball was one of the NES launch games, and our verdict came out the way the r
 - **It tells you almost nothing.** The pitcher shakes his head and lingers for several seconds before every pitch, and nobody could tell whether that was a hint or just animation. The ball passes right through the batter, so there are no hit-by-pitches, and we never saw anyone walk.
 - **A tie is the end.** If you finish nine innings level there are no extra innings. The game just stops.
 - **It's silent.** No music, thin sound effects and no organ between innings. There is no atmosphere at all. We called it minimalist baseball.
-- **It's exhausting.** Nobody enjoyed a full nine innings. Sean quit in a rage down 15 to 0 in the fourth inning, and another of us never got past five innings of a game.
+- **It's exhausting.** Nobody enjoyed a full nine innings. Sean quit in a rage down 15 to 0 in the fourth inning, and nobody else ever got past five innings of a game.
 
 ### Two players?
 
-None of us tried it, but we wondered whether sharing the odd controls and frustrations would make a head-to-head game better or much worse. A Twitch duel was promised.
+We never tried it, but we wondered whether sharing the odd controls and frustrations would make a head-to-head game better or much worse. A Twitch duel was promised.
 
 ### The bottom line
 

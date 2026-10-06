@@ -5,8 +5,8 @@ The Legend of Zelda is the game we have been waiting for on this journey: one we
 ### What makes it essential
 
 - **A world that exists without you.** You start with nothing. The first cave hands you a sword with the line "It's dangerous to go alone," and that is the game's only tutorial: find things, enter caves, explore. Walk into a screen full of enemies with three hearts and you will turn around. The landscape quietly nudges you too, with a wide path straight ahead and a cave that stands out, so even a first-time player has a sense of where to go.
-- **Different adventures for everyone.** Almost every dungeon is open from the start, and each of us found our own route through it. Sean paid an old woman for a secret and wandered into dungeon six with three hearts, while another of us went hunting for a missed item and called it a little side quest. We loved that we all had stories and tips for each other, which is exactly how the game was meant to be played.
-- **Hard, but fair.** Dying sends you back to the start of the dungeon (or the opening screen on the overworld) with three hearts and every enemy back, so you learn instead of grind. It felt modern, and one of us called it the template for how difficult an NES game should be.
+- **Different adventures for everyone.** Almost every dungeon is open from the start, and we each found our own route through it. Sean paid an old woman for a secret and wandered into dungeon six with three hearts, while someone went hunting for a missed item and called it a little side quest. We loved that we all had stories and tips for each other, which is exactly how the game was meant to be played.
+- **Hard, but fair.** Dying sends you back to the start of the dungeon (or the opening screen on the overworld) with three hearts and every enemy back, so you learn instead of grind. It felt modern, and we called it the template for how difficult an NES game should be.
 - **It plays like an RPG without the numbers.** There are no experience points, but heart containers, better swords and rings add up to real progress. We argued over whether it's an RPG or its own genre, and agreed it was the most RPG-like game we'd played so far.
 - **It saves.** After all the games we've complained about, a battery-backed save is a relief.
 - **The manual matters.** It was crucial back then, with a Dungeons & Dragons feel, a map, great enemy art (the most metal Octorok ever drawn) and a sealed emergency map you were meant to open only when truly stuck.
@@ -18,7 +18,7 @@ The Legend of Zelda is the game we have been waiting for on this journey: one we
 - **Items that feel unfinished.** The raft and ladder open one dungeon and then do very little, and a few rooms aren't shown on the map.
 - **Stiff controls.** Your sword only swings in four directions, and movement and attacks can feel clunky.
 - **Two songs.** The overworld and dungeon themes are iconic, but they loop forever, and there's not much else.
-- **Uneven enemies.** Dodongo goes down in a couple of hits (we felt bad about it), the three-headed dragon is an onslaught, and Darknuts racked up more deaths for one of us than any boss.
+- **Uneven enemies.** Dodongo goes down in a couple of hits (we felt bad about it), the three-headed dragon is an onslaught, and Darknuts racked up more deaths than any boss.
 - **A few wishes.** Better backtracking, diagonal swings, and, as a joke, a small friend to tell us what to do next.
 
 ### Beyond the game

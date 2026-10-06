@@ -5,7 +5,7 @@ Castlevania was the first game in this run that made us feel like we were on a r
 ### What makes it essential
 
 - **It teaches you without a tutorial.** The huge torches at the castle gate stand out from the background, so you whip them and they pay off right away with a longer whip. Then you start hitting the candles, and eventually the walls, where you find the pork chops. A kid who smashes a wall by accident and finds dinner will smash every wall after that.
-- **Weapons, and the right one at the right time.** The dagger, holy water, boomerang, axe and stopwatch each have their uses. The axe arcs over your head for the Phantom Bat, the stopwatch freezes Medusa in place, the daggers keep the two mummies apart, and holy water walks you through Dracula's last form. Your main weapon upgrades too, and when you die the game puts the whip torches back so you can rebuild it. Several of us found we were handed the weapon we needed just before the boss that needed it, which is good design.
+- **Weapons, and the right one at the right time.** The dagger, holy water, boomerang, axe and stopwatch each have their uses. The axe arcs over your head for the Phantom Bat, the stopwatch freezes Medusa in place, the daggers keep the two mummies apart, and holy water walks you through Dracula's last form. Your main weapon upgrades too, and when you die the game puts the whip torches back so you can rebuild it. The game seems to hand you the weapon you need just before the boss that needs it, which is good design.
 - **Enemies with behavior.** Axe Knights back you into corners and retreat as you approach, Medusa heads follow a pattern you can learn, and skeletons shift to block the stairs but let you get past. The level design assumes you will walk right and attack everything, then punishes you for it, which asks you to slow down and think. It is the first time we've seen a side-scroller built like this, and the game comes out feeling made for the console, since unlike Trojan and Ghosts 'n Goblins it didn't start out in the arcade.
 - **Game feel.** The whip has a short wind-up, so each swing has weight and timing. That felt like a real whip to us, even when it was frustrating.
 - **Atmosphere.** The castle has real places in it, with a hall, a lab, catacombs, a dungeon and a clock tower, and a little map that shows how the sublevels connect. It is a Universal Studios monster gauntlet: mummies, Frankenstein, a creature that looks like the one from the Black Lagoon, Medusa, a Grim Reaper and Dracula himself. The ending reveals it was all a movie, with a cast of names that are one letter off from the classic horror actors.
@@ -14,10 +14,10 @@ Castlevania was the first game in this run that made us feel like we were on a r
 
 ### Where it's rough
 
-- **Knockback.** Getting hit sends Simon flying backward, often into a pit, and for some players this ends the game. In the Japanese cartridge's easy mode there's none, and one of us who played it came away thinking the knockback was a mistake, although speedrunners rely on it.
+- **Knockback.** Getting hit sends Simon flying backward, often into a pit, and for some players this ends the game. In the Japanese cartridge's easy mode there's none, and after playing it we think the knockback was a mistake, although speedrunners rely on it.
 - **Stiff controls.** You can't change direction mid-jump, so every leap is committed in advance. The stairs lock you in place, and the sub-weapon needs Up plus the button, which we kept triggering by accident.
-- **The gauntlet before Death.** The Axe Knight and Medusa head section ahead of the Grim Reaper is brutal, and some of us stalled there. The Grim Reaper himself throws out more scythes than seems fair, and you have to repeat that stretch if you fall.
-- **The late game.** Hunchbacks coming from both sides, bats, and the clock tower with its stairs that go nowhere feel more like spam than design. Dracula is hard too. Not all of us got past him, and a few of us watched videos for the transformation fight.
+- **The gauntlet before Death.** The Axe Knight and Medusa head section ahead of the Grim Reaper is brutal, and it's where we gave up. The Grim Reaper himself throws out more scythes than seems fair, and you have to repeat that stretch if you fall.
+- **The late game.** Hunchbacks coming from both sides, bats, and the clock tower with its stairs that go nowhere feel more like spam than design. Dracula is hard too. We struggled to get past him, and ended up watching videos for the transformation fight.
 - **No save.** In North America you have to leave the game on to finish it, and the harder second loop makes that worse.
 
 ### Beyond the game
@@ -26,4 +26,4 @@ The Famicom Disk System version came out first in 1986, with a save function. Th
 
 ### The bottom line
 
-Essential. It's hard but rarely cheap, it rewards you for exploring, it sounds amazing, and it holds up well enough that one of us kept picking it over a brand new RPG while preparing for the episode. All four of us voted it onto the Essential Games List.
+Essential. It's hard but rarely cheap, it rewards you for exploring, it sounds amazing, and it holds up well enough that Mike kept picking it over a brand new RPG while preparing for the episode. All four of us voted it onto the Essential Games List.
