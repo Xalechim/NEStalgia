@@ -270,7 +270,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 263 | Rescue: The Embassy Mission | [notes](263-rescue-the-embassy-mission.md) |
 | 264 | River City Ransom | [notes](264-river-city-ransom.md) |
 | 265 | Roadblasters | [notes](265-roadblasters.md) |
-| 266 | Rock N Ball | [notes](266-rock-n-ball.md) |
+| 266 | Rock N Ball | [notes](266-rock-n-ball.md), [transcript](../transcripts/266-rock-n-ball.md) |
 | 267 | Top Gun: The Second Mission | [notes](267-top-gun-the-second-mission.md), [transcript](../transcripts/267-top-gun-the-second-mission.md) |
 | 268 | Top Players Tennis | [notes](268-top-players-tennis.md), [transcript](../transcripts/268-top-players-tennis.md) |
 | 269 | Twin Cobra | [notes](269-twin-cobra.md), [transcript](../transcripts/269-twin-cobra.md) |
