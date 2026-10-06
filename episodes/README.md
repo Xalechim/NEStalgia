@@ -313,7 +313,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 306 | Wrath of the Black Manta | [notes](306-wrath-of-the-black-manta.md), [transcript](../transcripts/306-wrath-of-the-black-manta.md) |
 | 307 | Xexyz | [notes](307-xexyz.md), [transcript](../transcripts/307-xexyz.md) |
 | 308 | Ninja Gaiden II: The Dark Sword of Chaos | [notes](308-ninja-gaiden-ii-the-dark-sword-of-chaos.md), [transcript](../transcripts/308-ninja-gaiden-2.md) |
-| 309 | Remote Control | [notes](309-remote-control.md), [transcript](../transcripts/309-adventures-in-the-magic-kingdom.md) |
+| 309 | Remote Control | [notes](309-remote-control.md), [transcript](../transcripts/309-adventures-in-the-magic-kingdom.md), [transcript](../transcripts/309-remote-control.md) |
 | 310 | Disney Adventures in the Magic Kingdom | [notes](310-disney-adventures-in-the-magic-kingdom.md), [transcript](../transcripts/310-adventures-in-the-magic-kingdom.md) |
 | 311 | Arkista's Ring | [notes](311-arkistas-ring.md), [transcript](../transcripts/311-arkistas-ring.md) |
 | 312 | Bad News Baseball | [notes](312-bad-news-baseball.md), [transcript](../transcripts/312-bad-news-baseball.md) |
