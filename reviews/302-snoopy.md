@@ -23,4 +23,4 @@ In Japan this was a Donald Duck game, and it had to change for us because Capcom
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no, and Sam was not on this one. With another person it can be fun, and we would take it over the other multi-event sports games we've played, Winter Games included. But nobody expects you to go out and play it. Our advice if you have to play it for a podcast: bring a friend, and learn the river jump release.
+Skip it. We all voted no. With another person it can be fun, and we would take it over the other multi-event sports games we've played, Winter Games included. But nobody expects you to go out and play it. Our advice if you have to play it for a podcast: bring a friend, and learn the river jump release.

@@ -23,4 +23,4 @@ The manual spells out what turns into diamonds and has tips on amoebas, which he
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no. Mike called it unremarkable today and not something he'd remember. Sean said it's playable and fun while it lasts, with real aha moments, but a good game he won't think about again. Joe said it's a satisfying puzzle experience, still adequate now, but nothing to write home about.
+Skip it. We all voted no. Mike called it unremarkable today and not something he'd remember. Sean said it's playable and fun while it lasts, with real aha moments, but a good game he won't think about again. Joe said it's a satisfying puzzle experience, still adequate now, but nothing to write home about.

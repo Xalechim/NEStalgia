@@ -14,4 +14,4 @@ The clips brought back the first game ever removed from the Essential Games List
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no, so it stays off the Essential Games List. Joe said it's still exactly what you'd expect from Jeopardy!, and we agreed that even a perfect Jeopardy! game would never be essential: it'd be like that sometimes. In 1988 it offered a lot to anyone who wanted it, but plenty of people find Jeopardy! a chore to watch, let alone play. If you want a trivia night with a friend, it works. Otherwise watch it weeknights at 7 on ABC.
+Skip it. We all voted no, so it stays off the Essential Games List. Joe said it's still exactly what you'd expect from Jeopardy!, and we agreed that even a perfect Jeopardy! game would never be essential: it'd be like that sometimes. In 1988 it offered a lot to anyone who wanted it, but plenty of people find Jeopardy! a chore to watch, let alone play. If you want a trivia night with a friend, it works. Otherwise watch it weeknights at 7 on ABC.

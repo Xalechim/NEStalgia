@@ -22,4 +22,4 @@ This is Super Chinese 2 in Japan, after Kung Fu Heroes. The series went on with 
 
 ### The bottom line
 
-Play it. In the Essential Games List vote, Mike, Sean and Joe all stayed off it, so it got no votes. Joe called it a step up from Kung Fu Heroes. Mike would only replay it with a second player, and Sean could not quite recommend it for how janky it is.
+Play it. In the Essential Games List vote, we all stayed off it, so it got no votes. Joe called it a step up from Kung Fu Heroes. Mike would only replay it with a second player, and Sean could not quite recommend it for how janky it is.

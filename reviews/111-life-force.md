@@ -23,4 +23,4 @@ The arcade Salamander gave you upgrades on pickup, with no power-up meter, and u
 
 ### The bottom line
 
-Essential. Joe, who usually complains about shmups, said he never did here, and voted first. Sean followed, enjoying it more than Gradius even if it is less iconic, and that was the two votes the rule needs. All three of us voted it onto the Essential Games List. That gives Konami four, level with Nintendo R&D 1. Gradius does not have to leave to make room, though Best of 1988 will decide.
+Essential. Joe, who usually complains about shmups, said he never did here, and voted first. Sean followed, enjoying it more than Gradius even if it is less iconic, and that was the two votes the rule needs. Mike made it three for three. That gives Konami four, level with Nintendo R&D 1. Gradius does not have to leave to make room, though Best of 1988 will decide.

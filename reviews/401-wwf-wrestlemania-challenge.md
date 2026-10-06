@@ -23,4 +23,4 @@ Hogan was already slipping: the Ultimate Warrior was the new face after WrestleM
 
 ### The bottom line
 
-Skip it. Mike and Sean both voted it off the Essential Games List. Mike said it was probably a good time in 1990 and an improvement on the first game, but not enough to return to with so many better wrestling games around. Sean called it an improvement over most wrestling games and said that shows how far the genre had to go. He still adds a point for any game with Macho Man.
+Skip it. We both voted it off the Essential Games List. Mike said it was probably a good time in 1990 and an improvement on the first game, but not enough to return to with so many better wrestling games around. Sean called it an improvement over most wrestling games and said that shows how far the genre had to go. He still adds a point for any game with Macho Man.

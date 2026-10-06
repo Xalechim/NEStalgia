@@ -1,6 +1,6 @@
 # 423 - G.I. Joe
 
-We came in knowing almost nothing about G.I. Joe. Nobody had a real G.I. Joe collection, and half the episode wandered into action-figure bins, old YouTube PSAs and who actually makes Army Men. It was a pleasant surprise, then, that a licensed 1991 side-scroller turned out to be the first essential game of the year. Mike, Sean and Joe all voted for it.
+We came in knowing almost nothing about G.I. Joe. Nobody had a real G.I. Joe collection, and half the episode wandered into action-figure bins, old YouTube PSAs and who actually makes Army Men. It was a pleasant surprise, then, that a licensed 1991 side-scroller turned out to be the first essential game of the year. We all voted for it.
 
 ### Why it earned the vote
 

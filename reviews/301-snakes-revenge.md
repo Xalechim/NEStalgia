@@ -23,4 +23,4 @@ Kojima's verdict has bounced around: faithful in one interview, "crappy" at GDC 
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no, and Sam was not on this episode. Mike preferred the plainer navigation of the first game to the side-scrolling additions. Sean said it lacked the weight of the original. Joe doubted that this style of stealth works on the NES at all, since the sight lines never made him feel sneaky. Nobody called it bad, but there wasn't enough going for it.
+Skip it. We all voted no. Mike preferred the plainer navigation of the first game to the side-scrolling additions. Sean said it lacked the weight of the original. Joe doubted that this style of stealth works on the NES at all, since the sight lines never made him feel sneaky. Nobody called it bad, but there wasn't enough going for it.

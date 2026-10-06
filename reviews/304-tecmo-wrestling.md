@@ -24,4 +24,4 @@ In two-player, a pink and blue meter swings back and forth in the middle of the 
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no, and Sam was not on this episode. We called it better than other NES wrestling games, which says more about the others, and the best one so far is still Pro Wrestling, with its unplayable final boss Great Puma. After the first match you've had your fill, and we weren't looking for more of this in 2023.
+Skip it. We all voted no. We called it better than other NES wrestling games, which says more about the others, and the best one so far is still Pro Wrestling, with its unplayable final boss Great Puma. After the first match you've had your fill, and we weren't looking for more of this in 2023.

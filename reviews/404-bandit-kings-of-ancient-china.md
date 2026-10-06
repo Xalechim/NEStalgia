@@ -17,4 +17,4 @@ Bandit Kings of Ancient China is Koei's strategy game about the Water Margin out
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no on the Essential Games List, so it was three no's and never close. We called it neat, and not the worst review we have given. If you love Koei's other titles it has enough new in it to keep the series going. But a game that takes hours before you can really start playing does not belong on the list, and Sean said none of these will get there without real quality-of-life improvements. A "make one prefecture like you first" tip, the way a Mega Man manual would hand you one, would have helped.
+Skip it. We all voted no on the Essential Games List, so it was three no's and never close. We called it neat, and not the worst review we have given. If you love Koei's other titles it has enough new in it to keep the series going. But a game that takes hours before you can really start playing does not belong on the list, and Sean said none of these will get there without real quality-of-life improvements. A "make one prefecture like you first" tip, the way a Mega Man manual would hand you one, would have helped.

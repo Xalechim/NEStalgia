@@ -23,4 +23,4 @@ You get rockets, a harpoon and explosive RC cars, and hot dogs restore health, w
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no on the Essential Games List. The first vote came after playing in an emulator with cheats on, just to explore. Sean said there is barely any Dirty Harry here beyond the clip and the gun. Joe called the first level a slog. It is more fun to talk about than to play.
+Skip it. We all voted no on the Essential Games List. The first vote came after playing in an emulator with cheats on, just to explore. Sean said there is barely any Dirty Harry here beyond the clip and the gun. Joe called the first level a slog. It is more fun to talk about than to play.

@@ -19,4 +19,4 @@ The family is odd. A 1991 Game Boy platformer has you collect 194 fragments of t
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no on the Essential Games List, and it was not close. The first vote put it among the worst games played, with no joy in it. Sean said any merit shows up only next to the arcade original, and that he'd never play it again. Joe called it a lesser spin-off that is only appreciated historically. We'd happily try the arcade cabinet at a barcade, but not this.
+Skip it. We all voted no on the Essential Games List, and it was not close. The first vote put it among the worst games played, with no joy in it. Sean said any merit shows up only next to the arcade original, and that he'd never play it again. Joe called it a lesser spin-off that is only appreciated historically. We'd happily try the arcade cabinet at a barcade, but not this.

@@ -19,4 +19,4 @@ The Immortal, "Will Harvey's computer classic," puts you in the shoes of an unna
 
 ### The bottom line
 
-Play it. Mike, Sean and Joe all passed on the Essential Games List. Mike loved it in hindsight and would buy it secondhand, but it's better remembered than played moment to moment. Sean liked the humor and the look, and felt the frustration outweighed the fun. Joe wanted to like it more, hoping for Shadowgate crossed with Solstice, and found the action and puzzles got in each other's way.
+Play it. We all passed on the Essential Games List. Mike loved it in hindsight and would buy it secondhand, but it's better remembered than played moment to moment. Sean liked the humor and the look, and felt the frustration outweighed the fun. Joe wanted to like it more, hoping for Shadowgate crossed with Solstice, and found the action and puzzles got in each other's way.

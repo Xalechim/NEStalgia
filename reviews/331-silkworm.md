@@ -22,4 +22,4 @@ It started on computers, and it inspired SWIV, a vertical helicopter-and-jeep sh
 
 ### The bottom line
 
-Skip it. Mike and Joe both voted no on the Essential Games List. Joe said it was not essential even in two-player, though it might be worth a try there. As a one-player game it is just too basic a shooter, going backwards from what we've already seen.
+Skip it. We both voted no on the Essential Games List. Joe said it was not essential even in two-player, though it might be worth a try there. As a one-player game it is just too basic a shooter, going backwards from what we've already seen.

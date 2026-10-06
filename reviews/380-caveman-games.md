@@ -19,4 +19,4 @@ Caveman Games, subtitled "the Ugglympics" in its original form, is yet another t
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted against the Essential Games List. Mike's reason was that he would never show this to anyone and can't list something he wouldn't show off. Sean called the idea preposterous but named it his favorite of the Olympics-style games because it's funny and has an identity. Joe had more fun than usual and still not much, since good presentation can't make these fun to play.
+Skip it. We all voted against the Essential Games List. Mike's reason was that he would never show this to anyone and can't list something he wouldn't show off. Sean called the idea preposterous but named it his favorite of the Olympics-style games because it's funny and has an identity. Joe had more fun than usual and still not much, since good presentation can't make these fun to play.

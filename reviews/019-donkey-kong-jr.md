@@ -22,4 +22,4 @@ A Miyamoto interview in a UK Nintendo magazine explains the setup. The team had 
 
 ### The bottom line
 
-Play it. Joe, who weighed in by text, said the mechanics are improved and there is more variety, but it is a decent distraction rather than an essential experience. Mike and Sean both disagreed that it is an improvement, and nobody put it on the Essential Games List. It is the B game: worth a few minutes if you like Donkey Kong, but the mechanics that made the first one fun were swapped out for something different, not better.
+Play it. Joe, who weighed in by text, said the mechanics are improved and there is more variety, but it is a decent distraction rather than an essential experience. We both disagreed that it is an improvement, and nobody put it on the Essential Games List. It is the B game: worth a few minutes if you like Donkey Kong, but the mechanics that made the first one fun were swapped out for something different, not better.

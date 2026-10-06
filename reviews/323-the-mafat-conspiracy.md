@@ -22,4 +22,4 @@ Golgo 13 is a manga running since 1968, and Joe noted the name nods to Golgotha,
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no, as with the first game. The mix of action, mazes and driving gets weaker combined, since no part is a breakthrough. Sean still likes the game, and without the labyrinths it might have been on the fence, but they're most of the frustration. Joe said the first one was a jack-of-all-trades, while this is master of none, and it didn't live up to it.
+Skip it. We all voted no, as with the first game. The mix of action, mazes and driving gets weaker combined, since no part is a breakthrough. Sean still likes the game, and without the labyrinths it might have been on the fence, but they're most of the frustration. Joe said the first one was a jack-of-all-trades, while this is master of none, and it didn't live up to it.

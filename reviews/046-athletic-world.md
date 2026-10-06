@@ -20,4 +20,4 @@ We bought two Power Pads, one from eBay. Both arrived half broken: some pads reg
 
 ### The bottom line
 
-Skip it. Joe, Sean and Mike all voted no, with the caveat that we hadn't played it properly. Joe said he can't picture a scenario where he plays it for real and finds it essential, and Sean said an asterisk still counts as a no. We aren't done with the Power Pad either: Athletic World comes back as Stadium Events, and we'll try again if a working pad turns up. It would take a lot, and not just a working mat, to change our minds.
+Skip it. We all voted no, with the caveat that we hadn't played it properly. Joe said he can't picture a scenario where he plays it for real and finds it essential, and Sean said an asterisk still counts as a no. We aren't done with the Power Pad either: Athletic World comes back as Stadium Events, and we'll try again if a working pad turns up. It would take a lot, and not just a working mat, to change our minds.

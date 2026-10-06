@@ -25,4 +25,4 @@ The Super Famicom remake rebalanced things. The first Dragon Warrior sold so poo
 
 ### The bottom line
 
-Skip it. Mike and Sean both voted it off the Essential Games List. Sean liked it more than Dragon Warrior and parts of it more than Final Fantasy, but called it bare bones and disrespectful of your time. Mike never felt the sense of adventure the box promised, only the challenge. We are hoping Dragon Warrior 3 changes the formula.
+Skip it. We both voted it off the Essential Games List. Sean liked it more than Dragon Warrior and parts of it more than Final Fantasy, but called it bare bones and disrespectful of your time. Mike never felt the sense of adventure the box promised, only the challenge. We are hoping Dragon Warrior 3 changes the formula.

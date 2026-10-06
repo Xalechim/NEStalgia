@@ -20,4 +20,4 @@ Bad News Baseball is from Tecmo, based on Japan's Nippon Professional Baseball (
 
 ### The bottom line
 
-Play it. Mike and Joe both voted no on the Essential Games List. Mike's line was that a baseball game gets one strike, and until one changes what baseball is on the NES, they stay off. Joe called it fine, as good as a bunch of others we've played, but not essential. The fielding and close-play cutscenes do improve on past NES baseball, which is why it's worth a game or two, though these games are starting to blur together.
+Play it. We both voted no on the Essential Games List. Mike's line was that a baseball game gets one strike, and until one changes what baseball is on the NES, they stay off. Joe called it fine, as good as a bunch of others we've played, but not essential. The fielding and close-play cutscenes do improve on past NES baseball, which is why it's worth a game or two, though these games are starting to blur together.

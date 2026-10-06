@@ -21,4 +21,4 @@ Ports ran across Amiga, Atari ST, C64 and ZX Spectrum. Two remakes arrived in 20
 
 ### The bottom line
 
-Play it. In the Essential Games List vote, Mike and Sean both left it off: Mike won't come back to it and found the action parts too divided from the board game, and Sean called it not essential but recommended it. If the Nobunaga games made you doubt you like strategy, this scratches the itch.
+Play it. In the Essential Games List vote, we both left it off: Mike won't come back to it and found the action parts too divided from the board game, and Sean called it not essential but recommended it. If the Nobunaga games made you doubt you like strategy, this scratches the itch.

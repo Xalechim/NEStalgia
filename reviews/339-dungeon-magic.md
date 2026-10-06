@@ -21,4 +21,4 @@ The 1994 Dungeon Magic is an isometric beat-em-up with nothing in common except 
 
 ### The bottom line
 
-Skip it. Mike and Sean both voted no, so it stays off the Essential Games List. Our praise amounted to "cool, you did it," and it took 25 minutes to reach the first quest giver, even with no enemies in the castle. We think someone who loves hardcore dungeon crawlers might appreciate the restrictions,. As it stands, we wouldn't send anyone here.
+Skip it. We both voted no, so it stays off the Essential Games List. Our praise amounted to "cool, you did it," and it took 25 minutes to reach the first quest giver, even with no enemies in the castle. We think someone who loves hardcore dungeon crawlers might appreciate the restrictions,. As it stands, we wouldn't send anyone here.

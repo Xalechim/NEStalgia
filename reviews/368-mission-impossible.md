@@ -22,4 +22,4 @@ GamePro gave it a perfect 25 out of 25, and we couldn't see why. We also noted I
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted it off the Essential Games List. Mike called it tough in a way that isn't rewarding, Sean liked it more on paper than in practice, and Joe burned out before the fun took hold. The first level is still worth a taste if you like spy games.
+Skip it. We all voted it off the Essential Games List. Mike called it tough in a way that isn't rewarding, Sean liked it more on paper than in practice, and Joe burned out before the fun took hold. The first level is still worth a taste if you like spy games.

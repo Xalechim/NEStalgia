@@ -23,4 +23,4 @@ Capcom took robot designs from a fan contest with more than 50,000 entries, and 
 
 ### The bottom line
 
-Essential. Mike, Joe and Sean all voted it onto the list. Joe said all three NES games earn it. Sean agreed reluctantly: he didn't have much fun this time, but could see it plainly improves on two games he'd already voted Essential. It leaves Mike questioning whether Mega Man 1 and 2 should stay, a conversation for another episode.
+Essential. We all voted it onto the list. Joe said all three NES games earn it. Sean agreed reluctantly: he didn't have much fun this time, but could see it plainly improves on two games he'd already voted Essential. It leaves Mike questioning whether Mega Man 1 and 2 should stay, a conversation for another episode.

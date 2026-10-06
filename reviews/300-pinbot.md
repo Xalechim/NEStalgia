@@ -22,4 +22,4 @@ We dreamed up a four-player table where everyone scores only their own ball, and
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no, with Sam absent. Mike said it does not go above and beyond pinball as a category, and not every genre needs a representative. Sean agreed. Joe called it his favorite NES pinball game so far, though none of them have blown him away. If you want pinball on the NES, start here, but it is not essential.
+Skip it. We all voted no. Mike said it does not go above and beyond pinball as a category, and not every genre needs a representative. Sean agreed. Joe called it his favorite NES pinball game so far, though none of them have blown him away. If you want pinball on the NES, start here, but it is not essential.

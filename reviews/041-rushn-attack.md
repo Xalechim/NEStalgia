@@ -23,4 +23,4 @@ The arcade plot had you rescuing prisoners from firing squads. The NES version s
 
 ### The bottom line
 
-Skip it. In the Essential Games List vote, Sam and Joe both said it is not essential. Sam said it feels like Trojan and other games that had more in them, and Joe said it just isn't very fun. Joe also noted this is the same Konami that gave us Gradius, our game of the year, and we'd have felt gypped getting this after loving that.
+Skip it. In the Essential Games List vote, we both said it is not essential. Sam said it feels like Trojan and other games that had more in them, and Joe said it just isn't very fun. Joe also noted this is the same Konami that gave us Gradius, our game of the year, and we'd have felt gypped getting this after loving that.

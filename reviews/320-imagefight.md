@@ -20,4 +20,4 @@ It came a year after Irem's R-Type, which we haven't played on the NES. The FM T
 
 ### The bottom line
 
-Skip it. We just put Dragon Spirit on the Essential Games List, and ImageFight felt like it took the wrong lessons from that kind of game: the speed and pod ideas are fun, but they didn't change what a shmup is. Mike, Sean and Joe all voted no. We liked it and called it a Play it, but Sean found it flawed in ways Dragon Spirit wasn't, and Joe said that if you twisted his arm he'd play it, but it didn't stick out. Three no votes kept it off the list.
+Skip it. We just put Dragon Spirit on the Essential Games List, and ImageFight felt like it took the wrong lessons from that kind of game: the speed and pod ideas are fun, but they didn't change what a shmup is. We all voted no. We liked it and called it a Play it, but Sean found it flawed in ways Dragon Spirit wasn't, and Joe said that if you twisted his arm he'd play it, but it didn't stick out. Three no votes kept it off the list.

@@ -20,4 +20,4 @@ We wanted this engine with a looser, more arcade feel. It also has a Game Boy co
 
 ### The bottom line
 
-Skip it. Mike and Sean both voted it off the Essential Games List. It is a tech demo of what the NES can do, and a nice addition to the library for NASCAR fans, who finally got the real thing. But a simulation with this little content is not a game we would keep going back to, and Rad Racer and RC Pro-Am are still the more fun racers today.
+Skip it. We both voted it off the Essential Games List. It is a tech demo of what the NES can do, and a nice addition to the library for NASCAR fans, who finally got the real thing. But a simulation with this little content is not a game we would keep going back to, and Rad Racer and RC Pro-Am are still the more fun racers today.

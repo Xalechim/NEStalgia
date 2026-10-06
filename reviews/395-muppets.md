@@ -22,4 +22,4 @@ The game started on Apple II and Commodore 64, and it shows. The back of the box
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all said it was not essential. Sean said it was the first time "shovelware" crossed his mind, and Mike called it next level bad and lazy. It is a shame, since this might have been the one shot at Kermit and friends as a Nintendo mascot platformer with different abilities.
+Skip it. We all said it was not essential. Sean said it was the first time "shovelware" crossed his mind, and Mike called it next level bad and lazy. It is a shame, since this might have been the one shot at Kermit and friends as a Nintendo mascot platformer with different abilities.

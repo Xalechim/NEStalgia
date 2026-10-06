@@ -16,4 +16,4 @@ Hype music during offensive possessions is the one thing the presentation gets r
 
 ### The bottom line
 
-Skip it. Mike and Sean both voted no on the Essential Games List. Sean called it a pretty bad game that may as well be a demo of a launch-era NES basketball game. We felt the same: there are better basketball games and better ways to experience the Globetrotters, who did not list themselves as designers the way Bill Elliott did.
+Skip it. We both voted no on the Essential Games List. Sean called it a pretty bad game that may as well be a demo of a launch-era NES basketball game. We felt the same: there are better basketball games and better ways to experience the Globetrotters, who did not list themselves as designers the way Bill Elliott did.

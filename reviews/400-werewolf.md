@@ -22,4 +22,4 @@ The manual puts the game on Red Earth, which no one could explain. After the cre
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no, so it stays off the Essential Games List. Mike said the werewolf doesn't feel cool to play and there is no tight gameplay. Sean said the presentation is great but the controls are too bad to put it on the list, though it will stick in his memory. Joe said it feels sticky and he never feels like a badass werewolf. If you want to see what it's about, play on a full moon night.
+Skip it. We all voted no, so it stays off the Essential Games List. Mike said the werewolf doesn't feel cool to play and there is no tight gameplay. Sean said the presentation is great but the controls are too bad to put it on the list, though it will stick in his memory. Joe said it feels sticky and he never feels like a badass werewolf. If you want to see what it's about, play on a full moon night.

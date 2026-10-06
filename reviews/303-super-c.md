@@ -22,4 +22,4 @@ Co-op is more fun and also a bit harder: if one player falls behind the screen, 
 
 ### The bottom line
 
-Essential. Sean and Joe voted yes, Mike voted no, and it joined the Essential Games List, with Sam absent. Mike called it more Contra rather than a clear improvement, and the missing Konami code and heavier difficulty were enough for him to keep the original on the list as the more accessible version of the same experience. Sean said there is room for two Contras. Joe called it at least as good as the original, a game he would recommend on the NES today.
+Essential. Sean and Joe voted yes, Mike voted no, and it joined the Essential Games List. Mike called it more Contra rather than a clear improvement, and the missing Konami code and heavier difficulty were enough for him to keep the original on the list as the more accessible version of the same experience. Sean said there is room for two Contras. Joe called it at least as good as the original, a game he would recommend on the NES today.

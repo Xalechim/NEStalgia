@@ -17,4 +17,4 @@ Mike, Sean and Joe all sat down for this one, and we spent as much time on the P
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no on the game, and Mike also gave the Power Glove a no and the NES a yes as the essential console. Mike blamed Mattel for shipping something that works one time in ten, and Sean's gripe was the copy-pasted Mattel logo on the title screen. Joe said it's not executed well, even if people in 1990 bought it for the awe factor. We enjoyed talking about it more than playing it, and pitched first-person volleyball and Marble Madness, with your fist as the fulcrum, as better ideas.
+Skip it. We all voted no on the game, and Mike also gave the Power Glove a no and the NES a yes as the essential console. Mike blamed Mattel for shipping something that works one time in ten, and Sean's gripe was the copy-pasted Mattel logo on the title screen. Joe said it's not executed well, even if people in 1990 bought it for the awe factor. We enjoyed talking about it more than playing it, and pitched first-person volleyball and Marble Madness, with your fist as the fulcrum, as better ideas.

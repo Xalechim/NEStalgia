@@ -24,4 +24,4 @@ The manual has a 13-page comic that is arguably the best part, and it quietly sl
 
 ### The bottom line
 
-Skip it. Mike and Sean both voted it off the Essential Games List. Mike found it competent but offering nothing new. Sean liked it more, since every level has a different idea, but said it isn't well executed. If you're curious about a game that ignores every NES design rule, give it a try.
+Skip it. We both voted it off the Essential Games List. Mike found it competent but offering nothing new. Sean liked it more, since every level has a different idea, but said it isn't well executed. If you're curious about a game that ignores every NES design rule, give it a try.

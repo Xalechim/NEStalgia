@@ -22,4 +22,4 @@ The final boss is a dinosaur (or dragon, or in our ruling a platypus). You blow 
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no on the Essential Games List. The complaints were boring level starts, collecting that feels optional but isn't, and a game that is fine but forgettable. Joe had the most fun, calling it very flawed but very charming and close to a play it, though not essential.
+Skip it. We all voted no on the Essential Games List. The complaints were boring level starts, collecting that feels optional but isn't, and a game that is fine but forgettable. Joe had the most fun, calling it very flawed but very charming and close to a play it, though not essential.

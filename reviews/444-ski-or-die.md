@@ -16,4 +16,4 @@ The manual calls the penguins "punk penguins," which sent us off wondering what 
 
 ### The bottom line
 
-Skip it. In the Essential Games List segment Mike, Sean and Joe all voted no. Joe called it up there with his favorite sports-compilation games, which tells you how low that bar sits, but even the half pipe and the snowball fight left him wanting a whole game built around just one of them. Sean thought it a fine, serviceable game to own, and nobody could shake how strange it was to go from skating to skiing and keep the Rodney Dangerfield characters.
+Skip it. In the Essential Games List segment we all voted no. Joe called it up there with his favorite sports-compilation games, which tells you how low that bar sits, but even the half pipe and the snowball fight left him wanting a whole game built around just one of them. Sean thought it a fine, serviceable game to own, and nobody could shake how strange it was to go from skating to skiing and keep the Rodney Dangerfield characters.

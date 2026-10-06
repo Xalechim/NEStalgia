@@ -15,4 +15,4 @@ A button code on the title screen opens a debug menu called "system construction
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted no, so it stays off the Essential Games List. Joe loves a good Zapper game and didn't play this one with the Zapper; his review of the controller version was that it's fun in short twitches but basic. Sean said he and Joe will forget it ever happened. The arcade original is a lot more exciting than this port, and a debug screen isn't enough to make anything essential.
+Skip it. We all voted no, so it stays off the Essential Games List. Joe loves a good Zapper game and didn't play this one with the Zapper; his review of the controller version was that it's fun in short twitches but basic. Sean said he and Joe will forget it ever happened. The arcade original is a lot more exciting than this port, and a debug screen isn't enough to make anything essential.

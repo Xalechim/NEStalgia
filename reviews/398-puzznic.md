@@ -21,4 +21,4 @@ The manual's story says you have shot your last terrorist and beaten every game 
 
 ### The bottom line
 
-Play it. We called it a solid puzzle game that Mike thinks holds up better than Dr. Mario. Mike, Sean and Joe all said it is not essential, because neither mode has enough in it to be a full release, and Joe has outgrown sitting down with something this frustrating.
+Play it. We called it a solid puzzle game that Mike thinks holds up better than Dr. Mario. We all said it is not essential, because neither mode has enough in it to be a full release, and Joe has outgrown sitting down with something this frustrating.

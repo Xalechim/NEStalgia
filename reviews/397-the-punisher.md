@@ -24,4 +24,4 @@ We went down a rabbit hole of Punisher oddities: his first appearance in Amazing
 
 ### The bottom line
 
-Skip it. Mike, Sean and Joe all voted against putting it on the Essential Games List. It is a fine NES shooter and a technically impressive one, but there is little here to recommend even to Punisher fans.
+Skip it. We all voted against putting it on the Essential Games List. It is a fine NES shooter and a technically impressive one, but there is little here to recommend even to Punisher fans.

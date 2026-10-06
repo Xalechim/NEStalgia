@@ -27,4 +27,4 @@ Capcom gave the Japanese game Masked Ninja Hanamaru a visual overhaul. The origi
 
 ### The bottom line
 
-Skip it. Mike and Sean both voted it off the Essential Games List. It's a perfectly fine platformer and not offensively bad, but the game itself is almost wholly unremarkable. It had more value as a cultural object than as something to play.
+Skip it. We both voted it off the Essential Games List. It's a perfectly fine platformer and not offensively bad, but the game itself is almost wholly unremarkable. It had more value as a cultural object than as something to play.

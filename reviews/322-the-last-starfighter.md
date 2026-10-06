@@ -16,4 +16,4 @@ The best idea here is the small stage you circle like an X-Wing around a Star De
 
 ### The bottom line
 
-Skip it. Nobody voted it onto the Essential Games List, and with Mike, Sean and Joe all voting no, that settled it. Sean liked the odd shmup structure but called this more a fun story about the movie and its YouTube clips than a great game. Joe said he hated it.
+Skip it. Nobody voted it onto the Essential Games List, and that settled it. Sean liked the odd shmup structure but called this more a fun story about the movie and its YouTube clips than a great game. Joe said he hated it.
