@@ -4,7 +4,7 @@ Baseball was one of the NES launch games, and our verdict came out the way the r
 
 ### What it gets right
 
-- **Smart controls for a two-button pad.** There is a lot to learn, and the manual is worth reading. You can pick your pitch, steer the ball after it leaves your hand, pick runners off, send or hold them with the D-pad and B, and shuffle around the batter's box (we think of that as an ancient cousin of the "guess the pitch" feature in modern games). Joe, who defended the game, was impressed by how much you can do, Sam admired how many solutions Nintendo found to the controller's limits, and it even beat 10-Yard Fight for some of us.
+- **Smart controls for a two-button pad.** There is a lot to learn, and the manual is worth reading. You can pick your pitch, steer the ball after it leaves your hand, pick runners off, send or hold them with the D-pad and B, and shuffle around the batter's box (we think of that as an ancient cousin of the "guess the pitch" feature in modern games). Joe, who defended the game, was impressed by how much you can do, Sam admired how many solutions Nintendo found to the controller's limits, and we liked it more than 10-Yard Fight.
 - **It really is baseball.** The rules are all there. Getting a full game of baseball onto the NES in 1985 is an achievement on its own.
 - **Little touches.** The teams are real-style clubs shown only as a letter and a color, and the original Famicom version used Japanese teams. We loved the whooshing sound of the ball. It also lives on in NES Remix as a single bottom-of-the-ninth challenge, which we all agreed is the best way to play it.
 
