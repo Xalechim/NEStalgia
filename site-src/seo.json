@@ -268,6 +268,160 @@
         },
         "see_all_label": "See all of 1987 with our verdicts"
       }
+    },
+    "/articles/best-of-1988": {
+      "title": "The Top 10 NES Games of 1988 (Our Year-End Ranking) · NEStalgia",
+      "description": "Our ranking of the top 10 NES games of 1988, from Metal Gear and Spy vs. Spy up to Contra, Blaster Master and Super Mario Bros. 2, with the year's stats.",
+      "layout": "countdown",
+      "special": "s004-best-of-1988",
+      "heading": "Our top ten",
+      "intro": "Our top ten NES games of 1988, counted down from number ten to number one. Every game links to the episode where we covered it.",
+      "ranks": {
+        "10": 104,
+        "9": 132,
+        "8": 154,
+        "7": 93,
+        "6": 111,
+        "5": 103,
+        "4": 141,
+        "3": 92,
+        "2": 135,
+        "1": 133
+      },
+      "screenshots": {
+        "1": [
+          {
+            "file": "super-mario-bros-2-nes-screenshot-title.png",
+            "alt": "Super Mario Bros. 2: the title screen",
+            "px": true
+          },
+          {
+            "file": "super-mario-bros-2-nes-screenshot-gameplay.png",
+            "alt": "Super Mario Bros. 2: Luigi climbs a stack of green wavy hills past two Shy Guys, with the life meter at upper left",
+            "px": true
+          }
+        ],
+        "2": [
+          {
+            "file": "blaster-master-nes-screenshot-title.png",
+            "alt": "Blaster Master: the title screen",
+            "px": true
+          },
+          {
+            "file": "blaster-master-nes-screenshot-gameplay.png",
+            "alt": "Blaster Master: the tank drives across a rocky alien surface with the hover and power meters at left and Jason's enemy beside it",
+            "px": true
+          }
+        ],
+        "3": [
+          {
+            "file": "contra-nes-screenshot-title.png",
+            "alt": "Contra: the title screen",
+            "px": true
+          },
+          {
+            "file": "contra-nes-screenshot-gameplay.png",
+            "alt": "Contra: a commando fires across a rocky jungle ledge while a soldier runs along the ridge above and water ripples below",
+            "px": true
+          }
+        ],
+        "4": [
+          {
+            "file": "bionic-commando-nes-screenshot-title.png",
+            "alt": "Bionic Commando: the title screen",
+            "px": true
+          },
+          {
+            "file": "bionic-commando-nes-screenshot-gameplay.png",
+            "alt": "Bionic Commando: the commando in green hangs from a yellow brick building while an enemy fires from a balcony above",
+            "px": true
+          }
+        ],
+        "5": [
+          {
+            "file": "double-dragon-nes-screenshot-title.png",
+            "alt": "Double Dragon: the title screen",
+            "px": true
+          },
+          {
+            "file": "double-dragon-nes-screenshot-gameplay.png",
+            "alt": "Double Dragon: Billy and Jimmy walk down a city street past an orange brick building, with the skyline behind them",
+            "px": true
+          }
+        ],
+        "6": [
+          {
+            "file": "life-force-nes-screenshot-title.png",
+            "alt": "Life Force: the title screen",
+            "px": true
+          },
+          {
+            "file": "life-force-nes-screenshot-gameplay.png",
+            "alt": "Life Force: the ship flies through a blue cavern past red organic walls, with the speed power-up meter at the bottom",
+            "px": true
+          }
+        ],
+        "7": [
+          {
+            "file": "gun-smoke-nes-screenshot-title.png",
+            "alt": "Gun.Smoke: the title screen",
+            "px": true
+          },
+          {
+            "file": "gun-smoke-nes-screenshot-gameplay.png",
+            "alt": "Gun.Smoke: the cowboy fires up the screen at outlaws on a dusty street beside a saloon, with a barrel and the score at 600",
+            "px": true
+          }
+        ],
+        "8": [
+          {
+            "file": "zelda-ii-nes-screenshot-title.png",
+            "alt": "Zelda II: The Adventure of Link: the title screen",
+            "px": true
+          },
+          {
+            "file": "zelda-ii-nes-screenshot-gameplay.png",
+            "alt": "Zelda II: Link walks across a narrow bridge on the overworld map, with a palace on a small island and mountains below",
+            "px": true
+          }
+        ],
+        "9": [
+          {
+            "file": "spy-vs-spy-nes-screenshot-title.png",
+            "alt": "Spy vs. Spy: the title screen",
+            "px": true
+          },
+          {
+            "file": "spy-vs-spy-nes-screenshot-gameplay.png",
+            "alt": "Spy vs. Spy: the split screen shows the white spy in an orange room above and the black spy in a blue room below, with timers and power meters",
+            "px": true
+          }
+        ],
+        "10": [
+          {
+            "file": "metal-gear-nes-screenshot-title.png",
+            "alt": "Metal Gear: the title screen",
+            "px": true
+          },
+          {
+            "file": "metal-gear-nes-screenshot-gameplay.png",
+            "alt": "Metal Gear: Snake stands in a jungle clearing near a jeep with an enemy soldier nearby, with a life bar and rank star at the bottom",
+            "px": true
+          }
+        ]
+      },
+      "stats": {
+        "year": 1988,
+        "intro": "1988 was the year of the sequel. Here is the year at a glance."
+      },
+      "related": {
+        "heading": "Every NES game of 1988 we covered",
+        "year": 1988,
+        "see_all": {
+          "year": 1988
+        },
+        "see_all_label": "See all of 1988 with our verdicts"
+      }
     }
   },
   "episode_guides": [
@@ -400,6 +554,61 @@
       "number": 58,
       "href": "/articles/best-of-1987/#rank-1",
       "label": "Ranked #1 in our Top 10 NES Games of 1987"
+    },
+    {
+      "key": "s004-best-of-1988",
+      "href": "/articles/best-of-1988/",
+      "label": "Read the written recap: The Top 10 NES Games of 1988"
+    },
+    {
+      "number": 104,
+      "href": "/articles/best-of-1988/#rank-10",
+      "label": "Ranked #10 in our Top 10 NES Games of 1988"
+    },
+    {
+      "number": 132,
+      "href": "/articles/best-of-1988/#rank-9",
+      "label": "Ranked #9 in our Top 10 NES Games of 1988"
+    },
+    {
+      "number": 154,
+      "href": "/articles/best-of-1988/#rank-8",
+      "label": "Ranked #8 in our Top 10 NES Games of 1988"
+    },
+    {
+      "number": 93,
+      "href": "/articles/best-of-1988/#rank-7",
+      "label": "Ranked #7 in our Top 10 NES Games of 1988"
+    },
+    {
+      "number": 111,
+      "href": "/articles/best-of-1988/#rank-6",
+      "label": "Ranked #6 in our Top 10 NES Games of 1988"
+    },
+    {
+      "number": 103,
+      "href": "/articles/best-of-1988/#rank-5",
+      "label": "Ranked #5 in our Top 10 NES Games of 1988"
+    },
+    {
+      "number": 141,
+      "href": "/articles/best-of-1988/#rank-4",
+      "label": "Ranked #4 in our Top 10 NES Games of 1988"
+    },
+    {
+      "number": 92,
+      "href": "/articles/best-of-1988/#rank-3",
+      "label": "Ranked #3 in our Top 10 NES Games of 1988"
+    },
+    {
+      "number": 135,
+      "href": "/articles/best-of-1988/#rank-2",
+      "label": "Ranked #2 in our Top 10 NES Games of 1988"
+    },
+    {
+      "number": 133,
+      "href": "/articles/best-of-1988/#rank-1",
+      "label": "Ranked #1 in our Top 10 NES Games of 1988"
     }
   ],
   "redirects": {
