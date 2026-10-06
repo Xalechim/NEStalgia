@@ -90,7 +90,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 082 | The Karate Kid | [notes](082-the-karate-kid.md) |
 | 083 | Kid Niki: Radical Ninja | [notes](083-kid-niki-radical-ninja.md) |
 | 084 | Star Force | [notes](084-star-force.md) |
-| 085 | Super Pitfall | [notes](085-super-pitfall.md) |
+| 085 | Super Pitfall | [notes](085-super-pitfall.md), [transcript](../transcripts/085-super-pitfall.md) |
 | 086 | Top Gun | [notes](086-top-gun.md) |
 | 087 | Side Pocket | [notes](087-side-pocket.md) |
 | 088 | Mega Man | [notes](088-mega-man.md), [transcript](../transcripts/088-mega-man.md) |
