@@ -217,8 +217,8 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 209 | Jordan VS Bird: One on One | [notes](209-jordan-vs-bird-one-on-one.md) |
 | 210 | The Adventures of Dino Riki | [notes](210-the-adventures-of-dino-riki.md) |
 | 211 | Air Fortress | [notes](211-air-fortress.md) |
-| 212 | Back to the Future | [notes](212-back-to-the-future.md) |
-| 213 | Bad Street Brawler | [notes](213-bad-street-brawler.md) |
+| 212 | Back to the Future | [notes](212-back-to-the-future.md), [transcript](../transcripts/212-back-to-the-future.md) |
+| 213 | Bad Street Brawler | [notes](213-bad-street-brawler.md), [transcript](../transcripts/213-bad-street-brawler.md) |
 | 214 | The Black Bass | [notes](214-the-black-bass.md) |
 | 215 | Castlequest | [notes](215-castlequest.md) |
 | 216 | DuckTales | [notes](216-ducktales.md) |
@@ -253,7 +253,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 246 | Shadowgate | [notes](246-shadowgate.md) |
 | 247 | Short Order / Eggsplode | [notes](247-short-order-eggsplode.md) |
 | 248 | Silent Service | [notes](248-silent-service.md) |
-| 249 | The Uncanny X-Men | [notes](249-the-uncanny-x-men.md) |
+| 249 | The Uncanny X-Men | [notes](249-the-uncanny-x-men.md), [transcript](../transcripts/249-the-uncanny-x-men.md) |
 | 250 | Willow | [notes](250-willow.md) |
 | 251 | 8 Eyes | [notes](251-8-eyes.md) |
 | 252 | Bases Loaded II - The Second Season | [notes](252-bases-loaded-ii-the-second-season.md) |
