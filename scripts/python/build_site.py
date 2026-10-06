@@ -336,7 +336,7 @@ def countdown_html(a, cfg, data, ep_map):
     if has_text(after):
         out.append(f'<div class="manual"><div class="mtab">What the year tells us</div>{prose(after, ep_map)}</div>')
     if has_text(before) or quote or has_text(after) or cfg.get("stats"):
-        out.append("<h2>Our top five</h2>")
+        out.append("<h2>%s</h2>" % E(cfg.get("heading", "Our top five")))
 
     pat = r'<figure><img src="([^"]*)"[^>]*><figcaption>(.*?)</figcaption></figure>(.*?)(?=<figure>|\Z)'
     for _cover, caption, rest in re.findall(pat, body, re.S):

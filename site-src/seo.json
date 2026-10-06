@@ -114,6 +114,160 @@
     "/articles/nestalgia/blog/is-nes-baseball-haunted": {
       "title": "Is NES Baseball Haunted? Four Spooky Clues · NEStalgia",
       "description": "Balls that pass right through you, creepy team names, fielders you can't control: our tongue-in-cheek case that the NES launch game Baseball is haunted."
+    },
+    "/articles/best-of-1987": {
+      "title": "The Top 10 NES Games of 1987 (Our Year-End Ranking) · NEStalgia",
+      "description": "Our ranking of the top 10 NES games of 1987, from Rygar and Kid Icarus up to Metroid, Mega Man, Castlevania, Punch-Out and The Legend of Zelda, with the year's stats.",
+      "layout": "countdown",
+      "special": "s003-best-of-1987",
+      "heading": "Our top ten",
+      "intro": "Our top ten NES games of 1987, counted down from number ten to number one. Every game links to the episode where we covered it.",
+      "ranks": {
+        "10": 50,
+        "9": 63,
+        "8": 39,
+        "7": 48,
+        "6": 71,
+        "5": 57,
+        "4": 88,
+        "3": 44,
+        "2": 76,
+        "1": 58
+      },
+      "screenshots": {
+        "1": [
+          {
+            "file": "the-legend-of-zelda-nes-screenshot-title.png",
+            "alt": "The Legend of Zelda: the title screen",
+            "px": true
+          },
+          {
+            "file": "the-legend-of-zelda-nes-screenshot-gameplay.png",
+            "alt": "The Legend of Zelda: Link on the overworld among rocks, with Octoroks around him and three hearts of life",
+            "px": true
+          }
+        ],
+        "2": [
+          {
+            "file": "mike-tysons-punch-out-nes-screenshot-title.png",
+            "alt": "Mike Tyson's Punch-Out: the title screen",
+            "px": true
+          },
+          {
+            "file": "mike-tysons-punch-out-nes-screenshot-gameplay.png",
+            "alt": "Mike Tyson's Punch-Out: Little Mac faces a boxer in the ring with the points counter reading 130 in round 1",
+            "px": true
+          }
+        ],
+        "3": [
+          {
+            "file": "castlevania-nes-screenshot-title.png",
+            "alt": "Castlevania: the title screen",
+            "px": true
+          },
+          {
+            "file": "castlevania-nes-screenshot-gameplay.png",
+            "alt": "Castlevania: Simon Belmont whips a red skeleton on a stone ledge in stage 2 over dark water",
+            "px": true
+          }
+        ],
+        "4": [
+          {
+            "file": "mega-man-nes-screenshot-title.png",
+            "alt": "Mega Man: the title screen",
+            "px": true
+          },
+          {
+            "file": "mega-man-nes-screenshot-gameplay.png",
+            "alt": "Mega Man: Mega Man on a brick floor in Cut Man's stage, with two blue flying robots and ladders overhead",
+            "px": true
+          }
+        ],
+        "5": [
+          {
+            "file": "metroid-nes-screenshot-title.png",
+            "alt": "Metroid: the title screen",
+            "px": true
+          },
+          {
+            "file": "metroid-nes-screenshot-gameplay.png",
+            "alt": "Metroid: Samus stands in a blue cavern with energy at 30 as two spiky creatures hover nearby",
+            "px": true
+          }
+        ],
+        "6": [
+          {
+            "file": "stinger-nes-screenshot-title.png",
+            "alt": "Stinger: the title screen",
+            "px": true
+          },
+          {
+            "file": "stinger-nes-screenshot-gameplay.png",
+            "alt": "Stinger: the ship flies over a green field with a church, bells and strawberries drifting through the sky",
+            "px": true
+          }
+        ],
+        "7": [
+          {
+            "file": "kid-icarus-nes-screenshot-title.png",
+            "alt": "Kid Icarus: the title screen",
+            "px": true
+          },
+          {
+            "file": "kid-icarus-nes-screenshot-gameplay.png",
+            "alt": "Kid Icarus: Pit stands on a pink brick platform in an underworld fortress while blue snakes slither nearby",
+            "px": true
+          }
+        ],
+        "8": [
+          {
+            "file": "slalom-nes-screenshot-title.png",
+            "alt": "Slalom: the title screen",
+            "px": true
+          },
+          {
+            "file": "slalom-nes-screenshot-gameplay.png",
+            "alt": "Slalom: a skier on the qualifying run heads down a gray slope past orange flags toward the mountains",
+            "px": true
+          }
+        ],
+        "9": [
+          {
+            "file": "raid-on-bungeling-bay-nes-screenshot-title.png",
+            "alt": "Raid on Bungeling Bay: the title screen",
+            "px": true
+          },
+          {
+            "file": "raid-on-bungeling-bay-nes-screenshot-gameplay.png",
+            "alt": "Raid on Bungeling Bay: the helicopter flies over the island coast while a factory and roads sit on the map",
+            "px": true
+          }
+        ],
+        "10": [
+          {
+            "file": "rygar-nes-screenshot-title.png",
+            "alt": "Rygar: the title screen",
+            "px": true
+          },
+          {
+            "file": "rygar-nes-screenshot-gameplay.png",
+            "alt": "Rygar: the warrior stands before a tall stone pillar at sunset, with two armored crawlers approaching",
+            "px": true
+          }
+        ]
+      },
+      "stats": {
+        "year": 1987,
+        "intro": "1987 was the NES's first full year as a third-party system. Here is the year at a glance."
+      },
+      "related": {
+        "heading": "Every NES game of 1987 we covered",
+        "year": 1987,
+        "see_all": {
+          "year": 1987
+        },
+        "see_all_label": "See all of 1987 with our verdicts"
+      }
     }
   },
   "episode_guides": [
