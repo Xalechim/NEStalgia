@@ -8,7 +8,7 @@
   - This game was first released in 1984
   - Many computer iterations first
   - Developed by just two guys
-  - Reminiscent of our Lode Runner, Raid on Bungling Bay, Spelunker Broderbund games
+  - Reminiscent of our Lode Runner, Raid on Bungeling Bay, Spelunker Broderbund games
   - This was published by JVC Musical Industries
 - Gameplay
   - Stages take place in caves. In each cave, Rockford has to collect a certain amount of diamonds while dodging obstacles. When enough diamonds have been collected, the exit door opens, and the level is over.
