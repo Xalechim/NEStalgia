@@ -11,8 +11,11 @@ A podcast covering the NES library one game at a time: history, development stor
 | `assets/branding/` | Logos, social, Twitch, Patreon and web art |
 | `assets/episode-art/` | Cover art for every episode in the feed (1000 px JPEGs), with an [index](assets/episode-art/README.md) |
 | `data/` | Every episode as JSON and CSV (title, date, length, links), with a [field guide](data/README.md) |
+| `docs/` | The [team handbook](docs/HANDBOOK.md): how the site is built and updated, and what to do when something happens |
 
 Audio, Audition sessions, and PSDs are kept out of the repo (see `.gitignore`).
+
+Spotted a mistake? See [CONTRIBUTING.md](CONTRIBUTING.md). Found a security problem? See [SECURITY.md](SECURITY.md).
 
 ## Episodes
 
