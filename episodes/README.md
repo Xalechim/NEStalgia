@@ -93,7 +93,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 085 | Super Pitfall | [notes](085-super-pitfall.md) |
 | 086 | Top Gun | [notes](086-top-gun.md) |
 | 087 | Side Pocket | [notes](087-side-pocket.md) |
-| 088 | Mega Man | [notes](088-mega-man.md) |
+| 088 | Mega Man | [notes](088-mega-man.md), [transcript](../transcripts/088-mega-man.md) |
 | 089 | Wizards & Warriors | [notes](089-wizards-warriors.md) |
 | 090 | Karnov | [notes](090-karnov.md) |
 | 091 | Renegade | [notes](091-renegade.md) |
