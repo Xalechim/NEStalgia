@@ -1,0 +1,2047 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.060
+Archon, Strategy That Hurts.
+
+00:00:18.120 --> 00:00:26.000
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:26.220 --> 00:00:27.680
+I'm Mike. I'm Sean.
+
+00:00:28.060 --> 00:00:29.020
+And I'm Joe.
+
+00:00:30.100 --> 00:00:31.960
+Today we're playing Archon.
+
+00:00:32.440 --> 00:00:36.160
+Archon has a lot of similarities to chess, but it's not chess.
+
+00:00:36.440 --> 00:00:40.380
+Are we surprised that we haven't seen more traditional tabletop games?
+
+00:00:40.580 --> 00:00:46.840
+We had Othello pretty recently, but also not recently if you think about these things only
+
+00:00:46.840 --> 00:00:49.900
+coming out weekly that makes it seem like it was further away.
+
+00:00:50.180 --> 00:00:51.040
+What are you guys' thoughts?
+
+00:00:51.220 --> 00:00:57.800
+Should we have gotten a chess game before a video game adaptation of a game similar to chess?
+
+00:00:57.800 --> 00:00:59.580
+I don't think so.
+
+00:01:00.000 --> 00:01:05.040
+I mean, I think that I'm surprised we haven't seen more tabletop-like games that utilize the
+
+00:01:05.040 --> 00:01:07.600
+fact that it's a video game in an interesting way.
+
+00:01:08.020 --> 00:01:11.840
+Like chess, great, yeah, put it on the NES, but I can also just play chess.
+
+00:01:12.300 --> 00:01:14.240
+Whereas this is like, you couldn't do this.
+
+00:01:14.240 --> 00:01:19.280
+Like, it's nice to see something a little different than just what you can do on the tabletop.
+
+00:01:19.900 --> 00:01:29.040
+I also don't know how recently, like, computer-controlled chess was even possible.
+
+00:01:29.320 --> 00:01:36.860
+Like, I know that it was definitely in the 80s that it was like, oh, a computer can actually
+
+00:01:36.860 --> 00:01:39.300
+play chess against a human and put up a fight.
+
+00:01:39.420 --> 00:01:42.500
+But I don't know, like, would that have been an NES thing?
+
+00:01:42.500 --> 00:01:48.520
+I mean, that's like my, at least why we wouldn't have a chess game, maybe not like a checkers
+
+00:01:48.520 --> 00:01:50.480
+game. Maybe we should have had a checkers game.
+
+00:01:51.820 --> 00:01:56.120
+But I guess they had to make up their own game to get that idea across.
+
+00:01:56.560 --> 00:02:03.080
+I don't really know the early computer chess games and stuff like that, but I have to imagine
+
+00:02:03.080 --> 00:02:09.780
+that if video games, even the concept of them was around in the 60s, that certainly people
+
+00:02:09.780 --> 00:02:15.160
+were also fiddling around with, like, chess computer engines back then, but clearly not
+
+00:02:15.160 --> 00:02:18.960
+the same kind of computer chess that you're referring to, Sean.
+
+00:02:19.040 --> 00:02:20.920
+I'm not trying to give you a gotcha.
+
+00:02:21.620 --> 00:02:23.800
+I mean, you know, it's also an NES.
+
+00:02:24.120 --> 00:02:28.980
+Like, it's whatever hardware they were using, it's probably better than this.
+
+00:02:29.340 --> 00:02:34.880
+Right, right. I feel like, you know, there was probably somebody way back when who made it this way.
+
+00:02:34.880 --> 00:02:40.860
+Yeah, it had no graphical interface or whatever, but it could, you could give a computer the
+
+00:02:40.860 --> 00:02:45.880
+information and it could tell you the next move that then you would have to manually use
+
+00:02:45.880 --> 00:02:48.140
+the chessboard to put the piece where it wanted it.
+
+00:02:48.300 --> 00:02:55.020
+But there would be no fun little, like, arena arcade in the middle there.
+
+00:02:55.020 --> 00:02:57.660
+So I think we're better off with what we got.
+
+00:02:57.660 --> 00:03:00.900
+Yeah, you're right, Sean, because this isn't chess.
+
+00:03:01.160 --> 00:03:07.400
+Even if the similarities are that, like, pieces have a certain amount of moves that each one can
+
+00:03:07.400 --> 00:03:11.880
+make. So, like, you know, in chess, pawns can't move the same way that bishops can.
+
+00:03:12.040 --> 00:03:14.900
+This game also has units that move uniquely.
+
+00:03:15.040 --> 00:03:22.000
+And it kind of has a checkered board 8x8, but this is a 9x9, and it's not fully alternating
+
+00:03:22.000 --> 00:03:24.000
+colors. It's kind of, there's sections.
+
+00:03:24.280 --> 00:03:25.220
+It's kind of breathing.
+
+00:03:25.960 --> 00:03:30.040
+Right, light and dark, and they change based on the time and stuff like that.
+
+00:03:30.620 --> 00:03:32.040
+Maybe I should break this down a little easier.
+
+00:03:32.180 --> 00:03:33.200
+You know, there's two sides.
+
+00:03:33.460 --> 00:03:35.580
+There's a light side and a dark side.
+
+00:03:35.760 --> 00:03:40.660
+And the light side, let's say, you know, the reason why I say light side and dark side are
+
+00:03:40.660 --> 00:03:43.700
+not white pieces and black pieces is because the teams are even different.
+
+00:03:43.700 --> 00:03:46.420
+It's unique based on whether you're on the light or the dark.
+
+00:03:46.780 --> 00:03:49.860
+So you have 18 pieces on each side.
+
+00:03:49.860 --> 00:03:52.700
+The board is 9x9 squares.
+
+00:03:52.960 --> 00:03:58.580
+And you win the game by having one of your units on each of the five PowerPoint squares,
+
+00:03:58.620 --> 00:04:02.380
+which is not something that is possible in chess at all.
+
+00:04:02.480 --> 00:04:08.100
+These are basically squares that are specifically designated as, hey, if you have a unit in all
+
+00:04:08.100 --> 00:04:10.360
+five of these, you automatically win the game.
+
+00:04:10.520 --> 00:04:12.980
+Think of, like, some Harry Potter Quidditch bullshit.
+
+00:04:12.980 --> 00:04:13.900
+Oh, that's some Quidditch shit.
+
+00:04:14.380 --> 00:04:16.360
+It's like, yeah, they have, like, it's pretty much soccer.
+
+00:04:16.360 --> 00:04:19.920
+And then all of a sudden there's this snitch that you can also just grab and automatically
+
+00:04:19.920 --> 00:04:23.740
+win the game. I don't know if I agree with that analogy at all.
+
+00:04:23.820 --> 00:04:26.820
+Because Quidditch is a very dumb rule.
+
+00:04:26.960 --> 00:04:29.260
+Like, there's a very dumb rule that ruins the game of Quidditch.
+
+00:04:29.320 --> 00:04:33.280
+I think this is actually a very interesting, like, this is almost like, this is what makes
+
+00:04:33.280 --> 00:04:34.680
+the game interesting to me.
+
+00:04:34.920 --> 00:04:36.880
+Oh, yeah. Well, I'm not saying it either way.
+
+00:04:36.900 --> 00:04:39.760
+I guess what I'm saying is that in chess, there's only one way to win.
+
+00:04:39.760 --> 00:04:46.600
+It's to pin the king so that he is in checkmate and can't possibly make a move that, you know,
+
+00:04:46.680 --> 00:04:48.680
+basically any other move would also kill him.
+
+00:04:48.760 --> 00:04:49.840
+So therefore the game is over.
+
+00:04:49.980 --> 00:04:56.220
+In this, there's, like, the win state of having five PowerPoint squares or removing all opposing
+
+00:04:56.220 --> 00:05:02.040
+pieces from the board or imprisoning the last remaining creature on the opposing side so
+
+00:05:02.040 --> 00:05:03.900
+that they can't move anywhere either.
+
+00:05:04.760 --> 00:05:09.620
+Yeah. Because I would say that overall this is not, like, as one-to-one to chess.
+
+00:05:09.760 --> 00:05:11.660
+As, like, it seems at first.
+
+00:05:12.220 --> 00:05:20.560
+Like, it's clearly, clearly inspired by chess and clearly, like, supposed to be, like, a
+
+00:05:21.480 --> 00:05:23.420
+take on a chess-like game.
+
+00:05:23.520 --> 00:05:28.040
+But it is not, like, an advanced or, like, altered version of chess.
+
+00:05:28.200 --> 00:05:31.800
+Like, it's very clearly its own game with, like, some DNA from chess.
+
+00:05:31.800 --> 00:05:40.280
+It's almost like the, um, a lot of it is just, um, cosmetically similar to chess and it's
+
+00:05:40.280 --> 00:05:50.600
+actually closer to, like, a, a grid-based tactical fighter like a, not, not XCOM, but, um, like
+
+00:05:50.600 --> 00:05:57.640
+an endless legend where on this grid, if you, if you go to, into battle via the grid with another
+
+00:05:57.640 --> 00:06:02.340
+character, then you'd go into, like, a tinier battle within that grid to actually figure
+
+00:06:02.340 --> 00:06:04.820
+out what's going to be the end state.
+
+00:06:05.300 --> 00:06:10.140
+Um, but yeah, I, I get that it's not, it's not going for that.
+
+00:06:10.420 --> 00:06:16.580
+Right. Because the difference here, obviously, is that in chess, uh, the, the pawn is, it's
+
+00:06:16.580 --> 00:06:19.420
+totally possible for the pawn to even go as far as checkmating.
+
+00:06:19.620 --> 00:06:23.820
+It's not that the pawn is not as powerful as the queen, it's just that the movement is
+
+00:06:23.820 --> 00:06:26.940
+different, but certainly all pieces can beat other pieces.
+
+00:06:26.940 --> 00:06:31.540
+If the queen is diagonal to the pawn, the pawn can capture it on the next move.
+
+00:06:32.000 --> 00:06:38.220
+Here, the, you know, any piece has the, uh, ability to take down another piece.
+
+00:06:38.220 --> 00:06:41.400
+It's just not, you don't remove the piece by landing on it.
+
+00:06:41.620 --> 00:06:47.200
+And instead, when you land on the opposing piece, the two pieces, uh, battle it out.
+
+00:06:47.460 --> 00:06:52.100
+It's, uh, it brings you into an arena based on the, uh, color of the board.
+
+00:06:52.260 --> 00:06:54.740
+So there's neutral, uh, light and dark.
+
+00:06:54.940 --> 00:06:58.600
+So in neutral, it's an even battle in a light square.
+
+00:06:58.760 --> 00:07:01.080
+It's, uh, heavily favoring the light side.
+
+00:07:01.260 --> 00:07:04.040
+And in a dark square, it's heavily favoring the dark side.
+
+00:07:04.040 --> 00:07:08.420
+And even aesthetically, the graphics kind of change a little bit, uh, and change the
+
+00:07:08.420 --> 00:07:09.860
+kind of sprites that you see on screen.
+
+00:07:10.260 --> 00:07:14.320
+However, in this battle, it is a one-on-one real-time combat system.
+
+00:07:14.460 --> 00:07:17.060
+There is no, uh, there's no strategy here.
+
+00:07:17.180 --> 00:07:19.540
+This is where the action combat comes into play.
+
+00:07:20.000 --> 00:07:25.900
+And, uh, whoever wins, uh, based on the, uh, losing HP first, whoever, uh, takes the
+
+00:07:25.900 --> 00:07:29.700
+piece, then they get that square and the other piece is removed from the board.
+
+00:07:29.700 --> 00:07:35.000
+So, uh, you know, this actually has a, has like a Harry Potter element to it too, right,
+
+00:07:35.300 --> 00:07:40.100
+uh, Joe? Where like, there's that in the Sorcerer's Stone, the, they play the chess.
+
+00:07:40.160 --> 00:07:41.180
+Yeah, the wizard's chess.
+
+00:07:41.620 --> 00:07:43.220
+Right. Yeah. And they actually fight.
+
+00:07:43.720 --> 00:07:45.600
+Yeah. I think that that's a really cool.
+
+00:07:45.680 --> 00:07:49.300
+I don't know that if in Harry Potter though, if there's ever like a way where it's like,
+
+00:07:49.420 --> 00:07:51.920
+Hey, you've made the correct move in chess to take it.
+
+00:07:52.020 --> 00:07:57.220
+But like the other, I actually never thought of that, but like that the other, um, defending
+
+00:07:57.220 --> 00:07:59.820
+opponent could like just be stronger and still kill you.
+
+00:08:00.240 --> 00:08:05.220
+Um, I assume it's not, but that is one thing that's cool about this too, is like the strategy
+
+00:08:05.220 --> 00:08:12.140
+all comes from trying to attack your opponent when they're on a square that gives you the
+
+00:08:12.140 --> 00:08:15.900
+advantage and not be attacked while you're on a square that gives them the advantage.
+
+00:08:16.500 --> 00:08:22.880
+Um, but yeah, it's totally possible to be like a very weak character, uh, or, you know,
+
+00:08:22.880 --> 00:08:26.840
+a weak player being attacked or like a weak piece or whatever being attacked by a strong
+
+00:08:26.840 --> 00:08:32.460
+piece. And like, if you're just, if you just that skilled at like action based video games, you
+
+00:08:32.460 --> 00:08:35.060
+might still win. It's just going to be a lot harder that way.
+
+00:08:35.180 --> 00:08:38.940
+So like, if you're not good at that, you better rely heavily on the strategy to give
+
+00:08:38.940 --> 00:08:40.520
+you as many advantages as possible.
+
+00:08:41.240 --> 00:08:48.060
+Um, Mike, can you tweet JK Rowling to confirm, um, whether or not that's how that game worked?
+
+00:08:48.400 --> 00:08:51.000
+Yeah. I hear she's pretty active on social media these days.
+
+00:08:51.000 --> 00:08:54.420
+Yeah. I just, I know that you can get some information that way.
+
+00:08:54.460 --> 00:09:03.120
+Um, but no, like I, I, I like that there are two different variables that go into like,
+
+00:09:03.300 --> 00:09:07.820
+what should I try and like, am I going to be able to win this fight?
+
+00:09:07.940 --> 00:09:11.340
+You've got different grades of hero.
+
+00:09:11.700 --> 00:09:16.440
+Like you've got the pawn equivalent, which are, you know, they can just go stabby, stabby
+
+00:09:16.440 --> 00:09:17.520
+or bashy, bashy.
+
+00:09:17.620 --> 00:09:23.900
+And then all of like the back row characters have some kind of special skill, uh, whether
+
+00:09:23.900 --> 00:09:32.980
+it's, uh, like the golems that just throw a really big rock or, um, the, the Phoenix,
+
+00:09:33.240 --> 00:09:35.620
+which is sort of explodes itself over and over.
+
+00:09:35.620 --> 00:09:43.320
+Like there's a lot of asymmetry and, and, uh, variety in, uh, power, but then you also
+
+00:09:43.320 --> 00:09:46.300
+add that sort of environmental changes.
+
+00:09:46.300 --> 00:09:52.740
+Like you've got the, the piece, you've got the board, uh, board squares that are always
+
+00:09:52.740 --> 00:09:54.120
+going to favor one of the other.
+
+00:09:54.340 --> 00:09:59.420
+And then you've got all these central areas that, uh, it's all about timing, whether it's
+
+00:09:59.420 --> 00:10:00.720
+going to favor you or not.
+
+00:10:01.360 --> 00:10:06.040
+Um, so it, it leads to a lot of at least room for strategy.
+
+00:10:06.400 --> 00:10:11.680
+Yeah. And it's, and it's heavily layered too, because like, yeah, we, I mean, maybe I'm just repeating
+
+00:10:11.680 --> 00:10:14.540
+what you just said, Sean, but like you're, we're, we're talking about the strategy of
+
+00:10:14.540 --> 00:10:20.240
+the actual board movement, but then also like, yeah, using the, the different stats of the
+
+00:10:20.240 --> 00:10:24.340
+different characters, you got to think like, yes, it makes sense like that by, you know,
+
+00:10:24.340 --> 00:10:29.440
+the unicorn can go take out this, uh, you know, gall or whatever I'm trying to think
+
+00:10:29.440 --> 00:10:33.260
+of things, the dragon, but you got to think about like, well, okay, but what's my unicorn's
+
+00:10:33.260 --> 00:10:34.320
+attack and how fast is it?
+
+00:10:34.340 --> 00:10:35.400
+And how much health does it have?
+
+00:10:35.540 --> 00:10:39.400
+And I have, I've been attacked recently and will I have less health?
+
+00:10:39.520 --> 00:10:42.520
+Yeah. And like the, you know, what's the stats of the thing I'm attacking?
+
+00:10:42.620 --> 00:10:46.640
+So there's like, even though the action part is not quite as like just a strategy game
+
+00:10:46.640 --> 00:10:50.700
+as like the board part, there's still like that action video game strategy.
+
+00:10:50.860 --> 00:10:54.060
+You have to think about like, okay, what's the best strategy for this character against
+
+00:10:54.060 --> 00:10:57.480
+this character? Like it really goes pretty deep.
+
+00:10:57.800 --> 00:11:02.940
+If you think of, you know, those action segments are very simple, like there, which is nice,
+
+00:11:02.980 --> 00:11:05.160
+which I think was, is necessary for a game like this.
+
+00:11:05.300 --> 00:11:10.240
+They're very simple to play, but it's, but everyone has a different, you know, stat set.
+
+00:11:10.440 --> 00:11:15.300
+Yeah. So let's talk about the actual combat because I feel like most people can visualize the,
+
+00:11:15.300 --> 00:11:18.900
+the chessboard pieces and you know, how that part of the game works.
+
+00:11:19.020 --> 00:11:23.880
+Even if you don't know the five PowerPoint squares are just essentially the, uh, like the
+
+00:11:24.060 --> 00:11:29.660
+the, across on the screen with the middle piece being the, uh, the middle centerpiece being
+
+00:11:29.660 --> 00:11:30.660
+the fifth point.
+
+00:11:30.860 --> 00:11:35.000
+And if you can somehow, you know, I think that's great because then there's, uh, two sides,
+
+00:11:35.140 --> 00:11:39.020
+three sides in the middle of the board and then one on each side for the light and dark.
+
+00:11:39.020 --> 00:11:43.760
+So this way you can't just run to race to these squares and call game over.
+
+00:11:43.920 --> 00:11:46.420
+You would have to definitely get into some kind of combat.
+
+00:11:46.420 --> 00:11:47.860
+Yeah. With the opposing side.
+
+00:11:48.140 --> 00:11:55.860
+Because the, but the default space that like the king or slash queen equivalent, um,
+
+00:11:56.220 --> 00:12:02.500
+or just the most powerful unit on the board for each team, their default space is one of
+
+00:12:02.500 --> 00:12:03.580
+those power spaces.
+
+00:12:03.940 --> 00:12:09.060
+Right. So to get away from the strategy for a second, I'd like to stay on the, the combat, which
+
+00:12:09.060 --> 00:12:13.720
+you both have alluded to is a little simple, uh, but still has some problems.
+
+00:12:13.720 --> 00:12:18.600
+Uh, I think even, even if it is, it's great on one hand that it is fast, uh, it would suck
+
+00:12:18.600 --> 00:12:24.120
+if these then took you into very long battles that decide the outcome of something that by
+
+00:12:24.120 --> 00:12:27.420
+the time you got back to the board, you were kind of like, wait, what was my strategy?
+
+00:12:27.740 --> 00:12:28.760
+What was I going for?
+
+00:12:28.860 --> 00:12:31.060
+You know, to have to recalibrate between the scenes.
+
+00:12:31.200 --> 00:12:34.720
+It's nice that they're fast, but I don't think there's actually enough going on in this
+
+00:12:34.720 --> 00:12:38.840
+combat, even between the different units to make this part of the game fun.
+
+00:12:38.840 --> 00:12:46.360
+Uh, this real time action is, uh, top down and most enemies other than the, uh, the pawn
+
+00:12:46.360 --> 00:12:53.400
+units, most enemies shoot like a projectile bullet that doesn't, uh, doesn't shoot often.
+
+00:12:53.400 --> 00:12:58.700
+I think some of them have like a faster reload than others, but it's hard to tell when you're
+
+00:12:58.700 --> 00:13:00.080
+like good to shoot again.
+
+00:13:00.300 --> 00:13:06.140
+Uh, and especially in squares where it's, you know, you're, you're heavily favored or heavily
+
+00:13:06.140 --> 00:13:08.740
+disfavored based on the, uh, light or dark square.
+
+00:13:09.120 --> 00:13:11.480
+This can be a huge problem for the other unit.
+
+00:13:11.480 --> 00:13:16.240
+And I feel like the game lost a little bit of its balance in the actual combat versus the
+
+00:13:16.240 --> 00:13:18.980
+proposed, uh, idea of this combat.
+
+00:13:19.960 --> 00:13:26.640
+Yeah. I don't know if I agree because I, you know, I think that if it were any less simple, I
+
+00:13:26.640 --> 00:13:28.820
+think you'd be taking away from the overall game.
+
+00:13:28.920 --> 00:13:34.040
+Like, like, I feel like this is here as like a means to just add something that you have
+
+00:13:34.040 --> 00:13:38.360
+to think about when you go to attack, like, okay, now will I be able to take on this person?
+
+00:13:38.680 --> 00:13:42.980
+I, I thought that these sections, while I will say I'm not good at them when I'm playing
+
+00:13:42.980 --> 00:13:49.400
+against the computer. Um, so like maybe that, that, you know, if I get a little better at them, I'll, I'll
+
+00:13:49.400 --> 00:13:55.780
+like them even more. But, um, but these sections are very easy to like pick up and like, like that's all you
+
+00:13:55.780 --> 00:14:01.320
+kind of need. Like, it's just like the, it's just the extra bit of strategy to add to it.
+
+00:14:01.320 --> 00:14:05.880
+And like you said, I, I'm glad that it's not any longer, but like, as far as the, the
+
+00:14:05.880 --> 00:14:10.680
+recharging of your attack or of your projectile, I mean, I think that that's also meant to
+
+00:14:10.680 --> 00:14:11.500
+be part of it.
+
+00:14:11.620 --> 00:14:15.640
+You know, each, each character has a different recharge rate and you have to think about
+
+00:14:15.640 --> 00:14:19.500
+that as you're, as you're attacking, who you're attacking, like, oh, this guy recharges
+
+00:14:19.500 --> 00:14:24.940
+really fast. Um, and also, I don't know if you noticed, but each, the light side has like a, like
+
+00:14:24.940 --> 00:14:28.000
+a high pitch chime that tells you when you're reloaded.
+
+00:14:28.000 --> 00:14:30.960
+And the dark side has a low pitch chime that tells when they're reloaded.
+
+00:14:31.020 --> 00:14:35.220
+So you always know if you're, if you're listening to that, when each player is ready to shoot,
+
+00:14:35.320 --> 00:14:38.480
+even your enemy. So you can like use that to be like, okay, he's ready to shoot.
+
+00:14:38.580 --> 00:14:40.700
+I better kind of like try and bait that out of them.
+
+00:14:40.820 --> 00:14:41.960
+And like, okay, I'm ready to shoot now.
+
+00:14:42.040 --> 00:14:43.040
+I can attack.
+
+00:14:44.240 --> 00:14:53.180
+Yeah. I think the, the one thing that bothered me, uh, in the actual combat sequences wasn't
+
+00:14:53.180 --> 00:14:58.560
+so much the simplicity of it because I agree that that was the right choice in something
+
+00:14:58.560 --> 00:15:05.600
+like this. It was more so that there's, there's a bit of jankiness, um, especially when you're maneuvering
+
+00:15:05.600 --> 00:15:12.220
+around the little obstacles, which I think it's, it's necessary just so that like, like
+
+00:15:12.220 --> 00:15:17.220
+all these obstacles need to be there just to add some asymmetry to the arena.
+
+00:15:17.220 --> 00:15:21.920
+So it's not just like, all right, you shoot him and he shoots you and stand on the other
+
+00:15:21.920 --> 00:15:22.720
+side of the room.
+
+00:15:22.920 --> 00:15:29.560
+Uh, like in some of their, they're like gravestones and some their rocks and some their like weird
+
+00:15:29.560 --> 00:15:30.360
+statues.
+
+00:15:30.960 --> 00:15:37.000
+Um, but whenever you're maneuvering around those, like the game doesn't know what to do with
+
+00:15:37.000 --> 00:15:44.520
+collision. It seems like it, it, it sort of will pop you all around the, the, the obstacle in question
+
+00:15:44.520 --> 00:15:48.840
+and spit you out somewhere, uh, touching it.
+
+00:15:48.980 --> 00:15:53.760
+I can't, I don't know if I'm doing a very good job of describing what this feels like,
+
+00:15:53.880 --> 00:15:59.080
+but it's almost like the equivalent of in an online game, like weird rubber banding and
+
+00:15:59.080 --> 00:16:00.940
+you just end up in a, in a strange spot.
+
+00:16:01.140 --> 00:16:02.840
+I don't know if you guys experienced this.
+
+00:16:02.940 --> 00:16:03.840
+Did you? Yeah, I did.
+
+00:16:03.920 --> 00:16:04.880
+It's like a bounce.
+
+00:16:05.020 --> 00:16:07.680
+It bounces you around on the, on those obstacles.
+
+00:16:07.880 --> 00:16:11.980
+So instead of being like you, you're either clipping through them on accident or they're
+
+00:16:11.980 --> 00:16:17.080
+like pushing you back so hard that, uh, it screws up your movement.
+
+00:16:17.380 --> 00:16:21.760
+And it's not even like, it doesn't even show, it doesn't, it doesn't feel like it's supposed
+
+00:16:21.760 --> 00:16:22.640
+to be done on purpose.
+
+00:16:22.680 --> 00:16:27.920
+It feels like it's not doing a calculation correctly.
+
+00:16:28.480 --> 00:16:32.400
+Yeah. It's weird. Cause it's like, these things are supposed to be solid objects, but they made it.
+
+00:16:32.480 --> 00:16:36.420
+So it's like, yeah, you, you, you can use them as cover for cover and stuff, which I
+
+00:16:36.420 --> 00:16:37.580
+think is what they're for.
+
+00:16:37.580 --> 00:16:43.060
+And like what I like about them, but it's like, yeah, you weirdly blink through them.
+
+00:16:43.360 --> 00:16:46.080
+Like, but, but you said not necessarily in the direction you're going.
+
+00:16:46.200 --> 00:16:47.540
+Sometimes it'll pop you somewhere else.
+
+00:16:47.540 --> 00:16:52.600
+So it's like, they're helpful, but they're also kind of harmful and it does not feel like
+
+00:16:52.600 --> 00:16:56.000
+it's necessarily like a designed challenge.
+
+00:16:56.780 --> 00:17:03.180
+Yeah. And I think my problem with the action sequences is that they make me doubt the premise of
+
+00:17:03.180 --> 00:17:08.060
+the game where like, you know, you might be down, but you're not out because any, uh,
+
+00:17:08.320 --> 00:17:10.140
+unit can take on any other unit.
+
+00:17:10.340 --> 00:17:13.380
+Sometimes in these action sequences, it really feels untrue.
+
+00:17:13.600 --> 00:17:18.320
+That idea that if you have a, um, what are they like nights or whatever?
+
+00:17:18.320 --> 00:17:23.660
+Um, yeah, the palm pieces, the night, if you have a night and it's going up against, uh,
+
+00:17:23.880 --> 00:17:31.440
+the dragon, you know, or, or even like a basilisk or something, especially if it's in a neutral
+
+00:17:31.440 --> 00:17:36.080
+or dark colored square, this is going to basically be an unwinnable fight.
+
+00:17:36.180 --> 00:17:41.040
+The computer, uh, would really have to screw up badly for an extended period of time, given
+
+00:17:41.040 --> 00:17:45.760
+the health bar bonuses that they get for being in those particular squares and just how much
+
+00:17:45.760 --> 00:17:50.660
+more powerful they are again, like I get that it's probably supposed to go down that way.
+
+00:17:50.760 --> 00:17:56.300
+It's just that if the hook was that any, anything can happen on this board and that just your,
+
+00:17:56.480 --> 00:17:59.940
+uh, your positioning alone doesn't mean that you're in a better spot.
+
+00:18:00.660 --> 00:18:05.260
+I'm on two fences about it because there's, there's the obvious thing that like, this is
+
+00:18:05.260 --> 00:18:07.800
+great for the light and dark pieces of the board.
+
+00:18:08.140 --> 00:18:11.180
+Cause that actually means that it matters where you place your units, right?
+
+00:18:11.360 --> 00:18:15.560
+That, uh, you would want to always kind of occupy if you're playing on the light side,
+
+00:18:15.560 --> 00:18:16.640
+light squares.
+
+00:18:16.840 --> 00:18:21.360
+So this way, anybody who dare challenge you has to play on your field and that's great
+
+00:18:21.360 --> 00:18:26.920
+for strategy. But then there's other times where, you know, you are low on health to begin with.
+
+00:18:27.160 --> 00:18:32.660
+And now one of these uber powerful pieces just kind of comes in and, and, and walks the
+
+00:18:32.660 --> 00:18:37.380
+floor with you. It doesn't feel, um, as strategic at that point.
+
+00:18:37.500 --> 00:18:42.280
+It almost feels like the, the stronger characters can just kind of brute force their way past the
+
+00:18:42.280 --> 00:18:47.440
+other enemies. Well, I don't want to be the guy who just keeps disagreeing with everything, but, but I disagree.
+
+00:18:48.240 --> 00:18:53.900
+Um, because I, I think that what's so cool about that is that it's like, it is, it is
+
+00:18:53.900 --> 00:18:57.800
+what it, what it meant to be is like, yeah, this is like, this thing will probably kill
+
+00:18:57.800 --> 00:18:59.140
+you, but it's possible.
+
+00:18:59.140 --> 00:19:02.880
+Like if you get yourself in a point into a position where you're like, shit, like all
+
+00:19:02.880 --> 00:19:05.820
+I have left is like this pawn and they've got their dragon left.
+
+00:19:05.820 --> 00:19:10.060
+It's like, yeah, you're going to have to pull out this, like this, like come from behind
+
+00:19:10.060 --> 00:19:13.780
+almost impossible victory, which is very unlikely, but it can happen.
+
+00:19:13.780 --> 00:19:17.900
+And it's like, it simulates that, like that underdog story.
+
+00:19:18.000 --> 00:19:19.620
+You know, it's like, that's the whole idea.
+
+00:19:19.700 --> 00:19:24.420
+Like, even if you're like pinned down by like the enemy in like how you would be on a chess
+
+00:19:24.420 --> 00:19:29.620
+board, like you still have that last, like, Hey, maybe if I'm just, if I, if I can do,
+
+00:19:29.780 --> 00:19:34.700
+if I can come in clutch enough, I can like just barely scrape by with like this crazy
+
+00:19:34.700 --> 00:19:38.060
+skill of this, like one night going against the fire breathing dragon.
+
+00:19:38.400 --> 00:19:43.280
+Like, like that, a part of it seems really cool to me where it's like this mix of strategy
+
+00:19:43.280 --> 00:19:45.140
+versus your own actual skill.
+
+00:19:45.280 --> 00:19:46.920
+Like, yeah. Twitch reflex stuff.
+
+00:19:47.540 --> 00:19:50.040
+Yeah. Like that part was what drew me to the game.
+
+00:19:50.240 --> 00:19:51.420
+Like the most, I think.
+
+00:19:51.420 --> 00:19:57.260
+And I would say like some of the, like this is sort of exacerbated by some of like the
+
+00:19:57.260 --> 00:20:05.740
+frame perfectness that the computer has, like with the unicorn to be specific, like any,
+
+00:20:05.940 --> 00:20:13.860
+any unit that has a projectile weapon has a different speed associated with that projectile.
+
+00:20:14.020 --> 00:20:20.880
+And most of them are kind of like shmup level speed where you can maneuver around them depending
+
+00:20:20.880 --> 00:20:22.540
+on how fast your unit is.
+
+00:20:22.800 --> 00:20:29.100
+However, like the unicorn basically shoots a bullet and it travels like many inches across
+
+00:20:29.100 --> 00:20:32.740
+the screen, uh, per frame, I feel like.
+
+00:20:32.840 --> 00:20:36.800
+And it's just almost impossible to dodge if you're playing against the computer.
+
+00:20:37.120 --> 00:20:42.540
+However, I think if you were playing against another human who may not have like perfect
+
+00:20:42.540 --> 00:20:49.740
+input, uh, it would be a lot more even, uh, and, and more of like a fighting chance for
+
+00:20:49.740 --> 00:20:52.220
+you as the weaker character.
+
+00:20:52.700 --> 00:20:57.860
+Um, so I think a lot of this is just exacerbated by a perfect computer.
+
+00:20:58.200 --> 00:20:59.260
+Yeah. And I agree.
+
+00:20:59.340 --> 00:21:05.060
+I mean, so I did play against the computer and a human and while I lost against the human
+
+00:21:05.060 --> 00:21:07.340
+as well, and I did eventually win against the computer.
+
+00:21:07.340 --> 00:21:11.600
+I do think it is easier against the human because it's like, you're both kind of like, oh, like
+
+00:21:11.600 --> 00:21:15.160
+this is hard to, you know, you're both like, it's just hard to react to.
+
+00:21:15.640 --> 00:21:20.600
+But, um, but you know, for like, uh, I mean, I'm sure we'll talk more about like the idea
+
+00:21:20.600 --> 00:21:27.640
+of balance later, but like, as far as the unicorn, the, the dark side does also have a sort of
+
+00:21:27.640 --> 00:21:34.600
+almost equivalent to the unicorn where he has a weapon that is just as fast and a, and it's
+
+00:21:34.600 --> 00:21:39.220
+actually a little stronger, but the difference is he has a shorter HP bar.
+
+00:21:39.660 --> 00:21:41.260
+That's the, um, Basilisk.
+
+00:21:41.660 --> 00:21:46.060
+So it's like, yeah, those feel a little like OP, but also it's like, you have one too.
+
+00:21:46.320 --> 00:21:47.920
+But I get, yeah, I guess I get what you're saying.
+
+00:21:47.980 --> 00:21:51.580
+If you're playing against the computer, it still might feel unfair because the computer
+
+00:21:51.580 --> 00:21:53.820
+is the computer. Like, you can just do it.
+
+00:21:54.520 --> 00:21:55.680
+Yeah. Right.
+
+00:21:55.740 --> 00:21:59.900
+And I guess like a lot of what I'm going to say might just come down to, um, you know,
+
+00:22:00.160 --> 00:22:02.300
+a question of skill and such.
+
+00:22:02.300 --> 00:22:09.260
+But if you think about chess, right, uh, both sides have exactly the same pieces.
+
+00:22:09.260 --> 00:22:11.360
+They don't behave any differently at all.
+
+00:22:11.680 --> 00:22:16.980
+And that's the kind of game where if you capture enough pieces early on, then it is, you know,
+
+00:22:17.080 --> 00:22:19.760
+for the right skill level, it is a one game, right?
+
+00:22:19.880 --> 00:22:26.160
+The, once you're like plus eight, there's no real chance that the, uh, the other opponents
+
+00:22:26.160 --> 00:22:30.860
+going to get past you because you were already smart enough to take, uh, eight points away from
+
+00:22:30.860 --> 00:22:32.400
+them in a chess game here.
+
+00:22:32.560 --> 00:22:35.820
+Yeah. You're both being given the same types of units.
+
+00:22:35.980 --> 00:22:37.860
+Maybe they're creatively named and look differently.
+
+00:22:38.140 --> 00:22:41.980
+Uh, but I don't think like, that's not really what the balance is, right?
+
+00:22:42.020 --> 00:22:45.040
+The balance isn't that they gave everybody the same kind of unit and you'll have the
+
+00:22:45.040 --> 00:22:52.340
+same tools. I'm talking about just even the balance between how the units behave in the fights themselves
+
+00:22:52.340 --> 00:22:58.980
+and what that ultimately means for pace of play and the idea that like it's anybody's game
+
+00:22:58.980 --> 00:22:59.880
+and stuff like that.
+
+00:23:00.080 --> 00:23:05.540
+It's great that we both have, uh, a unicorn equivalent and such, but it doesn't help the,
+
+00:23:05.800 --> 00:23:11.720
+uh, you know, the fact that most unicorns are going to kill almost all, uh, pawn units,
+
+00:23:12.080 --> 00:23:15.180
+well, you know, at the end of the day, like that they don't really stand a chance.
+
+00:23:15.300 --> 00:23:16.460
+Yeah, but that's the... I would like to...
+
+00:23:16.460 --> 00:23:20.120
+Did you tell me that you beat one of the stronger units with your...
+
+00:23:20.120 --> 00:23:21.100
+I did. With your pawn?
+
+00:23:21.240 --> 00:23:22.220
+I have as well, yeah.
+
+00:23:22.640 --> 00:23:23.940
+Yeah, and that's really cool.
+
+00:23:24.200 --> 00:23:25.540
+Like it's... It didn't happen often.
+
+00:23:25.540 --> 00:23:28.980
+I think it happened like once, maybe twice, but it was really cool when it did and I was
+
+00:23:28.980 --> 00:23:31.620
+like, oh, I might actually be able to turn this game around now.
+
+00:23:32.160 --> 00:23:37.200
+But like, that's the other thing is like, of course, like, when my pawn goes up against
+
+00:23:37.200 --> 00:23:40.940
+like their, you know, the sorceress, I'm like, well, I'm screwed.
+
+00:23:41.080 --> 00:23:44.300
+But like, that's also on me is like not putting my pawn in that position.
+
+00:23:44.520 --> 00:23:48.700
+In chess, if your pawn goes up against something that's in a position to kill it, it's just
+
+00:23:48.700 --> 00:23:50.320
+going to kill it, you know?
+
+00:23:51.040 --> 00:23:53.520
+Whereas this, it's like, oh, all right, maybe I could survive.
+
+00:23:53.940 --> 00:23:56.820
+Like... Yeah. No, I mean, I'm not saying this is better than chess.
+
+00:23:56.820 --> 00:23:58.760
+I'm just saying it's a different idea.
+
+00:24:00.080 --> 00:24:01.020
+That's the headline.
+
+00:24:01.280 --> 00:24:04.080
+Yeah. Archon better than chess, says Joe.
+
+00:24:04.520 --> 00:24:08.340
+No, and I'm not saying that chess is better than this either, vice versa, you know?
+
+00:24:08.600 --> 00:24:13.760
+I think the hill that I'm willing to die on is that the reason why we don't get like
+
+00:24:13.760 --> 00:24:18.780
+a chess two is that it's very hard to find true balance in these kinds of games.
+
+00:24:18.960 --> 00:24:25.680
+And there are ultimately like exploits against them that keep the, you know, 1,000 year old
+
+00:24:25.680 --> 00:24:28.420
+chess game still relevant today.
+
+00:24:28.600 --> 00:24:34.320
+That like, that is, you know, the idea of that is the strategy that are built around those
+
+00:24:34.320 --> 00:24:36.620
+particular pieces and how they seem to work well.
+
+00:24:36.720 --> 00:24:39.980
+And that there used to be pieces back in the day that behaved a little differently.
+
+00:24:39.980 --> 00:24:42.360
+And they said, hey, we should get rid of that and fix it.
+
+00:24:42.480 --> 00:24:45.380
+And I'm sure there's still room for improvement, even in chess, right?
+
+00:24:45.480 --> 00:24:50.260
+Of like, maybe it turns out white is just too powerful, his ability to go first and everything.
+
+00:24:51.000 --> 00:24:53.540
+These things don't actually matter for the actual game.
+
+00:24:53.540 --> 00:25:01.780
+I just think the idea of the units themselves, like it's not as cool as a tactics game because
+
+00:25:01.780 --> 00:25:05.900
+of the way that it sets out as a chess board.
+
+00:25:05.900 --> 00:25:11.780
+Whereas like in a tactics game, it's not, you know, it's not just checkerboard pieces.
+
+00:25:11.860 --> 00:25:16.300
+It's actually like a map and there's, and you know, you put, you push units together and
+
+00:25:16.300 --> 00:25:19.920
+you think about like, you know, there's a little bit of like wartime combat involved in that.
+
+00:25:20.000 --> 00:25:24.240
+And this is more one-to-one with chess and therefore has the same flaws as a chess game.
+
+00:25:24.340 --> 00:25:29.380
+I would say that it's not, it's not quite as one-to-one with chess just because like it sort
+
+00:25:29.380 --> 00:25:38.720
+of is simulating that asymmetric environment with the, the changing like pitch of each square.
+
+00:25:39.200 --> 00:25:47.600
+I think that that adds like the kind of complexity that like makes it less of a chess game and
+
+00:25:47.600 --> 00:25:48.880
+more of a tactics game.
+
+00:25:49.540 --> 00:25:55.040
+Yeah. And I think that like the, I think that the only other thing that like is still, that I'm
+
+00:25:55.040 --> 00:25:59.820
+still kind of hanging on is that like when, what we're talking about with like, yeah, the,
+
+00:25:59.820 --> 00:26:05.300
+the pawn or we keep calling it a pawn, whatever the knight versus the basilisk, like that being
+
+00:26:05.300 --> 00:26:12.220
+unbalanced, that's an unbalance like in that particular battle, but that's not, that doesn't
+
+00:26:12.220 --> 00:26:13.800
+make the game unbalanced.
+
+00:26:14.200 --> 00:26:16.380
+Like, you know what I mean?
+
+00:26:16.380 --> 00:26:19.780
+Like, it's like, if you go up again in any video game, if you go up against an enemy that's
+
+00:26:19.780 --> 00:26:22.440
+stronger than you, you wouldn't say this whole game's unbalanced.
+
+00:26:22.440 --> 00:26:25.680
+Like, oh, maybe you got to go level up or maybe you got to go to, you know, this is like,
+
+00:26:26.220 --> 00:26:28.980
+yeah, the whole, this, you got into that position.
+
+00:26:29.160 --> 00:26:33.120
+You, you're somehow, your opponent did something or you did something that got you into that
+
+00:26:33.120 --> 00:26:34.600
+position where you're going to get attacked by it.
+
+00:26:34.800 --> 00:26:38.020
+Could have gone the other way, but like the whole game as a whole, we have to look at it
+
+00:26:38.020 --> 00:26:40.780
+as like the entire thing as like, is it balanced?
+
+00:26:41.000 --> 00:26:45.400
+And I think they, I'm not saying that necessarily did it perfectly, but I think they did a good
+
+00:26:45.400 --> 00:26:48.560
+job of making the dark side enemies and the light side enemies balanced.
+
+00:26:48.780 --> 00:26:52.820
+So like what, if that happens to you, you could also do that to them.
+
+00:26:53.040 --> 00:26:56.720
+Like, you know, in it, and you have to think about like, how can I get myself in a position
+
+00:26:56.720 --> 00:27:01.520
+where I'm not having these unbalanced battles or, or I am having unbalanced battles that are
+
+00:27:01.520 --> 00:27:02.580
+unbalanced in my favor.
+
+00:27:02.780 --> 00:27:07.040
+So it's like, I just think that the way those two things marry together is like your strategy
+
+00:27:08.040 --> 00:27:13.880
+informs how you will play the action side of it is like, is the, is the point, you know?
+
+00:27:13.880 --> 00:27:18.840
+And I think we, we haven't entirely, uh, we haven't painted the whole picture because
+
+00:27:18.840 --> 00:27:25.360
+it isn't entirely balanced in terms of like, oh, the, the knight is the equivalent of the
+
+00:27:25.360 --> 00:27:26.820
+goblin and yada yada.
+
+00:27:27.000 --> 00:27:33.960
+Uh, because each side also has one unique character, uh, the Phoenix, which again is, that's the light
+
+00:27:33.960 --> 00:27:38.120
+side and that just blows itself up and you just sort of like try and blow up next to the
+
+00:27:38.120 --> 00:27:45.760
+guy. And then the dark side has the like metamorphic dude, the shapeshifter, shapeshifter.
+
+00:27:45.860 --> 00:27:49.680
+And that just, you know, makes it perfectly balanced and is kind of lame.
+
+00:27:49.920 --> 00:27:57.300
+But, uh, that, those do add to, um, add some extra levels to it as well.
+
+00:27:57.420 --> 00:27:58.660
+I think. Yeah.
+
+00:27:58.800 --> 00:28:02.940
+And when I first kind of saw that, that like, first of all, not only are there different
+
+00:28:02.940 --> 00:28:07.080
+enemies, but like some of the enemies that are like the, the mirror equivalent, they have
+
+00:28:07.080 --> 00:28:08.260
+slight different stats.
+
+00:28:08.600 --> 00:28:12.160
+Like they'll have a boost in one thing and a, and a lack in the other, and it'll be like
+
+00:28:12.160 --> 00:28:13.240
+slightly different.
+
+00:28:14.460 --> 00:28:18.980
+And I'm on the fence of whether or not, like I prefer that, or I prefer it like to be, no,
+
+00:28:19.080 --> 00:28:20.860
+there's an equal on each side.
+
+00:28:20.860 --> 00:28:23.860
+So that way, like no matter which side you play, there's not one side that could possibly
+
+00:28:23.860 --> 00:28:24.700
+have an advantage.
+
+00:28:25.140 --> 00:28:28.260
+Like once you played it enough, I do like that they're different.
+
+00:28:28.380 --> 00:28:29.380
+I like that you could try it differently.
+
+00:28:29.560 --> 00:28:34.840
+I mean, I would also kind of really like if they were totally, um, not all equal, but like
+
+00:28:34.840 --> 00:28:38.320
+the sorceress was exactly equal to the, to the wizard.
+
+00:28:38.680 --> 00:28:44.820
+And then the, the, you know, the knight was exactly equal to the, whatever the, the goblin,
+
+00:28:44.980 --> 00:28:48.500
+the job. So that way it's even, but that didn't bother me too much.
+
+00:28:48.560 --> 00:28:52.800
+But yeah, the shape shifter thing seems cool, but I just didn't feel like there was enough
+
+00:28:52.800 --> 00:28:56.140
+of a unique thing on the other side to be cool.
+
+00:28:56.200 --> 00:28:59.680
+You know, like the, the, I don't know, the, what was it?
+
+00:28:59.680 --> 00:29:03.780
+Phoenix is pretty similar to the banshee on the dark side.
+
+00:29:04.200 --> 00:29:07.000
+Oh yeah. Whereas like, there's nothing like a shape shifter on the light side.
+
+00:29:07.180 --> 00:29:12.180
+I think there's like something that's unique on the light side, which is like the, the
+
+00:29:12.180 --> 00:29:13.580
+genie. Maybe.
+
+00:29:13.840 --> 00:29:15.440
+Yeah. But like, it just didn't seem as unique.
+
+00:29:15.660 --> 00:29:18.960
+It's like, it felt like they were trying to like throw a little wrench into it and make
+
+00:29:18.960 --> 00:29:21.880
+it like, Oh, here's like the, here's like the sleeper for each side.
+
+00:29:21.900 --> 00:29:25.020
+But just felt like one was like way more unique than the other.
+
+00:29:26.920 --> 00:29:32.840
+Uh, I thought the genie, actually the genie I think has maybe like the fastest shot speed
+
+00:29:33.240 --> 00:29:35.220
+and a, and a really large health bar.
+
+00:29:35.360 --> 00:29:39.560
+So I think that's like, he's, he's very powerful too, compare, comparatively.
+
+00:29:39.880 --> 00:29:43.180
+Yeah. And then on the other hand, the shape shifter is like, well, okay, you're, you're going
+
+00:29:43.180 --> 00:29:47.580
+to take the shape of exactly whatever attacks you, which seems like, so you're not even
+
+00:29:47.580 --> 00:29:49.360
+getting an advantage. You're getting like equal.
+
+00:29:49.940 --> 00:29:52.140
+Whereas like the, so like that felt a little weird.
+
+00:29:52.140 --> 00:29:56.660
+Which creates a weird problem with the shape shifter versus like say the Phoenix.
+
+00:29:56.960 --> 00:30:00.520
+Yeah. That was specifically pointed out on the Wikipedia page.
+
+00:30:00.680 --> 00:30:02.700
+So I just had to try it out and it was really funny.
+
+00:30:02.700 --> 00:30:05.280
+It actually took several, several minutes.
+
+00:30:06.480 --> 00:30:08.880
+And even the Phoenix as a unique piece.
+
+00:30:09.080 --> 00:30:10.640
+Um, I, I hated it.
+
+00:30:10.820 --> 00:30:15.120
+If I was playing on the light side, uh, the explosion thing is, is very awkward and kind
+
+00:30:15.120 --> 00:30:19.100
+of traps you in a, uh, you're stuck while that animation's going on.
+
+00:30:19.100 --> 00:30:24.540
+And so most likely if the, you know, computer or human is smart enough, they'll just wait
+
+00:30:24.540 --> 00:30:26.700
+until your explosion animation is done.
+
+00:30:26.840 --> 00:30:30.320
+If you didn't manage to hit them and then they get a free hit when you spawn back in.
+
+00:30:30.440 --> 00:30:34.400
+Yeah. My strategy with the Phoenix was just try and take out the Banshee with it as soon as
+
+00:30:34.400 --> 00:30:39.480
+possible because the Banshee had like a similar thing, but it is, I think it's more powerful,
+
+00:30:39.500 --> 00:30:42.440
+but it doesn't shield itself with its explosion.
+
+00:30:43.140 --> 00:30:44.040
+Whereas you do.
+
+00:30:44.220 --> 00:30:47.640
+Oh yeah. So like, I would just be like, okay, well at least I can get some use out of this Phoenix
+
+00:30:47.640 --> 00:30:51.880
+before something else kills it because anything with a projectile usually would kill me when
+
+00:30:51.880 --> 00:31:22.280
+I had the Phoenix. So pieces move differently in this game than in chess 2 where it's you know you get
+
+00:31:22.280 --> 00:31:29.160
+three spaces for most things some get four some get five but it's also ground or flying or
+
+00:31:29.160 --> 00:31:35.040
+teleporting as opposed to just you know I guess like the knight in chess comes the closest to the
+
+00:31:35.040 --> 00:31:40.220
+flying creatures in the sense that they can hop over other units but they give you two different
+
+00:31:40.220 --> 00:31:45.280
+you know there's two different options there it's the type of movement you're doing and the amount
+
+00:31:45.280 --> 00:31:53.320
+of spaces you can go and so if you have three spaces as the troll you don't have to go forward
+
+00:31:53.320 --> 00:31:58.880
+you don't have to go behave like a rook where you can only move in rows it's like you can go
+
+00:31:58.880 --> 00:32:06.520
+anywhere you want three spaces and so that also creates some unique situations on the board where
+
+00:32:06.520 --> 00:32:11.780
+you could think about like where you want to position your units for the powerpoint squares if you want to
+
+00:32:11.780 --> 00:32:16.880
+lump a bunch of guys together so that you can keep fighting to take back a powerpoint square
+
+00:32:16.880 --> 00:32:21.820
+against like you know one unit at a time that you know both options are viable but you have the
+
+00:32:21.820 --> 00:32:28.040
+ability rather than thinking like all right well my troll only moves in l-shaped directions so I have
+
+00:32:28.040 --> 00:32:31.720
+to think about how I'm going to get him to this particular pace that that doesn't happen in this
+
+00:32:31.720 --> 00:32:39.580
+game no and I think that that's another that's another point that makes it like closer to a turn
+
+00:32:39.580 --> 00:32:48.120
+based tactics game where it's it's literally just a movement uh a movement count uh I think if they
+
+00:32:48.120 --> 00:32:58.840
+added like the only kind of movement was specific to each piece then the the the chess analogies would
+
+00:32:58.840 --> 00:33:06.480
+be even more inevitable and like you can't really say that it's not trying to be chess anymore um
+
+00:33:07.120 --> 00:33:14.860
+so I think that was also a uh like a good decision the sorceress and the wizard also have the ability besides
+
+00:33:14.860 --> 00:33:21.840
+being some of the strongest pieces they have the ability to cast spells uh they can heal shift time uh
+
+00:33:21.840 --> 00:33:27.360
+revive which is a really cool idea uh similar to again in chess where you get to the other end of the board and
+
+00:33:27.360 --> 00:33:32.660
+you can change your piece this time it's like you can't change your piece but instead you can uh bring back a piece
+
+00:33:32.660 --> 00:33:39.120
+from the dead the other thing about these spells is that you can only use them once per game not one
+
+00:33:39.120 --> 00:33:46.200
+spell for the entire game but once you revive a unit that is uh that is the end of your revive so you might
+
+00:33:46.200 --> 00:33:53.120
+want to think about that before uh wasting it early on or something I think uh I think the ability to lock
+
+00:33:53.120 --> 00:34:00.160
+these as a one-time use it makes it like it it actually complements the idea of the whole strategy thing
+
+00:34:00.160 --> 00:34:05.360
+but also just of the spells in general so that wizards and sorceresses don't have this
+
+00:34:05.360 --> 00:34:10.500
+sense of unlimited power where they should be removed from the game almost you know like uh
+
+00:34:10.500 --> 00:34:15.900
+don't bother putting them into play because you can just use them as your spell casters from afar
+
+00:34:15.900 --> 00:34:22.080
+instead you're kind of encouraged to uh you know to get them into the battle as well and you know
+
+00:34:22.080 --> 00:34:25.820
+because they're powerful and they can take down enemies that are posing a threat
+
+00:34:25.820 --> 00:34:32.120
+well also it's it's like gives you this strategy of like what do I want to use my you know my
+
+00:34:33.020 --> 00:34:37.920
+summon spell right now or do I want to wait until I really need it later because the longer you wait
+
+00:34:37.920 --> 00:34:45.280
+the more likely you are like the enemy is to take out your wizard you know because as strong as the
+
+00:34:45.280 --> 00:34:51.340
+wizard is he has a very small hp bar so it's like it it really adds to like the decision making I think
+
+00:34:51.340 --> 00:34:58.360
+I couldn't find anything about the NES version specifically but the developers uh mentioned
+
+00:34:58.360 --> 00:35:04.640
+in their interview with compute gazette that in the computer games at least the computer adapts over
+
+00:35:04.640 --> 00:35:11.460
+time in an individual game to help the player defeat the computer so that the longer the game goes on
+
+00:35:11.460 --> 00:35:18.860
+the computer actually behaves uh worse to allow the computer to allow the player to win uh rather than
+
+00:35:18.860 --> 00:35:23.460
+the computer getting tougher and honing in on its victory that's I don't know if you guys experienced
+
+00:35:23.460 --> 00:35:28.400
+that at all yeah I thought that was an interesting note from them uh you know I guess like in some
+
+00:35:28.400 --> 00:35:34.560
+ways if there was a difficulty mode for that like a selection of you know beginner or advanced and the
+
+00:35:34.560 --> 00:35:39.500
+beginner mode did that that would be a good way to learn right how to like face up against the
+
+00:35:39.500 --> 00:35:43.760
+computer but even then you're not really learning because it's just getting easier but I think there
+
+00:35:43.760 --> 00:35:49.400
+should have been an option I did win against the computer but now I'm thinking like now I'm thinking
+
+00:35:49.400 --> 00:35:53.460
+back on like the moment where I was like oh my god I really turned this around and thinking like oh
+
+00:35:53.460 --> 00:36:01.120
+maybe the computer just started getting stupider as time went on I really don't know how like what
+
+00:36:01.120 --> 00:36:07.620
+capability like what what it was even what is the AI actually doing when it does that because we
+
+00:36:07.620 --> 00:36:14.720
+usually when I think of uh difficulty in a game of this generation it's like a numerical thing like
+
+00:36:14.720 --> 00:36:23.840
+it's either more or less health uh more I'm guessing it misses fire on purpose yeah but like how how does it
+
+00:36:23.840 --> 00:36:30.800
+do that I I just I don't know if the NES was capable of of something like that it could also give like
+
+00:36:30.800 --> 00:36:38.340
+less than optimal make less than optimal decisions like in where to go I suppose like on the on the
+
+00:36:38.340 --> 00:36:44.200
+board makes more sense yeah I do remember thinking that like one time I was playing and I was I was
+
+00:36:44.200 --> 00:36:49.300
+having a real hard time getting all the powerpoint squares and then like at one point I was like well
+
+00:36:49.300 --> 00:36:53.000
+why didn't they just go there they could have stopped me and they didn't and then I won so like
+
+00:36:53.000 --> 00:36:59.200
+maybe that had something to do with it too the NES port also has a new gameplay rule that encourages
+
+00:36:59.200 --> 00:37:06.180
+combat so if no battle has been fought for I think it's 12 rounds the game automatically ends in a
+
+00:37:06.180 --> 00:37:11.200
+stalemate that was not present in any of the other versions probably not something that's going to
+
+00:37:11.200 --> 00:37:15.820
+happen if you're just like picking this game up and playing it either like there's no reason to avoid
+
+00:37:15.820 --> 00:37:21.380
+combat but I could see situations in like really high level play where uh they want you to encourage
+
+00:37:21.380 --> 00:37:26.780
+to continue fighting rather than being uh reserved about your units yeah I think especially if you're
+
+00:37:26.780 --> 00:37:30.400
+playing against another person who and you both really know how to play and then there's like
+
+00:37:30.400 --> 00:37:36.220
+somebody's trying to yeah there's some strategy or something that that gives people uh incentive
+
+00:37:37.360 --> 00:37:42.860
+chess has a rule like that too where you can't make um the same move three times in a row and that
+
+00:37:42.860 --> 00:37:47.880
+that would also cause a stalemate um did we mention the lumina squares at all
+
+00:37:47.880 --> 00:37:54.800
+those are the power points right yeah we briefly no this is the ones that changed uh over time oh
+
+00:37:54.800 --> 00:37:58.900
+yeah yeah okay yeah we briefly mentioned it but I think we should go into more detail about it because
+
+00:37:58.900 --> 00:38:04.340
+that's the that's the board strategy right like that's what makes this board stand out as opposed
+
+00:38:04.340 --> 00:38:10.280
+to again if it was a checkerboard you would just always stay in the light squares and not have to worry
+
+00:38:10.280 --> 00:38:16.160
+about you know the dark side being overpowered against you here because there's kind of a zone
+
+00:38:16.160 --> 00:38:20.840
+particularly in the middle but it is kind of spread out I don't know how to describe it it looks yeah
+
+00:38:20.840 --> 00:38:27.800
+it's it's like it is the cross it's sort of uh bringing all of the those power squares together
+
+00:38:27.800 --> 00:38:36.320
+um but that's sort of what I was talking about when I was talking about uh the like sort of an analogy
+
+00:38:36.320 --> 00:38:45.660
+for uh the terrain and environment if this were being compared more to like a tactics game on
+
+00:38:45.660 --> 00:38:57.600
+ground uh whereas like uh like instead of oh it's darker light like oh this has like acid on it and
+
+00:38:57.600 --> 00:39:06.540
+like this sort of like zone of control um area denial that you see in more complex tactics games
+
+00:39:07.660 --> 00:39:16.600
+but it's more like shifting uh it's like pulsing instead of the player or the enemy having actual
+
+00:39:16.600 --> 00:39:23.700
+control over how that shifts yeah and it really informs a lot of the decision making as well because
+
+00:39:23.700 --> 00:39:29.080
+like so because of where the cross this cross of squares that are constantly changing it's like a day
+
+00:39:29.080 --> 00:39:33.060
+night cycle so they get lighter and lighter and then they get darker and darker so like the darker it is
+
+00:39:33.060 --> 00:39:37.260
+the more of advantage the the dark side gets and the lighter it is the more of the advantage the light
+
+00:39:37.260 --> 00:39:44.120
+side gets but um but the what I thought was cool is that it goes through like you said all of those
+
+00:39:44.120 --> 00:39:49.040
+power point squares so that makes you think like oh I can capture this power point square pretty early
+
+00:39:49.040 --> 00:39:53.940
+but throughout the game that power point square will become a major disadvantage to you and that'll
+
+00:39:53.940 --> 00:39:58.940
+that opens up the enemy to attack you on a square so like you don't want to be on those squares for
+
+00:39:58.940 --> 00:40:08.520
+too long but you need to be on five of them at once in order to win the game so it's like it's tough it's
+
+00:40:08.520 --> 00:40:13.020
+tough to win that way to be honest like I feel like in all the games that I've played only like one or two
+
+00:40:13.020 --> 00:40:18.640
+matches ended that way most of the matches ended like with with both sides trying to get there and
+
+00:40:18.640 --> 00:40:24.200
+one side just running out of pieces from dying and battle over and over again yeah I think the
+
+00:40:24.200 --> 00:40:31.360
+power point squares are necessary to encourage combat situations in all over the board right so
+
+00:40:31.360 --> 00:40:36.500
+this way you have to go over to the other side you have to try to keep control of the middle of the
+
+00:40:36.500 --> 00:40:42.600
+board you're not just trying to uh get to the other side right so I think that that encourages what is
+
+00:40:42.600 --> 00:40:49.080
+going to be the likely outcome of just the other the opposing team lost all their units and that's how
+
+00:40:49.080 --> 00:40:55.060
+you're probably going to get into a win state instead of the um the power point squares or you're
+
+00:40:55.060 --> 00:41:00.080
+going to because of these fights eventually have one have way too many units compared to the other
+
+00:41:00.080 --> 00:41:05.520
+and then take the power point squares that way there's not um there's not like a at least I could
+
+00:41:05.520 --> 00:41:10.240
+think I can't think of a unique situation where early on in the game somebody could just grab all
+
+00:41:10.240 --> 00:41:15.320
+five squares by tricking the other player by making them like come out and go to unexpected places
+
+00:41:15.320 --> 00:41:21.300
+and then take those squares without being like you know a heavy war zone I I couldn't see that happening
+
+00:41:21.300 --> 00:41:26.600
+yeah when I when I the first match that I played you know neither me nor my opponent knew how to play
+
+00:41:26.600 --> 00:41:31.260
+we hadn't read the manual or anything so we were just like just playing we were just attacking each other
+
+00:41:31.260 --> 00:41:35.460
+and I was kind of like oh this is dumb there's no actual strategy there's no reason for this to be on a board
+
+00:41:35.460 --> 00:41:39.800
+you know like you just you just keep moving until you can attack the person you want to attack
+
+00:41:39.800 --> 00:41:44.920
+and we just did that until someone was totally out of pieces then after reading the manual I was like oh this is an
+
+00:41:45.540 --> 00:41:51.960
+entirely different game just because of the lumina squares and the power points like just adding those
+
+00:41:51.960 --> 00:41:57.100
+two elements made this like oh there is a lot of strategy now it does matter where you position
+
+00:41:57.100 --> 00:42:03.540
+yourself and the wizard and sorceress can uh via the shift time spell reverse the order that the tiles
+
+00:42:03.540 --> 00:42:09.780
+were changing colors in and so if you if you do that if you time that well you could really screw over
+
+00:42:09.780 --> 00:42:15.500
+the other player by uh extending the amount of time that you have on the light squares in an area that
+
+00:42:15.500 --> 00:42:21.220
+they were expecting to be dark again probably a high level play move probably not something not
+
+00:42:21.220 --> 00:42:27.640
+something I personally did but it's fun to uh to see the impact that these spells could have on strategy
+
+00:42:27.640 --> 00:42:33.480
+then again maybe just thinking about these situations uh proves that they don't really happen
+
+00:42:34.240 --> 00:42:45.100
+yeah I mean I think that because something like revive is so directly uh beneficial um that's that's
+
+00:42:45.100 --> 00:42:50.400
+sort of like I mean and I know that like you can only use one each but whenever I was thinking of
+
+00:42:50.400 --> 00:42:55.300
+like oh I need to cast a spell right now it was something like that direct like oh I just need to
+
+00:42:55.300 --> 00:43:02.720
+revive and not like hmm well I it's it's actually going into the middle phase now from my direction so I
+
+00:43:02.720 --> 00:43:08.620
+need to make it come back to my direction I was never thinking that 4d about it but it's cool that
+
+00:43:08.620 --> 00:43:14.640
+it's there yeah I think the most like quote-unquote 4d I ever got with the way I was thinking was with
+
+00:43:14.640 --> 00:43:20.900
+the exchange um spell which lets you just swap out literally any two players on the board like switch
+
+00:43:20.900 --> 00:43:28.520
+them with each other so sometimes I would be like okay I know that the that the the day night cycle is
+
+00:43:28.520 --> 00:43:31.840
+going if I'm like the dark side I know the day night cycle is going to be
+
+00:43:32.420 --> 00:43:40.160
+switching towards dark in like two turns so on this turn I'm going to switch one of you know my
+
+00:43:40.160 --> 00:43:47.180
+one of my you know my basilisk with whatever's standing right next to their you know someone
+
+00:43:47.180 --> 00:43:51.500
+that I want to attack on a that's going to be on a light square in a turn later so it's like thinking
+
+00:43:51.500 --> 00:43:55.580
+like that much ahead but I think that if you like if you played this enough and got good at it if we
+
+00:43:55.580 --> 00:44:01.640
+treated this like chess and like like how people like love to to play chess and get better and find
+
+00:44:01.640 --> 00:44:05.960
+new strategies I think that shift time would be utilized a lot in the way that you're talking
+
+00:44:05.960 --> 00:44:11.140
+about I just think it's just a game that no one's ever heard of so like it doesn't happen yeah well
+
+00:44:11.140 --> 00:44:17.340
+joe apparently actually it's a very popular game uh in the early computer scene and is still like
+
+00:44:17.340 --> 00:44:22.860
+rated very uh favorably um by most of the people yeah most people played this game so
+
+00:44:22.860 --> 00:44:27.580
+it it will get into it in the sequel spin-off section but it even got a sequel so this is one
+
+00:44:27.580 --> 00:44:35.400
+of electronic arts like first five games ever uh it's it's not obviously this late 1989 but by then
+
+00:44:35.400 --> 00:44:43.740
+they were a big company but this game first came out I think in either 83 or 84 and so um EA now EA bad
+
+00:44:43.740 --> 00:44:48.280
+but uh back then you know they were getting started it's like obviously they had to get some big games
+
+00:44:48.280 --> 00:44:54.400
+uh on their initial lineup and Arkon was considered a very big game they were the champions of the people
+
+00:44:56.000 --> 00:45:27.560
+you well since we were talking about it on the sequels and spinoff side uh Arkon 2
+
+00:45:28.240 --> 00:45:33.140
+Adept is uh the name the subtitle of that game this game kind of had a subtitle too just
+
+00:45:33.140 --> 00:45:38.700
+not on the NES version it's not on the box but the uh the light versus dark or something yeah
+
+00:45:38.700 --> 00:45:43.860
+yeah the light in the dark or something like that on the uh on all the computer versions I guess
+
+00:45:43.860 --> 00:45:48.940
+they just thought like no Arkon's clear enough for what the game is uh we don't need the subtitle
+
+00:45:48.940 --> 00:45:54.400
+on the NES who knows why they didn't include it but it's worth mentioning also Adept here is the uh
+
+00:45:54.400 --> 00:46:01.820
+is the subtitle on the sequel and Adept introduces resource management in the form of magic magic is
+
+00:46:01.820 --> 00:46:10.220
+gained by having pieces on powerpoints and um then you can spend that those magic points on moves or by
+
+00:46:10.220 --> 00:46:18.860
+casting spells uh summoning a spell uh or an elemental or a demon or you put those pieces on the board
+
+00:46:18.860 --> 00:46:26.100
+and then it uh basically incurs a per turn upkeep cost so therefore you know the whole resource management
+
+00:46:26.100 --> 00:46:32.200
+thing yeah you have to think about like you know okay so I have my uh fire elemental on the board
+
+00:46:32.200 --> 00:46:37.900
+but I'm gonna run out of it in two turns and then it's gonna be done with uh do we get this on the NES
+
+00:46:37.900 --> 00:46:43.020
+we I don't think we get this on the NES I think this is computer only it was released long before
+
+00:46:43.860 --> 00:46:50.560
+um 1989 so yeah I don't think we'll be seeing it because they probably would have just taken this one
+
+00:46:50.560 --> 00:46:58.040
+right I would think so yeah so uh you if you do want to play it the Amiga as always everything is
+
+00:46:58.040 --> 00:47:02.400
+on the Amiga if there's one thing I've learned that there's like 3,000 video games on the Amiga
+
+00:47:02.400 --> 00:47:10.040
+the Commodore 64, Apple II, ZX Spectrum you know these are just things that I feel like are much more European
+
+00:47:10.040 --> 00:47:13.440
+we didn't we didn't really have exposure yeah you should have said ZX Spectrum
+
+00:47:13.440 --> 00:47:18.520
+right right uh the Amstrad CPC it's like nobody owned that in America right
+
+00:47:18.520 --> 00:47:22.020
+I thought the Amstrad CPC was like a military device
+
+00:47:22.020 --> 00:47:26.580
+right yeah yeah the Atari uh 800 it's like nobody had that
+
+00:47:26.580 --> 00:47:33.980
+now that I know was in America but nobody had that you silly goose and also an updated version of
+
+00:47:33.980 --> 00:47:40.740
+this very game has been announced uh for Joe to immediately purchase exclusively for release on
+
+00:47:40.740 --> 00:47:45.680
+the Intellivision Amico which means you will never see it Joe yeah it'll never happen I think it's
+
+00:47:45.680 --> 00:47:50.760
+had the switch or something I was like I'll download that right now pre-order right now I didn't know
+
+00:47:50.760 --> 00:47:55.560
+that they could get those kinds of exclusives for Intellivision Amico but also they seem to do a
+
+00:47:55.560 --> 00:48:01.080
+really good job of never releasing this damn thing and just taking Kickstarter money so I don't think
+
+00:48:01.080 --> 00:48:08.480
+we're gonna see this Archon was ported through infinity to like all like even more recent mobile
+
+00:48:08.480 --> 00:48:11.780
+phones and stuff like that like it is it is something that gets ported every now and again
+
+00:48:11.780 --> 00:48:17.560
+so there probably are more like modern hardware to play it on than the NES maybe the computer versions
+
+00:48:17.560 --> 00:48:21.400
+the computer's more advanced or whatever these are things I didn't look into for this part of the
+
+00:48:21.400 --> 00:48:26.600
+sequels and spin-off section because I uh was more interested in that whole adept system that they
+
+00:48:26.600 --> 00:48:34.660
+introduced in the second one cute so I don't have any like you know cute words or anything to tee up
+
+00:48:34.660 --> 00:48:42.500
+the essential games list uh you know when no like meets its match no checkmate system or anything like
+
+00:48:42.500 --> 00:48:48.200
+that so instead I think we're just gonna go into it with the essential games list
+
+00:48:50.860 --> 00:49:04.720
+Sean your vote so um I I really think that this is a very unique game uh as much as we kept calling out
+
+00:49:04.720 --> 00:49:14.600
+uh chess or tactics games in general uh I I think that this sort of I've never seen anything really like this
+
+00:49:14.600 --> 00:49:22.480
+before like the closest analog that I could find to a game that matches this in spirit is like blood bowl
+
+00:49:22.480 --> 00:49:30.720
+which is trying to be like a warhammer version of american football which I always uh enjoyed
+
+00:49:30.720 --> 00:49:39.340
+and and and this sort of like remix stuff it I I always I'm always into it and I've had nitpicks here
+
+00:49:39.340 --> 00:49:47.680
+and there I the the the actual the actual like real-time battles are are a little simple and can be janky
+
+00:49:47.680 --> 00:49:57.120
+at times but I I think that there's enough going on in this like cocktail of weird game uh weird game
+
+00:49:57.120 --> 00:50:03.500
+features um that I would say I I'm gonna vote to put this on the essential games list
+
+00:50:04.460 --> 00:50:12.800
+and that's one vote it needs one more Joe your vote so I mean no secret that I definitely really
+
+00:50:12.800 --> 00:50:19.980
+enjoyed this game I feel like the there's just so many elements that all work together in ways that
+
+00:50:19.980 --> 00:50:26.420
+like that create just countless types of strategy I mean it just gets very layered way more layered
+
+00:50:26.420 --> 00:50:29.140
+than I thought it was going to be when I first picked it up I mean I thought it was just going
+
+00:50:29.140 --> 00:50:34.560
+to be chess like with slightly different rules um would not saying that that wouldn't be layered
+
+00:50:34.560 --> 00:50:38.640
+but it would just be chess like you know but this is this did its own thing it made something totally
+
+00:50:38.640 --> 00:50:46.640
+different and I love the way that the strategy interacts with the the actual video game like action
+
+00:50:46.640 --> 00:50:54.220
+gameplay element of it and yes the um like collision jankiness aside like that that is a flaw I think
+
+00:50:54.220 --> 00:50:58.600
+that the I mean personally and I know that not everybody agreed here but like personally I thought
+
+00:50:58.600 --> 00:51:04.160
+that the um the action stuff controlled pretty well for for what it needed to be if it was a whole game
+
+00:51:04.160 --> 00:51:09.740
+based on that I would want I would want a lot more you know polish on those parts but just the way
+
+00:51:09.740 --> 00:51:14.860
+they work together the amount the amount that I was thinking about this game after playing it
+
+00:51:14.860 --> 00:51:19.240
+and like thinking like well what could I do with different strategies and just the idea like you
+
+00:51:19.240 --> 00:51:22.660
+I'm not even that good at this game but the idea that I could play it a lot and like really
+
+00:51:23.600 --> 00:51:28.420
+it could like I could really come up with like new ways to play and strategy and you know play
+
+00:51:28.420 --> 00:51:34.640
+against other people and see how that works um I am also going to put this on you know vote for
+
+00:51:34.640 --> 00:51:39.880
+this to be on the essential games list so uh one of the more unique experiences I'm going to pass
+
+00:51:39.880 --> 00:51:45.680
+it on to Mike before I say the word strategy one more time yeah and two votes means that it is on
+
+00:51:45.680 --> 00:51:52.860
+the essential games list so after a very long drought of let's see this is episode 238
+
+00:51:52.860 --> 00:52:02.140
+fact Xanadu was 207 so I mean that's like 31 31 episodes to get the next one but we got there
+
+00:52:02.140 --> 00:52:07.820
+uh I will just add even though my vote doesn't mean anything that I am way less enthused about this game
+
+00:52:07.820 --> 00:52:15.340
+than you guys I didn't think that the battle system was all that impressive or even like fun so for me
+
+00:52:15.340 --> 00:52:19.760
+like that alone took me out of the game because otherwise it is just kind of like thinking about
+
+00:52:19.760 --> 00:52:24.540
+pieces on the board and I can have a better time with chess uh I would just like to add that I
+
+00:52:24.540 --> 00:52:29.920
+wasn't comparing this game to chess uh in the traditional sense of like two games I was making
+
+00:52:29.920 --> 00:52:33.520
+it a a grounding point of like well we can talk about chess and then we can talk about this for
+
+00:52:33.520 --> 00:52:38.560
+people who aren't playing these games along with us at the same time I definitely think there's a much
+
+00:52:38.560 --> 00:52:44.780
+more unique game than chess in fact even just the ability to cast spells and um and the powerpoint
+
+00:52:44.780 --> 00:52:50.540
+squares and the light and dark shifting that is all like incredibly interesting things I just don't
+
+00:52:50.540 --> 00:52:55.940
+think the actual moment-to-moment gameplay was anything all that special uh I found it kind of
+
+00:52:55.940 --> 00:53:01.660
+tedious to even just continue to go through those uh top-down battles uh those real-time action battles
+
+00:53:01.660 --> 00:53:06.220
+so I can't put it on the essential games list but it is there there's nothing I can do about it so
+
+00:53:06.220 --> 00:53:12.420
+it is on the essential games list and we'll uh see if we can get another one on next week with the
+
+00:53:12.420 --> 00:53:18.320
+battle of olympus a game that I think is I think this is the one that sometimes is compared to zelda 2
+
+00:53:19.060 --> 00:53:24.920
+oh boy so you know that I'll vote it right now go right on that just you know open up some more
+
+00:53:24.920 --> 00:53:29.900
+wounds while we're talking about the essential games list so who knows either battle of olympus will
+
+00:53:29.900 --> 00:53:35.620
+get on the essential games list and will upset zelda 2 people or battle of olympus
+
+00:53:35.620 --> 00:53:39.060
+won't get on the essential games list and will upset zelda 2 people
+
+00:53:41.720 --> 00:53:49.640
+I can't wait all that to say we also have um our nostalgia bites episode of the portopia serial
+
+00:53:49.640 --> 00:53:56.500
+murder case uh nostalgia bites are japanese famicom games usually you don't need any uh japanese knowledge
+
+00:53:56.500 --> 00:54:01.580
+to play these games technically you still don't because this is a translation patch but it is a patch
+
+00:54:01.580 --> 00:54:06.120
+it is a cheat we're just trying it out once just to see if people like it we make the rules here
+
+00:54:06.120 --> 00:54:09.560
+right but you know I figured we'd let everybody know that it's not gonna be a regular thing you're
+
+00:54:09.560 --> 00:54:14.660
+not gonna have to uh you know get on the internet and download translation patches all the time
+
+00:54:15.160 --> 00:54:21.560
+we have seven or now eight other episodes that are completely like just famicom games that you could
+
+00:54:21.560 --> 00:54:26.820
+buy on ebay right now plop them into your famicom and never need to know a lick of japanese so you have
+
+00:54:26.820 --> 00:54:30.460
+but if you want to listen to this episode and you're like wait a minute I never heard of nostalgia
+
+00:54:30.460 --> 00:54:36.840
+bites that's because it's for our patreon page patreon.com slash nostalgia for just five dollars
+
+00:54:36.840 --> 00:54:42.440
+a month you get access to a whole nother podcast uh that is a monthly basis so right now we're in
+
+00:54:42.440 --> 00:54:47.640
+month nine where you at everybody you know we're waiting for you we got people on our discord uh
+
+00:54:47.640 --> 00:54:53.820
+chatting it up with us and all the proceeds from the patreon go into cool stuff like uh the nostalgia
+
+00:54:53.820 --> 00:55:01.100
+website uh nostalgiacast.com we can't host that if people don't uh give us money we refuse to so
+
+00:55:01.100 --> 00:55:06.320
+give us money and let us host the website it's a win-win situation you

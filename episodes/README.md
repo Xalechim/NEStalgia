@@ -219,51 +219,51 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 211 | Air Fortress | [notes](211-air-fortress.md), [transcript](../transcripts/211-air-fortress.md) |
 | 212 | Back to the Future | [notes](212-back-to-the-future.md), [transcript](../transcripts/212-back-to-the-future.md) |
 | 213 | Bad Street Brawler | [notes](213-bad-street-brawler.md), [transcript](../transcripts/213-bad-street-brawler.md) |
-| 214 | The Black Bass | [notes](214-the-black-bass.md) |
-| 215 | Castlequest | [notes](215-castlequest.md) |
-| 216 | DuckTales | [notes](216-ducktales.md) |
-| 217 | Fester's Quest | [notes](217-festers-quest.md) |
-| 218 | Hollywood Squares | [notes](218-hollywood-squares.md) |
-| 219 | King's Knight | [notes](219-kings-knight.md) |
-| 220 | Nfl | [notes](220-nfl.md) |
-| 221 | P.O.W.: Prisoners of War | [notes](221-pow-prisoners-of-war.md) |
+| 214 | The Black Bass | [notes](214-the-black-bass.md), [transcript](../transcripts/214-the-black-bass.md) |
+| 215 | Castlequest | [notes](215-castlequest.md), [transcript](../transcripts/215-castlequest.md) |
+| 216 | DuckTales | [notes](216-ducktales.md), [transcript](../transcripts/216-ducktales.md) |
+| 217 | Fester's Quest | [notes](217-festers-quest.md), [transcript](../transcripts/217-festers-quest.md) |
+| 218 | Hollywood Squares | [notes](218-hollywood-squares.md), [transcript](../transcripts/218-hollywood-squares.md) |
+| 219 | King's Knight | [notes](219-kings-knight.md), [transcript](../transcripts/219-kings-knight.md) |
+| 220 | Nfl | [notes](220-nfl.md), [transcript](../transcripts/220-nfl.md) |
+| 221 | P.O.W.: Prisoners of War | [notes](221-pow-prisoners-of-war.md), [transcript](../transcripts/221-pow-prisoners-of-war.md) |
 | 222 | Sesame Street Abc | [notes](222-sesame-street-abc.md), [transcript](../transcripts/222-sesame-street-abc.md) |
-| 223 | Sky Shark | [notes](223-sky-shark.md) |
-| 224 | Who Framed Roger Rabbit? | [notes](224-who-framed-roger-rabbit.md) |
-| 225 | Casino Kid | [notes](225-casino-kid.md) |
-| 226 | Goal! | [notes](226-goal.md) |
-| 227 | Godzilla: Monster of Monsters | [notes](227-godzilla-monster-of-monsters.md) |
-| 228 | Jeopardy Junior Edition | [notes](228-jeopardy-junior-edition.md) |
-| 229 | Romance of the Three Kingdoms | [notes](229-romance-of-the-three-kingdoms.md) |
-| 230 | Stealth ATF | [notes](230-stealth-atf.md) |
-| 231 | The Three Stooges | [notes](231-the-three-stooges.md) |
-| 232 | Twin Eagle | [notes](232-twin-eagle.md) |
-| 234 | 720 Degrees | [notes](234-720-degrees.md) |
-| 235 | Tetris | [notes](235-tetris.md) |
-| 236 | To The Earth | [notes](236-to-the-earth.md) |
-| 237 | All-Pro Basketball | [notes](237-all-pro-basketball.md) |
-| 238 | Archon | [notes](238-archon.md) |
-| 239 | The Battle of Olympus | [notes](239-the-battle-of-olympus.md) |
-| 240 | Championship Bowling | [notes](240-championship-bowling.md) |
-| 241 | Cybernoid: The Fighting Machine | [notes](241-cybernoid-the-fighting-machine.md) |
-| 242 | Dig Dug II: Trouble in Paradise | [notes](242-dig-dug-ii-trouble-in-paradise.md) |
-| 243 | Ironsword: Wizards & Warriors II | [notes](243-ironsword-wizards-warriors-ii.md) |
-| 244 | Knight Rider | [notes](244-knight-rider.md) |
-| 245 | RoboCop | [notes](245-robocop.md) |
-| 246 | Shadowgate | [notes](246-shadowgate.md) |
-| 247 | Short Order / Eggsplode | [notes](247-short-order-eggsplode.md) |
-| 248 | Silent Service | [notes](248-silent-service.md) |
+| 223 | Sky Shark | [notes](223-sky-shark.md), [transcript](../transcripts/223-sky-shark.md) |
+| 224 | Who Framed Roger Rabbit? | [notes](224-who-framed-roger-rabbit.md), [transcript](../transcripts/224-who-framed-roger-rabbit.md) |
+| 225 | Casino Kid | [notes](225-casino-kid.md), [transcript](../transcripts/225-casino-kid.md) |
+| 226 | Goal! | [notes](226-goal.md), [transcript](../transcripts/226-goal.md) |
+| 227 | Godzilla: Monster of Monsters | [notes](227-godzilla-monster-of-monsters.md), [transcript](../transcripts/227-godzilla-monster-of-monsters.md) |
+| 228 | Jeopardy Junior Edition | [notes](228-jeopardy-junior-edition.md), [transcript](../transcripts/228-jeopardy-junior-edition.md) |
+| 229 | Romance of the Three Kingdoms | [notes](229-romance-of-the-three-kingdoms.md), [transcript](../transcripts/229-romance-of-the-three-kingdoms.md) |
+| 230 | Stealth ATF | [notes](230-stealth-atf.md), [transcript](../transcripts/230-stealth-atf.md) |
+| 231 | The Three Stooges | [notes](231-the-three-stooges.md), [transcript](../transcripts/231-the-three-stooges.md) |
+| 232 | Twin Eagle | [notes](232-twin-eagle.md), [transcript](../transcripts/232-twin-eagle.md) |
+| 234 | 720 Degrees | [notes](234-720-degrees.md), [transcript](../transcripts/234-720-degrees.md) |
+| 235 | Tetris | [notes](235-tetris.md), [transcript](../transcripts/235-tetris.md) |
+| 236 | To The Earth | [notes](236-to-the-earth.md), [transcript](../transcripts/236-to-the-earth.md) |
+| 237 | All-Pro Basketball | [notes](237-all-pro-basketball.md), [transcript](../transcripts/237-all-pro-basketball.md) |
+| 238 | Archon | [notes](238-archon.md), [transcript](../transcripts/238-archon.md) |
+| 239 | The Battle of Olympus | [notes](239-the-battle-of-olympus.md), [transcript](../transcripts/239-the-battle-of-olympus.md) |
+| 240 | Championship Bowling | [notes](240-championship-bowling.md), [transcript](../transcripts/240-championship-bowling.md) |
+| 241 | Cybernoid: The Fighting Machine | [notes](241-cybernoid-the-fighting-machine.md), [transcript](../transcripts/241-cybernoid-the-fighting-machine.md) |
+| 242 | Dig Dug II: Trouble in Paradise | [notes](242-dig-dug-ii-trouble-in-paradise.md), [transcript](../transcripts/242-dig-dug-ii-trouble-in-paradise.md) |
+| 243 | Ironsword: Wizards & Warriors II | [notes](243-ironsword-wizards-warriors-ii.md), [transcript](../transcripts/243-ironsword-wizards-warriors-ii.md) |
+| 244 | Knight Rider | [notes](244-knight-rider.md), [transcript](../transcripts/244-knight-rider.md) |
+| 245 | RoboCop | [notes](245-robocop.md), [transcript](../transcripts/245-robocop.md) |
+| 246 | Shadowgate | [notes](246-shadowgate.md), [transcript](../transcripts/246-shadowgate.md) |
+| 247 | Short Order / Eggsplode | [notes](247-short-order-eggsplode.md), [transcript](../transcripts/247-short-order-eggsplode.md) |
+| 248 | Silent Service | [notes](248-silent-service.md), [transcript](../transcripts/248-silent-service.md) |
 | 249 | The Uncanny X-Men | [notes](249-the-uncanny-x-men.md), [transcript](../transcripts/249-the-uncanny-x-men.md) |
-| 250 | Willow | [notes](250-willow.md) |
-| 251 | 8 Eyes | [notes](251-8-eyes.md) |
-| 252 | Bases Loaded II - The Second Season | [notes](252-bases-loaded-ii-the-second-season.md) |
-| 253 | A Boy and His Blob | [notes](253-a-boy-and-his-blob.md) |
-| 254 | Chessmaster | [notes](254-chessmaster.md) |
-| 255 | Clash at Demonhead | [notes](255-clash-at-demonhead.md) |
-| 256 | Demon Sword | [notes](256-demon-sword.md) |
-| 257 | Double Dragon II | [notes](257-double-dragon-ii.md) |
-| 258 | Genghis Kahn | [notes](258-genghis-kahn.md) |
-| 259 | Infiltrator | [notes](259-infiltrator.md) |
+| 250 | Willow | [notes](250-willow.md), [transcript](../transcripts/250-willow.md) |
+| 251 | 8 Eyes | [notes](251-8-eyes.md), [transcript](../transcripts/251-8-eyes.md) |
+| 252 | Bases Loaded II - The Second Season | [notes](252-bases-loaded-ii-the-second-season.md), [transcript](../transcripts/252-bases-loaded-ii-the-second-season.md) |
+| 253 | A Boy and His Blob | [notes](253-a-boy-and-his-blob.md), [transcript](../transcripts/253-a-boy-and-his-blob.md) |
+| 254 | Chessmaster | [notes](254-chessmaster.md), [transcript](../transcripts/254-chessmaster.md) |
+| 255 | Clash at Demonhead | [notes](255-clash-at-demonhead.md), [transcript](../transcripts/255-clash-at-demonhead.md) |
+| 256 | Demon Sword | [notes](256-demon-sword.md), [transcript](../transcripts/256-demon-sword.md) |
+| 257 | Double Dragon II | [notes](257-double-dragon-ii.md), [transcript](../transcripts/257-double-dragon-ii.md) |
+| 258 | Genghis Kahn | [notes](258-genghis-kahn.md), [transcript](../transcripts/258-genghis-kahn.md) |
+| 259 | Infiltrator | [notes](259-infiltrator.md), [transcript](../transcripts/259-infiltrator.md) |
 | 260 | Kings of the Beach | [notes](260-kings-of-the-beach.md), [transcript](../transcripts/260-kings-of-the-beach.md) |
 | 261 | The Magic of Scheherazade | [notes](261-the-magic-of-scheherazade.md), [transcript](../transcripts/261-the-magic-of-scheherazade.md) |
 | 262 | The Miracle Piano Teaching System | [notes](262-the-miracle-piano-teaching-system.md), [transcript](../transcripts/262-the-miracle-piano-teaching-system.md) |

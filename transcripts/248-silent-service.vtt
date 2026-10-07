@@ -1,0 +1,3253 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.000
+Silent Service.
+
+00:00:01.380 --> 00:00:05.520
+The world is deep at war, and you're submerged among the enemy.
+
+00:00:20.900 --> 00:00:29.300
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:00:29.300 --> 00:00:30.300
+I'm Mike.
+
+00:00:30.520 --> 00:00:31.400
+I'm Sean.
+
+00:00:31.920 --> 00:00:36.320
+And I'm Joe. Guys, what's your submarine experience like?
+
+00:00:36.320 --> 00:00:39.060
+Has anybody been on a submarine, done any naval time?
+
+00:00:41.880 --> 00:00:43.960
+I've heard of the Sub-Mariner.
+
+00:00:45.180 --> 00:00:49.300
+Namor? Who I believe is a superhero.
+
+00:00:50.400 --> 00:00:56.620
+Correct. I saw the hunt for Red October when I was very young.
+
+00:00:57.920 --> 00:01:05.440
+And I think there's a submarine docked in Lake Erie in Buffalo.
+
+00:01:05.440 --> 00:01:06.740
+So I've seen one.
+
+00:01:06.740 --> 00:01:14.080
+But no, I've never done a tour of service on a submarine.
+
+00:01:14.500 --> 00:01:28.920
+So I was actually in like a theatrical production, or like a radio play, reenactment of a piece of literature about a game called Schoon.
+
+00:01:31.300 --> 00:01:33.920
+Oh, yeah. And who did I play in that again?
+
+00:01:34.160 --> 00:01:38.900
+I was like the captain that was asking for Narrakeen's help.
+
+00:01:38.900 --> 00:01:40.180
+And that was you, Sean.
+
+00:01:40.300 --> 00:01:43.220
+You were Narrakeen. That may have been me.
+
+00:01:43.420 --> 00:01:45.360
+That was Sean. I may have been Narrakeen, yes.
+
+00:01:45.600 --> 00:01:49.080
+And you feel like that prepped you enough, Joe, for playing this game?
+
+00:01:49.520 --> 00:01:50.780
+Yeah. What's the difference?
+
+00:01:50.780 --> 00:02:04.840
+Well, Schoon is a submarine shmup, but that didn't really like launch a genre of submarine shmups that was just kind of like a standalone thing where it was like, hey, instead of a spaceship, let's just make it a submarine underwater, which is a great idea.
+
+00:02:04.960 --> 00:02:19.320
+Don't get me wrong. But this game and this whole series, Silent Service, pretty much launched the submarine simulator video game genre, which in this day, they're actually, you know, like there's a lot of different simulators in general, right?
+
+00:02:19.360 --> 00:02:20.980
+We got a PC building simulator.
+
+00:02:20.980 --> 00:02:25.780
+So it really shouldn't be a surprise that there's a whole genre for submarine simulators.
+
+00:02:25.920 --> 00:02:31.160
+But it goes all the way back to 1985 with Silent Service.
+
+00:02:31.160 --> 00:03:01.140
+And if anybody's interested in submarine simulation games, whether they're retro or modern, I went on subsim.com, where you can really get like an enhanced understanding of these kinds of games with people who either like have actually been on submarines and understand this shit for real, or people who are just like enthusiasts, just like there's people who like use Microsoft Flight Simulator, and then never actually fly a real plane, but they can totally fly a Microsoft Flight Simulator.
+
+00:03:02.540 --> 00:03:07.920
+There's people who like never had any submarine experience, but they're really into these submarine simulators.
+
+00:03:08.680 --> 00:03:12.520
+Wow, that's a that's a lot of background that you've given us already.
+
+00:03:14.060 --> 00:03:23.020
+I didn't know that there was more than a handful of submarine simulators to call it a genre and not like just a series.
+
+00:03:23.500 --> 00:03:31.120
+Right, right. Like it's not just Silent Service, like other even in this day and age, I believe there's still like five ongoing submarine simulators.
+
+00:03:31.140 --> 00:03:33.740
+That are competing with each other for the audience.
+
+00:03:34.640 --> 00:03:36.820
+Over those couple dozen people.
+
+00:03:37.820 --> 00:03:44.480
+I guess I get it because it's anything that's like a flight simulator, which is like, I guess a little more mainstream.
+
+00:03:45.040 --> 00:03:47.860
+I'd say that's more mainstream compared to submarines.
+
+00:03:47.860 --> 00:04:02.780
+Submarines. Well, my point is that like submarines have like a similar amount of or if not way more like in-depth controls and like elements you get factors you have to be aware of.
+
+00:04:02.900 --> 00:04:09.120
+It's just that the flight simulator element is like just a sexier version of that because you're flying, I think in most people's heads.
+
+00:04:10.140 --> 00:04:21.520
+Yeah, I think it's a lot cooler to like fly over your like the city that you live in than it is to like, oh, wow, did you catch the Marianas Trench DLC or something like that?
+
+00:04:21.680 --> 00:04:24.060
+Like, I think maybe that's cooler.
+
+00:04:24.060 --> 00:04:36.300
+And more so than maybe like more appealing for us, the interesting thing about this game isn't that it launched a submarine simulator genre or, you know, span of video games and a fan forum and everything.
+
+00:04:36.480 --> 00:04:38.820
+Is that for us, it's a Sid Meier game.
+
+00:04:39.360 --> 00:04:41.620
+We like Sid Meier games a lot.
+
+00:04:41.820 --> 00:04:47.080
+And this is our first one that we're playing on the on the podcast and kind of exploring.
+
+00:04:47.300 --> 00:04:54.500
+So rather than talk about Sid Meier and all of his history and everything, I felt like maybe we should talk about what we like about Sid Meier games.
+
+00:04:54.900 --> 00:04:57.340
+Obviously, he's made a lot of different kinds of games.
+
+00:04:57.340 --> 00:05:06.840
+They all kind of fall into this simulation or strategy, more strategy than simulation, I would say, area.
+
+00:05:07.280 --> 00:05:12.840
+But, you know, different historical periods, different types of things that you're in control of.
+
+00:05:13.600 --> 00:05:15.300
+Sean, what do you like about Sid Meier games?
+
+00:05:15.300 --> 00:05:28.620
+Well, Civilization was probably the first strategy game that I ever played and sort of birthed my love for strategy games of all shapes and sizes.
+
+00:05:29.600 --> 00:05:34.400
+It was actually the Super NES version of Civilization.
+
+00:05:35.000 --> 00:05:40.600
+And then that that turned into kind of forgetting about it for a while.
+
+00:05:40.600 --> 00:05:44.500
+And then Civilization 4 and then 5 and then 6.
+
+00:05:45.180 --> 00:05:50.080
+I never got into Pirates, but I always wanted to because that seemed pretty cool.
+
+00:05:51.220 --> 00:05:57.560
+But when it came out, I don't think I had like a computer that could run it or something along those lines.
+
+00:05:57.760 --> 00:06:00.940
+But yeah, big fan of Sid Meier.
+
+00:06:01.320 --> 00:06:09.400
+Yeah, as far as I mean, at least what I was thinking while I was playing this game was I was inevitably comparing it to Pirates,
+
+00:06:09.400 --> 00:06:11.500
+which is a game that I had played on the NES.
+
+00:06:11.500 --> 00:06:13.520
+I think I played it for the first time with you, Mike, right?
+
+00:06:13.620 --> 00:06:17.160
+We just were randomly playing like we were just on a retro pie.
+
+00:06:17.500 --> 00:06:19.280
+Yeah. We picked it out of nowhere.
+
+00:06:19.560 --> 00:06:20.780
+I didn't realize it was a Sid Meier game.
+
+00:06:22.660 --> 00:06:24.580
+And and we had a blast with it.
+
+00:06:24.640 --> 00:06:25.780
+And then I've played it a lot since.
+
+00:06:28.400 --> 00:06:41.860
+But this kind of I mean, there's definitely a lot of differences, but this reminds me of it in a lot of ways where it's like this early attempt at very in-depth simulation.
+
+00:06:41.860 --> 00:06:50.820
+Although it is I feel like they go in different directions where this gets really, really this gets really, really deep with one core.
+
+00:06:52.280 --> 00:07:02.900
+Gameplay aspect of, you know, piloting the submarine, whereas Pirates is gets maybe not quite as deep on each like individual tiny granular level,
+
+00:07:02.900 --> 00:07:07.600
+but it gets very broad with like everything you can do as like the life of a pirate.
+
+00:07:08.380 --> 00:07:11.800
+It's also sort of simulating a like a cartoon version.
+
+00:07:13.080 --> 00:07:16.440
+Yeah. I mean, at least with pirates, I mean.
+
+00:07:16.620 --> 00:07:23.000
+Yeah. There is like some historical accuracy as far as like the time periods and stuff.
+
+00:07:23.140 --> 00:07:27.700
+Yeah. I mean, you're you're you're you're definitely like swashbuckling a lot more than I imagine.
+
+00:07:27.920 --> 00:07:30.860
+Actual pirates. I don't think they swashbuckled quite as much.
+
+00:07:31.840 --> 00:07:43.040
+And the idea of like auteur theory for filmmaking, you know, with the great directors who kind of no matter what genre or type of film they make, you feel their stamp on it.
+
+00:07:43.260 --> 00:07:46.580
+That's something that's not so common in video games.
+
+00:07:46.880 --> 00:07:53.420
+I think even like no one thinks of Shigeru Miyamoto as like an auteur because it's just like that's just Nintendo.
+
+00:07:53.760 --> 00:07:59.900
+And like, yeah, he's kind of touching everything that happens at Nintendo, but he's not like putting his specific mark on things.
+
+00:07:59.900 --> 00:08:01.520
+I don't know if that makes sense or not.
+
+00:08:01.620 --> 00:08:07.220
+But like, you know, there's not many guys who are known in this industry for making like specific games over and over.
+
+00:08:07.380 --> 00:08:14.940
+Kojima comes to mind as somebody who definitely like is renowned for like, oh, well, he's the one who made the game.
+
+00:08:15.100 --> 00:08:19.440
+So it's like he's very closely involved with the touch and feel of things.
+
+00:08:19.440 --> 00:08:28.180
+Sid Meier does kind of feel like one of those, though, where it's like, yeah, probably by now he's just like putting his name on the branding of the game and not directly involved in it.
+
+00:08:28.280 --> 00:08:34.700
+But you know what you're you know, what kind of experience you're getting when it says Sid Meier presents blah, blah, blah.
+
+00:08:34.900 --> 00:08:37.100
+Like, yeah, you kind of get the feel for it.
+
+00:08:37.160 --> 00:08:39.160
+Right. I guess so.
+
+00:08:39.160 --> 00:08:46.400
+I wouldn't say that it's it's the same like the same kind of a tour ship as a Kojima.
+
+00:08:46.580 --> 00:09:01.540
+Like when I think of that, that term, I think like what you're getting is like a collection of like, yes, the same ideas, but also quirks and like sort of a warts and all sort of thing.
+
+00:09:02.760 --> 00:09:24.560
+And when I think of more with like Sid Meier, I would I would actually put them more into a like a Chris Avalone or a what's the nerdy guy with Doom, that dude, the Doom guy or like a Gabe Newell from back in the day when he made games.
+
+00:09:24.560 --> 00:09:35.520
+Like I'd say it's more so like when you hear about a good director's movie coming up, not so much a Quentin Tarantino when you like know it's going to be like too cool for itself.
+
+00:09:35.560 --> 00:09:40.680
+And it's going to have the same themes where it's more so in this situation.
+
+00:09:41.140 --> 00:09:46.900
+Yeah, it might stick in the same genre, but it doesn't have the baggage that I think auteurs have.
+
+00:09:47.200 --> 00:09:50.740
+Got it. Yeah, that's a good that's a great point, too, especially where we are right now.
+
+00:09:50.900 --> 00:09:54.460
+You'll notice that this isn't called Sid Meier's silent service.
+
+00:09:54.560 --> 00:10:02.560
+This is very early in his career, not in the sense of like how many years he's been playing around with making video games.
+
+00:10:02.680 --> 00:10:09.380
+He first made a tic-tac-toe version on his own computer using, I think, basic or whatever.
+
+00:10:09.660 --> 00:10:10.940
+A tic-tac-toe simulator.
+
+00:10:11.180 --> 00:10:12.740
+Yeah, like, yeah, well, you know what I mean.
+
+00:10:12.940 --> 00:10:14.760
+Highly simulated tic-tac-toe.
+
+00:10:14.760 --> 00:10:26.380
+He was a young kid just playing around with it and made a tic-tac-toe game in 1975, then made an ASCII version of like Star Trek that was just obviously all text based.
+
+00:10:26.380 --> 00:10:36.860
+And that like kind of brought his attention, I think, because that was both mixing like a huge fan base, but with like an early computers fan base as well.
+
+00:10:36.920 --> 00:10:41.940
+So there was it was obviously not like officially licensed or whatever, but that kind of put him on the map.
+
+00:10:42.080 --> 00:10:46.520
+In 1983, he went on to make NATO Commander, which was his first strategy game.
+
+00:10:46.520 --> 00:10:49.040
+I think it's very obvious what you're doing in that game.
+
+00:10:49.320 --> 00:10:56.200
+And then in 1985, Silent Service is, you know, the submarine simulator game.
+
+00:10:56.300 --> 00:11:02.120
+And he'll go on to do like Sid Meier's Pirates, as we mentioned, in 87 and then Civilization and all that.
+
+00:11:02.220 --> 00:11:06.800
+But his name wasn't on these things like Sid Meier's Pirates is the name of the game.
+
+00:11:06.900 --> 00:11:07.940
+It's not just pirates.
+
+00:11:08.460 --> 00:11:12.140
+It's pretty interesting how quickly he kind of rises up after this.
+
+00:11:12.140 --> 00:11:15.560
+Was that was that Sid Meier's Pirates?
+
+00:11:15.640 --> 00:11:18.660
+Was that like added in other releases of the game?
+
+00:11:18.820 --> 00:11:24.840
+Even on the NES, I don't remember it actually ever saying Sid Meier's Pirates, unless it did on the title screen or something.
+
+00:11:25.000 --> 00:11:26.280
+And I just missed it. Yeah.
+
+00:11:26.420 --> 00:11:30.600
+You know, I'm looking at the box art and it does look like it has his name on it.
+
+00:11:31.160 --> 00:11:37.420
+And I was thinking more so the like the mid 2000s version, not so much the old school one.
+
+00:11:38.000 --> 00:11:40.660
+So maybe it's on that box art and not the old one.
+
+00:11:40.780 --> 00:11:41.960
+I don't know. Right, right.
+
+00:11:41.960 --> 00:11:44.480
+I mean, maybe this is also like a fan art thing.
+
+00:11:44.580 --> 00:11:50.560
+I could try to pull up really quickly, like the official NES box art for pirates and see if it's different.
+
+00:11:50.580 --> 00:11:52.940
+Because I do remember I had I actually had pirates.
+
+00:11:53.140 --> 00:11:54.800
+We should save this for the pirates episode, of course.
+
+00:11:54.960 --> 00:11:59.380
+But I had pirates on Xbox and that had his name on it.
+
+00:11:59.460 --> 00:12:03.660
+But yeah, it looks like the official NES box art doesn't mention Sid Meier by name.
+
+00:12:03.760 --> 00:12:09.180
+So yeah, he still doesn't quite have the acclaim because even Civilization, the very first one was just called Civilization.
+
+00:12:09.340 --> 00:12:11.520
+It wasn't called Sid Meier's Civilization.
+
+00:12:11.520 --> 00:12:14.940
+But it's never William Wright's Sim City either.
+
+00:12:15.440 --> 00:12:18.480
+Right? It would be Willie Wright's.
+
+00:12:18.540 --> 00:12:20.000
+Willie Wright's Sim City.
+
+00:12:21.400 --> 00:12:24.600
+And if Sid Meier wasn't enough, this is a trifecta of names.
+
+00:12:24.780 --> 00:12:34.560
+You have Konami as the publisher, Rare as the developer for the NES version at least, and Sid Meier as the maker of the original version of this game.
+
+00:12:34.560 --> 00:12:41.160
+So I don't think people knew back then just like how prolific those three names would be.
+
+00:12:41.340 --> 00:12:44.060
+They didn't buy the game thinking like, wow, it's a Konami game.
+
+00:12:44.240 --> 00:12:46.820
+Maybe they did. I don't know. Maybe Konami propaganda was strong back then.
+
+00:12:46.880 --> 00:12:49.940
+But we know now that like Konami is really good at NES games.
+
+00:12:50.360 --> 00:12:53.860
+Rare is pretty good at NES games when they're not like licensed things.
+
+00:12:53.860 --> 00:12:59.020
+And Sid Meier is just a, you know, guy who knows how to make fun video games at the very least.
+
+00:12:59.080 --> 00:13:00.200
+Fun strategy games.
+
+00:13:55.200 --> 00:13:58.880
+Fun strategy games.
+
+00:14:00.940 --> 00:14:03.220
+Fun strategy games.
+
+00:14:03.220 --> 00:14:10.640
+Fun strategy games.
+
+00:14:11.160 --> 00:14:21.060
+Fun strategy games.
+
+00:14:26.940 --> 00:14:29.920
+Fun strategy games.
+
+00:14:30.180 --> 00:14:32.620
+Yes, exactly. Also, not the army.
+
+00:14:32.620 --> 00:14:41.500
+It would be the navy. But, I mean, all of the context of the game tells you that you are an American submarine captain.
+
+00:14:41.840 --> 00:14:44.480
+So, yeah, I kind of felt like that's what I was doing.
+
+00:14:45.120 --> 00:14:51.000
+Interesting. Yeah, I guess I paid less attention to that after, once you're actually, like, inside the game.
+
+00:14:51.180 --> 00:14:56.740
+Because, you know, yeah, it's happening on the Pacific front and everything.
+
+00:14:57.080 --> 00:14:58.680
+But otherwise, it's like...
+
+00:14:58.680 --> 00:15:00.460
+Yeah, there's no insignia. Right, yeah, exactly.
+
+00:15:00.640 --> 00:15:02.920
+There's no, like, branding or anything that would give that away.
+
+00:15:02.920 --> 00:15:05.180
+But that's just a quick, you know, quick upfront note.
+
+00:15:05.320 --> 00:15:09.120
+I just wanted to establish, like, where we are in the real world.
+
+00:15:09.220 --> 00:15:11.280
+This takes place in the real world during World War II.
+
+00:15:12.040 --> 00:15:16.240
+Sid Meier described several key factors that influenced the design of this game.
+
+00:15:16.240 --> 00:15:25.620
+And that was the size of the theater, which is the, you know, the place in the world where this particular war or battle took place.
+
+00:15:25.620 --> 00:15:29.200
+So, it's actually a pretty large map, all things considered.
+
+00:15:29.220 --> 00:15:33.560
+Now, you kind of, like, can focus in and get really, like, because you're just one submarine.
+
+00:15:33.940 --> 00:15:36.480
+You can get really honed in on, like, oh, I'm just in open water.
+
+00:15:36.580 --> 00:15:38.380
+Or, oh, I happen to actually be, like, near Australia.
+
+00:15:38.400 --> 00:15:39.300
+Like, that's interesting.
+
+00:15:39.440 --> 00:15:48.800
+But the actual, like, map that they provide you, especially if you're in the, you know, larger campaign modes, they are the entire Pacific theater.
+
+00:15:48.800 --> 00:15:51.100
+So, that is a large map to explore.
+
+00:15:51.520 --> 00:15:54.660
+Yeah, that was a pretty cool thing to see, just the scope.
+
+00:15:55.580 --> 00:16:11.100
+I think when we see that sort of scale in these NES games, it's usually more so, like, the sort of the space sims that we played between, you know, those two.
+
+00:16:11.820 --> 00:16:12.900
+Star Voyager?
+
+00:16:13.040 --> 00:16:15.120
+Star Voyager and the other one.
+
+00:16:15.300 --> 00:16:17.040
+Star Luster? Star Luster.
+
+00:16:19.460 --> 00:16:22.380
+So, that's where I was expecting to see that kind of scale.
+
+00:16:23.040 --> 00:16:30.320
+But now, like, in this with, like, the different, like, zoom modes for the map, it was cool to see.
+
+00:16:30.800 --> 00:16:38.540
+Another key factor for Sid was the variety of tactical situations that you can get into with a submarine.
+
+00:16:39.260 --> 00:16:42.760
+And this isn't really, I don't think it's time to break those things down yet.
+
+00:16:42.760 --> 00:16:57.520
+But, you know, the whole game is just focused on this idea of combat where you are stealthily trying to track down, discover, and then fire at opposing warships.
+
+00:16:57.520 --> 00:17:02.160
+Be they destroyers or other kinds of ships.
+
+00:17:02.160 --> 00:17:12.880
+So, that combat and technology are really, like, the big features of this submarine simulator, right?
+
+00:17:12.880 --> 00:17:29.300
+If it was just kind of like an arcadey asteroids experience where you're just in a, you know, top-down map looking at your submarine from a distance, like, firing little pixel bullets at other submarines just based on what direction you're doing.
+
+00:17:29.300 --> 00:17:37.240
+That really wouldn't be, like, a totally different kind of game, but also not one that would involve the feeling of being in a submarine.
+
+00:17:38.140 --> 00:17:39.880
+No, yeah, that would just be scoon.
+
+00:17:41.080 --> 00:17:43.520
+Well, I was thinking more like asteroids, though, right?
+
+00:17:43.620 --> 00:17:54.720
+Like, where it's, you know, just more like you're very far away and you're just trying to shoot down these ships as they're moving kind of, you know, randomly.
+
+00:17:55.800 --> 00:17:58.980
+Yeah, I guess that could also be a way to do it.
+
+00:17:59.960 --> 00:18:16.140
+See, I just think it really shows that this was really trying to be, I mean, I know we just keep using the word simulator, but, like, this, I feel like even more so than things like Star Voyager and stuff, which obviously is trying to be a simulator for something that, like, isn't real.
+
+00:18:16.580 --> 00:18:25.320
+You know, like, we don't have those spaceships, you know, we're not, like, really, like, out there flying, like, TIE Fighters or whatever the heck that was supposed to be.
+
+00:18:25.320 --> 00:18:43.640
+But, like, this feels, I guess, akin to, like, a modern simulator in a lot of ways because even though it doesn't look as accurate, it's just like, Mike, you mentioned with the scope, like, you might be near, oh my god, I'm near Australia.
+
+00:18:43.640 --> 00:18:55.460
+But, like, it will actually take you a really long time to get anywhere in this game and it'll actually, like, distance is actually pretty important and, you know, it, like, it speeds up the time.
+
+00:18:55.860 --> 00:18:58.200
+You can speed up time to, like, times eight.
+
+00:18:58.200 --> 00:19:10.160
+The fact that time dilation is an explained feature in the manual and they go pretty in-depth on to what that means and why it's there, like, it's pretty hardcore.
+
+00:19:10.420 --> 00:19:28.180
+Exactly, yeah. I mean, it feels like if you really want to, like, I played this game for a while, but I really don't think I scratched the surface on, like, stuff you can do in this game and how it works and, like, there are just, it feels like it's trying to let you do everything you can do in an actual way.
+
+00:19:28.820 --> 00:19:32.800
+Now, I'm sure it's not even close, I'm guessing, but...
+
+00:19:32.800 --> 00:19:40.160
+Yeah, there's no mess hall. Yeah, as someone who's never been in a submarine, it feels like, wow, like, this is, this must be what it's like.
+
+00:19:40.480 --> 00:19:44.780
+Right, and I think that's a good point, Joe, is that, you know, you mentioned that you played this game a lot.
+
+00:19:44.900 --> 00:19:47.880
+I played this game a lot and I don't even know if I'm good at it or not.
+
+00:19:48.020 --> 00:19:54.400
+Like, I never dared raise my difficulty too high just because of the complexity of this game.
+
+00:20:04.300 --> 00:20:10.580
+So this episode is not about to just become a strategy guide or a tips and tricks section.
+
+00:20:10.880 --> 00:20:14.640
+No, there are other resources on YouTube for stuff like that.
+
+00:20:14.780 --> 00:20:18.320
+We're just going to kind of continue to break down the game the same way we do other games,
+
+00:20:18.320 --> 00:20:26.100
+but I don't think we're going to be able to really get into, you know, explaining in detail the way this game works
+
+00:20:26.100 --> 00:20:33.600
+and best practices for the differences between, say, a practice mode and the convoy mode and the war patrol mode.
+
+00:20:33.600 --> 00:20:35.380
+But that is a good starting point.
+
+00:20:35.380 --> 00:20:38.140
+So let's start there because there are three different modes.
+
+00:20:38.300 --> 00:20:43.480
+And this one, you know, Sean, you mentioned Starluster and that's a Bytes episode.
+
+00:20:43.480 --> 00:20:45.020
+So if you're kind of like, why do we keep talking about that?
+
+00:20:45.100 --> 00:20:48.940
+Don't worry. That's on the patron feed for Starluster.
+
+00:20:49.260 --> 00:20:52.920
+But that game also had a thing where, like, in these three modes.
+
+00:20:53.040 --> 00:20:58.860
+Yeah, in these three modes, each one is just kind of like adding an additional layer to the game.
+
+00:20:59.040 --> 00:21:06.980
+So practice mode really is just teaching you how to use your submarine in combat without, like, much of a threat.
+
+00:21:06.980 --> 00:21:08.720
+You can toggle threats on.
+
+00:21:08.780 --> 00:21:10.840
+But for the most part, it's just like, here's the ships.
+
+00:21:10.840 --> 00:21:13.480
+They're right in front of you, figure out how you're going to attack them.
+
+00:21:13.740 --> 00:21:20.220
+And then in the convoy one, you actually, I believe these are real situations, like real battles.
+
+00:21:20.220 --> 00:21:30.420
+And then they're being recreated in video game for you to kind of figure out how you're going to attack a variety of different ships in a specific area.
+
+00:21:30.640 --> 00:21:36.620
+And then the war patrol one kind of says, like, well, what if you weren't just in the action of it?
+
+00:21:36.620 --> 00:21:46.160
+And you were actually patrolling as a submarine through the Pacific Theater trying to find these cargo ships and destroyer ships and other ships.
+
+00:21:46.160 --> 00:21:55.060
+And then once you find them, then kind of go back into the convoy section and use what you learned in the practice section to then execute completely on this idea.
+
+00:21:55.260 --> 00:21:57.720
+Of course, what war patrol winds up doing a lot more than that.
+
+00:21:57.860 --> 00:22:04.020
+It also has like you have to manage your your gas and you have to kind of know when you don't stand a fighting chance to kind of escape.
+
+00:22:04.020 --> 00:22:14.100
+But in terms of just offering those three different modes and then the stackable difficulty, I think that there's a lot already in terms of player agency going on here.
+
+00:22:14.260 --> 00:22:19.780
+Sean, I don't know if you want to, like, talk about the toggling of the difficulties or the differences of these three different modes.
+
+00:22:19.780 --> 00:22:29.600
+Yeah, the how granular that you can sort of customize the experience with regards to realism and playability.
+
+00:22:29.600 --> 00:22:36.380
+Like if you're going for the hardcore, like I want this to be a simulation as a simulator can be.
+
+00:22:37.220 --> 00:22:46.080
+You can make it so that sometimes your torpedoes will be duds or that you're going to you're going to have imperfect information.
+
+00:22:46.480 --> 00:23:03.580
+And the map display that usually just shows you where everybody is, you can almost consider that like, oh, this is just an actual satellite image of the theater is actually just the conglomeration of all the intel that you have.
+
+00:23:03.580 --> 00:23:09.480
+And if you look around with the periscope, then you'll find there are other targets that you didn't see before.
+
+00:23:11.720 --> 00:23:20.060
+And things like that, that like maybe you want it to be more like easier on in a couple situations, but harder another.
+
+00:23:20.540 --> 00:23:23.320
+So whatever switches you want to flip, you can flip them.
+
+00:23:25.180 --> 00:23:27.000
+And that's crazy.
+
+00:23:28.140 --> 00:23:30.140
+I just I wasn't expecting that.
+
+00:23:30.400 --> 00:23:31.460
+Yeah, it really is.
+
+00:23:31.460 --> 00:23:36.200
+I mean, yeah, I can like I don't even know which ones are like for the sake of realism.
+
+00:23:36.500 --> 00:23:39.480
+I'm assuming everything that makes it more difficult is probably closer to realism.
+
+00:23:39.480 --> 00:23:41.720
+But like you can only have so many torpedoes.
+
+00:23:41.820 --> 00:23:48.000
+You can like take away the ability to fire more than one torpedo within a certain amount of time from each other and things like that.
+
+00:23:48.080 --> 00:23:55.240
+Like that that stuff where like I would like to know which ones for sure are like more realistic if I wanted to play this.
+
+00:23:55.240 --> 00:23:57.940
+But then like, OK, yeah, I like that feature.
+
+00:23:58.120 --> 00:24:09.700
+But also if that's not realistic, if you can't fire those that close together for whatever reason in real life, then like maybe I would like to try it the way, you know, the way that it's meant to be.
+
+00:24:09.700 --> 00:24:18.620
+So like I don't know if it defaults at like the ideal settings or if it defaults at like, hey, you're a video game player and you've never been in a submarine.
+
+00:24:18.760 --> 00:24:19.660
+So here's an easier way.
+
+00:24:19.800 --> 00:24:22.640
+It defaults to the like the plug and play.
+
+00:24:22.980 --> 00:24:27.260
+Just give me to the action or as close to action as a simulation game will get you.
+
+00:24:27.260 --> 00:24:28.840
+That's kind of what I figured.
+
+00:24:29.020 --> 00:24:46.260
+Yeah. But but yeah, I mean, it is it is I think the most robust game in terms of like being able to slowly teach yourself and like build up your the difficulty as you build your skill level in those like toggleable functions.
+
+00:24:46.260 --> 00:24:59.540
+And also just in the three difficulty level or the three gameplay modes, because it really I think it just even forgetting for a second about those those options you can toggle on and off.
+
+00:25:00.240 --> 00:25:03.340
+Those three modes really were great stepping stones.
+
+00:25:03.480 --> 00:25:08.000
+Like to me, it feels like the the third mode, the the what was it?
+
+00:25:08.040 --> 00:25:16.000
+The war patrol that feels like that's the the main intended mode of this game.
+
+00:25:17.120 --> 00:25:25.500
+But if I were to just even after reading the manual, if I were to just play that, I would be like, wow, even when I just play the practice mode, it took me a little while to be like, OK, what's going on here?
+
+00:25:26.340 --> 00:25:27.900
+But then I play the practice mode.
+
+00:25:28.100 --> 00:25:35.420
+Then I move into the next mode, which is like individual battles and play several of those because, you know, I'm learning, OK, now they're firing back.
+
+00:25:35.420 --> 00:25:39.080
+And I, you know, I kind of learn there that you can go below the what is it, the thermal gradient.
+
+00:25:39.420 --> 00:25:40.860
+And that's how you can kind of like help.
+
+00:25:41.040 --> 00:25:46.240
+It can help you like stay safe from some of their attacks and, you know, hide in the thermal gradient and stuff like that.
+
+00:25:46.280 --> 00:26:00.380
+Like I'm just learning these things about the like how to use the different interfaces and what to do in the in the like main area of the sub that like will kind of help you get the information you need.
+
+00:26:00.380 --> 00:26:04.860
+And help you kind of like control the submarine in ways you wouldn't think of.
+
+00:26:04.860 --> 00:26:10.600
+And then once I kind of feel like I have the hang of that, you move on to the next to the to the War Patrol.
+
+00:26:10.860 --> 00:26:13.840
+And that's where you I mean, as we said, there are things that you didn't even know were coming.
+
+00:26:14.260 --> 00:26:20.440
+I mean, it's in the manual, but like the fact that you're actually just moving around a little more like a video game,
+
+00:26:20.500 --> 00:26:30.500
+because now the time dilation is just ridiculous where you're you can actually, you know, move around as as days go by, like seconds until you find enemies maybe in the area.
+
+00:26:30.500 --> 00:26:31.740
+Then you go back to what you're familiar with.
+
+00:26:31.840 --> 00:26:37.560
+So it teaches you a new thing in each in each section where you don't feel I mean, you do feel overwhelmed,
+
+00:26:37.560 --> 00:26:43.460
+but you don't feel as overwhelmed as you as you could if they just threw it all at you.
+
+00:26:43.660 --> 00:26:44.640
+Joe, that's a great point.
+
+00:26:44.720 --> 00:26:47.040
+They do kind of act like tutorials in that sense.
+
+00:26:47.140 --> 00:26:52.800
+The manual, I think, is one of the more comprehensive ones we've ever received, but it's a dense manual.
+
+00:26:53.060 --> 00:26:54.860
+And I'm not sure kids wanted to do a lot of reading.
+
+00:26:55.000 --> 00:26:58.040
+So maybe the correct approach is also to offer this.
+
+00:26:58.040 --> 00:27:06.420
+Hey, you know, some people bought this game and they just want to fire torpedoes at convoys that, you know, necessarily won't pose much of a threat,
+
+00:27:06.420 --> 00:27:18.120
+but they still have to figure out, you know, how to face the correct direction and move the rudders and fire the torpedoes using the degrees calculations and stuff like that.
+
+00:27:18.120 --> 00:27:32.540
+I feel like that stuff is very entry level, but could also give a young player like enough of a tutorial to understand what's going on and then feel comfortable to then move on to the convoy sections, which are a little more detailed.
+
+00:27:32.940 --> 00:27:40.460
+Just to go back to the difficulty thing, which, Joe, I think you were saying, like, you know, which ones actually kind of matter or whatever.
+
+00:27:40.460 --> 00:27:43.020
+I wouldn't say like any of them don't matter.
+
+00:27:43.020 --> 00:28:09.920
+But I think for me, if the limited visibility and the port repairs only are like the two that I would suggest toggling on to at least make it feel like there's a little more to the simulation experience, because being able to always like see the enemy ships and exactly where they are or being able to like repair during battle, like repairing during battle just feels fake, right?
+
+00:28:09.920 --> 00:28:11.680
+Like that's not something a submarine can actually do.
+
+00:28:11.820 --> 00:28:23.940
+So like those kinds of things I like expert destroyers just feels like a mode where it's like, wow, now these things are even harder, like certain difficulty things affect the actual difficulty of the game a lot more.
+
+00:28:24.080 --> 00:28:29.020
+But the game does a good job of balancing that because it also gives an overall difficulty score.
+
+00:28:29.040 --> 00:28:31.780
+So you could be on the thing.
+
+00:28:31.860 --> 00:28:35.740
+It's called the mid ship man for that's like the beginner overall level.
+
+00:28:35.740 --> 00:28:47.680
+You can select that as your skill level, but then like toggle on a few of these combat difficulties and that will give you an overall difficulty score of three or four instead of one, which is nice.
+
+00:28:47.860 --> 00:28:58.800
+So this way it's actually fluctuating in a way that makes sense so that you're not just saying like, oh, well, I'm just playing on the beginner mode and I to really be any more difficult.
+
+00:28:58.800 --> 00:29:00.440
+They need to move on to lieutenant.
+
+00:29:01.880 --> 00:29:05.820
+Yeah, I kind of saw it more as like this is something that I did.
+
+00:29:05.920 --> 00:29:28.000
+I only played on the easiest like raw difficulty, but I flipped on a lot of the anything that added complexity, like instead of just the raw power of the enemies you're facing is like, OK, yeah, now they're their torpedoes do more damage and their depth charges do more damage.
+
+00:29:28.740 --> 00:29:35.500
+Anything that was just like a multiplier, like I kept that low, but I also wanted to have to worry about those things.
+
+00:29:35.940 --> 00:29:40.380
+So anything that actually had context to it, I turned on.
+
+00:30:06.800 --> 00:30:17.480
+Now that you've selected your difficulties and you have the whatever mode you choose, whether it's practice or War Patrol, everything is inside the game still kind of remains the same.
+
+00:30:17.480 --> 00:30:22.740
+There is that one screen in the game that you don't necessarily start on.
+
+00:30:22.820 --> 00:30:30.660
+You kind of start on the map, but eventually there is the screen that shows you as the I guess the captain of the ship inside.
+
+00:30:31.680 --> 00:30:35.920
+I don't even know what that room would be called, but it's like the command center.
+
+00:30:36.140 --> 00:30:37.300
+OK, yeah, the command center.
+
+00:30:37.400 --> 00:30:38.520
+It's got the periscope.
+
+00:30:38.660 --> 00:30:43.580
+It's got the map. It's got all your like little valves and stuff like that for readings.
+
+00:30:44.200 --> 00:30:47.900
+Everything kind of happens on that screen in terms of navigation.
+
+00:30:47.900 --> 00:30:59.380
+So you you navigate to the menus between them by using this actual like character hovering over these specific things in this room.
+
+00:30:59.380 --> 00:31:01.720
+And then that brings you to that next screen.
+
+00:31:01.720 --> 00:31:09.780
+So if you want to go back to the map, there isn't a map button or a menu that says, you know, take me to the map.
+
+00:31:09.840 --> 00:31:13.520
+You have to just take your mouse and bring it over to the map.
+
+00:31:13.660 --> 00:31:16.900
+And then you're the captain will stand over the map and then you.
+
+00:31:17.020 --> 00:31:21.880
+Yeah, you get access back to the map, you know, maybe a little convoluted.
+
+00:31:22.180 --> 00:31:24.700
+Certainly the way I'm explaining it sounds that way.
+
+00:31:25.320 --> 00:31:29.880
+It's basically an illustrated main menu.
+
+00:31:29.880 --> 00:31:52.100
+Like to give it context, it almost reminds me of like the the between missions in like a TIE fighter game from the 90s where they meant like, OK, you have to go to the barracks to look at your stats or whatever and to go to the hangar to start the new mission.
+
+00:31:52.220 --> 00:31:56.360
+Like it's all just a menu, but with with cute little drawings.
+
+00:31:56.360 --> 00:32:04.180
+And I just think it's really funny that it makes it seem like you're the only person on this on this submarine.
+
+00:32:04.180 --> 00:32:07.120
+Like you have to go down there and change this thing.
+
+00:32:07.300 --> 00:32:08.940
+You have to look to the periscope.
+
+00:32:09.100 --> 00:32:10.860
+It's very also just like this guy.
+
+00:32:10.980 --> 00:32:12.260
+You're just like looking at every man.
+
+00:32:12.400 --> 00:32:14.880
+You're just like, yeah, you're just a guy with a sweater and jeans.
+
+00:32:17.600 --> 00:32:18.820
+I don't know why that crack.
+
+00:32:18.900 --> 00:32:22.100
+We have so much just the blue jeans, the like baggy blue jeans.
+
+00:32:22.360 --> 00:32:25.460
+Yeah. It's almost like dad took the submarine out.
+
+00:32:25.540 --> 00:32:27.780
+Yeah. For a little convoy action.
+
+00:32:28.040 --> 00:32:29.860
+Yeah. To go sink some military.
+
+00:32:30.260 --> 00:32:33.120
+Yeah. It does look like he's like trying to like his family is just behind him.
+
+00:32:33.120 --> 00:32:33.940
+He's like, we're having fun.
+
+00:32:35.140 --> 00:32:36.620
+But this is our vacation.
+
+00:32:38.100 --> 00:32:45.460
+But the, the, the, the way that this menu, I'm surprised more games don't do something
+
+00:32:45.460 --> 00:32:50.780
+like that. I mean, this could have just as easily been like a map icon, a periscope icon, you know,
+
+00:32:50.880 --> 00:32:55.620
+like the, your, what are your valves or whatever those are that all your readings, like an icon
+
+00:32:55.620 --> 00:32:58.460
+for that, an icon for checking damage.
+
+00:32:58.720 --> 00:33:00.700
+And like it would function just the same.
+
+00:33:00.700 --> 00:33:05.960
+And, and I, and I imagine, I mean, this pretty much functionally as far as making a video
+
+00:33:05.960 --> 00:33:12.700
+game is, is just as, is, is not any like more robust to do.
+
+00:33:12.860 --> 00:33:17.600
+I mean, the guy is basically a cursor and then there's just this still image of everything.
+
+00:33:17.840 --> 00:33:21.260
+And then the guy moved, like you, you, you move your cursor towards the map and the guy
+
+00:33:21.260 --> 00:33:22.120
+just pops over there.
+
+00:33:22.120 --> 00:33:27.420
+But just that tiny little detail, making it a guy and making it a room instead of just
+
+00:33:27.420 --> 00:33:34.240
+like an arrow and a bunch of icons, contextualizes it and helps you immediately like, no, it just
+
+00:33:34.240 --> 00:33:36.180
+makes it like more clear in your brain.
+
+00:33:36.300 --> 00:33:40.620
+It's easier for your brain to like organize it where you're like, oh, I, I need to check
+
+00:33:40.620 --> 00:33:42.320
+the map because that's what I would do in real life.
+
+00:33:42.460 --> 00:33:45.640
+It's not like you got to think about like, okay, what are the commands I can do?
+
+00:33:46.600 --> 00:33:53.640
+It makes the, the submarine actually feel like a, a place that you're in and instead of just
+
+00:33:53.640 --> 00:33:56.040
+like a collection of screens.
+
+00:33:56.720 --> 00:34:01.540
+Yeah. Just that immersive factor that any good simulator should do.
+
+00:34:01.780 --> 00:34:04.820
+Uh, it, it was, it was, it was very effective.
+
+00:34:05.720 --> 00:34:07.920
+It, it's effective and definitely immersive.
+
+00:34:07.920 --> 00:34:10.180
+I, I do question the functionality a little bit.
+
+00:34:10.320 --> 00:34:15.620
+Maybe I just have a problem with, uh, you know, like those pointer clickers, uh, being on
+
+00:34:15.620 --> 00:34:17.140
+the screen and that being the way you navigate.
+
+00:34:17.360 --> 00:34:21.580
+Maybe if you cycled through on the D pad, it'd be a little smoother, but granted the whole
+
+00:34:21.580 --> 00:34:24.760
+game is, um, operated by the clicker.
+
+00:34:24.920 --> 00:34:29.200
+So it, you know, no matter what screen you're on, you always have a mouse, but there is no
+
+00:34:29.200 --> 00:34:30.560
+NES mouse accessory.
+
+00:34:30.820 --> 00:34:33.960
+That's just the way that because these games came from computer and they just didn't feel
+
+00:34:33.960 --> 00:34:38.360
+like figuring out a way to, especially on the, when you're looking through the periscope,
+
+00:34:38.500 --> 00:34:42.880
+there's so many different things to cycle through the D pad on that would kind of be a mistake,
+
+00:34:43.040 --> 00:34:47.980
+right? Like in that one, it is faster to use a, uh, a clicker that you hover over what you need
+
+00:34:47.980 --> 00:34:52.760
+access to instead of figuring out like, well, we only have six actual buttons and how do
+
+00:34:52.760 --> 00:34:55.640
+we figure out how to make everything on the periscope screen work?
+
+00:34:56.060 --> 00:35:01.220
+Every thing, every action that you had to do would end up being like a, like a Hadouken,
+
+00:35:01.560 --> 00:35:04.460
+like you'd have to do like a combo to change the rudder speed.
+
+00:35:06.000 --> 00:35:11.680
+But simulation also kind of like pauses when you're in that, uh, command center, right?
+
+00:35:12.740 --> 00:35:13.720
+I don't think so.
+
+00:35:14.880 --> 00:35:18.000
+I didn't get the feeling that I was in any danger when I was doing it.
+
+00:35:18.080 --> 00:35:21.640
+Like I, maybe I, maybe it was like just a fast enough thing to react to, but I guess that was
+
+00:35:21.640 --> 00:35:27.620
+my concern is that sometimes as I'm like moving around in that space or thinking about like,
+
+00:35:27.700 --> 00:35:29.120
+oh wait, where, where's the thing?
+
+00:35:29.120 --> 00:35:32.400
+Uh, you know, most of the time you'll just be using the periscope or the map.
+
+00:35:32.500 --> 00:35:34.080
+So that's very easy to go back and forth with.
+
+00:35:34.380 --> 00:35:39.380
+Um, it's very rare that you'll be using the other, uh, things, but it just felt, you know,
+
+00:35:39.520 --> 00:35:43.640
+functionality wise, it just felt a little like a step back given the hardware.
+
+00:35:43.940 --> 00:35:49.420
+I agree about the functionality of the mouse because I think that about the whole game.
+
+00:35:49.800 --> 00:35:53.680
+So I wasn't really applying that to this, the, this menu area.
+
+00:35:53.720 --> 00:35:56.280
+Cause I'm just the whole game. I do think that the mouse thing is not ideal.
+
+00:35:56.280 --> 00:36:00.280
+I don't know what you would do on an NES controller also, because you don't have a mouse.
+
+00:36:00.780 --> 00:36:03.960
+Like I think that that is the ideal way to play a game like this is with an actual mouse.
+
+00:36:04.420 --> 00:36:10.920
+But yeah, so with, with, yeah, like I do agree that the cursor is not ideal, but I think
+
+00:36:10.920 --> 00:36:12.580
+it was the best way they could go about it.
+
+00:36:12.640 --> 00:36:18.060
+As far as like, like not knowing where things are, I mean, or like not remembering for the
+
+00:36:18.060 --> 00:36:19.340
+most part, it's pretty clear.
+
+00:36:19.500 --> 00:36:23.140
+There are a few things like you can see most of the things right on the screen.
+
+00:36:23.140 --> 00:36:24.440
+I can move over there.
+
+00:36:24.920 --> 00:36:28.200
+You can go down below deck to, to check the damage.
+
+00:36:28.360 --> 00:36:30.140
+It's like, once you know that it, it makes sense.
+
+00:36:30.280 --> 00:36:36.040
+So then you, then you do it. There are two things that are like back, like behind the guy, like towards you where you're
+
+00:36:36.900 --> 00:36:42.660
+like your perspective that I didn't know were there until I just stumbled upon them.
+
+00:36:42.760 --> 00:36:47.120
+So like, I wish there had been something there to like clue me into the fact that there's
+
+00:36:47.120 --> 00:36:48.380
+more I can do back there.
+
+00:36:48.560 --> 00:36:50.080
+But otherwise I was pretty happy.
+
+00:36:50.080 --> 00:36:56.020
+It is pretty funny though, that like we're getting to kind of cursor based games and pretty
+
+00:36:56.020 --> 00:36:57.180
+rapid succession here.
+
+00:36:57.480 --> 00:37:04.320
+Um, I wonder if the sort of more windows based where it's, it kind of acts like a menu.
+
+00:37:04.320 --> 00:37:10.600
+And then once you move over far enough, it, it becomes more of a standard cursor.
+
+00:37:10.600 --> 00:37:13.500
+Maybe that would help your issues a bit, Mike.
+
+00:37:13.700 --> 00:37:19.180
+But I think like with the amount of things that you have to control here, there was really
+
+00:37:19.180 --> 00:37:22.340
+no other option than to make it some version of this.
+
+00:37:22.820 --> 00:37:27.860
+Yeah. And again, like the immersive thing is totally working because the game is pretty dense and
+
+00:37:27.860 --> 00:37:32.400
+a lot of information, sometimes a questionable amount of information too.
+
+00:37:32.400 --> 00:37:39.200
+Like Sid Meier is definitely giving those who want the full experience, you know, it's there,
+
+00:37:39.360 --> 00:37:44.340
+right? Uh, on the Periscope screen alone, you can get target range, target speed, target course,
+
+00:37:44.520 --> 00:37:49.440
+angle on the bow, lead angle, uh, what the current status of what your weapon's doing,
+
+00:37:49.760 --> 00:37:53.080
+the target ID of the ship that you're, uh, currently facing.
+
+00:37:53.080 --> 00:37:55.840
+All these things are communicated and they're all just text.
+
+00:37:55.980 --> 00:37:58.580
+Obviously there's no like fancy way to handle that.
+
+00:37:58.580 --> 00:38:04.100
+Um, also your Periscope has the, uh, uh, if it's facing North, South, East or West, like
+
+00:38:04.100 --> 00:38:08.260
+the degree angle that it's at, there's so much information there that I don't think it
+
+00:38:08.260 --> 00:38:12.980
+was the right call to then take the command center and just make that a text based menu
+
+00:38:12.980 --> 00:38:15.000
+as well. So I'm not advocating for that.
+
+00:38:15.140 --> 00:38:19.180
+I just question, you know, like you said, we've had so many of these mouse games.
+
+00:38:19.320 --> 00:38:20.980
+There's like a time and place for the mouse.
+
+00:38:21.100 --> 00:38:25.400
+I actually didn't find the mouse field and shadow gate like that terrible.
+
+00:38:25.400 --> 00:38:29.800
+Uh, other than that one instance I was talking about in the, um, in the control of the actual
+
+00:38:29.800 --> 00:38:31.460
+screen. But for the most part, it worked.
+
+00:38:31.540 --> 00:38:35.480
+It made sense. It would have sucked to have to cycle through the D pad for everything that you wanted to
+
+00:38:35.480 --> 00:38:40.780
+do in that game. In this game, I think it was like more of a context thing of like when it should be, uh,
+
+00:38:41.080 --> 00:38:46.040
+you're controlling the, the captain and when you're kind of controlling, uh, the actual
+
+00:38:46.040 --> 00:38:47.440
+menus on the screen.
+
+00:38:49.100 --> 00:38:50.440
+Oh, so sorry.
+
+00:38:50.840 --> 00:38:58.440
+Your issue is more so when like in that like hub menu where you're, you're like picking
+
+00:38:58.440 --> 00:38:59.380
+where you want to go.
+
+00:38:59.540 --> 00:39:00.420
+Okay. Right, right. Yep.
+
+00:39:23.080 --> 00:39:25.800
+So let's get out of that screen since that's where my issue is.
+
+00:39:26.020 --> 00:39:29.800
+And let's get into the periscope since that is where you'll be doing most of,
+
+00:39:30.000 --> 00:39:31.860
+or if not all of your combat.
+
+00:39:32.520 --> 00:39:38.020
+And, you know, it's a, as I said, it's like a feature rich screen,
+
+00:39:38.020 --> 00:39:42.680
+a lot of which is questionable because if you're playing on easier modes,
+
+00:39:42.700 --> 00:39:45.480
+I don't think you necessarily need all that information.
+
+00:39:45.480 --> 00:39:49.260
+Maybe if you had like higher difficulties and the ships were more advanced,
+
+00:39:49.320 --> 00:39:55.560
+it would be more important to know like the range and the course of the ship.
+
+00:39:55.880 --> 00:39:59.580
+Because obviously if it's far enough away and it's heading in a certain direction,
+
+00:39:59.800 --> 00:40:04.980
+by the time your torpedo theoretically gets there, the ship won't be there.
+
+00:40:05.100 --> 00:40:06.020
+And that's a real problem.
+
+00:40:06.520 --> 00:40:09.800
+But for beginner players, that's not something you'll really run into.
+
+00:40:10.520 --> 00:40:14.100
+The periscope screen itself though is really nice because it contextualizes
+
+00:40:14.100 --> 00:40:18.840
+how you see everything through the periscope lens, which I thought was,
+
+00:40:19.280 --> 00:40:22.280
+you know, some people at the time might've thought they were being cheated out of some graphics,
+
+00:40:22.400 --> 00:40:25.140
+but I feel like that's a smart way to handle the viewfinder.
+
+00:40:26.760 --> 00:40:28.580
+What do you mean cheated out of some graphics?
+
+00:40:29.100 --> 00:40:31.340
+Like just that like the screen could have been,
+
+00:40:31.500 --> 00:40:34.560
+this information could have been feature rich with the idea of like that,
+
+00:40:34.860 --> 00:40:37.900
+everything that's inside that periscope being more like,
+
+00:40:37.900 --> 00:40:41.240
+you could see more of the ships, more of the, you know,
+
+00:40:41.320 --> 00:40:47.700
+the land and the sky that's around you and your ship and kind of the machine gun firing and stuff like that.
+
+00:40:47.820 --> 00:40:54.720
+But instead you just see the kind of binoculars view with a little, you know,
+
+00:40:54.880 --> 00:40:58.760
+crosshair over these ships that are pretty far away from you.
+
+00:40:58.760 --> 00:41:00.440
+Yeah, I get that.
+
+00:41:00.620 --> 00:41:05.340
+I think that, um, I, I consider it more like,
+
+00:41:05.400 --> 00:41:08.580
+I feel like anything more would, would make it feel a bit more arcadey.
+
+00:41:08.700 --> 00:41:13.900
+I think that this feels right with the amount of graphical fidelity.
+
+00:41:14.100 --> 00:41:16.960
+Like actually, like when you, when you've got several ships in,
+
+00:41:17.060 --> 00:41:20.940
+in view and they're doing their maneuvers,
+
+00:41:20.940 --> 00:41:22.600
+like it actually is pretty impressive.
+
+00:41:23.060 --> 00:41:25.680
+Uh, like what's going on on the screen.
+
+00:41:25.680 --> 00:41:31.560
+And like the fact that you have just this limited field of view and it takes forever to turn.
+
+00:41:31.560 --> 00:41:35.800
+Like it, I think it adds to like the tension of like this naval battle that you're,
+
+00:41:35.980 --> 00:41:37.400
+uh, that you're a part of.
+
+00:41:37.700 --> 00:41:40.960
+And I also, regardless of when you're,
+
+00:41:41.140 --> 00:41:45.220
+whether you're on like an easier difficulty or a harder difficulty,
+
+00:41:45.220 --> 00:41:47.140
+the amount of information that's there,
+
+00:41:47.340 --> 00:41:48.840
+maybe you don't need it.
+
+00:41:48.940 --> 00:41:50.140
+Maybe you're not like,
+
+00:41:50.420 --> 00:41:54.860
+maybe you're not calculating a firing solution and you need to know,
+
+00:41:54.860 --> 00:41:57.580
+like how fast they're moving in this direction.
+
+00:41:57.840 --> 00:41:59.120
+And from your perspective,
+
+00:41:59.340 --> 00:42:01.180
+like what's the lead angle and yada,
+
+00:42:01.240 --> 00:42:03.300
+yada, yada. Like, but I think again,
+
+00:42:03.480 --> 00:42:04.920
+with, with this being a simulation,
+
+00:42:05.220 --> 00:42:06.960
+having that info there is,
+
+00:42:07.120 --> 00:42:08.340
+I think it adds to it.
+
+00:42:08.760 --> 00:42:12.880
+So yeah, it might not be relevant all the time,
+
+00:42:12.880 --> 00:42:17.300
+but I think it would be worse for wear if it wasn't included.
+
+00:42:17.540 --> 00:42:18.600
+And I think just, uh,
+
+00:42:18.780 --> 00:42:20.880
+you know, I'm thinking about more of the combat,
+
+00:42:20.880 --> 00:42:22.840
+uh, experience of the game.
+
+00:42:22.920 --> 00:42:23.860
+Like since this is the,
+
+00:42:23.860 --> 00:42:26.300
+uh, the world war two simulation.
+
+00:42:26.740 --> 00:42:27.780
+And I'm thinking about like, you know,
+
+00:42:27.860 --> 00:42:29.860
+the kind of audience that was playing NES games at the time.
+
+00:42:30.060 --> 00:42:31.060
+The only thing I would,
+
+00:42:31.160 --> 00:42:33.860
+uh, argue about with the graphics thing is just that like,
+
+00:42:33.920 --> 00:42:37.640
+you know, if you were seeing more of your submarine doing the actual firing,
+
+00:42:37.760 --> 00:42:39.320
+I totally get where you're coming from too.
+
+00:42:39.480 --> 00:42:42.540
+Like it being a simulator game and the kinds of games we know about now.
+
+00:42:42.680 --> 00:42:44.280
+So I'm really just playing a devil's advocate.
+
+00:42:44.340 --> 00:42:45.840
+I don't necessarily, uh,
+
+00:42:46.380 --> 00:42:47.620
+disagree with anything that,
+
+00:42:47.620 --> 00:42:48.440
+uh, you said there.
+
+00:42:48.460 --> 00:42:50.320
+I just feel like if anything,
+
+00:42:50.500 --> 00:42:53.620
+like combat could have been something really exciting.
+
+00:42:53.620 --> 00:42:55.580
+And instead still went with the very,
+
+00:42:55.580 --> 00:42:57.200
+uh, you know,
+
+00:42:57.540 --> 00:42:58.720
+studied, uh,
+
+00:42:58.880 --> 00:42:59.880
+approach of like,
+
+00:43:00.060 --> 00:43:02.800
+uh, very technical analysis of what's happening.
+
+00:43:03.180 --> 00:43:05.240
+Yeah. I feel like it ends up kind of with this.
+
+00:43:05.560 --> 00:43:09.640
+It's, it becomes exciting in its own way because of the,
+
+00:43:09.840 --> 00:43:11.920
+like, well, you meant to take so long to turn and,
+
+00:43:12.200 --> 00:43:14.280
+and you're, it's exciting in a more,
+
+00:43:15.460 --> 00:43:16.880
+I don't know, like the,
+
+00:43:17.560 --> 00:43:21.140
+your actions are less like reflex based and more like cognitive,
+
+00:43:21.320 --> 00:43:23.840
+but like that, that gets your heart pounding a little bit too,
+
+00:43:23.920 --> 00:43:26.800
+where you're like, I don't know.
+
+00:43:26.860 --> 00:43:28.720
+I feel like it's trying to simulate a different type of,
+
+00:43:28.820 --> 00:43:30.020
+uh, a different type of excitement.
+
+00:43:30.040 --> 00:43:31.560
+I know you're not saying that's not the case,
+
+00:43:31.580 --> 00:43:32.560
+but I just feel like they, um,
+
+00:43:32.980 --> 00:43:34.380
+they pulled that off really well.
+
+00:43:34.480 --> 00:43:35.860
+Like it's not exciting.
+
+00:43:36.220 --> 00:43:37.240
+Like, uh,
+
+00:43:37.240 --> 00:43:40.660
+a shmup is for most people that aren't us,
+
+00:43:40.880 --> 00:43:41.840
+but like,
+
+00:43:42.000 --> 00:43:43.160
+it's exciting,
+
+00:43:43.440 --> 00:43:44.260
+like in a,
+
+00:43:44.340 --> 00:43:45.280
+in a different way where you're, you're,
+
+00:43:45.420 --> 00:43:49.600
+it's like this like different type of like stressful because there's so many
+
+00:43:49.600 --> 00:43:52.000
+things in your head. It's kind of like battleship,
+
+00:43:52.180 --> 00:43:56.860
+the, uh, tabletop game where you say like B4 and there's like that silence between you
+
+00:43:56.860 --> 00:43:57.700
+and your opponent.
+
+00:43:57.700 --> 00:43:58.780
+And then they say like,
+
+00:43:58.900 --> 00:44:00.620
+you hit my battleship and it's like,
+
+00:44:00.680 --> 00:44:01.520
+it feels good. It's like,
+
+00:44:01.600 --> 00:44:02.520
+all right, I get to go again.
+
+00:44:02.520 --> 00:44:04.260
+Like I kind of know where you are.
+
+00:44:04.660 --> 00:44:05.600
+It's like that,
+
+00:44:05.800 --> 00:44:06.660
+but with like,
+
+00:44:06.660 --> 00:44:09.620
+like this ticking clock of like,
+
+00:44:09.880 --> 00:44:12.420
+things are changing the longer I take to do things.
+
+00:44:12.580 --> 00:44:13.480
+Yeah. You know,
+
+00:44:13.600 --> 00:44:17.780
+if I could go a little off topic for a second and just explain what,
+
+00:44:17.840 --> 00:44:19.160
+one of the, uh,
+
+00:44:19.420 --> 00:44:23.860
+I guess more, more stressful moments in my time with this game.
+
+00:44:24.060 --> 00:44:28.580
+Uh, I was in the middle of a firefight and I was getting pummeled.
+
+00:44:28.680 --> 00:44:30.020
+So I just tried to bail.
+
+00:44:30.700 --> 00:44:32.220
+And so I'm,
+
+00:44:32.220 --> 00:44:33.520
+I'm in the periscope screen.
+
+00:44:33.560 --> 00:44:36.360
+Like I, I'm out of forward facing,
+
+00:44:37.040 --> 00:44:38.320
+uh, So I,
+
+00:44:38.340 --> 00:44:39.200
+I'm just like, all right, I gotta,
+
+00:44:39.420 --> 00:44:40.340
+I gotta get out of here.
+
+00:44:40.520 --> 00:44:41.700
+So I tried to,
+
+00:44:41.800 --> 00:44:43.500
+I submerged. Uh,
+
+00:44:43.760 --> 00:44:45.680
+I went, I went underwater and,
+
+00:44:46.020 --> 00:44:47.860
+uh, I went back to the screen,
+
+00:44:48.020 --> 00:44:49.520
+uh, back to the,
+
+00:44:50.000 --> 00:44:51.040
+like you're the,
+
+00:44:51.220 --> 00:44:53.360
+you're in the ship screen.
+
+00:44:53.940 --> 00:44:58.020
+And I'm, I keep going down and I'm checking my damage.
+
+00:44:58.020 --> 00:44:59.060
+And then I'm like,
+
+00:44:59.120 --> 00:45:01.840
+okay, I should probably stop descending or I'm going to bottom out.
+
+00:45:01.840 --> 00:45:02.780
+So I,
+
+00:45:02.780 --> 00:45:08.160
+I click the button to stop descending and I keep descending and I'm like,
+
+00:45:08.260 --> 00:45:09.340
+Oh, I,
+
+00:45:09.460 --> 00:45:10.920
+I guess I didn't notice that,
+
+00:45:11.360 --> 00:45:16.680
+uh, I have a huge leak and now I'm just going to sink.
+
+00:45:16.780 --> 00:45:21.480
+And then eventually I just got to that threshold of like test conditions exceeded.
+
+00:45:22.000 --> 00:45:26.420
+Uh, you're basically getting crushed by the pressure of the ocean.
+
+00:45:26.420 --> 00:45:28.360
+And it was just like that,
+
+00:45:28.500 --> 00:45:31.800
+that moment where I tried to like what,
+
+00:45:31.800 --> 00:45:38.060
+when I'm using the tools that the game has provided me and that tool broke in the game.
+
+00:45:38.060 --> 00:45:39.220
+And it's just like,
+
+00:45:39.500 --> 00:45:40.760
+you know, you can continue to play,
+
+00:45:40.860 --> 00:45:43.080
+but you're dead. Uh,
+
+00:45:43.200 --> 00:45:44.640
+that was, that was really cool.
+
+00:45:44.760 --> 00:45:47.900
+It was a really cool, stressful moment that I ended up not surviving.
+
+00:45:48.160 --> 00:45:51.840
+Yeah. I think the game could have a lot of those kinds of stressful moments too.
+
+00:45:52.140 --> 00:45:55.720
+They don't, even though you're a submarine and you feel like you're the stealthy one,
+
+00:45:55.720 --> 00:46:03.740
+this isn't a game where you can just kind of submerge and then come back up and then fire a torpedo and wait and see what happens.
+
+00:46:03.900 --> 00:46:05.880
+If you kind of play like sitting duck for a little bit,
+
+00:46:06.060 --> 00:46:08.760
+those destroyers or other ships are going to notice you.
+
+00:46:08.900 --> 00:46:10.500
+And while you're waiting to see if you got a hit,
+
+00:46:10.680 --> 00:46:15.800
+they might've already started attacking you and you won't know it until you're told that you've been attacked.
+
+00:46:15.880 --> 00:46:17.820
+And, uh, then you kind of have to figure out like,
+
+00:46:18.300 --> 00:46:20.840
+shit, how am I going to either one escape or how am I going to,
+
+00:46:20.980 --> 00:46:22.240
+uh, fix this issue?
+
+00:46:22.780 --> 00:46:23.720
+And, uh,
+
+00:46:23.720 --> 00:46:26.900
+you can check on the status of your ship with a very,
+
+00:46:27.020 --> 00:46:27.880
+very detailed screen,
+
+00:46:27.980 --> 00:46:29.400
+which I still not sure.
+
+00:46:29.620 --> 00:46:30.820
+I like fully understand.
+
+00:46:31.060 --> 00:46:33.740
+Uh, I admittedly do not know much about submarines,
+
+00:46:33.740 --> 00:46:34.760
+but there are,
+
+00:46:34.840 --> 00:46:36.840
+there's a screen to get your damage report,
+
+00:46:37.060 --> 00:46:39.360
+which the manual lays out like all the different,
+
+00:46:39.360 --> 00:46:41.980
+uh, types of damage you could be experiencing,
+
+00:46:41.980 --> 00:46:46.160
+like your fuel leaking or your engine damage or your battery damage.
+
+00:46:46.600 --> 00:46:50.580
+And then there's also the instrument and gauges battle station,
+
+00:46:51.140 --> 00:46:52.940
+which game FAQs kind of told me like,
+
+00:46:53.080 --> 00:46:54.140
+please don't worry about this.
+
+00:46:54.320 --> 00:46:55.400
+But even just looking at it,
+
+00:46:55.520 --> 00:46:56.460
+I was like stressed out.
+
+00:46:56.660 --> 00:47:00.000
+Like there's just so much going on with different valves on this screen.
+
+00:47:00.100 --> 00:47:01.900
+And I'm like, am I supposed to be reading this?
+
+00:47:02.020 --> 00:47:02.900
+Am I supposed to be like,
+
+00:47:03.140 --> 00:47:04.460
+is this how I repair my ship?
+
+00:47:04.720 --> 00:47:07.300
+Uh, I don't think the one time that I could actually,
+
+00:47:07.440 --> 00:47:10.360
+when it was legible, I think at the top of the screen,
+
+00:47:10.360 --> 00:47:12.440
+it shows you like what systems are down,
+
+00:47:12.960 --> 00:47:15.960
+uh, because I couldn't use my periscope at one point.
+
+00:47:16.160 --> 00:47:18.420
+And then I look and lo and behold,
+
+00:47:18.440 --> 00:47:20.660
+it says periscope on the damage report.
+
+00:47:20.660 --> 00:47:23.260
+So I, I think it could have helped to like,
+
+00:47:23.400 --> 00:47:27.440
+say like damaged periscope instead of just listing words.
+
+00:47:27.960 --> 00:47:30.740
+Um, but I think that's how you read it.
+
+00:47:30.900 --> 00:47:32.100
+I don't know. Wait,
+
+00:47:32.100 --> 00:47:33.420
+are you talking about the dam?
+
+00:47:33.540 --> 00:47:34.680
+Like when you check the damages,
+
+00:47:34.680 --> 00:47:35.480
+when you go below?
+
+00:47:35.760 --> 00:47:38.140
+Yes. Is that what you were talking about too,
+
+00:47:38.260 --> 00:47:39.520
+Mike? I was talking about that first.
+
+00:47:39.520 --> 00:47:40.940
+And then I moved on to the,
+
+00:47:40.940 --> 00:47:42.140
+uh, instruments and,
+
+00:47:42.140 --> 00:47:43.800
+uh, gauges. Okay.
+
+00:47:43.980 --> 00:47:45.980
+Yeah. Cause I think that both are confusing,
+
+00:47:45.980 --> 00:47:47.640
+but definitely the instruments and gauges.
+
+00:47:47.740 --> 00:47:48.680
+I'm looking at that right now.
+
+00:47:48.900 --> 00:47:49.740
+And I'm like,
+
+00:47:50.100 --> 00:47:52.620
+I mean, it seems like that's like extra.
+
+00:47:52.760 --> 00:47:55.000
+Like if you really want to learn more about submarines,
+
+00:47:55.100 --> 00:47:57.820
+you can check this out and like compare it to what's going on.
+
+00:47:57.900 --> 00:48:01.340
+But I never found that I needed this unless I did.
+
+00:48:01.440 --> 00:48:03.140
+And that's why I wasn't very good at this game.
+
+00:48:03.260 --> 00:48:04.360
+But isn't it weird that like,
+
+00:48:04.500 --> 00:48:08.100
+that's kind of why I love this game is that it has something like that.
+
+00:48:08.160 --> 00:48:12.740
+Like, even if I will never like take the time to read what all these,
+
+00:48:12.880 --> 00:48:14.160
+and it doesn't, it's not like it takes forever.
+
+00:48:14.280 --> 00:48:17.340
+You don't need to actually study submarines to understand what's happening.
+
+00:48:17.340 --> 00:48:18.460
+You just have to read the manual.
+
+00:48:18.720 --> 00:48:21.200
+Read the manual. Yeah. Keep the manual open and play long enough.
+
+00:48:21.200 --> 00:48:26.160
+But like the fact that Sid Meier and his team of developers or whatever,
+
+00:48:26.360 --> 00:48:28.360
+whoever wound up making all these features work,
+
+00:48:28.500 --> 00:48:29.660
+they actually work.
+
+00:48:29.860 --> 00:48:31.720
+And this is something that like,
+
+00:48:31.940 --> 00:48:34.880
+I don't know, enthusiasts can just kind of geek over,
+
+00:48:34.980 --> 00:48:37.540
+but also someone who has no idea could geek over and just be like,
+
+00:48:37.600 --> 00:48:39.620
+wow, I wonder what these things mean.
+
+00:48:39.800 --> 00:48:48.320
+It's the, it's the fact that everything that you interact with or see in this game actually works the way it's supposed to,
+
+00:48:48.400 --> 00:48:52.200
+too. Like, I'm thinking about even the map telling you like,
+
+00:48:52.340 --> 00:48:54.720
+this kind of distance means this many.
+
+00:48:55.540 --> 00:48:57.080
+I think they measure it in yards,
+
+00:48:57.320 --> 00:48:58.160
+but I don't quote me on that.
+
+00:48:58.260 --> 00:49:00.400
+But like, basically like as you zoom out on the screen,
+
+00:49:00.540 --> 00:49:01.800
+it, it becomes,
+
+00:49:01.980 --> 00:49:04.820
+so this way you can actually sense the scale of how far away things are.
+
+00:49:04.920 --> 00:49:11.500
+It's like, I personally didn't feel like I needed to be measuring any kind of distance between where I actually was and where,
+
+00:49:11.680 --> 00:49:13.200
+where, where I needed to go.
+
+00:49:13.560 --> 00:49:16.120
+I didn't think it mattered for my gameplay experience,
+
+00:49:16.300 --> 00:49:19.120
+but it enhanced it because the information was there.
+
+00:49:19.400 --> 00:49:20.420
+And yeah,
+
+00:49:20.420 --> 00:49:24.000
+there is probably a limit on like how much information is useful or whatever.
+
+00:49:24.000 --> 00:49:29.600
+And like how much information is actually hindering beginners from exploring the game further.
+
+00:49:29.960 --> 00:49:31.700
+But as somebody who's playing this,
+
+00:49:31.760 --> 00:49:32.740
+just like a,
+
+00:49:32.740 --> 00:49:34.200
+just a cursory glance,
+
+00:49:34.380 --> 00:49:37.780
+I got excited by the opportunity of what I,
+
+00:49:38.040 --> 00:49:40.320
+what I could potentially learn knowing full well,
+
+00:49:40.320 --> 00:49:43.580
+I won't. I get that.
+
+00:49:43.580 --> 00:49:47.860
+I, I think I have that feeling with a lot of games with,
+
+00:49:48.580 --> 00:49:52.600
+with complex mechanisms that I just can't be bothered,
+
+00:49:52.600 --> 00:49:54.560
+like elite dangerous.
+
+00:49:54.900 --> 00:49:58.520
+Like I just, I've always wanted to play that game because it's cool.
+
+00:49:58.660 --> 00:50:00.240
+You got all the knobs to twitch,
+
+00:50:00.300 --> 00:50:02.380
+but I don't have the patience.
+
+00:50:18.440 --> 00:50:19.800
+And I'd hate to say like,
+
+00:50:20.360 --> 00:50:22.500
+that's it because there is a,
+
+00:50:22.500 --> 00:50:23.440
+you know, a lot more,
+
+00:50:23.440 --> 00:50:32.360
+but it's a lot more gameplay dependent because these battles are so open-ended that this could really just become like a war stories podcast.
+
+00:50:32.360 --> 00:50:37.600
+Where we just share what happened to us on our convoy missions and how we dealt with it and stuff like that.
+
+00:50:37.740 --> 00:50:39.700
+But that's not really stuff.
+
+00:50:40.000 --> 00:50:44.520
+You know, it's situational stuff that happens as a result of just these few screens,
+
+00:50:45.080 --> 00:50:47.040
+right? Like just the command center,
+
+00:50:48.100 --> 00:50:49.640
+the periscope and,
+
+00:50:50.520 --> 00:50:56.500
+and your damage reports and stuff like that is the information that you're using to kind of then figure out like,
+
+00:50:56.620 --> 00:51:04.160
+well, combat is actually no harder than just make sure that either your front or bow is lined up with the,
+
+00:51:04.200 --> 00:51:05.260
+sorry, your bow is your front,
+
+00:51:05.340 --> 00:51:06.800
+right? So your bow or your aft.
+
+00:51:07.320 --> 00:51:09.880
+Um, if either one of those is lined up,
+
+00:51:10.000 --> 00:51:11.120
+they, cause you can shoot,
+
+00:51:11.220 --> 00:51:12.720
+you can shoot torpedoes out of both.
+
+00:51:12.820 --> 00:51:14.180
+You can shoot from the front and the rear.
+
+00:51:14.320 --> 00:51:15.480
+So that's what I really should have said.
+
+00:51:15.640 --> 00:51:20.880
+Uh, as long as one of those is lined up with an enemy ship and you're in somewhat proximity,
+
+00:51:21.360 --> 00:51:24.260
+yeah, you're just going to fire the torpedo and it's most likely going to work.
+
+00:51:24.320 --> 00:51:27.680
+The real exciting parts of this game come from the,
+
+00:51:27.920 --> 00:51:29.360
+uh, like the unknown,
+
+00:51:29.520 --> 00:51:31.800
+right? Like the, where are the other ships?
+
+00:51:31.800 --> 00:51:33.680
+Can I, can I come out,
+
+00:51:33.780 --> 00:51:34.680
+uh, from underwater?
+
+00:51:34.880 --> 00:51:36.120
+Like, is it safe right now?
+
+00:51:36.460 --> 00:51:38.820
+Uh, what happens if one of my torpedoes,
+
+00:51:38.920 --> 00:51:40.120
+if I'm playing on this difficulty level,
+
+00:51:40.240 --> 00:51:41.600
+if one of my torpedoes is a dud,
+
+00:51:41.800 --> 00:51:43.160
+like then what do I do?
+
+00:51:43.720 --> 00:51:45.060
+Uh, stuff like that.
+
+00:51:45.680 --> 00:51:47.320
+Yeah. That's the exciting part,
+
+00:51:47.380 --> 00:51:48.460
+right? Yeah.
+
+00:51:48.600 --> 00:51:58.700
+I mean, I feel like the vastness of possibilities that could happen in this game come from the fact that like they built all of these systems to work.
+
+00:51:58.700 --> 00:52:00.440
+And, and obviously they,
+
+00:52:00.540 --> 00:52:03.060
+they put a lot of work into just building everything,
+
+00:52:03.060 --> 00:52:04.040
+the enemies, the world,
+
+00:52:04.180 --> 00:52:06.820
+the systems, but it's like the,
+
+00:52:07.020 --> 00:52:15.660
+the, the payoff to all these things working together is so exponential that like there are just so many like endless possibilities.
+
+00:52:15.960 --> 00:52:17.820
+Like to make a crazy analogy,
+
+00:52:17.820 --> 00:52:20.100
+it's like no man's sky is,
+
+00:52:20.220 --> 00:52:22.240
+is like infinite almost fundamentally.
+
+00:52:22.660 --> 00:52:24.980
+It's not like they've designed an infinite game.
+
+00:52:24.980 --> 00:52:27.760
+They just made these systems that work so well that they,
+
+00:52:27.760 --> 00:52:28.760
+they just are working.
+
+00:52:29.020 --> 00:52:30.200
+This is a much more like,
+
+00:52:30.380 --> 00:52:31.660
+obviously, you know,
+
+00:52:32.620 --> 00:52:33.800
+rudimentary version of that,
+
+00:52:33.880 --> 00:52:35.780
+but it's like these systems all work together.
+
+00:52:36.020 --> 00:52:37.580
+Everything functions with their own,
+
+00:52:37.680 --> 00:52:42.740
+like much more in depth physics than most video games we play.
+
+00:52:43.460 --> 00:52:50.060
+So, so it's closer to something like the real world where things can just happen,
+
+00:52:50.500 --> 00:52:55.140
+you know? And, and I think that's what makes the game like have so much more potential than already.
+
+00:52:55.380 --> 00:52:56.660
+What is pretty,
+
+00:52:56.880 --> 00:52:59.020
+a pretty impressive amount of work that was put into it.
+
+00:52:59.380 --> 00:53:00.520
+Yeah. These systems,
+
+00:53:00.660 --> 00:53:02.840
+and I guess this is just reiterating what you guys have been saying,
+
+00:53:02.880 --> 00:53:05.500
+but like, yeah, the systems that they've put into place here,
+
+00:53:05.640 --> 00:53:07.620
+while they are simple,
+
+00:53:07.720 --> 00:53:13.240
+they're complex and simple enough that they're easy to wrap your head around for the most part,
+
+00:53:13.440 --> 00:53:14.720
+but they also have enough,
+
+00:53:14.720 --> 00:53:15.520
+uh,
+
+00:53:16.020 --> 00:53:18.340
+enough variables that together,
+
+00:53:18.340 --> 00:53:31.880
+they allow for a lot of emergent things to happen in conjunction with a relatively robust artificial intelligence for these ships that actually will do things that will counter what you're trying to do.
+
+00:53:32.140 --> 00:53:34.160
+And even can be fooled by,
+
+00:53:34.540 --> 00:53:36.900
+apparently, I never found out how to do this,
+
+00:53:37.920 --> 00:53:40.940
+releasing debris into the,
+
+00:53:40.940 --> 00:53:47.100
+the water so that these artificially intelligent ships will think they sank you.
+
+00:53:48.900 --> 00:53:51.440
+and then you just sort of like trying to get away that way.
+
+00:53:51.520 --> 00:53:54.040
+I thought that was, that was crazy to read in the manual.
+
+00:53:54.200 --> 00:53:55.300
+I don't know how to do it in the game,
+
+00:53:55.340 --> 00:53:56.660
+but, uh,
+
+00:53:57.120 --> 00:53:59.220
+yeah, all just everything coming together.
+
+00:53:59.680 --> 00:54:00.540
+Uh, it,
+
+00:54:00.680 --> 00:54:02.460
+it makes any,
+
+00:54:02.600 --> 00:54:05.400
+it like a, like a crusader Kings run.
+
+00:54:05.600 --> 00:54:10.520
+Just all of these little systems that are pretty simple meshing together,
+
+00:54:10.520 --> 00:54:11.880
+can create stories.
+
+00:54:12.400 --> 00:54:13.880
+And you're,
+
+00:54:13.960 --> 00:54:18.760
+you're basically having your own like submarine story being told here.
+
+00:54:19.060 --> 00:54:25.220
+Sean, you perfectly teed up the next section in my notes for your little thing about that debris spilling out,
+
+00:54:25.340 --> 00:54:31.700
+because this is the first game that I can recall that we've played where the,
+
+00:54:31.860 --> 00:54:40.280
+the one player game can technically be two players or just be one player with two controllers to do those features.
+
+00:54:40.280 --> 00:54:41.400
+That you're talking about.
+
+00:54:41.880 --> 00:54:45.120
+You need to have a second controller plugged in to the second controller port.
+
+00:54:45.280 --> 00:54:49.560
+And then you could either have your co-captain or it could be you with both controllers.
+
+00:54:50.080 --> 00:54:51.460
+Um, that is how that works.
+
+00:54:51.560 --> 00:54:53.280
+And it's not just for spilling the debris.
+
+00:54:53.460 --> 00:54:56.520
+That is, um, you can press the a button and it will,
+
+00:54:56.660 --> 00:54:57.520
+it will do that.
+
+00:54:57.660 --> 00:55:01.900
+It'll spill some oil and knock off some debris and have a chance of scaring away.
+
+00:55:01.900 --> 00:55:03.900
+Uh, the enemies and not scaring them away,
+
+00:55:03.980 --> 00:55:05.140
+but thinking that they'd sunk you.
+
+00:55:05.340 --> 00:55:07.320
+You can only do that once per mission.
+
+00:55:07.580 --> 00:55:09.000
+Uh, so that is kind of important,
+
+00:55:09.000 --> 00:55:10.140
+but that's just like,
+
+00:55:10.300 --> 00:55:12.060
+that's just pressing the a button once on your,
+
+00:55:12.200 --> 00:55:13.000
+on your controller.
+
+00:55:13.180 --> 00:55:14.860
+So technically you can do that as a,
+
+00:55:14.940 --> 00:55:16.000
+as a one player game.
+
+00:55:16.100 --> 00:55:17.800
+Yeah. But the,
+
+00:55:18.060 --> 00:55:23.240
+um, the other things that you could do with that second controller kind of do lend itself to the co-captain ability.
+
+00:55:23.240 --> 00:55:25.300
+And that is that the first player can,
+
+00:55:25.380 --> 00:55:29.800
+you know, move around and kind of control the rudders and the speed and stuff like that.
+
+00:55:29.920 --> 00:55:33.740
+While the second controller moves the periscope around.
+
+00:55:34.240 --> 00:55:35.900
+Oh, I did not know that.
+
+00:55:36.340 --> 00:55:38.000
+So I, I read about this.
+
+00:55:38.160 --> 00:55:39.480
+I didn't experience it while playing it,
+
+00:55:39.480 --> 00:55:42.980
+but I almost thought that I wasn't even thinking about playing with another player.
+
+00:55:42.980 --> 00:55:44.380
+I was just thinking that this,
+
+00:55:44.880 --> 00:55:46.840
+if you, uh,
+
+00:55:47.780 --> 00:55:49.140
+if you add another controller,
+
+00:55:49.140 --> 00:55:52.440
+it kind of makes it less conventional.
+
+00:55:52.440 --> 00:55:55.320
+It feels like less of a conventional video game controller.
+
+00:55:55.520 --> 00:55:57.760
+And it feels almost a little more like you're in this like command center.
+
+00:55:57.880 --> 00:55:59.360
+Like you got your, some controls over here,
+
+00:55:59.480 --> 00:56:00.380
+some controls over there.
+
+00:56:00.460 --> 00:56:01.540
+You know, I feel it's like,
+
+00:56:01.660 --> 00:56:03.080
+this is the game to do that with,
+
+00:56:03.120 --> 00:56:05.560
+you know, I feel like it feels weird to do that with other games.
+
+00:56:05.680 --> 00:56:07.260
+Like how would you have to do something on another controller?
+
+00:56:07.460 --> 00:56:08.380
+This is the game to do it with.
+
+00:56:08.460 --> 00:56:10.040
+It doesn't matter that you have a video game controller.
+
+00:56:10.320 --> 00:56:11.960
+You might as well have a keyboard or like,
+
+00:56:12.080 --> 00:56:14.900
+you know, a wall of gears and levers,
+
+00:56:14.920 --> 00:56:15.740
+you know, like,
+
+00:56:16.160 --> 00:56:19.140
+like I, I, I think that that almost makes it feel,
+
+00:56:19.540 --> 00:56:20.580
+I mean, I haven't played it that way,
+
+00:56:20.640 --> 00:56:22.280
+but it's kind of cooler that way.
+
+00:56:23.360 --> 00:56:27.880
+I also like the idea of just like bringing a buddy along to play this game,
+
+00:56:28.040 --> 00:56:29.260
+but he can only just like,
+
+00:56:29.380 --> 00:56:32.600
+you're just going to bail out if we ever have to leave.
+
+00:56:33.400 --> 00:56:39.440
+Yeah. And I've seen this with a lot of the modern subsim games that I was checking out.
+
+00:56:39.600 --> 00:56:42.500
+A lot of them are just two player co-op.
+
+00:56:42.600 --> 00:56:47.060
+And so I wonder, is that something that is known in submarine life?
+
+00:56:47.340 --> 00:56:48.580
+Or is that something that like,
+
+00:56:48.960 --> 00:56:50.000
+well, even this game,
+
+00:56:50.020 --> 00:56:57.040
+uh, kind of directly inspire the idea of like two people being in the command room and one person kind of,
+
+00:56:57.180 --> 00:56:59.980
+uh, being in control of the,
+
+00:56:59.980 --> 00:57:00.880
+the view, you know,
+
+00:57:00.940 --> 00:57:02.160
+like they control the periscope,
+
+00:57:02.160 --> 00:57:08.300
+but then the other person is in charge of like the other operations that happen inside the command center,
+
+00:57:08.500 --> 00:57:09.540
+pushing all the other buttons,
+
+00:57:09.540 --> 00:57:11.600
+if you will, firing the torpedoes.
+
+00:57:12.680 --> 00:57:14.240
+It just reminds me of like,
+
+00:57:14.420 --> 00:57:16.060
+again, this is very off topic,
+
+00:57:16.060 --> 00:57:17.000
+but, uh,
+
+00:57:17.320 --> 00:57:21.280
+there's that, that VR Star Trek game where you all just sort of,
+
+00:57:21.460 --> 00:57:23.080
+you all take a command station.
+
+00:57:23.260 --> 00:57:25.420
+Right, right. Yeah. I always wanted to play that,
+
+00:57:25.560 --> 00:57:31.700
+but I don't know anybody else that has a VR headset and I don't even know how fun it is.
+
+00:57:31.820 --> 00:57:32.660
+So, but those,
+
+00:57:32.820 --> 00:57:39.660
+those like compartmentalized cooperative games make more of those developers.
+
+00:57:49.300 --> 00:57:51.060
+On the sequels and spinoff side,
+
+00:57:51.440 --> 00:57:56.320
+Silent Service 2 was released in 1990 for computers.
+
+00:57:57.040 --> 00:57:58.320
+Uh, no Sid Meier involvement.
+
+00:57:58.760 --> 00:57:59.840
+Um, he would actually,
+
+00:58:00.160 --> 00:58:01.600
+as best as I can tell from his,
+
+00:58:01.640 --> 00:58:03.120
+uh, gameography,
+
+00:58:03.120 --> 00:58:05.460
+he would never work on another sub game.
+
+00:58:05.660 --> 00:58:07.820
+So kind of one and done for old Sid over here.
+
+00:58:08.120 --> 00:58:09.580
+Um, you know,
+
+00:58:09.680 --> 00:58:12.140
+I think that's a impressive in and out entry.
+
+00:58:12.700 --> 00:58:15.180
+Silent Service soured him on the entire genre.
+
+00:58:15.660 --> 00:58:17.700
+Kind of, kind of like the guy who invented SimAnt,
+
+00:58:17.860 --> 00:58:18.800
+right? And then like, was like,
+
+00:58:18.880 --> 00:58:20.300
+no, there's no need for a SimAnt 2.
+
+00:58:20.580 --> 00:58:23.140
+SimAnt is, that's the Ant simulator personified.
+
+00:58:25.360 --> 00:58:27.380
+Um, but Silent Service 2,
+
+00:58:27.660 --> 00:58:28.860
+other than not having Sid's involvement,
+
+00:58:29.320 --> 00:58:32.660
+the addition, other than like nicer graphics and,
+
+00:58:33.000 --> 00:58:34.520
+you know, some maybe more like,
+
+00:58:34.640 --> 00:58:35.860
+um, uh,
+
+00:58:37.040 --> 00:58:38.480
+personality added to the,
+
+00:58:38.560 --> 00:58:39.860
+uh, the combat, uh,
+
+00:58:39.960 --> 00:58:41.000
+in the career mode,
+
+00:58:41.220 --> 00:58:42.120
+uh, the,
+
+00:58:42.340 --> 00:58:43.980
+instead of like doing a war patrol thing,
+
+00:58:43.980 --> 00:58:49.120
+now you take on like a number of consecutive patrols inside the submarine,
+
+00:58:49.120 --> 00:58:50.800
+meeting up with other,
+
+00:58:50.800 --> 00:58:53.260
+uh, ships in the Navy and,
+
+00:58:53.480 --> 00:58:56.600
+um, kind of having like unscripted encounters.
+
+00:58:56.600 --> 00:58:57.420
+So like, uh,
+
+00:58:57.580 --> 00:59:00.500
+no, no one campaign or career is the same.
+
+00:59:01.520 --> 00:59:03.140
+Okay. That's cute.
+
+00:59:03.860 --> 00:59:05.240
+I like it. I feel like,
+
+00:59:05.280 --> 00:59:08.740
+again, it's just another thing where you just kind of have to add a certain number of
+
+00:59:08.740 --> 00:59:10.580
+additional random encounters.
+
+00:59:11.000 --> 00:59:14.360
+And then the order in which those happen is the exciting part.
+
+00:59:14.860 --> 00:59:17.060
+It's kind of XCOM like,
+
+00:59:17.080 --> 00:59:19.340
+I guess. Uh,
+
+00:59:19.400 --> 00:59:22.820
+and if you wanted to play any of the modern games that I kept like teasing,
+
+00:59:22.840 --> 00:59:24.740
+uh, those would be Wolfpack,
+
+00:59:25.140 --> 00:59:26.020
+U-Boat,
+
+00:59:26.740 --> 00:59:28.360
+Destroyer, Cold Waters,
+
+00:59:28.560 --> 00:59:30.000
+and Crash Dive 2.
+
+00:59:30.500 --> 00:59:34.260
+Uh, I watched YouTube Let's Plays of all of these.
+
+00:59:34.440 --> 00:59:37.160
+They all kind of seem to just be doing the same thing.
+
+00:59:37.160 --> 00:59:40.240
+So I guess it is kind of like that flight simulator genre where you just,
+
+00:59:40.260 --> 00:59:43.360
+uh, you get hooked on one and then you buy all the,
+
+00:59:43.360 --> 00:59:47.040
+uh, cosmetic and DLC stuff for that one game.
+
+00:59:47.160 --> 00:59:48.040
+And that's your game.
+
+00:59:48.180 --> 00:59:49.060
+And those are your people,
+
+00:59:49.060 --> 00:59:51.580
+uh, on the sub sim forum.
+
+00:59:51.840 --> 00:59:53.720
+It looked like they were all pretty active,
+
+00:59:53.720 --> 00:59:57.080
+but Crash Dive 2 seemed to be maybe the most active,
+
+00:59:57.080 --> 00:59:58.340
+or maybe it was Cold Waters.
+
+00:59:58.480 --> 00:59:59.780
+I can't remember now, but,
+
+00:59:59.880 --> 01:00:01.480
+uh, you know, they're all the same thing.
+
+01:00:01.480 --> 01:00:03.700
+It's just that they're 3D games.
+
+01:00:03.700 --> 01:00:11.360
+I bet that one of them just has this one little thing that is just perceived as better.
+
+01:00:11.560 --> 01:00:12.960
+Like, it's just something that was patched.
+
+01:00:12.980 --> 01:00:14.520
+It's like a patch note thing.
+
+01:00:14.680 --> 01:00:15.500
+And it's like,
+
+01:00:15.580 --> 01:00:16.940
+well, this one simulates,
+
+01:00:16.940 --> 01:00:17.780
+uh,
+
+01:00:18.420 --> 01:00:19.660
+water currents better.
+
+01:00:19.660 --> 01:00:21.380
+So it has to be that.
+
+01:00:21.380 --> 01:00:24.620
+I don't know. But whenever it gets that niche,
+
+01:00:24.640 --> 01:00:25.640
+I feel like it,
+
+01:00:25.640 --> 01:00:27.520
+it boils down to things like that.
+
+01:00:28.460 --> 01:00:31.300
+I think one thing that the 3D added,
+
+01:00:31.620 --> 01:00:33.140
+um, and I say 3D,
+
+01:00:33.280 --> 01:00:36.380
+but I just mean like the modern ability added is,
+
+01:00:36.480 --> 01:00:38.360
+yeah, like the water is pretty damn nice.
+
+01:00:38.520 --> 01:00:41.920
+But even just like seeing from a,
+
+01:00:41.920 --> 01:00:44.440
+um, impossible third person point of view,
+
+01:00:44.660 --> 01:00:47.440
+seeing your submarine and how far down you are,
+
+01:00:47.600 --> 01:00:50.360
+did kind of add some perspective for me because like,
+
+01:00:50.440 --> 01:00:54.340
+yeah, you can go down in silent service and it tells you like how,
+
+01:00:54.540 --> 01:00:56.600
+how far, like how far your depth is,
+
+01:00:56.660 --> 01:00:57.660
+but it's just, yeah, exactly. Joe,
+
+01:00:57.780 --> 01:01:03.960
+it's just a number and seeing how far down you are is in these games gives me the
+
+01:01:03.960 --> 01:01:05.620
+chilly willies, you know,
+
+01:01:05.720 --> 01:01:06.700
+of like the idea of like,
+
+01:01:06.800 --> 01:01:11.420
+wow, that's the terrifying part of being in a submarine is that you're so far down
+
+01:01:11.420 --> 01:01:12.380
+where it's like,
+
+01:01:12.460 --> 01:01:13.680
+there's not even light down there.
+
+01:01:14.540 --> 01:01:15.480
+Oh, uh,
+
+01:01:15.700 --> 01:01:18.360
+the last thing that I forgot when I,
+
+01:01:18.440 --> 01:01:19.700
+when I said what my,
+
+01:01:19.840 --> 01:01:20.800
+my, uh,
+
+01:01:21.400 --> 01:01:22.720
+history was with submarines.
+
+01:01:23.040 --> 01:01:26.820
+Um, I forgot that my favorite sub simulator is Final Fantasy seven.
+
+01:01:26.820 --> 01:01:28.200
+So, um,
+
+01:01:28.880 --> 01:01:31.180
+there's that. Oh yeah.
+
+01:01:31.240 --> 01:01:32.860
+There's no emerald weapon in this game.
+
+01:01:33.020 --> 01:01:33.900
+What the hell? Like,
+
+01:01:34.260 --> 01:01:35.380
+this game sucks. Actually,
+
+01:01:35.500 --> 01:01:39.020
+it sounds like my favorite sub simulator is overcooked.
+
+01:01:39.660 --> 01:01:41.380
+There are some levels where you make sandwiches.
+
+01:01:41.380 --> 01:01:42.360
+Well,
+
+01:01:42.780 --> 01:01:44.120
+Joe, you know,
+
+01:01:44.240 --> 01:01:47.000
+what would make us heroes right now?
+
+01:01:47.160 --> 01:01:54.540
+Ooh, that would be if we finish the podcast and do that one thing that we always do at the end,
+
+01:01:54.880 --> 01:01:56.320
+the essential games list.
+
+01:01:59.000 --> 01:02:02.060
+Sean, your vote for the essential games list.
+
+01:02:02.260 --> 01:02:04.840
+Well, I don't have a cool sandwich pun,
+
+01:02:04.940 --> 01:02:07.200
+uh, to describe this with,
+
+01:02:07.420 --> 01:02:08.740
+but, wow, that's a stinger.
+
+01:02:09.380 --> 01:02:11.400
+Um, there it is.
+
+01:02:12.120 --> 01:02:13.280
+Um, I'm a,
+
+01:02:13.380 --> 01:02:15.140
+I really liked this game.
+
+01:02:15.360 --> 01:02:20.100
+Uh, and I wasn't expecting the amount of,
+
+01:02:21.020 --> 01:02:23.980
+I don't know if it's a fidelity is the right word,
+
+01:02:24.100 --> 01:02:27.060
+but the depth of simulation from this game,
+
+01:02:27.200 --> 01:02:28.000
+um,
+
+01:02:29.020 --> 01:02:31.900
+and also the accessibility of this game.
+
+01:02:31.900 --> 01:02:34.360
+When I was reading the manual before I played the game,
+
+01:02:34.520 --> 01:02:37.340
+I was dreading booting it up.
+
+01:02:37.480 --> 01:02:38.840
+I like just the,
+
+01:02:39.000 --> 01:02:42.380
+the amount of detail that go into and all the different situations.
+
+01:02:42.380 --> 01:02:43.500
+And, uh,
+
+01:02:43.700 --> 01:02:45.000
+like, this is what this gauge does.
+
+01:02:45.100 --> 01:02:47.660
+And this is your, your depth bubble.
+
+01:02:47.940 --> 01:02:49.180
+And I, I don't know,
+
+01:02:49.220 --> 01:02:50.920
+like all the jargon,
+
+01:02:50.920 --> 01:02:53.760
+uh, it made me really scared,
+
+01:02:53.760 --> 01:02:56.620
+but then I booted it up and it was,
+
+01:02:56.780 --> 01:02:59.120
+it was surprisingly accessible.
+
+01:03:00.060 --> 01:03:01.540
+Uh, that said,
+
+01:03:01.760 --> 01:03:04.300
+like this game is probably the,
+
+01:03:04.620 --> 01:03:07.340
+like the least impressive,
+
+01:03:07.340 --> 01:03:09.880
+some sub simulator available,
+
+01:03:10.580 --> 01:03:11.560
+um, nowadays.
+
+01:03:11.560 --> 01:03:13.140
+So I,
+
+01:03:13.160 --> 01:03:15.920
+I would say that this is not an essential game,
+
+01:03:16.060 --> 01:03:19.760
+but it, it's definitely super neat.
+
+01:03:20.340 --> 01:03:21.540
+Yeah. I think it's like,
+
+01:03:21.580 --> 01:03:24.320
+again, uh, it's a game I thought about when I wasn't playing it.
+
+01:03:24.380 --> 01:03:25.840
+Like I was like, Oh, I wish I was better at that.
+
+01:03:25.920 --> 01:03:30.920
+Like maybe I can read up on it a little more or watch somebody else play it and be better at this game.
+
+01:03:31.040 --> 01:03:34.180
+That's a, it's the kind of those kinds of games I enjoy.
+
+01:03:34.600 --> 01:03:36.020
+Uh, but I do think it's,
+
+01:03:36.080 --> 01:03:37.680
+it's ultimately very niche.
+
+01:03:37.680 --> 01:03:39.180
+Uh, and it's slow too,
+
+01:03:39.460 --> 01:03:42.440
+uh, as exciting as it can be to sink a ship,
+
+01:03:42.740 --> 01:03:47.260
+especially as you up the difficulty or play some of the more detailed modes,
+
+01:03:47.280 --> 01:03:50.080
+even just being on war patrol and finding,
+
+01:03:50.080 --> 01:03:52.060
+uh, the other ships and then being like,
+
+01:03:52.160 --> 01:03:53.340
+shit, now, now it's happening.
+
+01:03:53.480 --> 01:03:54.740
+Like I'm actually in combat.
+
+01:03:54.740 --> 01:03:55.920
+Like they could sink me,
+
+01:03:56.040 --> 01:03:58.340
+uh, that stuff's all like exciting on the,
+
+01:03:58.420 --> 01:04:02.540
+uh, very entry level that this kind of sub sim is offering.
+
+01:04:02.760 --> 01:04:03.880
+I, I just think,
+
+01:04:04.320 --> 01:04:08.900
+you know, overall in terms of like the essential games list,
+
+01:04:09.000 --> 01:04:10.780
+I don't think it quite gets there,
+
+01:04:10.800 --> 01:04:12.360
+but I think don't,
+
+01:04:12.480 --> 01:04:16.140
+don't be discouraged by seeing submarine simulator and being like,
+
+01:04:16.200 --> 01:04:17.400
+well, I have no interest in submarines.
+
+01:04:17.400 --> 01:04:18.780
+Cause personally, you know,
+
+01:04:18.880 --> 01:04:20.640
+like I don't love all simulators,
+
+01:04:20.660 --> 01:04:22.980
+uh, just because it has like a simulation thing doesn't like,
+
+01:04:23.240 --> 01:04:28.300
+I'm not like generally attracted to that genre just because they finally simulated something I've never done before,
+
+01:04:28.300 --> 01:04:30.520
+but I've never done a submarine simulator.
+
+01:04:30.660 --> 01:04:32.600
+And I found this to be a very enjoyable experience.
+
+01:04:33.120 --> 01:04:34.300
+Joe, your vote.
+
+01:04:35.100 --> 01:04:36.840
+Yeah. A lot of similar thoughts.
+
+01:04:36.960 --> 01:04:38.920
+I mean, definitely like tip of the hat to,
+
+01:04:39.160 --> 01:04:40.600
+to this game and to the developers.
+
+01:04:41.040 --> 01:04:41.900
+I mean, it's,
+
+01:04:42.000 --> 01:04:43.300
+it's really, really impressive.
+
+01:04:43.380 --> 01:04:45.380
+And I had a good time.
+
+01:04:45.380 --> 01:04:49.480
+Is it necessarily like exactly my type of game?
+
+01:04:49.620 --> 01:04:53.180
+Maybe not. Although I do like simulator type games generally,
+
+01:04:53.180 --> 01:04:54.420
+but I think for me,
+
+01:04:54.620 --> 01:04:55.520
+and I was, like I said,
+
+01:04:55.620 --> 01:05:03.620
+I couldn't help but comparing this to the NES version of pirates where that's,
+
+01:05:03.640 --> 01:05:06.580
+doesn't ever get quite as deep in,
+
+01:05:06.960 --> 01:05:08.600
+like I said, in one area,
+
+01:05:08.600 --> 01:05:09.440
+but there's,
+
+01:05:09.480 --> 01:05:10.280
+it's so broad.
+
+01:05:10.280 --> 01:05:14.440
+And I think I just prefer that type of like quote unquote simulator.
+
+01:05:14.440 --> 01:05:15.440
+I don't know if you'd call that necessarily.
+
+01:05:15.560 --> 01:05:17.240
+It's like the same kind of simulator,
+
+01:05:17.240 --> 01:05:21.240
+but like this really systems heavy experience.
+
+01:05:22.040 --> 01:05:26.180
+I want to like do more instead of do like really detailed aspects.
+
+01:05:26.420 --> 01:05:27.600
+So that's just a personal thing.
+
+01:05:27.740 --> 01:05:29.460
+And that's like the number one,
+
+01:05:29.580 --> 01:05:33.040
+two more things that kind of all come together to keep it off for me.
+
+01:05:33.440 --> 01:05:34.840
+The fact that obviously,
+
+01:05:35.780 --> 01:05:38.680
+because it's like the first submarine simulator,
+
+01:05:38.740 --> 01:05:40.200
+there's so much room for improvement.
+
+01:05:40.400 --> 01:05:41.800
+I'm sure that like,
+
+01:05:41.960 --> 01:05:42.940
+it gets like they,
+
+01:05:43.140 --> 01:05:46.000
+if you really wanted to get this experience,
+
+01:05:46.240 --> 01:05:50.380
+there are a lot of better options out there that came out in the future.
+
+01:05:50.580 --> 01:05:52.900
+And even just a little things like the cursor where like switching,
+
+01:05:53.140 --> 01:05:54.980
+switching from one control to another,
+
+01:05:54.980 --> 01:05:58.240
+sometimes wastes time that you wouldn't waste.
+
+01:05:58.240 --> 01:06:01.340
+If it was just like you doing something that's like quick,
+
+01:06:01.480 --> 01:06:02.340
+you know, like if I just want to,
+
+01:06:03.400 --> 01:06:10.560
+if I just want to turn the time dilation down after adjusting my rudder,
+
+01:06:10.620 --> 01:06:13.160
+by the time I get my cursor over there,
+
+01:06:13.340 --> 01:06:16.800
+like, like 40 minutes have gone by in game or something.
+
+01:06:16.960 --> 01:06:19.040
+I don't know. So like that kind of thing can,
+
+01:06:19.200 --> 01:06:22.880
+um, I would look forward to improvements and other things.
+
+01:06:22.960 --> 01:06:23.780
+And the final thing is just,
+
+01:06:23.780 --> 01:06:26.800
+it's definitely a super niche experience.
+
+01:06:27.080 --> 01:06:28.220
+I'm not sure that even,
+
+01:06:28.220 --> 01:06:29.160
+even if they,
+
+01:06:29.420 --> 01:06:32.700
+even if it's perfectly mastered and we all love it,
+
+01:06:32.780 --> 01:06:38.080
+I don't know that like everyone is going to like need to play this submarine simulator.
+
+01:06:38.260 --> 01:06:40.500
+I think, I think you need to be into that stuff to,
+
+01:06:40.500 --> 01:06:42.560
+to really get a lot out of it.
+
+01:06:42.680 --> 01:06:44.980
+So a long story short,
+
+01:06:45.520 --> 01:06:46.380
+not essential,
+
+01:06:46.640 --> 01:06:48.380
+but give it a try if you're interested.
+
+01:06:49.080 --> 01:06:52.680
+Joe, you brought up a great point that I feel like we all know,
+
+01:06:52.680 --> 01:06:56.280
+but we didn't say on the podcast is that this is a,
+
+01:06:56.280 --> 01:06:59.760
+uh, submarine simulator in the sense that you are simulating,
+
+01:07:00.160 --> 01:07:04.440
+like being that particular submarine more than you're simulating,
+
+01:07:04.440 --> 01:07:08.920
+like being the Navy or being that particular captain even really.
+
+01:07:09.020 --> 01:07:11.040
+Right? Like, I feel like pirates is like,
+
+01:07:11.160 --> 01:07:12.520
+you're the leader of these pirates.
+
+01:07:12.520 --> 01:07:16.440
+And not only do you like control every aspect of pirate life,
+
+01:07:16.540 --> 01:07:17.380
+but also of your,
+
+01:07:17.380 --> 01:07:19.780
+uh, fellow pirates and what they do.
+
+01:07:19.980 --> 01:07:22.100
+Right. And how you manage them and stuff like that.
+
+01:07:22.100 --> 01:07:23.060
+Whereas this is like,
+
+01:07:23.240 --> 01:07:26.460
+you're, you're in charge of this submarine,
+
+01:07:26.460 --> 01:07:28.180
+like this one submarine,
+
+01:07:28.360 --> 01:07:35.300
+not like a fleet of submarines or not like a specific part of the Navy or like a commander who then like goes to multiple submarines.
+
+01:07:35.300 --> 01:07:37.280
+It's like, you're in charge of the submarine,
+
+01:07:37.280 --> 01:07:38.180
+not the person.
+
+01:07:38.180 --> 01:07:39.300
+Yeah.
+
+01:07:39.440 --> 01:07:40.360
+I think like if,
+
+01:07:40.520 --> 01:07:42.060
+if you could be like a,
+
+01:07:42.060 --> 01:07:44.300
+a sea King and,
+
+01:07:44.300 --> 01:07:45.240
+uh,
+
+01:07:45.580 --> 01:07:48.480
+like impose your will with,
+
+01:07:48.640 --> 01:07:54.740
+yeah, with maritime law and have your own like sea society with sea labs.
+
+01:07:54.840 --> 01:07:56.080
+I think that would help.
+
+01:07:56.920 --> 01:08:01.340
+Um, and wage a war and wage a war on the,
+
+01:08:01.340 --> 01:08:03.880
+options, which were on the land people.
+
+01:08:04.020 --> 01:08:06.260
+Like that'd be cool. But I also think that,
+
+01:08:06.320 --> 01:08:09.200
+you know, some people just want to ride around their,
+
+01:08:09.200 --> 01:08:10.760
+their, their submarine ship.
+
+01:08:11.480 --> 01:08:13.240
+If such a sea King existed,
+
+01:08:13.240 --> 01:08:16.120
+he would be able to control all of the police.
+
+01:08:19.380 --> 01:08:20.620
+It's a Rick and Morty reference,
+
+01:08:20.720 --> 01:08:21.660
+but I'm sure. Yeah.
+
+01:08:21.820 --> 01:08:24.280
+Thank you. Sean also watches Rick and Morty,
+
+01:08:24.300 --> 01:08:26.180
+but sometimes we have to remind him that those are references.
+
+01:08:26.460 --> 01:08:27.820
+I have a terrible memory.
+
+01:08:28.820 --> 01:08:31.600
+Uh, we still have that one reference that we don't know about.
+
+01:08:31.900 --> 01:08:33.500
+Yeah. And neither do the listeners.
+
+01:08:33.640 --> 01:08:34.620
+So don't worry about anyone.
+
+01:08:34.880 --> 01:08:37.120
+Yeah. So glad I brought it up on the podcast.
+
+01:08:37.280 --> 01:08:38.240
+Speaking of references,
+
+01:08:38.240 --> 01:08:42.560
+I'm sure we'll be making a ton next week when we talk about the uncanny X-Men,
+
+01:08:42.720 --> 01:08:45.440
+uh, because I've grown up with the X-Men all my life,
+
+01:08:45.440 --> 01:08:49.680
+as I'm sure you two have both been like situationally aware at the very least
+
+01:08:49.680 --> 01:08:52.720
+from all of the X-Men movies that we've gotten.
+
+01:08:53.000 --> 01:08:54.420
+Yeah, exactly. Um,
+
+01:08:55.160 --> 01:08:58.560
+uh, and I just feel like this game is an unknown to me.
+
+01:08:58.680 --> 01:08:59.660
+It's our first Marvel game.
+
+01:08:59.820 --> 01:09:00.640
+I'm a big Marvel guy,
+
+01:09:00.760 --> 01:09:02.160
+but I uncanny X-Men.
+
+01:09:02.480 --> 01:09:03.960
+I'm unsure what,
+
+01:09:04.020 --> 01:09:06.800
+what we're going to get. Tell them about the door buster for uncanny X-Men.
+
+01:09:07.180 --> 01:09:08.660
+We could tell them about it,
+
+01:09:08.720 --> 01:09:09.840
+Joe, but I feel like,
+
+01:09:09.860 --> 01:09:11.400
+drop it. exactly.
+
+01:09:11.820 --> 01:09:12.920
+Savings like that,
+
+01:09:12.920 --> 01:09:15.320
+uh, will only be understood in the future.
+
+01:09:15.440 --> 01:09:17.940
+Uh, people right now aren't thinking with their wallet.
+
+01:09:18.200 --> 01:09:19.940
+They're just getting hungry for the turkey.
+
+01:09:20.400 --> 01:09:21.960
+Yeah. Well, keep checking those,
+
+01:09:21.980 --> 01:09:23.900
+uh, those ads that you get in the mail.
+
+01:09:24.060 --> 01:09:26.320
+Those, what do you, your coupon books?
+
+01:09:26.640 --> 01:09:28.680
+Yeah. Oh yeah. Look out for the big toy book.
+
+01:09:29.040 --> 01:09:33.600
+Uh, because nostalgia purchased a lot of ad space in your local,
+
+01:09:33.600 --> 01:09:58.740
+um, KB toys flyer. letter

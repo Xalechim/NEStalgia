@@ -1,0 +1,1408 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.880
+Hey, nostalgia listeners, one quick thing before we start here, and it's a little crazy, and it's not an ad, actually.
+
+00:00:06.580 --> 00:00:15.480
+You should know that we recorded this episode as three people, me, Sean, and Joe, but unfortunately, Joe's audio file did not save.
+
+00:00:15.680 --> 00:00:24.640
+This episode was edited to the best of its abilities, but at certain times you might hear Joe's name or reference something Joe had previously said, but you don't know what he said.
+
+00:00:24.640 --> 00:00:28.160
+Try to do your best to figure out maybe what he said and think like Joe for this episode.
+
+00:00:28.360 --> 00:00:32.540
+Maybe you could be the third guest speaker on this episode.
+
+00:00:32.840 --> 00:00:37.660
+Thank you so much for listening anyway, and hopefully Joe will be back for our next episode.
+
+00:00:37.980 --> 00:00:46.620
+Enjoy the show. Chess Master, the most powerful chess program in the world today, and the friendliest.
+
+00:00:55.460 --> 00:01:01.080
+Chess Master, the most powerful chess game that you can do is to be a chess game that you can do is to be a chess game.
+
+00:01:01.720 --> 00:01:11.100
+And welcome to NEStalgia, a chronological exploration of every NES game released in North America.
+
+00:01:11.300 --> 00:01:12.960
+I'm Mike. I'm Sean.
+
+00:01:13.300 --> 00:01:24.300
+There are many ways to expect a chess game to start, but an 8-bit rendition of Take 5 by Dave Brubeck was not something I was expecting.
+
+00:01:24.940 --> 00:01:26.360
+Oh, is that what that was?
+
+00:01:26.580 --> 00:01:38.840
+Yes. I mean, it's like one of the most famous jazz songs, but even just like, you know, somebody painfully like recreating that on the NES and being like, yeah, chess and jazz, like they go together like bread and butter.
+
+00:01:39.300 --> 00:01:44.000
+You'd know. They go out of their way to mention that this computer is the friendliest.
+
+00:01:44.240 --> 00:01:54.160
+I think that's like them trying to reassure you that even though the game beats you all the time, it won't do anything nefarious outside of beating you in chess.
+
+00:01:54.640 --> 00:02:01.180
+Like it won't, it won't like try and embarrass you in front of your friends or something like that.
+
+00:02:01.320 --> 00:02:03.300
+Yeah. It wouldn't pull down your pants in public.
+
+00:02:03.940 --> 00:02:05.060
+Okay. Yeah.
+
+00:02:05.180 --> 00:02:08.300
+You're right. I, I would hope I could expect that out of a game.
+
+00:02:08.300 --> 00:02:10.320
+But Joe, Joe, you're right.
+
+00:02:10.520 --> 00:02:20.000
+Uh, the game never like compliments you or says like you did a great try chap, you know, like it's actually not that friendly in the actual game.
+
+00:02:20.000 --> 00:02:24.240
+Like I'm thinking back and it's, it's pretty neutral.
+
+00:02:24.360 --> 00:02:26.860
+Like it's just a, an opponent.
+
+00:02:27.120 --> 00:02:30.300
+It doesn't trash talk, but I wouldn't call that.
+
+00:02:30.920 --> 00:02:38.780
+It just implies that all the other chess games do trash talk you and make you feel like a, like a loser.
+
+00:02:41.560 --> 00:02:47.580
+And while we're on the subject of challenging the back of the box, I know that it's not the most powerful chess program in the world today.
+
+00:02:47.700 --> 00:02:55.080
+Like I said, but I was reading the back of the box, which is the claim that in 1990, this was the most powerful chess program of which it also was not.
+
+00:02:55.080 --> 00:03:00.260
+So just blatant misinformation all over the advertising for this game.
+
+00:03:00.440 --> 00:03:05.620
+I'm probably a few years off, but wasn't like deep blue, like a thing back then?
+
+00:03:05.860 --> 00:03:09.120
+Like. No. Deep, deep blue is pretty recent actually.
+
+00:03:09.460 --> 00:03:10.700
+What? In the grand, like 2000.
+
+00:03:11.840 --> 00:03:12.720
+Yeah, exactly.
+
+00:03:13.100 --> 00:03:14.480
+I'm in the same decade.
+
+00:03:14.820 --> 00:03:15.620
+You're right. You know what?
+
+00:03:15.620 --> 00:03:17.640
+You are right. I guess I was thinking like that.
+
+00:03:17.940 --> 00:03:22.720
+I guess I was thinking this game is older than it is or like chess master itself is older than it is.
+
+00:03:22.720 --> 00:03:26.820
+But even I think the first rendition of chess master wasn't that much older.
+
+00:03:27.100 --> 00:03:30.880
+Okay. Like I think chess master started in like maybe 85.
+
+00:03:31.120 --> 00:03:37.800
+So this engine that they're going off of here, it doesn't, it, it doesn't have like a name to it.
+
+00:03:37.880 --> 00:03:42.400
+Like eventually all the chess masters would just start getting names like graphics cards.
+
+00:03:42.580 --> 00:03:45.240
+It'd be like the 4,000 turbo, the 5,500.
+
+00:03:45.600 --> 00:03:46.980
+This one doesn't get a name.
+
+00:03:47.100 --> 00:03:48.340
+It's just chess master.
+
+00:03:48.340 --> 00:03:54.660
+So I don't even know which year this is running off of or if it's like custom made for the NES processor.
+
+00:03:54.760 --> 00:04:01.260
+No information provided on the exact processor or computer program we're running here.
+
+00:04:01.880 --> 00:04:03.660
+That is an interesting point though.
+
+00:04:03.860 --> 00:04:10.580
+Like I know that chess itself is a game and chess can be turned into a video game.
+
+00:04:10.580 --> 00:04:19.000
+But this is actually like an application like, you know, with that whole, uh, chess master 29, whatever.
+
+00:04:19.340 --> 00:04:20.900
+Like this is actually a tool.
+
+00:04:21.180 --> 00:04:30.580
+Yeah. And first and foremost, I mean, you know, for those of you that don't know, chess is defined as an abstract strategy game that involves no hidden information.
+
+00:04:30.580 --> 00:04:36.300
+It is played on a chess board with 64 squares arranged in an eight by eight grid at the start.
+
+00:04:36.680 --> 00:04:42.600
+Each player controls 16 pieces, one King, one Queen, two Rooks, two Bishops, two Knights, and eight Pawns.
+
+00:04:42.680 --> 00:04:46.340
+Player controlling the white pieces moves first followed by the player controlling the black pieces.
+
+00:04:46.480 --> 00:04:52.260
+The object of the game is to checkmate the opponent's King, whereby the King is under immediate attack in check.
+
+00:04:52.260 --> 00:04:53.980
+And there is no way for it to escape.
+
+00:04:54.780 --> 00:04:55.940
+The reason I say that.
+
+00:04:56.500 --> 00:04:57.400
+Yes, go ahead.
+
+00:04:57.540 --> 00:05:07.880
+You forgot the part that like when you go to capture a piece, you have to play sort of like a mini running gun, like melee.
+
+00:05:09.600 --> 00:05:17.820
+The reason I say that is exactly that reason is that some might forget that we've already seen another version of, I'm putting quotation marks around it, chess,
+
+00:05:17.820 --> 00:05:27.280
+that made it like video game eyes, where the thing I described is like you can play this exact chess experience with tabletop pieces,
+
+00:05:27.280 --> 00:05:31.640
+and you wouldn't really be missing anything other than the computer component of it.
+
+00:05:31.720 --> 00:05:34.920
+This is a faithfully simulated game of chess.
+
+00:05:35.080 --> 00:05:40.900
+There's no like cool battle scenes between the pawns when like one captures another.
+
+00:05:41.100 --> 00:05:44.040
+You don't like watch them fight or like the other piece explodes.
+
+00:05:44.180 --> 00:05:46.140
+There is no fanfare here.
+
+00:05:46.140 --> 00:05:53.040
+This is maybe what you were saying, Sean, a simulation of the game of chess at its purest.
+
+00:05:53.120 --> 00:06:06.540
+But because it's just chess in video game form, it does pose a little bit of a like, are we reviewing Chess Master, the NES game and its like features?
+
+00:06:06.780 --> 00:06:12.940
+Or are we reviewing the game of chess, the one that's been around for like a thousand years?
+
+00:06:13.180 --> 00:06:14.380
+It's the former Mike.
+
+00:06:14.600 --> 00:06:15.500
+You know this.
+
+00:06:15.500 --> 00:06:21.260
+But on some level, we have to, you know, talk about chess itself, right?
+
+00:06:21.380 --> 00:06:28.800
+Like we have to debate and discuss if chess is fun or interesting or worth playing.
+
+00:06:29.040 --> 00:06:30.920
+You know, you have to, right?
+
+00:06:31.740 --> 00:06:32.940
+If you want.
+
+00:06:34.800 --> 00:06:35.960
+Chess is cool.
+
+00:06:37.200 --> 00:06:53.380
+Yeah, you know, like I used to play chess against adults that let me win and then I didn't play chess for a while and I used to play chess with you over an app and I lost a lot.
+
+00:06:53.380 --> 00:06:59.380
+And, you know, I know all the rules to chess, but I don't know much beyond that.
+
+00:06:59.380 --> 00:07:06.740
+So I usually play against like what they call it, Silverfish 1 or Bigfish 600.
+
+00:07:06.760 --> 00:07:09.140
+Stockfish. Stockfish 1.
+
+00:07:09.360 --> 00:07:14.380
+Yeah. And I usually like, you know, I win maybe half the time.
+
+00:07:14.580 --> 00:07:17.380
+And so I like chess.
+
+00:07:17.560 --> 00:07:19.760
+I just, I'm just not very good at it.
+
+00:07:19.760 --> 00:07:32.600
+I believe the math says something that like there are more possible chess boards or like possible plays of where you can put the pieces on a chess board than there are stars in the universe.
+
+00:07:32.600 --> 00:07:35.520
+And that always like, that was like a mind blowing fact to me.
+
+00:07:35.520 --> 00:08:02.760
+Yeah, the fact that like we're in a, we're in an age that a computer can like draw a portrait in the style of X while also including elements of Y and like spit out half a dozen portraits in a couple seconds and can also write a story about whatever the hell you want it to and it'll kind of look like a human wrote it.
+
+00:08:02.760 --> 00:08:07.020
+But the fact that chess is still not like a solved game is wild.
+
+00:08:07.640 --> 00:08:08.700
+Yeah, that's a great point.
+
+00:08:08.780 --> 00:08:09.700
+You would think so.
+
+00:08:09.860 --> 00:08:25.240
+But believe it or not, even the program Sean was referencing, Stockfish, when I was playing, first playing chess on Lichess, which is the application that Sean was talking about a couple of years ago, maybe in like 2015, that they were only on like Stockfish 8.
+
+00:08:25.440 --> 00:08:27.540
+And I didn't know what the 8 stood for at the time.
+
+00:08:27.660 --> 00:08:30.280
+I just thought like, oh, this is like a weird name for a computer program or whatever.
+
+00:08:30.280 --> 00:08:35.120
+But it's every like, not every year do they just like release Stockfish 9, Stockfish 10.
+
+00:08:35.280 --> 00:08:36.620
+It's like every upgrade they do.
+
+00:08:36.760 --> 00:08:40.040
+And I believe they're up to like Stockfish 16 now.
+
+00:08:40.400 --> 00:08:49.800
+Like it's just that to think that the program that was basically beating all humans, which was Stockfish 8 back in the day, like that basically no human could take on Stockfish 8.
+
+00:08:49.800 --> 00:08:54.340
+And now Stockfish 8 can't beat Stockfish 16 in a single game of chess.
+
+00:08:54.580 --> 00:09:05.800
+Just shows that like, you know, even the computers are reaching a point where they're still trouncing on the old computers that are really not even that old by comparison, only six, seven years older.
+
+00:09:05.800 --> 00:09:11.620
+But of course, chess does favor the white pieces, the players that go first.
+
+00:09:12.200 --> 00:09:22.160
+And so there is that kind of like, you know, if two great players go against each other, technically like white is favored to win from the very start.
+
+00:09:22.160 --> 00:09:26.580
+And that's why they don't just play one game of chess to decide a winner.
+
+00:09:26.840 --> 00:09:29.300
+So it's like a best of seven or something.
+
+00:09:29.300 --> 00:09:41.220
+Yeah, it gets pretty interesting at the like world chess champion level where it's like, first they play classical games, which could take up to six hours to play.
+
+00:09:41.720 --> 00:09:47.580
+And they play, I don't, I don't know if it's exactly seven or anything like that, but they play some amount of games.
+
+00:09:48.300 --> 00:09:53.360
+And the ties just count as a half point towards each, towards each player.
+
+00:09:53.360 --> 00:10:08.140
+And if they tie after that, they just start making the games forcibly faster by imposing time limits to eventually what is known as glitch chess, where you only have like five minutes on the clock and every move you make only adds like five seconds.
+
+00:10:08.140 --> 00:10:09.760
+So you have to make moves fast.
+
+00:10:10.340 --> 00:10:14.520
+And basically they're just trying to reduce the thinking power of both humans.
+
+00:10:14.520 --> 00:10:16.620
+And this also works for computers.
+
+00:10:16.620 --> 00:10:26.280
+It's pretty cool that you can play Stockfish 1 or Stockfish 16 at a, you know, at a speed level.
+
+00:10:26.280 --> 00:10:31.260
+And it will reduce the amount of time it gets to like process its information.
+
+00:10:31.400 --> 00:10:35.720
+And obviously Stockfish 1 will probably make a bad move if you only gave it five seconds.
+
+00:10:35.760 --> 00:10:38.800
+But Stockfish 16 will probably still make a very good move.
+
+00:10:38.800 --> 00:10:46.960
+Yeah, so that's the, that's that weird clock thing that I see in like TV shows and movies where chess nerds are playing.
+
+00:10:47.720 --> 00:11:04.260
+Yeah, yeah. And that's another good point, Sean, that the Netflix show Queen's Gambit kind of has also reinvigorated the appeal of chess in a lot of, you know, I feel like chess boards were probably a huge Christmas item the year that Queen's Gambit came out.
+
+00:11:04.700 --> 00:11:06.120
+Oh yeah, I never watched that.
+
+00:11:06.320 --> 00:11:07.920
+I watched computer chess.
+
+00:11:08.800 --> 00:11:10.360
+Which was a weird movie. Which was a little bit of a different movie.
+
+00:11:12.660 --> 00:11:20.840
+All right, so we won't discuss if it, uh, we won't discuss the features of chess in the sense of like, does it make sense for the pawns to take only diagonally?
+
+00:11:21.020 --> 00:11:24.260
+Or should the horses move in an L and be able to hop over other things?
+
+00:11:24.320 --> 00:11:26.480
+Like we're not going to discuss those merits.
+
+00:11:26.740 --> 00:11:30.060
+We will now get into Chess Master, the NES game.
+
+00:11:30.180 --> 00:11:35.280
+Because I'm sure people can't believe how many times we've said the word chess in the last 15 minutes.
+
+00:11:35.760 --> 00:11:37.220
+Don't cut us short too much.
+
+00:11:37.220 --> 00:11:46.800
+Like I want to know why there aren't like score multipliers if you get like more than one like pawn, like in a combo.
+
+00:11:47.220 --> 00:11:48.940
+Right. Now checkers has combos.
+
+00:11:48.940 --> 00:11:58.940
+So should chess introduce some kind of combo kill where if the horse can kill both a pawn and then a subsequent bishop, they can make both moves sequentially.
+
+00:11:58.940 --> 00:12:01.080
+That, that is an interesting thought, Sean.
+
+00:12:01.080 --> 00:12:02.040
+You're right.
+
+00:12:02.300 --> 00:12:03.120
+I'm, that was me.
+
+00:12:04.720 --> 00:12:06.820
+There are variants of chess though.
+
+00:12:07.000 --> 00:12:13.380
+I don't, I don't want to like, so the variants of chess, like crazy house, chess, 960, atomic chess.
+
+00:12:13.520 --> 00:12:24.920
+Atomic chess is pretty interesting because that one has, I think what you're looking for a little bit, Sean, where if you, um, attack another piece, you know, or I don't, what is the word for that?
+
+00:12:24.920 --> 00:12:39.220
+Take? If you take another piece, because it's atomic chess, it's like a bomb where all of the surrounding area is also like anything in the casualty line, uh, also gets taken off the board.
+
+00:12:39.460 --> 00:12:42.120
+Wow. So a little more strategy to that one.
+
+00:12:42.180 --> 00:12:43.640
+Cause the King is very in danger.
+
+00:12:45.140 --> 00:12:47.880
+It's, I think it's, I believe it's just the surrounding squares.
+
+00:12:48.180 --> 00:12:53.140
+So, um, obviously you might want to play pieces to like the side of the board.
+
+00:12:53.240 --> 00:12:58.800
+So this way you don't expose yourself to a full, uh, you know, nine squares.
+
+00:12:59.240 --> 00:13:00.440
+You're up the sidelines.
+
+00:13:00.700 --> 00:13:01.720
+Yeah, exactly.
+
+00:13:02.120 --> 00:13:08.620
+There is also, I believe this was Bobby Fisher who invented this, but maybe he just popularized it.
+
+00:13:08.620 --> 00:13:20.860
+I'm sorry for the chess fans out there, but there is a new version of like, uh, well, chess openings are kind of a solved thing in the sense of once whoever's white, wherever they go, you just basically everybody.
+
+00:13:21.120 --> 00:13:22.800
+Yeah. Black makes a move.
+
+00:13:22.820 --> 00:13:28.460
+And then from there, it's like, there's a decided opening, you know, like, okay, now we're both, you put your piece there.
+
+00:13:28.500 --> 00:13:30.000
+So now I know exactly what I'm going to do.
+
+00:13:30.100 --> 00:13:32.260
+And we're going to play out the board the exact same way.
+
+00:13:32.320 --> 00:13:34.700
+Cause that's safe. Like nobody loses any pieces.
+
+00:13:34.700 --> 00:13:39.520
+And then only after like turn six, does somebody get to do something radical.
+
+00:13:39.760 --> 00:13:48.020
+So instead to solve that, the, I believe it's the first two moves of the game are both done off screen.
+
+00:13:48.400 --> 00:13:55.600
+So you come in with your pieces and they come in with their pieces without having seen the first two moves that either of the others made.
+
+00:13:55.600 --> 00:13:59.140
+And, um, I feel like that is a really cool idea.
+
+00:13:59.480 --> 00:14:04.280
+Yeah. That adds some like things you wouldn't see otherwise.
+
+00:14:04.280 --> 00:14:14.580
+Like, cause I'm sure there are some pairs of moves that no rational person would make if the opponent was making their moves.
+
+00:14:14.580 --> 00:14:17.140
+So you'll get some, you know, fresh looks.
+
+00:14:17.140 --> 00:14:22.740
+But chess master is not offering any of these variants or anything other than standard chess.
+
+00:14:22.900 --> 00:14:26.740
+There are no timer controls for a blitz or bullet match of chess.
+
+00:14:26.920 --> 00:14:29.360
+There are no puzzles, uh, to solve.
+
+00:14:29.560 --> 00:14:32.840
+There are chess puzzles where there's an optimal, uh, play.
+
+00:14:33.260 --> 00:14:40.820
+There's no chess lessons where you can, uh, learn about like mating, uh, tactics and, uh, you know, pinning another piece.
+
+00:14:40.820 --> 00:14:48.920
+There's no suggested best move for the player either, where you could check with a, another computer to say, Hey, what do you think I should do in this particular situation?
+
+00:14:49.180 --> 00:14:58.680
+And lastly, there is no analysis mode where you can play the moves of both sides to see if your play will theoretically pay off and then go back to the board.
+
+00:14:58.680 --> 00:15:01.380
+You have to picture all of that in your head, which is fine.
+
+00:15:01.500 --> 00:15:03.420
+Cause that's what you do in over the board chess too.
+
+00:15:03.420 --> 00:15:15.920
+Just worth mentioning that the whole appeal of computer chess is maybe more of the, uh, the calculations that it can do for you and the additional features it can give you of which this game does not offer.
+
+00:15:16.380 --> 00:15:20.980
+Well, wait, so what, what was it showing me when it was giving me hints?
+
+00:15:21.580 --> 00:15:22.440
+I don't know.
+
+00:15:22.680 --> 00:15:24.040
+I, I didn't get hints.
+
+00:15:24.740 --> 00:15:25.980
+Yeah. So, okay.
+
+00:15:26.200 --> 00:15:27.160
+Let me just explain.
+
+00:15:27.420 --> 00:15:30.200
+So I want to hear it. I'm going to go two steps back here.
+
+00:15:30.380 --> 00:15:32.040
+So the game boots up.
+
+00:15:32.040 --> 00:15:35.700
+I mean, it just gives you a chessboard and you're immediately playing chess.
+
+00:15:35.780 --> 00:15:36.640
+You're white.
+
+00:15:36.960 --> 00:15:42.220
+And I'm like, okay, that, so I saw like a splash screen and now I'm playing chess, whatever.
+
+00:15:42.220 --> 00:15:44.960
+So I played, I played chess and I won.
+
+00:15:45.680 --> 00:15:49.380
+Um, and it said like, all right, black is checkmated.
+
+00:15:49.720 --> 00:15:51.860
+Maybe play on a higher difficulty.
+
+00:15:52.000 --> 00:15:53.760
+I'm like, what do you mean play on a higher difficulty?
+
+00:15:53.960 --> 00:15:55.620
+You didn't give me an opportunity.
+
+00:15:55.940 --> 00:16:02.020
+So I just started pressing buttons and I realized that pressing select, like, shows you a whole menu.
+
+00:16:02.040 --> 00:16:05.440
+Where you can do a whole bunch of stuff.
+
+00:16:05.620 --> 00:16:07.180
+It's got tools for pretty much everything.
+
+00:16:07.820 --> 00:16:11.020
+So I'm like, all right, what seems like the most fun to play with?
+
+00:16:11.060 --> 00:16:13.520
+And I see like, oh, there's a couple views.
+
+00:16:13.720 --> 00:16:15.820
+There's just the board view.
+
+00:16:15.820 --> 00:16:18.240
+And then there's something called the war room.
+
+00:16:18.360 --> 00:16:19.940
+And I'm like, oh, the war room.
+
+00:16:20.440 --> 00:16:22.200
+But maybe that's like a theme.
+
+00:16:22.760 --> 00:16:27.560
+And it'll actually be like a, uh, Dr.
+
+00:16:28.080 --> 00:16:30.260
+Strangelove-esque themed board.
+
+00:16:30.580 --> 00:16:36.800
+And so I selected it and all it really gave me was it made the chessboard smaller.
+
+00:16:37.040 --> 00:16:38.420
+Put it kind of in the corner.
+
+00:16:38.580 --> 00:16:39.860
+And it gave you a HUD.
+
+00:16:40.040 --> 00:16:45.040
+Like it showed you all the, like not all the moves, but like the last six moves that were made.
+
+00:16:45.040 --> 00:16:52.780
+Um, and a couple things in the top right corner that were, it said best and hint.
+
+00:16:52.980 --> 00:16:55.600
+And then best only kind of pops up for a second.
+
+00:16:55.720 --> 00:17:01.380
+And for some reason I just thought like, oh, maybe that's like what the computer is doing right now.
+
+00:17:01.920 --> 00:17:04.160
+And then there's hint.
+
+00:17:04.480 --> 00:17:08.140
+And the hint is specifically talking about your pieces.
+
+00:17:08.140 --> 00:17:11.820
+The coordinates that it gives you are coordinates for your pieces.
+
+00:17:11.820 --> 00:17:15.380
+And I did a little experiment.
+
+00:17:15.820 --> 00:17:18.300
+I'm like, okay, how good is this hint system?
+
+00:17:18.520 --> 00:17:20.320
+And it does not pass.
+
+00:17:20.940 --> 00:17:32.160
+Um, really the only hints that I were getting, um, that I was getting are like, it just kept having me move my king back and forth.
+
+00:17:33.660 --> 00:17:38.220
+Uh, like as if it like could not think of anything else.
+
+00:17:38.220 --> 00:17:42.700
+So I was like, all right, so this, this hint system is broken, but it does exist.
+
+00:17:42.700 --> 00:17:44.380
+It just doesn't work.
+
+00:17:44.600 --> 00:17:46.560
+Yeah. That's very interesting.
+
+00:17:47.120 --> 00:17:49.720
+Uh, I, I guess I didn't, like I saw the war room.
+
+00:17:50.220 --> 00:17:52.480
+I guess I didn't like think about hint.
+
+00:17:52.540 --> 00:17:58.440
+Like I, I just thought it was, I just looked up around and saw like, okay, it's recording the moves for white and black.
+
+00:17:58.620 --> 00:18:03.060
+I didn't even look really at what, I don't know what the PL and the MV stand for either.
+
+00:18:03.560 --> 00:18:08.780
+Um, so you're, you're really showing that I didn't spend too much time in the war room here.
+
+00:18:08.920 --> 00:18:09.800
+You're exposing me.
+
+00:18:10.900 --> 00:18:12.740
+I just thought it was like an experiment.
+
+00:18:12.780 --> 00:18:15.380
+Like what does this hint system do?
+
+00:18:15.600 --> 00:18:17.180
+And it was kind of nothing.
+
+00:18:17.540 --> 00:18:19.180
+Yeah. The full board is much prettier.
+
+00:18:19.180 --> 00:18:29.180
+And while it's cool to have a, an alternate view that maybe displays some more information, Sean questioning the, the hint, even ability, uh, says to its practicality.
+
+00:18:29.520 --> 00:18:37.920
+But there's also like, you know, I don't know in a chess game for computers, even solitaire lets you change the backs of the cards to be something visually appealing.
+
+00:18:37.920 --> 00:18:41.800
+There's no ability to change cosmetic pieces or even board designs.
+
+00:18:42.320 --> 00:18:43.160
+Uh, sure.
+
+00:18:43.280 --> 00:18:47.440
+It's cool to see a little under the hood in the war room with maybe like, you know, Oh wow.
+
+00:18:47.580 --> 00:18:52.460
+The computer's processing power and making its best moves and stuff like that, or what have you.
+
+00:18:52.700 --> 00:19:05.300
+But, um, this, uh, this ability to like even decorate the game a little more, uh, and add, add some personality to it again, just shows you that they're not, they're not going for flair here.
+
+00:19:06.260 --> 00:19:31.680
+No. And that was also like, I remember my first, well, I had a chess board when I was a kid and I also had a like computerized, it was like a big, heavy computer chess board where you'd have to like push in where you're putting your pieces so that the computer could do its own thing.
+
+00:19:31.680 --> 00:19:34.180
+But it was all told through physical moves.
+
+00:19:34.560 --> 00:19:55.360
+Um, but the first like software, uh, chess thing that I had for windows, like there were dozens of different themes and some of them had animations and like, you'd see the, the bishop literally club over the pawn.
+
+00:19:55.360 --> 00:19:58.860
+And, and I, I could have done for that.
+
+00:19:59.040 --> 00:20:00.820
+Like this is the NES. Yeah.
+
+00:20:01.040 --> 00:20:05.320
+And more importantly, you can't do the select option at the start.
+
+00:20:05.480 --> 00:20:07.180
+You have to enter a game of chess.
+
+00:20:07.180 --> 00:20:23.440
+And then I think what you were getting at is that it's just playing around with the computer's chess abilities inside that menu, whether you want it to be, uh, to change its level or, uh, to turn on deep thinking or to allow it to no opening moves.
+
+00:20:23.440 --> 00:20:35.600
+Like you're just fiddling around with the actual processing power of your opponent, not like opening up a menu to do, um, other things that aren't relevant to the game of chess that you're currently playing.
+
+00:20:35.600 --> 00:20:44.240
+Now there is a, um, an actual feature that you can arrange the board in whatever way you want.
+
+00:20:44.340 --> 00:20:49.500
+Like, let's say you just got beat by your chess rival.
+
+00:20:49.800 --> 00:20:51.380
+Let's call him Mike.
+
+00:20:51.380 --> 00:21:01.600
+Like, and you're in a situation that like, you just wanted to play through a few times so you can clear the board in place pieces where they were.
+
+00:21:01.600 --> 00:21:21.360
+If you have that kind of memory where you can remember a chess board, which I know some people can have, um, you can put the pieces where they're supposed to be and then have whatever computer level, um, play against you from that position.
+
+00:21:21.380 --> 00:21:22.960
+And I think that's a great tool.
+
+00:21:23.440 --> 00:21:25.860
+Um, but again, that like, it's a, it's a tool.
+
+00:21:26.020 --> 00:21:26.900
+It's not like a mode.
+
+00:21:26.960 --> 00:21:34.780
+It's not like the puzzles that you were talking about before Mike, but I guess it's like the closest I can think something like that being.
+
+00:21:35.700 --> 00:21:47.980
+Yeah. And I would argue there you would have, you should put in the manual, uh, like famous chess positions or something like something for them to then use the setup mode to, uh, to do instead.
+
+00:21:47.980 --> 00:21:58.120
+Instead, like you said, you have to painstakingly remember or, uh, have a secondary source for the, um, for the board that you want to create.
+
+00:21:58.220 --> 00:22:09.240
+Now, I do think that the rival situation is a cool idea that if you were at a chess tournament and you lost and you can remember the position, you take it back here and now you can replay it again with the computer.
+
+00:22:09.640 --> 00:22:18.180
+Obviously you could do that on the internet now, but like back then that would have been fun for like kids in a chess club to go, you know, replay a match that they played with their friend.
+
+00:22:18.180 --> 00:22:27.340
+But now they can play against a computer who can basically think for infinity to come up with the best possible move instead of you, uh, you know, playing around.
+
+00:22:27.680 --> 00:22:32.580
+Or, I mean, I guess that is a way that you could do it where you're sort of making the computer you.
+
+00:22:32.860 --> 00:22:41.080
+I thought maybe it'd be like you play against the computer again and see if you could open your own eyes.
+
+00:22:41.240 --> 00:22:44.020
+Right. But no, that, that sounds like cheating and I like it.
+
+00:22:47.080 --> 00:22:53.260
+Sean, you mentioned that you beat the game, uh, in the sense of 100% completion.
+
+00:22:53.300 --> 00:22:57.660
+Uh, no, uh, in the sense that like, yes, it, you don't even know about the select menu first.
+
+00:22:57.660 --> 00:22:58.480
+You play the game.
+
+00:22:58.600 --> 00:23:03.020
+The computer makes, uh, to anybody who's ever played a game of chess and understands how the pieces work.
+
+00:23:03.440 --> 00:23:09.660
+The, uh, the computer makes like almost obviously bad moves because it's set to the easiest level,
+
+00:23:09.660 --> 00:23:13.760
+which I think is just described as like beginner one or newcomer one or something like that.
+
+00:23:14.040 --> 00:23:19.780
+Newcomer one. Yeah. And it, it encourages you to move on and, uh, try a higher level and there is newcomer two,
+
+00:23:19.780 --> 00:23:26.600
+but then all of a sudden the computer levels change, uh, where it's like 60 over five.
+
+00:23:26.780 --> 00:23:35.560
+Right. Yeah. 60 over five, which means that, uh, a level one computer will make six is capable of making 60 moves in five minutes.
+
+00:23:35.560 --> 00:23:40.360
+Well, a level seven, it makes 30 moves in 45 minutes.
+
+00:23:40.680 --> 00:23:42.640
+See that. I didn't understand.
+
+00:23:42.660 --> 00:23:47.380
+I thought it was just like, Oh, this is just a completely different scoring rubric.
+
+00:23:47.540 --> 00:23:49.060
+I don't know what any of this means.
+
+00:23:49.300 --> 00:23:52.880
+Right. They should have given it like an ELO and, and you could change that.
+
+00:23:52.880 --> 00:23:58.600
+So you could play like a chess at 800 and a chess at 1200 and eventually a chess at 3000 if it could go to it.
+
+00:23:58.600 --> 00:24:01.540
+And it goes all the way up to infinity, which is funny.
+
+00:24:01.680 --> 00:24:11.120
+It's a, it's a funny concept, but basically on, uh, the infinite level, the chess master will think, uh, until you basically force him to move.
+
+00:24:11.260 --> 00:24:20.520
+That is something that you can do because it happens often, especially if you have deep thinking turned on that you will just basically have to tell chess master that you've had enough time, sir.
+
+00:24:20.520 --> 00:24:31.280
+And it's time to make your move because chess master will try to run, you know, every possible scenario, uh, which won't happen very fast for an NES processor.
+
+00:24:31.520 --> 00:24:34.800
+So you just have to basically tell it, move on and it will.
+
+00:24:34.800 --> 00:24:45.740
+Well, and so that's kind of cool that you can say, you know, all right, give me the one that is capable of making 30 moves in 45 minutes, turn off deep thinking and turn off the opening book too.
+
+00:24:45.860 --> 00:24:51.960
+So this way it doesn't already have every opening known to man, uh, you know, pre-programmed.
+
+00:24:52.040 --> 00:24:58.460
+It has to naturally come to those, uh, conclusions itself that those kinds of things are, are really cool to see.
+
+00:24:58.460 --> 00:25:01.860
+Wow. I didn't even realize that it had an opening book.
+
+00:25:01.980 --> 00:25:04.720
+Like I thought it was, I mean, I guess it makes sense.
+
+00:25:05.540 --> 00:25:14.660
+Um, but I did, I thought that it was just doing these naturally and not like reading from a script for the first three or four moves.
+
+00:25:14.760 --> 00:25:18.240
+Right. And the opening book isn't just, it doesn't do the same one every time.
+
+00:25:18.240 --> 00:25:20.340
+It's just that it has all of those openings.
+
+00:25:20.340 --> 00:25:24.180
+So it knows necessarily like up to a point where what you would play.
+
+00:25:24.320 --> 00:25:25.180
+Reading different pages of a script. Exactly.
+
+00:25:25.180 --> 00:25:33.980
+So for instance, the Roy Lopez, which is probably the most popular opening is something that the computer program will just naturally do most of the time.
+
+00:25:33.980 --> 00:25:44.040
+If, um, if you're the white pieces and you kind of set it up for that, like black will just naturally play the, uh, corresponding Roy Lopez pieces, knowing what you're offering.
+
+00:25:44.300 --> 00:25:47.140
+I mean, I prefer the George Lopez, but to each their own.
+
+00:25:47.360 --> 00:25:50.460
+Yeah. Uh, I prefer the Bong Cloud.
+
+00:25:51.440 --> 00:25:52.480
+Bong Cloud?
+
+00:25:52.480 --> 00:25:54.200
+That is an actual chess opening.
+
+00:25:54.200 --> 00:25:59.520
+I think, uh, created by, uh, Magnus Carlsen, who's the current world number one chess player.
+
+00:25:59.740 --> 00:26:01.520
+But the idea is to chess player.
+
+00:26:01.740 --> 00:26:08.840
+Yeah, exactly. He's being pretty dank about it in there too, where, uh, it's basically a, a really, really bad opening.
+
+00:26:08.840 --> 00:26:12.820
+But the idea is that he's the world's best chess player.
+
+00:26:13.020 --> 00:26:16.880
+And so it's so confusing that he could obviously recover.
+
+00:26:16.880 --> 00:26:19.100
+But if you tried to play it, you won't.
+
+00:26:20.520 --> 00:26:24.980
+There's also the ability to take back moves and, and actually take them back.
+
+00:26:24.980 --> 00:26:30.440
+Not just like rewind and see how you got to this point and then just fast forward back to where you were.
+
+00:26:30.440 --> 00:26:36.880
+You can actually say, no, no, no, we're going to resume from here when I was winning and just tell the computer that nothing else counted.
+
+00:26:37.300 --> 00:26:38.380
+I think that's good.
+
+00:26:38.540 --> 00:26:39.460
+Yeah. Oh yeah.
+
+00:26:39.480 --> 00:26:42.200
+I'm a fan of this mode. I don't, I wasn't trying to make it seem like I was making fun of it.
+
+00:26:42.260 --> 00:26:46.800
+I was thinking it's funny that you can tell the computer, like, let's go back to when I was winning or losing.
+
+00:26:46.960 --> 00:26:48.960
+Maybe you're a masochist about it.
+
+00:26:49.200 --> 00:26:55.700
+Could you imagine watching like you, you do the checkmate and the computer just starts rewinding and being like, actually, I came up with a better move.
+
+00:26:55.700 --> 00:27:05.260
+Another neat mode in this game is the solve for mate, which is a little feature that is good to solve mate in as many as three turns.
+
+00:27:05.440 --> 00:27:18.980
+And what that means is that if it's possible to check mate, either the player or the opponent in three turns, it will do some calculating and then show you how to, how to do the mate.
+
+00:27:18.980 --> 00:27:26.140
+If it takes even just four turns, like one extra turn, the computer won't be able to process it.
+
+00:27:26.280 --> 00:27:30.080
+And I wonder if that's actually true for the computer itself.
+
+00:27:30.200 --> 00:27:44.860
+Like it doesn't know mates in four or if it just, uh, I, I think it's a limitation, self-imposed limitation because this, this game, I'm amazed that there's no bugs that we've encountered that just made the game hang.
+
+00:27:44.860 --> 00:27:53.320
+Just by virtue of what a chess, a computer chess program, uh, how they're made.
+
+00:27:53.500 --> 00:28:01.180
+Like there's, again, we've talked about all the permutations and there's, there's no point where this breaks.
+
+00:28:01.360 --> 00:28:04.480
+Sometimes it's not great, but it doesn't break.
+
+00:28:04.480 --> 00:28:09.600
+Like, well, theoretically though, if you, if you do play at the infinite thing, you have to force it to move, which is great.
+
+00:28:09.600 --> 00:28:11.060
+No, I think it's a great solve though, too.
+
+00:28:11.140 --> 00:28:13.740
+I actually haven't seen that feature before.
+
+00:28:13.920 --> 00:28:22.040
+For instance, on lie chess, uh, which is like the place or chess.com even these computer, uh, internet websites now to play chess on.
+
+00:28:22.180 --> 00:28:25.060
+They don't have a feature like that where you tell the computer, like, all right, let's go.
+
+00:28:25.180 --> 00:28:26.540
+They're granted. They think fast enough.
+
+00:28:26.560 --> 00:28:29.740
+You don't have to wait for infinity, but it's an interesting feature.
+
+00:28:29.740 --> 00:28:34.840
+Uh, nevertheless to say, uh, I don't want you to have five minutes to think about this.
+
+00:28:34.920 --> 00:28:36.180
+I want you to do it right now.
+
+00:28:36.520 --> 00:28:46.040
+Yeah. I think that that's gotta be just a, um, just a side effect of having to work with an eight bit piece of hardware.
+
+00:28:46.400 --> 00:28:48.580
+And it's just not necessary now.
+
+00:28:48.760 --> 00:28:59.380
+And then there's the watch mode, which, uh, is a, is a cool thing in theory of watching the computer play itself and, uh, setting it at like high difficulties with deep learning and all this stuff.
+
+00:28:59.380 --> 00:29:20.600
+And watching it play just a really high level game of chess, but it'd be a lot better if it could explain why, because it's tough as, as a human being, not even just as a low level chess player, but just as a human being, it's tough to understand the rationale for computers that can visualize so many moves ahead and make moves that a human most likely never would.
+
+00:29:20.600 --> 00:29:38.500
+Uh, that happens even now when, uh, the world's best chess players play computers is the, the disadvantage, uh, of just seeing moves that at first seem like they're not obvious, but if it turns out in 42 moves, they're going to be up by one pawn, you know, like something crazy like that.
+
+00:29:38.660 --> 00:29:44.700
+Uh, and not saying that happens in this game necessarily, but without explanation, it's, it's not really that worthwhile of a mode.
+
+00:29:44.700 --> 00:30:01.080
+Yeah. Going back to when like you and I would play on live chess, I really appreciated the, the analytics where it would, it would sort of run through the game, like with, I guess, some auxiliary version of the software.
+
+00:30:01.080 --> 00:30:03.320
+And it was like, Oh, here's where you're forgot.
+
+00:30:03.440 --> 00:30:06.500
+They call it a flub, a, uh, a blunder.
+
+00:30:06.680 --> 00:30:08.500
+Here's where you made your blunder.
+
+00:30:08.640 --> 00:30:14.900
+And like your odds shifted from like 52% to 31% winning.
+
+00:30:14.900 --> 00:30:23.760
+Like just having that, like showing that kind of, uh, statistical analysis would be cool.
+
+00:30:23.860 --> 00:30:29.780
+But again, any S now it appears I do owe Sean an apology.
+
+00:30:29.780 --> 00:30:32.880
+Uh, maybe, maybe, maybe we could exchange apologies.
+
+00:30:32.880 --> 00:30:41.640
+Cause last week you told me that Steven Spielberg didn't direct, uh, Indiana Jones Raiders of the Lost Ark, uh, which is just called Raiders of the Lost Ark.
+
+00:30:42.000 --> 00:30:45.120
+Did, did you put that, um, that disclaimer at the beginning?
+
+00:30:45.340 --> 00:30:47.260
+I didn't. Do you want to say the disclaimer now?
+
+00:30:47.900 --> 00:30:49.700
+Oh yeah, I, I do.
+
+00:30:49.840 --> 00:30:52.800
+I say and do dumb shit, but you should expect that by now.
+
+00:30:52.800 --> 00:31:01.000
+Right. And I also said and did some dumb shit because although the match happened in 1999, uh, what was it?
+
+00:31:01.080 --> 00:31:02.380
+Deep Blue? Yeah.
+
+00:31:02.760 --> 00:31:09.160
+Yeah. Deep Blue was developed at MIT in as early as the same year as Chess Master 1984.
+
+00:31:09.900 --> 00:31:11.480
+You're goddamn right.
+
+00:31:11.720 --> 00:31:14.500
+So I, at least I'm going to own up to it in the actual episode.
+
+00:31:14.500 --> 00:31:16.600
+At least I had to wait a week for your apology.
+
+00:31:16.600 --> 00:31:20.000
+Well, you didn't tell me I was wrong until after the episode.
+
+00:31:20.300 --> 00:31:23.460
+Yeah. Cause you know why? Cause Joe sided with you and I thought that was strange.
+
+00:31:24.140 --> 00:31:26.340
+I was like, oh, Joe knows, Joe knows pretty well.
+
+00:31:28.560 --> 00:31:33.120
+And that is true that, uh, George Lucas, I believe either wrote or produced.
+
+00:31:33.120 --> 00:31:35.520
+He was a producer. Uh, Raiders of the Lost Ark.
+
+00:31:36.540 --> 00:31:39.260
+I'm glad that we could come to some catharsis here.
+
+00:31:39.260 --> 00:31:48.500
+Yes. So the reason why I bring up Deep Blue again is because I was actually thinking of it at the beginning of the episode, Alpha Zero, which is Google's, um, chess engine.
+
+00:31:48.500 --> 00:31:49.680
+Oh, that's the Go, right?
+
+00:31:49.860 --> 00:31:57.460
+Right. Uh, well, yes, it plays Go, but it probably plays so many other games too, but it plays Go, but it also plays, uh, chess.
+
+00:31:58.060 --> 00:32:07.340
+And it was able to, it was pretty much the first thing that when that released, it destroyed Stockfish and Stockfish basically needed to be like, what am I doing with my life?
+
+00:32:07.340 --> 00:32:15.460
+Uh, and now Stockfish, I think is back to winning or whatever, but chess engines of which this is chess master is a chess engine.
+
+00:32:15.640 --> 00:32:17.400
+Uh, there's a whole scene for that, right?
+
+00:32:17.520 --> 00:32:36.520
+So it's kind of interesting that, you know, chess players and world chess championships that there's also the world chess computer championships where different people who develop these computers and are very proud of their computer programs are going up against each other in best of like one hundreds, you know,
+
+00:32:36.520 --> 00:32:41.720
+because computers can do it, uh, to find out who's the best, uh, chess engine.
+
+00:32:42.060 --> 00:32:49.440
+The first chess master engine was called my chess two, which I think is really interesting that you would start on number two.
+
+00:32:49.600 --> 00:32:50.900
+Why wouldn't you just call it my chess?
+
+00:32:51.260 --> 00:32:55.180
+Well, maybe my chess one was just like a garage thing and it was terrible.
+
+00:32:55.420 --> 00:32:56.280
+I love that idea.
+
+00:32:56.440 --> 00:33:04.000
+Okay. So Sean's going to explain what, uh, developer David Kittinger was thinking when he put my chess two in the first chess master.
+
+00:33:04.000 --> 00:33:06.380
+Would you release your 1.0?
+
+00:33:06.560 --> 00:33:08.500
+I wouldn't. Yeah.
+
+00:33:09.020 --> 00:33:15.060
+Uh, it's unclear though if, um, the NES uses my chess two or just its own thing.
+
+00:33:15.340 --> 00:33:25.340
+Uh, I tried looking like the cutting room floor or something or on chess hobby websites, but it seems like chess masters just such a big thing on computers that nobody really cares about this NES version.
+
+00:33:25.340 --> 00:33:34.860
+In 1989, computer gaming world, uh, found chess master 2100 features the clear winner over Sargon four.
+
+00:33:35.200 --> 00:33:39.320
+And the reason why I tried to make that sound as alien as possible is because I don't know what any of these things mean.
+
+00:33:39.760 --> 00:33:43.740
+Uh, computer gaming world, chess master 2100, Sargon four, blah, blah, blah.
+
+00:33:43.840 --> 00:33:47.640
+It's like chess engines are just a whole nother world to me.
+
+00:33:47.640 --> 00:33:53.840
+I mean, it, it, we're kind of, this is our wheelhouse talking about shit that we know nothing about.
+
+00:33:59.780 --> 00:34:05.440
+Today, chess master would be absolutely obliterated by engines that we've mentioned like stock fish and alpha zero.
+
+00:34:06.100 --> 00:34:09.580
+Um, I, I don't know what else to say other than that.
+
+00:34:09.780 --> 00:34:16.100
+Even this chess master would lose to the many other versions of chess master that there are of which there are many.
+
+00:34:16.100 --> 00:34:26.440
+Um, I'll just call out 1986 is chess master 2000, not called 2000 for reasons like SimCity where like, you know, 2000 is coming up soon.
+
+00:34:26.580 --> 00:34:28.100
+And like, it's the future man.
+
+00:34:28.100 --> 00:34:33.320
+And this chess master is the future that was called chess master 2000 because of the computers.
+
+00:34:33.340 --> 00:34:36.500
+ELO was capable of playing 2000 level play.
+
+00:34:36.540 --> 00:34:39.780
+So, uh, that I like now all of a sudden I've got an explanation.
+
+00:34:40.140 --> 00:34:41.500
+Sounds really cool though, too.
+
+00:34:41.760 --> 00:34:44.920
+Yeah. The fidelity chess master 2100.
+
+00:34:45.200 --> 00:34:48.380
+I think they could have just called this the chess master 2100.
+
+00:34:48.560 --> 00:34:51.140
+Maybe it was sponsored by fidelity investments.
+
+00:34:52.380 --> 00:34:55.220
+Um, it wasn't, but I'm just throwing that out there as speculation.
+
+00:34:55.700 --> 00:35:02.820
+And then, you know, as I mentioned, they just started calling them 4,000 turbo 5,500 6,000.
+
+00:35:02.980 --> 00:35:03.840
+Do they have RTX?
+
+00:35:04.440 --> 00:35:11.240
+What's that? Yeah. No, no RTX, no ray tracing at all, actually in any of these games and chess master, I think.
+
+00:35:11.240 --> 00:35:18.280
+Like, is no longer developing or competing at least in the chess world.
+
+00:35:18.280 --> 00:35:23.300
+I think the last one was chess master 11 back in like 2007.
+
+00:35:23.880 --> 00:35:31.060
+And the chess master 11 added, uh, many features including tutorials, uh, from like actual grandmasters.
+
+00:35:31.060 --> 00:35:38.200
+And, uh, you could quick play from 900 different important games in chess history.
+
+00:35:38.560 --> 00:35:41.880
+Uh, they gave the different computers personalities.
+
+00:35:41.880 --> 00:35:53.720
+So you could play against like somebody who, um, you know, is maybe a more offensive from the very beginning or somebody who, uh, always takes care of their queen.
+
+00:35:53.720 --> 00:35:54.920
+And, you know, so on and so forth.
+
+00:35:54.940 --> 00:36:01.880
+Oh yeah. I saw that on the Wikipedia where you, they're like all these different, uh, fields that you could adjust.
+
+00:36:01.880 --> 00:36:04.360
+And like, yeah, that, that's pretty cool.
+
+00:36:04.600 --> 00:36:10.840
+Yeah. So I think it's cool that chess master kept evolving, but as far as I know, we won't see another one on the NES.
+
+00:36:11.020 --> 00:36:15.800
+This is our chess master and this is our chess game for now, but I think we're going to get other chess games.
+
+00:36:16.000 --> 00:36:17.600
+And technically we've already had another one.
+
+00:36:17.780 --> 00:36:24.860
+If you, uh, know about that essential game, but we're not here to talk about chess master 11 or any version of chess master or that other game.
+
+00:36:24.860 --> 00:36:32.120
+We're here to decide if chess master for the NES is on the essential games list.
+
+00:36:35.140 --> 00:36:39.620
+It's a new year and I feel like I'm going to go first for 2023.
+
+00:36:40.240 --> 00:36:45.940
+Wow. Because this way I can't sway anybody in any particular direction.
+
+00:36:45.940 --> 00:36:49.100
+I can't come in at the middle or cut off at the end.
+
+00:36:49.280 --> 00:36:51.780
+I have to just go first and hope for the best.
+
+00:36:52.060 --> 00:36:54.560
+Some might say that you hold the most sway now.
+
+00:36:54.860 --> 00:36:56.800
+Oh, you saw right through.
+
+00:36:57.160 --> 00:36:58.140
+I always do.
+
+00:36:58.460 --> 00:36:59.900
+This is my opening move.
+
+00:37:00.060 --> 00:37:12.000
+If you will. Look, there's many ways to learn how to play chess and chess had engines have, and will continue to offer much more than what is offered here on the NES.
+
+00:37:12.680 --> 00:37:24.680
+If I'm going to admit anything about my time with chess master, it's that it convinced me that our con is way more exciting in video game for form than chess master can ever hope to be.
+
+00:37:24.680 --> 00:37:26.740
+And probably most chess games could be.
+
+00:37:26.860 --> 00:37:39.400
+I think the reason why chess works in tabletop is because of the facing down your opponent and the wait for the moves and thinking about the moves while your opponent's thinking about the moves.
+
+00:37:39.400 --> 00:37:44.840
+Yeah, that kind of translates against the computer while you're waiting for it to make its turn and everything.
+
+00:37:44.840 --> 00:37:55.000
+But I feel like chess just works better as a tabletop game for the same reasons why a lot of board games just work better when they're played as they're intended and not in their digitalized form.
+
+00:37:55.000 --> 00:38:02.260
+Archon takes all the chess stuff and then makes it also have some video game elements to it.
+
+00:38:02.320 --> 00:38:11.840
+And I think that's what chess master is missing is that it needed a little more personality, fun, and maybe even some twists on chess included.
+
+00:38:12.100 --> 00:38:23.460
+Even just as bonus modes or minigames or something, especially this early in video game history, it just feels like this game is taking itself way too seriously and was probably better as a computer application.
+
+00:38:23.460 --> 00:38:24.640
+Now who's second?
+
+00:38:25.160 --> 00:38:26.800
+Oh, okay. Yeah, I like it.
+
+00:38:26.880 --> 00:38:27.760
+We agreed on something.
+
+00:38:31.020 --> 00:38:32.960
+Now, I don't say that...
+
+00:38:32.960 --> 00:38:35.020
+I wouldn't say that this is like...
+
+00:38:35.520 --> 00:38:40.960
+This shouldn't have been made or that this is inferior to...
+
+00:38:40.960 --> 00:38:44.460
+Just saying that, oh, this shouldn't be a video game.
+
+00:38:44.560 --> 00:38:47.760
+I think that it should. I think that this has a place.
+
+00:38:48.820 --> 00:38:51.940
+It's a very competent tool set.
+
+00:38:52.440 --> 00:38:58.400
+Like, all those things that we talked about in terms of, like, oh, you know, set the board up however you want.
+
+00:38:58.400 --> 00:39:00.020
+It's very utilitarian.
+
+00:39:00.420 --> 00:39:04.060
+It's not so much a video game as it is an application.
+
+00:39:04.420 --> 00:39:07.860
+So... But that being said, like, it's...
+
+00:39:07.860 --> 00:39:12.080
+Like, we've already talked about all the other different ways you can play chess.
+
+00:39:12.080 --> 00:39:16.240
+It's not an essential game, but it's definitely...
+
+00:39:16.620 --> 00:39:18.300
+It was definitely fun to learn about.
+
+00:39:18.460 --> 00:39:22.680
+And, like, I didn't know that something like this would come to the NES anytime soon.
+
+00:39:23.380 --> 00:39:24.200
+Or at all.
+
+00:39:24.360 --> 00:39:25.740
+So, I'm a no.
+
+00:39:26.040 --> 00:39:29.420
+But I still was intrigued.
+
+00:39:29.980 --> 00:39:31.740
+Yeah, you guys really have no choice there.
+
+00:39:31.920 --> 00:39:34.780
+Just like when you are checkmated in a game of chess.
+
+00:39:34.800 --> 00:39:38.260
+You cannot do anything about it unless you're playing Chess Master.
+
+00:39:38.260 --> 00:39:41.160
+In which case, you just rewind to the point where you weren't being checkmated.
+
+00:39:41.420 --> 00:39:44.980
+So, we can rewind the episode back to the beginning of the Essential Games list.
+
+00:39:44.980 --> 00:39:47.060
+And I could not go first, if you want.
+
+00:39:47.460 --> 00:39:51.480
+All right. Everybody that's listening, just rewind this to the beginning of the episode and try again.
+
+00:39:51.600 --> 00:39:54.720
+See where it leads. And if it didn't lead you anywhere good, don't worry.
+
+00:39:54.800 --> 00:39:57.100
+The future of Nostalgia is going to be just fine.
+
+00:39:57.100 --> 00:40:01.100
+We have many more episodes to play through and games to play through.
+
+00:40:01.300 --> 00:40:03.560
+Sorry, episodes you listen to, games we play.
+
+00:40:03.940 --> 00:40:04.880
+But you can play along.
+
+00:40:04.900 --> 00:40:06.040
+That's fine. It's legal.
+
+00:40:06.200 --> 00:40:09.420
+You're allowed to do that. But your votes just don't count towards the Essential Games list.
+
+00:40:09.800 --> 00:40:14.720
+And if you want even more games that aren't necessarily on the NES, but are kind of like
+
+00:40:14.720 --> 00:40:18.880
+the NES, because it's the Japanese version of the NES, and it's called the Famicom, we
+
+00:40:18.880 --> 00:40:19.840
+do a show about that, too.
+
+00:40:19.880 --> 00:40:23.680
+It's called Nostalgia Bites, and it's available on patreon.com slash nostalgia.
+
+00:40:24.120 --> 00:40:26.440
+Don't worry if you're like, well, then how am I going to listen to it?
+
+00:40:26.460 --> 00:40:27.320
+I got to listen to it on a website.
+
+00:40:27.500 --> 00:40:28.700
+No, no, no. They have this whole cool thing.
+
+00:40:28.820 --> 00:40:30.120
+They set you up with a feed.
+
+00:40:30.480 --> 00:40:34.480
+You can listen to it anywhere you want, just like you can listen to Nostalgia anywhere you
+
+00:40:34.480 --> 00:40:36.760
+want, including on our website.
+
+00:40:36.760 --> 00:40:38.960
+www.nostalgiacast.com.
+
+00:40:38.980 --> 00:40:41.340
+Yes, did you know you could listen right from the website?
+
+00:40:41.720 --> 00:40:43.840
+No mobile phone needed.
+
+00:40:44.000 --> 00:40:47.040
+If you don't have a cell phone, don't explain yourself to me.
+
+00:40:47.140 --> 00:40:50.580
+Just know that we have you figured out, too, and you can listen online.
+
+00:41:11.280 --> 00:41:15.500
+Thank you.
