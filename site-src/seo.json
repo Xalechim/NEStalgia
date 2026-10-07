@@ -11,6 +11,17 @@
           "genre": "shmup"
         },
         "see_all_label": "See them all with our verdicts"
+      },
+      "layout": "countdown",
+      "numbered": false,
+      "heading": "Five NES SHMUPs to try",
+      "intro_label": "Four tips for getting into SHMUPs",
+      "ranks": {
+        "1": 84,
+        "2": 122,
+        "3": 35,
+        "4": 71,
+        "5": 111
       }
     },
     "/articles/tetris": {

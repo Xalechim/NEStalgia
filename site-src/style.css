@@ -150,6 +150,7 @@ footer.site a { color: #ff8a80; }
 .prose td, .prose th { border: 1px solid #bbb; padding: 4px 9px; }
 .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 18px 0; }
 .gallery img { width: 100%; aspect-ratio: 1; object-fit: cover; border: 3px solid var(--line); box-shadow: 3px 3px 0 var(--shadow); }
+.gallery > img:only-child { aspect-ratio: auto; height: auto; object-fit: contain; max-width: 480px; justify-self: center; }  /* a lone screenshot keeps its shape and a sensible size */
 .tags { margin: 6px 0 14px; } .atag { font-family: var(--mono); font-size: 12px; background: var(--dark); color: #fff; padding: 2px 8px; margin: 0 6px 6px 0; display: inline-block; }
 .grid.articles { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
 .card.wide .t { font-size: 15px; }
