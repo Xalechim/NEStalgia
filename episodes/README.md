@@ -238,6 +238,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 230 | Stealth ATF | [notes](230-stealth-atf.md), [transcript](../transcripts/230-stealth-atf.md) |
 | 231 | The Three Stooges | [notes](231-the-three-stooges.md), [transcript](../transcripts/231-the-three-stooges.md) |
 | 232 | Twin Eagle | [notes](232-twin-eagle.md), [transcript](../transcripts/232-twin-eagle.md) |
+| 233 | Wheel of Fortune Junior Edition | [transcript](../transcripts/233-wheel-of-fortune-junior-edition.md) |
 | 234 | 720 Degrees | [notes](234-720-degrees.md), [transcript](../transcripts/234-720-degrees.md) |
 | 235 | Tetris | [notes](235-tetris.md), [transcript](../transcripts/235-tetris.md) |
 | 236 | To The Earth | [notes](236-to-the-earth.md), [transcript](../transcripts/236-to-the-earth.md) |
