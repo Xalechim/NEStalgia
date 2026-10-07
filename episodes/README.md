@@ -84,19 +84,19 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 076 | Mike Tyson's Punch-Out!! | [notes](076-mike-tysons-punch-out.md), [transcript](../transcripts/076-mike-tysons-punch-out.md) |
 | 077 | Rad Racer | [notes](077-rad-racer.md), [transcript](../transcripts/077-rad-racer.md) |
 | 078 | Zanac | [notes](078-zanac.md), [transcript](../transcripts/078-zanac.md) |
-| 079 | The Goonies II | [notes](079-the-goonies-ii.md) |
-| 080 | Gotcha! The Sport! | [notes](080-gotcha-the-sport.md) |
-| 081 | Jaws | [notes](081-jaws.md) |
-| 082 | The Karate Kid | [notes](082-the-karate-kid.md) |
-| 083 | Kid Niki: Radical Ninja | [notes](083-kid-niki-radical-ninja.md) |
-| 084 | Star Force | [notes](084-star-force.md) |
+| 079 | The Goonies II | [notes](079-the-goonies-ii.md), [transcript](../transcripts/079-the-goonies-ii.md) |
+| 080 | Gotcha! The Sport! | [notes](080-gotcha-the-sport.md), [transcript](../transcripts/080-gotcha-the-sport.md) |
+| 081 | Jaws | [notes](081-jaws.md), [transcript](../transcripts/081-jaws.md) |
+| 082 | The Karate Kid | [notes](082-the-karate-kid.md), [transcript](../transcripts/082-the-karate-kid.md) |
+| 083 | Kid Niki: Radical Ninja | [notes](083-kid-niki-radical-ninja.md), [transcript](../transcripts/083-kid-niki-radical-ninja.md) |
+| 084 | Star Force | [notes](084-star-force.md), [transcript](../transcripts/084-star-force.md) |
 | 085 | Super Pitfall | [notes](085-super-pitfall.md), [transcript](../transcripts/085-super-pitfall.md) |
 | 086 | Top Gun | [notes](086-top-gun.md) |
 | 087 | Side Pocket | [notes](087-side-pocket.md) |
 | 088 | Mega Man | [notes](088-mega-man.md), [transcript](../transcripts/088-mega-man.md) |
-| 089 | Wizards & Warriors | [notes](089-wizards-warriors.md) |
-| 090 | Karnov | [notes](090-karnov.md) |
-| 091 | Renegade | [notes](091-renegade.md) |
+| 089 | Wizards & Warriors | [notes](089-wizards-warriors.md), [transcript](../transcripts/089-wizards-warriors.md) |
+| 090 | Karnov | [notes](090-karnov.md), [transcript](../transcripts/090-karnov.md) |
+| 091 | Renegade | [notes](091-renegade.md), [transcript](../transcripts/091-renegade.md) |
 | 092 | Contra | [notes](092-contra.md), [transcript](../transcripts/092-contra.md) |
 | 093 | Gun.Smoke | [notes](093-gun-smoke.md), [transcript](../transcripts/093-gun-smoke.md) |
 | 094 | Town & Country Surf Designs: Wood and Water Rage | [notes](094-town-country-surf-designs-wood-and-water-rage.md), [transcript](../transcripts/094-town-country-surf-designs-wood-and-water-rage.md) |
