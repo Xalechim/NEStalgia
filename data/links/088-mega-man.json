@@ -1,0 +1,607 @@
+{
+  "episode": 88,
+  "title": "088 - Mega Man",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "24ec771e63a6",
+  "items": [
+    {
+      "name": "Mega Man (1987)",
+      "kind": "game",
+      "description": "The episode's game: Mega Man fights six Robot Masters, then Dr. Wily's fortress, in Capcom's NES platformer.",
+      "timestamp": "00:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_(1987_video_game)",
+          "label": "Wikipedia: Mega Man (1987 video game)",
+          "source": "wikipedia",
+          "note": "NES/Famicom action-platform video game"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man series",
+      "kind": "other",
+      "description": "The long-running Capcom franchise, with core numbered games plus X, Legends, Zero and more.",
+      "timestamp": "01:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man",
+          "label": "Wikipedia: Mega Man",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Monsters, Inc.",
+      "kind": "film_tv_music",
+      "description": "Pixar film set in Monstropolis, joked about because the NES version names Mega Man's city Monsteropolis.",
+      "timestamp": "00:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monsters%2C_Inc.",
+          "label": "Wikipedia: Monsters, Inc.",
+          "source": "wikipedia",
+          "note": "2001 film by Pete Docter"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 8",
+      "kind": "game",
+      "description": "The PlayStation entry known for its anime cutscenes and voice acting.",
+      "timestamp": "01:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_8",
+          "label": "Wikipedia: Mega Man 8",
+          "source": "wikipedia",
+          "note": "1996 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man X",
+      "kind": "game",
+      "description": "The Super NES spin-off series that starts a new line of Mega Man games.",
+      "timestamp": "02:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_X_(video_game)",
+          "label": "Wikipedia: Mega Man X (video game)",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Smash Bros.",
+      "kind": "game",
+      "description": "Where several hosts know Mega Man as a playable fighter, in Smash 4 and Ultimate.",
+      "timestamp": "02:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros.",
+          "label": "Wikipedia: Super Smash Bros.",
+          "source": "wikipedia",
+          "note": "Series of crossover fighting games"
+        }
+      ]
+    },
+    {
+      "name": "Sonic Mega Collection",
+      "kind": "game",
+      "description": "GameCube compilation of classic Sonic games that a host played as a kid.",
+      "timestamp": "03:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sonic_Mega_Collection",
+          "label": "Wikipedia: Sonic Mega Collection",
+          "source": "wikipedia",
+          "note": "2002 video game compilation"
+        }
+      ]
+    },
+    {
+      "name": "Sonic Adventure 2 Battle",
+      "kind": "game",
+      "description": "GameCube Sonic game a host had just finished before the Sonic collection.",
+      "timestamp": "03:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sonic_Adventure_2",
+          "label": "Wikipedia: Sonic Adventure 2",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man Anniversary Collection",
+      "kind": "game",
+      "description": "GameCube compilation of the first six Mega Man games a host found brutally hard.",
+      "timestamp": "03:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_Anniversary_Collection",
+          "label": "Wikipedia: Mega Man Anniversary Collection",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 2",
+      "kind": "game",
+      "description": "The NES sequel the hosts will cover later; one host calls it fantastic.",
+      "timestamp": "04:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_2",
+          "label": "Wikipedia: Mega Man 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "190-mega-man-2",
+      "episode_title": "MEGA MAN 2"
+    },
+    {
+      "name": "Mega Man 4",
+      "kind": "game",
+      "description": "The NES sequel that added the controversial charge shot.",
+      "timestamp": "04:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_4",
+          "label": "Wikipedia: Mega Man 4",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 11",
+      "kind": "game",
+      "description": "The 2018 core entry with a slowdown ability and a double gear system.",
+      "timestamp": "29:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_11",
+          "label": "Wikipedia: Mega Man 11",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Used as the benchmark for tutorial design, jumping and enemy placement.",
+      "timestamp": "09:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Trojan",
+      "kind": "game",
+      "description": "Earlier NES game criticized for having no planned enemy placement.",
+      "timestamp": "09:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Trojan_(video_game)",
+          "label": "Wikipedia: Trojan (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "037-trojan",
+      "episode_title": "TROJAN"
+    },
+    {
+      "name": "Rush'n Attack",
+      "kind": "game",
+      "description": "Called Russian Attack in the transcript; another earlier game where enemies simply spawn.",
+      "timestamp": "09:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rush'n_Attack",
+          "label": "Wikipedia: Rush'n Attack",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "041-rushn-attack",
+      "episode_title": "RUSH'N ATTACK"
+    },
+    {
+      "name": "Kid Icarus",
+      "kind": "game",
+      "description": "Cited for localization changes that altered small story details, such as Cupid and Chubby Cherub.",
+      "timestamp": "17:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kid_Icarus",
+          "label": "Wikipedia: Kid Icarus",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "048-kid-icarus",
+      "episode_title": "KID ICARUS"
+    },
+    {
+      "name": "Planet of the Apes",
+      "kind": "film_tv_music",
+      "description": "Film franchise the hosts joke the North American Mega Man box art resembles.",
+      "timestamp": "19:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Planet_of_the_Apes",
+          "label": "Wikipedia: Planet of the Apes",
+          "source": "wikipedia",
+          "note": "American science fiction media franchise"
+        }
+      ]
+    },
+    {
+      "name": "OutRun",
+      "kind": "game",
+      "description": "Sega racing game whose checkerboard look the box art background recalls.",
+      "timestamp": "19:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Out_Run",
+          "label": "Wikipedia: Out Run",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ]
+    },
+    {
+      "name": "Spider-Man 3",
+      "kind": "film_tv_music",
+      "description": "2007 film with the dance scene the hosts compare to Mega Man's box art pose.",
+      "timestamp": "19:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spider-Man_3",
+          "label": "Wikipedia: Spider-Man 3",
+          "source": "wikipedia",
+          "note": "2007 film by Sam Raimi"
+        }
+      ]
+    },
+    {
+      "name": "Akira Kitamura",
+      "kind": "person",
+      "description": "Capcom programmer and designer of the original Mega Man, interviewed about Cut Man and enemy placement.",
+      "timestamp": "26:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Akira_Kitamura",
+          "label": "Wikipedia: Akira Kitamura",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1964)"
+        }
+      ]
+    },
+    {
+      "name": "Keiji Inafune",
+      "kind": "person",
+      "description": "Longtime Capcom artist and producer best known as the face of Mega Man.",
+      "timestamp": "26:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Keiji_Inafune",
+          "label": "Wikipedia: Keiji Inafune",
+          "source": "wikipedia",
+          "note": "Japanese video game producer, illustrator, and businessman (born 1965)"
+        }
+      ]
+    },
+    {
+      "name": "Mighty No. 9",
+      "kind": "game",
+      "description": "Inafune's recent spiritual successor to Mega Man.",
+      "timestamp": "26:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mighty_No._9",
+          "label": "Wikipedia: Mighty No. 9",
+          "source": "wikipedia",
+          "note": "2016 video game"
+        }
+      ]
+    },
+    {
+      "name": "Paperboy",
+      "kind": "game",
+      "description": "Joked about as where Paper Man ended up, in a rock-paper-scissors gag.",
+      "timestamp": "26:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Paperboy_(video_game)",
+          "label": "Wikipedia: Paperboy (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "147-paperboy",
+      "episode_title": "Paperboy"
+    },
+    {
+      "name": "Mega Man Powered Up",
+      "kind": "game",
+      "description": "The PSP remake with chibi looks and added Oil Man and Time Man.",
+      "timestamp": "28:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_Powered_Up",
+          "label": "Wikipedia: Mega Man Powered Up",
+          "source": "wikipedia",
+          "note": "2006 video game"
+        }
+      ]
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "Compared with Mega Man for running and jumping feel.",
+      "timestamp": "33:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "The Karate Kid",
+      "kind": "game",
+      "description": "NES game criticized for unfair difficulty compared with Mega Man.",
+      "timestamp": "41:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Karate_Kid_(video_game)",
+          "label": "Wikipedia: The Karate Kid (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "082-the-karate-kid",
+      "episode_title": "THE KARATE KID"
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "Compared with Mega Man for how its feel differs from Karate Kid's.",
+      "timestamp": "41:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Dr. Wily",
+      "kind": "other",
+      "description": "Mega Man's villain, whose fortress is the final set of stages.",
+      "timestamp": "16:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Mega_Man_characters",
+          "label": "Wikipedia: List of Mega Man characters",
+          "source": "wikipedia",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Astro Boy",
+      "kind": "film_tv_music",
+      "description": "Japanese character the hosts say Mega Man resembles in the ending.",
+      "timestamp": "1:43:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Astro_Boy",
+          "label": "Wikipedia: Astro Boy",
+          "source": "wikipedia",
+          "note": "Japanese manga series"
+        }
+      ]
+    },
+    {
+      "name": "Crash Bandicoot N. Sane Trilogy",
+      "kind": "game",
+      "description": "Recalled for its final boss being easier than the one before it.",
+      "timestamp": "1:39:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crash_Bandicoot_N._Sane_Trilogy",
+          "label": "Wikipedia: Crash Bandicoot N. Sane Trilogy",
+          "source": "wikipedia",
+          "note": "2017 video game compilation"
+        }
+      ]
+    },
+    {
+      "name": "Mike Tyson's Punch-Out!!",
+      "kind": "game",
+      "description": "Last episode's game, compared for its credits and music.",
+      "timestamp": "1:42:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Punch-Out!!_(1987_video_game)",
+          "label": "Wikipedia: Punch-Out!! (1987 video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "076-mike-tysons-punch-out",
+      "episode_title": "MIKE TYSON'S PUNCH-OUT"
+    },
+    {
+      "name": "Mega Man: The Wily Wars",
+      "kind": "game",
+      "description": "The Sega Genesis collection of the first three games with new arrangements and Wily Tower.",
+      "timestamp": "2:07:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man%3A_The_Wily_Wars",
+          "label": "Wikipedia: Mega Man: The Wily Wars",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Polygon",
+      "kind": "company",
+      "description": "The site where Parish's ranking series of game franchises ran.",
+      "timestamp": "2:07:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Polygon_(website)",
+          "label": "Wikipedia: Polygon (website)",
+          "source": "wikipedia",
+          "note": "Video game website"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 9",
+      "kind": "game",
+      "description": "The 2008 WiiWare entry that went back to the NES look.",
+      "timestamp": "2:04:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_9",
+          "label": "Wikipedia: Mega Man 9",
+          "source": "wikipedia",
+          "note": "2008 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Land",
+      "kind": "game",
+      "description": "Game Boy game used as an example of a separate game rather than a port.",
+      "timestamp": "2:05:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Land",
+          "label": "Wikipedia: Super Mario Land",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Maker",
+      "kind": "game",
+      "description": "Example of Mario still getting new versions.",
+      "timestamp": "2:10:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Maker",
+          "label": "Wikipedia: Super Mario Maker",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ]
+    },
+    {
+      "name": "Ultraman",
+      "kind": "film_tv_music",
+      "description": "Japanese Kaiju hero with a Super Nintendo game mentioned in post-show chat.",
+      "timestamp": "2:19:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ultraman",
+          "label": "Wikipedia: Ultraman",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Wizards & Warriors",
+      "kind": "game",
+      "description": "Next week's NES game.",
+      "timestamp": "2:20:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wizards_%26_Warriors",
+          "label": "Wikipedia: Wizards & Warriors",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "089-wizards-warriors",
+      "episode_title": "WIZARDS & WARRIORS"
+    },
+    {
+      "name": "Excitebike",
+      "kind": "game",
+      "description": "Episode 5's game, compared with the Mega Man essential vote.",
+      "timestamp": "2:15:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Excitebike",
+          "label": "Wikipedia: Excitebike",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "005-excitebike",
+      "episode_title": "EXCITEBIKE"
+    },
+    {
+      "name": "Game Genie",
+      "kind": "hardware",
+      "description": "Cheat device the hosts compare to the Select-button pause glitch.",
+      "timestamp": "1:15:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Genie",
+          "label": "Wikipedia: Game Genie",
+          "source": "wikipedia",
+          "note": "Line of video game cheat cartridges"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's list of essential NES games; Mega Man was voted in.",
+      "timestamp": "2:10:03",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

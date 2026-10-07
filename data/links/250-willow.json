@@ -1,0 +1,619 @@
+{
+  "episode": 250,
+  "title": "250 - Willow",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "63dea80f7981",
+  "items": [
+    {
+      "name": "Willow",
+      "kind": "game",
+      "description": "The episode's game: Capcom's 1989 NES action RPG loosely based on the film, with a story of its own.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Willow_(NES_video_game)",
+          "label": "Wikipedia: Willow (NES video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Willow (film)",
+      "kind": "film_tv_music",
+      "description": "The 1988 fantasy film the game is loosely based on.",
+      "timestamp": "02:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Willow_(1988_film)",
+          "label": "Wikipedia: Willow (1988 film)",
+          "source": "wikipedia",
+          "note": "Film by Ron Howard"
+        }
+      ]
+    },
+    {
+      "name": "Capcom",
+      "kind": "company",
+      "description": "Developer of the NES Willow, praised here over the usual rushed movie-game publishers.",
+      "timestamp": "02:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Capcom",
+          "label": "Wikipedia: Capcom",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "George Lucas",
+      "kind": "person",
+      "description": "Wrote the story for the Willow film.",
+      "timestamp": "02:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Lucas",
+          "label": "Wikipedia: George Lucas",
+          "source": "wikipedia",
+          "note": "American filmmaker and entrepreneur (born 1944)"
+        }
+      ]
+    },
+    {
+      "name": "Ron Howard",
+      "kind": "person",
+      "description": "Director of the Willow film.",
+      "timestamp": "02:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_Howard",
+          "label": "Wikipedia: Ron Howard",
+          "source": "wikipedia",
+          "note": "American filmmaker and actor (born 1954)"
+        }
+      ]
+    },
+    {
+      "name": "Val Kilmer",
+      "kind": "person",
+      "description": "Actor in the Willow film.",
+      "timestamp": "02:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Val_Kilmer",
+          "label": "Wikipedia: Val Kilmer",
+          "source": "wikipedia",
+          "note": "American actor (1959–2025)"
+        }
+      ]
+    },
+    {
+      "name": "LJN",
+      "kind": "company",
+      "description": "Publisher known for quick-turnaround movie tie-in games on the NES.",
+      "timestamp": "02:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/LJN",
+          "label": "Wikipedia: LJN",
+          "source": "wikipedia",
+          "note": "American toy and video game publishing company"
+        }
+      ]
+    },
+    {
+      "name": "Faxanadu",
+      "kind": "game",
+      "description": "Earlier NES action RPG compared to Willow for exploration and experience points.",
+      "timestamp": "09:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Faxanadu",
+          "label": "Wikipedia: Faxanadu",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "207-faxanadu",
+      "episode_title": "Faxanadu"
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "Earlier game with towns, NPCs and exploration, compared to Willow.",
+      "timestamp": "09:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "Castlevania II: Simon's Quest",
+      "kind": "game",
+      "description": "Cited for cryptic, space-limited NPC dialogue that Willow avoids.",
+      "timestamp": "11:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Simon's_Quest",
+          "label": "Wikipedia: Castlevania II: Simon's Quest",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "143-castlevania-ii-simons-quest",
+      "episode_title": "CASTLEVANIA II: SIMON'S QUEST"
+    },
+    {
+      "name": "Kirby's Adventure",
+      "kind": "game",
+      "description": "Late NES game that shrank its play area under a HUD to do more with the hardware.",
+      "timestamp": "14:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirby's_Adventure",
+          "label": "Wikipedia: Kirby's Adventure",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Shadowgate",
+      "kind": "game",
+      "description": "Previous episode's game, played in a small window to save cartridge space.",
+      "timestamp": "15:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shadowgate",
+          "label": "Wikipedia: Shadowgate",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "246-shadowgate",
+      "episode_title": "Shadowgate"
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "The original game that Willow is called a clone of, minus puzzles and with experience points.",
+      "timestamp": "16:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Sega Genesis",
+      "kind": "hardware",
+      "description": "16-bit console with action RPGs that play like Willow.",
+      "timestamp": "17:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sega_Genesis",
+          "label": "Wikipedia: Sega Genesis",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Pokémon",
+      "kind": "other",
+      "description": "Franchise one host compared Willow's starting-town adventure feel to.",
+      "timestamp": "21:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon",
+          "label": "Wikipedia: Pokémon",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Warrior",
+      "kind": "game",
+      "description": "NES turn-based RPG that Willow is said to outdo in sense of exploration.",
+      "timestamp": "24:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Quest_(video_game)",
+          "label": "Wikipedia: Dragon Quest (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "206-dragon-warrior",
+      "episode_title": "Dragon Warrior"
+    },
+    {
+      "name": "Naughty Dog",
+      "kind": "company",
+      "description": "Studio mentioned for modern games that checkpoint seconds before a death.",
+      "timestamp": "30:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Naughty_Dog",
+          "label": "Wikipedia: Naughty Dog",
+          "source": "wikipedia",
+          "note": "American video game developer"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Skyward Sword",
+      "kind": "game",
+      "description": "Its shield-and-strike timing was compared to Willow's shield mechanic.",
+      "timestamp": "40:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Skyward_Sword",
+          "label": "Wikipedia: The Legend of Zelda: Skyward Sword",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "Console whose sprites and backgrounds Willow was said to resemble.",
+      "timestamp": "42:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+          "label": "Wikipedia: Super Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "kind": "game",
+      "description": "Compared to Willow for sprite quality and feel; Link's hair color joked about.",
+      "timestamp": "42:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_A_Link_to_the_Past",
+          "label": "Wikipedia: The Legend of Zelda: A Link to the Past",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "kind": "game",
+      "description": "Its giant great fairies compared to Willow's fairy at Lake Chief.",
+      "timestamp": "44:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Breath_of_the_Wild",
+          "label": "Wikipedia: The Legend of Zelda: Breath of the Wild",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "kind": "game",
+      "description": "Mentioned because Willow can acquire an ocarina.",
+      "timestamp": "47:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Ocarina_of_Time",
+          "label": "Wikipedia: The Legend of Zelda: Ocarina of Time",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Majora's Mask",
+      "kind": "game",
+      "description": "Joked about as the Zelda game Willow's monster-helmet spell resembles.",
+      "timestamp": "47:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Majora's_Mask",
+          "label": "Wikipedia: The Legend of Zelda: Majora's Mask",
+          "source": "wikipedia",
+          "note": "2000 video game"
+        }
+      ]
+    },
+    {
+      "name": "Yoshiki Okamoto",
+      "kind": "person",
+      "description": "Director of the game, who said Capcom used established characters to reach a wider audience.",
+      "timestamp": "48:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yoshiki_Okamoto",
+          "label": "Wikipedia: Yoshiki Okamoto",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1961)"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man",
+      "kind": "other",
+      "description": "Capcom's own character, called too niche for a wide audience compared to the film license.",
+      "timestamp": "48:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man",
+          "label": "Wikipedia: Mega Man",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Willow (TV series)",
+      "kind": "film_tv_music",
+      "description": "The Disney+ continuation of the film released the same week as the episode.",
+      "timestamp": "49:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Willow_(TV_series)",
+          "label": "Wikipedia: Willow (TV series)",
+          "source": "wikipedia",
+          "note": "2022 American fantasy television series"
+        }
+      ]
+    },
+    {
+      "name": "Lady and the Tramp (2019 film)",
+      "kind": "film_tv_music",
+      "description": "Disney's live-action remake, joked about as a sign Disney will revive anything.",
+      "timestamp": "51:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lady_and_the_Tramp_(2019_film)",
+          "label": "Wikipedia: Lady and the Tramp (2019 film)",
+          "source": "wikipedia",
+          "note": "Film by Charlie Bean"
+        }
+      ]
+    },
+    {
+      "name": "Tokuro Fujiwara",
+      "kind": "person",
+      "description": "Producer of Willow, Mega Man 2 and DuckTales, and director of Ghosts 'n Goblins.",
+      "timestamp": "52:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tokuro_Fujiwara",
+          "label": "Wikipedia: Tokuro Fujiwara",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1961)"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 2",
+      "kind": "game",
+      "description": "Essential Games List game produced by the same person as Willow.",
+      "timestamp": "52:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_2",
+          "label": "Wikipedia: Mega Man 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "190-mega-man-2",
+      "episode_title": "MEGA MAN 2"
+    },
+    {
+      "name": "DuckTales",
+      "kind": "game",
+      "description": "NES game also produced by Willow's producer.",
+      "timestamp": "52:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/DuckTales_(video_game)",
+          "label": "Wikipedia: DuckTales (video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "216-ducktales",
+      "episode_title": "DuckTales"
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "game",
+      "description": "Arcade game Willow's producer directed.",
+      "timestamp": "52:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins",
+          "label": "Wikipedia: Ghosts 'n Goblins",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    },
+    {
+      "name": "Ghosts 'n Goblins Resurrection",
+      "kind": "game",
+      "description": "The producer's most recent game, released in 2021.",
+      "timestamp": "52:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins_Resurrection",
+          "label": "Wikipedia: Ghosts 'n Goblins Resurrection",
+          "source": "wikipedia",
+          "note": "2021 platform game"
+        }
+      ]
+    },
+    {
+      "name": "MadWorld",
+      "kind": "game",
+      "description": "Black-and-white Wii game with a chainsaw that the producer designed.",
+      "timestamp": "52:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/MadWorld",
+          "label": "Wikipedia: MadWorld",
+          "source": "wikipedia",
+          "note": "2009 video game"
+        }
+      ]
+    },
+    {
+      "name": "Goichi Suda",
+      "kind": "person",
+      "description": "Also known as Suda51; guessed as the creator of MadWorld.",
+      "timestamp": "53:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Goichi_Suda",
+          "label": "Wikipedia: Goichi Suda",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1968)"
+        }
+      ]
+    },
+    {
+      "name": "Anarchy Reigns",
+      "kind": "game",
+      "description": "Spiritual successor to MadWorld released on Xbox 360 and PlayStation 3.",
+      "timestamp": "53:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Anarchy_Reigns",
+          "label": "Wikipedia: Anarchy Reigns",
+          "source": "wikipedia",
+          "note": "2012 video game"
+        }
+      ]
+    },
+    {
+      "name": "Willow (arcade game)",
+      "kind": "game",
+      "description": "Capcom's 1989 side-scrolling arcade game based on the film.",
+      "timestamp": "54:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Willow_(arcade_game)",
+          "label": "Wikipedia: Willow (arcade game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; Willow was voted in.",
+      "timestamp": "55:53",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Video Games & Computer Entertainment",
+      "kind": "website_or_article",
+      "description": "Magazine that gave Willow 7 out of 10 for graphics but faulted music and passwords.",
+      "timestamp": "1:03:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/VideoGames_%26_Computer_Entertainment",
+          "label": "Wikipedia: VideoGames & Computer Entertainment",
+          "source": "wikipedia",
+          "note": "American video game magazine"
+        }
+      ]
+    },
+    {
+      "name": "IGN",
+      "kind": "website_or_article",
+      "description": "Ranked Willow 89th best NES game.",
+      "timestamp": "1:05:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/IGN",
+          "label": "Wikipedia: IGN",
+          "source": "wikipedia",
+          "note": "American entertainment website"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "Its final issue ranked Willow 254th of 285 best Nintendo games.",
+      "timestamp": "1:05:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        }
+      ]
+    },
+    {
+      "name": "1UP.com",
+      "kind": "website_or_article",
+      "description": "Called Willow a poor Zelda-inspired game and preferred Crystalis.",
+      "timestamp": "1:05:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1Up_Network",
+          "label": "Wikipedia: 1Up Network",
+          "source": "wikipedia",
+          "note": "American entertainment network"
+        }
+      ]
+    },
+    {
+      "name": "Crystalis",
+      "kind": "game",
+      "description": "Zelda-style NES game 1UP said is far better than Willow.",
+      "timestamp": "1:06:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crystalis",
+          "label": "Wikipedia: Crystalis",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "338-crystalis",
+      "episode_title": "Crystalis"
+    }
+  ]
+}

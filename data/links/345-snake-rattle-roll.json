@@ -1,0 +1,317 @@
+{
+  "episode": 345,
+  "title": "345 - Snake Rattle Roll",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "bbd507797d59",
+  "items": [
+    {
+      "name": "Snake Rattle 'n' Roll",
+      "kind": "game",
+      "description": "The episode's game: Rare's 1990 isometric platformer where two snakes eat nibbly pibblies to grow and weigh in.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Snake_Rattle_'n'_Roll",
+          "label": "Wikipedia: Snake Rattle 'n' Roll",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Rare",
+      "kind": "company",
+      "description": "The British developer of Snake Rattle 'n' Roll, later known for Banjo-Kazooie.",
+      "timestamp": "11:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rare_(company)",
+          "label": "Wikipedia: Rare (company)",
+          "source": "wikipedia",
+          "note": "British video game developer"
+        }
+      ]
+    },
+    {
+      "name": "Banjo-Kazooie",
+      "kind": "game",
+      "description": "Rare's later N64 platformer, whose lack of last names and shark scare the hosts compare to this game.",
+      "timestamp": "01:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Banjo-Kazooie_(video_game)",
+          "label": "Wikipedia: Banjo-Kazooie (video game)",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "Donkey Kong",
+      "kind": "other",
+      "description": "Nintendo series whose characters, like Diddy Kong, share a last name, in a joke about snake surnames.",
+      "timestamp": "01:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donkey_Kong",
+          "label": "Wikipedia: Donkey Kong",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ],
+      "episode_key": "018-donkey-kong",
+      "episode_title": "DONKEY KONG"
+    },
+    {
+      "name": "Super Mario Bros. (film)",
+      "kind": "film_tv_music",
+      "description": "The 1993 live-action movie where Mario and Luigi both have the last name Mario.",
+      "timestamp": "01:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._(film)",
+          "label": "Wikipedia: Super Mario Bros. (film)",
+          "source": "wikipedia",
+          "note": "1993 film by Rocky Morton and Annabel Jankel"
+        }
+      ]
+    },
+    {
+      "name": "Pixar",
+      "kind": "company",
+      "description": "Animation studio the hosts imagine making a modern Rattle and Roll movie.",
+      "timestamp": "02:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pixar",
+          "label": "Wikipedia: Pixar",
+          "source": "wikipedia",
+          "note": "American computer animation studio"
+        }
+      ]
+    },
+    {
+      "name": "Snake",
+      "kind": "game",
+      "description": "The Nokia phone game the snake-head gameplay recalls.",
+      "timestamp": "03:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Snake_(video_game_genre)",
+          "label": "Wikipedia: Snake (video game genre)",
+          "source": "wikipedia",
+          "note": "Video game genre"
+        }
+      ]
+    },
+    {
+      "name": "Nokia",
+      "kind": "company",
+      "description": "Phone maker whose phones popularized the game Snake.",
+      "timestamp": "03:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nokia",
+          "label": "Wikipedia: Nokia",
+          "source": "wikipedia",
+          "note": "Finnish multinational corporation"
+        }
+      ]
+    },
+    {
+      "name": "Isometric video game graphics",
+      "kind": "event_or_term",
+      "description": "The angled 3D-looking perspective that makes the D-pad controls tricky.",
+      "timestamp": "06:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Isometric_video_game_graphics",
+          "label": "Wikipedia: Isometric video game graphics",
+          "source": "wikipedia",
+          "note": "Type of video game graphics"
+        }
+      ]
+    },
+    {
+      "name": "Crash Bandicoot",
+      "kind": "game",
+      "description": "Full 3D PlayStation platformer mentioned for its shadows that help judge jumps.",
+      "timestamp": "10:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)",
+          "label": "Wikipedia: Crash Bandicoot (video game)",
+          "source": "wikipedia",
+          "note": "1996 video game"
+        }
+      ]
+    },
+    {
+      "name": "Sonic the Hedgehog",
+      "kind": "game",
+      "description": "Game compared to the snakes losing part of their tail instead of health.",
+      "timestamp": "11:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)",
+          "label": "Wikipedia: Sonic the Hedgehog (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ],
+      "episode_key": "s097-sonic-the-hedgehog",
+      "episode_title": "SONIC THE HEDGEHOG"
+    },
+    {
+      "name": "Marble Madness",
+      "kind": "game",
+      "description": "Isometric NES game ported by Rare, compared for its smooth movement and perspective.",
+      "timestamp": "19:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Marble_Madness",
+          "label": "Wikipedia: Marble Madness",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "169-marble-madness",
+      "episode_title": "Marble Madness"
+    },
+    {
+      "name": "Bigfoot",
+      "kind": "other",
+      "description": "The cryptid and the giant foot enemy and final boss in the game.",
+      "timestamp": "23:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bigfoot",
+          "label": "Wikipedia: Bigfoot",
+          "source": "wikipedia",
+          "note": "Mythical creature"
+        }
+      ],
+      "episode_key": "348-bigfoot",
+      "episode_title": "Bigfoot"
+    },
+    {
+      "name": "Game Boy",
+      "kind": "hardware",
+      "description": "Nintendo handheld that got Sneaky Snakes and that level seven's stage layout spells out.",
+      "timestamp": "26:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy",
+          "label": "Wikipedia: Game Boy",
+          "source": "wikipedia",
+          "note": "Handheld Nintendo game console"
+        }
+      ]
+    },
+    {
+      "name": "Sega Genesis",
+      "kind": "hardware",
+      "description": "Console version in which the level's layout was changed to say Go Sega.",
+      "timestamp": "27:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sega_Genesis",
+          "label": "Wikipedia: Sega Genesis",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Shake, Rattle and Roll",
+      "kind": "film_tv_music",
+      "description": "The 1950s rock song the game's title and music play on.",
+      "timestamp": "29:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shake%2C_Rattle_and_Roll",
+          "label": "Wikipedia: Shake, Rattle and Roll",
+          "source": "wikipedia",
+          "note": "Song first recorded by Big Joe Turner in 1954"
+        }
+      ]
+    },
+    {
+      "name": "Jaws",
+      "kind": "film_tv_music",
+      "description": "The shark movie whose theme the in-game shark music resembles.",
+      "timestamp": "29:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jaws_(film)",
+          "label": "Wikipedia: Jaws (film)",
+          "source": "wikipedia",
+          "note": "1975 film by Steven Spielberg"
+        }
+      ],
+      "episode_key": "081-jaws",
+      "episode_title": "JAWS"
+    },
+    {
+      "name": "Solstice",
+      "kind": "game",
+      "description": "The earlier isometric NES puzzle game whose controls didn't work for one host.",
+      "timestamp": "33:44",
+      "links": [],
+      "episode_key": "332-solstice",
+      "episode_title": "Solstice"
+    },
+    {
+      "name": "Atari 2600",
+      "kind": "hardware",
+      "description": "Console joked about as having poor controls that would make an essential list hard.",
+      "timestamp": "34:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Atari_2600",
+          "label": "Wikipedia: Atari 2600",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Wizardry: Proving Grounds of the Mad Overlord",
+      "kind": "game",
+      "description": "Next week's game, the early text-menu dungeon crawler RPG.",
+      "timestamp": "35:25",
+      "links": [],
+      "episode_key": "346-wizardry-proving-grounds-of-the-mad-overlord",
+      "episode_title": "Wizardry: Proving Grounds of the Mad Overlord"
+    },
+    {
+      "name": "Splatterhouse",
+      "kind": "game",
+      "description": "The horror game the hosts will play in its cute Famicom version for the Patreon bonus show.",
+      "timestamp": "36:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Splatterhouse",
+          "label": "Wikipedia: Splatterhouse",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; Snake Rattle 'n' Roll was voted in.",
+      "timestamp": "29:22",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

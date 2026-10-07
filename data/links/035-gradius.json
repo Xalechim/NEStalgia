@@ -1,0 +1,497 @@
+{
+  "episode": 35,
+  "title": "035 - Gradius",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "1ee2c5d7c8ec",
+  "items": [
+    {
+      "name": "Gradius",
+      "kind": "game",
+      "description": "The episode's game: Konami's 1985 horizontal shoot 'em up, ported to the NES in 1986.",
+      "timestamp": "00:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gradius_(video_game)",
+          "label": "Wikipedia: Gradius (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Switch Online",
+      "kind": "other",
+      "description": "Nintendo's paid online service, which launched with an NES games app.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Switch_Online",
+          "label": "Wikipedia: Nintendo Switch Online",
+          "source": "wikipedia",
+          "note": "Suite of online services for the Nintendo Switch & Nintendo Switch 2"
+        }
+      ]
+    },
+    {
+      "name": "Splatoon",
+      "kind": "game",
+      "description": "Nintendo Switch game whose online play went behind the paid service.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Splatoon_(video_game)",
+          "label": "Wikipedia: Splatoon (video game)",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ],
+      "episode_key": "148-platoon",
+      "episode_title": "Platoon"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "One of the launch NES games in the Switch app, and an essential-list pick.",
+      "timestamp": "00:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Balloon Fight",
+      "kind": "game",
+      "description": "NES game available on the Switch app and on the essential list.",
+      "timestamp": "00:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Balloon_Fight",
+          "label": "Wikipedia: Balloon Fight",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "024-balloon-fight",
+      "episode_title": "BALLOON FIGHT"
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "game",
+      "description": "Previous episode's game, praised but very hard.",
+      "timestamp": "00:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins",
+          "label": "Wikipedia: Ghosts 'n Goblins",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "NES game in the Switch app with a planned special version.",
+      "timestamp": "00:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "NES game in the Switch app with a planned special version.",
+      "timestamp": "00:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games still worth playing today; Gradius was voted on.",
+      "timestamp": "04:28",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "Mentioned as getting a special version on the Switch, and as having a Mother Brain.",
+      "timestamp": "06:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "1942",
+      "kind": "game",
+      "description": "Vertical shooter from an earlier episode compared with Gradius.",
+      "timestamp": "09:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1942_(video_game)",
+          "label": "Wikipedia: 1942 (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "032-1942",
+      "episode_title": "1942"
+    },
+    {
+      "name": "Moai",
+      "kind": "other",
+      "description": "Easter Island statues that appear as enemies in the second stage.",
+      "timestamp": "11:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Moai",
+          "label": "Wikipedia: Moai",
+          "source": "wikipedia",
+          "note": "Monolithic statues on Easter Island"
+        }
+      ]
+    },
+    {
+      "name": "Konami",
+      "kind": "company",
+      "description": "Gradius was its first NES game.",
+      "timestamp": "13:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami",
+          "label": "Wikipedia: Konami",
+          "source": "wikipedia",
+          "note": "Japanese entertainment and video game company"
+        }
+      ]
+    },
+    {
+      "name": "Pachinko",
+      "kind": "event_or_term",
+      "description": "Japanese gambling machines that Konami now focuses on.",
+      "timestamp": "13:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pachinko",
+          "label": "Wikipedia: Pachinko",
+          "source": "wikipedia",
+          "note": "Japanese arcade gambling game"
+        }
+      ]
+    },
+    {
+      "name": "Scramble",
+      "kind": "game",
+      "description": "Konami's earlier horizontal shooter that Gradius followed.",
+      "timestamp": "13:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Scramble_(video_game)",
+          "label": "Wikipedia: Scramble (video game)",
+          "source": "wikipedia",
+          "note": "1981 video game"
+        }
+      ]
+    },
+    {
+      "name": "Millennium Falcon",
+      "kind": "other",
+      "description": "Star Wars ship the stage-ending core ship was compared to.",
+      "timestamp": "15:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Millennium_Falcon",
+          "label": "Wikipedia: Millennium Falcon",
+          "source": "wikipedia",
+          "note": "Fictional starship in the Star Wars franchise"
+        }
+      ]
+    },
+    {
+      "name": "Osmosis Jones",
+      "kind": "film_tv_music",
+      "description": "Film about a story inside a body, joked about for the Bacterian Army.",
+      "timestamp": "16:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Osmosis_Jones",
+          "label": "Wikipedia: Osmosis Jones",
+          "source": "wikipedia",
+          "note": "2001 live-action/animated film"
+        }
+      ]
+    },
+    {
+      "name": "Commando",
+      "kind": "game",
+      "description": "Earlier NES shooter compared with Gradius.",
+      "timestamp": "19:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commando_(video_game)",
+          "label": "Wikipedia: Commando (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "033-commando",
+      "episode_title": "COMMANDO"
+    },
+    {
+      "name": "Kirby's Dream Land",
+      "kind": "game",
+      "description": "Game Boy game whose health bar the pink bubbles resemble.",
+      "timestamp": "26:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirby's_Dream_Land",
+          "label": "Wikipedia: Kirby's Dream Land",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kirby's Adventure",
+      "kind": "game",
+      "description": "NES Kirby game, distinguished from Dream Land.",
+      "timestamp": "26:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirby's_Adventure",
+          "label": "Wikipedia: Kirby's Adventure",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Land 2: 6 Golden Coins",
+      "kind": "game",
+      "description": "Game Boy game with hippo statues that blow bubbles.",
+      "timestamp": "31:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Land_2%3A_6_Golden_Coins",
+          "label": "Wikipedia: Super Mario Land 2: 6 Golden Coins",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Popeye",
+      "kind": "game",
+      "description": "Earlier episode's game, contrasted for its random patterns.",
+      "timestamp": "37:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Popeye_(video_game)",
+          "label": "Wikipedia: Popeye (video game)",
+          "source": "wikipedia",
+          "note": "1982 video game"
+        }
+      ],
+      "episode_key": "023-popeye",
+      "episode_title": "POPEYE"
+    },
+    {
+      "name": "Mother Brain",
+      "kind": "other",
+      "description": "Metroid boss compared to Gradius's final brain.",
+      "timestamp": "48:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mother_Brain",
+          "label": "Wikipedia: Mother Brain",
+          "source": "wikipedia",
+          "note": "Video game villain"
+        }
+      ]
+    },
+    {
+      "name": "Star Fox 64",
+      "kind": "game",
+      "description": "Game with a brain-form final boss and branching routes, compared with Gradius.",
+      "timestamp": "50:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Fox_64",
+          "label": "Wikipedia: Star Fox 64",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Xevious",
+      "kind": "game",
+      "description": "Shooter Konami's designers aimed to beat.",
+      "timestamp": "53:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xevious",
+          "label": "Wikipedia: Xevious",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ]
+    },
+    {
+      "name": "Galaga",
+      "kind": "game",
+      "description": "Arcade shooter that gave Gradius its enemy-wave power-up idea.",
+      "timestamp": "53:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Galaga",
+          "label": "Wikipedia: Galaga",
+          "source": "wikipedia",
+          "note": "1981 video game"
+        }
+      ]
+    },
+    {
+      "name": "Breath of the Wild",
+      "kind": "game",
+      "description": "Used to talk about borrowing ideas across genres.",
+      "timestamp": "56:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Breath_of_the_Wild",
+          "label": "Wikipedia: The Legend of Zelda: Breath of the Wild",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Konami Code",
+      "kind": "event_or_term",
+      "description": "The up-up-down-down cheat code that debuted in Gradius.",
+      "timestamp": "59:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami_Code",
+          "label": "Wikipedia: Konami Code",
+          "source": "wikipedia",
+          "note": "Cheat code, originally for Konami games"
+        }
+      ]
+    },
+    {
+      "name": "Contra",
+      "kind": "game",
+      "description": "Konami game most associated with the Konami Code.",
+      "timestamp": "1:00:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+          "label": "Wikipedia: Contra (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "092-contra",
+      "episode_title": "CONTRA"
+    },
+    {
+      "name": "Game Genie",
+      "kind": "hardware",
+      "description": "Cheat device, contrasted with the Konami Code.",
+      "timestamp": "1:02:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Genie",
+          "label": "Wikipedia: Game Genie",
+          "source": "wikipedia",
+          "note": "Line of video game cheat cartridges"
+        }
+      ]
+    },
+    {
+      "name": "Vs. System",
+      "kind": "hardware",
+      "description": "Nintendo's arcade hardware line that also had a Gradius version.",
+      "timestamp": "1:04:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_VS._System",
+          "label": "Wikipedia: Nintendo VS. System",
+          "source": "wikipedia",
+          "note": "Arcade cabinet series"
+        }
+      ]
+    },
+    {
+      "name": "Mach Rider",
+      "kind": "game",
+      "description": "Earlier NES game, joked about as the player's name.",
+      "timestamp": "1:16:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mach_Rider",
+          "label": "Wikipedia: Mach Rider",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "026-mach-rider",
+      "episode_title": "MACH RIDER"
+    },
+    {
+      "name": "Karate Champ",
+      "kind": "game",
+      "description": "The next episode's game.",
+      "timestamp": "1:16:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Karate_Champ",
+          "label": "Wikipedia: Karate Champ",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "036-karate-champ",
+      "episode_title": "KARATE CHAMP"
+    }
+  ]
+}

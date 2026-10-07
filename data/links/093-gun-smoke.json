@@ -1,0 +1,633 @@
+{
+  "episode": 93,
+  "title": "093 - Gun.Smoke",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "20e1e0b71c51",
+  "items": [
+    {
+      "name": "Gun.Smoke",
+      "kind": "game",
+      "description": "Capcom's 1985 arcade western shooter and its 1988 NES port, the episode's game, with a dot in the title.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gun.Smoke",
+          "label": "Wikipedia: Gun.Smoke",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/14515",
+          "label": "Gun.Smoke - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Gun.Smoke_(NES)",
+          "label": "Gun.Smoke (NES) - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/gun-smoke/",
+          "label": "Gun.Smoke - Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Captain Commando",
+      "kind": "other",
+      "description": "Capcom's mascot character, who delivers messages in the manuals of its NES games.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Captain_Commando_(character)",
+          "label": "Wikipedia: Captain Commando (character)",
+          "source": "wikipedia",
+          "note": "Fictional Capcom mascot"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Characters/Captain_Commando",
+          "label": "Captain Commando - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man",
+      "kind": "other",
+      "description": "Capcom's NES series, compared with the Captain Commando challenge as a game you must beat to unlock something.",
+      "timestamp": "01:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man",
+          "label": "Wikipedia: Mega Man",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Cable (Marvel Comics)",
+      "kind": "person",
+      "description": "Marvel X-Men character, used as a comparison for how Captain Commando looks.",
+      "timestamp": "02:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cable_(character)",
+          "label": "Wikipedia: Cable (character)",
+          "source": "wikipedia",
+          "note": "Marvel Comics fictional character"
+        }
+      ]
+    },
+    {
+      "name": ".hack",
+      "kind": "other",
+      "description": "PlayStation 2 series whose title also includes a period, raised when discussing the title's punctuation.",
+      "timestamp": "02:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/.hack",
+          "label": "Wikipedia: .hack",
+          "source": "wikipedia",
+          "note": "Japanese multimedia franchise"
+        }
+      ]
+    },
+    {
+      "name": "Driv3r",
+      "kind": "game",
+      "description": "Game stylized with a number in its name, used as another example of odd title styling.",
+      "timestamp": "02:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Driver_3",
+          "label": "Wikipedia: Driver 3",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        }
+      ]
+    },
+    {
+      "name": "Sergio Leone",
+      "kind": "person",
+      "description": "Italian director behind the spaghetti westerns, mentioned when calling this a sushi western.",
+      "timestamp": "03:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sergio_Leone",
+          "label": "Wikipedia: Sergio Leone",
+          "source": "wikipedia",
+          "note": "Italian filmmaker (1929–1989)"
+        }
+      ]
+    },
+    {
+      "name": "Spaghetti Western",
+      "kind": "event_or_term",
+      "description": "Italian-made westerns, the basis for the joke that Gun.Smoke is a Japanese 'sushi western'.",
+      "timestamp": "03:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spaghetti_Western",
+          "label": "Wikipedia: Spaghetti Western",
+          "source": "wikipedia",
+          "note": "Italian Western subgenre"
+        }
+      ]
+    },
+    {
+      "name": "John Wayne",
+      "kind": "person",
+      "description": "Classic western film star, one of the hosts' examples of old westerns' acting.",
+      "timestamp": "04:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Wayne",
+          "label": "Wikipedia: John Wayne",
+          "source": "wikipedia",
+          "note": "American actor (1907–1979)"
+        }
+      ]
+    },
+    {
+      "name": "Shane",
+      "kind": "film_tv_music",
+      "description": "1953 western film named as a good cowboy movie.",
+      "timestamp": "04:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shane_(film)",
+          "label": "Wikipedia: Shane (film)",
+          "source": "wikipedia",
+          "note": "1953 film by George Stevens"
+        }
+      ]
+    },
+    {
+      "name": "Gunsmoke (TV series)",
+      "kind": "film_tv_music",
+      "description": "Long-running western TV show whose name is why Capcom put a dot in the game's title.",
+      "timestamp": "05:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gunsmoke",
+          "label": "Wikipedia: Gunsmoke",
+          "source": "wikipedia",
+          "note": "American radio and television Western drama series (1952–1975)"
+        }
+      ]
+    },
+    {
+      "name": "L.A. Noire",
+      "kind": "game",
+      "description": "Detective game the hosts compare to an imaginary 'smoking gun' NES game.",
+      "timestamp": "05:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/L.A._Noire",
+          "label": "Wikipedia: L.A. Noire",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "Gumshoe",
+      "kind": "game",
+      "description": "Zapper game for the NES that one host expected to be a noir style game.",
+      "timestamp": "05:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gumshoe_(video_game)",
+          "label": "Wikipedia: Gumshoe (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "025-gumshoe",
+      "episode_title": "GUMSHOE"
+    },
+    {
+      "name": "Commando",
+      "kind": "game",
+      "description": "Capcom's 1985 military run-and-gun shooter, repeatedly compared with Gun.Smoke.",
+      "timestamp": "06:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commando_(video_game)",
+          "label": "Wikipedia: Commando (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "033-commando",
+      "episode_title": "COMMANDO"
+    },
+    {
+      "name": "1942",
+      "kind": "game",
+      "description": "Capcom's earlier shooter, also by Gun.Smoke's designer and compared to it.",
+      "timestamp": "06:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1942_(video_game)",
+          "label": "Wikipedia: 1942 (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "032-1942",
+      "episode_title": "1942"
+    },
+    {
+      "name": "Capcom",
+      "kind": "company",
+      "description": "Developer and publisher of Gun.Smoke, Commando and 1942.",
+      "timestamp": "06:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Capcom",
+          "label": "Wikipedia: Capcom",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Used as the example of a manual that actually helps with the start of the game.",
+      "timestamp": "07:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Section Z",
+      "kind": "game",
+      "description": "Earlier NES shooter where A and B fire in different directions.",
+      "timestamp": "11:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Section_Z",
+          "label": "Wikipedia: Section Z",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "051-section-z",
+      "episode_title": "SECTION Z"
+    },
+    {
+      "name": "Renegade",
+      "kind": "game",
+      "description": "Earlier NES game where one button attacks in each direction, like Gun.Smoke's controls.",
+      "timestamp": "11:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Renegade_(video_game)",
+          "label": "Wikipedia: Renegade (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "091-renegade",
+      "episode_title": "RENEGADE"
+    },
+    {
+      "name": "Sega Genesis",
+      "kind": "hardware",
+      "description": "Console whose three-button controller one host wished Gun.Smoke's layout resembled.",
+      "timestamp": "13:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sega_Genesis",
+          "label": "Wikipedia: Sega Genesis",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Contra",
+      "kind": "game",
+      "description": "Konami NES shooter with a spread gun, compared to Gun.Smoke's shotgun.",
+      "timestamp": "14:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+          "label": "Wikipedia: Contra (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "092-contra",
+      "episode_title": "CONTRA"
+    },
+    {
+      "name": "Hicksville",
+      "kind": "other",
+      "description": "Fictional town in the game's story, distinct from Hicksville on Long Island.",
+      "timestamp": "09:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hicksville%2C_New_York",
+          "label": "Wikipedia: Hicksville, New York",
+          "source": "wikipedia",
+          "note": "Hamlet and census-designated place in New York, United States"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts",
+      "kind": "game",
+      "description": "Role-playing game mentioned as an example of grinding for levels early on.",
+      "timestamp": "43:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts",
+          "label": "Wikipedia: Kingdom Hearts",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Yoshi",
+      "kind": "other",
+      "description": "Mario character, compared with the game's horse that takes extra hits.",
+      "timestamp": "46:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yoshi",
+          "label": "Wikipedia: Yoshi",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Red Dead Revolver",
+      "kind": "game",
+      "description": "Rockstar game that began as a Capcom project with Gun.Smoke as an inspiration.",
+      "timestamp": "46:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Dead_Revolver",
+          "label": "Wikipedia: Red Dead Revolver",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        },
+        {
+          "url": "https://tcrf.net/Red_Dead_Revolver",
+          "label": "Red Dead Revolver - The Cutting Room Floor",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "kind": "game",
+      "description": "Rockstar western, jokingly called the sequel to the Gun.Smoke line.",
+      "timestamp": "46:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
+          "label": "Wikipedia: Red Dead Redemption 2",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        }
+      ]
+    },
+    {
+      "name": "Rockstar Games",
+      "kind": "company",
+      "description": "Publisher that took over Red Dead Revolver from Capcom.",
+      "timestamp": "47:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rockstar_Games",
+          "label": "Wikipedia: Rockstar Games",
+          "source": "wikipedia",
+          "note": "American video game publisher"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "website_or_article",
+      "description": "NEStalgia's running list of the NES games the hosts call essential.",
+      "timestamp": "47:29",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "game",
+      "description": "Capcom NES game used as the example of a fake-out ending that sends you back to the start.",
+      "timestamp": "54:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins",
+          "label": "Wikipedia: Ghosts 'n Goblins",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Used in a hypothetical about a fake-out Bowser fight.",
+      "timestamp": "54:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "New Super Mario Bros.",
+      "kind": "game",
+      "description": "Mentioned as having a surprise Bowser fake-out.",
+      "timestamp": "54:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros.",
+          "label": "Wikipedia: New Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "2006 video game"
+        }
+      ]
+    },
+    {
+      "name": "Punch-Out!!",
+      "kind": "game",
+      "description": "NES boxing game from an earlier episode, cited for giving only the control you need.",
+      "timestamp": "57:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Punch-Out!!_(1987_video_game)",
+          "label": "Wikipedia: Punch-Out!! (1987 video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Yoshiki Okamoto",
+      "kind": "person",
+      "description": "Capcom designer of Gun.Smoke and 1942, later producer of Street Fighter II.",
+      "timestamp": "59:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yoshiki_Okamoto",
+          "label": "Wikipedia: Yoshiki Okamoto",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1961)"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/People/Yoshiki_Okamoto",
+          "label": "Yoshiki Okamoto - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Street Fighter II",
+      "kind": "game",
+      "description": "Capcom fighting game produced by the same person who made Gun.Smoke.",
+      "timestamp": "59:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Street_Fighter_II",
+          "label": "Wikipedia: Street Fighter II",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Amstrad CPC",
+      "kind": "hardware",
+      "description": "European 8-bit home computer that got an unofficial Gun.Smoke-style port called Desperado.",
+      "timestamp": "1:00:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Amstrad_CPC",
+          "label": "Wikipedia: Amstrad CPC",
+          "source": "wikipedia",
+          "note": "Home computers produced by Amstrad"
+        }
+      ]
+    },
+    {
+      "name": "Desperado",
+      "kind": "game",
+      "description": "Topo Soft's Amstrad CPC western shooter based on Gun.Smoke, discussed as a related game.",
+      "timestamp": "1:01:36",
+      "links": [
+        {
+          "url": "https://www.hardcoregaming101.net/desperado/",
+          "label": "Desperado - Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Desperado 2",
+      "kind": "game",
+      "description": "Topo Soft's 1991 sequel, a side-scrolling shooter only loosely tied to Gun.Smoke.",
+      "timestamp": "1:01:36",
+      "links": [
+        {
+          "url": "https://www.hardcoregaming101.net/desperado-2/",
+          "label": "Desperado 2 - Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Stinger",
+      "kind": "game",
+      "description": "Konami NES shooter the host ranks just below Gun.Smoke.",
+      "timestamp": "1:08:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stinger_(1986_video_game)",
+          "label": "Wikipedia: Stinger (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "071-stinger",
+      "episode_title": "STINGER"
+    },
+    {
+      "name": "Sam Smith",
+      "kind": "person",
+      "description": "Singer whose name matches a listener-mail writer's name in the joke.",
+      "timestamp": "1:04:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sam_Smith",
+          "label": "Wikipedia: Sam Smith",
+          "source": "wikipedia",
+          "note": "English singer and songwriter (born 1992)"
+        }
+      ]
+    },
+    {
+      "name": "Shaq Fu",
+      "kind": "game",
+      "description": "Fighting game cited in a joke about collectors buying every copy.",
+      "timestamp": "1:10:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shaq_Fu",
+          "label": "Wikipedia: Shaq Fu",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Color a Dinosaur",
+      "kind": "game",
+      "description": "Odd NES game the host jokes about buying every copy of.",
+      "timestamp": "1:10:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Color_a_Dinosaur",
+          "label": "Wikipedia: Color a Dinosaur",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    }
+  ]
+}

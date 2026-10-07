@@ -1,0 +1,553 @@
+{
+  "episode": 367,
+  "title": "367 - Maniac Mansion",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "142c5e3a912e",
+  "items": [
+    {
+      "name": "Maniac Mansion",
+      "kind": "game",
+      "description": "The episode's game: Lucasfilm's point-and-click adventure, ported from computers to the NES, where teens storm a mad scientist's mansion.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Maniac_Mansion",
+          "label": "Wikipedia: Maniac Mansion",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Lucasfilm Games",
+      "kind": "company",
+      "description": "The studio behind Maniac Mansion, whose later games reuse the gas can joke.",
+      "timestamp": "01:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lucasfilm_Games",
+          "label": "Wikipedia: Lucasfilm Games",
+          "source": "wikipedia",
+          "note": "American video game company"
+        }
+      ]
+    },
+    {
+      "name": "Day of the Tentacle",
+      "kind": "game",
+      "description": "The 1993 sequel to Maniac Mansion, widely respected as a classic adventure game.",
+      "timestamp": "02:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Day_of_the_Tentacle",
+          "label": "Wikipedia: Day of the Tentacle",
+          "source": "wikipedia",
+          "note": "1993 adventure game"
+        }
+      ]
+    },
+    {
+      "name": "Sierra On-Line",
+      "kind": "company",
+      "description": "Publisher of other point-and-click adventures, some known for illogical puzzles.",
+      "timestamp": "02:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sierra_Entertainment",
+          "label": "Wikipedia: Sierra Entertainment",
+          "source": "wikipedia",
+          "note": "American video game company"
+        }
+      ]
+    },
+    {
+      "name": "Commodore 64",
+      "kind": "hardware",
+      "description": "One of the home computers where Maniac Mansion first appeared.",
+      "timestamp": "03:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commodore_64",
+          "label": "Wikipedia: Commodore 64",
+          "source": "wikipedia",
+          "note": "8-bit home computer introduced in 1982"
+        }
+      ]
+    },
+    {
+      "name": "Apple II",
+      "kind": "hardware",
+      "description": "Another home computer where the original Maniac Mansion appeared.",
+      "timestamp": "03:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Apple_II",
+          "label": "Wikipedia: Apple II",
+          "source": "wikipedia",
+          "note": "1977–1993 series of microcomputers"
+        }
+      ]
+    },
+    {
+      "name": "Ron Gilbert",
+      "kind": "person",
+      "description": "Co-creator of Maniac Mansion, credited with coining the word cutscene.",
+      "timestamp": "03:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_Gilbert",
+          "label": "Wikipedia: Ron Gilbert",
+          "source": "wikipedia",
+          "note": "American video game designer"
+        }
+      ]
+    },
+    {
+      "name": "SCUMM",
+      "kind": "event_or_term",
+      "description": "The Script Creation Utility for Maniac Mansion, the custom engine with the verb-and-noun interface.",
+      "timestamp": "03:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/SCUMM",
+          "label": "Wikipedia: SCUMM",
+          "source": "wikipedia",
+          "note": "Game engine developed by LucasArts"
+        }
+      ]
+    },
+    {
+      "name": "Shadowgate",
+      "kind": "game",
+      "description": "Earlier NES adventure game on the Essential Games List, compared and contrasted with Maniac Mansion.",
+      "timestamp": "04:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shadowgate",
+          "label": "Wikipedia: Shadowgate",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "246-shadowgate",
+      "episode_title": "Shadowgate"
+    },
+    {
+      "name": "Zork",
+      "kind": "game",
+      "description": "Text adventure where you type commands, contrasted with clicking verbs.",
+      "timestamp": "06:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zork",
+          "label": "Wikipedia: Zork",
+          "source": "wikipedia",
+          "note": "1977 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Rocky Horror Picture Show",
+      "kind": "film_tv_music",
+      "description": "Cult musical film whose logo and mad-scientist vibe the hosts see in the game.",
+      "timestamp": "08:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show",
+          "label": "Wikipedia: The Rocky Horror Picture Show",
+          "source": "wikipedia",
+          "note": "1975 musical comedy horror film by Jim Sharman"
+        }
+      ]
+    },
+    {
+      "name": "A Nightmare on Elm Street",
+      "kind": "film_tv_music",
+      "description": "Slasher film the developers reportedly drew on for tone.",
+      "timestamp": "09:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street",
+          "label": "Wikipedia: A Nightmare on Elm Street",
+          "source": "wikipedia",
+          "note": "1984 American film by Wes Craven"
+        }
+      ],
+      "episode_key": "385-a-nightmare-on-elm-street",
+      "episode_title": "A Nightmare on Elm Street"
+    },
+    {
+      "name": "Friday the 13th",
+      "kind": "film_tv_music",
+      "description": "Slasher film series cited as another inspiration for the game's teen-horror setup.",
+      "timestamp": "09:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Friday_the_13th_(franchise)",
+          "label": "Wikipedia: Friday the 13th (franchise)",
+          "source": "wikipedia",
+          "note": "American horror franchise"
+        }
+      ],
+      "episode_key": "161-friday-the-13th",
+      "episode_title": "Friday the 13th"
+    },
+    {
+      "name": "Wes Craven",
+      "kind": "person",
+      "description": "Director of A Nightmare on Elm Street, whose film the hosts call campy.",
+      "timestamp": "10:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wes_Craven",
+          "label": "Wikipedia: Wes Craven",
+          "source": "wikipedia",
+          "note": "American filmmaker (1939–2015)"
+        }
+      ]
+    },
+    {
+      "name": "Scary Movie",
+      "kind": "film_tv_music",
+      "description": "Horror parody film used to describe the game's slapstick tone.",
+      "timestamp": "10:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Scary_Movie",
+          "label": "Wikipedia: Scary Movie",
+          "source": "wikipedia",
+          "note": "2000 film by Keenen Ivory Wayans"
+        }
+      ]
+    },
+    {
+      "name": "Sweet Home",
+      "kind": "game",
+      "description": "Horror game the hosts covered on their other podcast, a more straight horror contrast.",
+      "timestamp": "11:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sweet_Home_(video_game)",
+          "label": "Wikipedia: Sweet Home (video game)",
+          "source": "wikipedia",
+          "note": "1989 role-playing video game"
+        }
+      ],
+      "episode_key": "nb-022-sweet-home",
+      "episode_title": "Sweet Home"
+    },
+    {
+      "name": "Nintendo",
+      "kind": "company",
+      "description": "The company that required censorship of Maniac Mansion, though it missed the microwave hamster.",
+      "timestamp": "12:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo",
+          "label": "Wikipedia: Nintendo",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "The magazine that put Maniac Mansion on its cover and offered a $7.95 hint book.",
+      "timestamp": "20:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        }
+      ]
+    },
+    {
+      "name": "Maniac Mansion (TV series)",
+      "kind": "film_tv_music",
+      "description": "The 1990 comedy series based on the game, which ran three seasons.",
+      "timestamp": "37:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Maniac_Mansion_(TV_series)",
+          "label": "Wikipedia: Maniac Mansion (TV series)",
+          "source": "wikipedia",
+          "note": "1990 Canadian American television sitcom"
+        }
+      ]
+    },
+    {
+      "name": "Eugene Levy",
+      "kind": "person",
+      "description": "Actor and comedy figure involved in the Maniac Mansion TV show.",
+      "timestamp": "38:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eugene_Levy",
+          "label": "Wikipedia: Eugene Levy",
+          "source": "wikipedia",
+          "note": "Canadian actor and comedian (born 1946)"
+        }
+      ]
+    },
+    {
+      "name": "Twin Peaks",
+      "kind": "film_tv_music",
+      "description": "Surreal 1990 TV series compared to the Maniac Mansion show's meta tone.",
+      "timestamp": "39:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Twin_Peaks",
+          "label": "Wikipedia: Twin Peaks",
+          "source": "wikipedia",
+          "note": "American drama television series (1990–91, 2017)"
+        }
+      ]
+    },
+    {
+      "name": "Back to the Future",
+      "kind": "film_tv_music",
+      "description": "Film joked about for the idea of having a TV in every room.",
+      "timestamp": "40:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+          "label": "Wikipedia: Back to the Future",
+          "source": "wikipedia",
+          "note": "1985 film by Robert Zemeckis"
+        }
+      ],
+      "episode_key": "212-back-to-the-future",
+      "episode_title": "Back to the Future"
+    },
+    {
+      "name": "ZX Spectrum",
+      "kind": "hardware",
+      "description": "British home computer mentioned when asking how many people had gaming computers.",
+      "timestamp": "41:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/ZX_Spectrum",
+          "label": "Wikipedia: ZX Spectrum",
+          "source": "wikipedia",
+          "note": "1982 home computer"
+        }
+      ]
+    },
+    {
+      "name": "Windows 95",
+      "kind": "other",
+      "description": "The operating system that finally gave one host a computer able to play games.",
+      "timestamp": "41:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Windows_95",
+          "label": "Wikipedia: Windows 95",
+          "source": "wikipedia",
+          "note": "1995 Microsoft operating system version"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy",
+      "kind": "hardware",
+      "description": "Nintendo handheld the Famicom version's art looks similar to.",
+      "timestamp": "44:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy",
+          "label": "Wikipedia: Game Boy",
+          "source": "wikipedia",
+          "note": "Handheld Nintendo game console"
+        }
+      ]
+    },
+    {
+      "name": "Super Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "Console whose games reportedly sold for as much as $80.",
+      "timestamp": "47:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+          "label": "Wikipedia: Super Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo 64",
+      "kind": "hardware",
+      "description": "Console whose games were around $50 and later got pricier.",
+      "timestamp": "47:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_64",
+          "label": "Wikipedia: Nintendo 64",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation",
+      "kind": "hardware",
+      "description": "Console whose games were typically $50 in the hosts' memory.",
+      "timestamp": "47:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/PlayStation_(console)",
+          "label": "Wikipedia: PlayStation (console)",
+          "source": "wikipedia",
+          "note": "Home video game console by Sony"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation 3",
+      "kind": "hardware",
+      "description": "Console era when game prices rose to $60.",
+      "timestamp": "47:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/PlayStation_3",
+          "label": "Wikipedia: PlayStation 3",
+          "source": "wikipedia",
+          "note": "Home video game console by Sony"
+        }
+      ]
+    },
+    {
+      "name": "Grand Theft Auto VI",
+      "kind": "game",
+      "description": "Upcoming Rockstar game used in a debate about $100 games.",
+      "timestamp": "48:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "label": "Wikipedia: Grand Theft Auto VI",
+          "source": "wikipedia",
+          "note": "Upcoming video game"
+        }
+      ]
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "kind": "game",
+      "description": "Rockstar game one host would pay $100 for.",
+      "timestamp": "49:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
+          "label": "Wikipedia: Red Dead Redemption 2",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        }
+      ]
+    },
+    {
+      "name": "Rockstar Games",
+      "kind": "company",
+      "description": "Publisher whose scale of games might justify higher prices.",
+      "timestamp": "49:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rockstar_Games",
+          "label": "Wikipedia: Rockstar Games",
+          "source": "wikipedia",
+          "note": "American video game publisher"
+        }
+      ]
+    },
+    {
+      "name": "Assassin's Creed",
+      "kind": "game",
+      "description": "Series used as an example of games not worth $100.",
+      "timestamp": "49:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Assassin's_Creed",
+          "label": "Wikipedia: Assassin's Creed",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Cutscene",
+      "kind": "event_or_term",
+      "description": "Term credited to Ron Gilbert's Maniac Mansion, whose manual explains what a cutscene is.",
+      "timestamp": "50:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cutscene",
+          "label": "Wikipedia: Cutscene",
+          "source": "wikipedia",
+          "note": "Sequence in a video game that is not interactive, breaking up the gameplay"
+        }
+      ]
+    },
+    {
+      "name": "Tommy Pickles",
+      "kind": "person",
+      "description": "The baby leader of the Rugrats, compared to Dave as the group's leader.",
+      "timestamp": "1:02:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tommy_Pickles",
+          "label": "Wikipedia: Tommy Pickles",
+          "source": "wikipedia",
+          "note": "Fictional character in the Rugrats franchise"
+        }
+      ]
+    },
+    {
+      "name": "Myst",
+      "kind": "game",
+      "description": "Adventure game one host could not stand playing on a PlayStation controller.",
+      "timestamp": "1:05:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Myst",
+          "label": "Wikipedia: Myst",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mission: Impossible",
+      "kind": "game",
+      "description": "Next week's NES game.",
+      "timestamp": "1:09:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mission%3A_Impossible_(1990_video_game)",
+          "label": "Wikipedia: Mission: Impossible (1990 video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "368-mission-impossible",
+      "episode_title": "Mission: Impossible"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's running vote on which NES games are essential.",
+      "timestamp": "04:16",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "episode": 58,
+  "title": "058 - The Legend of Zelda",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "0751088dcc3d",
+  "items": [
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "The episode's game: Nintendo's 1986 open-world action-adventure about Link and Princess Zelda.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ]
+    },
+    {
+      "name": "Shigeru Miyamoto",
+      "kind": "person",
+      "description": "Co-creator of Zelda and Super Mario Bros., quoted from several developer interviews.",
+      "timestamp": "06:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shigeru_Miyamoto",
+          "label": "Wikipedia: Shigeru Miyamoto",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1952)"
+        }
+      ]
+    },
+    {
+      "name": "Takashi Tezuka",
+      "kind": "person",
+      "description": "Co-designer of Zelda and Super Mario Bros. alongside Miyamoto.",
+      "timestamp": "06:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Takashi_Tezuka",
+          "label": "Wikipedia: Takashi Tezuka",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1960)"
+        }
+      ]
+    },
+    {
+      "name": "Koji Kondo",
+      "kind": "person",
+      "description": "Composer of Zelda's overworld and dungeon themes, written very late in development.",
+      "timestamp": "07:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Koji_Kondo",
+          "label": "Wikipedia: Koji Kondo",
+          "source": "wikipedia",
+          "note": "Japanese musician (born 1961)"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Developed at the same time as Zelda and used as a point of comparison.",
+      "timestamp": "02:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "kind": "game",
+      "description": "The 2017 Zelda that echoes the original's freedom of exploration and has Lynels and a hidden tribute island.",
+      "timestamp": "01:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Breath_of_the_Wild",
+          "label": "Wikipedia: The Legend of Zelda: Breath of the Wild",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "kind": "game",
+      "description": "The 1998 Nintendo 64 Zelda, a first Zelda for many players.",
+      "timestamp": "02:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Ocarina_of_Time",
+          "label": "Wikipedia: The Legend of Zelda: Ocarina of Time",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Majora's Mask",
+      "kind": "game",
+      "description": "The Ocarina of Time follow-up with a three-day time mechanic.",
+      "timestamp": "02:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Majora's_Mask",
+          "label": "Wikipedia: The Legend of Zelda: Majora's Mask",
+          "source": "wikipedia",
+          "note": "2000 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: The Minish Cap",
+      "kind": "game",
+      "description": "The Capcom-developed Game Boy Advance Zelda with a talking hat that gives vague hints.",
+      "timestamp": "03:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_The_Minish_Cap",
+          "label": "Wikipedia: The Legend of Zelda: The Minish Cap",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        }
+      ]
+    },
+    {
+      "name": "Capcom",
+      "kind": "company",
+      "description": "The developer behind The Minish Cap, not Nintendo.",
+      "timestamp": "03:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Capcom",
+          "label": "Wikipedia: Capcom",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Ubisoft",
+      "kind": "company",
+      "description": "Publisher that some fans float as a possible Zelda developer after its Mario crossover.",
+      "timestamp": "03:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ubisoft",
+          "label": "Wikipedia: Ubisoft",
+          "source": "wikipedia",
+          "note": "French video game company"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Twilight Princess",
+      "kind": "game",
+      "description": "A later Zelda whose final boss Zant is mentioned.",
+      "timestamp": "03:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Twilight_Princess",
+          "label": "Wikipedia: The Legend of Zelda: Twilight Princess",
+          "source": "wikipedia",
+          "note": "2006 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario 64",
+      "kind": "game",
+      "description": "The Nintendo 64 launch game that preceded Ocarina of Time.",
+      "timestamp": "04:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_64",
+          "label": "Wikipedia: Super Mario 64",
+          "source": "wikipedia",
+          "note": "1996 video game"
+        }
+      ]
+    },
+    {
+      "name": "Famicom Disk System",
+      "kind": "hardware",
+      "description": "Nintendo's Japanese disk add-on, which Zelda was meant to launch and which saved games to disk.",
+      "timestamp": "05:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Famicom_Disk_System",
+          "label": "Wikipedia: Famicom Disk System",
+          "source": "wikipedia",
+          "note": "Video game console peripheral"
+        }
+      ]
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "Last week's episode, with its larger soundtrack and similar item-gated exploration.",
+      "timestamp": "07:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "Dungeons & Dragons",
+      "kind": "other",
+      "description": "The tabletop RPG the manual's art and the NES-era RPG scene are compared with.",
+      "timestamp": "12:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons",
+          "label": "Wikipedia: Dungeons & Dragons",
+          "source": "wikipedia",
+          "note": "Fantasy role-playing game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy",
+      "kind": "game",
+      "description": "The RPG series that debuted in Japan in 1987 but reached North America in 1990.",
+      "timestamp": "12:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)",
+          "label": "Wikipedia: Final Fantasy (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "341-final-fantasy",
+      "episode_title": "Final Fantasy"
+    },
+    {
+      "name": "Kid Icarus",
+      "kind": "game",
+      "description": "An earlier game where you could shout into the Famicom microphone to haggle prices.",
+      "timestamp": "15:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kid_Icarus",
+          "label": "Wikipedia: Kid Icarus",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "048-kid-icarus",
+      "episode_title": "KID ICARUS"
+    },
+    {
+      "name": "Rygar",
+      "kind": "game",
+      "description": "An earlier NES action game with light RPG elements and a gated raft or grappling hook.",
+      "timestamp": "19:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rygar",
+          "label": "Wikipedia: Rygar",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "050-rygar",
+      "episode_title": "RYGAR"
+    },
+    {
+      "name": "Assassin's Creed",
+      "kind": "game",
+      "description": "Cited as an example of a modern third-person action game with RPG elements.",
+      "timestamp": "22:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Assassin's_Creed",
+          "label": "Wikipedia: Assassin's Creed",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Pokémon",
+      "kind": "game",
+      "description": "Used in the debate over whether a game is an RPG or a JRPG.",
+      "timestamp": "22:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)",
+          "label": "Wikipedia: Pokémon (video game series)",
+          "source": "wikipedia",
+          "note": "Japanese video game series"
+        }
+      ]
+    },
+    {
+      "name": "Pokémon Blue",
+      "kind": "game",
+      "description": "The 1998 game a listener says they could not start because they avoided the grass.",
+      "timestamp": "27:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red%2C_Blue%2C_and_Yellow",
+          "label": "Wikipedia: Pokémon Red, Blue, and Yellow",
+          "source": "wikipedia",
+          "note": "1996 video games"
+        }
+      ]
+    },
+    {
+      "name": "Ganon",
+      "kind": "other",
+      "description": "The pig-like villain of the game, spelled 'Ganon' in the title crawl, and his human form Ganondorf.",
+      "timestamp": "1:06:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ganon",
+          "label": "Wikipedia: Ganon",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Solomon's Key",
+      "kind": "game",
+      "description": "An earlier NES puzzle game in the debate about looking up solutions.",
+      "timestamp": "1:00:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Solomon's_Key",
+          "label": "Wikipedia: Solomon's Key",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "052-solomons-key",
+      "episode_title": "SOLOMON’S KEY"
+    },
+    {
+      "name": "P.T.",
+      "kind": "game",
+      "description": "The Silent Hills teaser whose puzzle needed the community to solve.",
+      "timestamp": "46:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/P.T._(video_game)",
+          "label": "Wikipedia: P.T. (video game)",
+          "source": "wikipedia",
+          "note": "2014 video game"
+        }
+      ]
+    },
+    {
+      "name": "GameFAQs",
+      "kind": "website_or_article",
+      "description": "The walkthrough site that players use when stuck.",
+      "timestamp": "58:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/GameFAQs",
+          "label": "Wikipedia: GameFAQs",
+          "source": "wikipedia",
+          "note": "Video game website"
+        }
+      ]
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "The direct NES sequel, completely different from the first game.",
+      "timestamp": "1:35:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "Hyrule Warriors",
+      "kind": "game",
+      "description": "A Musou-style spinoff with Zelda characters.",
+      "timestamp": "1:35:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hyrule_Warriors",
+          "label": "Wikipedia: Hyrule Warriors",
+          "source": "wikipedia",
+          "note": "2014 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Tri Force Heroes",
+      "kind": "game",
+      "description": "The three-player 3DS Zelda spinoff.",
+      "timestamp": "1:36:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Tri_Force_Heroes",
+          "label": "Wikipedia: The Legend of Zelda: Tri Force Heroes",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ]
+    },
+    {
+      "name": "Soulcalibur II",
+      "kind": "game",
+      "description": "Fighting game where Link appears as a playable guest.",
+      "timestamp": "1:36:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Soulcalibur_II",
+          "label": "Wikipedia: Soulcalibur II",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: The Wind Waker",
+      "kind": "game",
+      "description": "The cel-shaded Zelda that gave Link another look.",
+      "timestamp": "1:36:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_The_Wind_Waker",
+          "label": "Wikipedia: The Legend of Zelda: The Wind Waker",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "kind": "game",
+      "description": "The Super Nintendo Zelda that Miyamoto's first interview reflects on.",
+      "timestamp": "1:22:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_A_Link_to_the_Past",
+          "label": "Wikipedia: The Legend of Zelda: A Link to the Past",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Skyward Sword",
+      "kind": "game",
+      "description": "The game that introduces Demise and the eternal cycle of Link, Zelda and a villain.",
+      "timestamp": "1:14:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Skyward_Sword",
+          "label": "Wikipedia: The Legend of Zelda: Skyward Sword",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "BioShock Infinite",
+      "kind": "game",
+      "description": "Brought up in a joke about its cyclical story.",
+      "timestamp": "1:14:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/BioShock_Infinite",
+          "label": "Wikipedia: BioShock Infinite",
+          "source": "wikipedia",
+          "note": "2013 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Switch Online",
+      "kind": "website_or_article",
+      "description": "Nintendo's subscription service, which offers the Zelda SP edition.",
+      "timestamp": "1:39:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Switch_Online",
+          "label": "Wikipedia: Nintendo Switch Online",
+          "source": "wikipedia",
+          "note": "Suite of online services for the Nintendo Switch & Nintendo Switch 2"
+        }
+      ]
+    },
+    {
+      "name": "Virtual Console",
+      "kind": "hardware",
+      "description": "Nintendo's download service where Zelda has been re-released.",
+      "timestamp": "1:39:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Virtual_Console",
+          "label": "Wikipedia: Virtual Console",
+          "source": "wikipedia",
+          "note": "Line of downloadable video games for several Nintendo platforms"
+        }
+      ]
+    },
+    {
+      "name": "BS The Legend of Zelda",
+      "kind": "game",
+      "description": "The Satellaview broadcast remake with a Link to the Past style, playable only at set hours.",
+      "timestamp": "1:41:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Satellaview_games_from_The_Legend_of_Zelda_series",
+          "label": "Wikipedia: Satellaview games from The Legend of Zelda series",
+          "source": "wikipedia",
+          "note": "1995 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario All-Stars",
+      "kind": "game",
+      "description": "The 16-bit remake collection compared with the Satellaview Zelda.",
+      "timestamp": "1:41:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_All-Stars",
+          "label": "Wikipedia: Super Mario All-Stars",
+          "source": "wikipedia",
+          "note": "1993 video game compilation"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "The magazine that took over from the Nintendo Fun Club newsletter.",
+      "timestamp": "1:20:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        }
+      ]
+    },
+    {
+      "name": "NES Classic Edition",
+      "kind": "hardware",
+      "description": "The mini console whose developer interviews are quoted.",
+      "timestamp": "1:31:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NES_Classic_Edition",
+          "label": "Wikipedia: NES Classic Edition",
+          "source": "wikipedia",
+          "note": "Home video game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "The Binding of Isaac",
+      "kind": "game",
+      "description": "A randomized dungeon game said to be built on Zelda's dungeons.",
+      "timestamp": "1:52:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game)",
+          "label": "Wikipedia: The Binding of Isaac (video game)",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "kind": "game",
+      "description": "Cited when debating whether open-world games let you go anywhere from the start.",
+      "timestamp": "1:53:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+          "label": "Wikipedia: Grand Theft Auto V",
+          "source": "wikipedia",
+          "note": "2013 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Quest",
+      "kind": "game",
+      "description": "The Japanese RPG series, existing alongside Final Fantasy by Miyamoto's interview.",
+      "timestamp": "1:30:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Quest",
+          "label": "Wikipedia: Dragon Quest",
+          "source": "wikipedia",
+          "note": "Japanese video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of NES games still worth playing, voted on at episode end.",
+      "timestamp": "1:44:51",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

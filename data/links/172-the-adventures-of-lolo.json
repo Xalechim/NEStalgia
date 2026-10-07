@@ -1,0 +1,429 @@
+{
+  "episode": 172,
+  "title": "172 - The Adventures of Lolo",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "78de54097eb2",
+  "items": [
+    {
+      "name": "The Adventures of Lolo",
+      "kind": "game",
+      "description": "The episode's game: HAL Laboratory's top-down block-pushing puzzle game where Lolo collects hearts and escapes each room.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adventures_of_Lolo",
+          "label": "Wikipedia: Adventures of Lolo",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Gumshoe",
+      "kind": "game",
+      "description": "Earlier NES game suggested as a possible earlier feel-good game.",
+      "timestamp": "00:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gumshoe_(video_game)",
+          "label": "Wikipedia: Gumshoe (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "025-gumshoe",
+      "episode_title": "GUMSHOE"
+    },
+    {
+      "name": "Solomon's Key",
+      "kind": "game",
+      "description": "Earlier NES puzzle game the hosts say Lolo improves on in puzzle design.",
+      "timestamp": "02:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Solomon's_Key",
+          "label": "Wikipedia: Solomon's Key",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "052-solomons-key",
+      "episode_title": "SOLOMON’S KEY"
+    },
+    {
+      "name": "Braid",
+      "kind": "game",
+      "description": "Indie puzzle-platformer that got one host into puzzle games.",
+      "timestamp": "04:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Braid_(video_game)",
+          "label": "Wikipedia: Braid (video game)",
+          "source": "wikipedia",
+          "note": "2008 puzzle platform video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Its dungeon block puzzles are compared to Lolo's one-screen rooms.",
+      "timestamp": "03:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Portal",
+      "kind": "game",
+      "description": "Valve puzzle game compared to Lolo for its self-contained rooms.",
+      "timestamp": "06:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Portal_(video_game)",
+          "label": "Wikipedia: Portal (video game)",
+          "source": "wikipedia",
+          "note": "2007 video game"
+        }
+      ]
+    },
+    {
+      "name": "Wrecking Crew",
+      "kind": "game",
+      "description": "Earlier NES puzzle game compared to Lolo for puzzle satisfaction.",
+      "timestamp": "14:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wrecking_Crew_(video_game)",
+          "label": "Wikipedia: Wrecking Crew (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "017-wrecking-crew",
+      "episode_title": "WRECKING CREW"
+    },
+    {
+      "name": "Mark Brown / Game Maker's Toolkit",
+      "kind": "person",
+      "description": "YouTuber whose video on puzzle games and perfect information a host recalls.",
+      "timestamp": "17:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Maker's_Toolkit",
+          "label": "Wikipedia: Game Maker's Toolkit",
+          "source": "wikipedia",
+          "note": "YouTube channel about videogame design"
+        }
+      ]
+    },
+    {
+      "name": "HAL Laboratory",
+      "kind": "company",
+      "description": "The developer of Lolo and the Kirby series.",
+      "timestamp": "22:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/HAL_Laboratory",
+          "label": "Wikipedia: HAL Laboratory",
+          "source": "wikipedia",
+          "note": "Japanese video game developer"
+        }
+      ]
+    },
+    {
+      "name": "Kirby",
+      "kind": "other",
+      "description": "Nintendo mascot whose extra-life jingle and round design resemble Lolo's.",
+      "timestamp": "22:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirby_(series)",
+          "label": "Wikipedia: Kirby (series)",
+          "source": "wikipedia",
+          "note": "Multimedia franchise owned by HAL Laboratory"
+        }
+      ]
+    },
+    {
+      "name": "Pac-Man",
+      "kind": "game",
+      "description": "Namco classic used in a joke about re-skinning Lolo as a Pac-Man puzzle game.",
+      "timestamp": "25:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pac-Man",
+          "label": "Wikipedia: Pac-Man",
+          "source": "wikipedia",
+          "note": "1980 video game"
+        }
+      ],
+      "episode_key": "129-pac-man",
+      "episode_title": "PAC-MAN"
+    },
+    {
+      "name": "Namco",
+      "kind": "company",
+      "description": "Pac-Man's company, jokingly pitched a Lolo re-skin.",
+      "timestamp": "25:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Namco",
+          "label": "Wikipedia: Namco",
+          "source": "wikipedia",
+          "note": "Japanese video game developer and publisher"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Used to joke about counting levels as eight worlds of four.",
+      "timestamp": "27:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "The Washington Post",
+      "kind": "website_or_article",
+      "description": "The newspaper whose article on Nintendo fever quoted Nintendo on Lolo and kids' imaginations.",
+      "timestamp": "29:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Washington_Post",
+          "label": "Wikipedia: The Washington Post",
+          "source": "wikipedia",
+          "note": "American daily newspaper"
+        }
+      ]
+    },
+    {
+      "name": "Eggerland",
+      "kind": "game",
+      "description": "The Famicom series that Lolo's levels were drawn from; the Japanese original.",
+      "timestamp": "31:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eggerland",
+          "label": "Wikipedia: Eggerland",
+          "source": "wikipedia",
+          "note": "Series of puzzle video games"
+        }
+      ]
+    },
+    {
+      "name": "Adventures of Lolo 2",
+      "kind": "game",
+      "description": "The next NES sequel; Adventures of Lolo 3 follows.",
+      "timestamp": "32:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adventures_of_Lolo_2",
+          "label": "Wikipedia: Adventures of Lolo 2",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kirby's Dream Land",
+      "kind": "game",
+      "description": "Early Kirby game where Lolo and Lala are said to appear; one host played the Game Boy Advance remake.",
+      "timestamp": "32:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirby's_Dream_Land",
+          "label": "Wikipedia: Kirby's Dream Land",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy Advance",
+      "kind": "hardware",
+      "description": "Platform for the remake of the first Kirby game that a host played.",
+      "timestamp": "32:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy_Advance",
+          "label": "Wikipedia: Game Boy Advance",
+          "source": "wikipedia",
+          "note": "Handheld game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of essential NES games; Lolo was voted on.",
+      "timestamp": "34:19",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Marble Madness",
+      "kind": "game",
+      "description": "Earlier episode where votes split.",
+      "timestamp": "39:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Marble_Madness",
+          "label": "Wikipedia: Marble Madness",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "169-marble-madness",
+      "episode_title": "Marble Madness"
+    },
+    {
+      "name": "Tecmo Bowl",
+      "kind": "game",
+      "description": "Earlier episode where a vote was overruled.",
+      "timestamp": "39:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo_Bowl",
+          "label": "Wikipedia: Tecmo Bowl",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "164-tecmo-bowl",
+      "episode_title": "TECMO BOWL"
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "Earlier episode whose Essential vote still stings for one host.",
+      "timestamp": "39:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "Star Soldier",
+      "kind": "game",
+      "description": "Earlier NES shooter mentioned as a fun game that missed the Essential list.",
+      "timestamp": "40:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Soldier",
+          "label": "Wikipedia: Star Soldier",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "157-star-soldier",
+      "episode_title": "STAR SOLDIER"
+    },
+    {
+      "name": "Dragon Warrior",
+      "kind": "game",
+      "description": "One of the upcoming RPGs on the show's schedule.",
+      "timestamp": "41:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Quest_(video_game)",
+          "label": "Wikipedia: Dragon Quest (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "206-dragon-warrior",
+      "episode_title": "Dragon Warrior"
+    },
+    {
+      "name": "Mega Man 2",
+      "kind": "game",
+      "description": "Upcoming episode game.",
+      "timestamp": "41:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_2",
+          "label": "Wikipedia: Mega Man 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "190-mega-man-2",
+      "episode_title": "MEGA MAN 2"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles",
+      "kind": "game",
+      "description": "Upcoming episode game on the show's schedule.",
+      "timestamp": "41:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(NES_video_game)",
+          "label": "Wikipedia: Teenage Mutant Ninja Turtles (NES video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "195-teenage-mutant-ninja-turtles",
+      "episode_title": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "name": "Mystery Quest",
+      "kind": "game",
+      "description": "Upcoming episode game the hosts joke sounds like a mystery.",
+      "timestamp": "41:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mystery_Quest_(video_game)",
+          "label": "Wikipedia: Mystery Quest (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "179-mystery-quest",
+      "episode_title": "Mystery Quest"
+    },
+    {
+      "name": "Super Smash Bros.",
+      "kind": "game",
+      "description": "Mentioned in a joke about Lolo joining the roster.",
+      "timestamp": "31:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros.",
+          "label": "Wikipedia: Super Smash Bros.",
+          "source": "wikipedia",
+          "note": "Series of crossover fighting games"
+        }
+      ]
+    }
+  ]
+}

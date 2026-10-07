@@ -1,0 +1,637 @@
+{
+  "episode": 57,
+  "title": "057 - Metroid",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "f002b006d184",
+  "items": [
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "The episode's game: Nintendo's 1986 sci-fi exploration game starring bounty hunter Samus Aran.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mother Brain",
+      "kind": "other",
+      "description": "The final boss of Metroid, who controls the space pirates.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mother_Brain",
+          "label": "Wikipedia: Mother Brain",
+          "source": "wikipedia",
+          "note": "Video game villain"
+        }
+      ]
+    },
+    {
+      "name": "Samus Aran",
+      "kind": "other",
+      "description": "The bounty hunter hero, whose gender is a manual mystery and a reveal in the endings.",
+      "timestamp": "04:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Samus_Aran",
+          "label": "Wikipedia: Samus Aran",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Ridley",
+      "kind": "other",
+      "description": "One of Metroid's space pirate bosses, named after a film director.",
+      "timestamp": "10:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ridley_(Metroid)",
+          "label": "Wikipedia: Ridley (Metroid)",
+          "source": "wikipedia",
+          "note": "Metroid antagonist"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Next episode's game, released right after Metroid as a one-two punch from Nintendo.",
+      "timestamp": "00:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "An earlier big 1987 release the show covered and voted onto the Essential Games List.",
+      "timestamp": "00:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Kid Icarus",
+      "kind": "game",
+      "description": "Another recent Nintendo game, also on the Famicom Disk System, with a map item and timed endings.",
+      "timestamp": "00:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kid_Icarus",
+          "label": "Wikipedia: Kid Icarus",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "048-kid-icarus",
+      "episode_title": "KID ICARUS"
+    },
+    {
+      "name": "Rygar",
+      "kind": "game",
+      "description": "An earlier NES game with open-ended exploration, compared with Metroid's non-linearity.",
+      "timestamp": "00:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rygar",
+          "label": "Wikipedia: Rygar",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "050-rygar",
+      "episode_title": "RYGAR"
+    },
+    {
+      "name": "Metroid Prime",
+      "kind": "game",
+      "description": "The 3D GameCube Metroid, which sold well and unlocks the original Metroid as a bonus.",
+      "timestamp": "01:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_Prime",
+          "label": "Wikipedia: Metroid Prime",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "Metroid Prime 2: Echoes",
+      "kind": "game",
+      "description": "The sequel that sold about two million copies.",
+      "timestamp": "01:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_Prime_2%3A_Echoes",
+          "label": "Wikipedia: Metroid Prime 2: Echoes",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        }
+      ]
+    },
+    {
+      "name": "Retro Studios",
+      "kind": "company",
+      "description": "The developer of Metroid Prime, whose offices Miyamoto visited.",
+      "timestamp": "02:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Retro_Studios",
+          "label": "Wikipedia: Retro Studios",
+          "source": "wikipedia",
+          "note": "American video game developer"
+        }
+      ]
+    },
+    {
+      "name": "Shigeru Miyamoto",
+      "kind": "person",
+      "description": "Nintendo designer said to be puzzled by Metroid's popularity and not part of its making.",
+      "timestamp": "02:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shigeru_Miyamoto",
+          "label": "Wikipedia: Shigeru Miyamoto",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1952)"
+        }
+      ]
+    },
+    {
+      "name": "Famicom Disk System",
+      "kind": "hardware",
+      "description": "Nintendo's Japanese disk add-on where Metroid launched with saving and extra sound channels.",
+      "timestamp": "05:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Famicom_Disk_System",
+          "label": "Wikipedia: Famicom Disk System",
+          "source": "wikipedia",
+          "note": "Video game console peripheral"
+        }
+      ]
+    },
+    {
+      "name": "Yoshio Sakamoto",
+      "kind": "person",
+      "description": "Artist and director who joined Metroid's development in its last three months.",
+      "timestamp": "08:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yoshio_Sakamoto",
+          "label": "Wikipedia: Yoshio Sakamoto",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1959)"
+        }
+      ]
+    },
+    {
+      "name": "Hiroji Kiyotake",
+      "kind": "person",
+      "description": "Character designer on Metroid, who named Samus Aran after a mispronunciation.",
+      "timestamp": "08:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hiroji_Kiyotake",
+          "label": "Wikipedia: Hiroji Kiyotake",
+          "source": "wikipedia",
+          "note": "Japanese game designer"
+        }
+      ]
+    },
+    {
+      "name": "Gunpei Yokoi",
+      "kind": "person",
+      "description": "Producer of Metroid and head of Nintendo's R&D1 team.",
+      "timestamp": "08:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gunpei_Yokoi",
+          "label": "Wikipedia: Gunpei Yokoi",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (1941–1997)"
+        }
+      ]
+    },
+    {
+      "name": "Game & Watch",
+      "kind": "hardware",
+      "description": "Nintendo's LCD handhelds, the only prior work of Metroid's two young developers.",
+      "timestamp": "08:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_%26_Watch",
+          "label": "Wikipedia: Game & Watch",
+          "source": "wikipedia",
+          "note": "Series of handheld electronic games by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Wrecking Crew",
+      "kind": "game",
+      "description": "An earlier Nintendo game that Sakamoto worked on.",
+      "timestamp": "08:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wrecking_Crew_(video_game)",
+          "label": "Wikipedia: Wrecking Crew (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "017-wrecking-crew",
+      "episode_title": "WRECKING CREW"
+    },
+    {
+      "name": "Satoru Okada",
+      "kind": "person",
+      "description": "Director of Kid Icarus who also directed Metroid.",
+      "timestamp": "09:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Satoru_Okada",
+          "label": "Wikipedia: Satoru Okada",
+          "source": "wikipedia",
+          "note": "Former general manager of Nintendo Research & Engineering"
+        }
+      ]
+    },
+    {
+      "name": "Hirokazu Tanaka",
+      "kind": "person",
+      "description": "Composer of Metroid's music and sound on Nintendo games of the era.",
+      "timestamp": "09:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hirokazu_Tanaka",
+          "label": "Wikipedia: Hirokazu Tanaka",
+          "source": "wikipedia",
+          "note": "Japanese video game composer"
+        }
+      ]
+    },
+    {
+      "name": "Kung Fu",
+      "kind": "game",
+      "description": "An earlier NES game whose go-left-instead-of-right start is compared with Metroid's opening.",
+      "timestamp": "12:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kung-Fu_Master_(video_game)",
+          "label": "Wikipedia: Kung-Fu Master (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "010-kung-fu",
+      "episode_title": "KUNG FU*"
+    },
+    {
+      "name": "Game Maker's Toolkit",
+      "kind": "website_or_article",
+      "description": "Mark Brown's YouTube series, including a video breaking down Metroid's opening tutorial.",
+      "timestamp": "12:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Maker's_Toolkit",
+          "label": "Wikipedia: Game Maker's Toolkit",
+          "source": "wikipedia",
+          "note": "YouTube channel about videogame design"
+        }
+      ]
+    },
+    {
+      "name": "Gradius",
+      "kind": "other",
+      "description": "Konami's earlier shooter, used to describe Metroid's level of polish.",
+      "timestamp": "18:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gradius",
+          "label": "Wikipedia: Gradius",
+          "source": "wikipedia",
+          "note": "Video game series by Konami"
+        }
+      ],
+      "episode_key": "035-gradius",
+      "episode_title": "GRADIUS"
+    },
+    {
+      "name": "Section Z",
+      "kind": "game",
+      "description": "An earlier NES shooter with an energy meter instead of one-hit deaths.",
+      "timestamp": "23:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Section_Z",
+          "label": "Wikipedia: Section Z",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "051-section-z",
+      "episode_title": "SECTION Z"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "The comparison point for movement, sliding and 'what Mario didn't have'.",
+      "timestamp": "00:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Super Metroid",
+      "kind": "game",
+      "description": "The Super Nintendo sequel and the next console Metroid entry.",
+      "timestamp": "15:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Metroid",
+          "label": "Wikipedia: Super Metroid",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Metroid: Samus Returns",
+      "kind": "game",
+      "description": "The 3DS remake of Metroid II, which adds an optional map scan.",
+      "timestamp": "33:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid%3A_Samus_Returns",
+          "label": "Wikipedia: Metroid: Samus Returns",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Metroid II: Return of Samus",
+      "kind": "game",
+      "description": "The Game Boy sequel, due in 1991, Samus's next game.",
+      "timestamp": "33:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_II%3A_Return_of_Samus",
+          "label": "Wikipedia: Metroid II: Return of Samus",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Metroid: Zero Mission",
+      "kind": "game",
+      "description": "The Game Boy Advance retelling of the original, with Metroid unlockable inside.",
+      "timestamp": "1:12:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid%3A_Zero_Mission",
+          "label": "Wikipedia: Metroid: Zero Mission",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        }
+      ]
+    },
+    {
+      "name": "Solomon's Key",
+      "kind": "game",
+      "description": "An earlier NES puzzle game in the hosts' debate about looking up solutions.",
+      "timestamp": "46:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Solomon's_Key",
+          "label": "Wikipedia: Solomon's Key",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "052-solomons-key",
+      "episode_title": "SOLOMON’S KEY"
+    },
+    {
+      "name": "Dark Souls",
+      "kind": "game",
+      "description": "Mentioned for its messages left by other players.",
+      "timestamp": "47:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dark_Souls_(video_game)",
+          "label": "Wikipedia: Dark Souls (video game)",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "Alien",
+      "kind": "film_tv_music",
+      "description": "The 1979 film cited as an inspiration for Metroid's look and story.",
+      "timestamp": "57:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alien_(film)",
+          "label": "Wikipedia: Alien (film)",
+          "source": "wikipedia",
+          "note": "1979 film by Ridley Scott"
+        }
+      ]
+    },
+    {
+      "name": "Pelé",
+      "kind": "person",
+      "description": "The footballer whose name Kiyotake mistakenly thought was Samus Arantes, inspiring Samus Aran.",
+      "timestamp": "1:04:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+          "label": "Wikipedia: Pelé",
+          "source": "wikipedia",
+          "note": "Brazilian footballer (1940–2022)"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "kind": "game",
+      "description": "Used to compare long modern development with the six-month original Zelda.",
+      "timestamp": "1:04:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Breath_of_the_Wild",
+          "label": "Wikipedia: The Legend of Zelda: Breath of the Wild",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Smash Bros. Melee",
+      "kind": "game",
+      "description": "Where Samus and a giant Kraid appear in Smash.",
+      "timestamp": "53:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee",
+          "label": "Wikipedia: Super Smash Bros. Melee",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Switch Online",
+      "kind": "website_or_article",
+      "description": "Nintendo's subscription service, where Metroid is playable.",
+      "timestamp": "48:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Switch_Online",
+          "label": "Wikipedia: Nintendo Switch Online",
+          "source": "wikipedia",
+          "note": "Suite of online services for the Nintendo Switch & Nintendo Switch 2"
+        }
+      ]
+    },
+    {
+      "name": "Virtual Console",
+      "kind": "hardware",
+      "description": "Nintendo's download service, another place to play Metroid.",
+      "timestamp": "1:14:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Virtual_Console",
+          "label": "Wikipedia: Virtual Console",
+          "source": "wikipedia",
+          "note": "Line of downloadable video games for several Nintendo platforms"
+        }
+      ]
+    },
+    {
+      "name": "NES Classic Edition",
+      "kind": "hardware",
+      "description": "The mini console whose 30th anniversary interview with the developers is quoted.",
+      "timestamp": "21:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NES_Classic_Edition",
+          "label": "Wikipedia: NES Classic Edition",
+          "source": "wikipedia",
+          "note": "Home video game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Slalom",
+      "kind": "game",
+      "description": "An earlier NES game that was voted onto the Essential Games List.",
+      "timestamp": "1:15:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Slalom_(video_game)",
+          "label": "Wikipedia: Slalom (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "039-slalom",
+      "episode_title": "SLALOM"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of games still worth playing, voted on at the end of each episode.",
+      "timestamp": "1:15:41",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Athena",
+      "kind": "game",
+      "description": "An earlier NES game compared on how it presents its female lead.",
+      "timestamp": "1:07:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Athena_(video_game)",
+          "label": "Wikipedia: Athena (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "054-athena",
+      "episode_title": "ATHENA"
+    },
+    {
+      "name": "Citizen Kane",
+      "kind": "film_tv_music",
+      "description": "The classic film some fans compare Metroid's reputation to.",
+      "timestamp": "1:24:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Citizen_Kane",
+          "label": "Wikipedia: Citizen Kane",
+          "source": "wikipedia",
+          "note": "1941 drama film by Orson Welles"
+        }
+      ]
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "game",
+      "description": "An earlier, harder NES game compared with Metroid's difficulty.",
+      "timestamp": "1:11:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins",
+          "label": "Wikipedia: Ghosts 'n Goblins",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    }
+  ]
+}

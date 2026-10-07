@@ -1,0 +1,458 @@
+{
+  "episode": 264,
+  "title": "264 - River City Ransom",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "98c550ebbb31",
+  "items": [
+    {
+      "name": "River City Ransom",
+      "kind": "game",
+      "description": "The episode's game: an open-world beat-'em-up with RPG-style shopping, set in River City, released by Technos.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/River_City_Ransom",
+          "label": "Wikipedia: River City Ransom",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kunio-kun",
+      "kind": "other",
+      "description": "The Japanese Technos series the hosts say River City Ransom, Renegade and Super Dodge Ball all come from.",
+      "timestamp": "02:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/River_City_(video_game_series)",
+          "label": "Wikipedia: River City (video game series)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Renegade",
+      "kind": "game",
+      "description": "Earlier Technos NES beat-'em-up from the Kunio-kun series, covered previously on the show.",
+      "timestamp": "02:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Renegade_(video_game)",
+          "label": "Wikipedia: Renegade (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "091-renegade",
+      "episode_title": "RENEGADE"
+    },
+    {
+      "name": "Super Dodge Ball",
+      "kind": "game",
+      "description": "Earlier Technos NES sports game from the Kunio-kun series, also set in River City.",
+      "timestamp": "02:36",
+      "links": [],
+      "episode_key": "201-super-dodge-ball",
+      "episode_title": "Super Dodge Ball"
+    },
+    {
+      "name": "Technos Japan",
+      "kind": "company",
+      "description": "Developer of River City Ransom, Double Dragon, Renegade and Super Dodge Ball.",
+      "timestamp": "22:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Techn%C5%8Ds_Japan",
+          "label": "Wikipedia: Technōs Japan",
+          "source": "wikipedia",
+          "note": "Japanese video game developer and publisher"
+        }
+      ]
+    },
+    {
+      "name": "Riverdale",
+      "kind": "film_tv_music",
+      "description": "The CW teen drama based on Archie Comics, joked about because of the River City name.",
+      "timestamp": "01:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Riverdale_(American_TV_series)",
+          "label": "Wikipedia: Riverdale (American TV series)",
+          "source": "wikipedia",
+          "note": "American teen drama television series (2017–2023)"
+        }
+      ]
+    },
+    {
+      "name": "Archie Comics",
+      "kind": "company",
+      "description": "Publisher of the comics that Riverdale is based on.",
+      "timestamp": "01:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Archie_Comics",
+          "label": "Wikipedia: Archie Comics",
+          "source": "wikipedia",
+          "note": "American comic book publisher"
+        }
+      ]
+    },
+    {
+      "name": "Arrested Development",
+      "kind": "film_tv_music",
+      "description": "TV comedy mentioned in a joke about characters checking themselves into jail.",
+      "timestamp": "02:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arrested_Development",
+          "label": "Wikipedia: Arrested Development",
+          "source": "wikipedia",
+          "note": "American television sitcom"
+        }
+      ]
+    },
+    {
+      "name": "Persona",
+      "kind": "other",
+      "description": "The Atlus series known for high-school life simulation, referenced as a different kind of high school game.",
+      "timestamp": "03:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Persona_(series)",
+          "label": "Wikipedia: Persona (series)",
+          "source": "wikipedia",
+          "note": "Japanese video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Retro City Rampage",
+      "kind": "game",
+      "description": "A 2012 parody game of 80s pop culture, the only other similarly named game one host recalled.",
+      "timestamp": "04:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Retro_City_Rampage",
+          "label": "Wikipedia: Retro City Rampage",
+          "source": "wikipedia",
+          "note": "2012 action-adventure video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Used as a comparison for how early games were linked into a shared universe.",
+      "timestamp": "04:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Double Dragon",
+      "kind": "game",
+      "description": "Technos's other beat-'em-up, compared for enemy design and its two-enemy-at-a-time limit.",
+      "timestamp": "16:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_(video_game)",
+          "label": "Wikipedia: Double Dragon (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "103-double-dragon",
+      "episode_title": "DOUBLE DRAGON"
+    },
+    {
+      "name": "Double Dragon II: The Revenge",
+      "kind": "game",
+      "description": "Previous Double Dragon episode game, and one of the games in the PC Engine collection.",
+      "timestamp": "46:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_II%3A_The_Revenge_(NES_video_game)",
+          "label": "Wikipedia: Double Dragon II: The Revenge (NES video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Yakuza",
+      "kind": "other",
+      "description": "Sega action-adventure series compared for buying food and items to boost stats.",
+      "timestamp": "14:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yakuza_(franchise)",
+          "label": "Wikipedia: Yakuza (franchise)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "The Warriors",
+      "kind": "film_tv_music",
+      "description": "1979 film about rival street gangs, compared to River City Ransom's themed gangs.",
+      "timestamp": "15:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Warriors_(film)",
+          "label": "Wikipedia: The Warriors (film)",
+          "source": "wikipedia",
+          "note": "1979 American action thriller film by Walter Hill"
+        }
+      ]
+    },
+    {
+      "name": "EarthBound",
+      "kind": "game",
+      "description": "RPG cited for its everyday, normal-world setting with game mechanics layered on top.",
+      "timestamp": "21:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/EarthBound",
+          "label": "Wikipedia: EarthBound",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "kind": "game",
+      "description": "Used as a joke about role-playing strictly, like waiting to be bitten by a vampire.",
+      "timestamp": "40:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V%3A_Skyrim",
+          "label": "Wikipedia: The Elder Scrolls V: Skyrim",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "Simon Belmont",
+      "kind": "other",
+      "description": "The whip-wielding Castlevania hero, referenced when talking about the long chain weapon.",
+      "timestamp": "36:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Simon_Belmont",
+          "label": "Wikipedia: Simon Belmont",
+          "source": "wikipedia",
+          "note": "Castlevania series character"
+        }
+      ]
+    },
+    {
+      "name": "GameFAQs",
+      "kind": "website_or_article",
+      "description": "Game guide site that lists River City Ransom's item stats.",
+      "timestamp": "32:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/GameFAQs",
+          "label": "Wikipedia: GameFAQs",
+          "source": "wikipedia",
+          "note": "Video game website"
+        }
+      ]
+    },
+    {
+      "name": "Sharp X68000",
+      "kind": "hardware",
+      "description": "Japanese home computer that received an enhanced port with three enemies on screen.",
+      "timestamp": "44:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/X68000",
+          "label": "Wikipedia: X68000",
+          "source": "wikipedia",
+          "note": "1987 home computer"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo 64DD",
+      "kind": "hardware",
+      "description": "Japan-only disk drive add-on for the N64, brought up as a comparison.",
+      "timestamp": "45:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/64DD",
+          "label": "Wikipedia: 64DD",
+          "source": "wikipedia",
+          "note": "Video game peripheral"
+        }
+      ]
+    },
+    {
+      "name": "Super NES CD-ROM",
+      "kind": "hardware",
+      "description": "The canceled Nintendo and Sony CD add-on, the so-called Nintendo PlayStation.",
+      "timestamp": "46:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_NES_CD-ROM",
+          "label": "Wikipedia: Super NES CD-ROM",
+          "source": "wikipedia",
+          "note": "Unreleased video game platform"
+        }
+      ]
+    },
+    {
+      "name": "TurboGrafx-16",
+      "kind": "hardware",
+      "description": "The North American name of the PC Engine.",
+      "timestamp": "46:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/TurboGrafx-16",
+          "label": "Wikipedia: TurboGrafx-16",
+          "source": "wikipedia",
+          "note": "Fourth-generation home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Sega CD",
+      "kind": "hardware",
+      "description": "CD add-on for the Genesis, compared to the PC Engine Super CD-ROM.",
+      "timestamp": "46:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sega_CD",
+          "label": "Wikipedia: Sega CD",
+          "source": "wikipedia",
+          "note": "Video game console add-on"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy Advance",
+      "kind": "hardware",
+      "description": "Nintendo handheld that got River City Ransom EX and sparked a closing debate.",
+      "timestamp": "47:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy_Advance",
+          "label": "Wikipedia: Game Boy Advance",
+          "source": "wikipedia",
+          "note": "Handheld game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Ben 10",
+      "kind": "film_tv_music",
+      "description": "Cartoon the hosts compare the EX box art style to.",
+      "timestamp": "48:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ben_10",
+          "label": "Wikipedia: Ben 10",
+          "source": "wikipedia",
+          "note": "American animation media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Samurai Jack",
+      "kind": "film_tv_music",
+      "description": "Cartoon the hosts compare the EX box art style to.",
+      "timestamp": "48:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Samurai_Jack",
+          "label": "Wikipedia: Samurai Jack",
+          "source": "wikipedia",
+          "note": "American animated television series"
+        }
+      ]
+    },
+    {
+      "name": "ChatGPT",
+      "kind": "other",
+      "description": "AI chatbot joked about as a computer-controlled co-op partner.",
+      "timestamp": "48:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/ChatGPT",
+          "label": "Wikipedia: ChatGPT",
+          "source": "wikipedia",
+          "note": "Generative AI chatbot by OpenAI"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy",
+      "kind": "hardware",
+      "description": "Nintendo's original handheld, compared with the Game Boy Advance in the closing debate.",
+      "timestamp": "55:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy",
+          "label": "Wikipedia: Game Boy",
+          "source": "wikipedia",
+          "note": "Handheld Nintendo game console"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo DS",
+      "kind": "hardware",
+      "description": "Handheld one host looks at more fondly than the Game Boy Advance.",
+      "timestamp": "55:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_DS",
+          "label": "Wikipedia: Nintendo DS",
+          "source": "wikipedia",
+          "note": "Handheld game console"
+        }
+      ]
+    },
+    {
+      "name": "Nintendogs",
+      "kind": "game",
+      "description": "Joked about as a Nintendo game with no equivalent in a console-versus-console podcast.",
+      "timestamp": "55:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendogs",
+          "label": "Wikipedia: Nintendogs",
+          "source": "wikipedia",
+          "note": "2005 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; River City Ransom was voted onto it.",
+      "timestamp": "50:19",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

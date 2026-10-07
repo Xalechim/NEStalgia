@@ -1,0 +1,640 @@
+{
+  "episode": 409,
+  "title": "409 - Jackie Chan's Action Kung Fu",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "4dbf01a00ab3",
+  "items": [
+    {
+      "name": "Jackie Chan's Action Kung Fu",
+      "kind": "game",
+      "description": "The episode's game: a cute side-scrolling action platformer starring Jackie Chan, released on the NES in 1990.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jackie_Chan's_Action_Kung_Fu",
+          "label": "Wikipedia: Jackie Chan's Action Kung Fu",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Jackie Chan",
+      "kind": "person",
+      "description": "The Hong Kong martial arts film star the game is based on.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jackie_Chan",
+          "label": "Wikipedia: Jackie Chan",
+          "source": "wikipedia",
+          "note": "Hong Kong martial artist and actor (born 1954)"
+        }
+      ]
+    },
+    {
+      "name": "Police Story",
+      "kind": "film_tv_music",
+      "description": "One of Jackie Chan's earlier Hong Kong films that played in America before his breakout.",
+      "timestamp": "01:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Police_Story_(1985_film)",
+          "label": "Wikipedia: Police Story (1985 film)",
+          "source": "wikipedia",
+          "note": "1985 Hong Kong film by Jackie Chan"
+        }
+      ]
+    },
+    {
+      "name": "Rumble in the Bronx",
+      "kind": "film_tv_music",
+      "description": "The 1995 film the hosts think was Jackie Chan's American breakout.",
+      "timestamp": "03:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rumble_in_the_Bronx",
+          "label": "Wikipedia: Rumble in the Bronx",
+          "source": "wikipedia",
+          "note": "1995 Hong Kong action comedy film directed by Stanley Tong"
+        }
+      ]
+    },
+    {
+      "name": "Rush Hour",
+      "kind": "film_tv_music",
+      "description": "The Jackie Chan buddy-cop film series that many Americans know him from.",
+      "timestamp": "03:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rush_Hour_(franchise)",
+          "label": "Wikipedia: Rush Hour (franchise)",
+          "source": "wikipedia",
+          "note": "Series of American buddy cop films"
+        }
+      ]
+    },
+    {
+      "name": "Rush Hour 2",
+      "kind": "film_tv_music",
+      "description": "The sequel that one host remembers as having a tremendous response.",
+      "timestamp": "05:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rush_Hour_2",
+          "label": "Wikipedia: Rush Hour 2",
+          "source": "wikipedia",
+          "note": "2001 film by Brett Ratner"
+        }
+      ]
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "kind": "person",
+      "description": "Used as the comparison for a star whose name headlines a game box.",
+      "timestamp": "01:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+          "label": "Wikipedia: Arnold Schwarzenegger",
+          "source": "wikipedia",
+          "note": "Austrian and American bodybuilder, actor and politician (born 1947)"
+        }
+      ]
+    },
+    {
+      "name": "Al Unser Jr.",
+      "kind": "person",
+      "description": "Racing driver on an earlier NES game cover, cited as a cover name kids may not have known.",
+      "timestamp": "02:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Al_Unser_Jr.",
+          "label": "Wikipedia: Al Unser Jr.",
+          "source": "wikipedia",
+          "note": "American racing driver (born 1962)"
+        }
+      ]
+    },
+    {
+      "name": "Kung Fu",
+      "kind": "game",
+      "description": "The launch-era NES game the hosts compare to this one for realism and hit boxes.",
+      "timestamp": "04:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kung-Fu_Master_(video_game)",
+          "label": "Wikipedia: Kung-Fu Master (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "010-kung-fu",
+      "episode_title": "KUNG FU*"
+    },
+    {
+      "name": "Super Mario World",
+      "kind": "game",
+      "description": "Its goal poles are compared to the way this game's stages seem to end and keep going.",
+      "timestamp": "07:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_World",
+          "label": "Wikipedia: Super Mario World",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Godzilla",
+      "kind": "game",
+      "description": "Another NES game with huge sprites, compared with this game's cleaner big sprites.",
+      "timestamp": "10:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Godzilla%3A_Monster_of_Monsters!",
+          "label": "Wikipedia: Godzilla: Monster of Monsters!",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts",
+      "kind": "game",
+      "description": "Cited as a PS2 game whose cartoony look has aged well compared with realistic ones.",
+      "timestamp": "12:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)",
+          "label": "Wikipedia: Kingdom Hearts (video game)",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dirty Harry",
+      "kind": "game",
+      "description": "The NES Clint Eastwood game that felt terrible to control compared with this one.",
+      "timestamp": "12:36",
+      "links": [],
+      "episode_key": "407-dirty-harry",
+      "episode_title": "Dirty Harry"
+    },
+    {
+      "name": "Ghostbusters",
+      "kind": "game",
+      "description": "The movie-license game joked about as getting everything right.",
+      "timestamp": "15:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghostbusters_(1990_video_game)",
+          "label": "Wikipedia: Ghostbusters (1990 video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "124-ghostbusters",
+      "episode_title": "GHOSTBUSTERS"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Cited for its power-up mushroom, and later as a benchmark for how fun a game is moment to moment.",
+      "timestamp": "15:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Mega Man",
+      "kind": "game",
+      "description": "Cited as a game whose rules this one adopts, and the episode before this one is Mega Man 3.",
+      "timestamp": "18:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_(1987_video_game)",
+          "label": "Wikipedia: Mega Man (1987 video game)",
+          "source": "wikipedia",
+          "note": "NES/Famicom action-platform video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Dragon Ball Z",
+      "kind": "film_tv_music",
+      "description": "The anime whose Kamehameha pose appears in a boss fight in this game.",
+      "timestamp": "21:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z",
+          "label": "Wikipedia: Dragon Ball Z",
+          "source": "wikipedia",
+          "note": "1989–1996 television series based on the manga of the same name"
+        }
+      ]
+    },
+    {
+      "name": "Jackie Chan Adventures",
+      "kind": "film_tv_music",
+      "description": "The animated series with Jackie Chan that makes this game's cartoon style feel fitting in hindsight.",
+      "timestamp": "22:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jackie_Chan_Adventures",
+          "label": "Wikipedia: Jackie Chan Adventures",
+          "source": "wikipedia",
+          "note": "American-Hong Kong animated television series"
+        }
+      ]
+    },
+    {
+      "name": "The Terminator",
+      "kind": "film_tv_music",
+      "description": "Brought up as an idea for a cute Terminator game.",
+      "timestamp": "23:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Terminator",
+          "label": "Wikipedia: The Terminator",
+          "source": "wikipedia",
+          "note": "1984 film by James Cameron"
+        }
+      ]
+    },
+    {
+      "name": "God of War",
+      "kind": "other",
+      "description": "Kratos is joked about getting a chibi-style version; the Kratos cameo is in Astro Bot.",
+      "timestamp": "23:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/God_of_War_(franchise)",
+          "label": "Wikipedia: God of War (franchise)",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Astro Bot",
+      "kind": "game",
+      "description": "The PlayStation game where Kratos appears as a cute cameo.",
+      "timestamp": "24:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Astro_Bot",
+          "label": "Wikipedia: Astro Bot",
+          "source": "wikipedia",
+          "note": "2024 video game"
+        }
+      ]
+    },
+    {
+      "name": "Street Fighter",
+      "kind": "other",
+      "description": "Used for comparing Jackie's small move set to a fighting game roster.",
+      "timestamp": "24:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Street_Fighter",
+          "label": "Wikipedia: Street Fighter",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "This game's special moves use the same hold-up-and-attack input as Castlevania's secondary weapons.",
+      "timestamp": "24:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Batman: Arkham",
+      "kind": "game",
+      "description": "Series where defeated players get taunted by whoever killed them, like this game's game over screen.",
+      "timestamp": "28:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Batman%3A_Arkham",
+          "label": "Wikipedia: Batman: Arkham",
+          "source": "wikipedia",
+          "note": "Superhero video game series"
+        }
+      ]
+    },
+    {
+      "name": "TurboGrafx-16",
+      "kind": "hardware",
+      "description": "The 16-bit console that got its own version of this game, developed alongside the NES one with different stage layouts.",
+      "timestamp": "31:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/TurboGrafx-16",
+          "label": "Wikipedia: TurboGrafx-16",
+          "source": "wikipedia",
+          "note": "Fourth-generation home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Sonic the Hedgehog",
+      "kind": "game",
+      "description": "Compared with the look of the TurboGrafx-16 version's screenshots.",
+      "timestamp": "33:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)",
+          "label": "Wikipedia: Sonic the Hedgehog (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ],
+      "episode_key": "s097-sonic-the-hedgehog",
+      "episode_title": "SONIC THE HEDGEHOG"
+    },
+    {
+      "name": "MSX",
+      "kind": "hardware",
+      "description": "The Japanese home computer that got many Jackie Chan movie games.",
+      "timestamp": "34:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/MSX",
+          "label": "Wikipedia: MSX",
+          "source": "wikipedia",
+          "note": "Family of standardized home computer architectures released between 1983 and 1992"
+        }
+      ]
+    },
+    {
+      "name": "Cannonball",
+      "kind": "film_tv_music",
+      "description": "The Cannonball Run II film behind one of the Jackie Chan MSX games.",
+      "timestamp": "34:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cannonball_Run_II",
+          "label": "Wikipedia: Cannonball Run II",
+          "source": "wikipedia",
+          "note": "1983 film by Hal Needham"
+        }
+      ]
+    },
+    {
+      "name": "Project A",
+      "kind": "film_tv_music",
+      "description": "The Jackie Chan film that inspired an MSX game, along with its sequel.",
+      "timestamp": "34:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Project_A_(film)",
+          "label": "Wikipedia: Project A (film)",
+          "source": "wikipedia",
+          "note": "1983 Hong Kong film by Jackie Chan"
+        }
+      ]
+    },
+    {
+      "name": "Jackie Chan in Fists of Fire",
+      "kind": "game",
+      "description": "A digitized-actor fighting game with Jackie's name, compared to Mortal Kombat.",
+      "timestamp": "35:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Kung-Fu_Master_Jackie_Chan",
+          "label": "Wikipedia: The Kung-Fu Master Jackie Chan",
+          "source": "wikipedia",
+          "note": "1995 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mortal Kombat",
+      "kind": "game",
+      "description": "The digitized-sprite fighter the hosts compare Fists of Fire to.",
+      "timestamp": "35:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)",
+          "label": "Wikipedia: Mortal Kombat (1992 video game)",
+          "source": "wikipedia",
+          "note": "1992 fighting game"
+        }
+      ]
+    },
+    {
+      "name": "Jackie Chan Stuntmaster",
+      "kind": "game",
+      "description": "The PlayStation 3D beat-em-up with Jackie's face mapped on a low-polygon character.",
+      "timestamp": "35:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jackie_Chan_Stuntmaster",
+          "label": "Wikipedia: Jackie Chan Stuntmaster",
+          "source": "wikipedia",
+          "note": "2000 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VII",
+      "kind": "game",
+      "description": "Cloud Strife is the example for a low-polygon body with a realistic face.",
+      "timestamp": "36:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+          "label": "Wikipedia: Final Fantasy VII",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Jackie Chan Adventures (video game)",
+      "kind": "game",
+      "description": "The PlayStation 2 game of the cartoon, praised for its cel-shaded look.",
+      "timestamp": "37:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jackie_Chan_Adventures_(video_game)",
+          "label": "Wikipedia: Jackie Chan Adventures (video game)",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dragon's Lair",
+      "kind": "game",
+      "description": "The previous episode's game, mentioned for its cel-shaded-style look.",
+      "timestamp": "37:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon's_Lair_(1990_video_game)",
+          "label": "Wikipedia: Dragon's Lair (1990 video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "408-dragons-lair",
+      "episode_title": "Dragon's Lair"
+    },
+    {
+      "name": "Pokemon",
+      "kind": "film_tv_music",
+      "description": "The cartoon that aired near Jackie Chan Adventures in a host's childhood.",
+      "timestamp": "37:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(TV_series)",
+          "label": "Wikipedia: Pokémon (TV series)",
+          "source": "wikipedia",
+          "note": "Japanese anime television series"
+        }
+      ]
+    },
+    {
+      "name": "Shanghai Noon",
+      "kind": "film_tv_music",
+      "description": "The 2000 Jackie Chan western comedy, remembered for its jail escape.",
+      "timestamp": "38:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shanghai_Noon",
+          "label": "Wikipedia: Shanghai Noon",
+          "source": "wikipedia",
+          "note": "2000 film by Tom Dey"
+        }
+      ]
+    },
+    {
+      "name": "Bruce Lee",
+      "kind": "person",
+      "description": "The martial arts star who appears in the Shaolin vs. Wu Tang fighting games.",
+      "timestamp": "39:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bruce_Lee",
+          "label": "Wikipedia: Bruce Lee",
+          "source": "wikipedia",
+          "note": "Martial artist and actor (1940–1973)"
+        }
+      ]
+    },
+    {
+      "name": "The Warriors",
+      "kind": "game",
+      "description": "The Rockstar beat-em-up based on the 1979 film, brought up as a movie-based game.",
+      "timestamp": "39:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Warriors_(video_game)",
+          "label": "Wikipedia: The Warriors (video game)",
+          "source": "wikipedia",
+          "note": "2005 beat 'em up video game"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 3",
+      "kind": "game",
+      "description": "The previous episode, remembered as a clearer Essential vote than this game.",
+      "timestamp": "41:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_3",
+          "label": "Wikipedia: Mega Man 3",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "394-mega-man-3",
+      "episode_title": "Mega Man 3"
+    },
+    {
+      "name": "Little Ninja Brothers",
+      "kind": "game",
+      "description": "Next week's game, set in China land.",
+      "timestamp": "45:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Little_Ninja_Brothers",
+          "label": "Wikipedia: Little Ninja Brothers",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "410-little-ninja-brothers",
+      "episode_title": "Little Ninja Brothers"
+    },
+    {
+      "name": "Chip 'n Dale: Rescue Rangers",
+      "kind": "game",
+      "description": "One of the last back-to-back Essential Games List games.",
+      "timestamp": "45:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chip_'n_Dale_Rescue_Rangers_(video_game)",
+          "label": "Wikipedia: Chip 'n Dale Rescue Rangers (video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Spirit: The New Legend",
+      "kind": "game",
+      "description": "The other half of the last back-to-back Essential Games List pair.",
+      "timestamp": "45:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Spirit",
+          "label": "Wikipedia: Dragon Spirit",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "318-dragon-spirit-the-new-legend",
+      "episode_title": "Dragon Spirit: The New Legend"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; this game was voted in.",
+      "timestamp": "40:20",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

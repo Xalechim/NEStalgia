@@ -1,0 +1,602 @@
+{
+  "episode": 14,
+  "title": "014 - Super Mario Bros.",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "eef1a9566a93",
+  "items": [
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "The episode's game: Nintendo's 1985 side-scrolling platformer by Miyamoto and Tezuka, a launch title for the NES.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/7298/",
+          "label": "Super Mario Bros. - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://themushroomkingdom.net/games/smb",
+          "label": "Super Mario Bros. - The Mushroom Kingdom",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.mariowiki.com/Super_Mario_Bros.",
+          "label": "Super Mario Bros. - Super Mario Wiki",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Famicom and NES",
+      "kind": "hardware",
+      "description": "Nintendo's Japanese and North American versions of the console, which differ in hardware and in the Famicom's disk add-on.",
+      "timestamp": "00:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
+          "label": "Wikipedia: Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Famicom Disk System",
+      "kind": "hardware",
+      "description": "The Japan-only disk drive add-on for the Famicom, which the NES never got.",
+      "timestamp": "00:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Famicom_Disk_System",
+          "label": "Wikipedia: Famicom Disk System",
+          "source": "wikipedia",
+          "note": "Video game console peripheral"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Platforms/Famicom_Disk_System",
+          "label": "Famicom Disk System - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Shigeru Miyamoto",
+      "kind": "person",
+      "description": "Nintendo designer credited as co-creator of Super Mario Bros.",
+      "timestamp": "02:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shigeru_Miyamoto",
+          "label": "Wikipedia: Shigeru Miyamoto",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1952)"
+        }
+      ]
+    },
+    {
+      "name": "Takashi Tezuka",
+      "kind": "person",
+      "description": "Co-designer of Super Mario Bros., credited with much of what makes the game work.",
+      "timestamp": "02:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Takashi_Tezuka",
+          "label": "Wikipedia: Takashi Tezuka",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1960)"
+        }
+      ]
+    },
+    {
+      "name": "Iwata Asks: Tezuka interview",
+      "kind": "website_or_article",
+      "description": "Interview in which Takashi Tezuka describes the original concept for Super Mario Bros.",
+      "timestamp": "02:19",
+      "links": [
+        {
+          "url": "https://iwataasks.nintendo.com/interviews/wii/nsmb/1/0",
+          "label": "Iwata Asks: New Super Mario Bros. Wii, Vol. 2",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Mario Bros.",
+      "kind": "game",
+      "description": "The 1983 game whose steady sales led to Mario being put into Super Mario Bros.",
+      "timestamp": "05:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mario_Bros.",
+          "label": "Wikipedia: Mario Bros.",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "022-mario-bros",
+      "episode_title": "MARIO BROS."
+    },
+    {
+      "name": "Donkey Kong",
+      "kind": "game",
+      "description": "The 1981 arcade game in which Mario first appeared, as Jumpman.",
+      "timestamp": "05:21",
+      "links": [],
+      "episode_key": "018-donkey-kong",
+      "episode_title": "DONKEY KONG"
+    },
+    {
+      "name": "Donkey Kong Jr.",
+      "kind": "game",
+      "description": "Arcade sequel in which the character gets the name Mario.",
+      "timestamp": "06:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donkey_Kong_Jr.",
+          "label": "Wikipedia: Donkey Kong Jr.",
+          "source": "wikipedia",
+          "note": "1982 video game"
+        }
+      ],
+      "episode_key": "019-donkey-kong-jr",
+      "episode_title": "DONKEY KONG JR."
+    },
+    {
+      "name": "Wrecking Crew",
+      "kind": "game",
+      "description": "Earlier Mario game from the same period as Mario Bros. and Donkey Kong.",
+      "timestamp": "06:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wrecking_Crew_(video_game)",
+          "label": "Wikipedia: Wrecking Crew (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "017-wrecking-crew",
+      "episode_title": "WRECKING CREW"
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "The NES sequel, which includes Mario Bros.-style levels and often overshadowed the first game for kids who grew up with it.",
+      "timestamp": "07:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "Super Mario Maker",
+      "kind": "game",
+      "description": "Level-building game where Buzzy Beetle helmets appear, and where early control ideas for Super Mario Bros. were discussed.",
+      "timestamp": "08:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Maker",
+          "label": "Wikipedia: Super Mario Maker",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Galaxy",
+      "kind": "game",
+      "description": "3D Mario game with a spin move, mentioned as a later take on attacking.",
+      "timestamp": "10:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Galaxy",
+          "label": "Wikipedia: Super Mario Galaxy",
+          "source": "wikipedia",
+          "note": "2007 video game"
+        }
+      ]
+    },
+    {
+      "name": "Ice Climber",
+      "kind": "game",
+      "description": "Launch title with a poor jump compared to Mario's.",
+      "timestamp": "11:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ice_Climber",
+          "label": "Wikipedia: Ice Climber",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "009-ice-climber",
+      "episode_title": "ICE CLIMBER"
+    },
+    {
+      "name": "Kung Fu",
+      "kind": "game",
+      "description": "Launch title whose jump and movement were compared unfavorably with Mario's.",
+      "timestamp": "11:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kung-Fu_Master_(video_game)",
+          "label": "Wikipedia: Kung-Fu Master (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "010-kung-fu",
+      "episode_title": "KUNG FU*"
+    },
+    {
+      "name": "Kirby's Dream Land",
+      "kind": "game",
+      "description": "Game Boy game that was one host's first game.",
+      "timestamp": "16:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirby's_Dream_Land",
+          "label": "Wikipedia: Kirby's Dream Land",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario 64",
+      "kind": "game",
+      "description": "The first 3D Mario game, played by one host as a small child before the NES original.",
+      "timestamp": "16:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_64",
+          "label": "Wikipedia: Super Mario 64",
+          "source": "wikipedia",
+          "note": "1996 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario All-Stars",
+      "kind": "game",
+      "description": "SNES collection with graphically improved versions of the NES Mario games, where several hosts first played the original.",
+      "timestamp": "17:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_All-Stars",
+          "label": "Wikipedia: Super Mario All-Stars",
+          "source": "wikipedia",
+          "note": "1993 video game compilation"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's running list of NES games still worth playing today; Super Mario Bros. was the first vote.",
+      "timestamp": "18:23",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Lakitu",
+      "kind": "other",
+      "description": "Cloud-riding enemy that throws Spinies, later the camera operator in Super Mario 64.",
+      "timestamp": "23:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Mario_franchise_enemies",
+          "label": "Wikipedia: List of Mario franchise enemies",
+          "source": "wikipedia",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Hammer Bros.",
+      "kind": "other",
+      "description": "Hammer-throwing enemies considered among the toughest in the game.",
+      "timestamp": "23:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Mario_franchise_enemies",
+          "label": "Wikipedia: List of Mario franchise enemies",
+          "source": "wikipedia",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Bowser",
+      "kind": "other",
+      "description": "The Koopa king and final boss, called the great demon king Koopa in Japan.",
+      "timestamp": "23:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bowser",
+          "label": "Wikipedia: Bowser",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Koopa Troopa",
+      "kind": "other",
+      "description": "Walking turtle enemy; green ones keep walking, red ones turn at ledges.",
+      "timestamp": "19:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Koopa_Troopa",
+          "label": "Wikipedia: Koopa Troopa",
+          "source": "wikipedia",
+          "note": "Mario franchise species"
+        }
+      ]
+    },
+    {
+      "name": "How to Win at Super Mario Bros.",
+      "kind": "website_or_article",
+      "description": "Strategy book that gave away the game's secrets, later given to Nintendo Fun Club members.",
+      "timestamp": "27:18",
+      "links": [
+        {
+          "url": "https://www.mariowiki.com/How_to_Win_At_Super_Mario_Bros.",
+          "label": "How to Win at Super Mario Bros. - Super Mario Wiki",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Nintendo's next big NES release, noted for vague clues, coming later in the series.",
+      "timestamp": "27:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Princess Peach",
+      "kind": "other",
+      "description": "The mushroom princess, called Princess Toadstool in the North American release.",
+      "timestamp": "28:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Princess_Peach",
+          "label": "Wikipedia: Princess Peach",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Vs. System",
+      "kind": "hardware",
+      "description": "Nintendo's arcade hardware line that many NES launch games first appeared on.",
+      "timestamp": "38:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_VS._System",
+          "label": "Wikipedia: Nintendo VS. System",
+          "source": "wikipedia",
+          "note": "Arcade cabinet series"
+        }
+      ]
+    },
+    {
+      "name": "Vs. Super Mario Bros.",
+      "kind": "game",
+      "description": "Arcade version with new levels, now playable on Nintendo Switch.",
+      "timestamp": "38:24",
+      "links": [
+        {
+          "url": "https://mobygames.com/game/vs-super-mario-bros",
+          "label": "Vs. Super Mario Bros. - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://arcade-museum.com/Videogame/vs-super-mario-bros",
+          "label": "Vs. Super Mario Bros. - Killer List of Videogames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. Deluxe",
+      "kind": "game",
+      "description": "Game Boy Color version with an overworld map, red coin challenges and a two-player mode.",
+      "timestamp": "35:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._Deluxe",
+          "label": "Wikipedia: Super Mario Bros. Deluxe",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Super_Mario_Bros._DX",
+          "label": "Super Mario Bros. Deluxe - StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario World",
+      "kind": "game",
+      "description": "SNES launch game, part of the same lineage of Mario design.",
+      "timestamp": "36:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_World",
+          "label": "Wikipedia: Super Mario World",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dark Souls",
+      "kind": "other",
+      "description": "Used as a modern shorthand for hard games, compared to the NES term Nintendo hard.",
+      "timestamp": "43:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dark_Souls",
+          "label": "Wikipedia: Dark Souls",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Infinite 1-up trick",
+      "kind": "event_or_term",
+      "description": "Stomping a Koopa shell on stairs for repeated extra lives.",
+      "timestamp": "49:46",
+      "links": [
+        {
+          "url": "https://kottke.org/10/10/the-super-mario-bros-infinite-1-up",
+          "label": "The Super Mario Bros infinite 1-up - kottke.org",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Piranha Plant",
+      "kind": "other",
+      "description": "Pipe enemy that can be avoided by standing close to the pipe or jumping over.",
+      "timestamp": "48:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Piranha_Plant",
+          "label": "Wikipedia: Piranha Plant",
+          "source": "wikipedia",
+          "note": "Character from the Mario franchise"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "Nintendo's magazine, which followed the Nintendo Fun Club newsletter.",
+      "timestamp": "48:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        }
+      ]
+    },
+    {
+      "name": "Minus World",
+      "kind": "event_or_term",
+      "description": "The glitched underwater World -1 reached by a clip through the 1-2 warp zone.",
+      "timestamp": "51:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Minus_World",
+          "label": "Wikipedia: Minus World",
+          "source": "wikipedia",
+          "note": "Glitched level in Super Mario Bros."
+        },
+        {
+          "url": "https://gameinformer.com/b/news/archive/2016/09/26/super-mario-bros-glitch-world-explained.aspx",
+          "label": "Super Mario Bros. glitch world explained - Game Informer",
+          "source": "other"
+        },
+        {
+          "url": "https://kb.speeddemosarchive.com/Super_Mario_Bros./Minus_World_Ending_Strategy",
+          "label": "Minus World Ending Strategy - Speed Demos Archive",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "The Super Mario Bros. Super Show!",
+      "kind": "film_tv_music",
+      "description": "Cartoon that featured the 'Do the Mario' song, tied to the overworld theme.",
+      "timestamp": "1:02:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Super_Show!",
+          "label": "Wikipedia: The Super Mario Bros. Super Show!",
+          "source": "wikipedia",
+          "note": "1989 American TV series"
+        }
+      ]
+    },
+    {
+      "name": "Goomba",
+      "kind": "other",
+      "description": "Mushroom-like walking enemy, the first one players meet.",
+      "timestamp": "09:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Goomba",
+          "label": "Wikipedia: Goomba",
+          "source": "wikipedia",
+          "note": "Super Mario character"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man X",
+      "kind": "game",
+      "description": "Cited as another game that teaches its mechanics without instructions, like World 1-1.",
+      "timestamp": "1:26:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_X_(video_game)",
+          "label": "Wikipedia: Mega Man X (video game)",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Super Mario Odyssey",
+      "kind": "game",
+      "description": "Recent Mario game without a lives system.",
+      "timestamp": "1:23:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey",
+          "label": "Wikipedia: Super Mario Odyssey",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    }
+  ]
+}

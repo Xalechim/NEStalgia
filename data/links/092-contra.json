@@ -1,0 +1,657 @@
+{
+  "episode": 92,
+  "title": "092 - Contra",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "f7cd2d3deaa4",
+  "items": [
+    {
+      "name": "Contra",
+      "kind": "game",
+      "description": "The episode's game: a two-player run-and-gun by Konami with jungle side-scrolling and pseudo-3D base stages.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+          "label": "Wikipedia: Contra (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Commando",
+      "kind": "game",
+      "description": "Earlier run-and-gun style game the hosts compare Contra to, saying it was slower.",
+      "timestamp": "01:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commando_(video_game)",
+          "label": "Wikipedia: Commando (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "033-commando",
+      "episode_title": "COMMANDO"
+    },
+    {
+      "name": "Ikari Warriors",
+      "kind": "game",
+      "description": "Another run-and-gun predecessor that struggled with many on-screen sprites.",
+      "timestamp": "01:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ikari_Warriors",
+          "label": "Wikipedia: Ikari Warriors",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "045-ikari-warriors",
+      "episode_title": "IKARI WARRIORS"
+    },
+    {
+      "name": "Run and gun",
+      "kind": "event_or_term",
+      "description": "The genre of shoot-em-ups where you fight on foot, which the hosts try to define.",
+      "timestamp": "01:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shoot_'em_up",
+          "label": "Wikipedia: Shoot 'em up",
+          "source": "wikipedia",
+          "note": "Subgenre of action game"
+        }
+      ]
+    },
+    {
+      "name": "Metal Slug",
+      "kind": "game",
+      "description": "Example of a modern run-and-gun series.",
+      "timestamp": "02:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metal_Slug",
+          "label": "Wikipedia: Metal Slug",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Cuphead",
+      "kind": "game",
+      "description": "Example of a run-and-gun, mostly on foot with some flying levels.",
+      "timestamp": "02:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cuphead",
+          "label": "Wikipedia: Cuphead",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Earth Defense Force",
+      "kind": "game",
+      "description": "Series brought up as a possible run-and-gun example.",
+      "timestamp": "02:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Earth_Defense_Force",
+          "label": "Wikipedia: Earth Defense Force",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man",
+      "kind": "game",
+      "description": "Covered two episodes earlier; debated as a platformer versus a run-and-gun.",
+      "timestamp": "02:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_(1987_video_game)",
+          "label": "Wikipedia: Mega Man (1987 video game)",
+          "source": "wikipedia",
+          "note": "NES/Famicom action-platform video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "Earlier episode where hosts wished Simon could whip in several directions.",
+      "timestamp": "05:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Super Castlevania IV",
+      "kind": "game",
+      "description": "Super Nintendo sequel where Simon finally whips in multiple directions.",
+      "timestamp": "05:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Castlevania_IV",
+          "label": "Wikipedia: Super Castlevania IV",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Karnov",
+      "kind": "game",
+      "description": "Recent NES game with confusing platforms the hosts contrast with Contra's clear ones.",
+      "timestamp": "06:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Karnov",
+          "label": "Wikipedia: Karnov",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "090-karnov",
+      "episode_title": "KARNOV"
+    },
+    {
+      "name": "Wizards & Warriors",
+      "kind": "game",
+      "description": "Another recent game whose platforms and depth were hard to read.",
+      "timestamp": "06:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wizards_%26_Warriors",
+          "label": "Wikipedia: Wizards & Warriors",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "089-wizards-warriors",
+      "episode_title": "WIZARDS & WARRIORS"
+    },
+    {
+      "name": "Karate Champ",
+      "kind": "game",
+      "description": "NES game the hosts recall having a demo mode.",
+      "timestamp": "07:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Karate_Champ",
+          "label": "Wikipedia: Karate Champ",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "036-karate-champ",
+      "episode_title": "KARATE CHAMP"
+    },
+    {
+      "name": "Donkey Kong 64",
+      "kind": "game",
+      "description": "Nintendo 64 game cited for demo modes players watched for hints.",
+      "timestamp": "07:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donkey_Kong_64",
+          "label": "Wikipedia: Donkey Kong 64",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "Konami Code",
+      "kind": "event_or_term",
+      "description": "The cheat sequence that gives 30 lives in Contra.",
+      "timestamp": "08:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami_Code",
+          "label": "Wikipedia: Konami Code",
+          "source": "wikipedia",
+          "note": "Cheat code, originally for Konami games"
+        }
+      ]
+    },
+    {
+      "name": "Aliens",
+      "kind": "film_tv_music",
+      "description": "1986 action sequel the hosts say influenced Contra's marine feel.",
+      "timestamp": "11:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Aliens_(film)",
+          "label": "Wikipedia: Aliens (film)",
+          "source": "wikipedia",
+          "note": "1986 film by James Cameron"
+        }
+      ]
+    },
+    {
+      "name": "Alien",
+      "kind": "film_tv_music",
+      "description": "1979 horror film whose creature design inspired the game's later levels.",
+      "timestamp": "11:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alien_(film)",
+          "label": "Wikipedia: Alien (film)",
+          "source": "wikipedia",
+          "note": "1979 film by Ridley Scott"
+        }
+      ]
+    },
+    {
+      "name": "Rambo",
+      "kind": "film_tv_music",
+      "description": "Action franchise whose muscular 80s heroes the Contra characters resemble.",
+      "timestamp": "11:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rambo_(franchise)",
+          "label": "Wikipedia: Rambo (franchise)",
+          "source": "wikipedia",
+          "note": "American media franchise"
+        }
+      ],
+      "episode_key": "102-rambo",
+      "episode_title": "RAMBO"
+    },
+    {
+      "name": "H. R. Giger",
+      "kind": "person",
+      "description": "Artist who designed the Alien creature, spelled Geiger in the transcript.",
+      "timestamp": "11:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/H._R._Giger",
+          "label": "Wikipedia: H. R. Giger",
+          "source": "wikipedia",
+          "note": "Swiss artist (1940–2014)"
+        }
+      ]
+    },
+    {
+      "name": "Xenomorph",
+      "kind": "other",
+      "description": "The Alien creature type the game's later enemies resemble.",
+      "timestamp": "11:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xenomorph",
+          "label": "Wikipedia: Xenomorph",
+          "source": "wikipedia",
+          "note": "Alien franchise extraterrestrial species"
+        }
+      ]
+    },
+    {
+      "name": "Sylvester Stallone",
+      "kind": "person",
+      "description": "Actor whom one of the manual's heroes is said to resemble.",
+      "timestamp": "12:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sylvester_Stallone",
+          "label": "Wikipedia: Sylvester Stallone",
+          "source": "wikipedia",
+          "note": "American actor and filmmaker (born 1946)"
+        }
+      ]
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "kind": "person",
+      "description": "Actor whom Bill Rizer is compared to.",
+      "timestamp": "12:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+          "label": "Wikipedia: Arnold Schwarzenegger",
+          "source": "wikipedia",
+          "note": "Austrian and American bodybuilder, actor and politician (born 1947)"
+        }
+      ]
+    },
+    {
+      "name": "Dolph Lundgren",
+      "kind": "person",
+      "description": "Rocky IV actor whom one hero's manual art resembles.",
+      "timestamp": "12:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dolph_Lundgren",
+          "label": "Wikipedia: Dolph Lundgren",
+          "source": "wikipedia",
+          "note": "Swedish and American actor and martial artist (born 1957)"
+        }
+      ]
+    },
+    {
+      "name": "The Terminator",
+      "kind": "film_tv_music",
+      "description": "Film the hosts compare a manual character's robot-like look to.",
+      "timestamp": "12:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Terminator",
+          "label": "Wikipedia: The Terminator",
+          "source": "wikipedia",
+          "note": "1984 film by James Cameron"
+        }
+      ]
+    },
+    {
+      "name": "Contra series (Probotector)",
+      "kind": "other",
+      "description": "The Contra franchise, released in Europe for years under the name Probotector with robots instead of humans.",
+      "timestamp": "13:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(series)",
+          "label": "Wikipedia: Contra (series)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Xenoblade Chronicles X",
+      "kind": "game",
+      "description": "Game with mechs called Skells, joked about when discussing the European box art.",
+      "timestamp": "14:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_X",
+          "label": "Wikipedia: Xenoblade Chronicles X",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Goonies II",
+      "kind": "game",
+      "description": "NES game with an earlier, rougher pseudo-3D perspective.",
+      "timestamp": "15:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Goonies_II",
+          "label": "Wikipedia: The Goonies II",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "079-the-goonies-ii",
+      "episode_title": "THE GOONIES II"
+    },
+    {
+      "name": "3-D WorldRunner",
+      "kind": "game",
+      "description": "Called 3D Battles of World Runner; compared to Contra's pseudo-3D stages, covered in episode 59.",
+      "timestamp": "19:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_3-D_Battles_of_WorldRunner",
+          "label": "Wikipedia: The 3-D Battles of WorldRunner",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Compared with Contra's richer environments.",
+      "timestamp": "16:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Gradius",
+      "kind": "game",
+      "description": "Contra's first boss is compared to Gradius's shoot-the-core bosses.",
+      "timestamp": "30:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gradius",
+          "label": "Wikipedia: Gradius",
+          "source": "wikipedia",
+          "note": "Video game series by Konami"
+        }
+      ],
+      "episode_key": "035-gradius",
+      "episode_title": "GRADIUS"
+    },
+    {
+      "name": "Kirby's Adventure",
+      "kind": "game",
+      "description": "Later NES game that also uses a border to save on animation.",
+      "timestamp": "31:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirby's_Adventure",
+          "label": "Wikipedia: Kirby's Adventure",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Doom",
+      "kind": "game",
+      "description": "Cited for using a screen border on Super Nintendo to solve a technical problem.",
+      "timestamp": "31:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Doom_(1993_video_game)",
+          "label": "Wikipedia: Doom (1993 video game)",
+          "source": "wikipedia",
+          "note": "First-person shooter game"
+        }
+      ]
+    },
+    {
+      "name": "Sonic the Hedgehog",
+      "kind": "game",
+      "description": "The floating rock platforms are compared to Sonic's levels.",
+      "timestamp": "36:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)",
+          "label": "Wikipedia: Sonic the Hedgehog (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ],
+      "episode_key": "s097-sonic-the-hedgehog",
+      "episode_title": "SONIC THE HEDGEHOG"
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "game",
+      "description": "Example of a truly punishing NES game, used to size up Contra's difficulty.",
+      "timestamp": "48:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins_(video_game)",
+          "label": "Wikipedia: Ghosts 'n Goblins (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    },
+    {
+      "name": "Final Fantasy VIII",
+      "kind": "game",
+      "description": "A host replaying it mentioned an option to make characters unable to die.",
+      "timestamp": "53:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VIII",
+          "label": "Wikipedia: Final Fantasy VIII",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "Sky Kid",
+      "kind": "game",
+      "description": "Earlier two-player NES game, discussed as an earlier co-op example.",
+      "timestamp": "57:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sky_Kid",
+          "label": "Wikipedia: Sky Kid",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "065-sky-kid",
+      "episode_title": "SKY KID"
+    },
+    {
+      "name": "New Super Mario Bros. Wii",
+      "kind": "game",
+      "description": "Compared for the chaos of mismatched players in co-op.",
+      "timestamp": "1:03:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros._Wii",
+          "label": "Wikipedia: New Super Mario Bros. Wii",
+          "source": "wikipedia",
+          "note": "2009 video game"
+        }
+      ]
+    },
+    {
+      "name": "Konami",
+      "kind": "company",
+      "description": "Contra's developer and publisher, praised for strong NES output.",
+      "timestamp": "1:07:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami",
+          "label": "Wikipedia: Konami",
+          "source": "wikipedia",
+          "note": "Japanese entertainment and video game company"
+        }
+      ]
+    },
+    {
+      "name": "Super C",
+      "kind": "game",
+      "description": "The NES sequel from 1990, the next game in the series.",
+      "timestamp": "1:16:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Contra",
+          "label": "Wikipedia: Super Contra",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "303-super-c",
+      "episode_title": "Super C"
+    },
+    {
+      "name": "Contra Force",
+      "kind": "game",
+      "description": "The 1992 NES entry with human terrorists as villains.",
+      "timestamp": "1:17:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_Force",
+          "label": "Wikipedia: Contra Force",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Contra: Rogue Corps",
+      "kind": "game",
+      "description": "The 2019 Switch and PS4 spin-off, called Road Corps in the transcript, poorly reviewed.",
+      "timestamp": "1:18:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra%3A_Rogue_Corps",
+          "label": "Wikipedia: Contra: Rogue Corps",
+          "source": "wikipedia",
+          "note": "2019 video game"
+        }
+      ]
+    },
+    {
+      "name": "Contra III: The Alien Wars",
+      "kind": "game",
+      "description": "The Super Nintendo sequel that Rogue Corps follows in its story.",
+      "timestamp": "1:19:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_III%3A_The_Alien_Wars",
+          "label": "Wikipedia: Contra III: The Alien Wars",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Gun.Smoke",
+      "kind": "game",
+      "description": "Next week's NES game.",
+      "timestamp": "1:28:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gun.Smoke",
+          "label": "Wikipedia: Gun.Smoke",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "093-gun-smoke",
+      "episode_title": "GUN.SMOKE"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's list of essential NES games; Contra was voted in.",
+      "timestamp": "1:21:12",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+{
+  "episode": 303,
+  "title": "303 - Super C",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "6aecab89affa",
+  "items": [
+    {
+      "name": "Super C",
+      "kind": "game",
+      "description": "The episode's game: Konami's 1990 NES sequel to Contra, a run-and-gun with side-scrolling and top-down stages.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Contra",
+          "label": "Wikipedia: Super Contra",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        },
+        {
+          "url": "https://tcrf.net/Super_C",
+          "label": "Super C - The Cutting Room Floor",
+          "source": "reference"
+        },
+        {
+          "url": "https://StrategyWiki.org/wiki/Super_C",
+          "label": "Super C - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/super-c/3030-10077/",
+          "label": "Super C - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Contra",
+      "kind": "game",
+      "description": "The original 1987 run-and-gun that Super C follows; the C in the title stands for Contra.",
+      "timestamp": "00:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+          "label": "Wikipedia: Contra (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        },
+        {
+          "url": "https://StrategyWiki.org/wiki/Contra_(NES)",
+          "label": "Contra (NES) - StrategyWiki",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "092-contra",
+      "episode_title": "CONTRA"
+    },
+    {
+      "name": "Konami",
+      "kind": "company",
+      "description": "Japanese developer and publisher of Contra and Super C.",
+      "timestamp": "02:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami",
+          "label": "Wikipedia: Konami",
+          "source": "wikipedia",
+          "note": "Japanese entertainment and video game company"
+        }
+      ]
+    },
+    {
+      "name": "Mortal Kombat",
+      "kind": "game",
+      "description": "Fighting series used as an example of a franchise that shortens its name to MK.",
+      "timestamp": "01:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mortal_Kombat",
+          "label": "Wikipedia: Mortal Kombat",
+          "source": "wikipedia",
+          "note": "Video game series and multimedia franchise"
+        }
+      ]
+    },
+    {
+      "name": "The Empire Strikes Back",
+      "kind": "film_tv_music",
+      "description": "Film the Japanese subtitle The Alien Strikes Back echoes.",
+      "timestamp": "02:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Empire_Strikes_Back",
+          "label": "Wikipedia: The Empire Strikes Back",
+          "source": "wikipedia",
+          "note": "1980 film directed by Irvin Kershner"
+        }
+      ]
+    },
+    {
+      "name": "Commando",
+      "kind": "game",
+      "description": "Capcom top-down shooter compared to Super C's overhead stages.",
+      "timestamp": "03:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commando_(video_game)",
+          "label": "Wikipedia: Commando (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "033-commando",
+      "episode_title": "COMMANDO"
+    },
+    {
+      "name": "Contra III: The Alien Wars",
+      "kind": "game",
+      "description": "Super Nintendo sequel that uses Mode 7 with a top-down view.",
+      "timestamp": "06:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_III%3A_The_Alien_Wars",
+          "label": "Wikipedia: Contra III: The Alien Wars",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mode 7",
+      "kind": "event_or_term",
+      "description": "Super Nintendo graphics mode for scaling and rotating backgrounds, used in Contra III.",
+      "timestamp": "06:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mode_7",
+          "label": "Wikipedia: Mode 7",
+          "source": "wikipedia",
+          "note": "Graphics mode on the Super NES video game console"
+        }
+      ]
+    },
+    {
+      "name": "Super Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "Nintendo's 16-bit console, home of Contra III.",
+      "timestamp": "06:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+          "label": "Wikipedia: Super Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon II: The Revenge",
+      "kind": "game",
+      "description": "NES beat-'em-up with a memorable elevator set piece, recalled for Super C's elevator stage.",
+      "timestamp": "09:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_II%3A_The_Revenge",
+          "label": "Wikipedia: Double Dragon II: The Revenge",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ]
+    },
+    {
+      "name": "Alien",
+      "kind": "film_tv_music",
+      "description": "Sci-fi horror film whose alien imagery the bosses recall.",
+      "timestamp": "02:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alien_(film)",
+          "label": "Wikipedia: Alien (film)",
+          "source": "wikipedia",
+          "note": "1979 film by Ridley Scott"
+        }
+      ]
+    },
+    {
+      "name": "Mass Effect 2",
+      "kind": "game",
+      "description": "BioWare game whose human Reaper final boss is compared to Super C's ending.",
+      "timestamp": "15:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mass_Effect_2",
+          "label": "Wikipedia: Mass Effect 2",
+          "source": "wikipedia",
+          "note": "2010 video game"
+        }
+      ]
+    },
+    {
+      "name": "Hideo Kojima",
+      "kind": "person",
+      "description": "Metal Gear creator, invoked for a twist about the army knowing about aliens.",
+      "timestamp": "18:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hideo_Kojima",
+          "label": "Wikipedia: Hideo Kojima",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1963)"
+        }
+      ]
+    },
+    {
+      "name": "Abadox: The Deadly Inner War",
+      "kind": "game",
+      "description": "NES shooter set inside a giant alien, compared to Super C's later stages.",
+      "timestamp": "13:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Abadox",
+          "label": "Wikipedia: Abadox",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        },
+        {
+          "url": "https://mobygames.com/game/11083",
+          "label": "Abadox: The Deadly Inner War - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 2",
+      "kind": "game",
+      "description": "NES sequel that changed the formula entirely, in contrast to Super C.",
+      "timestamp": "20:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2",
+          "label": "Wikipedia: Super Mario Bros. 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "133-super-mario-bros-2",
+      "episode_title": "SUPER MARIO BROS. 2"
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "NES sequel that also changed everything from the original.",
+      "timestamp": "20:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "Cuphead",
+      "kind": "game",
+      "description": "Modern boss-heavy game compared to Super C's learnable difficulty.",
+      "timestamp": "23:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cuphead",
+          "label": "Wikipedia: Cuphead",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "1987 NES game with passwords and long length, a contrast to Super C's brevity.",
+      "timestamp": "26:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "NES game used for a length comparison: about 2 hours 49 minutes without being hit.",
+      "timestamp": "26:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "Konami Code",
+      "kind": "event_or_term",
+      "description": "Famous button sequence for 30 lives in Contra, missing from Super C.",
+      "timestamp": "29:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami_Code",
+          "label": "Wikipedia: Konami Code",
+          "source": "wikipedia",
+          "note": "Cheat code, originally for Konami games"
+        },
+        {
+          "url": "https://www.atlasobscura.com/articles/cheating-wonders-a-brief-history-of-the-konami-code",
+          "label": "A Brief History of the Konami Code",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment Software Rating Board",
+      "kind": "company",
+      "description": "US video game ratings board, which did not exist in 1990.",
+      "timestamp": "13:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board",
+          "label": "Wikipedia: Entertainment Software Rating Board",
+          "source": "wikipedia",
+          "note": "North American self-regulatory organization"
+        }
+      ]
+    },
+    {
+      "name": "Super Nintendo Classic Edition",
+      "kind": "hardware",
+      "description": "Miniature Super Nintendo console that included Contra III.",
+      "timestamp": "39:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_NES_Classic_Edition",
+          "label": "Wikipedia: Super NES Classic Edition",
+          "source": "wikipedia",
+          "note": "Home video game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Crash Bandicoot 2: Cortex Strikes Back",
+      "kind": "game",
+      "description": "Offered as an under-the-radar second game in a series.",
+      "timestamp": "39:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crash_Bandicoot_2%3A_Cortex_Strikes_Back",
+          "label": "Wikipedia: Crash Bandicoot 2: Cortex Strikes Back",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Snake's Revenge",
+      "kind": "game",
+      "description": "Metal Gear NES sequel made without Kojima, offered as an overlooked second game.",
+      "timestamp": "41:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Snake's_Revenge",
+          "label": "Wikipedia: Snake's Revenge",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/snakes-revenge/",
+          "label": "Snake's Revenge - Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "301-snakes-revenge",
+      "episode_title": "Snake's Revenge"
+    },
+    {
+      "name": "Mafia II",
+      "kind": "game",
+      "description": "Second game in the Mafia series, another overlooked sequel.",
+      "timestamp": "42:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mafia_II",
+          "label": "Wikipedia: Mafia II",
+          "source": "wikipedia",
+          "note": "2010 action-adventure video game"
+        }
+      ]
+    },
+    {
+      "name": "Mafia: The City of Lost Heaven",
+      "kind": "game",
+      "description": "First Mafia game, an introduction to GTA-style games.",
+      "timestamp": "42:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mafia_(video_game)",
+          "label": "Wikipedia: Mafia (video game)",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mafia III",
+      "kind": "game",
+      "description": "Third Mafia game, which got a big marketing push.",
+      "timestamp": "42:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mafia_III",
+          "label": "Wikipedia: Mafia III",
+          "source": "wikipedia",
+          "note": "2016 video game"
+        }
+      ]
+    },
+    {
+      "name": "Grand Theft Auto",
+      "kind": "game",
+      "description": "Open-world crime series the Mafia games were compared with.",
+      "timestamp": "42:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+          "label": "Wikipedia: Grand Theft Auto",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Far Cry 2",
+      "kind": "game",
+      "description": "Second Far Cry, called the overlooked entry in the series.",
+      "timestamp": "43:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Far_Cry_2",
+          "label": "Wikipedia: Far Cry 2",
+          "source": "wikipedia",
+          "note": "2008 video game"
+        }
+      ]
+    },
+    {
+      "name": "Far Cry 3",
+      "kind": "game",
+      "description": "Entry that expanded the franchise.",
+      "timestamp": "43:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Far_Cry_3",
+          "label": "Wikipedia: Far Cry 3",
+          "source": "wikipedia",
+          "note": "2012 video game"
+        }
+      ]
+    },
+    {
+      "name": "BioShock 2",
+      "kind": "game",
+      "description": "Second BioShock, offered as a good but overlooked sequel.",
+      "timestamp": "44:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/BioShock_2",
+          "label": "Wikipedia: BioShock 2",
+          "source": "wikipedia",
+          "note": "2010 video game"
+        }
+      ]
+    },
+    {
+      "name": "BioShock Infinite",
+      "kind": "game",
+      "description": "Third BioShock, which won awards but is now criticized.",
+      "timestamp": "44:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/BioShock_Infinite",
+          "label": "Wikipedia: BioShock Infinite",
+          "source": "wikipedia",
+          "note": "2013 video game"
+        }
+      ]
+    },
+    {
+      "name": "Fable II",
+      "kind": "game",
+      "description": "Fable sequel considered the good one in the series.",
+      "timestamp": "45:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fable_II",
+          "label": "Wikipedia: Fable II",
+          "source": "wikipedia",
+          "note": "2008 video game"
+        }
+      ]
+    },
+    {
+      "name": "Black & White 2",
+      "kind": "game",
+      "description": "God simulation game from the early 2000s, remembered from a magazine ad.",
+      "timestamp": "46:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Black_%26_White_2",
+          "label": "Wikipedia: Black & White 2",
+          "source": "wikipedia",
+          "note": "2005 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of essential NES games.",
+      "timestamp": "45:30",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Terra Cresta",
+      "kind": "game",
+      "description": "Shooter recently added to the Essential Games List.",
+      "timestamp": "49:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Terra_Cresta",
+          "label": "Wikipedia: Terra Cresta",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "291-terra-cresta",
+      "episode_title": "Terra Cresta"
+    },
+    {
+      "name": "Snoopy's Silly Sports Spectacular",
+      "kind": "game",
+      "description": "NES sports game covered the previous week.",
+      "timestamp": "49:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Snoopy's_Silly_Sports_Spectacular",
+          "label": "Wikipedia: Snoopy's Silly Sports Spectacular",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "302-snoopys-silly-sports-spectacular",
+      "episode_title": "Snoopy's Silly Sports Spectacular"
+    },
+    {
+      "name": "Spy vs. Spy",
+      "kind": "game",
+      "description": "NES game on the Essential Games List.",
+      "timestamp": "49:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spy_vs._Spy_(1984_video_game)",
+          "label": "Wikipedia: Spy vs. Spy (1984 video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "132-spy-vs-spy",
+      "episode_title": "SPY VS SPY"
+    },
+    {
+      "name": "Blaster Master",
+      "kind": "game",
+      "description": "NES game on the Essential Games List.",
+      "timestamp": "49:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master_(video_game)",
+          "label": "Wikipedia: Blaster Master (video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "135-blaster-master",
+      "episode_title": "BLASTER MASTER"
+    },
+    {
+      "name": "Excitebike",
+      "kind": "game",
+      "description": "Nintendo racer that listeners ask about on the Essential Games List.",
+      "timestamp": "50:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Excitebike",
+          "label": "Wikipedia: Excitebike",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "005-excitebike",
+      "episode_title": "EXCITEBIKE"
+    },
+    {
+      "name": "Tecmo World Wrestling",
+      "kind": "game",
+      "description": "NES wrestling game covered in the next episode.",
+      "timestamp": "50:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo_World_Wrestling",
+          "label": "Wikipedia: Tecmo World Wrestling",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "304-tecmo-world-wrestling",
+      "episode_title": "Tecmo World Wrestling"
+    }
+  ]
+}

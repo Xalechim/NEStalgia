@@ -1,0 +1,602 @@
+{
+  "episode": 190,
+  "title": "190 - Mega Man 2",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "fb7289e3201a",
+  "items": [
+    {
+      "name": "Mega Man 2",
+      "kind": "game",
+      "description": "The 1988 Capcom sequel the episode is about, with eight Robot Masters, easy and difficult modes and a long Wily fortress.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_2",
+          "label": "Wikipedia: Mega Man 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Mega_Man_2",
+          "label": "Mega Man 2 - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://archive.org/download/NESManuals/Mega%20Man%202%20%28USA%29_text.pdf",
+          "label": "Mega Man 2 (USA) manual - Internet Archive",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man",
+      "kind": "game",
+      "description": "The 1987 original, whose hard difficulty and missable items the sequel improved on.",
+      "timestamp": "02:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_(1987_video_game)",
+          "label": "Wikipedia: Mega Man (1987 video game)",
+          "source": "wikipedia",
+          "note": "NES/Famicom action-platform video game"
+        },
+        {
+          "url": "https://tcrf.net/Mega_Man_(NES)",
+          "label": "Mega Man (NES) - The Cutting Room Floor",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Capcom",
+      "kind": "company",
+      "description": "The developer and publisher that reportedly made the sequel on staff's own time after weak first-game sales.",
+      "timestamp": "01:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Capcom",
+          "label": "Wikipedia: Capcom",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Wily",
+      "kind": "other",
+      "description": "The villain who builds his own eight Robot Masters in this game.",
+      "timestamp": "09:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Mega_Man_characters",
+          "label": "Wikipedia: List of Mega Man characters",
+          "source": "wikipedia",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Mega Man X",
+      "kind": "other",
+      "description": "The later series set in 20XX, whose name the hosts joke about.",
+      "timestamp": "08:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_X",
+          "label": "Wikipedia: Mega Man X",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Password system",
+      "kind": "event_or_term",
+      "description": "The dot-grid password screen that replaced letters and numbers.",
+      "timestamp": "1:14:06",
+      "links": [
+        {
+          "url": "https://strategywiki.org/wiki/Mega_Man_2/Password_Mechanics",
+          "label": "Mega Man 2 password mechanics - StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "QR code",
+      "kind": "event_or_term",
+      "description": "The hosts compare the dot-grid password to a QR code you can photograph.",
+      "timestamp": "1:14:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/QR_code",
+          "label": "Wikipedia: QR code",
+          "source": "wikipedia",
+          "note": "Type of two-dimensional barcode"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 2 boss design contest",
+      "kind": "event_or_term",
+      "description": "Capcom took fan boss designs in Japan, with about 8,370 entries, and reworked them for the Robot Masters.",
+      "timestamp": "1:16:47",
+      "links": [
+        {
+          "url": "https://www.rockman-corner.com/2012/07/blast-from-past-rockman-2-boss-contest.html",
+          "label": "Rockman 2 boss contest - Rockman Corner",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Keiji Inafune",
+      "kind": "person",
+      "description": "The artist who joined Capcom's team on this game and later became the face of the series.",
+      "timestamp": "1:16:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Keiji_Inafune",
+          "label": "Wikipedia: Keiji Inafune",
+          "source": "wikipedia",
+          "note": "Japanese video game producer, illustrator, and businessman (born 1965)"
+        },
+        {
+          "url": "https://www.siliconera.com/why-zero-is-cooler-than-mega-man-x-and-how-mega-man-2-was-made/",
+          "label": "How Mega Man 2 was made - Siliconera",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Mighty No. 9",
+      "kind": "game",
+      "description": "The crowdfunded spiritual successor Inafune later made, which many backers disliked.",
+      "timestamp": "1:16:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mighty_No._9",
+          "label": "Wikipedia: Mighty No. 9",
+          "source": "wikipedia",
+          "note": "2016 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 3",
+      "kind": "game",
+      "description": "The next NES sequel the hosts say is still to come.",
+      "timestamp": "1:18:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_3",
+          "label": "Wikipedia: Mega Man 3",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://tcrf.net/Mega_Man_3_(NES)",
+          "label": "Mega Man 3 (NES) - The Cutting Room Floor",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "394-mega-man-3",
+      "episode_title": "Mega Man 3"
+    },
+    {
+      "name": "Mega Man 4",
+      "kind": "game",
+      "description": "Another upcoming NES sequel in the series.",
+      "timestamp": "1:18:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_4",
+          "label": "Wikipedia: Mega Man 4",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Mega Man 5",
+      "kind": "game",
+      "description": "Another upcoming NES sequel in the series.",
+      "timestamp": "1:18:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_5",
+          "label": "Wikipedia: Mega Man 5",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Mega Man 6",
+      "kind": "game",
+      "description": "The last NES sequel in the series, due later in the show.",
+      "timestamp": "1:18:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_6",
+          "label": "Wikipedia: Mega Man 6",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Mega Man 8",
+      "kind": "game",
+      "description": "A PlayStation-era entry, and the first Mega Man game one host played.",
+      "timestamp": "38:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_8",
+          "label": "Wikipedia: Mega Man 8",
+          "source": "wikipedia",
+          "note": "1996 video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Mega Man 9",
+      "kind": "game",
+      "description": "The 2008 downloadable revival after a long gap in the series.",
+      "timestamp": "1:21:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_9",
+          "label": "Wikipedia: Mega Man 9",
+          "source": "wikipedia",
+          "note": "2008 video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Mega Man 10",
+      "kind": "game",
+      "description": "The next entry after the long gap following Mega Man 9.",
+      "timestamp": "1:21:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_10",
+          "label": "Wikipedia: Mega Man 10",
+          "source": "wikipedia",
+          "note": "2010 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 11",
+      "kind": "game",
+      "description": "The modern entry that arrived after another long gap.",
+      "timestamp": "1:21:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_11",
+          "label": "Wikipedia: Mega Man 11",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man II (Game Boy)",
+      "kind": "game",
+      "description": "The unrelated Game Boy sequel with a different story and bosses, involving time travel.",
+      "timestamp": "1:22:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_II_(1991_video_game)",
+          "label": "Wikipedia: Mega Man II (1991 video game)",
+          "source": "wikipedia",
+          "note": "Action-platform video game"
+        },
+        {
+          "url": "https://tcrf.net/Mega_Man_II",
+          "label": "Mega Man II - The Cutting Room Floor",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 2 30th anniversary cartridge",
+      "kind": "other",
+      "description": "A limited-run, working NES cartridge re-release of Mega Man 2 made for the series' 30th anniversary.",
+      "timestamp": "1:22:46",
+      "links": [
+        {
+          "url": "https://themmnetwork.com/2018/05/01/iam8bit-reveals-mega-man-2-and-mega-man-x-30th-anniversary-cartridges/",
+          "label": "iam8bit reveals Mega Man 2 and Mega Man X 30th anniversary cartridges - The MM Network",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Back to the Future",
+      "kind": "film_tv_music",
+      "description": "The film trilogy whose villain Biff was used in a joke about Dr. Wily.",
+      "timestamp": "1:22:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+          "label": "Wikipedia: Back to the Future",
+          "source": "wikipedia",
+          "note": "1985 film by Robert Zemeckis"
+        }
+      ],
+      "episode_key": "212-back-to-the-future",
+      "episode_title": "Back to the Future"
+    },
+    {
+      "name": "Biff Tannen",
+      "kind": "other",
+      "description": "The Back to the Future bully compared to Dr. Wily.",
+      "timestamp": "1:22:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Biff_Tannen",
+          "label": "Wikipedia: Biff Tannen",
+          "source": "wikipedia",
+          "note": "Back to the Future character"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Used as the benchmark for smooth movement and for pressing forward.",
+      "timestamp": "00:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Super Mario Bros. 2",
+      "kind": "game",
+      "description": "Cited as a sequel that was a completely different game.",
+      "timestamp": "00:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2",
+          "label": "Wikipedia: Super Mario Bros. 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "133-super-mario-bros-2",
+      "episode_title": "SUPER MARIO BROS. 2"
+    },
+    {
+      "name": "Castlevania II: Simon's Quest",
+      "kind": "game",
+      "description": "Cited as a sequel that changed a lot from its predecessor.",
+      "timestamp": "00:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Simon's_Quest",
+          "label": "Wikipedia: Castlevania II: Simon's Quest",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "143-castlevania-ii-simons-quest",
+      "episode_title": "CASTLEVANIA II: SIMON'S QUEST"
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "Cited as a very different sequel, and a game the hosts keep bringing up for the Essential list.",
+      "timestamp": "00:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "Ninja Gaiden",
+      "kind": "game",
+      "description": "Praised for its hero's journey story and for tighter character control than Mega Man.",
+      "timestamp": "10:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(NES_video_game)",
+          "label": "Wikipedia: Ninja Gaiden (NES video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "170-ninja-gaiden",
+      "episode_title": "Ninja Gaiden"
+    },
+    {
+      "name": "Kingdom Hearts",
+      "kind": "game",
+      "description": "Example of a game whose higher difficulty just changes damage numbers.",
+      "timestamp": "15:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)",
+          "label": "Wikipedia: Kingdom Hearts (video game)",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "Compared to Mega Man's screen-by-screen, grid-like movement.",
+      "timestamp": "53:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "Super Smash Bros.",
+      "kind": "game",
+      "description": "Where one host first saw Mega Man's weapons, based on Mega Man 2.",
+      "timestamp": "1:28:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros.",
+          "label": "Wikipedia: Super Smash Bros.",
+          "source": "wikipedia",
+          "note": "Series of crossover fighting games"
+        }
+      ]
+    },
+    {
+      "name": "BioShock",
+      "kind": "game",
+      "description": "Example of a great game with a weak final boss.",
+      "timestamp": "1:30:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/BioShock",
+          "label": "Wikipedia: BioShock",
+          "source": "wikipedia",
+          "note": "2007 video game"
+        }
+      ]
+    },
+    {
+      "name": "Monster Party",
+      "kind": "game",
+      "description": "The NES game covered in the next episode.",
+      "timestamp": "1:31:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monster_Party",
+          "label": "Wikipedia: Monster Party",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "191-monster-party",
+      "episode_title": "MONSTER PARTY"
+    },
+    {
+      "name": "Human Entertainment",
+      "kind": "company",
+      "description": "Developer of Monster Party.",
+      "timestamp": "1:32:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Human_Entertainment",
+          "label": "Wikipedia: Human Entertainment",
+          "source": "wikipedia",
+          "note": "Japanese video game developer and publisher"
+        }
+      ]
+    },
+    {
+      "name": "Operation Wolf",
+      "kind": "game",
+      "description": "A game already on the Essential Games List, used for a comparison.",
+      "timestamp": "1:33:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Wolf",
+          "label": "Wikipedia: Operation Wolf",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "182-operation-wolf",
+      "episode_title": "Operation Wolf"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of must-play NES games, which this game joins.",
+      "timestamp": "1:25:01",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy XV",
+      "kind": "game",
+      "description": "Example of a modern sequel that drifted far from its series' roots.",
+      "timestamp": "1:20:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_XV",
+          "label": "Wikipedia: Final Fantasy XV",
+          "source": "wikipedia",
+          "note": "2016 video game"
+        }
+      ]
+    },
+    {
+      "name": "Pokémon",
+      "kind": "other",
+      "description": "Franchise where fans keep asking for a new format, used as an example of iterating on a formula.",
+      "timestamp": "1:19:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon",
+          "label": "Wikipedia: Pokémon",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Toys \"R\" Us",
+      "kind": "company",
+      "description": "The toy store joked about as where you would buy a box of bubbles.",
+      "timestamp": "1:12:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Toys_%22R%22_Us",
+          "label": "Wikipedia: Toys \"R\" Us",
+          "source": "wikipedia",
+          "note": "American toy, clothing, and baby product retailer"
+        }
+      ]
+    }
+  ]
+}

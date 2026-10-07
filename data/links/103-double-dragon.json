@@ -1,0 +1,667 @@
+{
+  "episode": 103,
+  "title": "103 - Double Dragon",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "d71062794320",
+  "items": [
+    {
+      "name": "Double Dragon",
+      "kind": "game",
+      "description": "Technos Japan's side-scrolling beat-em-up, ported to the NES from the arcade, and the episode's game.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_(video_game)",
+          "label": "Wikipedia: Double Dragon (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Technos Japan",
+      "kind": "company",
+      "description": "Developer of Double Dragon and of Renegade.",
+      "timestamp": "01:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Techn%C5%8Ds_Japan",
+          "label": "Wikipedia: Technōs Japan",
+          "source": "wikipedia",
+          "note": "Japanese video game developer and publisher"
+        }
+      ]
+    },
+    {
+      "name": "Renegade",
+      "kind": "game",
+      "description": "Earlier Technos NES brawler, treated as the proto-beat-em-up that Double Dragon improves on.",
+      "timestamp": "01:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Renegade_(video_game)",
+          "label": "Wikipedia: Renegade (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "091-renegade",
+      "episode_title": "RENEGADE"
+    },
+    {
+      "name": "Beat 'em up",
+      "kind": "event_or_term",
+      "description": "The genre of side-scrolling fighting games that Double Dragon helped define.",
+      "timestamp": "02:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Beat_'em_up",
+          "label": "Wikipedia: Beat 'em up",
+          "source": "wikipedia",
+          "note": "Video game genre"
+        }
+      ]
+    },
+    {
+      "name": "Streets of Rage",
+      "kind": "game",
+      "description": "Sega Genesis game cited as the later standard for the beat-em-up genre.",
+      "timestamp": "02:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Streets_of_Rage_(video_game)",
+          "label": "Wikipedia: Streets of Rage (video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Bad Dudes",
+      "kind": "game",
+      "description": "Data East game whose famous line asks if you are a bad enough dude to rescue the president.",
+      "timestamp": "02:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bad_Dudes_Vs._DragonNinja",
+          "label": "Wikipedia: Bad Dudes Vs. DragonNinja",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "204-bad-dudes",
+      "episode_title": "Bad Dudes"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Used as a comparison for how levels feel connected, and for how a player dies and the other takes over.",
+      "timestamp": "07:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "One of the two games the hosts say a 3D NES emulator was tuned for.",
+      "timestamp": "08:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "Mega Man",
+      "kind": "other",
+      "description": "The other game the hosts say a 3D NES emulator was tuned for.",
+      "timestamp": "08:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man",
+          "label": "Wikipedia: Mega Man",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Sleeping Dogs",
+      "kind": "game",
+      "description": "Recent game with interactive environments, such as pushing an enemy's face into a urinal.",
+      "timestamp": "17:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sleeping_Dogs_(video_game)",
+          "label": "Wikipedia: Sleeping Dogs (video game)",
+          "source": "wikipedia",
+          "note": "2012 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kung-Fu Master",
+      "kind": "game",
+      "description": "Earlier arcade and NES fighter used as a comparison for how far Renegade and Double Dragon advanced.",
+      "timestamp": "18:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kung-Fu_Master_(video_game)",
+          "label": "Wikipedia: Kung-Fu Master (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ]
+    },
+    {
+      "name": "Wizards & Warriors",
+      "kind": "game",
+      "description": "NES game cited as lacking a sense of place compared to Double Dragon.",
+      "timestamp": "19:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wizards_%26_Warriors",
+          "label": "Wikipedia: Wizards & Warriors",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "089-wizards-warriors",
+      "episode_title": "WIZARDS & WARRIORS"
+    },
+    {
+      "name": "The Elder Scrolls",
+      "kind": "other",
+      "description": "Role-playing series used to describe how lived-in a game world feels.",
+      "timestamp": "19:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls",
+          "label": "Wikipedia: The Elder Scrolls",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "NES game praised for making you understand where you are headed.",
+      "timestamp": "20:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Street Fighter II",
+      "kind": "game",
+      "description": "Fighting game cited as one where guarding is a mechanic.",
+      "timestamp": "26:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Street_Fighter_II",
+          "label": "Wikipedia: Street Fighter II",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Contra",
+      "kind": "game",
+      "description": "Run-and-gun game the cave platforms in Double Dragon recall.",
+      "timestamp": "30:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+          "label": "Wikipedia: Contra (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "092-contra",
+      "episode_title": "CONTRA"
+    },
+    {
+      "name": "Mortal Kombat",
+      "kind": "game",
+      "description": "Fighting game cited for the arcade ending where two players fight each other.",
+      "timestamp": "39:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)",
+          "label": "Wikipedia: Mortal Kombat (1992 video game)",
+          "source": "wikipedia",
+          "note": "1992 fighting game"
+        }
+      ]
+    },
+    {
+      "name": "The Dark Knight",
+      "kind": "film_tv_music",
+      "description": "Film referenced for a scene where the Joker breaks a pool cue.",
+      "timestamp": "40:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Dark_Knight",
+          "label": "Wikipedia: The Dark Knight",
+          "source": "wikipedia",
+          "note": "2008 film by Christopher Nolan"
+        }
+      ]
+    },
+    {
+      "name": "Trojan",
+      "kind": "game",
+      "description": "Capcom NES game with an early one-on-one fighting mode.",
+      "timestamp": "43:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Trojan_(video_game)",
+          "label": "Wikipedia: Trojan (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "037-trojan",
+      "episode_title": "TROJAN"
+    },
+    {
+      "name": "Tag Team Wrestling",
+      "kind": "game",
+      "description": "NES wrestling game the hosts try to recall in discussing character select.",
+      "timestamp": "43:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tag_Team_Wrestling",
+          "label": "Wikipedia: Tag Team Wrestling",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "028-tag-team-wrestling",
+      "episode_title": "TAG TEAM WRESTLING"
+    },
+    {
+      "name": "Yoshihisa Kishimoto",
+      "kind": "person",
+      "description": "Creator of Renegade and Double Dragon, quoted about why he made fighting games.",
+      "timestamp": "43:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yoshihisa_Kishimoto",
+          "label": "Wikipedia: Yoshihisa Kishimoto",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (1961–2026)"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon II: The Revenge",
+      "kind": "game",
+      "description": "The next NES Double Dragon game, covered in a later episode.",
+      "timestamp": "46:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_II%3A_The_Revenge",
+          "label": "Wikipedia: Double Dragon II: The Revenge",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon III: The Rosetta Stone",
+      "kind": "game",
+      "description": "The third NES Double Dragon game, joked about as a language-learning game.",
+      "timestamp": "46:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_III%3A_The_Sacred_Stones",
+          "label": "Wikipedia: Double Dragon III: The Sacred Stones",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Double Dragon",
+      "kind": "game",
+      "description": "Super Nintendo entry that finally adds a guard button.",
+      "timestamp": "46:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Double_Dragon",
+          "label": "Wikipedia: Super Double Dragon",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon V: The Shadow Falls",
+      "kind": "game",
+      "description": "Super Nintendo head-to-head fighter based on the animated series.",
+      "timestamp": "47:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_V%3A_The_Shadow_Falls",
+          "label": "Wikipedia: Double Dragon V: The Shadow Falls",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon (Neo Geo)",
+      "kind": "game",
+      "description": "Head-to-head fighter based on the movie, Technos Japan's last Double Dragon game.",
+      "timestamp": "47:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_(1995_video_game)",
+          "label": "Wikipedia: Double Dragon (1995 video game)",
+          "source": "wikipedia",
+          "note": "1995 video game"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon Neon",
+      "kind": "game",
+      "description": "2012 reboot for Xbox 360 and PlayStation 3.",
+      "timestamp": "48:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_Neon",
+          "label": "Wikipedia: Double Dragon Neon",
+          "source": "wikipedia",
+          "note": "2012 beat 'em up video game"
+        }
+      ]
+    },
+    {
+      "name": "Battletoads",
+      "kind": "game",
+      "description": "Rare's NES game, mentioned with the Double Dragon crossover.",
+      "timestamp": "48:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battletoads_(1991_video_game)",
+          "label": "Wikipedia: Battletoads (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Battletoads & Double Dragon",
+      "kind": "game",
+      "description": "Super Nintendo crossover of the two franchises.",
+      "timestamp": "48:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battletoads%2FDouble_Dragon",
+          "label": "Wikipedia: Battletoads/Double Dragon",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Rare",
+      "kind": "company",
+      "description": "British developer of Battletoads.",
+      "timestamp": "49:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rare_(company)",
+          "label": "Wikipedia: Rare (company)",
+          "source": "wikipedia",
+          "note": "British video game developer"
+        }
+      ]
+    },
+    {
+      "name": "Ninja Gaiden",
+      "kind": "other",
+      "description": "Series the hosts joke could cross over with Castlevania.",
+      "timestamp": "49:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden",
+          "label": "Wikipedia: Ninja Gaiden",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "170-ninja-gaiden",
+      "episode_title": "Ninja Gaiden"
+    },
+    {
+      "name": "Arc System Works",
+      "kind": "company",
+      "description": "Developer of Double Dragon Neon and several fighting games.",
+      "timestamp": "49:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arc_System_Works",
+          "label": "Wikipedia: Arc System Works",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Ball FighterZ",
+      "kind": "game",
+      "description": "Arc System Works fighting game named as an example of their work.",
+      "timestamp": "49:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Ball_FighterZ",
+          "label": "Wikipedia: Dragon Ball FighterZ",
+          "source": "wikipedia",
+          "note": "2018 2.5D Dragon Ball fighting game"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon IV",
+      "kind": "game",
+      "description": "Recent entry on PlayStation 4 and Switch that uses an 8-bit style.",
+      "timestamp": "50:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_IV",
+          "label": "Wikipedia: Double Dragon IV",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Shovel Knight",
+      "kind": "game",
+      "description": "Modern game with a retro 8-bit look, used for comparison with Double Dragon IV.",
+      "timestamp": "51:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shovel_Knight",
+          "label": "Wikipedia: Shovel Knight",
+          "source": "wikipedia",
+          "note": "2014 video game"
+        }
+      ]
+    },
+    {
+      "name": "Marvel Comics",
+      "kind": "company",
+      "description": "Publisher of the Double Dragon comics.",
+      "timestamp": "52:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Marvel_Comics",
+          "label": "Wikipedia: Marvel Comics",
+          "source": "wikipedia",
+          "note": "American comic book publisher"
+        }
+      ]
+    },
+    {
+      "name": "Stan Lee",
+      "kind": "person",
+      "description": "Comic creator, joked about as the brothers' father in the Marvel Double Dragon comic.",
+      "timestamp": "52:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stan_Lee",
+          "label": "Wikipedia: Stan Lee",
+          "source": "wikipedia",
+          "note": "American comic book writer (1922–2018)"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon (animated series)",
+      "kind": "film_tv_music",
+      "description": "1993 cartoon with a different backstory for the brothers.",
+      "timestamp": "53:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_(TV_series)",
+          "label": "Wikipedia: Double Dragon (TV series)",
+          "source": "wikipedia",
+          "note": "1993 American-Italian TV series or program"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Warrior Monsters",
+      "kind": "game",
+      "description": "Game joked about when the cartoon says Jimmy joins his brother as a dragon warrior.",
+      "timestamp": "53:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Warrior_Monsters",
+          "label": "Wikipedia: Dragon Warrior Monsters",
+          "source": "wikipedia",
+          "note": "First video game in the Dragon Quest Monsters series"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon (film)",
+      "kind": "film_tv_music",
+      "description": "1994 live-action movie that explains what the double dragon is.",
+      "timestamp": "54:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_(film)",
+          "label": "Wikipedia: Double Dragon (film)",
+          "source": "wikipedia",
+          "note": "1994 American martial arts film"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. (film)",
+      "kind": "film_tv_music",
+      "description": "1993 film the Double Dragon movie is compared to.",
+      "timestamp": "55:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._(film)",
+          "label": "Wikipedia: Super Mario Bros. (film)",
+          "source": "wikipedia",
+          "note": "1993 film by Rocky Morton and Annabel Jankel"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "website_or_article",
+      "description": "NEStalgia's running list of the NES games the hosts call essential.",
+      "timestamp": "56:32",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Stinger",
+      "kind": "game",
+      "description": "Konami NES shooter the host says is on the essential list for now.",
+      "timestamp": "59:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stinger_(1986_video_game)",
+          "label": "Wikipedia: Stinger (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "071-stinger",
+      "episode_title": "STINGER"
+    },
+    {
+      "name": "Balloon Fight",
+      "kind": "game",
+      "description": "NES game the host often boots up to play.",
+      "timestamp": "1:00:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Balloon_Fight",
+          "label": "Wikipedia: Balloon Fight",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "024-balloon-fight",
+      "episode_title": "BALLOON FIGHT"
+    },
+    {
+      "name": "Gradius",
+      "kind": "game",
+      "description": "Konami shooter the host also often boots up to play.",
+      "timestamp": "1:00:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gradius_(video_game)",
+          "label": "Wikipedia: Gradius (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "035-gradius",
+      "episode_title": "GRADIUS"
+    }
+  ]
+}

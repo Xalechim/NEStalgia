@@ -1,0 +1,401 @@
+{
+  "episode": 394,
+  "title": "394 - Mega Man 3",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "da77ff17d573",
+  "items": [
+    {
+      "name": "Mega Man 3",
+      "kind": "game",
+      "description": "The episode's game: Capcom's 1990 NES sequel that adds the slide, Rush the robot dog and the Doc Robot stages.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_3",
+          "label": "Wikipedia: Mega Man 3",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/1558",
+          "label": "Mega Man 3 - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Megaman_3",
+          "label": "Mega Man 3 - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.tcrf.net/Mega_Man_3_(NES)",
+          "label": "Mega Man 3 (NES) - The Cutting Room Floor",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man",
+      "kind": "game",
+      "description": "The first game in the series, voted onto the Essential Games List; the hosts debate whether it still belongs.",
+      "timestamp": "02:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_(1987_video_game)",
+          "label": "Wikipedia: Mega Man (1987 video game)",
+          "source": "wikipedia",
+          "note": "NES/Famicom action-platform video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Mega Man 2",
+      "kind": "game",
+      "description": "The previous NES game, also on the Essential Games List, whose bosses return as Doc Robot in this game.",
+      "timestamp": "02:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_2",
+          "label": "Wikipedia: Mega Man 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "190-mega-man-2",
+      "episode_title": "MEGA MAN 2"
+    },
+    {
+      "name": "Mega Man (franchise)",
+      "kind": "other",
+      "description": "The Capcom action-platformer series; this is its third NES entry, with Mega Man 11 the latest numbered game mentioned.",
+      "timestamp": "01:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man",
+          "label": "Wikipedia: Mega Man",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Capcom",
+      "kind": "company",
+      "description": "The developer and publisher behind Mega Man, putting out a game nearly every year.",
+      "timestamp": "02:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Capcom",
+          "label": "Wikipedia: Capcom",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man X",
+      "kind": "game",
+      "description": "Super Nintendo entry in the spinoff series that one host owned as a kid and loved.",
+      "timestamp": "01:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_X_(video_game)",
+          "label": "Wikipedia: Mega Man X (video game)",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Mega Man 8",
+      "kind": "game",
+      "description": "A later PlayStation-era entry in the series that one host remembers playing.",
+      "timestamp": "01:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_8",
+          "label": "Wikipedia: Mega Man 8",
+          "source": "wikipedia",
+          "note": "1996 video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Mega Man Anniversary Collection",
+      "kind": "game",
+      "description": "The PS2 and GameCube compilation of Mega Man 1 to 8, with a Navi Mode, that one host found too hard.",
+      "timestamp": "01:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_Anniversary_Collection",
+          "label": "Wikipedia: Mega Man Anniversary Collection",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        }
+      ]
+    },
+    {
+      "name": "Yellow Devil",
+      "kind": "other",
+      "description": "The giant block-throwing Wily boss, back as Yellow Devil Mark 2; a wall for one host.",
+      "timestamp": "54:01",
+      "links": [
+        {
+          "url": "https://giantbomb.com/yellow-devil/3005-11661/",
+          "label": "Yellow Devil - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Keiji Inafune",
+      "kind": "person",
+      "description": "Mega Man artist who said Mega Man 3 is one of his least favorite entries.",
+      "timestamp": "1:05:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Keiji_Inafune",
+          "label": "Wikipedia: Keiji Inafune",
+          "source": "wikipedia",
+          "note": "Japanese video game producer, illustrator, and businessman (born 1965)"
+        },
+        {
+          "url": "https://kotaku.com/how-mega-man-survived-its-creator-leaving-capcom-1787377120",
+          "label": "How Mega Man survived its creator leaving Capcom - Kotaku",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Akira Kitamura",
+      "kind": "person",
+      "description": "Lead of the first two games, who left Capcom early in this game's development.",
+      "timestamp": "1:05:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Akira_Kitamura",
+          "label": "Wikipedia: Akira Kitamura",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1964)"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 3 second-controller debug features",
+      "kind": "event_or_term",
+      "description": "Leftover debug features in the NES game: super jump, slowed and frozen animations when using controller two.",
+      "timestamp": "1:07:13",
+      "links": [
+        {
+          "url": "https://strategywiki.org/wiki/Mega_Man_3/Tips_and_Tricks",
+          "label": "Mega Man 3 Tips and Tricks - StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Rockman Complete Works",
+      "kind": "game",
+      "description": "The Japan-only PlayStation remake of Rockman 3, with a Navi Mode that adds hint pop-ups.",
+      "timestamp": "1:09:10",
+      "links": [
+        {
+          "url": "https://strategywiki.org/wiki/Rockman_Complete_Works",
+          "label": "Rockman Complete Works - StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man: The Wily Wars",
+      "kind": "game",
+      "description": "The Sega Genesis remake of Mega Man 1 to 3 with 16-bit graphics and changed physics.",
+      "timestamp": "1:19:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man%3A_The_Wily_Wars",
+          "label": "Wikipedia: Mega Man: The Wily Wars",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Mega_Man_The_Wily_Wars",
+          "label": "Mega Man: The Wily Wars - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man Soccer",
+      "kind": "game",
+      "description": "A Super Nintendo spin-off soccer game the hosts could hardly believe exists.",
+      "timestamp": "1:04:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_Soccer",
+          "label": "Wikipedia: Mega Man Soccer",
+          "source": "wikipedia",
+          "note": "1994 sports video game published by Capcom"
+        },
+        {
+          "url": "https://vgmuseum.com/mrp/manual-mmsoc.htm",
+          "label": "Mega Man Soccer manual - VGMuseum",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 4",
+      "kind": "game",
+      "description": "The next NES game, whose big change one host knows but will not spoil.",
+      "timestamp": "1:03:42",
+      "links": [],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "kind": "game",
+      "description": "Contest winner Chris Houlihan got his name in a secret house in this game.",
+      "timestamp": "51:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_A_Link_to_the_Past",
+          "label": "Wikipedia: The Legend of Zelda: A Link to the Past",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Locations/Chris_Houlihans_Room",
+          "label": "Chris Houlihan's Room - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts",
+      "kind": "game",
+      "description": "Its secret boss Kurt Zisa was named after a fan who won a name-in-game contest.",
+      "timestamp": "52:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)",
+          "label": "Wikipedia: Kingdom Hearts (video game)",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        },
+        {
+          "url": "https://www.khwiki.com/Kurt_Zisa",
+          "label": "Kurt Zisa - Kingdom Hearts Wiki",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Pokemon Gold and Silver",
+      "kind": "game",
+      "description": "Compared to Mega Man 3's return to earlier bosses, like going back to Kanto.",
+      "timestamp": "30:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Gold_and_Silver",
+          "label": "Wikipedia: Pokémon Gold and Silver",
+          "source": "wikipedia",
+          "note": "1999 video games"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "Mentioned for credits that list made-up names, and for its knockback.",
+      "timestamp": "42:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Super Smash Bros.",
+      "kind": "game",
+      "description": "Nintendo crossover fighter where Mega Man, Samus and Simon appear; the hosts mention its DLC and long roster.",
+      "timestamp": "20:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate",
+          "label": "Wikipedia: Super Smash Bros. Ultimate",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        }
+      ]
+    },
+    {
+      "name": "Tony Hawk's Pro Skater 3",
+      "kind": "game",
+      "description": "Its revert is the example for a single mechanic that changes a sequel.",
+      "timestamp": "1:11:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_3",
+          "label": "Wikipedia: Tony Hawk's Pro Skater 3",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy Pixel Remaster",
+      "kind": "game",
+      "description": "Remaster with adjustable settings, such as boosted experience, used as a model for a Mega Man 3 remaster.",
+      "timestamp": "1:16:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster",
+          "label": "Wikipedia: Final Fantasy Pixel Remaster",
+          "source": "wikipedia",
+          "note": "Series of Final Fantasy video game remasters"
+        }
+      ]
+    },
+    {
+      "name": "Journey",
+      "kind": "game",
+      "description": "Brought up in a joke about not knowing you play online; the game is a wordless adventure.",
+      "timestamp": "1:09:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Journey_(2012_video_game)",
+          "label": "Wikipedia: Journey (2012 video game)",
+          "source": "wikipedia",
+          "note": "Adventure game by Thatgamecompany"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; Mega Man 3 is voted on at the end.",
+      "timestamp": "1:21:02",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

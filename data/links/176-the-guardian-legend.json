@@ -1,0 +1,533 @@
+{
+  "episode": 176,
+  "title": "176 - The Guardian Legend",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "c20009ebcb74",
+  "items": [
+    {
+      "name": "The Guardian Legend",
+      "kind": "game",
+      "description": "The episode's game: Compile's 1989 hybrid of top-down action adventure and shoot-'em-up, starring a robot who becomes a ship.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Guardian_Legend",
+          "label": "Wikipedia: The Guardian Legend",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars",
+      "kind": "film_tv_music",
+      "description": "The back-of-box opening, 'long ago in a distant galaxy', reminds the hosts of Star Wars.",
+      "timestamp": "00:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Wars",
+          "label": "Wikipedia: Star Wars",
+          "source": "wikipedia",
+          "note": "American media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Shoot 'em up",
+      "kind": "event_or_term",
+      "description": "The shmup genre, one half of the game; the hosts say it is not what the title suggests.",
+      "timestamp": "01:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shoot_'em_up",
+          "label": "Wikipedia: Shoot 'em up",
+          "source": "wikipedia",
+          "note": "Subgenre of action game"
+        }
+      ]
+    },
+    {
+      "name": "George Lucas",
+      "kind": "person",
+      "description": "Joked to have been inspired by the game before his prequel films.",
+      "timestamp": "03:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Lucas",
+          "label": "Wikipedia: George Lucas",
+          "source": "wikipedia",
+          "note": "American filmmaker and entrepreneur (born 1944)"
+        }
+      ]
+    },
+    {
+      "name": "Blaster Master",
+      "kind": "game",
+      "description": "Earlier NES game with vehicle and on-foot play, the closest genre mix the hosts recall.",
+      "timestamp": "04:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master",
+          "label": "Wikipedia: Blaster Master",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ],
+      "episode_key": "135-blaster-master",
+      "episode_title": "BLASTER MASTER"
+    },
+    {
+      "name": "Golgo 13: Top Secret Episode",
+      "kind": "game",
+      "description": "Earlier episode with a helicopter shoot-'em-up minigame between regular levels.",
+      "timestamp": "04:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Golgo_13%3A_Top_Secret_Episode",
+          "label": "Wikipedia: Golgo 13: Top Secret Episode",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "115-golgo-13-top-secret-episode",
+      "episode_title": "GOLGO 13: TOP SECRET EPISODE"
+    },
+    {
+      "name": "Compile",
+      "kind": "company",
+      "description": "The Japanese developer of The Guardian Legend, known for shoot-'em-ups.",
+      "timestamp": "05:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Compile_(company)",
+          "label": "Wikipedia: Compile (company)",
+          "source": "wikipedia",
+          "note": "Japanese video game developer"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Its top-down dungeon layout is the model for the game's exploration half.",
+      "timestamp": "05:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "Compared for its nonlinear exploration and optional pickups.",
+      "timestamp": "05:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "Ninja Gaiden",
+      "kind": "game",
+      "description": "Previous episode, whose story came only in cutscenes, in contrast to this game.",
+      "timestamp": "08:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(NES_video_game)",
+          "label": "Wikipedia: Ninja Gaiden (NES video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "170-ninja-gaiden",
+      "episode_title": "Ninja Gaiden"
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "Cited with Metroid as an early game with continuous exploration.",
+      "timestamp": "10:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "Zanac",
+      "kind": "game",
+      "description": "Earlier Compile shoot-'em-up the hosts recall for its many weapons.",
+      "timestamp": "25:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zanac",
+          "label": "Wikipedia: Zanac",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "078-zanac",
+      "episode_title": "ZANAC"
+    },
+    {
+      "name": "Ratchet & Clank",
+      "kind": "game",
+      "description": "The weapon-collecting and upgrading loop reminds one host of this series.",
+      "timestamp": "26:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank_(2002_video_game)",
+          "label": "Wikipedia: Ratchet & Clank (2002 video game)",
+          "source": "wikipedia",
+          "note": "Platform video game"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania II: Simon's Quest",
+      "kind": "game",
+      "description": "Earlier game with vague, poorly translated hints, which this game improves on.",
+      "timestamp": "29:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Simon's_Quest",
+          "label": "Wikipedia: Castlevania II: Simon's Quest",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "143-castlevania-ii-simons-quest",
+      "episode_title": "CASTLEVANIA II: SIMON'S QUEST"
+    },
+    {
+      "name": "Nier: Automata",
+      "kind": "game",
+      "description": "The lost-log story and replaceable clones remind the hosts of this game.",
+      "timestamp": "31:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nier%3A_Automata",
+          "label": "Wikipedia: Nier: Automata",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Bowser",
+      "kind": "other",
+      "description": "Used to compare how intimidating the game's large bosses look.",
+      "timestamp": "38:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bowser",
+          "label": "Wikipedia: Bowser",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Gradius",
+      "kind": "game",
+      "description": "Top-tier NES shoot-'em-up whose pace the hosts say is calmer than this game's.",
+      "timestamp": "40:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gradius_(video_game)",
+          "label": "Wikipedia: Gradius (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "035-gradius",
+      "episode_title": "GRADIUS"
+    },
+    {
+      "name": "Life Force",
+      "kind": "game",
+      "description": "Another top NES shoot-'em-up used as a pace comparison.",
+      "timestamp": "40:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Salamander_(video_game)",
+          "label": "Wikipedia: Salamander (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "111-life-force",
+      "episode_title": "LIFE FORCE"
+    },
+    {
+      "name": "H. R. Giger",
+      "kind": "person",
+      "description": "Artist whose style the Japanese box art of the game resembles.",
+      "timestamp": "54:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/H._R._Giger",
+          "label": "Wikipedia: H. R. Giger",
+          "source": "wikipedia",
+          "note": "Swiss artist (1940–2014)"
+        }
+      ]
+    },
+    {
+      "name": "Puyo Puyo",
+      "kind": "game",
+      "description": "Compile's well-known puzzle series, still being made.",
+      "timestamp": "58:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Puyo_Puyo_(video_game)",
+          "label": "Wikipedia: Puyo Puyo (video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Broderbund",
+      "kind": "company",
+      "description": "The American publisher that brought the game to North America.",
+      "timestamp": "58:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Broderbund",
+          "label": "Wikipedia: Broderbund",
+          "source": "wikipedia",
+          "note": "American software company"
+        }
+      ]
+    },
+    {
+      "name": "Raid on Bungeling Bay",
+      "kind": "game",
+      "description": "Earlier Broderbund NES release (Raid on Bungeling Bay) by Will Wright.",
+      "timestamp": "58:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Raid_on_Bungeling_Bay",
+          "label": "Wikipedia: Raid on Bungeling Bay",
+          "source": "wikipedia",
+          "note": "1984 video game designed by Will Wright"
+        }
+      ],
+      "episode_key": "063-raid-on-bungeling-bay",
+      "episode_title": "RAID ON BUNGELING BAY"
+    },
+    {
+      "name": "Spelunker",
+      "kind": "game",
+      "description": "Earlier Broderbund NES release.",
+      "timestamp": "58:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spelunker_(video_game)",
+          "label": "Wikipedia: Spelunker (video game)",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "066-spelunker",
+      "episode_title": "SPELUNKER"
+    },
+    {
+      "name": "Lode Runner",
+      "kind": "game",
+      "description": "Broderbund game created largely by a single developer.",
+      "timestamp": "58:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lode_Runner",
+          "label": "Wikipedia: Lode Runner",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "062-lode-runner",
+      "episode_title": "LODE RUNNER"
+    },
+    {
+      "name": "Deadly Towers",
+      "kind": "game",
+      "description": "Earlier Broderbund NES release remembered by the hosts.",
+      "timestamp": "58:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Deadly_Towers",
+          "label": "Wikipedia: Deadly Towers",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "060-deadly-towers",
+      "episode_title": "DEADLY TOWERS"
+    },
+    {
+      "name": "Will Wright",
+      "kind": "person",
+      "description": "Designer of Bungling Bay and later SimCity.",
+      "timestamp": "59:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Will_Wright_(game_designer)",
+          "label": "Wikipedia: Will Wright (game designer)",
+          "source": "wikipedia",
+          "note": "American video game designer and entrepreneur (born 1960)"
+        }
+      ]
+    },
+    {
+      "name": "SimCity",
+      "kind": "game",
+      "description": "The city-building game Will Wright went on to make.",
+      "timestamp": "59:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/SimCity",
+          "label": "Wikipedia: SimCity",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Star Force",
+      "kind": "game",
+      "description": "Earlier NES shoot-'em-up that Super Star Force follows.",
+      "timestamp": "1:01:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Force",
+          "label": "Wikipedia: Star Force",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "084-star-force",
+      "episode_title": "STAR FORCE"
+    },
+    {
+      "name": "Sigma Star Saga",
+      "kind": "game",
+      "description": "A Game Boy Advance game recommended as inspired by The Guardian Legend.",
+      "timestamp": "1:02:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sigma_Star_Saga",
+          "label": "Wikipedia: Sigma Star Saga",
+          "source": "wikipedia",
+          "note": "2005 video game"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy Advance",
+      "kind": "hardware",
+      "description": "Handheld the hosts say they will reach in a far-off episode.",
+      "timestamp": "1:02:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy_Advance",
+          "label": "Wikipedia: Game Boy Advance",
+          "source": "wikipedia",
+          "note": "Handheld game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of essential NES games; the Guardian Legend was voted on.",
+      "timestamp": "1:02:15",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "Named among the well-known NES games listeners hear about.",
+      "timestamp": "1:10:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "Kirby's Adventure",
+      "kind": "game",
+      "description": "Another famous NES game compared to the lesser-known Guardian Legend.",
+      "timestamp": "1:10:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirby's_Adventure",
+          "label": "Wikipedia: Kirby's Adventure",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "CatDog",
+      "kind": "film_tv_music",
+      "description": "Nickelodeon cartoon invoked in a joke about Red XIII being a cat-dog thing.",
+      "timestamp": "1:13:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/CatDog",
+          "label": "Wikipedia: CatDog",
+          "source": "wikipedia",
+          "note": "American animated television series"
+        }
+      ]
+    },
+    {
+      "name": "Legacy of the Wizard",
+      "kind": "game",
+      "description": "The next episode's game.",
+      "timestamp": "1:13:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Legacy_of_the_Wizard",
+          "label": "Wikipedia: Legacy of the Wizard",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "177-legacy-of-the-wizard",
+      "episode_title": "Legacy of the Wizard"
+    }
+  ]
+}

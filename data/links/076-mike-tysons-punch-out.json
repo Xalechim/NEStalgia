@@ -1,0 +1,664 @@
+{
+  "episode": 76,
+  "title": "076 - Mike Tyson's Punch-Out",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "5d014d000c01",
+  "items": [
+    {
+      "name": "Mike Tyson's Punch-Out!!",
+      "kind": "game",
+      "description": "The episode's game: Little Mac boxes through three circuits of colorful fighters to reach a final bout with Mike Tyson.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Punch-Out!!_(1987_video_game)",
+          "label": "Wikipedia: Punch-Out!! (1987 video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Mike_Tyson%27s_Punch-out!",
+          "label": "StrategyWiki: Mike Tyson's Punch-Out!!",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/mike-tysons-punch-out/3030-4848/",
+          "label": "Giant Bomb: Mike Tyson's Punch-Out!!",
+          "source": "reference"
+        },
+        {
+          "url": "https://tcrf.net/Mike_Tyson%27s_Punch-Out!!",
+          "label": "The Cutting Room Floor: Mike Tyson's Punch-Out!!",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/punch-out-introduction-characters/",
+          "label": "Hardcore Gaming 101: Punch-Out!! series",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Mike Tyson",
+      "kind": "person",
+      "description": "The boxer Nintendo signed to endorse the game before he became heavyweight champion; his licence later lapsed.",
+      "timestamp": "00:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Tyson",
+          "label": "Wikipedia: Mike Tyson",
+          "source": "wikipedia",
+          "note": "American boxer and media personality (born 1966)"
+        },
+        {
+          "url": "https://www.cbssports.com/boxing/news/mike-tyson-takes-issue-with-nintendos-re-release-of-punch-out-having-mr-dream-as-final-boss/amp",
+          "label": "CBS Sports: Tyson on Mr. Dream replacing him",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "The Hangover",
+      "kind": "film_tv_music",
+      "description": "The 2009 comedy in which Mike Tyson appears.",
+      "timestamp": "00:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Hangover",
+          "label": "Wikipedia: The Hangover",
+          "source": "wikipedia",
+          "note": "2009 film by Todd Phillips"
+        }
+      ]
+    },
+    {
+      "name": "Punch-Out!! (arcade, 1984)",
+      "kind": "game",
+      "description": "The original two-monitor arcade boxing game, with a wireframe Little Mac, that preceded the NES version.",
+      "timestamp": "02:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Punch-Out!!_(1984_video_game)",
+          "label": "Wikipedia: Punch-Out!! (1984 video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Punch-Out",
+          "label": "StrategyWiki: Punch-Out!!",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Super Punch-Out!! (SNES)",
+      "kind": "game",
+      "description": "The 1994 Super Nintendo boxing game; its arcade original came out in 1985.",
+      "timestamp": "04:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Punch-Out!!",
+          "label": "Wikipedia: Super Punch-Out!!",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Super_Punch-Out!!_(SNES)",
+          "label": "StrategyWiki: Super Punch-Out!! (SNES)",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Little Mac",
+      "kind": "other",
+      "description": "The small 17-year-old, 107-pound boxer from the Bronx you play; wireframe in the arcade game.",
+      "timestamp": "04:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Little_Mac",
+          "label": "Wikipedia: Little Mac",
+          "source": "wikipedia",
+          "note": "Main character of the Punch-Out!! video game series"
+        }
+      ]
+    },
+    {
+      "name": "Genyo Takeda",
+      "kind": "person",
+      "description": "Nintendo developer who produced the Punch-Out!! arcade game and directed the NES versions.",
+      "timestamp": "04:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Genyo_Takeda",
+          "label": "Wikipedia: Genyo Takeda",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1949)"
+        }
+      ]
+    },
+    {
+      "name": "Shigeru Miyamoto",
+      "kind": "person",
+      "description": "Nintendo designer who designed the characters, including Little Mac.",
+      "timestamp": "04:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shigeru_Miyamoto",
+          "label": "Wikipedia: Shigeru Miyamoto",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1952)"
+        }
+      ]
+    },
+    {
+      "name": "Koji Kondo",
+      "kind": "person",
+      "description": "Composer who scored the arcade Punch-Out!!, reportedly his first game music.",
+      "timestamp": "06:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Koji_Kondo",
+          "label": "Wikipedia: Koji Kondo",
+          "source": "wikipedia",
+          "note": "Japanese musician (born 1961)"
+        }
+      ]
+    },
+    {
+      "name": "StarTropics",
+      "kind": "game",
+      "description": "Another game associated with Genyo Takeda, released in North America for the NES.",
+      "timestamp": "05:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/StarTropics",
+          "label": "Wikipedia: StarTropics",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "415-startropics",
+      "episode_title": "StarTropics"
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "First NES game with a save battery, which Punch-Out!! does not use.",
+      "timestamp": "06:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "Its long password is compared with Punch-Out!!'s short one.",
+      "timestamp": "07:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "Castlevania II: Simon's Quest",
+      "kind": "game",
+      "description": "Mentioned as having one of the longest passwords on the NES.",
+      "timestamp": "07:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Simon's_Quest",
+          "label": "Wikipedia: Castlevania II: Simon's Quest",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "143-castlevania-ii-simons-quest",
+      "episode_title": "CASTLEVANIA II: SIMON'S QUEST"
+    },
+    {
+      "name": "Wild Gunman",
+      "kind": "game",
+      "description": "Light-gun NES game compared with Punch-Out!! for its iconic imagery in popular culture.",
+      "timestamp": "04:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wild_Gunman",
+          "label": "Wikipedia: Wild Gunman",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "016-wild-gunman",
+      "episode_title": "WILD GUNMAN"
+    },
+    {
+      "name": "Hogan's Alley",
+      "kind": "game",
+      "description": "Light-gun game briefly confused with Wild Gunman when recalling the Back to the Future scene.",
+      "timestamp": "04:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hogan's_Alley_(video_game)",
+          "label": "Wikipedia: Hogan's Alley (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "008-hogans-alley",
+      "episode_title": "HOGAN'S ALLEY"
+    },
+    {
+      "name": "Back to the Future Part II",
+      "kind": "film_tv_music",
+      "description": "The film that features a kid playing a Western shooting arcade game, remembered as the series' cultural touchstone.",
+      "timestamp": "03:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II",
+          "label": "Wikipedia: Back to the Future Part II",
+          "source": "wikipedia",
+          "note": "1989 film by Robert Zemeckis"
+        }
+      ],
+      "episode_key": "354-back-to-the-future-part-ii-iii",
+      "episode_title": "Back to the Future Part II & III"
+    },
+    {
+      "name": "Super Smash Bros.",
+      "kind": "game",
+      "description": "Where Little Mac appears as a fighter, with a pink hoodie skin and a wireframe version.",
+      "timestamp": "04:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros.",
+          "label": "Wikipedia: Super Smash Bros.",
+          "source": "wikipedia",
+          "note": "Series of crossover fighting games"
+        }
+      ]
+    },
+    {
+      "name": "Rocky",
+      "kind": "film_tv_music",
+      "description": "The 1976-1979 boxing film series whose training-run montages the Punch-Out!! cutscenes echo.",
+      "timestamp": "10:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rocky",
+          "label": "Wikipedia: Rocky",
+          "source": "wikipedia",
+          "note": "1976 film by John G. Avildsen"
+        }
+      ]
+    },
+    {
+      "name": "Piston Honda",
+      "kind": "other",
+      "description": "The first huge opponent, whose charging flurry is a learning moment and who returns in the World Circuit.",
+      "timestamp": "08:20",
+      "links": [
+        {
+          "url": "https://nintendowire.com/news/2016/04/09/new-visual-cue-attack-discovered-punch/",
+          "label": "Nintendo Wire: visual cue discovered in Punch-Out!!",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Glass Joe",
+      "kind": "other",
+      "description": "The famously weak first opponent, the closest thing to a tutorial.",
+      "timestamp": "22:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Glass_Joe",
+          "label": "Wikipedia: Glass Joe",
+          "source": "wikipedia",
+          "note": "Fictional character in Punch-Out!!"
+        }
+      ]
+    },
+    {
+      "name": "King Hippo",
+      "kind": "other",
+      "description": "The big opponent you can only hurt when he opens his mouth and you knock down his shorts.",
+      "timestamp": "37:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Punch-Out!!_characters",
+          "label": "Wikipedia: List of Punch-Out!! characters",
+          "source": "wikipedia",
+          "note": "List of characters from Punch-Out!!"
+        }
+      ]
+    },
+    {
+      "name": "Bald Bull",
+      "kind": "other",
+      "description": "Opponent who can only be won by TKO; his bull charge can be countered with a body blow.",
+      "timestamp": "42:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Punch-Out!!_characters",
+          "label": "Wikipedia: List of Punch-Out!! characters",
+          "source": "wikipedia",
+          "note": "List of characters from Punch-Out!!"
+        }
+      ]
+    },
+    {
+      "name": "Soda Popinski",
+      "kind": "other",
+      "description": "Russian-themed boxer, originally called Vodka Drunkinski before Nintendo of America changed the name.",
+      "timestamp": "48:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Punch-Out!!_characters",
+          "label": "Wikipedia: List of Punch-Out!! characters",
+          "source": "wikipedia",
+          "note": "List of characters from Punch-Out!!"
+        },
+        {
+          "url": "https://www.denofgeek.com/games/nes-games-censored-history-details/",
+          "label": "Den of Geek: NES games you didn't know were censored",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Mario",
+      "kind": "other",
+      "description": "Appears as the referee in the game, and in other NES sports titles, to a listener's amusement.",
+      "timestamp": "16:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mario",
+          "label": "Wikipedia: Mario",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Ring King",
+      "kind": "game",
+      "description": "Earlier NES boxing game with full movement and clinching, compared unfavorably with Punch-Out!!",
+      "timestamp": "18:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ring_King",
+          "label": "Wikipedia: Ring King",
+          "source": "wikipedia",
+          "note": "1985 boxing video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Ring_King",
+          "label": "StrategyWiki: Ring King",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Ring_King",
+          "label": "Giant Bomb: Ring King",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "064-ring-king",
+      "episode_title": "RING KING"
+    },
+    {
+      "name": "Balloon Fight",
+      "kind": "game",
+      "description": "A simple NES game one voter returns to for high scores.",
+      "timestamp": "21:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Balloon_Fight",
+          "label": "Wikipedia: Balloon Fight",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "024-balloon-fight",
+      "episode_title": "BALLOON FIGHT"
+    },
+    {
+      "name": "Winter Games",
+      "kind": "game",
+      "description": "Its pause behavior is cited as an example of how pausing could work during a sport.",
+      "timestamp": "25:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Winter_Games",
+          "label": "Wikipedia: Winter Games",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "073-winter-games",
+      "episode_title": "WINTER GAMES"
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "game",
+      "description": "A notoriously unfair NES game contrasted with Punch-Out!!'s fair difficulty.",
+      "timestamp": "55:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins_(video_game)",
+          "label": "Wikipedia: Ghosts 'n Goblins (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    },
+    {
+      "name": "TwinBee",
+      "kind": "game",
+      "description": "Called Twin B and Stinger in the transcript; an earlier shooter with bosses you had to learn.",
+      "timestamp": "51:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/TwinBee",
+          "label": "Wikipedia: TwinBee",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ]
+    },
+    {
+      "name": "Shadow of the Colossus",
+      "kind": "game",
+      "description": "Compared with Punch-Out!! for learning each giant boss's quirks and patterns.",
+      "timestamp": "52:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shadow_of_the_Colossus",
+          "label": "Wikipedia: Shadow of the Colossus",
+          "source": "wikipedia",
+          "note": "2005 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts",
+      "kind": "game",
+      "description": "Cited as a game where boss fights give a similar feeling of learning patterns.",
+      "timestamp": "53:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts",
+          "label": "Wikipedia: Kingdom Hearts",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Captain N: The Game Master",
+      "kind": "film_tv_music",
+      "description": "Cartoon in which King Hippo appears.",
+      "timestamp": "39:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Captain_N%3A_The_Game_Master",
+          "label": "Wikipedia: Captain N: The Game Master",
+          "source": "wikipedia",
+          "note": "American animated television series"
+        }
+      ]
+    },
+    {
+      "name": "Summoning Salt",
+      "kind": "person",
+      "description": "YouTuber known for speedrun history videos, including one on Mike Tyson's Punch-Out!! records.",
+      "timestamp": "1:05:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Summoning_Salt",
+          "label": "Wikipedia: Summoning Salt",
+          "source": "wikipedia",
+          "note": "American speedrunner and YouTuber"
+        },
+        {
+          "url": "https://knowyourmeme.com/memes/people/summoning-salt",
+          "label": "Know Your Meme: Summoning Salt",
+          "source": "other"
+        },
+        {
+          "url": "https://digitaltrends.com/?p=3492369",
+          "label": "Digital Trends: Summoning Salt's Punch-Out!! record history video",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Awesome Games Done Quick",
+      "kind": "event_or_term",
+      "description": "Charity speedrunning marathon where blindfolded Punch-Out!! runs were performed.",
+      "timestamp": "1:05:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Games_Done_Quick",
+          "label": "Wikipedia: Games Done Quick",
+          "source": "wikipedia",
+          "note": "Semiannual video game speedrun charity marathon"
+        },
+        {
+          "url": "https://www.guinnessworldrecords.com/world-records/412207-fastest-blindfolded-w-v-b-a-championship-completion-in-mike-tysons-punch-out",
+          "label": "Guinness: fastest blindfolded W.V.B.A. championship completion",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Gillette Cavalcade of Sports",
+      "kind": "film_tv_music",
+      "description": "Radio and TV sports program that used that march as its theme.",
+      "timestamp": "1:06:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gillette_Cavalcade_of_Sports",
+          "label": "Wikipedia: Gillette Cavalcade of Sports",
+          "source": "wikipedia",
+          "note": "American sports anthology series"
+        }
+      ]
+    },
+    {
+      "name": "Raging Bull",
+      "kind": "film_tv_music",
+      "description": "1980 boxing film that also used the march.",
+      "timestamp": "1:07:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Raging_Bull",
+          "label": "Wikipedia: Raging Bull",
+          "source": "wikipedia",
+          "note": "1980 film directed by Martin Scorsese"
+        }
+      ]
+    },
+    {
+      "name": "Punch-Out!! (Wii, 2009)",
+      "kind": "game",
+      "description": "The 2009 Wii revival with a cartoon look, Wii Remote and Nunchuk punches, and Balance Board dodging.",
+      "timestamp": "1:10:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Punch-Out!!_(2009_video_game)",
+          "label": "Wikipedia: Punch-Out!! (2009 video game)",
+          "source": "wikipedia",
+          "note": "2009 video game"
+        },
+        {
+          "url": "https://giantbomb.com/punch-out/3030-23965/",
+          "label": "Giant Bomb: Punch-Out!! (Wii)",
+          "source": "reference"
+        },
+        {
+          "url": "https://iwataasks.nintendo.com/interviews/wii/punchout/0/0",
+          "label": "Iwata Asks: Punch-Out!!",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Doc Louis's Punch-Out!!",
+      "kind": "game",
+      "description": "Short WiiWare training game from 2009, no longer available to buy.",
+      "timestamp": "1:11:27",
+      "links": [
+        {
+          "url": "https://www.giantbomb.com/games/3030-27336/",
+          "label": "Giant Bomb: Doc Louis's Punch-Out!!",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Pokémon Red and Blue",
+      "kind": "game",
+      "description": "Used to argue an older original can still have polish that newer sequels lack.",
+      "timestamp": "1:22:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red%2C_Blue%2C_and_Yellow",
+          "label": "Wikipedia: Pokémon Red, Blue, and Yellow",
+          "source": "wikipedia",
+          "note": "1996 video games"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's list of essential NES games, voted on at the end of each episode.",
+      "timestamp": "1:15:34",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

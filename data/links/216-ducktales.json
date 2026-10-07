@@ -1,0 +1,643 @@
+{
+  "episode": 216,
+  "title": "216 - DuckTales",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "9a278c0a2c9a",
+  "items": [
+    {
+      "name": "DuckTales",
+      "kind": "game",
+      "description": "The episode's game, a Capcom platformer starring Scrooge McDuck collecting treasure around the world.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/DuckTales_(video_game)",
+          "label": "Wikipedia: DuckTales (video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "DuckTales",
+      "kind": "film_tv_music",
+      "description": "The Disney animated series the game is based on.",
+      "timestamp": "00:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/DuckTales_(1987_TV_series)",
+          "label": "Wikipedia: DuckTales (1987 TV series)",
+          "source": "wikipedia",
+          "note": "American animated television series"
+        }
+      ]
+    },
+    {
+      "name": "Scrooge McDuck",
+      "kind": "other",
+      "description": "The wealthy duck you play, who travels the world hunting for five treasures.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Scrooge_McDuck",
+          "label": "Wikipedia: Scrooge McDuck",
+          "source": "wikipedia",
+          "note": "Disney comics character"
+        }
+      ]
+    },
+    {
+      "name": "Uncle Scrooge",
+      "kind": "other",
+      "description": "Dell comics starring Scrooge that one host collected from the 1960s.",
+      "timestamp": "01:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Uncle_Scrooge",
+          "label": "Wikipedia: Uncle Scrooge",
+          "source": "wikipedia",
+          "note": "Disney character and uncle of Donald Duck"
+        }
+      ]
+    },
+    {
+      "name": "A Christmas Carol",
+      "kind": "other",
+      "description": "The Dickens story that inspired Scrooge's name and his change from miser to adventurer.",
+      "timestamp": "01:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/A_Christmas_Carol",
+          "label": "Wikipedia: A Christmas Carol",
+          "source": "wikipedia",
+          "note": "1843 novella by Charles Dickens"
+        }
+      ]
+    },
+    {
+      "name": "Huey, Dewey, and Louie",
+      "kind": "other",
+      "description": "Scrooge's nephews, who appear in the game as helpers rather than playable characters.",
+      "timestamp": "01:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Huey%2C_Dewey%2C_and_Louie",
+          "label": "Wikipedia: Huey, Dewey, and Louie",
+          "source": "wikipedia",
+          "note": "Disney cartoon characters"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts",
+      "kind": "game",
+      "description": "Where one host knew the nephews from, and later Scrooge, in Kingdom Hearts II.",
+      "timestamp": "01:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)",
+          "label": "Wikipedia: Kingdom Hearts (video game)",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VII",
+      "kind": "game",
+      "description": "One host's pick for a favorite soundtrack, especially its hip hop remixes.",
+      "timestamp": "02:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+          "label": "Wikipedia: Final Fantasy VII",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Hotline Miami",
+      "kind": "game",
+      "description": "Its soundtrack introduced one host to synthwave.",
+      "timestamp": "03:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hotline_Miami",
+          "label": "Wikipedia: Hotline Miami",
+          "source": "wikipedia",
+          "note": "2012 video game"
+        }
+      ]
+    },
+    {
+      "name": "Synthwave",
+      "kind": "event_or_term",
+      "description": "The retro electronic music genre one host discovered through Hotline Miami.",
+      "timestamp": "03:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Synthwave",
+          "label": "Wikipedia: Synthwave",
+          "source": "wikipedia",
+          "note": "Music genre"
+        }
+      ]
+    },
+    {
+      "name": "Nobuo Uematsu",
+      "kind": "person",
+      "description": "The Final Fantasy composer praised for his soundtracks and projects outside games.",
+      "timestamp": "03:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nobuo_Uematsu",
+          "label": "Wikipedia: Nobuo Uematsu",
+          "source": "wikipedia",
+          "note": "Japanese composer (born 1959)"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VIII",
+      "kind": "game",
+      "description": "Another Uematsu soundtrack one host loves.",
+      "timestamp": "03:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VIII",
+          "label": "Wikipedia: Final Fantasy VIII",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "Ori and the Blind Forest",
+      "kind": "game",
+      "description": "A game whose soundtrack one host loves without having played it.",
+      "timestamp": "04:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest",
+          "label": "Wikipedia: Ori and the Blind Forest",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ]
+    },
+    {
+      "name": "Ratchet & Clank",
+      "kind": "game",
+      "description": "One host's pick for an underrated soundtrack, orchestral with techno and funk touches.",
+      "timestamp": "04:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank_(2002_video_game)",
+          "label": "Wikipedia: Ratchet & Clank (2002 video game)",
+          "source": "wikipedia",
+          "note": "Platform video game"
+        }
+      ]
+    },
+    {
+      "name": "David Bergeaud",
+      "kind": "person",
+      "description": "The composer of the original Ratchet & Clank soundtrack.",
+      "timestamp": "04:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Bergeaud",
+          "label": "Wikipedia: David Bergeaud",
+          "source": "wikipedia",
+          "note": "French composer"
+        }
+      ]
+    },
+    {
+      "name": "The Black Mages",
+      "kind": "person",
+      "description": "Nobuo Uematsu's rock band that plays Final Fantasy music.",
+      "timestamp": "05:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Black_Mages",
+          "label": "Wikipedia: The Black Mages",
+          "source": "wikipedia",
+          "note": "Japanese instrumental rock band"
+        }
+      ]
+    },
+    {
+      "name": "Marvel vs. Capcom 2",
+      "kind": "game",
+      "description": "Its smooth jazz soundtrack, including the title track, is one host's favorite game music.",
+      "timestamp": "05:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Marvel_vs._Capcom_2%3A_New_Age_of_Heroes",
+          "label": "Wikipedia: Marvel vs. Capcom 2: New Age of Heroes",
+          "source": "wikipedia",
+          "note": "2000 video game"
+        }
+      ]
+    },
+    {
+      "name": "Silent Hill",
+      "kind": "game",
+      "description": "Its industrial, indie-rock-style soundtracks by Akira Yamaoka get an honorable mention.",
+      "timestamp": "07:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silent_Hill",
+          "label": "Wikipedia: Silent Hill",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Akira Yamaoka",
+      "kind": "person",
+      "description": "The composer behind the Silent Hill soundtracks.",
+      "timestamp": "07:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Akira_Yamaoka",
+          "label": "Wikipedia: Akira Yamaoka",
+          "source": "wikipedia",
+          "note": "Japanese composer and sound designer (born 1968)"
+        }
+      ]
+    },
+    {
+      "name": "Capcom",
+      "kind": "company",
+      "description": "The game's developer, which brought over much of the Mega Man team.",
+      "timestamp": "09:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Capcom",
+          "label": "Wikipedia: Capcom",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man",
+      "kind": "other",
+      "description": "The Capcom series whose level-select structure and look the game borrows.",
+      "timestamp": "09:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man",
+          "label": "Wikipedia: Mega Man",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Keiji Inafune",
+      "kind": "person",
+      "description": "A key Mega Man designer who also worked on DuckTales.",
+      "timestamp": "09:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Keiji_Inafune",
+          "label": "Wikipedia: Keiji Inafune",
+          "source": "wikipedia",
+          "note": "Japanese video game producer, illustrator, and businessman (born 1965)"
+        }
+      ]
+    },
+    {
+      "name": "Sonic the Hedgehog",
+      "kind": "game",
+      "description": "Mentioned in a joke about a timer in an exploration-heavy level.",
+      "timestamp": "13:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)",
+          "label": "Wikipedia: Sonic the Hedgehog (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ],
+      "episode_key": "s097-sonic-the-hedgehog",
+      "episode_title": "SONIC THE HEDGEHOG"
+    },
+    {
+      "name": "Spyro",
+      "kind": "other",
+      "description": "Its levels with scattered friends and small tasks are compared to the haunted house level.",
+      "timestamp": "22:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spyro",
+          "label": "Wikipedia: Spyro",
+          "source": "wikipedia",
+          "note": "Series of platform video games"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 2",
+      "kind": "game",
+      "description": "Its pick-your-character design is raised as an alternative to playing only Scrooge.",
+      "timestamp": "23:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2",
+          "label": "Wikipedia: Super Mario Bros. 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "133-super-mario-bros-2",
+      "episode_title": "SUPER MARIO BROS. 2"
+    },
+    {
+      "name": "Huey Lewis and the News",
+      "kind": "person",
+      "description": "A joke the hosts make about the nephews' names.",
+      "timestamp": "25:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Huey_Lewis_and_the_News",
+          "label": "Wikipedia: Huey Lewis and the News",
+          "source": "wikipedia",
+          "note": "American rock band"
+        }
+      ]
+    },
+    {
+      "name": "Shovel Knight",
+      "kind": "game",
+      "description": "A modern game with similar pogo-stick movement.",
+      "timestamp": "29:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shovel_Knight",
+          "label": "Wikipedia: Shovel Knight",
+          "source": "wikipedia",
+          "note": "2014 video game"
+        }
+      ]
+    },
+    {
+      "name": "Pac-Man",
+      "kind": "game",
+      "description": "Cited as an arcade game that grants extra lives at score thresholds.",
+      "timestamp": "35:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pac-Man",
+          "label": "Wikipedia: Pac-Man",
+          "source": "wikipedia",
+          "note": "1980 video game"
+        }
+      ],
+      "episode_key": "129-pac-man",
+      "episode_title": "PAC-MAN"
+    },
+    {
+      "name": "Genghis Khan",
+      "kind": "person",
+      "description": "The historical figure whose crown is the Himalayas treasure.",
+      "timestamp": "39:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Genghis_Khan",
+          "label": "Wikipedia: Genghis Khan",
+          "source": "wikipedia",
+          "note": "Khan of the Mongol Empire from 1206 to 1227"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "The difficulty of DuckTales' bosses is compared to its mid-world bosses.",
+      "timestamp": "43:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "Count Duckula",
+      "kind": "film_tv_music",
+      "description": "A Dracula-duck cartoon character the hosts bring up when discussing the Transylvania boss.",
+      "timestamp": "46:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Count_Duckula",
+          "label": "Wikipedia: Count Duckula",
+          "source": "wikipedia",
+          "note": "British children's TV series, 1988–1993"
+        }
+      ]
+    },
+    {
+      "name": "Kirby",
+      "kind": "other",
+      "description": "A series where beating a game unlocks a harder challenge mode and a secret final boss.",
+      "timestamp": "51:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirby_(series)",
+          "label": "Wikipedia: Kirby (series)",
+          "source": "wikipedia",
+          "note": "Multimedia franchise owned by HAL Laboratory"
+        }
+      ]
+    },
+    {
+      "name": "DuckTales 2",
+      "kind": "game",
+      "description": "The NES sequel the hosts will play, noted as expensive.",
+      "timestamp": "55:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/DuckTales_2",
+          "label": "Wikipedia: DuckTales 2",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "DuckTales Remastered",
+      "kind": "game",
+      "description": "The 2013 remake with new levels, animated cutscenes and voice acting.",
+      "timestamp": "55:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/DuckTales%3A_Remastered",
+          "label": "Wikipedia: DuckTales: Remastered",
+          "source": "wikipedia",
+          "note": "2013 video game"
+        }
+      ]
+    },
+    {
+      "name": "Gizmoduck",
+      "kind": "other",
+      "description": "The gadget-inventing duck who explains how Scrooge breathes on the moon in the remake.",
+      "timestamp": "56:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_DuckTales_characters",
+          "label": "Wikipedia: List of DuckTales characters",
+          "source": "wikipedia",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "The Disney Afternoon Collection",
+      "kind": "game",
+      "description": "The compilation that includes the NES DuckTales for modern systems.",
+      "timestamp": "57:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Disney_Afternoon_Collection",
+          "label": "Wikipedia: The Disney Afternoon Collection",
+          "source": "wikipedia",
+          "note": "2017 video game compilation"
+        }
+      ]
+    },
+    {
+      "name": "The Disney Afternoon",
+      "kind": "film_tv_music",
+      "description": "The syndicated cartoon block that gave the collection its name.",
+      "timestamp": "58:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Disney_Afternoon",
+          "label": "Wikipedia: The Disney Afternoon",
+          "source": "wikipedia",
+          "note": "Programming block"
+        }
+      ]
+    },
+    {
+      "name": "Air Fortress",
+      "kind": "game",
+      "description": "A past game the hosts voted against putting on the Essential Games List.",
+      "timestamp": "1:03:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Air_Fortress",
+          "label": "Wikipedia: Air Fortress",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "211-air-fortress",
+      "episode_title": "Air Fortress"
+    },
+    {
+      "name": "The Black Bass",
+      "kind": "game",
+      "description": "A past episode the hosts joke about as a game that was never going to be essential.",
+      "timestamp": "1:03:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Black_Bass_(1988_video_game)",
+          "label": "Wikipedia: The Black Bass (1988 video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "214-the-black-bass",
+      "episode_title": "The Black Bass"
+    },
+    {
+      "name": "Crash Bandicoot",
+      "kind": "game",
+      "description": "Cited with Mario as a platformer whose ideas evolve over time.",
+      "timestamp": "1:09:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)",
+          "label": "Wikipedia: Crash Bandicoot (video game)",
+          "source": "wikipedia",
+          "note": "1996 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man 2",
+      "kind": "game",
+      "description": "The previous episode's game, used as a reference for evolving platforming.",
+      "timestamp": "1:11:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_2",
+          "label": "Wikipedia: Mega Man 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "190-mega-man-2",
+      "episode_title": "MEGA MAN 2"
+    },
+    {
+      "name": "Fester's Quest",
+      "kind": "game",
+      "description": "The NES game based on Uncle Fester, to be played next.",
+      "timestamp": "1:12:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fester's_Quest",
+          "label": "Wikipedia: Fester's Quest",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "217-festers-quest",
+      "episode_title": "Fester's Quest"
+    },
+    {
+      "name": "Antarctic Adventure",
+      "kind": "game",
+      "description": "A penguin racing game that is next up for the Patreon show covering Famicom games.",
+      "timestamp": "1:13:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Antarctic_Adventure",
+          "label": "Wikipedia: Antarctic Adventure",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of must-play NES games, debated here for DuckTales.",
+      "timestamp": "59:15",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

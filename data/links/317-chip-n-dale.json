@@ -1,0 +1,535 @@
+{
+  "episode": 317,
+  "title": "317 - Chip N Dale",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "061014320de9",
+  "items": [
+    {
+      "name": "Chip 'n Dale Rescue Rangers",
+      "kind": "game",
+      "description": "The episode's game: Capcom's 1990 two-player NES platformer based on the Disney cartoon, where you pick up and throw objects.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chip_'n_Dale_Rescue_Rangers_(video_game)",
+          "label": "Wikipedia: Chip 'n Dale Rescue Rangers (video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Chip 'n' Dale: Rescue Rangers",
+      "kind": "film_tv_music",
+      "description": "The Disney animated series the game is based on, about chipmunk detectives and their friends.",
+      "timestamp": "00:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chip_'n_Dale%3A_Rescue_Rangers_(TV_series)",
+          "label": "Wikipedia: Chip 'n Dale: Rescue Rangers (TV series)",
+          "source": "wikipedia",
+          "note": "American animated television series"
+        }
+      ]
+    },
+    {
+      "name": "Chip 'n' Dale",
+      "kind": "other",
+      "description": "The Disney chipmunk duo, who exist outside the Rescue Rangers show too.",
+      "timestamp": "00:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chip_'n'_Dale",
+          "label": "Wikipedia: Chip 'n' Dale",
+          "source": "wikipedia",
+          "note": "Disney cartoon characters"
+        }
+      ]
+    },
+    {
+      "name": "Chippendales",
+      "kind": "other",
+      "description": "The male dance troupe the hosts joke is what the title refers to.",
+      "timestamp": "00:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chippendales",
+          "label": "Wikipedia: Chippendales",
+          "source": "wikipedia",
+          "note": "Erotic dance troupe"
+        }
+      ]
+    },
+    {
+      "name": "Capcom",
+      "kind": "company",
+      "description": "Developer of the game, as well as Mega Man and DuckTales.",
+      "timestamp": "03:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Capcom",
+          "label": "Wikipedia: Capcom",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "The Walt Disney Company",
+      "kind": "company",
+      "description": "Licensor of the game; a Disney producer said it was Capcom's least troublesome project.",
+      "timestamp": "03:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
+          "label": "Wikipedia: The Walt Disney Company",
+          "source": "wikipedia",
+          "note": "American media and entertainment conglomerate"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's list of essential NES games; DuckTales is on it and this game is voted on.",
+      "timestamp": "04:01",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "DuckTales",
+      "kind": "game",
+      "description": "Earlier Capcom and Disney NES game, added to the Essential Games List at a later best-of episode.",
+      "timestamp": "04:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/DuckTales_(video_game)",
+          "label": "Wikipedia: DuckTales (video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "216-ducktales",
+      "episode_title": "DuckTales"
+    },
+    {
+      "name": "Mega Man",
+      "kind": "game",
+      "description": "Capcom's action series from the same development team, used for a difficulty comparison.",
+      "timestamp": "04:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_(1987_video_game)",
+          "label": "Wikipedia: Mega Man (1987 video game)",
+          "source": "wikipedia",
+          "note": "NES/Famicom action-platform video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Super Mario Bros. 2",
+      "kind": "game",
+      "description": "Main comparison for picking up and throwing objects instead of stomping enemies.",
+      "timestamp": "05:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2",
+          "label": "Wikipedia: Super Mario Bros. 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "133-super-mario-bros-2",
+      "episode_title": "SUPER MARIO BROS. 2"
+    },
+    {
+      "name": "Shovel Knight",
+      "kind": "game",
+      "description": "Indie platformer whose pogo-style movement the hosts compare to DuckTales.",
+      "timestamp": "04:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shovel_Knight",
+          "label": "Wikipedia: Shovel Knight",
+          "source": "wikipedia",
+          "note": "2014 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mickey Mouse",
+      "kind": "other",
+      "description": "Disney's mascot; Chip and Dale are separate from him but appear alongside him.",
+      "timestamp": "01:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mickey_Mouse",
+          "label": "Wikipedia: Mickey Mouse",
+          "source": "wikipedia",
+          "note": "Disney cartoon character and mascot"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts",
+      "kind": "game",
+      "description": "Series where a host knows Chip and Dale as minor, slightly annoying characters.",
+      "timestamp": "01:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)",
+          "label": "Wikipedia: Kingdom Hearts (video game)",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "April O'Neil",
+      "kind": "other",
+      "description": "Teenage Mutant Ninja Turtles reporter, mentioned alongside other cartoon characters people had crushes on.",
+      "timestamp": "02:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/April_O'Neil",
+          "label": "Wikipedia: April O'Neil",
+          "source": "wikipedia",
+          "note": "Fictional character in the Teenage Mutant Ninja Turtles universe"
+        }
+      ]
+    },
+    {
+      "name": "Lola Bunny",
+      "kind": "other",
+      "description": "Space Jam character mentioned in the same joke about cartoon crushes.",
+      "timestamp": "02:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lola_Bunny",
+          "label": "Wikipedia: Lola Bunny",
+          "source": "wikipedia",
+          "note": "Warner Bros. theatrical cartoon character"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Compared with its sequel when discussing this game's pace and platforming.",
+      "timestamp": "07:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Piranha Plant",
+      "kind": "other",
+      "description": "Mario enemy compared to the jack-in-the-box enemies that pop out of boxes in the toy level.",
+      "timestamp": "12:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Piranha_Plant",
+          "label": "Wikipedia: Piranha Plant",
+          "source": "wikipedia",
+          "note": "Character from the Mario franchise"
+        }
+      ]
+    },
+    {
+      "name": "Luigi",
+      "kind": "other",
+      "description": "Mario's brother, whose taller jump is an example of different player characters, unlike Chip and Dale.",
+      "timestamp": "20:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Luigi_(character)",
+          "label": "Wikipedia: Luigi (character)",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "The Sopranos",
+      "kind": "film_tv_music",
+      "description": "Crime drama referenced in a joke about the mobster enemy with a plunger gun.",
+      "timestamp": "20:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Sopranos",
+          "label": "Wikipedia: The Sopranos",
+          "source": "wikipedia",
+          "note": "American crime drama television series by David Chase"
+        }
+      ]
+    },
+    {
+      "name": "Chip 'n Dale: Rescue Rangers (2022 film)",
+      "kind": "film_tv_music",
+      "description": "Live-action and animation Disney+ film that parodies the show, with Dale having had CG surgery.",
+      "timestamp": "17:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chip_'n_Dale%3A_Rescue_Rangers_(film)",
+          "label": "Wikipedia: Chip 'n Dale: Rescue Rangers (film)",
+          "source": "wikipedia",
+          "note": "2022 film by Akiva Schaffer"
+        }
+      ]
+    },
+    {
+      "name": "Who Framed Roger Rabbit",
+      "kind": "film_tv_music",
+      "description": "Film the hosts compare the 2022 Chip and Dale movie to.",
+      "timestamp": "17:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit",
+          "label": "Wikipedia: Who Framed Roger Rabbit",
+          "source": "wikipedia",
+          "note": "1988 film by Robert Zemeckis"
+        }
+      ],
+      "episode_key": "224-who-framed-roger-rabbit",
+      "episode_title": "Who Framed Roger Rabbit?"
+    },
+    {
+      "name": "Disney+",
+      "kind": "website_or_article",
+      "description": "Streaming service where the Chip and Dale movie premiered.",
+      "timestamp": "17:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Disney%2B",
+          "label": "Wikipedia: Disney+",
+          "source": "wikipedia",
+          "note": "American video streaming service"
+        }
+      ]
+    },
+    {
+      "name": "Ghostbusters",
+      "kind": "other",
+      "description": "Franchise cited as one where fans wanted to run the business, unlike the Rescue Rangers game.",
+      "timestamp": "18:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghostbusters_(franchise)",
+          "label": "Wikipedia: Ghostbusters (franchise)",
+          "source": "wikipedia",
+          "note": "American media franchise"
+        }
+      ],
+      "episode_key": "124-ghostbusters",
+      "episode_title": "GHOSTBUSTERS"
+    },
+    {
+      "name": "Bob Iger",
+      "kind": "person",
+      "description": "Disney's chief executive, jokingly suggested as the villain of the Chip and Dale movie.",
+      "timestamp": "23:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bob_Iger",
+          "label": "Wikipedia: Bob Iger",
+          "source": "wikipedia",
+          "note": "American media executive (born 1951)"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "Its overworld map and shortcuts are compared to this game's optional lettered stages.",
+      "timestamp": "29:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "The Witness",
+      "kind": "game",
+      "description": "Puzzle game joked about as the cerebral comparison for this one.",
+      "timestamp": "28:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Witness_(2016_video_game)",
+          "label": "Wikipedia: The Witness (2016 video game)",
+          "source": "wikipedia",
+          "note": "Puzzle video game"
+        }
+      ]
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "game",
+      "description": "Punishingly hard Capcom NES game, said to be by the same designer as this easier game.",
+      "timestamp": "31:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins",
+          "label": "Wikipedia: Ghosts 'n Goblins",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    },
+    {
+      "name": "Marvel's Spider-Man 2",
+      "kind": "game",
+      "description": "PlayStation 5 game compared to this one: powerful hero, easy common enemies, tougher bosses.",
+      "timestamp": "33:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Marvel's_Spider-Man_2",
+          "label": "Wikipedia: Marvel's Spider-Man 2",
+          "source": "wikipedia",
+          "note": "2023 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kirby's Dream Land",
+      "kind": "game",
+      "description": "Very easy Game Boy game used as a difficulty comparison.",
+      "timestamp": "36:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirby's_Dream_Land",
+          "label": "Wikipedia: Kirby's Dream Land",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Office",
+      "kind": "film_tv_music",
+      "description": "Sitcom referenced in a joke about stepping on a George Foreman grill.",
+      "timestamp": "36:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Office_(American_TV_series)",
+          "label": "Wikipedia: The Office (American TV series)",
+          "source": "wikipedia",
+          "note": "American mockumentary sitcom (2005–2013)"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "Magazine that ranked the game 79th on its list of the 100 greatest Nintendo games.",
+      "timestamp": "40:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        }
+      ]
+    },
+    {
+      "name": "IGN",
+      "kind": "website_or_article",
+      "description": "Site that in 2009 placed this game 71st on its list of the 100 greatest NES games.",
+      "timestamp": "40:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/IGN",
+          "label": "Wikipedia: IGN",
+          "source": "wikipedia",
+          "note": "American entertainment website"
+        }
+      ]
+    },
+    {
+      "name": "GamesRadar",
+      "kind": "website_or_article",
+      "description": "Site that ranked this game sixth on its list of the seven best Disney games.",
+      "timestamp": "40:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/GamesRadar%2B",
+          "label": "Wikipedia: GamesRadar+",
+          "source": "wikipedia",
+          "note": "Video game website"
+        }
+      ]
+    },
+    {
+      "name": "Castle of Dragon",
+      "kind": "game",
+      "description": "Last week's NES game.",
+      "timestamp": "42:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castle_of_Dragon",
+          "label": "Wikipedia: Castle of Dragon",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "316-castle-of-dragon",
+      "episode_title": "Castle of Dragon"
+    },
+    {
+      "name": "Dragon Spirit: The New Legend",
+      "kind": "game",
+      "description": "Next week's NES game, guessed to be a shooter.",
+      "timestamp": "42:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Spirit",
+          "label": "Wikipedia: Dragon Spirit",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "318-dragon-spirit-the-new-legend",
+      "episode_title": "Dragon Spirit: The New Legend"
+    },
+    {
+      "name": "Karate Champ",
+      "kind": "game",
+      "description": "NES fighting game suggested as a comparison for Dragon Spirit.",
+      "timestamp": "42:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Karate_Champ",
+          "label": "Wikipedia: Karate Champ",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "036-karate-champ",
+      "episode_title": "KARATE CHAMP"
+    }
+  ]
+}

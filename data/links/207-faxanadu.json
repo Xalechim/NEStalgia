@@ -1,0 +1,431 @@
+{
+  "episode": 207,
+  "title": "207 - Faxanadu",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "b028779368a9",
+  "items": [
+    {
+      "name": "Faxanadu",
+      "kind": "game",
+      "description": "The episode's game, a side-scrolling action RPG set on a giant world tree, whose title the hosts debate how to pronounce.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Faxanadu",
+          "label": "Wikipedia: Faxanadu",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Xanadu",
+      "kind": "game",
+      "description": "The earlier Dragon Slayer action RPG that Faxanadu is a spinoff of; the name is a blend of Famicom and Xanadu.",
+      "timestamp": "01:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xanadu_(video_game)",
+          "label": "Wikipedia: Xanadu (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ]
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "The side-scrolling action RPG that Faxanadu is constantly compared to, with an overworld map the hosts debate.",
+      "timestamp": "02:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "Used as an example of a game with interconnected areas but no overworld map.",
+      "timestamp": "03:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "Yggdrasil",
+      "kind": "event_or_term",
+      "description": "The world tree idea behind the game's setting, a common trope in Japanese games and stories.",
+      "timestamp": "05:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/World_tree",
+          "label": "Wikipedia: World tree",
+          "source": "wikipedia",
+          "note": "Motif in many mythologies and religions"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Its shield logo and manual presentation are compared to how Faxanadu's box art sells a grand quest.",
+      "timestamp": "07:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Dragon Warrior",
+      "kind": "game",
+      "description": "The previous week's turn-based RPG, used as a contrast for experience, gold, shops and saving.",
+      "timestamp": "08:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Quest_(video_game)",
+          "label": "Wikipedia: Dragon Quest (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "206-dragon-warrior",
+      "episode_title": "Dragon Warrior"
+    },
+    {
+      "name": "Castlevania II: Simon's Quest",
+      "kind": "game",
+      "description": "Another NES action RPG hybrid, mentioned for cryptic text and towns.",
+      "timestamp": "09:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Simon's_Quest",
+          "label": "Wikipedia: Castlevania II: Simon's Quest",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "143-castlevania-ii-simons-quest",
+      "episode_title": "CASTLEVANIA II: SIMON'S QUEST"
+    },
+    {
+      "name": "Dragon Slayer",
+      "kind": "other",
+      "description": "The Falcom RPG series that Faxanadu's predecessor belongs to.",
+      "timestamp": "11:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Slayer_(series)",
+          "label": "Wikipedia: Dragon Slayer (series)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Bloodborne",
+      "kind": "game",
+      "description": "Its opening, where a beast kills you before you have a weapon, is compared to the first town.",
+      "timestamp": "16:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bloodborne",
+          "label": "Wikipedia: Bloodborne",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Quest XI",
+      "kind": "game",
+      "description": "A recent game with a world tree, cited as an example of the trope.",
+      "timestamp": "18:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Quest_XI",
+          "label": "Wikipedia: Dragon Quest XI",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Xenoblade Chronicles 2",
+      "kind": "game",
+      "description": "Another recent game with a giant tree, cited as an example of the trope.",
+      "timestamp": "18:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_2",
+          "label": "Wikipedia: Xenoblade Chronicles 2",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy IX",
+      "kind": "game",
+      "description": "Another game that features a world tree.",
+      "timestamp": "18:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_IX",
+          "label": "Wikipedia: Final Fantasy IX",
+          "source": "wikipedia",
+          "note": "2000 video game"
+        }
+      ]
+    },
+    {
+      "name": "ROM hacking",
+      "kind": "event_or_term",
+      "description": "Fan modifications of old games, suggested as a way to fix balance problems and bugs.",
+      "timestamp": "1:00:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/ROM_hacking",
+          "label": "Wikipedia: ROM hacking",
+          "source": "wikipedia",
+          "note": "Editing technique for video games"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy",
+      "kind": "game",
+      "description": "The original game, cited with Dragon Warrior as having ROM hacks that rebalance experience points.",
+      "timestamp": "1:00:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)",
+          "label": "Wikipedia: Final Fantasy (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "341-final-fantasy",
+      "episode_title": "Final Fantasy"
+    },
+    {
+      "name": "RPG Maker",
+      "kind": "other",
+      "description": "The game-creation software that a Charles Barkley NES-era game is guessed to have been made with.",
+      "timestamp": "1:03:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/RPG_Maker",
+          "label": "Wikipedia: RPG Maker",
+          "source": "wikipedia",
+          "note": "Video game creation system software series"
+        }
+      ]
+    },
+    {
+      "name": "Barkley, Shut Up and Jam!",
+      "kind": "game",
+      "description": "The hosts wonder whether this basketball RPG was a ROM hack or a real game.",
+      "timestamp": "1:03:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Barkley_Shut_Up_and_Jam!",
+          "label": "Wikipedia: Barkley Shut Up and Jam!",
+          "source": "wikipedia",
+          "note": "1994 basketball video game"
+        }
+      ]
+    },
+    {
+      "name": "Bill Murray",
+      "kind": "person",
+      "description": "The hosts joke that the smoking shopkeeper looks like him.",
+      "timestamp": "1:09:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bill_Murray",
+          "label": "Wikipedia: Bill Murray",
+          "source": "wikipedia",
+          "note": "American actor and comedian (born 1950)"
+        }
+      ]
+    },
+    {
+      "name": "Xanadu Next",
+      "kind": "game",
+      "description": "A later Xanadu game that first came out on the N-Gage in 2005, then on PC.",
+      "timestamp": "1:11:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xanadu_Next",
+          "label": "Wikipedia: Xanadu Next",
+          "source": "wikipedia",
+          "note": "2005 video game"
+        }
+      ]
+    },
+    {
+      "name": "N-Gage",
+      "kind": "hardware",
+      "description": "Nokia's phone and handheld game console, where Xanadu Next first appeared.",
+      "timestamp": "1:12:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/N-Gage",
+          "label": "Wikipedia: N-Gage",
+          "source": "wikipedia",
+          "note": "Mobile phone and handheld game system"
+        }
+      ]
+    },
+    {
+      "name": "Tony Hawk's Pro Skater",
+      "kind": "game",
+      "description": "The one N-Gage game one host remembers, from TV ads showing the vertical screen.",
+      "timestamp": "1:12:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater",
+          "label": "Wikipedia: Tony Hawk's Pro Skater",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "Lost",
+      "kind": "film_tv_music",
+      "description": "The TV show that one host was watching when the N-Gage ads aired.",
+      "timestamp": "1:12:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lost_(TV_series)",
+          "label": "Wikipedia: Lost (TV series)",
+          "source": "wikipedia",
+          "note": "American television series (2004–2010)"
+        }
+      ]
+    },
+    {
+      "name": "Tales of",
+      "kind": "other",
+      "description": "The JRPG series cited as a trend Xanadu Next followed.",
+      "timestamp": "1:13:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tales_(video_game_series)",
+          "label": "Wikipedia: Tales (video game series)",
+          "source": "wikipedia",
+          "note": "Role-playing video game series"
+        }
+      ]
+    },
+    {
+      "name": "Tokyo Xanadu",
+      "kind": "game",
+      "description": "A Persona-like action RPG built from Xanadu Next's gameplay, on PS Vita and PS4.",
+      "timestamp": "1:14:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tokyo_Xanadu",
+          "label": "Wikipedia: Tokyo Xanadu",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ]
+    },
+    {
+      "name": "Persona",
+      "kind": "other",
+      "description": "The Atlus RPG series the hosts compare Tokyo Xanadu to.",
+      "timestamp": "1:14:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Persona_(series)",
+          "label": "Wikipedia: Persona (series)",
+          "source": "wikipedia",
+          "note": "Japanese video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Legacy of the Wizard",
+      "kind": "game",
+      "description": "The NES version of Dragon Slayer IV, where you play a family in a huge underground cave with heavy backtracking.",
+      "timestamp": "1:14:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Legacy_of_the_Wizard",
+          "label": "Wikipedia: Legacy of the Wizard",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "177-legacy-of-the-wizard",
+      "episode_title": "Legacy of the Wizard"
+    },
+    {
+      "name": "The Witcher",
+      "kind": "game",
+      "description": "Used as an example of a modern game one host gets absorbed in, like Faxanadu.",
+      "timestamp": "1:18:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Witcher_(video_game)",
+          "label": "Wikipedia: The Witcher (video game)",
+          "source": "wikipedia",
+          "note": "2007 video game"
+        }
+      ]
+    },
+    {
+      "name": "Flying Dragon: The Secret Scroll",
+      "kind": "game",
+      "description": "The next episode's game, another dragon-themed title.",
+      "timestamp": "1:23:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Flying_Dragon%3A_The_Secret_Scroll",
+          "label": "Wikipedia: Flying Dragon: The Secret Scroll",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "208-flying-dragon-the-secret-scroll",
+      "episode_title": "Flying Dragon: The Secret Scroll"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of must-play NES games, which this game joins.",
+      "timestamp": "1:15:20",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "episode": 111,
+  "title": "111 - Life Force",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "42bef28aecd5",
+  "items": [
+    {
+      "name": "Life Force",
+      "kind": "game",
+      "description": "Konami's NES shooter, a sequel to Gradius based on the arcade game Salamander, and the episode's game.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Salamander_(video_game)",
+          "label": "Wikipedia: Salamander (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ]
+    },
+    {
+      "name": "Ikari Warriors II: Victory Road",
+      "kind": "game",
+      "description": "Earlier NES sequel the hosts already played.",
+      "timestamp": "00:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Victory_Road_(video_game)",
+          "label": "Wikipedia: Victory Road (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "099-ikari-warriors-ii-victory-road",
+      "episode_title": "IKARI WARRIORS II: VICTORY ROAD"
+    },
+    {
+      "name": "The Dark Knight Rises",
+      "kind": "film_tv_music",
+      "description": "Used as an example of a sequel with a different title.",
+      "timestamp": "01:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises",
+          "label": "Wikipedia: The Dark Knight Rises",
+          "source": "wikipedia",
+          "note": "2012 film by Christopher Nolan"
+        }
+      ]
+    },
+    {
+      "name": "Gradius",
+      "kind": "game",
+      "description": "Konami's 1985 shooter, which Life Force follows on the NES.",
+      "timestamp": "01:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gradius_(video_game)",
+          "label": "Wikipedia: Gradius (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "035-gradius",
+      "episode_title": "GRADIUS"
+    },
+    {
+      "name": "Konami",
+      "kind": "company",
+      "description": "Developer and publisher of Life Force.",
+      "timestamp": "01:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami",
+          "label": "Wikipedia: Konami",
+          "source": "wikipedia",
+          "note": "Japanese entertainment and video game company"
+        }
+      ]
+    },
+    {
+      "name": "La-Z-Boy",
+      "kind": "company",
+      "description": "Recliner brand named in the manual's description of piloting at 600 Gs.",
+      "timestamp": "03:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/La-Z-Boy",
+          "label": "Wikipedia: La-Z-Boy",
+          "source": "wikipedia",
+          "note": "American furniture company"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Used to compare how dungeons differ in layout and theme.",
+      "timestamp": "11:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Double Dragon",
+      "kind": "game",
+      "description": "Previous episode's game, cited for how closely it mimicked its arcade look.",
+      "timestamp": "12:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_(video_game)",
+          "label": "Wikipedia: Double Dragon (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "103-double-dragon",
+      "episode_title": "DOUBLE DRAGON"
+    },
+    {
+      "name": "Stinger",
+      "kind": "game",
+      "description": "Konami NES shooter with creative bosses such as a giant watermelon and a saxophone.",
+      "timestamp": "14:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stinger_(1986_video_game)",
+          "label": "Wikipedia: Stinger (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "071-stinger",
+      "episode_title": "STINGER"
+    },
+    {
+      "name": "Konami Code",
+      "kind": "event_or_term",
+      "description": "The famous cheat code that began with Gradius.",
+      "timestamp": "34:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami_Code",
+          "label": "Wikipedia: Konami Code",
+          "source": "wikipedia",
+          "note": "Cheat code, originally for Konami games"
+        }
+      ]
+    },
+    {
+      "name": "Mass Effect",
+      "kind": "game",
+      "description": "Science fiction series used to talk about playing a series in order.",
+      "timestamp": "36:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mass_Effect_(video_game)",
+          "label": "Wikipedia: Mass Effect (video game)",
+          "source": "wikipedia",
+          "note": "2007 video game"
+        }
+      ]
+    },
+    {
+      "name": "Uncharted",
+      "kind": "game",
+      "description": "Series used as an example of playing a later game before the first.",
+      "timestamp": "36:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Uncharted",
+          "label": "Wikipedia: Uncharted",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Legendary Wings",
+      "kind": "game",
+      "description": "Capcom shooter with simultaneous two-player play, covered earlier.",
+      "timestamp": "40:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Legendary_Wings",
+          "label": "Wikipedia: Legendary Wings",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "110-legendary-wings",
+      "episode_title": "LEGENDARY WINGS"
+    },
+    {
+      "name": "Capcom",
+      "kind": "company",
+      "description": "Developer of Legendary Wings.",
+      "timestamp": "40:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Capcom",
+          "label": "Wikipedia: Capcom",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Drive",
+      "kind": "film_tv_music",
+      "description": "2011 film joked about for its orange and blue colors.",
+      "timestamp": "41:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Drive_(2011_film)",
+          "label": "Wikipedia: Drive (2011 film)",
+          "source": "wikipedia",
+          "note": "American action drama film by Nicolas Winding Refn"
+        }
+      ]
+    },
+    {
+      "name": "Moai",
+      "kind": "other",
+      "description": "The stone heads that return as enemies from Gradius.",
+      "timestamp": "44:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Moai",
+          "label": "Wikipedia: Moai",
+          "source": "wikipedia",
+          "note": "Monolithic statues on Easter Island"
+        }
+      ]
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "Cited for an ending where the hero is shown without the helmet.",
+      "timestamp": "50:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "Mega Man 3",
+      "kind": "game",
+      "description": "Game said to end with a shot of the hero's helmet in a field.",
+      "timestamp": "50:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_3",
+          "label": "Wikipedia: Mega Man 3",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "394-mega-man-3",
+      "episode_title": "Mega Man 3"
+    },
+    {
+      "name": "Final Fantasy VII",
+      "kind": "game",
+      "description": "Cited for its game over image of a broken sword.",
+      "timestamp": "50:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+          "label": "Wikipedia: Final Fantasy VII",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Contra",
+      "kind": "game",
+      "description": "Konami NES game where the Konami Code also appears.",
+      "timestamp": "53:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+          "label": "Wikipedia: Contra (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "092-contra",
+      "episode_title": "CONTRA"
+    },
+    {
+      "name": "Gradius II",
+      "kind": "game",
+      "description": "The next Konami sequel in the series.",
+      "timestamp": "53:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gradius_II",
+          "label": "Wikipedia: Gradius II",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ]
+    },
+    {
+      "name": "Salamander 2",
+      "kind": "game",
+      "description": "1996 arcade sequel to Salamander that also came to PlayStation.",
+      "timestamp": "54:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Salamander_2",
+          "label": "Wikipedia: Salamander 2",
+          "source": "wikipedia",
+          "note": "1996 video game"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation",
+      "kind": "hardware",
+      "description": "Console that Salamander 2 came to.",
+      "timestamp": "54:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/PlayStation_(console)",
+          "label": "Wikipedia: PlayStation (console)",
+          "source": "wikipedia",
+          "note": "Home video game console by Sony"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "website_or_article",
+      "description": "NEStalgia's running list of the NES games the hosts call essential.",
+      "timestamp": "55:45",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Research & Development 1",
+      "kind": "company",
+      "description": "Nintendo's internal development team, compared by number of essential games.",
+      "timestamp": "55:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_1",
+          "label": "Wikipedia: Nintendo Research & Development 1",
+          "source": "wikipedia",
+          "note": "Japanese video game developer"
+        }
+      ]
+    },
+    {
+      "name": "Pachinko",
+      "kind": "other",
+      "description": "Japanese gambling machines the hosts joke Konami also makes.",
+      "timestamp": "56:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pachinko",
+          "label": "Wikipedia: Pachinko",
+          "source": "wikipedia",
+          "note": "Japanese arcade gambling game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "Used as an example of one game not requiring removal of an earlier one.",
+      "timestamp": "1:02:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Compared with its sequel in the question of the essential list.",
+      "timestamp": "1:02:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Gradius V",
+      "kind": "game",
+      "description": "Later game in the series that the hosts mention when talking about lore.",
+      "timestamp": "1:04:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gradius_V",
+          "label": "Wikipedia: Gradius V",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        }
+      ],
+      "episode_key": "035-gradius",
+      "episode_title": "GRADIUS"
+    },
+    {
+      "name": "Star Wars",
+      "kind": "other",
+      "description": "Used to illustrate a discussion of canon under a story's creator.",
+      "timestamp": "1:04:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Wars",
+          "label": "Wikipedia: Star Wars",
+          "source": "wikipedia",
+          "note": "American media franchise"
+        }
+      ]
+    },
+    {
+      "name": "George Lucas",
+      "kind": "person",
+      "description": "Star Wars creator, in a joke about what counts as canon.",
+      "timestamp": "1:04:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Lucas",
+          "label": "Wikipedia: George Lucas",
+          "source": "wikipedia",
+          "note": "American filmmaker and entrepreneur (born 1944)"
+        }
+      ]
+    },
+    {
+      "name": "Gauntlet",
+      "kind": "game",
+      "description": "NES game used as the example of the show's per-game Twitter threads.",
+      "timestamp": "1:05:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)",
+          "label": "Wikipedia: Gauntlet (1985 video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "108-gauntlet",
+      "episode_title": "GAUNTLET"
+    },
+    {
+      "name": "Mad Men",
+      "kind": "film_tv_music",
+      "description": "TV show whose audience the hosts joke overlaps with listeners.",
+      "timestamp": "1:07:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mad_Men",
+          "label": "Wikipedia: Mad Men",
+          "source": "wikipedia",
+          "note": "American period drama television series (2007–2015)"
+        }
+      ]
+    },
+    {
+      "name": "Don Draper",
+      "kind": "film_tv_music",
+      "description": "Mad Men advertising character the hosts invoke for selling the show.",
+      "timestamp": "1:08:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Don_Draper",
+          "label": "Wikipedia: Don Draper",
+          "source": "wikipedia",
+          "note": "Fictional character on American TV show \"Mad Men\""
+        }
+      ]
+    }
+  ]
+}

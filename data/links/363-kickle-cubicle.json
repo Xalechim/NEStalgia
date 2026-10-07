@@ -1,0 +1,197 @@
+{
+  "episode": 363,
+  "title": "363 - Kickle Cubicle",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "52d3a245a1fa",
+  "items": [
+    {
+      "name": "Kickle Cubicle",
+      "kind": "game",
+      "description": "The episode's game: a top-down puzzle game where an ice-breathing hero slides frozen enemies into water to build paths.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kickle_Cubicle",
+          "label": "Wikipedia: Kickle Cubicle",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ]
+    },
+    {
+      "name": "Adventures of Lolo",
+      "kind": "game",
+      "description": "The earlier top-down puzzle game the hosts compare Kickle Cubicle to, and an Essential Games List entry.",
+      "timestamp": "01:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adventures_of_Lolo",
+          "label": "Wikipedia: Adventures of Lolo",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Used as an example of a hero who just happens to be very good at jumping.",
+      "timestamp": "03:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "The Witness",
+      "kind": "game",
+      "description": "Open-world puzzle game used as a measure of hard puzzle difficulty.",
+      "timestamp": "12:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Witness_(2016_video_game)",
+          "label": "Wikipedia: The Witness (2016 video game)",
+          "source": "wikipedia",
+          "note": "Puzzle video game"
+        }
+      ]
+    },
+    {
+      "name": "Spelunky",
+      "kind": "game",
+      "description": "Its ghost that chases slow players is compared to the game's timer enemy.",
+      "timestamp": "20:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spelunky",
+          "label": "Wikipedia: Spelunky",
+          "source": "wikipedia",
+          "note": "2008 video game"
+        }
+      ]
+    },
+    {
+      "name": "Sonic the Hedgehog",
+      "kind": "other",
+      "description": "Cited alongside Mario as games where the character just dies when the timer runs out.",
+      "timestamp": "20:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog",
+          "label": "Wikipedia: Sonic the Hedgehog",
+          "source": "wikipedia",
+          "note": "Video game and media franchise"
+        }
+      ],
+      "episode_key": "s097-sonic-the-hedgehog",
+      "episode_title": "SONIC THE HEDGEHOG"
+    },
+    {
+      "name": "Bowser",
+      "kind": "other",
+      "description": "Mario's enemy, joked about in a riff on why timers kill the hero.",
+      "timestamp": "20:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bowser",
+          "label": "Wikipedia: Bowser",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Ratchet & Clank",
+      "kind": "game",
+      "description": "PlayStation series whose first game's twist involving Captain Qwark is spoiled.",
+      "timestamp": "23:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank_(2002_video_game)",
+          "label": "Wikipedia: Ratchet & Clank (2002 video game)",
+          "source": "wikipedia",
+          "note": "Platform video game"
+        }
+      ]
+    },
+    {
+      "name": "Call of Duty",
+      "kind": "other",
+      "description": "Compared to Kickle Cubicle's short story mode with the real play in the challenge levels.",
+      "timestamp": "29:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Call_of_Duty",
+          "label": "Wikipedia: Call of Duty",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's running vote on which NES games are essential.",
+      "timestamp": "30:24",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Little Nemo: The Dream Master",
+      "kind": "game",
+      "description": "Next week's game, based on a film that was made by an American and a Japanese studio.",
+      "timestamp": "36:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Little_Nemo%3A_The_Dream_Master",
+          "label": "Wikipedia: Little Nemo: The Dream Master",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "364-little-nemo-the-dream-master",
+      "episode_title": "Little Nemo: The Dream Master"
+    },
+    {
+      "name": "Little Nemo: Adventures in Slumberland",
+      "kind": "film_tv_music",
+      "description": "The 1992 film made by American and Japanese studios that the Capcom game is based on.",
+      "timestamp": "36:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Little_Nemo%3A_Adventures_in_Slumberland",
+          "label": "Wikipedia: Little Nemo: Adventures in Slumberland",
+          "source": "wikipedia",
+          "note": "1989 Japanese-American animated musical film"
+        }
+      ]
+    },
+    {
+      "name": "Little Nemo",
+      "kind": "other",
+      "description": "The early 20th-century comic strip the film and game ultimately come from.",
+      "timestamp": "36:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Little_Nemo",
+          "label": "Wikipedia: Little Nemo",
+          "source": "wikipedia",
+          "note": "American 20th century comic strip"
+        }
+      ]
+    }
+  ]
+}

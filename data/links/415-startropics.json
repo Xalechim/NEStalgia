@@ -1,0 +1,597 @@
+{
+  "episode": 415,
+  "title": "415 - Startropics",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "3f0afa5170c7",
+  "items": [
+    {
+      "name": "StarTropics",
+      "kind": "game",
+      "description": "The episode's game: a 1990 Nintendo top-down adventure where Mike Jones throws a yo-yo through islands and dungeons.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/StarTropics",
+          "label": "Wikipedia: StarTropics",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "StarTropics II: Zoda's Revenge",
+      "kind": "game",
+      "description": "The 1994 sequel, which the hosts say they will reach very late in the show.",
+      "timestamp": "1:11:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zoda's_Revenge%3A_StarTropics_II",
+          "label": "Wikipedia: Zoda's Revenge: StarTropics II",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Switch Online",
+      "kind": "website_or_article",
+      "description": "The subscription service where hosts played StarTropics, which does not include the manual's code letter.",
+      "timestamp": "02:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Classics",
+          "label": "Wikipedia: Nintendo Classics",
+          "source": "wikipedia",
+          "note": "Line of classic Nintendo video games"
+        }
+      ]
+    },
+    {
+      "name": "Isekai",
+      "kind": "event_or_term",
+      "description": "The anime and light novel genre where a person is transported into another world, compared to the game's opening.",
+      "timestamp": "01:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Isekai",
+          "label": "Wikipedia: Isekai",
+          "source": "wikipedia",
+          "note": "Japanese fantasy subgenre about travel to another world"
+        }
+      ]
+    },
+    {
+      "name": "Doki Doki Literature Club!",
+      "kind": "game",
+      "description": "The visual novel with a moment where it uses the player's real name.",
+      "timestamp": "03:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Doki_Doki_Literature_Club!",
+          "label": "Wikipedia: Doki Doki Literature Club!",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "The NES game StarTropics is most often compared to in look, dungeons and the yo-yo versus sword.",
+      "timestamp": "02:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Dragon Ball Z",
+      "kind": "film_tv_music",
+      "description": "Anime cited for characters named after foods, like Zoda and Cola names in this game.",
+      "timestamp": "04:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z",
+          "label": "Wikipedia: Dragon Ball Z",
+          "source": "wikipedia",
+          "note": "1989–1996 television series based on the manga of the same name"
+        }
+      ]
+    },
+    {
+      "name": "Duck Hunt",
+      "kind": "game",
+      "description": "One of the games in the NES compilation re-release the hosts mention at the start.",
+      "timestamp": "06:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Duck_Hunt",
+          "label": "Wikipedia: Duck Hunt",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "004-duck-hunt",
+      "episode_title": "DUCK HUNT"
+    },
+    {
+      "name": "World Class Track Meet",
+      "kind": "game",
+      "description": "One of the games in the NES compilation re-release the hosts mention.",
+      "timestamp": "06:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stadium_Events",
+          "label": "Wikipedia: Stadium Events",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "112-world-class-track-meet",
+      "episode_title": "WORLD CLASS TRACK MEET"
+    },
+    {
+      "name": "NES Four Score",
+      "kind": "hardware",
+      "description": "The four-player adapter that new NES releases are supporting.",
+      "timestamp": "06:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NES_Four_Score_and_Satellite",
+          "label": "Wikipedia: NES Four Score and Satellite",
+          "source": "wikipedia",
+          "note": "Video game console multiplayer peripherals"
+        }
+      ]
+    },
+    {
+      "name": "Mario",
+      "kind": "other",
+      "description": "Compared as a human hero who was turned into more than a plumber; also joked as a lookalike mayor.",
+      "timestamp": "11:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mario",
+          "label": "Wikipedia: Mario",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Chris Pratt",
+      "kind": "person",
+      "description": "The actor who voiced Mario and is joked about voicing Link.",
+      "timestamp": "13:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Pratt",
+          "label": "Wikipedia: Chris Pratt",
+          "source": "wikipedia",
+          "note": "American actor (born 1979)"
+        }
+      ]
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "kind": "film_tv_music",
+      "description": "Used as the example of a well-told story the hosts say StarTropics does not match.",
+      "timestamp": "14:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Shawshank_Redemption",
+          "label": "Wikipedia: The Shawshank Redemption",
+          "source": "wikipedia",
+          "note": "1994 film by Frank Darabont"
+        }
+      ]
+    },
+    {
+      "name": "Pokemon Red and Blue",
+      "kind": "game",
+      "description": "The original Pokemon games, whose light story the hosts compare to StarTropics.",
+      "timestamp": "16:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red%2C_Blue%2C_and_Yellow",
+          "label": "Wikipedia: Pokémon Red, Blue, and Yellow",
+          "source": "wikipedia",
+          "note": "1996 video games"
+        }
+      ]
+    },
+    {
+      "name": "Pokemon Legends: Arceus",
+      "kind": "game",
+      "description": "A modern Pokemon game the hosts say is full of cutscenes.",
+      "timestamp": "16:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Legends%3A_Arceus",
+          "label": "Wikipedia: Pokémon Legends: Arceus",
+          "source": "wikipedia",
+          "note": "2022 video game"
+        }
+      ]
+    },
+    {
+      "name": "Pokemon Legends: Z-A",
+      "kind": "game",
+      "description": "The most recent Pokemon game the hosts say they watched as mostly text-heavy cutscenes.",
+      "timestamp": "17:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Legends%3A_Z-A",
+          "label": "Wikipedia: Pokémon Legends: Z-A",
+          "source": "wikipedia",
+          "note": "2025 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy",
+      "kind": "other",
+      "description": "Cited as a series with stories that reward thinking about what is going on.",
+      "timestamp": "14:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy",
+          "label": "Wikipedia: Final Fantasy",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ],
+      "episode_key": "341-final-fantasy",
+      "episode_title": "Final Fantasy"
+    },
+    {
+      "name": "The Legend of Zelda: Skyward Sword",
+      "kind": "game",
+      "description": "Example of the linear Zelda era people complained about before Breath of the Wild.",
+      "timestamp": "19:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Skyward_Sword",
+          "label": "Wikipedia: The Legend of Zelda: Skyward Sword",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "kind": "game",
+      "description": "The open Zelda game, whose heart gating for the Master Sword is compared to StarTropics's weapon upgrades.",
+      "timestamp": "19:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Breath_of_the_Wild",
+          "label": "Wikipedia: The Legend of Zelda: Breath of the Wild",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Uncharted",
+      "kind": "game",
+      "description": "A very linear modern series that one host compares StarTropics to.",
+      "timestamp": "23:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Uncharted",
+          "label": "Wikipedia: Uncharted",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "The Witcher",
+      "kind": "game",
+      "description": "Used as an open game one host also enjoys alongside linear ones.",
+      "timestamp": "23:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Witcher_(video_game)",
+          "label": "Wikipedia: The Witcher (video game)",
+          "source": "wikipedia",
+          "note": "2007 video game"
+        }
+      ]
+    },
+    {
+      "name": "Shohei Ohtani",
+      "kind": "person",
+      "description": "Baseball star named as a pitcher who is also a good batter.",
+      "timestamp": "36:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shohei_Ohtani",
+          "label": "Wikipedia: Shohei Ohtani",
+          "source": "wikipedia",
+          "note": "Japanese baseball player (born 1994)"
+        }
+      ]
+    },
+    {
+      "name": "Rygar",
+      "kind": "game",
+      "description": "The NES game whose weapon the hosts compare to the yo-yo.",
+      "timestamp": "38:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rygar",
+          "label": "Wikipedia: Rygar",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "050-rygar",
+      "episode_title": "RYGAR"
+    },
+    {
+      "name": "Ratchet & Clank",
+      "kind": "game",
+      "description": "Cited as an example of a 3D action game one host did not grow up on.",
+      "timestamp": "38:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank",
+          "label": "Wikipedia: Ratchet & Clank",
+          "source": "wikipedia",
+          "note": "Series of platform video games"
+        }
+      ]
+    },
+    {
+      "name": "R.O.B.",
+      "kind": "hardware",
+      "description": "The NES robot accessory that the sub's copilot looks like.",
+      "timestamp": "44:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/R.O.B.",
+          "label": "Wikipedia: R.O.B.",
+          "source": "wikipedia",
+          "note": "Video game console peripheral"
+        }
+      ]
+    },
+    {
+      "name": "Big",
+      "kind": "film_tv_music",
+      "description": "The 1988 movie with the giant walkable piano that the game's piano puzzle recalls.",
+      "timestamp": "52:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Big_(film)",
+          "label": "Wikipedia: Big (film)",
+          "source": "wikipedia",
+          "note": "1988 film directed by Penny Marshall"
+        }
+      ]
+    },
+    {
+      "name": "The Goonies",
+      "kind": "film_tv_music",
+      "description": "The adventure film with a piano that opens a door, which the game's pirate and piano puzzle evoke.",
+      "timestamp": "52:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Goonies",
+          "label": "Wikipedia: The Goonies",
+          "source": "wikipedia",
+          "note": "1985 film by Richard Donner"
+        }
+      ]
+    },
+    {
+      "name": "Metal Gear Solid",
+      "kind": "game",
+      "description": "The other game known for needing a code printed on packaging, Meryl's codec frequency.",
+      "timestamp": "55:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(video_game)",
+          "label": "Wikipedia: Metal Gear Solid (video game)",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "Hideo Kojima",
+      "kind": "person",
+      "description": "Metal Gear Solid's designer, joked about in a discussion of who invented the packaging trick.",
+      "timestamp": "55:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hideo_Kojima",
+          "label": "Wikipedia: Hideo Kojima",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1963)"
+        }
+      ]
+    },
+    {
+      "name": "Snatcher",
+      "kind": "game",
+      "description": "The Kojima game joked about as coming next.",
+      "timestamp": "56:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Snatcher_(video_game)",
+          "label": "Wikipedia: Snatcher (video game)",
+          "source": "wikipedia",
+          "note": "1988 adventure game directed by Hideo Kojima"
+        }
+      ]
+    },
+    {
+      "name": "Wii Virtual Console",
+      "kind": "hardware",
+      "description": "The service where the game's water-dunking code letter was recreated online.",
+      "timestamp": "57:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Virtual_Console",
+          "label": "Wikipedia: Virtual Console",
+          "source": "wikipedia",
+          "note": "Line of downloadable video games for several Nintendo platforms"
+        }
+      ]
+    },
+    {
+      "name": "Godzilla",
+      "kind": "film_tv_music",
+      "description": "Used to describe the chubby shape of Zoda's final form.",
+      "timestamp": "1:06:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Godzilla",
+          "label": "Wikipedia: Godzilla",
+          "source": "wikipedia",
+          "note": "Fictional monster, or kaiju"
+        }
+      ]
+    },
+    {
+      "name": "Contra",
+      "kind": "game",
+      "description": "An NES game that turns into graphic alien imagery late, like StarTropics.",
+      "timestamp": "1:13:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+          "label": "Wikipedia: Contra (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "092-contra",
+      "episode_title": "CONTRA"
+    },
+    {
+      "name": "Wii Sports",
+      "kind": "game",
+      "description": "The game whose Wiimote swing the fan sequel imitates.",
+      "timestamp": "1:14:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wii_Sports",
+          "label": "Wikipedia: Wii Sports",
+          "source": "wikipedia",
+          "note": "2006 video game"
+        }
+      ]
+    },
+    {
+      "name": "EarthBound",
+      "kind": "game",
+      "description": "Another Nintendo game with a baseball bat, a yo-yo and a normal kid, compared to StarTropics.",
+      "timestamp": "1:18:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/EarthBound",
+          "label": "Wikipedia: EarthBound",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "EarthBound Beginnings",
+      "kind": "game",
+      "description": "The Famicom Mother game, which the show plans to cover on its Patreon.",
+      "timestamp": "1:18:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/EarthBound_Beginnings",
+          "label": "Wikipedia: EarthBound Beginnings",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Shin Megami Tensei",
+      "kind": "other",
+      "description": "A Famicom-era franchise start the hosts plan to cover on their Patreon.",
+      "timestamp": "1:19:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Megami_Tensei",
+          "label": "Wikipedia: Megami Tensei",
+          "source": "wikipedia",
+          "note": "Japanese video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "Subject of a ROM hack that removes knockback, used in the discussion of ROM hack improvements.",
+      "timestamp": "1:25:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "kind": "game",
+      "description": "Example of a game where someone might mod out the encumbrance system.",
+      "timestamp": "1:26:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V%3A_Skyrim",
+          "label": "Wikipedia: The Elder Scrolls V: Skyrim",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dark Souls",
+      "kind": "game",
+      "description": "Example of a game where someone might mod out losing souls on death.",
+      "timestamp": "1:26:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dark_Souls",
+          "label": "Wikipedia: Dark Souls",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; StarTropics was voted in.",
+      "timestamp": "1:20:05",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

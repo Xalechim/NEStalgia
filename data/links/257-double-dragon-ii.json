@@ -1,0 +1,604 @@
+{
+  "episode": 257,
+  "title": "257 - Double Dragon II",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "f3af892b2003",
+  "items": [
+    {
+      "name": "Double Dragon II: The Revenge",
+      "kind": "game",
+      "description": "The episode's game: the NES beat-'em-up sequel with two-player co-op, nine stages and Marian's death at the start.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_II%3A_The_Revenge",
+          "label": "Wikipedia: Double Dragon II: The Revenge",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Double_Dragon_II:_The_Revenge_(NES)",
+          "label": "Double Dragon II: The Revenge (NES) - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Double_Dragon_II_The_Revenge",
+          "label": "Double Dragon II The Revenge - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Bowser",
+      "kind": "other",
+      "description": "Mario's villain, contrasted with the Shadow Warriors for kidnapping rather than killing.",
+      "timestamp": "00:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bowser",
+          "label": "Wikipedia: Bowser",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon",
+      "kind": "game",
+      "description": "The first NES Double Dragon, with only one-player play and Jimmy as the final villain.",
+      "timestamp": "05:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_(video_game)",
+          "label": "Wikipedia: Double Dragon (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Double_Dragon_(NES)",
+          "label": "Double Dragon (NES) - StrategyWiki",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "103-double-dragon",
+      "episode_title": "DOUBLE DRAGON"
+    },
+    {
+      "name": "Double Dragon II: The Revenge (arcade)",
+      "kind": "game",
+      "description": "The 1988 arcade sequel, a very different game with four long levels and no two-enemy limit.",
+      "timestamp": "38:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_II%3A_The_Revenge",
+          "label": "Wikipedia: Double Dragon II: The Revenge",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/double-dragon-2-arcade/",
+          "label": "Double Dragon 2 (Arcade) - Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon III: The Sacred Stones",
+      "kind": "game",
+      "description": "The third NES Double Dragon, known on the show by its subtitle The Rosetta Stone; the hosts skip jokes about it.",
+      "timestamp": "36:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_III%3A_The_Sacred_Stones",
+          "label": "Wikipedia: Double Dragon III: The Sacred Stones",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/1841/",
+          "label": "Double Dragon 3: The Rosetta Stone - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Double_Dragon_III_The_Sacred_Stones",
+          "label": "Double Dragon III: The Sacred Stones - Giant Bomb",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "434-double-dragon-iii-the-sacred-stones",
+      "episode_title": "Double Dragon III: The Sacred Stones"
+    },
+    {
+      "name": "Double Dragon IV",
+      "kind": "game",
+      "description": "The 2017 retro-style Double Dragon game, named as a recent beat-'em-up.",
+      "timestamp": "47:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_IV",
+          "label": "Wikipedia: Double Dragon IV",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        },
+        {
+          "url": "https://www.destructoid.com/review-double-dragon-iv/",
+          "label": "Review: Double Dragon IV - Destructoid",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Renegade",
+      "kind": "game",
+      "description": "Technos' earlier beat-'em-up whose direction-based punch and kick controls Double Dragon II reuses.",
+      "timestamp": "20:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Renegade_(video_game)",
+          "label": "Wikipedia: Renegade (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        },
+        {
+          "url": "https://StrategyWiki.org/wiki/Renegade",
+          "label": "Renegade - StrategyWiki",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "091-renegade",
+      "episode_title": "RENEGADE"
+    },
+    {
+      "name": "Technos Japan",
+      "kind": "company",
+      "description": "The developer of both Double Dragon II and Renegade.",
+      "timestamp": "21:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Techn%C5%8Ds_Japan",
+          "label": "Wikipedia: Technōs Japan",
+          "source": "wikipedia",
+          "note": "Japanese video game developer and publisher"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Companies/Technos_Japan_Corp",
+          "label": "Technos Japan Corp - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Taito",
+      "kind": "company",
+      "description": "Publisher the hosts first misnamed (as 'Tight-toe') when guessing who made Renegade.",
+      "timestamp": "20:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Taito",
+          "label": "Wikipedia: Taito",
+          "source": "wikipedia",
+          "note": "Japanese video game company and arcade operator"
+        }
+      ]
+    },
+    {
+      "name": "Kung Fu",
+      "kind": "game",
+      "description": "An earlier NES game the hosts thought used similar direction-based attack buttons.",
+      "timestamp": "19:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kung-Fu_Master_(video_game)",
+          "label": "Wikipedia: Kung-Fu Master (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "010-kung-fu",
+      "episode_title": "KUNG FU*"
+    },
+    {
+      "name": "Demon Sword",
+      "kind": "game",
+      "description": "Previous episode's fast-paced action game, contrasted with Double Dragon II's slower fistfights.",
+      "timestamp": "08:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Demon_Sword",
+          "label": "Wikipedia: Demon Sword",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "256-demon-sword",
+      "episode_title": "Demon Sword"
+    },
+    {
+      "name": "Famicom",
+      "kind": "hardware",
+      "description": "Japan's version of the NES; its Double Dragon II lets you see all nine stages on any difficulty and continue freely.",
+      "timestamp": "25:48",
+      "links": [
+        {
+          "url": "https://www.denofgeek.com/games/nes-games-too-difficult-regional-differences/",
+          "label": "15 Difficult NES Games That Were Easier in Other Regions - Den of Geek",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "PC Engine",
+      "kind": "hardware",
+      "description": "Console that got a remade Double Dragon II with animated, voiced story scenes.",
+      "timestamp": "37:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/TurboGrafx-16",
+          "label": "Wikipedia: TurboGrafx-16",
+          "source": "wikipedia",
+          "note": "Fourth-generation home video game console"
+        },
+        {
+          "url": "https://classic-games.net/turbo-grafx-16/double-dragon-2-the-revenge/",
+          "label": "Double Dragon II: The Revenge (PC Engine CD) - Classic Games",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 2",
+      "kind": "game",
+      "description": "Used in a joke about the original Japanese sequel being too hard for Western release.",
+      "timestamp": "27:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.%3A_The_Lost_Levels",
+          "label": "Wikipedia: Super Mario Bros.: The Lost Levels",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "133-super-mario-bros-2",
+      "episode_title": "SUPER MARIO BROS. 2"
+    },
+    {
+      "name": "Netflix",
+      "kind": "company",
+      "description": "Its 'Are you still watching?' prompt is compared to the Famicom game's continue code.",
+      "timestamp": "27:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Netflix",
+          "label": "Wikipedia: Netflix",
+          "source": "wikipedia",
+          "note": "American video streaming service"
+        }
+      ]
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles (arcade game)",
+      "kind": "game",
+      "description": "Arcade beat-'em-up cited as a game made better by playing with a friend.",
+      "timestamp": "27:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(arcade_game)",
+          "label": "Wikipedia: Teenage Mutant Ninja Turtles (arcade game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "X-Men (arcade game)",
+      "kind": "game",
+      "description": "Konami's arcade brawler, cited alongside the Turtles game as a co-op classic.",
+      "timestamp": "27:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/X-Men_(1992_video_game)",
+          "label": "Wikipedia: X-Men (1992 video game)",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Contra",
+      "kind": "game",
+      "description": "Used to illustrate how adding a second player changes a game's pace.",
+      "timestamp": "28:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+          "label": "Wikipedia: Contra (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "092-contra",
+      "episode_title": "CONTRA"
+    },
+    {
+      "name": "God of War",
+      "kind": "game",
+      "description": "Series cited for its modern one-take, cut-free cinematic style, contrasted with slideshow cutscenes.",
+      "timestamp": "04:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/God_of_War_(franchise)",
+          "label": "Wikipedia: God of War (franchise)",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Ninja Gaiden",
+      "kind": "game",
+      "description": "NES action game famous for its cinematic cutscenes, which the hosts compare to Double Dragon II's story scenes.",
+      "timestamp": "42:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(NES_video_game)",
+          "label": "Wikipedia: Ninja Gaiden (NES video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "170-ninja-gaiden",
+      "episode_title": "Ninja Gaiden"
+    },
+    {
+      "name": "Street Fighter",
+      "kind": "game",
+      "description": "Mentioned when describing the one-on-one fighting Mode B in the first NES Double Dragon.",
+      "timestamp": "05:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Street_Fighter_(video_game)",
+          "label": "Wikipedia: Street Fighter (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "kind": "game",
+      "description": "A modern six-player beat-'em-up the hosts played together online.",
+      "timestamp": "32:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles%3A_Shredder's_Revenge",
+          "label": "Wikipedia: Teenage Mutant Ninja Turtles: Shredder's Revenge",
+          "source": "wikipedia",
+          "note": "2022 video game"
+        },
+        {
+          "url": "https://www.co-optimus.com/review/2439/page/1/tmnt-shredder-s-revenge-co-op-review.html",
+          "label": "TMNT: Shredder's Revenge co-op review - Co-Optimus",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Turtles in Time",
+      "kind": "game",
+      "description": "Super NES and Genesis beat-'em-up the hosts feel plays faster and more action-packed than Double Dragon II.",
+      "timestamp": "46:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles%3A_Turtles_in_Time",
+          "label": "Wikipedia: Teenage Mutant Ninja Turtles: Turtles in Time",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "16-bit console whose beat-'em-ups the hosts compare to Double Dragon II.",
+      "timestamp": "46:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+          "label": "Wikipedia: Super Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Sega Genesis",
+      "kind": "hardware",
+      "description": "16-bit console whose beat-'em-ups the hosts compare to Double Dragon II.",
+      "timestamp": "46:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sega_Genesis",
+          "label": "Wikipedia: Sega Genesis",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Xbox Live",
+      "kind": "other",
+      "description": "Online service on which the hosts played the six-player Turtles game.",
+      "timestamp": "32:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xbox_network",
+          "label": "Wikipedia: Xbox network",
+          "source": "wikipedia",
+          "note": "Online multiplayer gaming and digital media delivery service by Microsoft"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VI",
+      "kind": "game",
+      "description": "Released in North America as Final Fantasy III, which the hosts joke about as a numbering skip.",
+      "timestamp": "35:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VI",
+          "label": "Wikipedia: Final Fantasy VI",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        },
+        {
+          "url": "https://stoneagegamer.com/blog/the-confusing-connections-of-classic-rpgs/",
+          "label": "The Confusing Connections of Classic RPGs - Stone Age Gamer",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VII",
+      "kind": "game",
+      "description": "The game whose announcement revealed the North American numbering gap in the series.",
+      "timestamp": "35:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+          "label": "Wikipedia: Final Fantasy VII",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Goodfellas",
+      "kind": "film_tv_music",
+      "description": "1990 Martin Scorsese crime film the hosts jokingly decline to spoil.",
+      "timestamp": "48:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Goodfellas",
+          "label": "Wikipedia: Goodfellas",
+          "source": "wikipedia",
+          "note": "1990 film by Martin Scorsese"
+        }
+      ]
+    },
+    {
+      "name": "Awakenings",
+      "kind": "film_tv_music",
+      "description": "1990 drama about patients who revert to their illness, raised in the spoiler joke.",
+      "timestamp": "49:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Awakenings",
+          "label": "Wikipedia: Awakenings",
+          "source": "wikipedia",
+          "note": "1990 American drama film"
+        }
+      ]
+    },
+    {
+      "name": "Jacob's Ladder",
+      "kind": "film_tv_music",
+      "description": "1990 psychological horror film that came up as a 'popular 1990 movie'.",
+      "timestamp": "49:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jacob's_Ladder_(1990_film)",
+          "label": "Wikipedia: Jacob's Ladder (1990 film)",
+          "source": "wikipedia",
+          "note": "Film by Adrian Lyne"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Ball Z: Bardock – The Father of Goku",
+      "kind": "film_tv_music",
+      "description": "1990 TV special that turned up in a Google search for popular 1990 films.",
+      "timestamp": "49:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z%3A_Bardock_%E2%80%93_The_Father_of_Goku",
+          "label": "Wikipedia: Dragon Ball Z: Bardock – The Father of Goku",
+          "source": "wikipedia",
+          "note": "1990 Japanese TV special"
+        }
+      ]
+    },
+    {
+      "name": "Memphis Belle",
+      "kind": "film_tv_music",
+      "description": "1990 World War II film used in the 'they all make it back' joke.",
+      "timestamp": "49:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Memphis_Belle_(film)",
+          "label": "Wikipedia: Memphis Belle (film)",
+          "source": "wikipedia",
+          "note": "1990 film by Michael Caton-Jones"
+        }
+      ]
+    },
+    {
+      "name": "Forrest Gump",
+      "kind": "film_tv_music",
+      "description": "1994 film mistakenly guessed as a 1990 Best Picture contender.",
+      "timestamp": "49:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Forrest_Gump",
+          "label": "Wikipedia: Forrest Gump",
+          "source": "wikipedia",
+          "note": "1994 American film by Robert Zemeckis"
+        }
+      ]
+    },
+    {
+      "name": "Genghis Khan",
+      "kind": "game",
+      "description": "Next week's game, a Koei strategy game set in the life of Genghis Khan.",
+      "timestamp": "50:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Genghis_Khan_(video_game)",
+          "label": "Wikipedia: Genghis Khan (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nobunaga's Ambition",
+      "kind": "other",
+      "description": "Koei strategy series the hosts say next week's game resembles.",
+      "timestamp": "50:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nobunaga's_Ambition",
+          "label": "Wikipedia: Nobunaga's Ambition",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "192-nobunagas-ambition",
+      "episode_title": "Nobunaga's Ambition"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; the hosts vote on adding Double Dragon II.",
+      "timestamp": "40:09",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "episode": 341,
+  "title": "341 - Final Fantasy",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "75271bd092d3",
+  "items": [
+    {
+      "name": "Final Fantasy",
+      "kind": "game",
+      "description": "The episode's game: Square's 1987 JRPG, released in North America in 1990, with a party of four chosen classes.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)",
+          "label": "Wikipedia: Final Fantasy (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Square",
+      "kind": "company",
+      "description": "The developer of Final Fantasy, rumored to have named the game because it was their last attempt.",
+      "timestamp": "00:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Square_Enix",
+          "label": "Wikipedia: Square Enix",
+          "source": "wikipedia",
+          "note": "Japanese entertainment company"
+        }
+      ]
+    },
+    {
+      "name": "Fighting Fantasy",
+      "kind": "other",
+      "description": "The title the creators reportedly considered, which became Final Fantasy.",
+      "timestamp": "01:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fighting_Fantasy",
+          "label": "Wikipedia: Fighting Fantasy",
+          "source": "wikipedia",
+          "note": "Roleplaying gamebook"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy XVI",
+      "kind": "game",
+      "description": "The newest mainline entry, credited with returning the series to prestige.",
+      "timestamp": "03:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_XVI",
+          "label": "Wikipedia: Final Fantasy XVI",
+          "source": "wikipedia",
+          "note": "2023 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VII Remake",
+      "kind": "game",
+      "description": "The remake series that, with FFXVI, helped restore the franchise's standing.",
+      "timestamp": "04:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake",
+          "label": "Wikipedia: Final Fantasy VII Remake",
+          "source": "wikipedia",
+          "note": "2020 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy XV",
+      "kind": "game",
+      "description": "Entry hoped to be a return to form, with four friends traveling by car.",
+      "timestamp": "05:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_XV",
+          "label": "Wikipedia: Final Fantasy XV",
+          "source": "wikipedia",
+          "note": "2016 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VII",
+      "kind": "game",
+      "description": "The 1997 PlayStation game that introduced two of the hosts to the series.",
+      "timestamp": "05:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+          "label": "Wikipedia: Final Fantasy VII",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation",
+      "kind": "hardware",
+      "description": "Sony's console, on which a Final Fantasy VII demo disc was a first exposure to the series.",
+      "timestamp": "05:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/PlayStation_(console)",
+          "label": "Wikipedia: PlayStation (console)",
+          "source": "wikipedia",
+          "note": "Home video game console by Sony"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VIII",
+      "kind": "game",
+      "description": "The PlayStation game one host played for years, with a train mission and a tough boss.",
+      "timestamp": "06:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VIII",
+          "label": "Wikipedia: Final Fantasy VIII",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts",
+      "kind": "other",
+      "description": "Square Enix series that connects to Final Fantasy VIII, with its time loop and Disney crossover jokes.",
+      "timestamp": "07:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts",
+          "label": "Wikipedia: Kingdom Hearts",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VI",
+      "kind": "game",
+      "description": "Super Nintendo entry, played after Final Fantasy VII.",
+      "timestamp": "08:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VI",
+          "label": "Wikipedia: Final Fantasy VI",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy IX",
+      "kind": "game",
+      "description": "The PlayStation entry that dropped much of the sci-fi look.",
+      "timestamp": "08:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_IX",
+          "label": "Wikipedia: Final Fantasy IX",
+          "source": "wikipedia",
+          "note": "2000 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy X",
+      "kind": "game",
+      "description": "PlayStation 2 entry with a linear map and no overworld.",
+      "timestamp": "08:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_X",
+          "label": "Wikipedia: Final Fantasy X",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy XI",
+      "kind": "game",
+      "description": "The online entry one host skipped.",
+      "timestamp": "08:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_XI",
+          "label": "Wikipedia: Final Fantasy XI",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy XII",
+      "kind": "game",
+      "description": "Entry with the Gambit system, often defended as a hidden gem.",
+      "timestamp": "08:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_XII",
+          "label": "Wikipedia: Final Fantasy XII",
+          "source": "wikipedia",
+          "note": "2006 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Smash Bros. Melee",
+      "kind": "game",
+      "description": "GameCube game whose trophies sparked one host's interest in retro games.",
+      "timestamp": "10:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee",
+          "label": "Wikipedia: Super Smash Bros. Melee",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "Quest 64",
+      "kind": "game",
+      "description": "N64 RPG that was one host's first, and a poor introduction to turn-based games.",
+      "timestamp": "11:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Quest_64",
+          "label": "Wikipedia: Quest 64",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy IV",
+      "kind": "game",
+      "description": "Super Nintendo game, released in North America as Final Fantasy II, that hooked one host on the series.",
+      "timestamp": "11:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_IV",
+          "label": "Wikipedia: Final Fantasy IV",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Warrior",
+      "kind": "game",
+      "description": "The earlier NES RPG with a single hero, compared to Final Fantasy's party.",
+      "timestamp": "13:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Quest_(video_game)",
+          "label": "Wikipedia: Dragon Quest (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "206-dragon-warrior",
+      "episode_title": "Dragon Warrior"
+    },
+    {
+      "name": "Fax (Faxanadu)",
+      "kind": "game",
+      "description": "A previous Essential-list NES action RPG, which one host used as a party member name.",
+      "timestamp": "19:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Faxanadu",
+          "label": "Wikipedia: Faxanadu",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mike Tyson's Punch-Out!!",
+      "kind": "game",
+      "description": "NES boxing game one host named a black belt party member after (Taiso).",
+      "timestamp": "19:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Punch-Out!!_(1987_video_game)",
+          "label": "Wikipedia: Punch-Out!! (1987 video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "076-mike-tysons-punch-out",
+      "episode_title": "MIKE TYSON'S PUNCH-OUT"
+    },
+    {
+      "name": "Archon",
+      "kind": "game",
+      "description": "Game one host named a black mage after.",
+      "timestamp": "19:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Archon%3A_The_Light_and_the_Dark",
+          "label": "Wikipedia: Archon: The Light and the Dark",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "238-archon",
+      "episode_title": "Archon"
+    },
+    {
+      "name": "Rygar",
+      "kind": "game",
+      "description": "NES game one host named a white mage after.",
+      "timestamp": "19:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rygar",
+          "label": "Wikipedia: Rygar",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "050-rygar",
+      "episode_title": "RYGAR"
+    },
+    {
+      "name": "Adventures in the Magic Kingdom",
+      "kind": "game",
+      "description": "The earlier NES Disney game, compared to the town and castle layout in Corneria.",
+      "timestamp": "27:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adventures_in_the_Magic_Kingdom",
+          "label": "Wikipedia: Adventures in the Magic Kingdom",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Earthbound",
+      "kind": "game",
+      "description": "Super Nintendo RPG whose battles don't show your characters.",
+      "timestamp": "33:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/EarthBound",
+          "label": "Wikipedia: EarthBound",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Pokémon Red and Blue",
+      "kind": "game",
+      "description": "Games with known stat bugs, like attacks that can miss at 100 percent accuracy.",
+      "timestamp": "45:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red%2C_Blue%2C_and_Yellow",
+          "label": "Wikipedia: Pokémon Red, Blue, and Yellow",
+          "source": "wikipedia",
+          "note": "1996 video games"
+        }
+      ]
+    },
+    {
+      "name": "Star Fox",
+      "kind": "game",
+      "description": "Game whose first planet, Corneria, shares a name with Final Fantasy's first town.",
+      "timestamp": "47:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Fox_(1993_video_game)",
+          "label": "Wikipedia: Star Fox (1993 video game)",
+          "source": "wikipedia",
+          "note": "On-rails shooter video game"
+        }
+      ]
+    },
+    {
+      "name": "Yoshitaka Amano",
+      "kind": "person",
+      "description": "Final Fantasy's illustrator, whose gothic art contrasts with Dragon Warrior's cartoon style.",
+      "timestamp": "56:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yoshitaka_Amano",
+          "label": "Wikipedia: Yoshitaka Amano",
+          "source": "wikipedia",
+          "note": "Japanese artist, character designer, and illustrator (born 1952)"
+        }
+      ]
+    },
+    {
+      "name": "Akira Toriyama",
+      "kind": "person",
+      "description": "Dragon Ball creator who drew Dragon Warrior's characters.",
+      "timestamp": "56:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Akira_Toriyama",
+          "label": "Wikipedia: Akira Toriyama",
+          "source": "wikipedia",
+          "note": "Japanese manga artist (1955–2024)"
+        }
+      ]
+    },
+    {
+      "name": "Dungeons & Dragons",
+      "kind": "other",
+      "description": "Tabletop RPG whose bestiary and rules heavily influenced Final Fantasy.",
+      "timestamp": "56:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons",
+          "label": "Wikipedia: Dungeons & Dragons",
+          "source": "wikipedia",
+          "note": "Fantasy role-playing game"
+        }
+      ]
+    },
+    {
+      "name": "Nobunaga's Ambition",
+      "kind": "game",
+      "description": "Strategy series compared to Final Fantasy's hidden stats.",
+      "timestamp": "1:01:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nobunaga's_Ambition_(video_game)",
+          "label": "Wikipedia: Nobunaga's Ambition (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "192-nobunagas-ambition",
+      "episode_title": "Nobunaga's Ambition"
+    },
+    {
+      "name": "Final Fantasy: Stranger of Paradise",
+      "kind": "game",
+      "description": "Action RPG prequel that retells the Chaos story with Jack Garland.",
+      "timestamp": "1:39:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stranger_of_Paradise%3A_Final_Fantasy_Origin",
+          "label": "Wikipedia: Stranger of Paradise: Final Fantasy Origin",
+          "source": "wikipedia",
+          "note": "2022 video game"
+        }
+      ]
+    },
+    {
+      "name": "Chrono Trigger",
+      "kind": "game",
+      "description": "Super Nintendo RPG used as an example of a good final-boss reveal and ports with new dungeons.",
+      "timestamp": "1:41:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chrono_Trigger",
+          "label": "Wikipedia: Chrono Trigger",
+          "source": "wikipedia",
+          "note": "1995 video game"
+        }
+      ]
+    },
+    {
+      "name": "Tetsuya Nomura",
+      "kind": "person",
+      "description": "Final Fantasy and Kingdom Hearts designer, who reportedly wanted Final Fantasy XV to be a musical.",
+      "timestamp": "1:09:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tetsuya_Nomura",
+          "label": "Wikipedia: Tetsuya Nomura",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1970)"
+        }
+      ]
+    },
+    {
+      "name": "Nobuo Uematsu",
+      "kind": "person",
+      "description": "The composer of Final Fantasy's music, praised throughout the episode.",
+      "timestamp": "1:54:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nobuo_Uematsu",
+          "label": "Wikipedia: Nobuo Uematsu",
+          "source": "wikipedia",
+          "note": "Japanese composer (born 1959)"
+        }
+      ]
+    },
+    {
+      "name": "The Black Mages",
+      "kind": "other",
+      "description": "Rock band led by Uematsu that arranges Final Fantasy music.",
+      "timestamp": "1:59:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Black_Mages",
+          "label": "Wikipedia: The Black Mages",
+          "source": "wikipedia",
+          "note": "Japanese instrumental rock band"
+        }
+      ]
+    },
+    {
+      "name": "Distant Worlds: Music from Final Fantasy",
+      "kind": "event_or_term",
+      "description": "Live orchestral concert series of Final Fantasy music.",
+      "timestamp": "1:59:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_concerts",
+          "label": "Wikipedia: Final Fantasy concerts",
+          "source": "wikipedia",
+          "note": "Concerts of music from the Final Fantasy video game series"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy: The Spirits Within",
+      "kind": "film_tv_music",
+      "description": "Square's 2001 CG film that nearly sank the company.",
+      "timestamp": "2:16:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy%3A_The_Spirits_Within",
+          "label": "Wikipedia: Final Fantasy: The Spirits Within",
+          "source": "wikipedia",
+          "note": "2001 American-Japanese animated science fiction film"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy Pixel Remaster",
+      "kind": "game",
+      "description": "The remaster with auto-battle, encounter toggles and no Peninsula of Power.",
+      "timestamp": "2:24:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster",
+          "label": "Wikipedia: Final Fantasy Pixel Remaster",
+          "source": "wikipedia",
+          "note": "Series of Final Fantasy video game remasters"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; Final Fantasy was just voted in.",
+      "timestamp": "2:38:25",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

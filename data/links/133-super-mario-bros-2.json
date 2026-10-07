@@ -1,0 +1,459 @@
+{
+  "episode": 133,
+  "title": "133 - Super Mario Bros. 2",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "416d50d89529",
+  "items": [
+    {
+      "name": "Super Mario Bros. 2",
+      "kind": "game",
+      "description": "The episode's game: the American Super Mario Bros. 2, a reskinned Doki Doki Panic.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2",
+          "label": "Wikipedia: Super Mario Bros. 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 2 (Japan)",
+      "kind": "game",
+      "description": "The harder Japanese sequel, released in the West as The Lost Levels, with a poison mushroom.",
+      "timestamp": "00:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.%3A_The_Lost_Levels",
+          "label": "Wikipedia: Super Mario Bros.: The Lost Levels",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "The first game in the series, a launch title the hosts compare everything to.",
+      "timestamp": "01:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "The next NES Mario game, compared for graphics and adventure feel.",
+      "timestamp": "10:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "Luigi",
+      "kind": "other",
+      "description": "Playable character with a high jump and slippery movement.",
+      "timestamp": "05:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Luigi_(character)",
+          "label": "Wikipedia: Luigi (character)",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Princess Peach",
+      "kind": "other",
+      "description": "Playable character who can float; rescued in the first game.",
+      "timestamp": "05:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Princess_Peach",
+          "label": "Wikipedia: Princess Peach",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Toad",
+      "kind": "other",
+      "description": "Playable character who picks things up fastest.",
+      "timestamp": "05:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Toad_(Mario)",
+          "label": "Wikipedia: Toad (Mario)",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man",
+      "kind": "other",
+      "description": "Platformer series a host felt similar for its screen scrolling.",
+      "timestamp": "15:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man",
+          "label": "Wikipedia: Mega Man",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Birdo",
+      "kind": "other",
+      "description": "Egg-spitting boss and character; her fights involve throwing eggs back.",
+      "timestamp": "13:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Birdo",
+          "label": "Wikipedia: Birdo",
+          "source": "wikipedia",
+          "note": "Fictional character in the Mario franchise"
+        }
+      ]
+    },
+    {
+      "name": "Goomba",
+      "kind": "other",
+      "description": "Classic Mario enemy that is missing from this game.",
+      "timestamp": "17:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Goomba",
+          "label": "Wikipedia: Goomba",
+          "source": "wikipedia",
+          "note": "Super Mario character"
+        }
+      ]
+    },
+    {
+      "name": "Koopa Troopa",
+      "kind": "other",
+      "description": "Turtle enemy; only its shells appear in this game.",
+      "timestamp": "18:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Koopa_Troopa",
+          "label": "Wikipedia: Koopa Troopa",
+          "source": "wikipedia",
+          "note": "Mario franchise species"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario All-Stars",
+      "kind": "game",
+      "description": "SNES compilation where several hosts first played the game.",
+      "timestamp": "17:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_All-Stars",
+          "label": "Wikipedia: Super Mario All-Stars",
+          "source": "wikipedia",
+          "note": "1993 video game compilation"
+        }
+      ]
+    },
+    {
+      "name": "Mario Bros.",
+      "kind": "game",
+      "description": "Arcade game that the POW Blocks come from.",
+      "timestamp": "25:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mario_Bros.",
+          "label": "Wikipedia: Mario Bros.",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "022-mario-bros",
+      "episode_title": "MARIO BROS."
+    },
+    {
+      "name": "Donkey Kong Jr.",
+      "kind": "game",
+      "description": "Arcade game that the Sparks come from, and a sequel with a mixed record.",
+      "timestamp": "25:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donkey_Kong_Jr.",
+          "label": "Wikipedia: Donkey Kong Jr.",
+          "source": "wikipedia",
+          "note": "1982 video game"
+        }
+      ],
+      "episode_key": "019-donkey-kong-jr",
+      "episode_title": "DONKEY KONG JR."
+    },
+    {
+      "name": "Donkey Kong",
+      "kind": "game",
+      "description": "Arcade game that the crab boss fight is compared to.",
+      "timestamp": "25:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game)",
+          "label": "Wikipedia: Donkey Kong (1981 video game)",
+          "source": "wikipedia",
+          "note": "Platformer video game"
+        }
+      ],
+      "episode_key": "018-donkey-kong",
+      "episode_title": "DONKEY KONG"
+    },
+    {
+      "name": "Super Mario Bros. Super Show!",
+      "kind": "film_tv_music",
+      "description": "Animated and live-action TV series that used Mouser and elements of this game.",
+      "timestamp": "36:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Super_Show!",
+          "label": "Wikipedia: The Super Mario Bros. Super Show!",
+          "source": "wikipedia",
+          "note": "1989 American TV series"
+        }
+      ]
+    },
+    {
+      "name": "Bowser",
+      "kind": "other",
+      "description": "The usual Mario villain, who is absent from this game.",
+      "timestamp": "38:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bowser",
+          "label": "Wikipedia: Bowser",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Link's Awakening",
+      "kind": "game",
+      "description": "Game where Wart's sprite reappears as a dream-related enemy.",
+      "timestamp": "41:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Link's_Awakening",
+          "label": "Wikipedia: The Legend of Zelda: Link's Awakening",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Nolan",
+      "kind": "person",
+      "description": "Director jokingly credited with the game, as a reference to dream-layer movies.",
+      "timestamp": "42:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Christopher_Nolan",
+          "label": "Wikipedia: Christopher Nolan",
+          "source": "wikipedia",
+          "note": "British and American filmmaker (born 1970)"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. (film)",
+      "kind": "film_tv_music",
+      "description": "1993 live-action movie where the hosts first saw Bob-ombs.",
+      "timestamp": "43:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._(film)",
+          "label": "Wikipedia: Super Mario Bros. (film)",
+          "source": "wikipedia",
+          "note": "1993 film by Rocky Morton and Annabel Jankel"
+        }
+      ]
+    },
+    {
+      "name": "Famicom Disk System",
+      "kind": "hardware",
+      "description": "Add-on that Nintendo moved to, mentioned in the game's design history.",
+      "timestamp": "54:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Famicom_Disk_System",
+          "label": "Wikipedia: Famicom Disk System",
+          "source": "wikipedia",
+          "note": "Video game console peripheral"
+        }
+      ]
+    },
+    {
+      "name": "Mario & Luigi: Superstar Saga",
+      "kind": "game",
+      "description": "RPG where Mario and Luigi use paired A and B button actions.",
+      "timestamp": "55:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mario_%26_Luigi%3A_Superstar_Saga",
+          "label": "Wikipedia: Mario & Luigi: Superstar Saga",
+          "source": "wikipedia",
+          "note": "2003 video game"
+        }
+      ]
+    },
+    {
+      "name": "Satellaview",
+      "kind": "hardware",
+      "description": "SNES add-on service in Japan used to download BS Super Mario USA Power Challenge.",
+      "timestamp": "59:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Satellaview",
+          "label": "Wikipedia: Satellaview",
+          "source": "wikipedia",
+          "note": "Video game console peripheral"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Advance",
+      "kind": "game",
+      "description": "Game Boy Advance version of this game, with Roberto and the Yoshi Challenge.",
+      "timestamp": "1:02:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Advance",
+          "label": "Wikipedia: Super Mario Advance",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "Nintendo's magazine; it gave this game top scores and its first issue featured it.",
+      "timestamp": "1:02:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        }
+      ]
+    },
+    {
+      "name": "Yoshi",
+      "kind": "other",
+      "description": "Dinosaur character compared to Birdo and tied to the Advance version's challenge.",
+      "timestamp": "35:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yoshi",
+          "label": "Wikipedia: Yoshi",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of essential NES games; this game earned a spot.",
+      "timestamp": "1:07:16",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Spy vs. Spy (NES)",
+      "kind": "game",
+      "description": "Previous episode's game, used for comparison in the vote.",
+      "timestamp": "1:10:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spy_vs._Spy_(1984_video_game)",
+          "label": "Wikipedia: Spy vs. Spy (1984 video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Research & Development 4",
+      "kind": "company",
+      "description": "Nintendo team behind the first two Mario games and Zelda.",
+      "timestamp": "1:12:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_Analysis_%26_Development",
+          "label": "Wikipedia: Nintendo Entertainment Analysis & Development",
+          "source": "wikipedia",
+          "note": "Former division of Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "Next game on the show's list for 1988.",
+      "timestamp": "1:12:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "Castlevania II: Simon's Quest",
+      "kind": "game",
+      "description": "Another weird sequel coming up on the show.",
+      "timestamp": "1:13:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Simon's_Quest",
+          "label": "Wikipedia: Castlevania II: Simon's Quest",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "143-castlevania-ii-simons-quest",
+      "episode_title": "CASTLEVANIA II: SIMON'S QUEST"
+    }
+  ]
+}

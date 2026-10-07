@@ -1,0 +1,634 @@
+{
+  "episode": 308,
+  "title": "308 - Ninja Gaiden 2",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "6555d2b9818a",
+  "items": [
+    {
+      "name": "Ninja Gaiden II: The Dark Sword of Chaos",
+      "kind": "game",
+      "description": "The episode's game: the 1990 NES sequel with wall climbing, shadow clones and dynamic stage hazards.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_II%3A_The_Dark_Sword_of_Chaos",
+          "label": "Wikipedia: Ninja Gaiden II: The Dark Sword of Chaos",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Ninja Gaiden",
+      "kind": "game",
+      "description": "The 1988 NES original, covered earlier and voted onto the Essential Games List.",
+      "timestamp": "01:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(NES_video_game)",
+          "label": "Wikipedia: Ninja Gaiden (NES video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "170-ninja-gaiden",
+      "episode_title": "Ninja Gaiden"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's list of essential NES games; the first Ninja Gaiden is on it, this sequel was not voted in.",
+      "timestamp": "08:03",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "Earlier episode used as a comparison for sequels that change the formula, and for the heart-style ammo system.",
+      "timestamp": "02:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Lode Runner",
+      "kind": "game",
+      "description": "Earlier NES episode whose sequels simply added new levels, cited as the lazy way to make a sequel.",
+      "timestamp": "04:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lode_Runner",
+          "label": "Wikipedia: Lode Runner",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "062-lode-runner",
+      "episode_title": "LODE RUNNER"
+    },
+    {
+      "name": "Pokémon",
+      "kind": "other",
+      "description": "Franchise cited as one where players ask for formula changes though the familiar formula works.",
+      "timestamp": "06:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon",
+          "label": "Wikipedia: Pokémon",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Marvel's Spider-Man 2",
+      "kind": "game",
+      "description": "PlayStation 5 sequel praised for keeping the formula and adding new things.",
+      "timestamp": "06:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Marvel's_Spider-Man_2",
+          "label": "Wikipedia: Marvel's Spider-Man 2",
+          "source": "wikipedia",
+          "note": "2023 video game"
+        }
+      ]
+    },
+    {
+      "name": "Adventures of Lolo 2",
+      "kind": "game",
+      "description": "Recent NES episode where one host defended a sequel that simply adds more puzzles.",
+      "timestamp": "07:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adventures_of_Lolo_2",
+          "label": "Wikipedia: Adventures of Lolo 2",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Tony Hawk's Pro Skater 2",
+      "kind": "game",
+      "description": "Example of an iterative sequel that adds small things like manuals while keeping the formula.",
+      "timestamp": "08:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_2",
+          "label": "Wikipedia: Tony Hawk's Pro Skater 2",
+          "source": "wikipedia",
+          "note": "2000 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts",
+      "kind": "game",
+      "description": "A host's favorite series, used as an example of new worlds on the same engine.",
+      "timestamp": "10:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)",
+          "label": "Wikipedia: Kingdom Hearts (video game)",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Held up as a game whose levels, like ice and wind, shape how the platforming works.",
+      "timestamp": "26:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "Its ice levels are cited as letting players use momentum to their advantage.",
+      "timestamp": "29:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "Bionic Commando",
+      "kind": "game",
+      "description": "NES game with many characters whose dialogue is brief, compared to this game's story.",
+      "timestamp": "39:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bionic_Commando_(1988_video_game)",
+          "label": "Wikipedia: Bionic Commando (1988 video game)",
+          "source": "wikipedia",
+          "note": "Platform game"
+        }
+      ],
+      "episode_key": "141-bionic-commando",
+      "episode_title": "Bionic Commando"
+    },
+    {
+      "name": "Super Smash Bros.",
+      "kind": "other",
+      "description": "Fighting game series where the hosts argue Ryu belongs, noting Lolo is also missing.",
+      "timestamp": "39:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros.",
+          "label": "Wikipedia: Super Smash Bros.",
+          "source": "wikipedia",
+          "note": "Series of crossover fighting games"
+        }
+      ]
+    },
+    {
+      "name": "Fire Emblem",
+      "kind": "game",
+      "description": "Series joked about for having too many characters in Smash Bros. compared to Ryu.",
+      "timestamp": "39:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fire_Emblem",
+          "label": "Wikipedia: Fire Emblem",
+          "source": "wikipedia",
+          "note": "Tactical role-playing video game franchise published by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Cool Spot",
+      "kind": "game",
+      "description": "Game starring the 7 Up mascot, which the red circles that hold items in this game resemble.",
+      "timestamp": "40:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cool_Spot",
+          "label": "Wikipedia: Cool Spot",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "7 Up",
+      "kind": "other",
+      "description": "Lemon-lime soda whose red-dot mascot Cool Spot the item drops resemble.",
+      "timestamp": "40:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/7_Up",
+          "label": "Wikipedia: 7 Up",
+          "source": "wikipedia",
+          "note": "Brand of lemon–lime soft drink"
+        }
+      ]
+    },
+    {
+      "name": "Double Dragon",
+      "kind": "game",
+      "description": "NES game brought up as a possible earlier case of a final fight after the apparent last boss.",
+      "timestamp": "45:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Dragon_(video_game)",
+          "label": "Wikipedia: Double Dragon (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "103-double-dragon",
+      "episode_title": "DOUBLE DRAGON"
+    },
+    {
+      "name": "Blaster Master",
+      "kind": "game",
+      "description": "NES game where you must still escape after beating the boss, offered as the closest example.",
+      "timestamp": "45:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master_(video_game)",
+          "label": "Wikipedia: Blaster Master (video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "135-blaster-master",
+      "episode_title": "BLASTER MASTER"
+    },
+    {
+      "name": "Game Genie",
+      "kind": "hardware",
+      "description": "Cheat device a host used to reach the later levels of this game.",
+      "timestamp": "46:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Genie",
+          "label": "Wikipedia: Game Genie",
+          "source": "wikipedia",
+          "note": "Line of video game cheat cartridges"
+        }
+      ]
+    },
+    {
+      "name": "Ninja Gaiden II (Xbox 360)",
+      "kind": "game",
+      "description": "The 2008 Xbox 360 action game in the series, known for steep difficulty.",
+      "timestamp": "48:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_II",
+          "label": "Wikipedia: Ninja Gaiden II",
+          "source": "wikipedia",
+          "note": "2008 video game"
+        }
+      ]
+    },
+    {
+      "name": "Devil May Cry",
+      "kind": "game",
+      "description": "Spectacle action series used to describe the style of the Xbox 360 Ninja Gaiden games.",
+      "timestamp": "48:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)",
+          "label": "Wikipedia: Devil May Cry (video game)",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "Souls games",
+      "kind": "other",
+      "description": "From Software's difficult action RPGs, mentioned by a host who is just dabbling in them.",
+      "timestamp": "49:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dark_Souls",
+          "label": "Wikipedia: Dark Souls",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Ninja Gaiden Shadow",
+      "kind": "game",
+      "description": "Game Boy prequel set in 1985 where Ryu fights an emperor threatening New York City.",
+      "timestamp": "49:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_Shadow",
+          "label": "Wikipedia: Ninja Gaiden Shadow",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Yakuza",
+      "kind": "other",
+      "description": "Series with long interconnected stories, used in a debate over whether you must play earlier games first.",
+      "timestamp": "52:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yakuza_(franchise)",
+          "label": "Wikipedia: Yakuza (franchise)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Halo",
+      "kind": "other",
+      "description": "Series cited when asking whether newcomers need to play earlier entries first.",
+      "timestamp": "52:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Halo_(franchise)",
+          "label": "Wikipedia: Halo (franchise)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "The Last of Us",
+      "kind": "game",
+      "description": "Story-driven game cited as one where playing the first game before the second matters.",
+      "timestamp": "52:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)",
+          "label": "Wikipedia: The Last of Us (video game)",
+          "source": "wikipedia",
+          "note": "2013 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Last of Us Part II",
+      "kind": "game",
+      "description": "Sequel whose strong gameplay a host says can be enjoyed without the story.",
+      "timestamp": "52:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II",
+          "label": "Wikipedia: The Last of Us Part II",
+          "source": "wikipedia",
+          "note": "2020 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts III",
+      "kind": "game",
+      "description": "Game the hosts say a newcomer could enjoy if they ignored the convoluted story.",
+      "timestamp": "53:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_III",
+          "label": "Wikipedia: Kingdom Hearts III",
+          "source": "wikipedia",
+          "note": "2019 video game"
+        }
+      ]
+    },
+    {
+      "name": "Crisis Core: Final Fantasy VII",
+      "kind": "game",
+      "description": "Prequel to Final Fantasy VII, discussed as a possible starting point for the series.",
+      "timestamp": "53:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crisis_Core%3A_Final_Fantasy_VII",
+          "label": "Wikipedia: Crisis Core: Final Fantasy VII",
+          "source": "wikipedia",
+          "note": "2007 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy",
+      "kind": "other",
+      "description": "Series whose entries are mostly standalone anthologies that weight story as heavily as gameplay.",
+      "timestamp": "54:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy",
+          "label": "Wikipedia: Final Fantasy",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ],
+      "episode_key": "341-final-fantasy",
+      "episode_title": "Final Fantasy"
+    },
+    {
+      "name": "Ninja Gaiden Sigma 2",
+      "kind": "game",
+      "description": "Remake of the Xbox 360 sequel for PlayStation Vita, with mission-based play.",
+      "timestamp": "55:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_Sigma_2",
+          "label": "Wikipedia: Ninja Gaiden Sigma 2",
+          "source": "wikipedia",
+          "note": "2009 video game"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation Vita",
+      "kind": "hardware",
+      "description": "Sony handheld that received Ninja Gaiden Sigma 2 Plus.",
+      "timestamp": "55:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/PlayStation_Vita",
+          "label": "Wikipedia: PlayStation Vita",
+          "source": "wikipedia",
+          "note": "Handheld game console by Sony"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario All-Stars",
+      "kind": "game",
+      "description": "Compilation used to explain what the Super Nintendo trilogy of NES remakes is like.",
+      "timestamp": "55:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_All-Stars",
+          "label": "Wikipedia: Super Mario All-Stars",
+          "source": "wikipedia",
+          "note": "1993 video game compilation"
+        }
+      ]
+    },
+    {
+      "name": "Patreon",
+      "kind": "website_or_article",
+      "description": "Platform for the show's Patreon page, which includes a Discord community and bonus Bytes episodes.",
+      "timestamp": "1:02:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Patreon",
+          "label": "Wikipedia: Patreon",
+          "source": "wikipedia",
+          "note": "American crowdfunding website"
+        }
+      ]
+    },
+    {
+      "name": "Arkista's Ring",
+      "kind": "game",
+      "description": "Next-but-one NES episode, an obscure game whose box art made a host question its licensing.",
+      "timestamp": "1:04:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arkista's_Ring",
+          "label": "Wikipedia: Arkista's Ring",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "311-arkistas-ring",
+      "episode_title": "Arkista's Ring"
+    },
+    {
+      "name": "Remote Control",
+      "kind": "game",
+      "description": "Next week's episode: the NES game based on the MTV game show.",
+      "timestamp": "1:04:05",
+      "links": [],
+      "episode_key": "309-remote-control",
+      "episode_title": "Remote Control"
+    },
+    {
+      "name": "Adventures in the Magic Kingdom",
+      "kind": "game",
+      "description": "NES game covered the week after Remote Control.",
+      "timestamp": "1:04:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adventures_in_the_Magic_Kingdom",
+          "label": "Wikipedia: Adventures in the Magic Kingdom",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Archon: The Light and the Dark",
+      "kind": "game",
+      "description": "Game a host joked about while discussing episode voting.",
+      "timestamp": "1:06:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Archon%3A_The_Light_and_the_Dark",
+          "label": "Wikipedia: Archon: The Light and the Dark",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ]
+    },
+    {
+      "name": "Back to the Future",
+      "kind": "game",
+      "description": "NES episode 212, where the host re-recorded his lines after getting a new microphone.",
+      "timestamp": "1:07:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Back_to_the_Future_(1989_video_game)",
+          "label": "Wikipedia: Back to the Future (1989 video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "212-back-to-the-future",
+      "episode_title": "Back to the Future"
+    },
+    {
+      "name": "Raid on Bungeling Bay",
+      "kind": "game",
+      "description": "NES episode 63, one of two whose recordings were corrupted and rerecorded.",
+      "timestamp": "1:09:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Raid_on_Bungeling_Bay",
+          "label": "Wikipedia: Raid on Bungeling Bay",
+          "source": "wikipedia",
+          "note": "1984 video game designed by Will Wright"
+        }
+      ],
+      "episode_key": "063-raid-on-bungeling-bay",
+      "episode_title": "RAID ON BUNGELING BAY"
+    },
+    {
+      "name": "Chessmaster",
+      "kind": "other",
+      "description": "NES episode where part of one host's audio was cut out because the recording failed.",
+      "timestamp": "1:10:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chessmaster",
+          "label": "Wikipedia: Chessmaster",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "254-chessmaster",
+      "episode_title": "Chessmaster"
+    },
+    {
+      "name": "Deadly Towers",
+      "kind": "game",
+      "description": "NES episode joked about as the source of the audio used for this episode.",
+      "timestamp": "1:11:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Deadly_Towers",
+          "label": "Wikipedia: Deadly Towers",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "060-deadly-towers",
+      "episode_title": "DEADLY TOWERS"
+    }
+  ]
+}

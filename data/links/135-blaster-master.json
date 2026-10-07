@@ -1,0 +1,475 @@
+{
+  "episode": 135,
+  "title": "135 - Blaster Master",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "e96c7f351052",
+  "items": [
+    {
+      "name": "Blaster Master",
+      "kind": "game",
+      "description": "The episode's game: a tank-and-on-foot action adventure by Sunsoft.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master",
+          "label": "Wikipedia: Blaster Master",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Sunsoft",
+      "kind": "company",
+      "description": "The developer and publisher of Blaster Master.",
+      "timestamp": "57:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sun_Corporation",
+          "label": "Wikipedia: Sun Corporation",
+          "source": "wikipedia",
+          "note": "Japanese electronics company"
+        }
+      ]
+    },
+    {
+      "name": "Math Blaster",
+      "kind": "game",
+      "description": "Educational game series the title reminded the hosts of.",
+      "timestamp": "01:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Math_Blaster!",
+          "label": "Wikipedia: Math Blaster!",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man",
+      "kind": "other",
+      "description": "Platformer series the repeated word Mega brought to mind.",
+      "timestamp": "00:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man",
+          "label": "Wikipedia: Mega Man",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Sega Genesis",
+      "kind": "hardware",
+      "description": "Console that got Blaster Master 2; known as the Mega Drive in Japan.",
+      "timestamp": "00:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sega_Genesis",
+          "label": "Wikipedia: Sega Genesis",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Famitsu",
+      "kind": "website_or_article",
+      "description": "Japanese games magazine whose cover collages the box art resembled.",
+      "timestamp": "02:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Famitsu",
+          "label": "Wikipedia: Famitsu",
+          "source": "wikipedia",
+          "note": "Line of Japanese video game magazines"
+        }
+      ]
+    },
+    {
+      "name": "Metroid",
+      "kind": "other",
+      "description": "Exploration game the tank's controls and upgrades were compared to.",
+      "timestamp": "14:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid",
+          "label": "Wikipedia: Metroid",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "Metroidvania",
+      "kind": "event_or_term",
+      "description": "Genre of exploration games gated by upgrades, which Blaster Master resembles.",
+      "timestamp": "04:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroidvania",
+          "label": "Wikipedia: Metroidvania",
+          "source": "wikipedia",
+          "note": "Video game sub-genre"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Game whose top-down views and dungeons were compared to the on-foot sections.",
+      "timestamp": "13:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Mentioned as the ideal of 2D game controls and for no-damage challenge runs.",
+      "timestamp": "14:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Final Fantasy",
+      "kind": "game",
+      "description": "Original game where getting the airship changes travel, used as an upgrade-reward example.",
+      "timestamp": "39:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)",
+          "label": "Wikipedia: Final Fantasy (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "341-final-fantasy",
+      "episode_title": "Final Fantasy"
+    },
+    {
+      "name": "Nuzlocke Challenge",
+      "kind": "event_or_term",
+      "description": "Self-imposed Pokémon rule set where fainted Pokémon can no longer be used.",
+      "timestamp": "48:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nuzlocke",
+          "label": "Wikipedia: Nuzlocke",
+          "source": "wikipedia",
+          "note": "Fan-created challenge for the Pokémon franchise"
+        }
+      ]
+    },
+    {
+      "name": "Blaster Master 2",
+      "kind": "game",
+      "description": "The 1993 Genesis sequel, released only in North America.",
+      "timestamp": "58:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master_2",
+          "label": "Wikipedia: Blaster Master 2",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Blaster Master Jr.",
+      "kind": "game",
+      "description": "Game Boy spinoff with no Sophia, known as Blaster Master Boy in Japan.",
+      "timestamp": "1:00:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master_Boy",
+          "label": "Wikipedia: Blaster Master Boy",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy",
+      "kind": "hardware",
+      "description": "Handheld that got Blaster Master Jr. in 1992.",
+      "timestamp": "1:00:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy",
+          "label": "Wikipedia: Game Boy",
+          "source": "wikipedia",
+          "note": "Handheld Nintendo game console"
+        }
+      ]
+    },
+    {
+      "name": "Blaster Master: Enemy Below",
+      "kind": "game",
+      "description": "2000 Game Boy Color remake-style sequel.",
+      "timestamp": "1:00:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master%3A_Enemy_Below",
+          "label": "Wikipedia: Blaster Master: Enemy Below",
+          "source": "wikipedia",
+          "note": "2000 video game"
+        }
+      ]
+    },
+    {
+      "name": "Metroid II: Return of Samus",
+      "kind": "game",
+      "description": "Game Boy game compared for its zoomed-in screen.",
+      "timestamp": "1:00:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_II%3A_Return_of_Samus",
+          "label": "Wikipedia: Metroid II: Return of Samus",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Blaster Master: Blasting Again",
+      "kind": "game",
+      "description": "2000 PlayStation 3D platformer entry in the series.",
+      "timestamp": "1:01:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master%3A_Blasting_Again",
+          "label": "Wikipedia: Blaster Master: Blasting Again",
+          "source": "wikipedia",
+          "note": "2000 video game"
+        }
+      ]
+    },
+    {
+      "name": "Blaster Master Overdrive",
+      "kind": "game",
+      "description": "2010 WiiWare 2.5D entry in the series.",
+      "timestamp": "1:02:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master%3A_Overdrive",
+          "label": "Wikipedia: Blaster Master: Overdrive",
+          "source": "wikipedia",
+          "note": "2010 video game"
+        }
+      ]
+    },
+    {
+      "name": "WiiWare",
+      "kind": "event_or_term",
+      "description": "Wii download service where Blaster Master Overdrive was sold.",
+      "timestamp": "1:02:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/WiiWare",
+          "label": "Wikipedia: WiiWare",
+          "source": "wikipedia",
+          "note": "Digital store and distribution service for the Wii"
+        }
+      ]
+    },
+    {
+      "name": "Blaster Master Zero",
+      "kind": "game",
+      "description": "2017 Switch game that updates the original with NES-style graphics.",
+      "timestamp": "1:04:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master_Zero",
+          "label": "Wikipedia: Blaster Master Zero",
+          "source": "wikipedia",
+          "note": "2017 action adventure video game"
+        }
+      ]
+    },
+    {
+      "name": "Blaster Master Zero 2",
+      "kind": "game",
+      "description": "The Switch sequel to Blaster Master Zero.",
+      "timestamp": "1:04:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master_Zero_2",
+          "label": "Wikipedia: Blaster Master Zero 2",
+          "source": "wikipedia",
+          "note": "2019 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Switch",
+      "kind": "hardware",
+      "description": "Console where the Zero games launched.",
+      "timestamp": "1:04:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Switch",
+          "label": "Wikipedia: Nintendo Switch",
+          "source": "wikipedia",
+          "note": "Hybrid video game console"
+        }
+      ]
+    },
+    {
+      "name": "Shovel Knight",
+      "kind": "game",
+      "description": "Indie game whose retro style the Zero games were compared to.",
+      "timestamp": "1:04:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shovel_Knight",
+          "label": "Wikipedia: Shovel Knight",
+          "source": "wikipedia",
+          "note": "2014 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Binding of Isaac",
+      "kind": "game",
+      "description": "Indie game one host chose over Blaster Master Zero for the Switch.",
+      "timestamp": "1:05:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game)",
+          "label": "Wikipedia: The Binding of Isaac (video game)",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of essential NES games; this game earned a spot.",
+      "timestamp": "1:06:29",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 2",
+      "kind": "game",
+      "description": "Previous episode's game, another recent essential pick.",
+      "timestamp": "1:11:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2",
+          "label": "Wikipedia: Super Mario Bros. 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "133-super-mario-bros-2",
+      "episode_title": "SUPER MARIO BROS. 2"
+    },
+    {
+      "name": "Spy vs. Spy (NES)",
+      "kind": "game",
+      "description": "Earlier essential-list game from two episodes before.",
+      "timestamp": "1:13:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spy_vs._Spy_(1984_video_game)",
+          "label": "Wikipedia: Spy vs. Spy (1984 video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania II: Simon's Quest",
+      "kind": "game",
+      "description": "Upcoming big NES release of the 1988 holiday season.",
+      "timestamp": "1:12:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Simon's_Quest",
+          "label": "Wikipedia: Castlevania II: Simon's Quest",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "143-castlevania-ii-simons-quest",
+      "episode_title": "CASTLEVANIA II: SIMON'S QUEST"
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "Upcoming big NES release of the 1988 holiday season.",
+      "timestamp": "1:12:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "Color a Dinosaur",
+      "kind": "game",
+      "description": "Educational NES coloring game one host is looking forward to.",
+      "timestamp": "1:12:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Color_a_Dinosaur",
+          "label": "Wikipedia: Color a Dinosaur",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Bubble Bobble",
+      "kind": "other",
+      "description": "Next week's episode game.",
+      "timestamp": "1:14:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bubble_Bobble",
+          "label": "Wikipedia: Bubble Bobble",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "136-bubble-bobble",
+      "episode_title": "BUBBLE BOBBLE"
+    }
+  ]
+}

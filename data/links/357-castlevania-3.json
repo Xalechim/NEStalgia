@@ -1,0 +1,601 @@
+{
+  "episode": 357,
+  "title": "357 - Castlevania 3",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "673e64e562c7",
+  "items": [
+    {
+      "name": "Castlevania III: Dracula's Curse",
+      "kind": "game",
+      "description": "The episode's game: Konami's 1990 prequel with branching paths, three optional partners and a harder second quest.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_III%3A_Dracula's_Curse",
+          "label": "Wikipedia: Castlevania III: Dracula's Curse",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/7415",
+          "label": "Castlevania III: Dracula's Curse - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Castlevania_3",
+          "label": "Castlevania III - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://tcrf.net/Castlevania_III:_Dracula's_Curse/Regional_Differences",
+          "label": "Regional Differences - The Cutting Room Floor",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "The original 1986 game, compared constantly for its stiff jump, stairs and music.",
+      "timestamp": "01:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Castlevania II: Simon's Quest",
+      "kind": "game",
+      "description": "The adventure-style sequel that radically changed the formula, seen as the series' black sheep.",
+      "timestamp": "03:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Simon's_Quest",
+          "label": "Wikipedia: Castlevania II: Simon's Quest",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "143-castlevania-ii-simons-quest",
+      "episode_title": "CASTLEVANIA II: SIMON'S QUEST"
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "Example of a third game that rebuilt its predecessor while improving it.",
+      "timestamp": "01:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "Super Mario Bros. 2",
+      "kind": "game",
+      "description": "Cited as a sequel that completely reinvented the first game, like Castlevania II.",
+      "timestamp": "03:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2",
+          "label": "Wikipedia: Super Mario Bros. 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "133-super-mario-bros-2",
+      "episode_title": "SUPER MARIO BROS. 2"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "The original Mario game, used to compare how sequels changed.",
+      "timestamp": "03:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Ninja Gaiden",
+      "kind": "game",
+      "description": "NES franchise mentioned as another series that ended at three games.",
+      "timestamp": "02:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(NES_video_game)",
+          "label": "Wikipedia: Ninja Gaiden (NES video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "170-ninja-gaiden",
+      "episode_title": "Ninja Gaiden"
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "The side-scrolling Zelda sequel, a radical departure from the original.",
+      "timestamp": "02:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "kind": "game",
+      "description": "Wondered whether it was first planned for NES before moving to the Super Nintendo.",
+      "timestamp": "02:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_A_Link_to_the_Past",
+          "label": "Wikipedia: The Legend of Zelda: A Link to the Past",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "Nintendo's 16-bit console, arriving the next year and drawing sequels away from the NES.",
+      "timestamp": "02:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+          "label": "Wikipedia: Super Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Super Castlevania IV",
+      "kind": "game",
+      "description": "The 1991 Super Nintendo follow-up, noted for letting you whip in any direction.",
+      "timestamp": "03:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Castlevania_IV",
+          "label": "Wikipedia: Super Castlevania IV",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Konami",
+      "kind": "company",
+      "description": "The developer and publisher of Castlevania, joked about for its secrecy.",
+      "timestamp": "11:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami",
+          "label": "Wikipedia: Konami",
+          "source": "wikipedia",
+          "note": "Japanese entertainment and video game company"
+        }
+      ]
+    },
+    {
+      "name": "Vlad Tepes",
+      "kind": "person",
+      "description": "The Japanese opening names Dracula's human identity as Vlad Tepes of Wallachia.",
+      "timestamp": "17:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Vlad_the_Impaler",
+          "label": "Wikipedia: Vlad the Impaler",
+          "source": "wikipedia",
+          "note": "15th-century ruler of Wallachia"
+        }
+      ]
+    },
+    {
+      "name": "Alucard",
+      "kind": "other",
+      "description": "Dracula's half-vampire son, a playable partner who turns into a bat.",
+      "timestamp": "13:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alucard_(Castlevania)",
+          "label": "Wikipedia: Alucard (Castlevania)",
+          "source": "wikipedia",
+          "note": "Fictional character in Castlevania video games"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania: Symphony of the Night",
+      "kind": "game",
+      "description": "The PlayStation game that made Alucard iconic.",
+      "timestamp": "22:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania%3A_Symphony_of_the_Night",
+          "label": "Wikipedia: Castlevania: Symphony of the Night",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "Compared to the long-haired ending reveal, like Samus removing her helmet.",
+      "timestamp": "30:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "Section Z",
+      "kind": "game",
+      "description": "An early NES shooter with branching up-or-down route choices.",
+      "timestamp": "38:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Section_Z",
+          "label": "Wikipedia: Section Z",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/section-z/",
+          "label": "Section Z - Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "051-section-z",
+      "episode_title": "SECTION Z"
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "The magazine whose issue laid out suggested routes by skill level.",
+      "timestamp": "41:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        }
+      ]
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "other",
+      "description": "A past episode's game that also requires beating it twice for the real ending.",
+      "timestamp": "54:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins",
+          "label": "Wikipedia: Ghosts 'n Goblins",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    },
+    {
+      "name": "Mega Man 2",
+      "kind": "game",
+      "description": "Suggested as a game to play before Castlevania III to feel how rigid its jump is.",
+      "timestamp": "51:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_2",
+          "label": "Wikipedia: Mega Man 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "190-mega-man-2",
+      "episode_title": "MEGA MAN 2"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "kind": "game",
+      "description": "Example of a modern story game enjoyed without finishing.",
+      "timestamp": "57:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
+          "label": "Wikipedia: Red Dead Redemption 2",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        }
+      ]
+    },
+    {
+      "name": "What Remains of Edith Finch",
+      "kind": "game",
+      "description": "Walking-simulator story game used as a game you would want to finish.",
+      "timestamp": "58:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch",
+          "label": "Wikipedia: What Remains of Edith Finch",
+          "source": "wikipedia",
+          "note": "2017 exploration game"
+        }
+      ]
+    },
+    {
+      "name": "Bloodstained: Ritual of the Night",
+      "kind": "game",
+      "description": "Igarashi's Castlevania-style game, the closest recent one a host has played.",
+      "timestamp": "1:12:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bloodstained%3A_Ritual_of_the_Night",
+          "label": "Wikipedia: Bloodstained: Ritual of the Night",
+          "source": "wikipedia",
+          "note": "2019 video game"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania: The Adventure",
+      "kind": "game",
+      "description": "The 1989 Game Boy Castlevania, a possible Patreon bonus episode.",
+      "timestamp": "1:12:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania%3A_The_Adventure",
+          "label": "Wikipedia: Castlevania: The Adventure",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        },
+        {
+          "url": "https://mobygames.com/game/4485/castlevania-the-adventure",
+          "label": "Castlevania: The Adventure - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania: Belmont's Revenge",
+      "kind": "game",
+      "description": "The second Game Boy Castlevania, from 1991.",
+      "timestamp": "1:12:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Belmont's_Revenge",
+          "label": "Wikipedia: Castlevania II: Belmont's Revenge",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Vampire Survivors",
+      "kind": "game",
+      "description": "Indie game that received a large Castlevania expansion.",
+      "timestamp": "1:13:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Vampire_Survivors",
+          "label": "Wikipedia: Vampire Survivors",
+          "source": "wikipedia",
+          "note": "2022 video game"
+        },
+        {
+          "url": "https://rogueranker.com/vampire-survivors-ode-to-castlevania/",
+          "label": "Vampire Survivors Ode to Castlevania DLC Guide",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Dead Cells",
+      "kind": "game",
+      "description": "Roguelike that got a Castlevania crossover expansion.",
+      "timestamp": "1:13:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dead_Cells",
+          "label": "Wikipedia: Dead Cells",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        },
+        {
+          "url": "https://www.gog.com/en/news/coming_soon_dead_cells_return_to_castlevania_dlc",
+          "label": "Dead Cells: Return to Castlevania DLC",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania: Nocturne",
+      "kind": "film_tv_music",
+      "description": "Netflix's animated Castlevania spinoff, set in the French Revolution.",
+      "timestamp": "1:14:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania%3A_Nocturne",
+          "label": "Wikipedia: Castlevania: Nocturne",
+          "source": "wikipedia",
+          "note": "2023 Netflix animated series based on Castlevania"
+        },
+        {
+          "url": "https://www.whats-on-netflix.com/news/castlevania-nocturne-coming-to-netflix-in-september-2023/",
+          "label": "Castlevania: Nocturne coming to Netflix",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania (TV series)",
+      "kind": "film_tv_music",
+      "description": "The earlier Netflix animated Castlevania series.",
+      "timestamp": "1:14:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(TV_series)",
+          "label": "Wikipedia: Castlevania (TV series)",
+          "source": "wikipedia",
+          "note": "American adult animated series"
+        }
+      ]
+    },
+    {
+      "name": "Netflix",
+      "kind": "company",
+      "description": "Streaming service that produces the Castlevania anime.",
+      "timestamp": "1:14:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Netflix",
+          "label": "Wikipedia: Netflix",
+          "source": "wikipedia",
+          "note": "American video streaming service"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania Anniversary Collection",
+      "kind": "game",
+      "description": "Konami collection of classic Castlevania games, given away free on Epic.",
+      "timestamp": "1:14:43",
+      "links": [
+        {
+          "url": "https://www.gfinityesports.com/article/castlevania-anniversary-collection-free-on-epic-this-week-halo-2-e3-demo-adds-nostalgia-on-steam",
+          "label": "Castlevania Anniversary Collection free on Epic",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania Dominus Collection",
+      "kind": "game",
+      "description": "Konami collection of the three Nintendo DS Castlevania games.",
+      "timestamp": "1:14:43",
+      "links": [
+        {
+          "url": "https://www.gematsu.com/2024/08/castlevania-dominus-collection-announced-for-ps5-xbox-series-switch-and-pc-now-available",
+          "label": "Castlevania Dominus Collection announced - Gematsu",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Epic Games Store",
+      "kind": "website_or_article",
+      "description": "PC storefront that gave away a Castlevania collection.",
+      "timestamp": "1:14:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Epic_Games_Store",
+          "label": "Wikipedia: Epic Games Store",
+          "source": "wikipedia",
+          "note": "Digital video game storefront"
+        }
+      ]
+    },
+    {
+      "name": "Dark Souls",
+      "kind": "other",
+      "description": "Used to describe the 'hurts so good' frustration of the difficulty.",
+      "timestamp": "1:21:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dark_Souls",
+          "label": "Wikipedia: Dark Souls",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Famicom Disk System",
+      "kind": "hardware",
+      "description": "Add-on that gave Castlevania II its extra music, unlike this game's cartridge.",
+      "timestamp": "1:25:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Famicom_Disk_System",
+          "label": "Wikipedia: Famicom Disk System",
+          "source": "wikipedia",
+          "note": "Video game console peripheral"
+        }
+      ]
+    },
+    {
+      "name": "Shigeru Miyamoto",
+      "kind": "person",
+      "description": "Nintendo designer joked about as never being allowed to tell his story.",
+      "timestamp": "1:10:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shigeru_Miyamoto",
+          "label": "Wikipedia: Shigeru Miyamoto",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1952)"
+        }
+      ]
+    },
+    {
+      "name": "Blockbuster",
+      "kind": "company",
+      "description": "Video rental chain joked about as the reason the North American version differed.",
+      "timestamp": "1:20:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blockbuster_(retailer)",
+          "label": "Wikipedia: Blockbuster (retailer)",
+          "source": "wikipedia",
+          "note": "American video rental corporation (1985–2020)"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's running vote on which NES games are essential.",
+      "timestamp": "10:04",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

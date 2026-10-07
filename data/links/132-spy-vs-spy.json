@@ -1,0 +1,598 @@
+{
+  "episode": 132,
+  "title": "132 - Spy Vs Spy",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "9060f0adb3c6",
+  "items": [
+    {
+      "name": "Spy vs. Spy (NES)",
+      "kind": "game",
+      "description": "The episode's game: a split-screen, two-spy race to collect items and escape, based on the Mad Magazine strip.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spy_vs._Spy_(1984_video_game)",
+          "label": "Wikipedia: Spy vs. Spy (1984 video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Spy_vs_Spy",
+          "label": "Spy vs Spy - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Spy_vs_Spy",
+          "label": "Spy vs. Spy - Giant Bomb",
+          "source": "reference"
+        },
+        {
+          "url": "https://takeontheneslibrary.com/finished/16-spy-vs-spy/",
+          "label": "Take on the NES Library: Spy vs. Spy",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Mad",
+      "kind": "other",
+      "description": "The satirical humor magazine where the Spy vs. Spy comic strip ran.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mad_(magazine)",
+          "label": "Wikipedia: Mad (magazine)",
+          "source": "wikipedia",
+          "note": "American humor magazine"
+        }
+      ]
+    },
+    {
+      "name": "Commodore 64",
+      "kind": "hardware",
+      "description": "The home computer the game first appeared on before the NES version.",
+      "timestamp": "00:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commodore_64",
+          "label": "Wikipedia: Commodore 64",
+          "source": "wikipedia",
+          "note": "8-bit home computer introduced in 1982"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "Nintendo's console, which the box art loosely calls a computer but Nintendo calls a control deck.",
+      "timestamp": "00:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
+          "label": "Wikipedia: Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Alfred E. Neuman",
+      "kind": "other",
+      "description": "The gap-toothed mascot who appears on nearly every Mad cover.",
+      "timestamp": "04:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alfred_E._Neuman",
+          "label": "Wikipedia: Alfred E. Neuman",
+          "source": "wikipedia",
+          "note": "Mascot for Mad magazine"
+        }
+      ]
+    },
+    {
+      "name": "Howdy Doody",
+      "kind": "film_tv_music",
+      "description": "The puppet show character the Mad mascot was compared to.",
+      "timestamp": "04:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Howdy_Doody",
+          "label": "Wikipedia: Howdy Doody",
+          "source": "wikipedia",
+          "note": "American children's television series (1947–1960)"
+        }
+      ]
+    },
+    {
+      "name": "Nickelodeon Magazine",
+      "kind": "website_or_article",
+      "description": "A kid-friendly gag-and-games magazine compared to Mad.",
+      "timestamp": "04:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nickelodeon_Magazine",
+          "label": "Wikipedia: Nickelodeon Magazine",
+          "source": "wikipedia",
+          "note": "American children's magazine, 1990–2009"
+        }
+      ]
+    },
+    {
+      "name": "John F. Kennedy",
+      "kind": "person",
+      "description": "Candidate in the 1960 election issue of Mad where Spy vs. Spy debuted.",
+      "timestamp": "02:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+          "label": "Wikipedia: John F. Kennedy",
+          "source": "wikipedia",
+          "note": "President of the United States from 1961 to 1963"
+        },
+        {
+          "url": "https://emuseum.jfk.org/objects/46168/mad-magazine-featuring-double-covers-congratulating-both-ken",
+          "label": "Mad magazine double covers, JFK Library",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Richard Nixon",
+      "kind": "person",
+      "description": "Other candidate in the reversible 1960 election cover of Mad.",
+      "timestamp": "02:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "label": "Wikipedia: Richard Nixon",
+          "source": "wikipedia",
+          "note": "President of the United States from 1969 to 1974"
+        }
+      ]
+    },
+    {
+      "name": "Pink Panther",
+      "kind": "film_tv_music",
+      "description": "Cartoon series compared to the spies' mainstream presence.",
+      "timestamp": "06:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pink_Panther_(character)",
+          "label": "Wikipedia: Pink Panther (character)",
+          "source": "wikipedia",
+          "note": "Fictional animated character"
+        }
+      ]
+    },
+    {
+      "name": "Wile E. Coyote and the Road Runner",
+      "kind": "film_tv_music",
+      "description": "Looney Tunes cartoon duo compared to the spies' gags.",
+      "timestamp": "07:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wile_E._Coyote_and_the_Road_Runner",
+          "label": "Wikipedia: Wile E. Coyote and the Road Runner",
+          "source": "wikipedia",
+          "note": "Warner Bros. cartoon characters"
+        }
+      ]
+    },
+    {
+      "name": "Looney Tunes",
+      "kind": "film_tv_music",
+      "description": "Classic cartoon franchise the spies were compared to.",
+      "timestamp": "05:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Looney_Tunes",
+          "label": "Wikipedia: Looney Tunes",
+          "source": "wikipedia",
+          "note": "Animated short film series and media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Split-screen",
+      "kind": "event_or_term",
+      "description": "The shared two-player display where each spy can watch the other.",
+      "timestamp": "09:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Split_screen_(computing)",
+          "label": "Wikipedia: Split screen (computing)",
+          "source": "wikipedia",
+          "note": "Computer display technique"
+        }
+      ]
+    },
+    {
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "kind": "game",
+      "description": "A modern shooter with a trap-setting and fortifying phase, compared to the game.",
+      "timestamp": "22:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six_Siege",
+          "label": "Wikipedia: Tom Clancy's Rainbow Six Siege",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ]
+    },
+    {
+      "name": "Deadly Towers",
+      "kind": "game",
+      "description": "An infamously bad NES game with a huge maze of near-identical rooms.",
+      "timestamp": "28:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Deadly_Towers",
+          "label": "Wikipedia: Deadly Towers",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/13356/deadly-towers/",
+          "label": "Deadly Towers - MobyGames",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "060-deadly-towers",
+      "episode_title": "DEADLY TOWERS"
+    },
+    {
+      "name": "Escape room",
+      "kind": "event_or_term",
+      "description": "Real-world puzzle activity the game was compared to.",
+      "timestamp": "36:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Escape_room",
+          "label": "Wikipedia: Escape room",
+          "source": "wikipedia",
+          "note": "Physical puzzle game played by a team of players"
+        }
+      ]
+    },
+    {
+      "name": "Kemco",
+      "kind": "company",
+      "description": "The company that published the NES version of the game.",
+      "timestamp": "38:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kemco",
+          "label": "Wikipedia: Kemco",
+          "source": "wikipedia",
+          "note": "Japanese video game development studio"
+        }
+      ]
+    },
+    {
+      "name": "Pac-Man",
+      "kind": "game",
+      "description": "Another older arcade game ported to the NES around 1988.",
+      "timestamp": "40:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pac-Man",
+          "label": "Wikipedia: Pac-Man",
+          "source": "wikipedia",
+          "note": "1980 video game"
+        }
+      ],
+      "episode_key": "129-pac-man",
+      "episode_title": "PAC-MAN"
+    },
+    {
+      "name": "Xevious",
+      "kind": "game",
+      "description": "Older arcade game ported to the NES, mentioned as part of the porting trend.",
+      "timestamp": "40:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xevious",
+          "label": "Wikipedia: Xevious",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Switch",
+      "kind": "hardware",
+      "description": "Modern Nintendo console that also re-releases older games.",
+      "timestamp": "40:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Switch",
+          "label": "Wikipedia: Nintendo Switch",
+          "source": "wikipedia",
+          "note": "Hybrid video game console"
+        }
+      ]
+    },
+    {
+      "name": "Spy vs. Spy II: The Island Caper",
+      "kind": "game",
+      "description": "Sequel with a tropical island, scrolling play area and trap crafting; Famicom only.",
+      "timestamp": "40:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spy_vs._Spy_II%3A_The_Island_Caper",
+          "label": "Wikipedia: Spy vs. Spy II: The Island Caper",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Spy_vs._Spy_2",
+          "label": "Spy vs. Spy II - StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Spy vs. Spy III: Arctic Antics",
+      "kind": "game",
+      "description": "Second sequel set in the Arctic with snowballs and a body heat bar.",
+      "timestamp": "41:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spy_vs._Spy_III%3A_Arctic_Antics",
+          "label": "Wikipedia: Spy vs. Spy III: Arctic Antics",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Spy_vs_Spy_III_Arctic_Antics",
+          "label": "Spy vs Spy III Arctic Antics - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Moonraker",
+      "kind": "film_tv_music",
+      "description": "James Bond movie that goes to space, joked about as a spy on the moon.",
+      "timestamp": "41:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Moonraker_(film)",
+          "label": "Wikipedia: Moonraker (film)",
+          "source": "wikipedia",
+          "note": "1979 James Bond film by Lewis Gilbert"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VII",
+      "kind": "game",
+      "description": "Game joked to have used a body heat bar long after Arctic Antics.",
+      "timestamp": "42:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+          "label": "Wikipedia: Final Fantasy VII",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Spy vs. Spy (2005 video game)",
+      "kind": "game",
+      "description": "The PlayStation 2 and Xbox game with a story mode.",
+      "timestamp": "43:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spy_vs._Spy_(2005_video_game)",
+          "label": "Wikipedia: Spy vs. Spy (2005 video game)",
+          "source": "wikipedia",
+          "note": "2005 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mountain Dew",
+      "kind": "other",
+      "description": "Soft drink brand whose 2000s commercials featured the spies fighting.",
+      "timestamp": "44:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mountain_Dew",
+          "label": "Wikipedia: Mountain Dew",
+          "source": "wikipedia",
+          "note": "Soft drink brand"
+        },
+        {
+          "url": "https://nedbatchelder.com/blog/200406/mountain_dew_spy_vs_spy",
+          "label": "Mountain Dew Spy vs. Spy",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Sneak King",
+      "kind": "game",
+      "description": "Burger King promotional stealth game, joked about as the game we got instead.",
+      "timestamp": "44:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sneak_King",
+          "label": "Wikipedia: Sneak King",
+          "source": "wikipedia",
+          "note": "2006 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/25162",
+          "label": "Sneak King - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Burger King",
+      "kind": "company",
+      "description": "Fast food chain that published Sneak King.",
+      "timestamp": "44:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Burger_King",
+          "label": "Wikipedia: Burger King",
+          "source": "wikipedia",
+          "note": "American fast food restaurant chain"
+        }
+      ]
+    },
+    {
+      "name": "Famiclone",
+      "kind": "hardware",
+      "description": "Cheap clone consoles that play Famicom games on HDTVs.",
+      "timestamp": "45:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Famiclone",
+          "label": "Wikipedia: Famiclone",
+          "source": "wikipedia",
+          "note": "Hardware clones of the NES home video game console"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of essential NES games; this game earned a spot.",
+      "timestamp": "45:37",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Checkers",
+      "kind": "game",
+      "description": "Board game used as a comparison for repeatable competitive play.",
+      "timestamp": "46:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Checkers",
+          "label": "Wikipedia: Checkers",
+          "source": "wikipedia",
+          "note": "Strategy board game"
+        }
+      ]
+    },
+    {
+      "name": "GoldenEye 007",
+      "kind": "game",
+      "description": "Nintendo 64 shooter compared to the game's hunt-and-peek multiplayer feel.",
+      "timestamp": "50:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/GoldenEye_007",
+          "label": "Wikipedia: GoldenEye 007",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Ghostbusters (NES)",
+      "kind": "game",
+      "description": "Earlier NES episode game that surprised the hosts negatively.",
+      "timestamp": "48:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghostbusters_(1984_video_game)",
+          "label": "Wikipedia: Ghostbusters (1984 video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ]
+    },
+    {
+      "name": "Life Force",
+      "kind": "game",
+      "description": "The previous game to join the Essential Games List.",
+      "timestamp": "48:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Salamander_(video_game)",
+          "label": "Wikipedia: Salamander (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "111-life-force",
+      "episode_title": "LIFE FORCE"
+    },
+    {
+      "name": "Bomberman",
+      "kind": "other",
+      "description": "Bomb-placing series imagined as an alternative take on the game.",
+      "timestamp": "49:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bomberman",
+          "label": "Wikipedia: Bomberman",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "155-bomberman",
+      "episode_title": "BOMBERMAN"
+    },
+    {
+      "name": "Racket Attack",
+      "kind": "game",
+      "description": "Earlier NES episode game with a switch between serving and play views.",
+      "timestamp": "33:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Racket_Attack",
+          "label": "Wikipedia: Racket Attack",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "130-racket-attack",
+      "episode_title": "RACKET ATTACK"
+    },
+    {
+      "name": "Super Mario Bros. 2",
+      "kind": "game",
+      "description": "Next week's episode game.",
+      "timestamp": "53:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2",
+          "label": "Wikipedia: Super Mario Bros. 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "133-super-mario-bros-2",
+      "episode_title": "SUPER MARIO BROS. 2"
+    },
+    {
+      "name": "Super Mario All-Stars",
+      "kind": "game",
+      "description": "Compilation where one host first played Super Mario Bros. 2.",
+      "timestamp": "53:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_All-Stars",
+          "label": "Wikipedia: Super Mario All-Stars",
+          "source": "wikipedia",
+          "note": "1993 video game compilation"
+        }
+      ]
+    }
+  ]
+}

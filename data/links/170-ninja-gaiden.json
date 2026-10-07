@@ -1,0 +1,625 @@
+{
+  "episode": 170,
+  "title": "170 - Ninja Gaiden",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "d7ca41c7f883",
+  "items": [
+    {
+      "name": "Ninja Gaiden",
+      "kind": "game",
+      "description": "The episode's game: Tecmo's 1989 NES action platformer about ninja Ryu Hayabusa, famed for its cutscenes and difficulty.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(NES_video_game)",
+          "label": "Wikipedia: Ninja Gaiden (NES video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Ninja_Gaiden_(NES)",
+          "label": "Ninja Gaiden (NES) - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/ninja-gaiden-nes/",
+          "label": "Ninja Gaiden (NES) - Hardcore Gaming 101",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.giantbomb.com/games/3030-1653/",
+          "label": "Ninja Gaiden - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Tecmo Theater",
+      "kind": "event_or_term",
+      "description": "Tecmo's trademarked name for the game's anime-style cinematic cutscenes, mentioned in the manual.",
+      "timestamp": "06:43",
+      "links": [
+        {
+          "url": "https://www.nintendolife.com/games/nes/ninja_gaiden",
+          "label": "Ninja Gaiden (NES) - Nintendo Life",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Tecmo",
+      "kind": "company",
+      "description": "The Japanese developer and publisher of Ninja Gaiden.",
+      "timestamp": "07:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo",
+          "label": "Wikipedia: Tecmo",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Ryu Hayabusa",
+      "kind": "person",
+      "description": "The ninja hero of the game and series; the hosts struggle with his surname.",
+      "timestamp": "18:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ryu_Hayabusa",
+          "label": "Wikipedia: Ryu Hayabusa",
+          "source": "wikipedia",
+          "note": "Video game character in the Ninja Gaiden and Dead or Alive series"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "Konami's 1986 game the hosts say Ninja Gaiden closely resembles in layout, interface and enemies.",
+      "timestamp": "03:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Castlevania II: Simon's Quest",
+      "kind": "game",
+      "description": "Earlier episode's game, known for its reputation and compared to Zelda II.",
+      "timestamp": "03:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Simon's_Quest",
+          "label": "Wikipedia: Castlevania II: Simon's Quest",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "143-castlevania-ii-simons-quest",
+      "episode_title": "CASTLEVANIA II: SIMON'S QUEST"
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "Released around the same time as Castlevania II with similar gameplay.",
+      "timestamp": "03:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "Ninja Gaiden (Xbox, 2004)",
+      "kind": "game",
+      "description": "The rebooted Xbox series, known for its difficulty and over-the-top cutscenes.",
+      "timestamp": "02:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)",
+          "label": "Wikipedia: Ninja Gaiden (2004 video game)",
+          "source": "wikipedia",
+          "note": "Action-adventure game"
+        }
+      ]
+    },
+    {
+      "name": "Dark Souls",
+      "kind": "game",
+      "description": "Used as a comparison for the Xbox Ninja Gaiden's reputation for difficulty.",
+      "timestamp": "02:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dark_Souls_(video_game)",
+          "label": "Wikipedia: Dark Souls (video game)",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "game",
+      "description": "Capcom game also known for brutal difficulty, compared to Ninja Gaiden's reputation.",
+      "timestamp": "01:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins",
+          "label": "Wikipedia: Ghosts 'n Goblins",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    },
+    {
+      "name": "Shinobi",
+      "kind": "game",
+      "description": "Sega's ninja series, mentioned when the hosts discuss one-hit deaths.",
+      "timestamp": "05:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shinobi_(1987_video_game)",
+          "label": "Wikipedia: Shinobi (1987 video game)",
+          "source": "wikipedia",
+          "note": "Hack and slash video game"
+        }
+      ]
+    },
+    {
+      "name": "Golgo 13: Top Secret Episode",
+      "kind": "game",
+      "description": "Earlier episode whose cutscenes the hosts rank below Ninja Gaiden's.",
+      "timestamp": "07:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Golgo_13%3A_Top_Secret_Episode",
+          "label": "Wikipedia: Golgo 13: Top Secret Episode",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "115-golgo-13-top-secret-episode",
+      "episode_title": "GOLGO 13: TOP SECRET EPISODE"
+    },
+    {
+      "name": "Rambo",
+      "kind": "game",
+      "description": "Earlier NES game whose cutscenes are compared unfavorably to Ninja Gaiden's.",
+      "timestamp": "07:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rambo_(1987_video_game)",
+          "label": "Wikipedia: Rambo (1987 video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "102-rambo",
+      "episode_title": "RAMBO"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles",
+      "kind": "film_tv_music",
+      "description": "Cited as part of a ninja craze in North America when Tecmo made the game.",
+      "timestamp": "10:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles",
+          "label": "Wikipedia: Teenage Mutant Ninja Turtles",
+          "source": "wikipedia",
+          "note": "American media franchise"
+        }
+      ],
+      "episode_key": "195-teenage-mutant-ninja-turtles",
+      "episode_title": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "name": "The Karate Kid",
+      "kind": "film_tv_music",
+      "description": "Movie mentioned as feeding the 1980s interest in ninjas and martial arts.",
+      "timestamp": "10:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Karate_Kid",
+          "label": "Wikipedia: The Karate Kid",
+          "source": "wikipedia",
+          "note": "1984 film by John Avildsen"
+        }
+      ],
+      "episode_key": "082-the-karate-kid",
+      "episode_title": "THE KARATE KID"
+    },
+    {
+      "name": "Kung Fu Heroes",
+      "kind": "game",
+      "description": "Game from an earlier episode, contrasted with Ninja Gaiden's rewarding replay.",
+      "timestamp": "28:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chinese_Hero_(video_game)",
+          "label": "Wikipedia: Chinese Hero (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "168-kung-fu-heroes",
+      "episode_title": "Kung-Fu Heroes"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Used as an example of a game people happily replay from level one.",
+      "timestamp": "30:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Contra",
+      "kind": "game",
+      "description": "The final boss's alien look reminded the hosts of Contra.",
+      "timestamp": "43:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+          "label": "Wikipedia: Contra (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "092-contra",
+      "episode_title": "CONTRA"
+    },
+    {
+      "name": "Xenomorph",
+      "kind": "film_tv_music",
+      "description": "The alien from the Alien films, which the final level's design recalls.",
+      "timestamp": "43:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xenomorph",
+          "label": "Wikipedia: Xenomorph",
+          "source": "wikipedia",
+          "note": "Alien franchise extraterrestrial species"
+        }
+      ]
+    },
+    {
+      "name": "Ninja Gaiden (arcade)",
+      "kind": "game",
+      "description": "Tecmo's separate 1988 arcade beat-'em-up of the same name, not a port of the NES game.",
+      "timestamp": "54:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(arcade_game)",
+          "label": "Wikipedia: Ninja Gaiden (arcade game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Ninja_Gaiden_1988",
+          "label": "Ninja Gaiden (1988 arcade) - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Ninja Gaiden II: The Dark Sword of Chaos",
+      "kind": "game",
+      "description": "The first of two NES sequels the hosts say they will cover.",
+      "timestamp": "56:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_II%3A_The_Dark_Sword_of_Chaos",
+          "label": "Wikipedia: Ninja Gaiden II: The Dark Sword of Chaos",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "308-ninja-gaiden-ii-the-dark-sword-of-chaos",
+      "episode_title": "Ninja Gaiden II: The Dark Sword of Chaos"
+    },
+    {
+      "name": "Ninja Gaiden III: The Ancient Ship of Doom",
+      "kind": "game",
+      "description": "The second NES sequel the hosts will cover later.",
+      "timestamp": "56:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_III%3A_The_Ancient_Ship_of_Doom",
+          "label": "Wikipedia: Ninja Gaiden III: The Ancient Ship of Doom",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Ninja Gaiden Trilogy",
+      "kind": "game",
+      "description": "1995 Super Nintendo compilation of the three NES games, judged barely improved.",
+      "timestamp": "57:17",
+      "links": [
+        {
+          "url": "https://mobygames.com/game/6622/ninja-gaiden-trilogy/reviews",
+          "label": "Ninja Gaiden Trilogy - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario All-Stars",
+      "kind": "game",
+      "description": "Compilation remake of the NES Mario games, used to explain the Trilogy.",
+      "timestamp": "57:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_All-Stars",
+          "label": "Wikipedia: Super Mario All-Stars",
+          "source": "wikipedia",
+          "note": "1993 video game compilation"
+        }
+      ]
+    },
+    {
+      "name": "Super Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "The 16-bit console that received the Ninja Gaiden Trilogy.",
+      "timestamp": "57:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+          "label": "Wikipedia: Super Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Ninja Gaiden (PC Engine)",
+      "kind": "game",
+      "description": "Hudson's 1992 PC Engine port, with smaller sprites and larger backgrounds.",
+      "timestamp": "58:48",
+      "links": [
+        {
+          "url": "https://necretro.org/Ninja_Gaiden",
+          "label": "Ninja Gaiden - NEC Retro",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "TurboGrafx-16",
+      "kind": "hardware",
+      "description": "The PC Engine, NEC's console, which got its own version of Ninja Gaiden.",
+      "timestamp": "58:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/TurboGrafx-16",
+          "label": "Wikipedia: TurboGrafx-16",
+          "source": "wikipedia",
+          "note": "Fourth-generation home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Ninja Gaiden OVA",
+      "kind": "film_tv_music",
+      "description": "A 1991 animated adaptation set after Ninja Gaiden II, which the hosts say is on YouTube.",
+      "timestamp": "59:47",
+      "links": [
+        {
+          "url": "https://myanimelist.net/anime/619",
+          "label": "Ninja Ryuukenden - MyAnimeList",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Xbox",
+      "kind": "hardware",
+      "description": "Console where the modern Ninja Gaiden games first appeared.",
+      "timestamp": "1:00:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xbox_(console)",
+          "label": "Wikipedia: Xbox (console)",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "The Messenger",
+      "kind": "game",
+      "description": "Modern ninja platformer by Sabotage Studio that the hosts recommend as Ninja Gaiden-influenced.",
+      "timestamp": "1:01:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Messenger_(2018_video_game)",
+          "label": "Wikipedia: The Messenger (2018 video game)",
+          "source": "wikipedia",
+          "note": "Action-platform game"
+        },
+        {
+          "url": "https://themessengergame.com/",
+          "label": "The Messenger - official site",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Marble Madness",
+      "kind": "game",
+      "description": "Earlier episode's game, mentioned as having no sequels.",
+      "timestamp": "1:01:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Marble_Madness",
+          "label": "Wikipedia: Marble Madness",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "169-marble-madness",
+      "episode_title": "Marble Madness"
+    },
+    {
+      "name": "Super Monkey Ball",
+      "kind": "game",
+      "description": "Spiritual follow-up to Marble Madness, used as an analogy for The Messenger.",
+      "timestamp": "1:01:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Monkey_Ball",
+          "label": "Wikipedia: Super Monkey Ball",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Super Smash Bros. Ultimate",
+      "kind": "game",
+      "description": "The game where the hosts think Ryu Hayabusa deserves to be a fighter.",
+      "timestamp": "1:02:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate",
+          "label": "Wikipedia: Super Smash Bros. Ultimate",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        },
+        {
+          "url": "https://www.nintendolife.com/news/2021/03/team_ninja_says_its_waiting_for_ryus_super_smash_bros_ultimate_invite",
+          "label": "Team Ninja says it's waiting for Ryu's Smash invite - Nintendo Life",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Simon Belmont",
+      "kind": "person",
+      "description": "Castlevania hero who was added to Smash, cited as precedent for Ryu.",
+      "timestamp": "1:03:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Simon_Belmont",
+          "label": "Wikipedia: Simon Belmont",
+          "source": "wikipedia",
+          "note": "Castlevania series character"
+        }
+      ]
+    },
+    {
+      "name": "Vectorman",
+      "kind": "game",
+      "description": "Sega Genesis game jokingly proposed as a Smash character ahead of Ryu.",
+      "timestamp": "1:03:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Vectorman",
+          "label": "Wikipedia: Vectorman",
+          "source": "wikipedia",
+          "note": "1995 video game"
+        }
+      ]
+    },
+    {
+      "name": "Pepsiman",
+      "kind": "game",
+      "description": "Pepsi mascot and PlayStation game, jokingly suggested as a Smash character.",
+      "timestamp": "1:04:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pepsiman_(video_game)",
+          "label": "Wikipedia: Pepsiman (video game)",
+          "source": "wikipedia",
+          "note": "1999 video game by KID"
+        }
+      ]
+    },
+    {
+      "name": "Fire Emblem",
+      "kind": "game",
+      "description": "Nintendo series jokingly suggested as the character Smash really needs.",
+      "timestamp": "1:04:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fire_Emblem",
+          "label": "Wikipedia: Fire Emblem",
+          "source": "wikipedia",
+          "note": "Tactical role-playing video game franchise published by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of essential NES games; Ninja Gaiden was voted onto it.",
+      "timestamp": "1:04:30",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "Earlier episode where the hosts first faced a vote going against someone's wishes.",
+      "timestamp": "1:18:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "World Games",
+      "kind": "game",
+      "description": "The next episode's game, which the hosts call mediocre.",
+      "timestamp": "1:19:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/World_Games_(video_game)",
+          "label": "Wikipedia: World Games (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "171-world-games",
+      "episode_title": "World Games"
+    }
+  ]
+}

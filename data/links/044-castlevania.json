@@ -1,0 +1,653 @@
+{
+  "episode": 44,
+  "title": "044 - Castlevania",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "0e6f13f6eb4d",
+  "items": [
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "The episode's game: Konami's 1986 gothic action-platformer starring Simon Belmont against Dracula.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Castlevania",
+          "label": "Castlevania - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.giantbomb.com/games/3030-6673/",
+          "label": "Castlevania - Giant Bomb",
+          "source": "reference"
+        },
+        {
+          "url": "https://mobygames.com/game/2062/castlevania/user-review/2336280",
+          "label": "Castlevania - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Konami",
+      "kind": "company",
+      "description": "Publisher and developer of Castlevania, Gradius and Ghosts 'n Goblins' fellow-era hits.",
+      "timestamp": "01:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami",
+          "label": "Wikipedia: Konami",
+          "source": "wikipedia",
+          "note": "Japanese entertainment and video game company"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania: Symphony of the Night",
+      "kind": "game",
+      "description": "The later PlayStation Castlevania whose save file a Metal Gear Solid boss comments on.",
+      "timestamp": "01:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania%3A_Symphony_of_the_Night",
+          "label": "Wikipedia: Castlevania: Symphony of the Night",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Metal Gear Solid",
+      "kind": "game",
+      "description": "The PlayStation game where Psycho Mantis reads your memory card and reacts to Castlevania saves.",
+      "timestamp": "00:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(video_game)",
+          "label": "Wikipedia: Metal Gear Solid (video game)",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "Gradius",
+      "kind": "other",
+      "description": "Konami's earlier shooter covered on the show, also known for its power-up system and Moai heads.",
+      "timestamp": "01:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gradius",
+          "label": "Wikipedia: Gradius",
+          "source": "wikipedia",
+          "note": "Video game series by Konami"
+        }
+      ],
+      "episode_key": "035-gradius",
+      "episode_title": "GRADIUS"
+    },
+    {
+      "name": "Trojan",
+      "kind": "game",
+      "description": "An earlier arcade-first side-scroller covered on the show, compared with Castlevania.",
+      "timestamp": "04:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Trojan_(video_game)",
+          "label": "Wikipedia: Trojan (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "037-trojan",
+      "episode_title": "TROJAN"
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "game",
+      "description": "Capcom's earlier, much harder arcade-first platformer, compared with Castlevania.",
+      "timestamp": "04:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins",
+          "label": "Wikipedia: Ghosts 'n Goblins",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    },
+    {
+      "name": "Famicom Disk System",
+      "kind": "hardware",
+      "description": "Nintendo's Japanese disk add-on, where Castlevania first appeared with saving.",
+      "timestamp": "04:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Famicom_Disk_System",
+          "label": "Wikipedia: Famicom Disk System",
+          "source": "wikipedia",
+          "note": "Video game console peripheral"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Used as the comparison for pacing, power-ups and story throughout the episode.",
+      "timestamp": "02:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Simon Belmont",
+      "kind": "other",
+      "description": "The whip-wielding hero of Castlevania, called Simon Belmondo in Japan and the movie credits.",
+      "timestamp": "08:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Simon_Belmont",
+          "label": "Wikipedia: Simon Belmont",
+          "source": "wikipedia",
+          "note": "Castlevania series character"
+        }
+      ]
+    },
+    {
+      "name": "Dracula",
+      "kind": "other",
+      "description": "The vampire lord resurrected every hundred years, and the game's final boss.",
+      "timestamp": "08:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Count_Dracula",
+          "label": "Wikipedia: Count Dracula",
+          "source": "wikipedia",
+          "note": "Title character of Bram Stoker's Dracula"
+        }
+      ]
+    },
+    {
+      "name": "Universal Classic Monsters",
+      "kind": "film_tv_music",
+      "description": "The 1930s Universal horror films whose monsters populate the castle.",
+      "timestamp": "09:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Universal_Monsters",
+          "label": "Wikipedia: Universal Monsters",
+          "source": "wikipedia",
+          "note": "Horror and science fiction franchise"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man",
+      "kind": "game",
+      "description": "Compared for its enemy-specific weapons, early in the sub-weapon discussion.",
+      "timestamp": "15:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_(1987_video_game)",
+          "label": "Wikipedia: Mega Man (1987 video game)",
+          "source": "wikipedia",
+          "note": "NES/Famicom action-platform video game"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Egoraptor",
+      "kind": "person",
+      "description": "Arin Hanson, whose Sequelitis video on Castlevania's enemy placement is cited.",
+      "timestamp": "21:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arin_Hanson",
+          "label": "Wikipedia: Arin Hanson",
+          "source": "wikipedia",
+          "note": "American Internet personality (born 1987)"
+        }
+      ]
+    },
+    {
+      "name": "Sequelitis",
+      "kind": "website_or_article",
+      "description": "Egoraptor's video series analyzing game design, including a Castlevania episode.",
+      "timestamp": "21:16",
+      "links": [
+        {
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/WebVideo/Sequelitis",
+          "label": "Sequelitis - TV Tropes",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "10-Yard Fight",
+      "kind": "game",
+      "description": "An earlier NES football game the hosts keep joking about when talking about knockback.",
+      "timestamp": "30:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/10-Yard_Fight",
+          "label": "Wikipedia: 10-Yard Fight",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "001-10-yard-fight",
+      "episode_title": "10-YARD FIGHT"
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "The next episode's game, where hearts are also not health.",
+      "timestamp": "31:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Ice Climber",
+      "kind": "game",
+      "description": "Source of the condor the hosts compare to Castlevania's big pink birds.",
+      "timestamp": "41:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ice_Climber",
+          "label": "Wikipedia: Ice Climber",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "009-ice-climber",
+      "episode_title": "ICE CLIMBER"
+    },
+    {
+      "name": "Frankenstein's monster",
+      "kind": "other",
+      "description": "The monster boss, paired with Igor, and the hosts' name mix-up between creator and creation.",
+      "timestamp": "50:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frankenstein's_monster",
+          "label": "Wikipedia: Frankenstein's monster",
+          "source": "wikipedia",
+          "note": "1818 fictional character by Mary Shelley"
+        }
+      ]
+    },
+    {
+      "name": "The Hunchback of Notre-Dame",
+      "kind": "other",
+      "description": "Joked about when naming the hunchback enemies.",
+      "timestamp": "38:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame",
+          "label": "Wikipedia: The Hunchback of Notre-Dame",
+          "source": "wikipedia",
+          "note": "1831 novel by Victor Hugo"
+        }
+      ]
+    },
+    {
+      "name": "Super Smash Bros. Ultimate",
+      "kind": "game",
+      "description": "The Smash game whose trailer showed the Grim Reaper and which uses Castlevania music.",
+      "timestamp": "58:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate",
+          "label": "Wikipedia: Super Smash Bros. Ultimate",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        }
+      ]
+    },
+    {
+      "name": "Game Grumps",
+      "kind": "website_or_article",
+      "description": "YouTube gaming show whose Castlevania playthrough shows holy water beating the Grim Reaper.",
+      "timestamp": "1:04:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Grumps",
+          "label": "Wikipedia: Game Grumps",
+          "source": "wikipedia",
+          "note": "Let's Play web series"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Lee",
+      "kind": "person",
+      "description": "Actor the credit joke 'Christopher B.' is a play on, famous for playing Dracula.",
+      "timestamp": "1:11:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Christopher_Lee",
+          "label": "Wikipedia: Christopher Lee",
+          "source": "wikipedia",
+          "note": "English actor and singer (1922–2015)"
+        }
+      ]
+    },
+    {
+      "name": "Bela Lugosi",
+      "kind": "person",
+      "description": "Actor famous for playing Dracula, punned on in the end-credit cast.",
+      "timestamp": "1:11:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bela_Lugosi",
+          "label": "Wikipedia: Bela Lugosi",
+          "source": "wikipedia",
+          "note": "Hungarian actor (1882–1956)"
+        }
+      ]
+    },
+    {
+      "name": "Boris Karloff",
+      "kind": "person",
+      "description": "Actor famous for playing Frankenstein's monster, punned on in the end-credit cast.",
+      "timestamp": "1:11:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Boris_Karloff",
+          "label": "Wikipedia: Boris Karloff",
+          "source": "wikipedia",
+          "note": "English actor (1887–1969)"
+        }
+      ]
+    },
+    {
+      "name": "Angry Video Game Nerd",
+      "kind": "website_or_article",
+      "description": "Web series cited for a joke about the credits' near-miss names.",
+      "timestamp": "1:12:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Angry_Video_Game_Nerd",
+          "label": "Wikipedia: Angry Video Game Nerd",
+          "source": "wikipedia",
+          "note": "American retro gaming review comedy web series"
+        }
+      ]
+    },
+    {
+      "name": "Kinuyo Yamashita",
+      "kind": "person",
+      "description": "Composer of the Castlevania soundtrack, her first.",
+      "timestamp": "1:21:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kinuyo_Yamashita",
+          "label": "Wikipedia: Kinuyo Yamashita",
+          "source": "wikipedia",
+          "note": "Japanese composer and musician"
+        },
+        {
+          "url": "https://www.timeextension.com/news/2026/09/i-feel-very-fortunate-castlevanias-kinuyo-yamashita-celebrates-40-years-of-the-vampire-slaying-classic",
+          "label": "Yamashita celebrates 40 years of Castlevania - Time Extension",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Mach Rider",
+      "kind": "game",
+      "description": "An earlier Nintendo game whose music the hosts compare to Castlevania's.",
+      "timestamp": "1:21:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mach_Rider",
+          "label": "Wikipedia: Mach Rider",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "026-mach-rider",
+      "episode_title": "MACH RIDER"
+    },
+    {
+      "name": "Castlevania II: Simon's Quest",
+      "kind": "game",
+      "description": "The NES sequel the hosts say is coming up.",
+      "timestamp": "1:21:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Simon's_Quest",
+          "label": "Wikipedia: Castlevania II: Simon's Quest",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "143-castlevania-ii-simons-quest",
+      "episode_title": "CASTLEVANIA II: SIMON'S QUEST"
+    },
+    {
+      "name": "Castlevania III: Dracula's Curse",
+      "kind": "game",
+      "description": "The third NES Castlevania, mentioned with the sequels.",
+      "timestamp": "1:21:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_III%3A_Dracula's_Curse",
+          "label": "Wikipedia: Castlevania III: Dracula's Curse",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "357-castlevania-iii-draculas-curse",
+      "episode_title": "Castlevania III: Dracula's Curse"
+    },
+    {
+      "name": "Castlevania (Nintendo 64)",
+      "kind": "game",
+      "description": "The N64 Castlevania games the hosts would rather not discuss.",
+      "timestamp": "1:22:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1999_video_game)",
+          "label": "Wikipedia: Castlevania (1999 video game)",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "Magazine whose cover with Castlevania was one host's first issue.",
+      "timestamp": "1:22:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        }
+      ]
+    },
+    {
+      "name": "The Great Train Robbery",
+      "kind": "film_tv_music",
+      "description": "1903 film cited in a tangent about early audiences being frightened by movies.",
+      "timestamp": "1:23:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Great_Train_Robbery_(1903_film)",
+          "label": "Wikipedia: The Great Train Robbery (1903 film)",
+          "source": "wikipedia",
+          "note": "American western film by Edwin S. Porter"
+        }
+      ]
+    },
+    {
+      "name": "Banjo-Kazooie",
+      "kind": "game",
+      "description": "N64 game with a shark that made one host throw the controller.",
+      "timestamp": "1:23:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Banjo-Kazooie_(video_game)",
+          "label": "Wikipedia: Banjo-Kazooie (video game)",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania (Netflix series)",
+      "kind": "film_tv_music",
+      "description": "Animated Netflix series about Trevor Belmont, Alucard and Dracula.",
+      "timestamp": "1:24:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(TV_series)",
+          "label": "Wikipedia: Castlevania (TV series)",
+          "source": "wikipedia",
+          "note": "American adult animated series"
+        }
+      ]
+    },
+    {
+      "name": "Super Castlevania IV",
+      "kind": "game",
+      "description": "The Super Nintendo remake of the first game, with diagonal whipping.",
+      "timestamp": "1:26:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Castlevania_IV",
+          "label": "Wikipedia: Super Castlevania IV",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Akumajo Dracula (Japanese releases)",
+      "kind": "game",
+      "description": "The Japanese Famicom Disk System and cartridge versions, which add saving and an easy mode.",
+      "timestamp": "1:26:57",
+      "links": [
+        {
+          "url": "https://www.onemillionpower.com/akumajo-dracula-castlevania/",
+          "label": "Akumajou Dracula - One Million Power",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Virtual Console",
+      "kind": "hardware",
+      "description": "Nintendo's download service where Castlevania was re-released.",
+      "timestamp": "1:29:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Virtual_Console",
+          "label": "Wikipedia: Virtual Console",
+          "source": "wikipedia",
+          "note": "Line of downloadable video games for several Nintendo platforms"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of NES games still worth playing, voted on at episode end.",
+      "timestamp": "1:31:59",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Octopath Traveler",
+      "kind": "game",
+      "description": "The RPG one host was playing alongside Castlevania.",
+      "timestamp": "1:36:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Octopath_Traveler",
+          "label": "Wikipedia: Octopath Traveler",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        }
+      ]
+    },
+    {
+      "name": "Creature from the Black Lagoon",
+      "kind": "film_tv_music",
+      "description": "1954 monster movie the fishmen resemble.",
+      "timestamp": "1:38:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Creature_from_the_Black_Lagoon",
+          "label": "Wikipedia: Creature from the Black Lagoon",
+          "source": "wikipedia",
+          "note": "1954 film by William Alland"
+        }
+      ]
+    },
+    {
+      "name": "The Raven",
+      "kind": "other",
+      "description": "Edgar Allan Poe poem the ravens are compared to.",
+      "timestamp": "1:38:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Raven",
+          "label": "Wikipedia: The Raven",
+          "source": "wikipedia",
+          "note": "1845 narrative poem by Edgar Allan Poe"
+        }
+      ]
+    },
+    {
+      "name": "Ikari Warriors",
+      "kind": "game",
+      "description": "The next episode's game.",
+      "timestamp": "1:39:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ikari_Warriors",
+          "label": "Wikipedia: Ikari Warriors",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "045-ikari-warriors",
+      "episode_title": "IKARI WARRIORS"
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "episode": 4,
+  "title": "004 - Duck Hunt",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "a25bc7828ebb",
+  "items": [
+    {
+      "name": "Duck Hunt",
+      "kind": "game",
+      "description": "The episode's game: the Zapper light-gun shooter with duck and clay-disc modes, shown as a launch-era NES pack-in.",
+      "timestamp": "00:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Duck_Hunt",
+          "label": "Wikipedia: Duck Hunt",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        },
+        {
+          "url": "https://mobygames.com/game/104990/duck-hunt",
+          "label": "Duck Hunt - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://StrategyWiki.org/wiki/Duck_Hunt",
+          "label": "Duck Hunt - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Duck_Hunt",
+          "label": "Duck Hunt - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Laser Clay Shooting System",
+      "kind": "game",
+      "description": "Nintendo's 1970s projector shooting-gallery game, the original Duck Hunt idea, shot at a wall with a light rifle.",
+      "timestamp": "00:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Laser_Clay_Shooting_System",
+          "label": "Wikipedia: Laser Clay Shooting System",
+          "source": "wikipedia",
+          "note": "Light gun shooting simulation game by Nintendo"
+        },
+        {
+          "url": "https://kotaku.com/the-gun-game-that-nearly-broke-nintendo-5794640",
+          "label": "The gun game that nearly broke Nintendo - Kotaku",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "VS. Duck Hunt",
+      "kind": "game",
+      "description": "The arcade version on Nintendo's VS. System, whose success helped convince Nintendo to launch the NES in America.",
+      "timestamp": "00:45",
+      "links": [
+        {
+          "url": "https://bitvint.com/pages/vs-duck-hunt",
+          "label": "Vs. Duck Hunt - Nintendo's Light Gun Classic Hits the Arcade",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "The console the show covers; Duck Hunt's success helped justify its North American launch.",
+      "timestamp": "01:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
+          "label": "Wikipedia: Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "NES Zapper",
+      "kind": "hardware",
+      "description": "The light-gun peripheral used to play Duck Hunt, including its futuristic US design and anti-cheat black frame.",
+      "timestamp": "05:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NES_Zapper",
+          "label": "Wikipedia: NES Zapper",
+          "source": "wikipedia",
+          "note": "Video game light gun accessory"
+        },
+        {
+          "url": "https://gizmodo.com/how-the-nintendo-zapper-light-gun-actually-works-1790659786",
+          "label": "How the Nintendo Zapper light gun actually works - Gizmodo",
+          "source": "other"
+        },
+        {
+          "url": "https://www.mentalfloss.com/article/26875/how-did-duck-hunt-gun-work",
+          "label": "How Did the Duck Hunt Gun Work? - Mental Floss",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Light gun",
+      "kind": "event_or_term",
+      "description": "The kind of controller the Zapper is, which detects light from the screen to register hits.",
+      "timestamp": "08:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Light_gun",
+          "label": "Wikipedia: Light gun",
+          "source": "wikipedia",
+          "note": "Video game pointing device"
+        }
+      ]
+    },
+    {
+      "name": "Cathode-ray tube",
+      "kind": "event_or_term",
+      "description": "The CRT televisions required for the Zapper to work; HD TVs add lag that breaks it.",
+      "timestamp": "07:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cathode_ray_tube",
+          "label": "Wikipedia: Cathode ray tube",
+          "source": "wikipedia",
+          "note": "Vacuum tube used to display images"
+        }
+      ]
+    },
+    {
+      "name": "Skeet shooting",
+      "kind": "event_or_term",
+      "description": "The real sport the hosts compare the clay-disc mode to.",
+      "timestamp": "24:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Skeet_shooting",
+          "label": "Wikipedia: Skeet shooting",
+          "source": "wikipedia",
+          "note": "Sport in which players use shotguns to hit clay disks"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Wii",
+      "kind": "hardware",
+      "description": "Console whose motion-aimed shooting games Joe says he would skip in favor of Duck Hunt.",
+      "timestamp": "18:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wii",
+          "label": "Wikipedia: Wii",
+          "source": "wikipedia",
+          "note": "Home video game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation VR",
+      "kind": "hardware",
+      "description": "The VR system Mike compares Duck Hunt's real-world aiming against.",
+      "timestamp": "18:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/PlayStation_VR",
+          "label": "Wikipedia: PlayStation VR",
+          "source": "wikipedia",
+          "note": "Virtual reality headset developed by Sony Interactive Entertainment"
+        }
+      ]
+    },
+    {
+      "name": "Super Smash Bros. for Nintendo 3DS and Wii U",
+      "kind": "game",
+      "description": "Fighting game where the Duck Hunt dog and duck appear together as a playable character.",
+      "timestamp": "26:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U",
+          "label": "Wikipedia: Super Smash Bros. for Nintendo 3DS and Wii U",
+          "source": "wikipedia",
+          "note": "2014 video games"
+        }
+      ]
+    },
+    {
+      "name": "Wii U",
+      "kind": "hardware",
+      "description": "Console that got a Duck Hunt re-release with an on-screen crosshair.",
+      "timestamp": "30:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wii_U",
+          "label": "Wikipedia: Wii U",
+          "source": "wikipedia",
+          "note": "Home video game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Duck Hunt (Wii U Virtual Console)",
+      "kind": "game",
+      "description": "The Wii U re-release, which added a crosshair so it plays like point and click.",
+      "timestamp": "30:44",
+      "links": [
+        {
+          "url": "https://www.nintendolife.com/reviews/wiiu-eshop/duck_hunt_nes",
+          "label": "Duck Hunt (Wii U eShop) review - Nintendo Life",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Gunpei Yokoi",
+      "kind": "person",
+      "description": "Nintendo designer behind Duck Hunt's projector origins, the Game Boy and the Virtual Boy.",
+      "timestamp": "31:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gunpei_Yokoi",
+          "label": "Wikipedia: Gunpei Yokoi",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (1941–1997)"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Research & Development 1",
+      "kind": "company",
+      "description": "The Nintendo hardware team that developed Duck Hunt and the Zapper.",
+      "timestamp": "31:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Research_%26_Development_1",
+          "label": "Wikipedia: Nintendo Research & Development 1",
+          "source": "wikipedia",
+          "note": "Japanese video game developer"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy",
+      "kind": "hardware",
+      "description": "Handheld that Gunpei Yokoi designed; it was Joe's first gaming experience.",
+      "timestamp": "31:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy",
+          "label": "Wikipedia: Game Boy",
+          "source": "wikipedia",
+          "note": "Handheld Nintendo game console"
+        }
+      ]
+    },
+    {
+      "name": "Kirby's Dream Land",
+      "kind": "game",
+      "description": "Joe's first game, played on the Game Boy.",
+      "timestamp": "31:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kirby's_Dream_Land",
+          "label": "Wikipedia: Kirby's Dream Land",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Virtual Boy",
+      "kind": "hardware",
+      "description": "Nintendo's 3D headset console, Yokoi's last project and a rough exit for him.",
+      "timestamp": "31:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Virtual_Boy",
+          "label": "Wikipedia: Virtual Boy",
+          "source": "wikipedia",
+          "note": "Video game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo",
+      "kind": "company",
+      "description": "The company behind the NES, Duck Hunt and the Zapper.",
+      "timestamp": "00:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo",
+          "label": "Wikipedia: Nintendo",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Used as an example of a game with a score that the hosts never cared about.",
+      "timestamp": "13:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "10-Yard Fight",
+      "kind": "game",
+      "description": "An earlier NES game in the show's chronology, referenced in a joke about a shared timeline.",
+      "timestamp": "27:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/10-Yard_Fight",
+          "label": "Wikipedia: 10-Yard Fight",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "001-10-yard-fight",
+      "episode_title": "10-YARD FIGHT"
+    },
+    {
+      "name": "The Super Mario Bros. Movie",
+      "kind": "film_tv_music",
+      "description": "The animated Mario film from Illumination, which had just been announced.",
+      "timestamp": "28:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie",
+          "label": "Wikipedia: The Super Mario Bros. Movie",
+          "source": "wikipedia",
+          "note": "2023 American animated film"
+        }
+      ]
+    },
+    {
+      "name": "Illumination",
+      "kind": "company",
+      "description": "The animation studio making the Mario movie, not Disney.",
+      "timestamp": "28:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Illumination_(company)",
+          "label": "Wikipedia: Illumination (company)",
+          "source": "wikipedia",
+          "note": "American computer animation studio"
+        }
+      ]
+    },
+    {
+      "name": "The Walt Disney Company",
+      "kind": "company",
+      "description": "Joked about as a future buyer of Nintendo for a cinematic universe.",
+      "timestamp": "27:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
+          "label": "Wikipedia: The Walt Disney Company",
+          "source": "wikipedia",
+          "note": "American media and entertainment conglomerate"
+        }
+      ]
+    },
+    {
+      "name": "Monster Hunter",
+      "kind": "game",
+      "description": "Mike's comparison for a hypothetical duck-bestiary Duck Hunt game.",
+      "timestamp": "28:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monster_Hunter",
+          "label": "Wikipedia: Monster Hunter",
+          "source": "wikipedia",
+          "note": "Video game series and its franchise created by Capcom"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "kind": "game",
+      "description": "Used as the model for a quiet, open-world modern Duck Hunt.",
+      "timestamp": "29:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Breath_of_the_Wild",
+          "label": "Wikipedia: The Legend of Zelda: Breath of the Wild",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Call of Duty",
+      "kind": "game",
+      "description": "Cited as an example of the dog-companion trend.",
+      "timestamp": "29:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Call_of_Duty",
+          "label": "Wikipedia: Call of Duty",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Switch",
+      "kind": "hardware",
+      "description": "The console where a hypothetical new Duck Hunt would appear.",
+      "timestamp": "28:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Switch",
+          "label": "Wikipedia: Nintendo Switch",
+          "source": "wikipedia",
+          "note": "Hybrid video game console"
+        }
+      ]
+    },
+    {
+      "name": "Life Is Strange",
+      "kind": "game",
+      "description": "The modern backlog game compared with Duck Hunt in the Essential Games List pitch.",
+      "timestamp": "33:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Life_Is_Strange",
+          "label": "Wikipedia: Life Is Strange",
+          "source": "wikipedia",
+          "note": "Adventure video game series"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation 4",
+      "kind": "hardware",
+      "description": "Console Mike's brother was playing Fortnite on; also named as a modern backlog console.",
+      "timestamp": "26:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/PlayStation_4",
+          "label": "Wikipedia: PlayStation 4",
+          "source": "wikipedia",
+          "note": "Home video game console by Sony"
+        }
+      ]
+    },
+    {
+      "name": "Fortnite",
+      "kind": "game",
+      "description": "Game Joe's brother was playing, which made him wish he had an NES.",
+      "timestamp": "26:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fortnite",
+          "label": "Wikipedia: Fortnite",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Excitebike",
+      "kind": "game",
+      "description": "The next episode's game.",
+      "timestamp": "36:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Excitebike",
+          "label": "Wikipedia: Excitebike",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "005-excitebike",
+      "episode_title": "EXCITEBIKE"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; Duck Hunt was voted in.",
+      "timestamp": "32:34",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

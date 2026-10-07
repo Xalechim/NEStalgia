@@ -1,0 +1,611 @@
+{
+  "episode": 275,
+  "title": "275 - Super Mario Bros. 3",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "d146293e7cd5",
+  "items": [
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "The episode's game: the 1988 Nintendo platformer with world maps, power-ups like the raccoon suit, and 90 levels.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "The first NES Mario game, already voted onto the Essential Games List and compared throughout.",
+      "timestamp": "00:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Color a Dinosaur",
+      "kind": "game",
+      "description": "An earlier NES game the show has talked about so much it is a running in-joke.",
+      "timestamp": "00:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Color_a_Dinosaur",
+          "label": "Wikipedia: Color a Dinosaur",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario All-Stars",
+      "kind": "game",
+      "description": "The SNES collection of remade NES Mario games, joked about as a future episode.",
+      "timestamp": "02:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_All-Stars",
+          "label": "Wikipedia: Super Mario All-Stars",
+          "source": "wikipedia",
+          "note": "1993 video game compilation"
+        }
+      ]
+    },
+    {
+      "name": "Super Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "Nintendo's 16-bit console, launched in North America in 1991 after the NES era.",
+      "timestamp": "02:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+          "label": "Wikipedia: Super Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario World",
+      "kind": "game",
+      "description": "The SNES follow-up with Yoshi and the cape, constantly compared with Super Mario Bros. 3.",
+      "timestamp": "04:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_World",
+          "label": "Wikipedia: Super Mario World",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "New Super Mario Bros.",
+      "kind": "game",
+      "description": "The modern side-scrolling Mario series that follows the Super Mario Bros. 3 format.",
+      "timestamp": "04:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros.",
+          "label": "Wikipedia: New Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "2006 video game"
+        }
+      ]
+    },
+    {
+      "name": "Shigeru Miyamoto",
+      "kind": "person",
+      "description": "The Nintendo designer behind Mario, credited for plussing up the first game.",
+      "timestamp": "06:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shigeru_Miyamoto",
+          "label": "Wikipedia: Shigeru Miyamoto",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1952)"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 2",
+      "kind": "game",
+      "description": "The NES sequel the show counts as Super Mario Bros. 2, built from a different game and not by Miyamoto's main team.",
+      "timestamp": "07:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2",
+          "label": "Wikipedia: Super Mario Bros. 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "133-super-mario-bros-2",
+      "episode_title": "SUPER MARIO BROS. 2"
+    },
+    {
+      "name": "Mario Is Missing!",
+      "kind": "game",
+      "description": "An upcoming educational Mario game on the NES the hosts are unsure about.",
+      "timestamp": "10:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mario_Is_Missing!",
+          "label": "Wikipedia: Mario Is Missing!",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mario's Time Machine",
+      "kind": "game",
+      "description": "An upcoming educational Mario game on the NES the hosts are unsure about.",
+      "timestamp": "10:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mario's_Time_Machine",
+          "label": "Wikipedia: Mario's Time Machine",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Yoshi",
+      "kind": "other",
+      "description": "The dinosaur companion introduced in Super Mario World, mentioned as a reason one host prefers that game.",
+      "timestamp": "10:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yoshi",
+          "label": "Wikipedia: Yoshi",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Koopalings",
+      "kind": "other",
+      "description": "The seven Koopa kids who guard each world's airship, later retconned as Bowser's cousins.",
+      "timestamp": "20:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Koopalings",
+          "label": "Wikipedia: Koopalings",
+          "source": "wikipedia",
+          "note": "Video game characters"
+        }
+      ]
+    },
+    {
+      "name": "Hammer Bros.",
+      "kind": "other",
+      "description": "Wandering map enemies that feel like bigger boss fights than Boom Boom.",
+      "timestamp": "21:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Mario_franchise_enemies",
+          "label": "Wikipedia: List of Mario franchise enemies",
+          "source": "wikipedia",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Sunshine",
+      "kind": "game",
+      "description": "GameCube Mario game blamed for changing Bowser's backstory and the Koopalings' relationship to him.",
+      "timestamp": "23:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Sunshine",
+          "label": "Wikipedia: Super Mario Sunshine",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Kage",
+      "kind": "game",
+      "description": "An earlier NES game used as an example of a stale gameplay loop.",
+      "timestamp": "32:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Kage",
+          "label": "Wikipedia: The Legend of Kage",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "056-the-legend-of-kage",
+      "episode_title": "THE LEGEND OF KAGE"
+    },
+    {
+      "name": "The Tower of Druaga",
+      "kind": "game",
+      "description": "Namco game invoked as a comparison for a game where failing a mini-game blocks progress; covered on the show's Bites feed.",
+      "timestamp": "34:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Tower_of_Druaga",
+          "label": "Wikipedia: The Tower of Druaga",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ]
+    },
+    {
+      "name": "Sonic Adventure",
+      "kind": "game",
+      "description": "Used as an example of 3D Sonic games that grade you at the end of each level.",
+      "timestamp": "40:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sonic_Adventure",
+          "label": "Wikipedia: Sonic Adventure",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "Devil May Cry",
+      "kind": "game",
+      "description": "Series suggested as a better comparison for style-based scoring at the end of levels.",
+      "timestamp": "40:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)",
+          "label": "Wikipedia: Devil May Cry (video game)",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "Boo",
+      "kind": "other",
+      "description": "The ghost enemy introduced in Super Mario Bros. 3 that only chases you when you look away.",
+      "timestamp": "50:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Mario_franchise_enemies",
+          "label": "Wikipedia: List of Mario franchise enemies",
+          "source": "wikipedia",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Super Mario 3D World",
+      "kind": "game",
+      "description": "The game with the cat suit, mentioned as a modern Mario power-up.",
+      "timestamp": "49:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_3D_World",
+          "label": "Wikipedia: Super Mario 3D World",
+          "source": "wikipedia",
+          "note": "2013 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Maker",
+      "kind": "game",
+      "description": "Level-building Mario game, the only modern 2D Mario one host has played.",
+      "timestamp": "49:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Maker",
+          "label": "Wikipedia: Super Mario Maker",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy Pixel Remaster",
+      "kind": "game",
+      "description": "Remastered re-releases of the early Final Fantasy games cited in the remake discussion.",
+      "timestamp": "1:09:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_Pixel_Remaster",
+          "label": "Wikipedia: Final Fantasy Pixel Remaster",
+          "source": "wikipedia",
+          "note": "Series of Final Fantasy video game remasters"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Quest III",
+      "kind": "game",
+      "description": "The RPG getting a modern remake in an Octopath Traveler style, used in the remaster discussion.",
+      "timestamp": "1:07:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Quest_III",
+          "label": "Wikipedia: Dragon Quest III",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy Advance",
+      "kind": "hardware",
+      "description": "Nintendo handheld that got Super Mario Advance 4: Super Mario Bros. 3.",
+      "timestamp": "1:10:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy_Advance",
+          "label": "Wikipedia: Game Boy Advance",
+          "source": "wikipedia",
+          "note": "Handheld game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Advance 4: Super Mario Bros. 3",
+      "kind": "game",
+      "description": "The Game Boy Advance remake with e-Reader levels, released with new content.",
+      "timestamp": "1:10:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Advance_4%3A_Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Advance 4: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "2003 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo e-Reader",
+      "kind": "hardware",
+      "description": "Game Boy Advance card scanner used to unlock extra levels and power-ups.",
+      "timestamp": "1:10:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_e-Reader",
+          "label": "Wikipedia: Nintendo e-Reader",
+          "source": "wikipedia",
+          "note": "Add-on for the Game Boy Advance"
+        }
+      ]
+    },
+    {
+      "name": "Wii U",
+      "kind": "hardware",
+      "description": "Console whose Virtual Console release included the e-Reader levels, no longer sold.",
+      "timestamp": "1:13:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wii_U",
+          "label": "Wikipedia: Wii U",
+          "source": "wikipedia",
+          "note": "Home video game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "The Wizard",
+      "kind": "film_tv_music",
+      "description": "The 1989 film that doubled as a trailer for Super Mario Bros. 3.",
+      "timestamp": "1:14:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Wizard_(1989_film)",
+          "label": "Wikipedia: The Wizard (1989 film)",
+          "source": "wikipedia",
+          "note": "1989 film by Todd Holland"
+        }
+      ]
+    },
+    {
+      "name": "The Adventures of Super Mario Bros. 3",
+      "kind": "film_tv_music",
+      "description": "The 1990 animated TV series based on the game, with Bowser called Koopa.",
+      "timestamp": "1:26:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Super_Mario_Bros._3",
+          "label": "Wikipedia: The Adventures of Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1990 animated TV series"
+        }
+      ]
+    },
+    {
+      "name": "The Super Mario Bros. Super Show!",
+      "kind": "film_tv_music",
+      "description": "The earlier half live-action, half-cartoon Mario show.",
+      "timestamp": "1:27:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Super_Show!",
+          "label": "Wikipedia: The Super Mario Bros. Super Show!",
+          "source": "wikipedia",
+          "note": "1989 American TV series"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. (film)",
+      "kind": "film_tv_music",
+      "description": "The 1993 live-action movie the hosts compare to the live-action segments of the Super Show.",
+      "timestamp": "1:28:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._(film)",
+          "label": "Wikipedia: Super Mario Bros. (film)",
+          "source": "wikipedia",
+          "note": "1993 film by Rocky Morton and Annabel Jankel"
+        }
+      ]
+    },
+    {
+      "name": "Super Smash Bros. Melee",
+      "kind": "game",
+      "description": "Where one host learned Bowser is called Koopa in Japanese by switching languages.",
+      "timestamp": "1:28:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee",
+          "label": "Wikipedia: Super Smash Bros. Melee",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "King Koopa's Kool Kartoons",
+      "kind": "film_tv_music",
+      "description": "A short-lived 1990s regional California kids show that was reportedly stopped by Michael Eisner.",
+      "timestamp": "1:32:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/King_Koopa's_Kool_Kartoons",
+          "label": "Wikipedia: King Koopa's Kool Kartoons",
+          "source": "wikipedia",
+          "note": "American local children's television show"
+        }
+      ]
+    },
+    {
+      "name": "Michael Eisner",
+      "kind": "person",
+      "description": "The Disney CEO said to have personally blocked King Koopa's Kool Kartoons.",
+      "timestamp": "1:34:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Eisner",
+          "label": "Wikipedia: Michael Eisner",
+          "source": "wikipedia",
+          "note": "American businessman and media proprietor (born 1942)"
+        }
+      ]
+    },
+    {
+      "name": "Koji Kondo",
+      "kind": "person",
+      "description": "The composer of the Super Mario music, who struggled to follow up the first game.",
+      "timestamp": "1:42:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Koji_Kondo",
+          "label": "Wikipedia: Koji Kondo",
+          "source": "wikipedia",
+          "note": "Japanese musician (born 1961)"
+        }
+      ]
+    },
+    {
+      "name": "Abadox",
+      "kind": "game",
+      "description": "Next week's NES game.",
+      "timestamp": "1:57:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Abadox",
+          "label": "Wikipedia: Abadox",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "276-abadox",
+      "episode_title": "Abadox"
+    },
+    {
+      "name": "Adventures of Lolo 2",
+      "kind": "game",
+      "description": "A game in an upcoming episode; the first Lolo is already on the Essential Games List.",
+      "timestamp": "1:57:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adventures_of_Lolo_2",
+          "label": "Wikipedia: Adventures of Lolo 2",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Al Unser Jr.'s Turbo Racing",
+      "kind": "game",
+      "description": "Another upcoming NES game, a racing game named for the driver.",
+      "timestamp": "1:57:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Al_Unser_Jr.'s_Turbo_Racing",
+          "label": "Wikipedia: Al Unser Jr.'s Turbo Racing",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "278-al-unser-jrs-turbo-racing",
+      "episode_title": "Al Unser Jr's Turbo Racing"
+    },
+    {
+      "name": "Barker Bill's Trick Shooting",
+      "kind": "game",
+      "description": "The Nintendo light-gun game that comes before Dr. Mario.",
+      "timestamp": "1:58:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Barker_Bill's_Trick_Shooting",
+          "label": "Wikipedia: Barker Bill's Trick Shooting",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "347-barker-bills-trick-shooting",
+      "episode_title": "Barker Bill's Trick Shooting"
+    },
+    {
+      "name": "Dr. Mario",
+      "kind": "game",
+      "description": "The next major Nintendo release the hosts will cover.",
+      "timestamp": "1:58:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dr._Mario",
+          "label": "Wikipedia: Dr. Mario",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "389-dr-mario",
+      "episode_title": "Dr. Mario"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; Super Mario Bros. 3 was voted on early in the episode.",
+      "timestamp": "01:29",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

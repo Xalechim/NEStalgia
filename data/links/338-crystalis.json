@@ -1,0 +1,498 @@
+{
+  "episode": 338,
+  "title": "338 - Crystalis",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "24dc25388f02",
+  "items": [
+    {
+      "name": "Crystalis",
+      "kind": "game",
+      "description": "The episode's game: SNK's 1990 action RPG about a hero woken from cryosleep to find four elemental swords.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crystalis",
+          "label": "Wikipedia: Crystalis",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Crystalis",
+          "label": "Crystalis - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Crystalis",
+          "label": "Crystalis - Giant Bomb",
+          "source": "reference"
+        },
+        {
+          "url": "https://datacrystal.tcrf.net/wiki/Crystalis",
+          "label": "Crystalis - Data Crystal",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Faxanadu",
+      "kind": "game",
+      "description": "Earlier Essential-list NES action RPG, compared here; the hosts joke about how its name is pronounced.",
+      "timestamp": "00:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Faxanadu",
+          "label": "Wikipedia: Faxanadu",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/faxanadu/",
+          "label": "Faxanadu - Hardcore Gaming 101",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.mobygames.com/game/7331/faxanadu/reviews/",
+          "label": "Faxanadu - MobyGames",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "207-faxanadu",
+      "episode_title": "Faxanadu"
+    },
+    {
+      "name": "Xanadu",
+      "kind": "game",
+      "description": "Falcom's computer RPG series that Faxanadu's name comes from.",
+      "timestamp": "01:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Slayer_(series)",
+          "label": "Wikipedia: Dragon Slayer (series)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "The 1986 NES adventure whose sword-from-an-old-man opening and overhead action Crystalis is compared to.",
+      "timestamp": "01:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "The side-scrolling Zelda sequel with towns and a linear story, also compared to Crystalis.",
+      "timestamp": "02:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        },
+        {
+          "url": "https://mobygames.com/game/7296/zelda-ii-the-adventure-of-link/reviews",
+          "label": "Zelda II: The Adventure of Link - MobyGames",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "kind": "game",
+      "description": "Later Super Nintendo Zelda that Crystalis reminded one host of.",
+      "timestamp": "03:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_A_Link_to_the_Past",
+          "label": "Wikipedia: The Legend of Zelda: A Link to the Past",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: Link's Awakening",
+      "kind": "game",
+      "description": "The Game Boy Zelda whose look and size of characters reminded the hosts of Crystalis.",
+      "timestamp": "04:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Link's_Awakening",
+          "label": "Wikipedia: The Legend of Zelda: Link's Awakening",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy",
+      "kind": "hardware",
+      "description": "Nintendo's handheld, described as a powered-down NES, which Crystalis feels like it could run on.",
+      "timestamp": "04:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy",
+          "label": "Wikipedia: Game Boy",
+          "source": "wikipedia",
+          "note": "Handheld Nintendo game console"
+        }
+      ]
+    },
+    {
+      "name": "Super Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "Nintendo's 16-bit console, whose polish Crystalis's particle effects recalled.",
+      "timestamp": "05:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+          "label": "Wikipedia: Super Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Willow",
+      "kind": "game",
+      "description": "Capcom's NES action RPG based on the movie, already on the Essential Games List.",
+      "timestamp": "08:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Willow_(NES_video_game)",
+          "label": "Wikipedia: Willow (NES video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Willow_(NES)",
+          "label": "Willow - StrategyWiki",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "250-willow",
+      "episode_title": "Willow"
+    },
+    {
+      "name": "Dragon Warrior",
+      "kind": "game",
+      "description": "The NES RPG where you talk to people through menus, unlike Crystalis's bump-to-talk.",
+      "timestamp": "30:11",
+      "links": [],
+      "episode_key": "206-dragon-warrior",
+      "episode_title": "Dragon Warrior"
+    },
+    {
+      "name": "Final Fantasy",
+      "kind": "other",
+      "description": "RPG series the hosts mention for grinding and for fighting a god at the end.",
+      "timestamp": "22:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy",
+          "label": "Wikipedia: Final Fantasy",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ],
+      "episode_key": "341-final-fantasy",
+      "episode_title": "Final Fantasy"
+    },
+    {
+      "name": "Doom Eternal",
+      "kind": "game",
+      "description": "Shooter used as an example of a combat system with many tools on many buttons.",
+      "timestamp": "19:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Doom_Eternal",
+          "label": "Wikipedia: Doom Eternal",
+          "source": "wikipedia",
+          "note": "2020 video game"
+        }
+      ]
+    },
+    {
+      "name": "Pokémon",
+      "kind": "other",
+      "description": "Franchise mentioned for status moves like Tail Whip and for frustrating caves.",
+      "timestamp": "23:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon",
+          "label": "Wikipedia: Pokémon",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ]
+    },
+    {
+      "name": "FromSoftware",
+      "kind": "company",
+      "description": "Developer whose games were used as a comparison for dungeons having a gimmick or legacy design.",
+      "timestamp": "36:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/FromSoftware",
+          "label": "Wikipedia: FromSoftware",
+          "source": "wikipedia",
+          "note": "Japanese video game developer"
+        }
+      ]
+    },
+    {
+      "name": "SNK",
+      "kind": "company",
+      "description": "The company that developed and published Crystalis; the hosts note its logo resembles Sega's.",
+      "timestamp": "54:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/SNK",
+          "label": "Wikipedia: SNK",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        },
+        {
+          "url": "https://mobygames.com/company/3407/snk-corporation",
+          "label": "SNK Corporation - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Sega",
+      "kind": "company",
+      "description": "Company whose logo the hosts say SNK's startup screen resembles.",
+      "timestamp": "54:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sega",
+          "label": "Wikipedia: Sega",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo",
+      "kind": "company",
+      "description": "Published the 2000 Game Boy Color Crystalis and bought the rights to it.",
+      "timestamp": "54:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo",
+          "label": "Wikipedia: Nintendo",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Quest III HD-2D Remake",
+      "kind": "game",
+      "description": "Upcoming remake whose widely spaced sprites prompted a joke about the hero's big bedroom.",
+      "timestamp": "59:02",
+      "links": [
+        {
+          "url": "https://dragonquesthd2d.com",
+          "label": "Dragon Quest III HD-2D Remake - official site",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Mass Effect",
+      "kind": "game",
+      "description": "Series used to argue that you don't need to be told you're the chosen one.",
+      "timestamp": "1:01:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mass_Effect_(video_game)",
+          "label": "Wikipedia: Mass Effect (video game)",
+          "source": "wikipedia",
+          "note": "2007 video game"
+        }
+      ]
+    },
+    {
+      "name": "Godzilla Minus One",
+      "kind": "film_tv_music",
+      "description": "2023 film one host was watching when thinking about being the one who has to fight.",
+      "timestamp": "1:02:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_One",
+          "label": "Wikipedia: Godzilla Minus One",
+          "source": "wikipedia",
+          "note": "2023 film by Takashi Yamazaki"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Switch 2",
+      "kind": "hardware",
+      "description": "Nintendo's rumored next console, joked about as a place for a new Crystalis.",
+      "timestamp": "1:02:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Switch_2",
+          "label": "Wikipedia: Nintendo Switch 2",
+          "source": "wikipedia",
+          "note": "Hybrid video game console"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Switch",
+      "kind": "hardware",
+      "description": "Console that the hosts debate calling a handheld or a console.",
+      "timestamp": "1:03:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Switch",
+          "label": "Wikipedia: Nintendo Switch",
+          "source": "wikipedia",
+          "note": "Hybrid video game console"
+        }
+      ]
+    },
+    {
+      "name": "Super Game Boy",
+      "kind": "hardware",
+      "description": "SNES accessory for playing Game Boy games on a TV, used in the handheld-versus-console debate.",
+      "timestamp": "1:03:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Game_Boy",
+          "label": "Wikipedia: Super Game Boy",
+          "source": "wikipedia",
+          "note": "Accessory for the Super Nintendo Entertainment System"
+        }
+      ]
+    },
+    {
+      "name": "Secret of Mana",
+      "kind": "game",
+      "description": "Super Nintendo action RPG named among the best of Crystalis's genre.",
+      "timestamp": "1:05:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Secret_of_Mana",
+          "label": "Wikipedia: Secret of Mana",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; Crystalis was just voted in.",
+      "timestamp": "1:04:45",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "The last game before Crystalis to get a unanimous Essential Games List vote.",
+      "timestamp": "1:09:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "Terra Cresta",
+      "kind": "game",
+      "description": "NES shooter from a recent episode that one host never played.",
+      "timestamp": "1:09:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Terra_Cresta",
+          "label": "Wikipedia: Terra Cresta",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/terra-cresta/",
+          "label": "Terra Cresta - Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "291-terra-cresta",
+      "episode_title": "Terra Cresta"
+    },
+    {
+      "name": "Chip 'n Dale: Rescue Rangers",
+      "kind": "game",
+      "description": "NES platformer from a past Essential Games List vote, jokingly called Chippendale.",
+      "timestamp": "1:09:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chip_'n_Dale_Rescue_Rangers_(video_game)",
+          "label": "Wikipedia: Chip 'n Dale Rescue Rangers (video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "DuckTales",
+      "kind": "game",
+      "description": "Earlier NES platformer whose Essential Games List vote is recalled.",
+      "timestamp": "1:09:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/DuckTales_(video_game)",
+          "label": "Wikipedia: DuckTales (video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "216-ducktales",
+      "episode_title": "DuckTales"
+    },
+    {
+      "name": "Dragon Spirit",
+      "kind": "game",
+      "description": "NES shooter that came the episode after Chip 'n Dale in the voting.",
+      "timestamp": "1:09:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dragon_Spirit",
+          "label": "Wikipedia: Dragon Spirit",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    }
+  ]
+}

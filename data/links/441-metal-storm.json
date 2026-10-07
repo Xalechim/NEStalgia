@@ -1,0 +1,518 @@
+{
+  "episode": 441,
+  "title": "441 - Metal Storm",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "e5da235acce5",
+  "items": [
+    {
+      "name": "Metal Storm",
+      "kind": "game",
+      "description": "The episode's game: a 1991 NES action platformer where a mech flips gravity to walk on ceilings.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metal_Storm_(video_game)",
+          "label": "Wikipedia: Metal Storm (video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/18639",
+          "label": "Metal Storm - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://tcrf.net/Metal_Storm",
+          "label": "Metal Storm - The Cutting Room Floor",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.giantbomb.com/games/3030-12296/",
+          "label": "Metal Storm - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Gundam",
+      "kind": "other",
+      "description": "The giant-robot anime franchise that the mech on the box art recalls.",
+      "timestamp": "02:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gundam",
+          "label": "Wikipedia: Gundam",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Irem",
+      "kind": "company",
+      "description": "The publisher of Metal Storm, also known for R-Type.",
+      "timestamp": "04:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Irem",
+          "label": "Wikipedia: Irem",
+          "source": "wikipedia",
+          "note": "Japanese video game and pachinko company"
+        }
+      ]
+    },
+    {
+      "name": "Pluto",
+      "kind": "event_or_term",
+      "description": "Where the story's defense station with a giant laser sits.",
+      "timestamp": "04:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pluto",
+          "label": "Wikipedia: Pluto",
+          "source": "wikipedia",
+          "note": "Largest dwarf planet in the Solar System"
+        }
+      ]
+    },
+    {
+      "name": "Alderaan",
+      "kind": "event_or_term",
+      "description": "The Star Wars planet destroyed by the Death Star, compared to the laser destroying Neptune.",
+      "timestamp": "05:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alderaan",
+          "label": "Wikipedia: Alderaan",
+          "source": "wikipedia",
+          "note": "Fictional planet in Star Wars"
+        }
+      ]
+    },
+    {
+      "name": "Magician",
+      "kind": "game",
+      "description": "The previous week's NES game, contrasted with this game's gimmick-driven design.",
+      "timestamp": "19:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Magician_(video_game)",
+          "label": "Wikipedia: Magician (video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://tcrf.net/Magician_(NES)",
+          "label": "Magician (NES) - The Cutting Room Floor",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "440-magician",
+      "episode_title": "Magician"
+    },
+    {
+      "name": "VVVVVV",
+      "kind": "game",
+      "description": "The indie platformer in which you flip gravity instead of jumping, compared with this game.",
+      "timestamp": "21:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/VVVVVV",
+          "label": "Wikipedia: VVVVVV",
+          "source": "wikipedia",
+          "note": "2010 video game"
+        }
+      ]
+    },
+    {
+      "name": "Parallax scrolling",
+      "kind": "event_or_term",
+      "description": "The layered-background effect where layers scroll at different speeds, which this game pulls off with a custom chip.",
+      "timestamp": "17:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Parallax_scrolling",
+          "label": "Wikipedia: Parallax scrolling",
+          "source": "wikipedia",
+          "note": "Technique in computer graphics"
+        }
+      ]
+    },
+    {
+      "name": "Mode 7",
+      "kind": "event_or_term",
+      "description": "The Super NES graphics mode the parallax effect is compared to.",
+      "timestamp": "18:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mode_7",
+          "label": "Wikipedia: Mode 7",
+          "source": "wikipedia",
+          "note": "Graphics mode on the Super NES video game console"
+        }
+      ]
+    },
+    {
+      "name": "Super Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "The console whose Mode 7 effects the parallax is compared to.",
+      "timestamp": "18:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+          "label": "Wikipedia: Super Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Memory management controller",
+      "kind": "event_or_term",
+      "description": "The custom mapper chip in the cartridge, plus bank switching, that makes the parallax possible.",
+      "timestamp": "18:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Memory_management_controller",
+          "label": "Wikipedia: Memory management controller",
+          "source": "wikipedia",
+          "note": "Video game console technology"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "The magazine that put the game on the cover of issue 22 with a 12-page strategy guide.",
+      "timestamp": "25:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        }
+      ]
+    },
+    {
+      "name": "R-Type",
+      "kind": "game",
+      "description": "Irem's shooter franchise, whose ship cameos in a background of this game.",
+      "timestamp": "25:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/R-Type",
+          "label": "Wikipedia: R-Type",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Game Genie",
+      "kind": "hardware",
+      "description": "The cheat cartridge that can restore the game's cut cutscenes in the US version.",
+      "timestamp": "26:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Genie",
+          "label": "Wikipedia: Game Genie",
+          "source": "wikipedia",
+          "note": "Line of video game cheat cartridges"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Cited as the model for this game's second quest after you beat it.",
+      "timestamp": "28:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Samus Aran",
+      "kind": "other",
+      "description": "The Metroid hero, compared for a damaging spinning move similar to the game's gravity power-up.",
+      "timestamp": "29:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Samus_Aran",
+          "label": "Wikipedia: Samus Aran",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Computer and Video Games",
+      "kind": "website_or_article",
+      "description": "The British magazine that gave the game a score of 88.",
+      "timestamp": "32:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Computer_and_Video_Games",
+          "label": "Wikipedia: Computer and Video Games",
+          "source": "wikipedia",
+          "note": "UK magazine and website"
+        }
+      ]
+    },
+    {
+      "name": "Mean Machines",
+      "kind": "website_or_article",
+      "description": "A British video game magazine named in the reception rundown.",
+      "timestamp": "32:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mean_Machines",
+          "label": "Wikipedia: Mean Machines",
+          "source": "wikipedia",
+          "note": "UK video game magazine (1990–1992)"
+        }
+      ]
+    },
+    {
+      "name": "IGN",
+      "kind": "website_or_article",
+      "description": "The games site that ranked Metal Storm 46th on its list of best NES games.",
+      "timestamp": "32:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/IGN",
+          "label": "Wikipedia: IGN",
+          "source": "wikipedia",
+          "note": "American entertainment website"
+        }
+      ]
+    },
+    {
+      "name": "Metal Storm 2019 reissue",
+      "kind": "other",
+      "description": "Retro-bit and Limited Run Games re-released the game in 2019 based on the Japanese version, with cutscenes and a color-accurate mech.",
+      "timestamp": "34:06",
+      "links": [
+        {
+          "url": "https://retro-bit.com/metal-storm",
+          "label": "Metal Storm - Retro-bit",
+          "source": "other"
+        },
+        {
+          "url": "https://siliconera.com/?p=787640",
+          "label": "Metal Storm Collector's Edition rerelease - Siliconera",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Limited Run Games",
+      "kind": "company",
+      "description": "The publisher that co-released the 2019 Metal Storm reissue.",
+      "timestamp": "34:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Limited_Run_Games",
+          "label": "Wikipedia: Limited Run Games",
+          "source": "wikipedia",
+          "note": "American video game distributor"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Its original Famicom box art, with a very different Bowser, is used as a comparison for the Metal Storm box art.",
+      "timestamp": "34:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Bowser",
+      "kind": "other",
+      "description": "The Mario villain who looks very different in the original Famicom art.",
+      "timestamp": "34:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bowser",
+          "label": "Wikipedia: Bowser",
+          "source": "wikipedia",
+          "note": "Video game character"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario 3D World",
+      "kind": "game",
+      "description": "The Wii U Mario game whose final boss is Meowser.",
+      "timestamp": "35:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_3D_World",
+          "label": "Wikipedia: Super Mario 3D World",
+          "source": "wikipedia",
+          "note": "2013 video game"
+        }
+      ]
+    },
+    {
+      "name": "Crash Bandicoot 4: It's About Time",
+      "kind": "game",
+      "description": "A recent game with a mechanic you can use to flip repeatedly and almost fly.",
+      "timestamp": "36:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crash_Bandicoot_4%3A_It's_About_Time",
+          "label": "Wikipedia: Crash Bandicoot 4: It's About Time",
+          "source": "wikipedia",
+          "note": "2020 video game"
+        }
+      ]
+    },
+    {
+      "name": "Metal Slader Glory",
+      "kind": "game",
+      "description": "A Famicom mech adventure game that the hosts recorded for a bonus episode and kept thinking about.",
+      "timestamp": "37:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metal_Slader_Glory",
+          "label": "Wikipedia: Metal Slader Glory",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Metal_Slader_Glory_Directors_Cut",
+          "label": "Metal Slader Glory: Director's Cut - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Metal Gear",
+      "kind": "game",
+      "description": "The other 'metal' game with a giant mech, named in a joke about mech vocabulary.",
+      "timestamp": "37:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metal_Gear_(video_game)",
+          "label": "Wikipedia: Metal Gear (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "104-metal-gear",
+      "episode_title": "METAL GEAR"
+    },
+    {
+      "name": "Holy Diver",
+      "kind": "game",
+      "description": "A heavy-metal-themed NES game the hosts covered on a bonus episode.",
+      "timestamp": "44:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Holy_Diver_(video_game)",
+          "label": "Wikipedia: Holy Diver (video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Holy_Diver",
+          "label": "Holy Diver - StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Metal Mech: Man & Machine",
+      "kind": "game",
+      "description": "An upcoming NES game whose title has both metal and a mech.",
+      "timestamp": "44:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metal_Mech",
+          "label": "Wikipedia: Metal Mech",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://tcrf.net/Metal_Mech:_Man_%26_Machine",
+          "label": "Metal Mech: Man & Machine - The Cutting Room Floor",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "AT-AT",
+      "kind": "other",
+      "description": "The Star Wars walkers the hosts mix up with AT-ATs and scouts when looking at the game's enemies.",
+      "timestamp": "45:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Walker_(Star_Wars)",
+          "label": "Wikipedia: Walker (Star Wars)",
+          "source": "wikipedia",
+          "note": "Fictional weapons system in Star Wars"
+        }
+      ]
+    },
+    {
+      "name": "Hoth",
+      "kind": "event_or_term",
+      "description": "The ice planet where the hosts say they have seen the AT-ATs.",
+      "timestamp": "45:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hoth",
+          "label": "Wikipedia: Hoth",
+          "source": "wikipedia",
+          "note": "Fictional planet in Star Wars"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars",
+      "kind": "film_tv_music",
+      "description": "The film franchise the hosts bring up at the end of the episode.",
+      "timestamp": "46:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Wars",
+          "label": "Wikipedia: Star Wars",
+          "source": "wikipedia",
+          "note": "American media franchise"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; this episode adds a game to it.",
+      "timestamp": "32:51",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

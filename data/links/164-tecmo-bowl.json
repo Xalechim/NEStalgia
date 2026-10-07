@@ -1,0 +1,669 @@
+{
+  "episode": 164,
+  "title": "164 - Tecmo Bowl",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "86ee9064f3e0",
+  "items": [
+    {
+      "name": "Tecmo Bowl",
+      "kind": "game",
+      "description": "The episode's game: Tecmo's 1989 NES football game with four plays, real player stats and an NFLPA license.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo_Bowl",
+          "label": "Wikipedia: Tecmo Bowl",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/8021/",
+          "label": "Tecmo Bowl - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Tecmo_Bowl",
+          "label": "Tecmo Bowl - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Tecmo_Bowl",
+          "label": "Tecmo Bowl - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Tecmo",
+      "kind": "company",
+      "description": "The developer and publisher of Tecmo Bowl.",
+      "timestamp": "00:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo",
+          "label": "Wikipedia: Tecmo",
+          "source": "wikipedia",
+          "note": "Japanese video game company"
+        }
+      ]
+    },
+    {
+      "name": "10-Yard Fight",
+      "kind": "game",
+      "description": "The earlier NES football game from episode one, used as the comparison point.",
+      "timestamp": "00:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/10-Yard_Fight",
+          "label": "Wikipedia: 10-Yard Fight",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "001-10-yard-fight",
+      "episode_title": "10-YARD FIGHT"
+    },
+    {
+      "name": "Buffalo Bills",
+      "kind": "team_or_league",
+      "description": "Sean's team, absent from the game; they were about to start their four straight Super Bowl losses.",
+      "timestamp": "02:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Buffalo_Bills",
+          "label": "Wikipedia: Buffalo Bills",
+          "source": "wikipedia",
+          "note": "NFL team in Orchard Park, New York"
+        }
+      ]
+    },
+    {
+      "name": "Friday the 13th",
+      "kind": "game",
+      "description": "A recent episode where the hosts admitted cultural blind spots.",
+      "timestamp": "03:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Friday_the_13th_(1989_video_game)",
+          "label": "Wikipedia: Friday the 13th (1989 video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "161-friday-the-13th",
+      "episode_title": "Friday the 13th"
+    },
+    {
+      "name": "Curling",
+      "kind": "event_or_term",
+      "description": "Sport the hosts joke about as a comparison for casual fandom.",
+      "timestamp": "04:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Curling",
+          "label": "Wikipedia: Curling",
+          "source": "wikipedia",
+          "note": "Team sport played on ice"
+        }
+      ]
+    },
+    {
+      "name": "XFL",
+      "kind": "team_or_league",
+      "description": "Football league joked about as the scripted-moments alternative to the NFL.",
+      "timestamp": "04:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/XFL_(2001)",
+          "label": "Wikipedia: XFL (2001)",
+          "source": "wikipedia",
+          "note": "Former American football league"
+        }
+      ]
+    },
+    {
+      "name": "Monday Night Football",
+      "kind": "film_tv_music",
+      "description": "NFL broadcast joked about becoming more like wrestling's Monday Night Raw.",
+      "timestamp": "04:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monday_Night_Football",
+          "label": "Wikipedia: Monday Night Football",
+          "source": "wikipedia",
+          "note": "Live television broadcast of weekly National Football League (NFL) games"
+        }
+      ]
+    },
+    {
+      "name": "Marble League (Marblelympics)",
+      "kind": "event_or_term",
+      "description": "Marble racing competition, formerly called the Marblelympics, joked about as having curling and fantasy leagues.",
+      "timestamp": "05:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jelle's_Marble_Runs",
+          "label": "Wikipedia: Jelle's Marble Runs",
+          "source": "wikipedia",
+          "note": "YouTube channel based on marble races and marble runs"
+        }
+      ]
+    },
+    {
+      "name": "NFL Players Association",
+      "kind": "company",
+      "description": "The players' union whose license Tecmo had, allowing real players but no NFL teams or logos.",
+      "timestamp": "06:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NFL_Players_Association",
+          "label": "Wikipedia: NFL Players Association",
+          "source": "wikipedia",
+          "note": "US National Football League labor union"
+        }
+      ]
+    },
+    {
+      "name": "National Football League",
+      "kind": "team_or_league",
+      "description": "The league whose license Tecmo did not have for this game.",
+      "timestamp": "06:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/National_Football_League",
+          "label": "Wikipedia: National Football League",
+          "source": "wikipedia",
+          "note": "Professional American football league"
+        }
+      ]
+    },
+    {
+      "name": "NFL Blitz",
+      "kind": "game",
+      "description": "Arcade football series the hosts compare to the flying tackles and late hits.",
+      "timestamp": "09:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NFL_Blitz",
+          "label": "Wikipedia: NFL Blitz",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Madden NFL",
+      "kind": "game",
+      "description": "The long-running football series, previewed here in rhythm and flow; also used for play-calling comparison.",
+      "timestamp": "09:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Madden_NFL",
+          "label": "Wikipedia: Madden NFL",
+          "source": "wikipedia",
+          "note": "American football video game series"
+        }
+      ]
+    },
+    {
+      "name": "New York Giants",
+      "kind": "team_or_league",
+      "description": "The team Sam played as, rumored to have strong defense in the game.",
+      "timestamp": "16:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/New_York_Giants",
+          "label": "Wikipedia: New York Giants",
+          "source": "wikipedia",
+          "note": "NFL team in East Rutherford, New Jersey"
+        }
+      ]
+    },
+    {
+      "name": "Indianapolis Colts",
+      "kind": "team_or_league",
+      "description": "The team Sean played against, which kept getting its quarterback sacked.",
+      "timestamp": "21:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indianapolis_Colts",
+          "label": "Wikipedia: Indianapolis Colts",
+          "source": "wikipedia",
+          "note": "NFL team in Indianapolis, Indiana"
+        }
+      ]
+    },
+    {
+      "name": "Bo Jackson",
+      "kind": "person",
+      "description": "Los Angeles Raiders running back, famously overpowered in Tecmo games, who says he never played them.",
+      "timestamp": "38:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bo_Jackson",
+          "label": "Wikipedia: Bo Jackson",
+          "source": "wikipedia",
+          "note": "American football and baseball player (born 1962)"
+        },
+        {
+          "url": "https://www.shacknews.com/article/132788/bo-jackson-tecmo-bowl",
+          "label": "Bo Jackson has never played as himself in Tecmo Bowl - Shacknews",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Tecmo Super Bowl",
+      "kind": "game",
+      "description": "The 1991 NES sequel with the Bills, which the show will cover later.",
+      "timestamp": "38:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo_Super_Bowl",
+          "label": "Wikipedia: Tecmo Super Bowl",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/16868/tecmo-super-bowl/",
+          "label": "Tecmo Super Bowl - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Thurman Thomas",
+      "kind": "person",
+      "description": "Bills running back, strong in Tecmo Super Bowl.",
+      "timestamp": "39:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thurman_Thomas",
+          "label": "Wikipedia: Thurman Thomas",
+          "source": "wikipedia",
+          "note": "American football player (born 1966)"
+        }
+      ]
+    },
+    {
+      "name": "Kevin Mack",
+      "kind": "person",
+      "description": "Cleveland Browns fullback who ran wild for Sean in this game.",
+      "timestamp": "39:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_Mack",
+          "label": "Wikipedia: Kevin Mack",
+          "source": "wikipedia",
+          "note": "American football player (born 1962)"
+        }
+      ]
+    },
+    {
+      "name": "Mike Tyson's Punch-Out!!",
+      "kind": "game",
+      "description": "Earlier NES game, mentioned for Tyson not playing it and as a comparison for arcade-style essentials.",
+      "timestamp": "42:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Punch-Out!!_(1987_video_game)",
+          "label": "Wikipedia: Punch-Out!! (1987 video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "076-mike-tysons-punch-out",
+      "episode_title": "MIKE TYSON'S PUNCH-OUT"
+    },
+    {
+      "name": "Mike Tyson plays Punch-Out on The Tonight Show",
+      "kind": "website_or_article",
+      "description": "The talk-show segment where Tyson tried the game and fought his own digital self.",
+      "timestamp": "42:24",
+      "links": [
+        {
+          "url": "https://gameinformer.com/b/news/archive/2014/10/29/watch-mike-tyson-box-himself-in-punch-out.aspx",
+          "label": "Watch Mike Tyson box himself in Punch-Out - Game Informer",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Jimmy Fallon",
+      "kind": "person",
+      "description": "Talk-show host whose show had Tyson play Punch-Out; Mike jokes he isn't a fan.",
+      "timestamp": "43:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jimmy_Fallon",
+          "label": "Wikipedia: Jimmy Fallon",
+          "source": "wikipedia",
+          "note": "American comedian and television host (born 1974)"
+        }
+      ]
+    },
+    {
+      "name": "Goldeneye 007",
+      "kind": "game",
+      "description": "Used for the no-Oddjob rule as an analogy for avoiding an overpowered character.",
+      "timestamp": "40:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/GoldenEye_007",
+          "label": "Wikipedia: GoldenEye 007",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mewtwo",
+      "kind": "other",
+      "description": "Pokemon used as a comparison for Bo Jackson as an overpowered character.",
+      "timestamp": "40:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mewtwo",
+          "label": "Wikipedia: Mewtwo",
+          "source": "wikipedia",
+          "note": "Pokémon species"
+        }
+      ]
+    },
+    {
+      "name": "RBI Baseball",
+      "kind": "game",
+      "description": "Earlier baseball game where player stats affected performance.",
+      "timestamp": "36:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/R.B.I._Baseball",
+          "label": "Wikipedia: R.B.I. Baseball",
+          "source": "wikipedia",
+          "note": "Baseball video game series"
+        }
+      ],
+      "episode_key": "105-r-b-i-baseball",
+      "episode_title": "R.B.I BASEBALL"
+    },
+    {
+      "name": "Super Mario 64",
+      "kind": "game",
+      "description": "Sean's childhood game where he talked to NPCs repeatedly.",
+      "timestamp": "51:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_64",
+          "label": "Wikipedia: Super Mario 64",
+          "source": "wikipedia",
+          "note": "1996 video game"
+        }
+      ]
+    },
+    {
+      "name": "Tecmo Bowl (arcade)",
+      "kind": "game",
+      "description": "The original 1987 arcade cabinet with two monitors, four players and two fictional teams.",
+      "timestamp": "55:17",
+      "links": [
+        {
+          "url": "https://nintendo.com/games/detail/arcade-archives-tecmo-bowl-switch/",
+          "label": "Arcade Archives TECMO BOWL - Nintendo",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Tecmo Super Bowl II: Special Edition",
+      "kind": "game",
+      "description": "The sequel with trading, injuries, two-point conversions and a 16-play playbook.",
+      "timestamp": "56:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo_Super_Bowl_II%3A_Special_Edition",
+          "label": "Wikipedia: Tecmo Super Bowl II: Special Edition",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Street Fighter",
+      "kind": "other",
+      "description": "Fighting-game series joked about because of the long subtitle of Tecmo Super Bowl II.",
+      "timestamp": "56:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Street_Fighter",
+          "label": "Wikipedia: Street Fighter",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Sonic & Knuckles",
+      "kind": "game",
+      "description": "Joked about as a model for the Special Edition subtitle and cartridge lock-on.",
+      "timestamp": "57:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sonic_%26_Knuckles",
+          "label": "Wikipedia: Sonic & Knuckles",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Tecmo Super Bowl III: Final Edition",
+      "kind": "game",
+      "description": "The 1995 sequel adding audibles, a Superstar editor, free agency and stadium types.",
+      "timestamp": "59:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo_Super_Bowl_III%3A_Final_Edition",
+          "label": "Wikipedia: Tecmo Super Bowl III: Final Edition",
+          "source": "wikipedia",
+          "note": "1995 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/15087",
+          "label": "Tecmo Super Bowl III: Final Edition - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy",
+      "kind": "other",
+      "description": "Joked about as a series whose title says Final but kept going.",
+      "timestamp": "1:00:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy",
+          "label": "Wikipedia: Final Fantasy",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ],
+      "episode_key": "341-final-fantasy",
+      "episode_title": "Final Fantasy"
+    },
+    {
+      "name": "Josh Allen",
+      "kind": "person",
+      "description": "Current Bills quarterback Sean would create in the Superstar editor.",
+      "timestamp": "1:01:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Josh_Allen",
+          "label": "Wikipedia: Josh Allen",
+          "source": "wikipedia",
+          "note": "American football player (born 1996)"
+        }
+      ]
+    },
+    {
+      "name": "Tecmo Bowl: Kickoff",
+      "kind": "game",
+      "description": "The Nintendo DS revival with special powers.",
+      "timestamp": "1:02:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo_Bowl%3A_Kickoff",
+          "label": "Wikipedia: Tecmo Bowl: Kickoff",
+          "source": "wikipedia",
+          "note": "2008 video game"
+        },
+        {
+          "url": "https://www.gamespot.com/articles/tecmo-bowl-kicking-off-on-ds/1100-6190244/",
+          "label": "Tecmo Bowl kicking off on DS - GameSpot",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Tecmo Bowl Throwback",
+      "kind": "game",
+      "description": "The Xbox 360 and PS3 downloadable remake with 3D graphics.",
+      "timestamp": "1:03:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tecmo_Bowl_Throwback",
+          "label": "Wikipedia: Tecmo Bowl Throwback",
+          "source": "wikipedia",
+          "note": "2010 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/46319",
+          "label": "Tecmo Bowl Throwback - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Out of the Park Baseball",
+      "kind": "game",
+      "description": "Baseball management simulation Sean enjoys as a general-manager experience.",
+      "timestamp": "1:08:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Out_of_the_Park_Baseball",
+          "label": "Wikipedia: Out of the Park Baseball",
+          "source": "wikipedia",
+          "note": "Sports simulation video game series"
+        }
+      ]
+    },
+    {
+      "name": "NFL Head Coach",
+      "kind": "game",
+      "description": "EA's coach-only football game, compared to Tecmo Bowl's coach mode.",
+      "timestamp": "46:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NFL_Head_Coach",
+          "label": "Wikipedia: NFL Head Coach",
+          "source": "wikipedia",
+          "note": "2006 video game"
+        }
+      ]
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "Game not yet on the Essential Games List, joked about as a bargaining chip.",
+      "timestamp": "1:09:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "Ultima: Exodus",
+      "kind": "game",
+      "description": "Next week's very long RPG episode.",
+      "timestamp": "1:11:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ultima_III%3A_Exodus",
+          "label": "Wikipedia: Ultima III: Exodus",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "165-ultima-exodus",
+      "episode_title": "Ultima Exodus"
+    },
+    {
+      "name": "Dance Aerobics",
+      "kind": "game",
+      "description": "The episode after Ultima.",
+      "timestamp": "1:12:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dance_Aerobics",
+          "label": "Wikipedia: Dance Aerobics",
+          "source": "wikipedia",
+          "note": "1987 music video game"
+        }
+      ],
+      "episode_key": "166-dance-aerobics",
+      "episode_title": "DANCE AEROBICS"
+    },
+    {
+      "name": "John Elway's Quarterback",
+      "kind": "game",
+      "description": "Another NES football game joked about as a future episode.",
+      "timestamp": "1:12:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Elway's_Quarterback",
+          "label": "Wikipedia: John Elway's Quarterback",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "167-john-elways-quarterback",
+      "episode_title": "John Elway's Quarterback"
+    },
+    {
+      "name": "Excitebike",
+      "kind": "game",
+      "description": "Game once added to and then removed from the Essential Games List.",
+      "timestamp": "1:12:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Excitebike",
+          "label": "Wikipedia: Excitebike",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "005-excitebike",
+      "episode_title": "EXCITEBIKE"
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; Tecmo Bowl was voted in.",
+      "timestamp": "1:03:35",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

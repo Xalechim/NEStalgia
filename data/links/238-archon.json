@@ -1,0 +1,380 @@
+{
+  "episode": 238,
+  "title": "238 - Archon",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "f5d48dd98c62",
+  "items": [
+    {
+      "name": "Archon: The Light and the Dark",
+      "kind": "game",
+      "description": "The episode's game: a chess-like strategy game where pieces fight real-time arena battles, ported to the NES in 1989.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Archon%3A_The_Light_and_the_Dark",
+          "label": "Wikipedia: Archon: The Light and the Dark",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/73/",
+          "label": "Archon: The Light and the Dark - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/archon/",
+          "label": "Archon - Hardcore Gaming 101",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Archon:_The_Light_and_the_Dark",
+          "label": "Archon: The Light and the Dark - StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Chess",
+      "kind": "other",
+      "description": "The classic board game Archon resembles but differs from, with only one way to win.",
+      "timestamp": "00:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chess",
+          "label": "Wikipedia: Chess",
+          "source": "wikipedia",
+          "note": "Traditional board game for two players"
+        }
+      ]
+    },
+    {
+      "name": "Othello",
+      "kind": "other",
+      "description": "A recent tabletop-game adaptation on the NES, mentioned as the previous board-game-style episode.",
+      "timestamp": "00:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Reversi",
+          "label": "Wikipedia: Reversi",
+          "source": "wikipedia",
+          "note": "Strategy board game"
+        }
+      ],
+      "episode_key": "146-othello",
+      "episode_title": "OTHELLO"
+    },
+    {
+      "name": "Checkers",
+      "kind": "other",
+      "description": "Another traditional tabletop game the NES might have received instead of an original like Archon.",
+      "timestamp": "01:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Checkers",
+          "label": "Wikipedia: Checkers",
+          "source": "wikipedia",
+          "note": "Strategy board game"
+        }
+      ]
+    },
+    {
+      "name": "Quidditch",
+      "kind": "event_or_term",
+      "description": "The Harry Potter sport, where catching the snitch ends the game, compared to Archon's five power points.",
+      "timestamp": "03:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Quidditch",
+          "label": "Wikipedia: Quidditch",
+          "source": "wikipedia",
+          "note": "Fictional sport from Harry Potter"
+        }
+      ]
+    },
+    {
+      "name": "XCOM",
+      "kind": "other",
+      "description": "Turn-based tactics series mentioned as a game Archon is not like.",
+      "timestamp": "05:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/XCOM",
+          "label": "Wikipedia: XCOM",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Endless Legend",
+      "kind": "game",
+      "description": "A grid-based strategy game with battles inside the grid, offered as a closer comparison to Archon.",
+      "timestamp": "05:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Endless_Legend",
+          "label": "Wikipedia: Endless Legend",
+          "source": "wikipedia",
+          "note": "2014 video game"
+        }
+      ]
+    },
+    {
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "kind": "film_tv_music",
+      "description": "Its life-size wizard's chess match, where pieces fight, was compared to Archon's combat.",
+      "timestamp": "07:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher's_Stone_(film)",
+          "label": "Wikipedia: Harry Potter and the Philosopher's Stone (film)",
+          "source": "wikipedia",
+          "note": "2001 film by Chris Columbus"
+        }
+      ]
+    },
+    {
+      "name": "J. K. Rowling",
+      "kind": "person",
+      "description": "Author of Harry Potter, joked about as the one to confirm how wizard's chess works.",
+      "timestamp": "08:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/J._K._Rowling",
+          "label": "Wikipedia: J. K. Rowling",
+          "source": "wikipedia",
+          "note": "British author (born 1965)"
+        }
+      ]
+    },
+    {
+      "name": "Compute!'s Gazette",
+      "kind": "website_or_article",
+      "description": "Magazine where the developers said the computer opponent plays worse over time in the computer versions.",
+      "timestamp": "34:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Compute!'s_Gazette",
+          "label": "Wikipedia: Compute!'s Gazette",
+          "source": "wikipedia",
+          "note": "U.S. magazine covering Commodore and retro computing"
+        }
+      ]
+    },
+    {
+      "name": "Electronic Arts",
+      "kind": "company",
+      "description": "Publisher of the original Archon, one of its first five games.",
+      "timestamp": "44:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Electronic_Arts",
+          "label": "Wikipedia: Electronic Arts",
+          "source": "wikipedia",
+          "note": "American video game company"
+        }
+      ]
+    },
+    {
+      "name": "Archon II: Adept",
+      "kind": "game",
+      "description": "The 1984 sequel that adds magic points and resource management; computer only.",
+      "timestamp": "44:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Archon_II%3A_Adept",
+          "label": "Wikipedia: Archon II: Adept",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/archon-ii-adept/",
+          "label": "Archon II: Adept - Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Amiga",
+      "kind": "hardware",
+      "description": "One of the many computers Archon was released on.",
+      "timestamp": "46:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Amiga",
+          "label": "Wikipedia: Amiga",
+          "source": "wikipedia",
+          "note": "Family of personal computers sold by Commodore"
+        }
+      ]
+    },
+    {
+      "name": "Commodore 64",
+      "kind": "hardware",
+      "description": "Home computer that also received Archon.",
+      "timestamp": "46:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commodore_64",
+          "label": "Wikipedia: Commodore 64",
+          "source": "wikipedia",
+          "note": "8-bit home computer introduced in 1982"
+        }
+      ]
+    },
+    {
+      "name": "Apple II",
+      "kind": "hardware",
+      "description": "Home computer that also received Archon.",
+      "timestamp": "46:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Apple_II",
+          "label": "Wikipedia: Apple II",
+          "source": "wikipedia",
+          "note": "1977–1993 series of microcomputers"
+        }
+      ]
+    },
+    {
+      "name": "ZX Spectrum",
+      "kind": "hardware",
+      "description": "British home computer that also received Archon.",
+      "timestamp": "46:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/ZX_Spectrum",
+          "label": "Wikipedia: ZX Spectrum",
+          "source": "wikipedia",
+          "note": "1982 home computer"
+        }
+      ]
+    },
+    {
+      "name": "Amstrad CPC",
+      "kind": "hardware",
+      "description": "British home computer joked about as rarely owned in America.",
+      "timestamp": "47:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Amstrad_CPC",
+          "label": "Wikipedia: Amstrad CPC",
+          "source": "wikipedia",
+          "note": "Home computers produced by Amstrad"
+        }
+      ]
+    },
+    {
+      "name": "Atari 8-bit computers",
+      "kind": "hardware",
+      "description": "The Atari 800 line, another computer that got Archon.",
+      "timestamp": "47:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Atari_8-bit_computers",
+          "label": "Wikipedia: Atari 8-bit computers",
+          "source": "wikipedia",
+          "note": "1979–1991 home computer series"
+        }
+      ]
+    },
+    {
+      "name": "Intellivision Amico",
+      "kind": "hardware",
+      "description": "Console that announced an updated Archon, joked about as never arriving.",
+      "timestamp": "47:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Intellivision_Amico",
+          "label": "Wikipedia: Intellivision Amico",
+          "source": "wikipedia",
+          "note": "Video game console"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; Archon was voted in.",
+      "timestamp": "48:17",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Blood Bowl",
+      "kind": "other",
+      "description": "Games Workshop's fantasy take on American football, the closest analog one host found to Archon.",
+      "timestamp": "48:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blood_Bowl",
+          "label": "Wikipedia: Blood Bowl",
+          "source": "wikipedia",
+          "note": "Board Game"
+        }
+      ]
+    },
+    {
+      "name": "Faxanadu",
+      "kind": "game",
+      "description": "The previous Essential Games List addition, episode 207.",
+      "timestamp": "51:52",
+      "links": [],
+      "episode_key": "207-faxanadu",
+      "episode_title": "Faxanadu"
+    },
+    {
+      "name": "The Battle of Olympus",
+      "kind": "game",
+      "description": "Next week's game, sometimes compared to Zelda II.",
+      "timestamp": "52:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Battle_of_Olympus",
+          "label": "Wikipedia: The Battle of Olympus",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "239-the-battle-of-olympus",
+      "episode_title": "The Battle of Olympus"
+    },
+    {
+      "name": "Zelda II: The Adventure of Link",
+      "kind": "game",
+      "description": "Game that Battle of Olympus is often compared to.",
+      "timestamp": "52:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zelda_II%3A_The_Adventure_of_Link",
+          "label": "Wikipedia: Zelda II: The Adventure of Link",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "154-zelda-ii-the-adventure-of-link",
+      "episode_title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "name": "The Portopia Serial Murder Case",
+      "kind": "game",
+      "description": "Japanese Famicom adventure played in English with a translation patch for the Patreon-only Nostalgia Bites.",
+      "timestamp": "53:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Portopia_Serial_Murder_Case",
+          "label": "Wikipedia: The Portopia Serial Murder Case",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ]
+    }
+  ]
+}

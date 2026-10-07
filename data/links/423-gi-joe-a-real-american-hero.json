@@ -1,0 +1,433 @@
+{
+  "episode": 423,
+  "title": "423 - GI Joe A Real American Hero",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "e4ed7d875fc6",
+  "items": [
+    {
+      "name": "G.I. Joe: A Real American Hero",
+      "kind": "game",
+      "description": "The episode's game: a 1991 NES side-scrolling action game where you pick a three-person G.I. Joe team for each of six missions.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/G.I._Joe_(1991_video_game)",
+          "label": "Wikipedia: G.I. Joe (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://www.speedrun.com/gijoe_nes",
+          "label": "G.I. Joe: A Real American Hero speedrun page",
+          "source": "other"
+        },
+        {
+          "url": "https://vgmrips.net/packs/topic/1108",
+          "label": "G.I. Joe: A Real American Hero soundtrack",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "G.I. Joe",
+      "kind": "other",
+      "description": "The Hasbro action-figure line and media franchise the game is based on, which started in 1964 and was reinvented in the 1980s.",
+      "timestamp": "01:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/G.I._Joe",
+          "label": "Wikipedia: G.I. Joe",
+          "source": "wikipedia",
+          "note": "American line of action figures and media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Fun House",
+      "kind": "game",
+      "description": "The previous episode's NES game, based on the TV game show.",
+      "timestamp": "06:52",
+      "links": [],
+      "episode_key": "422-fun-house",
+      "episode_title": "Fun House"
+    },
+    {
+      "name": "Trollface",
+      "kind": "event_or_term",
+      "description": "Internet meme character from rage comics, which one host cites as an early-internet meme.",
+      "timestamp": "09:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Trollface",
+          "label": "Wikipedia: Trollface",
+          "source": "wikipedia",
+          "note": "Rage comic character and internet meme"
+        }
+      ]
+    },
+    {
+      "name": "Rage comic",
+      "kind": "event_or_term",
+      "description": "Crudely drawn internet comics that were a popular meme format around 2010.",
+      "timestamp": "09:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rage_comic",
+          "label": "Wikipedia: Rage comic",
+          "source": "wikipedia",
+          "note": "Internet meme"
+        }
+      ]
+    },
+    {
+      "name": "G.I. Joe: Cobra Strike",
+      "kind": "game",
+      "description": "The 1983 Atari 2600 G.I. Joe game in which you defend recruits from a giant cobra.",
+      "timestamp": "10:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/G.I._Joe%3A_Cobra_Strike",
+          "label": "Wikipedia: G.I. Joe: Cobra Strike",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/9959",
+          "label": "G.I. Joe: Cobra Strike - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Atari 2600",
+      "kind": "hardware",
+      "description": "The console that got the first G.I. Joe video game.",
+      "timestamp": "10:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Atari_2600",
+          "label": "Wikipedia: Atari 2600",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Cobra Commander",
+      "kind": "other",
+      "description": "The leader of the villainous Cobra organization, known for his helmet and, in the game, a playable final-mission twist.",
+      "timestamp": "10:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cobra_Commander",
+          "label": "Wikipedia: Cobra Commander",
+          "source": "wikipedia",
+          "note": "Fictional character/title from the G.I. Joe franchise"
+        }
+      ]
+    },
+    {
+      "name": "Contra",
+      "kind": "game",
+      "description": "The run-and-gun NES classic that the G.I. Joe game is compared with.",
+      "timestamp": "13:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+          "label": "Wikipedia: Contra (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "092-contra",
+      "episode_title": "CONTRA"
+    },
+    {
+      "name": "Duke (G.I. Joe)",
+      "kind": "other",
+      "description": "The balanced all-rounder of the game's playable team.",
+      "timestamp": "15:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Duke_(G.I._Joe)",
+          "label": "Wikipedia: Duke (G.I. Joe)",
+          "source": "wikipedia",
+          "note": "Fictional character from the G.I. Joe franchise"
+        }
+      ]
+    },
+    {
+      "name": "General Hawk",
+      "kind": "other",
+      "description": "The Joe team's commander, who appears in the intro briefing and is captured in the story.",
+      "timestamp": "16:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hawk_(G.I._Joe)",
+          "label": "Wikipedia: Hawk (G.I. Joe)",
+          "source": "wikipedia",
+          "note": "Fictional character from the G.I. Joe franchise"
+        }
+      ]
+    },
+    {
+      "name": "The Boys",
+      "kind": "film_tv_music",
+      "description": "The TV series whose character is compared to Snake Eyes.",
+      "timestamp": "17:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)",
+          "label": "Wikipedia: The Boys (TV series)",
+          "source": "wikipedia",
+          "note": "American satirical superhero series"
+        }
+      ]
+    },
+    {
+      "name": "Thunderbirds",
+      "kind": "game",
+      "description": "A licensed NES game with five rescue vehicles and a sixty-day deadline, mentioned for its forced character rotation.",
+      "timestamp": "20:03",
+      "links": [
+        {
+          "url": "https://strategywiki.org/wiki/Thunderbirds_(NES)",
+          "label": "Thunderbirds (NES) - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.giantbomb.com/games/3030-9421/",
+          "label": "Thunderbirds - Giant Bomb",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "377-thunderbirds",
+      "episode_title": "Thunderbirds"
+    },
+    {
+      "name": "Thunderbirds (TV series)",
+      "kind": "film_tv_music",
+      "description": "The 1960s puppet series about International Rescue, which the NES game is based on.",
+      "timestamp": "20:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thunderbirds_(TV_series)",
+          "label": "Wikipedia: Thunderbirds (TV series)",
+          "source": "wikipedia",
+          "note": "British science fiction television series (1965–1966)"
+        }
+      ]
+    },
+    {
+      "name": "Hasbro",
+      "kind": "company",
+      "description": "The toy company that owns G.I. Joe.",
+      "timestamp": "23:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hasbro",
+          "label": "Wikipedia: Hasbro",
+          "source": "wikipedia",
+          "note": "American multinational toy and entertainment company"
+        }
+      ]
+    },
+    {
+      "name": "Memento",
+      "kind": "film_tv_music",
+      "description": "The film told in reverse order, compared to the game starting at the end of the story.",
+      "timestamp": "26:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Memento_(film)",
+          "label": "Wikipedia: Memento (film)",
+          "source": "wikipedia",
+          "note": "2000 film by Christopher Nolan"
+        }
+      ]
+    },
+    {
+      "name": "Metal Slug",
+      "kind": "game",
+      "description": "The run-and-gun series that the game's look reminds one host of.",
+      "timestamp": "41:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metal_Slug",
+          "label": "Wikipedia: Metal Slug",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Army Men",
+      "kind": "game",
+      "description": "The video game series based on the green plastic toy soldiers.",
+      "timestamp": "43:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Army_Men",
+          "label": "Wikipedia: Army Men",
+          "source": "wikipedia",
+          "note": "Video game series featuring toy soldiers"
+        }
+      ]
+    },
+    {
+      "name": "Toy Story",
+      "kind": "film_tv_music",
+      "description": "The Pixar film that revived interest in army men toys.",
+      "timestamp": "43:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Toy_Story",
+          "label": "Wikipedia: Toy Story",
+          "source": "wikipedia",
+          "note": "1995 film by John Lasseter"
+        }
+      ]
+    },
+    {
+      "name": "Army Men: Sarge's Heroes",
+      "kind": "game",
+      "description": "The Nintendo 64 Army Men game the hosts discuss when asking who owns the toys.",
+      "timestamp": "44:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Army_Men%3A_Sarge's_Heroes",
+          "label": "Wikipedia: Army Men: Sarge's Heroes",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "The 3DO Company",
+      "kind": "company",
+      "description": "The developer of the Army Men video games.",
+      "timestamp": "45:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_3DO_Company",
+          "label": "Wikipedia: The 3DO Company",
+          "source": "wikipedia",
+          "note": "American video game company"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Used as a comparison for the game's harder replay mode, like Zelda's second quest.",
+      "timestamp": "47:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "game",
+      "description": "The NES game that forces a second playthrough to see the ending, contrasted with this game's replay modes.",
+      "timestamp": "48:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins",
+          "label": "Wikipedia: Ghosts 'n Goblins",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    },
+    {
+      "name": "Resident Evil",
+      "kind": "game",
+      "description": "Horror series whose harder replay modes one host compares to the game's three playthroughs.",
+      "timestamp": "49:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Resident_Evil",
+          "label": "Wikipedia: Resident Evil",
+          "source": "wikipedia",
+          "note": "Japanese horror game series and media franchise"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; this episode adds a game to it.",
+      "timestamp": "50:01",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Game Genie",
+      "kind": "hardware",
+      "description": "The cheat device one host jokes would give the team infinite health.",
+      "timestamp": "34:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Genie",
+          "label": "Wikipedia: Game Genie",
+          "source": "wikipedia",
+          "note": "Line of video game cheat cartridges"
+        }
+      ]
+    },
+    {
+      "name": "Advanced Dungeons & Dragons",
+      "kind": "other",
+      "description": "The tabletop role-playing game licensed for NES games with menu-heavy party systems, contrasted with this game's team setup.",
+      "timestamp": "53:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Editions_of_Dungeons_%26_Dragons",
+          "label": "Wikipedia: Editions of Dungeons & Dragons",
+          "source": "wikipedia",
+          "note": "Fantasy role-playing game history"
+        }
+      ]
+    },
+    {
+      "name": "G.I. Joe: The Atlantis Factor",
+      "kind": "game",
+      "description": "The 1992 NES sequel to this game.",
+      "timestamp": "55:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/G.I._Joe%3A_The_Atlantis_Factor",
+          "label": "Wikipedia: G.I. Joe: The Atlantis Factor",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        },
+        {
+          "url": "https://mobygames.com/game/33743/gi-joe-the-atlantis-factor",
+          "label": "G.I. Joe: The Atlantis Factor - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.tcrf.net/G.I._Joe:_The_Atlantis_Factor",
+          "label": "G.I. Joe: The Atlantis Factor - The Cutting Room Floor",
+          "source": "reference"
+        }
+      ]
+    }
+  ]
+}

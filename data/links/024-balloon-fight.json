@@ -1,0 +1,461 @@
+{
+  "episode": 24,
+  "title": "024 - Balloon Fight",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "4d62d877a573",
+  "items": [
+    {
+      "name": "Balloon Fight",
+      "kind": "game",
+      "description": "The episode's game: Nintendo's 1984 arcade title brought to the NES in 1986, where you pop enemy balloons while keeping your own.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Balloon_Fight",
+          "label": "Wikipedia: Balloon Fight",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/8391",
+          "label": "Balloon Fight - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.nintendo.com/en-gb/Games/NES/Balloon-Fight--276291.html",
+          "label": "Balloon Fight - Nintendo",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Vs. System",
+      "kind": "hardware",
+      "description": "Nintendo's arcade hardware line on which Vs. Balloon Fight first appeared.",
+      "timestamp": "00:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_VS._System",
+          "label": "Wikipedia: Nintendo VS. System",
+          "source": "wikipedia",
+          "note": "Arcade cabinet series"
+        }
+      ]
+    },
+    {
+      "name": "Satoru Iwata",
+      "kind": "person",
+      "description": "Programmer of Balloon Fight, later Nintendo's president.",
+      "timestamp": "00:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Satoru_Iwata",
+          "label": "Wikipedia: Satoru Iwata",
+          "source": "wikipedia",
+          "note": "Japanese video game executive (1959–2015)"
+        }
+      ]
+    },
+    {
+      "name": "Yoshio Sakamoto",
+      "kind": "person",
+      "description": "Game designer of Balloon Fight, later known for Metroid.",
+      "timestamp": "00:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yoshio_Sakamoto",
+          "label": "Wikipedia: Yoshio Sakamoto",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (born 1959)"
+        }
+      ]
+    },
+    {
+      "name": "Wrecking Crew",
+      "kind": "game",
+      "description": "Earlier Sakamoto game, along with Donkey Kong Jr.",
+      "timestamp": "01:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wrecking_Crew_(video_game)",
+          "label": "Wikipedia: Wrecking Crew (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "017-wrecking-crew",
+      "episode_title": "WRECKING CREW"
+    },
+    {
+      "name": "Donkey Kong Jr.",
+      "kind": "game",
+      "description": "Arcade game Sakamoto worked on, released near Balloon Fight's origins.",
+      "timestamp": "01:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donkey_Kong_Jr.",
+          "label": "Wikipedia: Donkey Kong Jr.",
+          "source": "wikipedia",
+          "note": "1982 video game"
+        }
+      ],
+      "episode_key": "019-donkey-kong-jr",
+      "episode_title": "DONKEY KONG JR."
+    },
+    {
+      "name": "Metroid",
+      "kind": "game",
+      "description": "The series Sakamoto is best known for.",
+      "timestamp": "01:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+          "label": "Wikipedia: Metroid (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "057-metroid",
+      "episode_title": "METROID"
+    },
+    {
+      "name": "Gunpei Yokoi",
+      "kind": "person",
+      "description": "Nintendo engineer who supervised these games.",
+      "timestamp": "01:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gunpei_Yokoi",
+          "label": "Wikipedia: Gunpei Yokoi",
+          "source": "wikipedia",
+          "note": "Japanese video game designer (1941–1997)"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Miyamoto's game, mentioned as an example of Yokoi overseeing designers.",
+      "timestamp": "01:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Donkey Kong",
+      "kind": "game",
+      "description": "Miyamoto's arcade game, another example of Yokoi's oversight.",
+      "timestamp": "01:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game)",
+          "label": "Wikipedia: Donkey Kong (1981 video game)",
+          "source": "wikipedia",
+          "note": "Platformer video game"
+        }
+      ],
+      "episode_key": "018-donkey-kong",
+      "episode_title": "DONKEY KONG"
+    },
+    {
+      "name": "Virtual Boy",
+      "kind": "hardware",
+      "description": "Nintendo's 1995 console, the failure after which Yokoi left the company.",
+      "timestamp": "01:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Virtual_Boy",
+          "label": "Wikipedia: Virtual Boy",
+          "source": "wikipedia",
+          "note": "Video game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "10-Yard Fight",
+      "kind": "game",
+      "description": "Irem football launch title used as a comparison for awkward controls.",
+      "timestamp": "05:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/10-Yard_Fight",
+          "label": "Wikipedia: 10-Yard Fight",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "001-10-yard-fight",
+      "episode_title": "10-YARD FIGHT"
+    },
+    {
+      "name": "Flappy Bird",
+      "kind": "game",
+      "description": "Mobile game the controls reminded one host of.",
+      "timestamp": "06:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Flappy_Bird",
+          "label": "Wikipedia: Flappy Bird",
+          "source": "wikipedia",
+          "note": "2013 mobile game"
+        }
+      ]
+    },
+    {
+      "name": "Waterworld",
+      "kind": "film_tv_music",
+      "description": "1995 film joked about as a comparison to a world of balloon travel.",
+      "timestamp": "08:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Waterworld",
+          "label": "Wikipedia: Waterworld",
+          "source": "wikipedia",
+          "note": "1995 post-apocalyptic action film"
+        }
+      ]
+    },
+    {
+      "name": "Mario Bros.",
+      "kind": "game",
+      "description": "Game compared to Balloon Fight for its late hurry-up hazards.",
+      "timestamp": "11:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mario_Bros.",
+          "label": "Wikipedia: Mario Bros.",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ],
+      "episode_key": "022-mario-bros",
+      "episode_title": "MARIO BROS."
+    },
+    {
+      "name": "Kung Fu",
+      "kind": "game",
+      "description": "Another expert-rewarding game from earlier episodes.",
+      "timestamp": "13:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kung-Fu_Master_(video_game)",
+          "label": "Wikipedia: Kung-Fu Master (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "010-kung-fu",
+      "episode_title": "KUNG FU*"
+    },
+    {
+      "name": "Game Center CX",
+      "kind": "film_tv_music",
+      "description": "Japanese TV show where Iwata was shown playing Balloon Trip.",
+      "timestamp": "16:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/GameCenter_CX",
+          "label": "Wikipedia: GameCenter CX",
+          "source": "wikipedia",
+          "note": "Japanese gaming-variety television show"
+        }
+      ]
+    },
+    {
+      "name": "Balloon Kid",
+      "kind": "game",
+      "description": "Game Boy sequel to Balloon Fight, a platform adventure.",
+      "timestamp": "21:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Balloon_Kid",
+          "label": "Wikipedia: Balloon Kid",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Fortnite",
+      "kind": "game",
+      "description": "Used in a joke about a battle royale version.",
+      "timestamp": "23:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fortnite",
+          "label": "Wikipedia: Fortnite",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "PUBG: Battlegrounds",
+      "kind": "game",
+      "description": "Battle royale game joked about as a model for a modern Balloon Fight.",
+      "timestamp": "23:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/PUBG%3A_Battlegrounds",
+          "label": "Wikipedia: PUBG: Battlegrounds",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Pokemon Snap",
+      "kind": "game",
+      "description": "Mentioned while recalling a flying Pikachu with balloons.",
+      "timestamp": "24:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Snap",
+          "label": "Wikipedia: Pokémon Snap",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo e-Reader",
+      "kind": "hardware",
+      "description": "Game Boy Advance card scanner that had a Balloon Fight version.",
+      "timestamp": "25:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_e-Reader",
+          "label": "Wikipedia: Nintendo e-Reader",
+          "source": "wikipedia",
+          "note": "Add-on for the Game Boy Advance"
+        }
+      ]
+    },
+    {
+      "name": "Animal Crossing",
+      "kind": "game",
+      "description": "GameCube game where Balloon Fight can be played.",
+      "timestamp": "25:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Animal_Crossing_(video_game)",
+          "label": "Wikipedia: Animal Crossing (video game)",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "Virtual Console",
+      "kind": "other",
+      "description": "Nintendo's download service that carried Balloon Fight.",
+      "timestamp": "25:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Virtual_Console",
+          "label": "Wikipedia: Virtual Console",
+          "source": "wikipedia",
+          "note": "Line of downloadable video games for several Nintendo platforms"
+        }
+      ]
+    },
+    {
+      "name": "Famicom Disk System",
+      "kind": "hardware",
+      "description": "Japanese disk add-on that got several versions of Balloon Fight.",
+      "timestamp": "25:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Famicom_Disk_System",
+          "label": "Wikipedia: Famicom Disk System",
+          "source": "wikipedia",
+          "note": "Video game console peripheral"
+        }
+      ]
+    },
+    {
+      "name": "Joust",
+      "kind": "game",
+      "description": "Williams arcade game that Balloon Fight borrowed from.",
+      "timestamp": "25:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Joust_(video_game)",
+          "label": "Wikipedia: Joust (video game)",
+          "source": "wikipedia",
+          "note": "1982 video game"
+        }
+      ],
+      "episode_key": "125-joust",
+      "episode_title": "JOUST"
+    },
+    {
+      "name": "Nintendo Switch",
+      "kind": "hardware",
+      "description": "Console the hosts wish had NES games for quick two-player rounds.",
+      "timestamp": "30:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Switch",
+          "label": "Wikipedia: Nintendo Switch",
+          "source": "wikipedia",
+          "note": "Hybrid video game console"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games still worth playing today; Balloon Fight was voted on.",
+      "timestamp": "28:11",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Excitebike",
+      "kind": "game",
+      "description": "Game the hosts loved at first but later lost interest in.",
+      "timestamp": "32:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Excitebike",
+          "label": "Wikipedia: Excitebike",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "005-excitebike",
+      "episode_title": "EXCITEBIKE"
+    },
+    {
+      "name": "Gumshoe",
+      "kind": "game",
+      "description": "The next episode's game.",
+      "timestamp": "32:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gumshoe_(video_game)",
+          "label": "Wikipedia: Gumshoe (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "025-gumshoe",
+      "episode_title": "GUMSHOE"
+    }
+  ]
+}

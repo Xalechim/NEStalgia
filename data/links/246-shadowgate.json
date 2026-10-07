@@ -1,0 +1,498 @@
+{
+  "episode": 246,
+  "title": "246 - Shadowgate",
+  "generated": "2026-10-07",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "dfaa4b49fddc",
+  "items": [
+    {
+      "name": "Shadowgate",
+      "kind": "game",
+      "description": "The episode's game: a first-person castle adventure with a text-driven point-and-click interface and many deaths.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shadowgate",
+          "label": "Wikipedia: Shadowgate",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/1070/",
+          "label": "Shadowgate - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Shadowgate",
+          "label": "Shadowgate - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Shadowgate",
+          "label": "Shadowgate - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Escape room",
+      "kind": "event_or_term",
+      "description": "Live puzzle-room experiences the game is compared to.",
+      "timestamp": "00:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Escape_room",
+          "label": "Wikipedia: Escape room",
+          "source": "wikipedia",
+          "note": "Physical puzzle game played by a team of players"
+        }
+      ]
+    },
+    {
+      "name": "Point-and-click adventure",
+      "kind": "event_or_term",
+      "description": "The genre of adventure game Shadowgate belongs to.",
+      "timestamp": "00:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adventure_game",
+          "label": "Wikipedia: Adventure game",
+          "source": "wikipedia",
+          "note": "Video game genre"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy",
+      "kind": "other",
+      "description": "RPG series used as a contrast with Shadowgate's first-person, book-like play.",
+      "timestamp": "03:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy",
+          "label": "Wikipedia: Final Fantasy",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ],
+      "episode_key": "341-final-fantasy",
+      "episode_title": "Final Fantasy"
+    },
+    {
+      "name": "The Portopia Serial Murder Case",
+      "kind": "game",
+      "description": "Famicom adventure from the Nostalgia Bites episode, compared to Shadowgate.",
+      "timestamp": "05:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Portopia_Serial_Murder_Case",
+          "label": "Wikipedia: The Portopia Serial Murder Case",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Its opening cave and sword used as an example of an early tutorial.",
+      "timestamp": "11:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "World 1-1 mentioned as the classic tutorial that teaches jumping over pitfalls.",
+      "timestamp": "12:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "The Witness",
+      "kind": "game",
+      "description": "Puzzle game referenced for the moment of realizing a solution.",
+      "timestamp": "24:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Witness_(2016_video_game)",
+          "label": "Wikipedia: The Witness (2016 video game)",
+          "source": "wikipedia",
+          "note": "Puzzle video game"
+        }
+      ]
+    },
+    {
+      "name": "GameFAQs",
+      "kind": "website_or_article",
+      "description": "Site with a guide listing the game's many deaths.",
+      "timestamp": "39:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/GameFAQs",
+          "label": "Wikipedia: GameFAQs",
+          "source": "wikipedia",
+          "note": "Video game website"
+        }
+      ]
+    },
+    {
+      "name": "Nobunaga's Ambition",
+      "kind": "other",
+      "description": "Menu-heavy Koei strategy game compared to Shadowgate's interface.",
+      "timestamp": "33:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nobunaga's_Ambition",
+          "label": "Wikipedia: Nobunaga's Ambition",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "192-nobunagas-ambition",
+      "episode_title": "Nobunaga's Ambition"
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "kind": "game",
+      "description": "Used as an analogy for how junk items get a reason to exist.",
+      "timestamp": "55:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V%3A_Skyrim",
+          "label": "Wikipedia: The Elder Scrolls V: Skyrim",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "MS-DOS",
+      "kind": "hardware",
+      "description": "Computer platform of the 1988 Shadowgate version the NES port followed.",
+      "timestamp": "1:01:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/MS-DOS",
+          "label": "Wikipedia: MS-DOS",
+          "source": "wikipedia",
+          "note": "Microsoft computer operating system"
+        }
+      ]
+    },
+    {
+      "name": "Internet Archive",
+      "kind": "website_or_article",
+      "description": "Site where the computer versions of Shadowgate can be played for free.",
+      "timestamp": "1:01:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Internet_Archive",
+          "label": "Wikipedia: Internet Archive",
+          "source": "wikipedia",
+          "note": "American non-profit digital archive"
+        }
+      ]
+    },
+    {
+      "name": "TurboGrafx-16",
+      "kind": "hardware",
+      "description": "Console that received Beyond Shadowgate in 1993.",
+      "timestamp": "1:01:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/TurboGrafx-16",
+          "label": "Wikipedia: TurboGrafx-16",
+          "source": "wikipedia",
+          "note": "Fourth-generation home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Beyond Shadowgate",
+      "kind": "game",
+      "description": "The 1993 TurboGrafx-CD sequel, a point-and-click adventure viewed from a platform perspective.",
+      "timestamp": "1:01:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Beyond_Shadowgate_(1993_video_game)",
+          "label": "Wikipedia: Beyond Shadowgate (1993 video game)",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/16017",
+          "label": "Beyond Shadowgate - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/beyond-shadowgate/",
+          "label": "Beyond Shadowgate - Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy Color",
+      "kind": "hardware",
+      "description": "Handheld that got an enhanced 1999 Shadowgate, sometimes titled Shadowgate Classic.",
+      "timestamp": "1:03:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy_Color",
+          "label": "Wikipedia: Game Boy Color",
+          "source": "wikipedia",
+          "note": "Handheld game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "Shadowgate 64: Trials of the Four Towers",
+      "kind": "game",
+      "description": "A 1999 first-person 3D Nintendo 64 entry in the series.",
+      "timestamp": "1:04:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shadowgate_64%3A_Trials_of_the_Four_Towers",
+          "label": "Wikipedia: Shadowgate 64: Trials of the Four Towers",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/3942/",
+          "label": "Shadowgate 64: Trials of the Four Towers - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Shadowgate_64_The_Trials_of_the_Four_Towers",
+          "label": "Shadowgate 64 - Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Shadowgate (2014 remake)",
+      "kind": "game",
+      "description": "The 2014 remaster with redesigned rooms, released on Steam and current consoles.",
+      "timestamp": "1:05:37",
+      "links": [
+        {
+          "url": "https://strategywiki.org/wiki/Shadowgate_(2014)",
+          "label": "Shadowgate (2014) - StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Shadowgate_(2014)/Deaths",
+          "label": "Shadowgate (2014) Deaths - StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Switch",
+      "kind": "hardware",
+      "description": "One of the current consoles where the Shadowgate remaster is available.",
+      "timestamp": "1:06:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Switch",
+          "label": "Wikipedia: Nintendo Switch",
+          "source": "wikipedia",
+          "note": "Hybrid video game console"
+        }
+      ]
+    },
+    {
+      "name": "The Secret of Monkey Island",
+      "kind": "game",
+      "description": "LucasArts point-and-click adventure compared to Beyond Shadowgate.",
+      "timestamp": "1:08:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island",
+          "label": "Wikipedia: The Secret of Monkey Island",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's list of NES games that define the system; Shadowgate was voted in.",
+      "timestamp": "1:08:43",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Tetris",
+      "kind": "game",
+      "description": "The NES version, a past non-essential game used as a contrast for how well a port uses the NES.",
+      "timestamp": "1:11:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tetris_(NES_video_game)",
+          "label": "Wikipedia: Tetris (NES video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "235-tetris",
+      "episode_title": "Tetris"
+    },
+    {
+      "name": "Power Pad",
+      "kind": "hardware",
+      "description": "The floor-mat controller used by next week's two games.",
+      "timestamp": "1:17:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Power_Pad",
+          "label": "Wikipedia: Power Pad",
+          "source": "wikipedia",
+          "note": "Nintendo Entertainment System accessory"
+        }
+      ]
+    },
+    {
+      "name": "Commodore 64",
+      "kind": "hardware",
+      "description": "Home computer joked about as never having had a Power Pad.",
+      "timestamp": "1:17:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commodore_64",
+          "label": "Wikipedia: Commodore 64",
+          "source": "wikipedia",
+          "note": "8-bit home computer introduced in 1982"
+        }
+      ]
+    },
+    {
+      "name": "Bokosuka Wars",
+      "kind": "game",
+      "description": "The next Nostalgia Bites game.",
+      "timestamp": "1:17:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bokosuka_Wars",
+          "label": "Wikipedia: Bokosuka Wars",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ]
+    },
+    {
+      "name": "Silent Service",
+      "kind": "game",
+      "description": "A Sid Meier submarine game coming up in the show.",
+      "timestamp": "1:18:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silent_Service_(video_game)",
+          "label": "Wikipedia: Silent Service (video game)",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "248-silent-service",
+      "episode_title": "Silent Service"
+    },
+    {
+      "name": "Sid Meier",
+      "kind": "person",
+      "description": "Designer of Silent Service.",
+      "timestamp": "1:18:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sid_Meier",
+          "label": "Wikipedia: Sid Meier",
+          "source": "wikipedia",
+          "note": "American game programmer and designer (born 1954)"
+        }
+      ]
+    },
+    {
+      "name": "The Uncanny X-Men",
+      "kind": "game",
+      "description": "Upcoming NES game based on the Marvel comic.",
+      "timestamp": "1:18:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Uncanny_X-Men_(video_game)",
+          "label": "Wikipedia: The Uncanny X-Men (video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "249-the-uncanny-x-men",
+      "episode_title": "The Uncanny X-Men"
+    },
+    {
+      "name": "Willow",
+      "kind": "game",
+      "description": "Upcoming game based on the fantasy film and the last game of 1989.",
+      "timestamp": "1:18:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Willow_(NES_video_game)",
+          "label": "Wikipedia: Willow (NES video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "250-willow",
+      "episode_title": "Willow"
+    },
+    {
+      "name": "Willow (film)",
+      "kind": "film_tv_music",
+      "description": "The 1988 fantasy film the Willow game is based on, with a story by George Lucas.",
+      "timestamp": "1:18:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Willow_(1988_film)",
+          "label": "Wikipedia: Willow (1988 film)",
+          "source": "wikipedia",
+          "note": "Film by Ron Howard"
+        }
+      ]
+    },
+    {
+      "name": "George Lucas",
+      "kind": "person",
+      "description": "Story author of the Willow film.",
+      "timestamp": "1:18:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Lucas",
+          "label": "Wikipedia: George Lucas",
+          "source": "wikipedia",
+          "note": "American filmmaker and entrepreneur (born 1944)"
+        }
+      ]
+    }
+  ]
+}
