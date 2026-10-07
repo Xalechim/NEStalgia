@@ -173,50 +173,50 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 165 | Ultima Exodus | [notes](165-ultima-exodus.md), [transcript](../transcripts/165-ultima-exodus.md) |
 | 166 | Dance Aerobics | [notes](166-dance-aerobics.md), [transcript](../transcripts/166-dance-aerobics.md) |
 | 167 | John Elway's Quarterback | [notes](167-john-elways-quarterback.md), [transcript](../transcripts/167-john-elways-quarterback.md) |
-| 168 | Kung-Fu Heroes | [notes](168-kung-fu-heroes.md) |
-| 169 | Marble Madness | [notes](169-marble-madness.md) |
-| 170 | Ninja Gaiden | [notes](170-ninja-gaiden.md) |
-| 171 | World Games | [notes](171-world-games.md) |
-| 172 | The Adventures of Lolo | [notes](172-the-adventures-of-lolo.md) |
-| 173 | Amagon | [notes](173-amagon.md) |
-| 174 | Dr. Jekyll and Mr. Hyde | [notes](174-dr-jekyll-and-mr-hyde.md) |
-| 175 | Fist of the North Star | [notes](175-fist-of-the-north-star.md) |
-| 176 | The Guardian Legend | [notes](176-the-guardian-legend.md) |
-| 177 | Legacy of the Wizard | [notes](177-legacy-of-the-wizard.md) |
-| 178 | Mappy Land | [notes](178-mappy-land.md) |
-| 179 | Mystery Quest | [notes](179-mystery-quest.md) |
-| 180 | Predator | [notes](180-predator.md) |
-| 181 | Taboo: The Sixth Sense | [notes](181-taboo-the-sixth-sense.md) |
-| 182 | Operation Wolf | [notes](182-operation-wolf.md) |
-| 183 | The Adventures of Bayou Billy | [notes](183-the-adventures-of-bayou-billy.md) |
-| 184 | Airwolf | [notes](184-airwolf.md) |
-| 185 | California Games | [notes](185-california-games.md) |
-| 186 | Desert Commander | [notes](186-desert-commander.md) |
-| 187 | Guerilla War | [notes](187-guerilla-war.md) |
-| 188 | Hoops | [notes](188-hoops.md) |
-| 189 | Hydlide | [notes](189-hydlide.md) |
-| 190 | Mega Man 2 | [notes](190-mega-man-2.md) |
-| 191 | Monster Party | [notes](191-monster-party.md) |
-| 192 | Nobunaga's Ambition | [notes](192-nobunagas-ambition.md) |
-| 193 | Shooting Range | [notes](193-shooting-range.md) |
-| 194 | Street Cop | [notes](194-street-cop.md) |
-| 195 | Teenage Mutant Ninja Turtles | [notes](195-teenage-mutant-ninja-turtles.md) |
-| 196 | Track and Field II | [notes](196-track-and-field-ii.md) |
-| 197 | Baseball Stars | [notes](197-baseball-stars.md) |
-| 198 | Cobra Triangle | [notes](198-cobra-triangle.md) |
-| 199 | Defender of the Crown | [notes](199-defender-of-the-crown.md) |
-| 200 | Strider | [notes](200-strider.md) |
-| 201 | Super Dodge Ball | [notes](201-super-dodge-ball.md) |
-| 202 | Thundercade | [notes](202-thundercade.md) |
-| 203 | The Adventures of Tom Sawyer | [notes](203-the-adventures-of-tom-sawyer.md) |
-| 204 | Bad Dudes | [notes](204-bad-dudes.md) |
-| 205 | The Bugs Bunny Crazy Castle | [notes](205-the-bugs-bunny-crazy-castle.md) |
-| 206 | Dragon Warrior | [notes](206-dragon-warrior.md) |
-| 207 | Faxanadu | [notes](207-faxanadu.md) |
-| 208 | Flying Dragon: The Secret Scroll | [notes](208-flying-dragon-the-secret-scroll.md) |
-| 209 | Jordan VS Bird: One on One | [notes](209-jordan-vs-bird-one-on-one.md) |
-| 210 | The Adventures of Dino Riki | [notes](210-the-adventures-of-dino-riki.md) |
-| 211 | Air Fortress | [notes](211-air-fortress.md) |
+| 168 | Kung-Fu Heroes | [notes](168-kung-fu-heroes.md), [transcript](../transcripts/168-kung-fu-heroes.md) |
+| 169 | Marble Madness | [notes](169-marble-madness.md), [transcript](../transcripts/169-marble-madness.md) |
+| 170 | Ninja Gaiden | [notes](170-ninja-gaiden.md), [transcript](../transcripts/170-ninja-gaiden.md) |
+| 171 | World Games | [notes](171-world-games.md), [transcript](../transcripts/171-world-games.md) |
+| 172 | The Adventures of Lolo | [notes](172-the-adventures-of-lolo.md), [transcript](../transcripts/172-the-adventures-of-lolo.md) |
+| 173 | Amagon | [notes](173-amagon.md), [transcript](../transcripts/173-amagon.md) |
+| 174 | Dr. Jekyll and Mr. Hyde | [notes](174-dr-jekyll-and-mr-hyde.md), [transcript](../transcripts/174-dr-jekyll-and-mr-hyde.md) |
+| 175 | Fist of the North Star | [notes](175-fist-of-the-north-star.md), [transcript](../transcripts/175-fist-of-the-north-star.md) |
+| 176 | The Guardian Legend | [notes](176-the-guardian-legend.md), [transcript](../transcripts/176-the-guardian-legend.md) |
+| 177 | Legacy of the Wizard | [notes](177-legacy-of-the-wizard.md), [transcript](../transcripts/177-legacy-of-the-wizard.md) |
+| 178 | Mappy Land | [notes](178-mappy-land.md), [transcript](../transcripts/178-mappy-land.md) |
+| 179 | Mystery Quest | [notes](179-mystery-quest.md), [transcript](../transcripts/179-mystery-quest.md) |
+| 180 | Predator | [notes](180-predator.md), [transcript](../transcripts/180-predator.md) |
+| 181 | Taboo: The Sixth Sense | [notes](181-taboo-the-sixth-sense.md), [transcript](../transcripts/181-taboo-the-sixth-sense.md) |
+| 182 | Operation Wolf | [notes](182-operation-wolf.md), [transcript](../transcripts/182-operation-wolf.md) |
+| 183 | The Adventures of Bayou Billy | [notes](183-the-adventures-of-bayou-billy.md), [transcript](../transcripts/183-the-adventures-of-bayou-billy.md) |
+| 184 | Airwolf | [notes](184-airwolf.md), [transcript](../transcripts/184-airwolf.md) |
+| 185 | California Games | [notes](185-california-games.md), [transcript](../transcripts/185-california-games.md) |
+| 186 | Desert Commander | [notes](186-desert-commander.md), [transcript](../transcripts/186-desert-commander.md) |
+| 187 | Guerilla War | [notes](187-guerilla-war.md), [transcript](../transcripts/187-guerilla-war.md) |
+| 188 | Hoops | [notes](188-hoops.md), [transcript](../transcripts/188-hoops.md) |
+| 189 | Hydlide | [notes](189-hydlide.md), [transcript](../transcripts/189-hydlide.md) |
+| 190 | Mega Man 2 | [notes](190-mega-man-2.md), [transcript](../transcripts/190-mega-man-2.md) |
+| 191 | Monster Party | [notes](191-monster-party.md), [transcript](../transcripts/191-monster-party.md) |
+| 192 | Nobunaga's Ambition | [notes](192-nobunagas-ambition.md), [transcript](../transcripts/192-nobunagas-ambition.md) |
+| 193 | Shooting Range | [notes](193-shooting-range.md), [transcript](../transcripts/193-shooting-range.md) |
+| 194 | Street Cop | [notes](194-street-cop.md), [transcript](../transcripts/194-street-cop.md) |
+| 195 | Teenage Mutant Ninja Turtles | [notes](195-teenage-mutant-ninja-turtles.md), [transcript](../transcripts/195-teenage-mutant-ninja-turtles.md) |
+| 196 | Track and Field II | [notes](196-track-and-field-ii.md), [transcript](../transcripts/196-track-and-field-ii.md) |
+| 197 | Baseball Stars | [notes](197-baseball-stars.md), [transcript](../transcripts/197-baseball-stars.md) |
+| 198 | Cobra Triangle | [notes](198-cobra-triangle.md), [transcript](../transcripts/198-cobra-triangle.md) |
+| 199 | Defender of the Crown | [notes](199-defender-of-the-crown.md), [transcript](../transcripts/199-defender-of-the-crown.md) |
+| 200 | Strider | [notes](200-strider.md), [transcript](../transcripts/200-strider.md) |
+| 201 | Super Dodge Ball | [notes](201-super-dodge-ball.md), [transcript](../transcripts/201-super-dodge-ball.md) |
+| 202 | Thundercade | [notes](202-thundercade.md), [transcript](../transcripts/202-thundercade.md) |
+| 203 | The Adventures of Tom Sawyer | [notes](203-the-adventures-of-tom-sawyer.md), [transcript](../transcripts/203-the-adventures-of-tom-sawyer.md) |
+| 204 | Bad Dudes | [notes](204-bad-dudes.md), [transcript](../transcripts/204-bad-dudes.md) |
+| 205 | The Bugs Bunny Crazy Castle | [notes](205-the-bugs-bunny-crazy-castle.md), [transcript](../transcripts/205-the-bugs-bunny-crazy-castle.md) |
+| 206 | Dragon Warrior | [notes](206-dragon-warrior.md), [transcript](../transcripts/206-dragon-warrior.md) |
+| 207 | Faxanadu | [notes](207-faxanadu.md), [transcript](../transcripts/207-faxanadu.md) |
+| 208 | Flying Dragon: The Secret Scroll | [notes](208-flying-dragon-the-secret-scroll.md), [transcript](../transcripts/208-flying-dragon-the-secret-scroll.md) |
+| 209 | Jordan VS Bird: One on One | [notes](209-jordan-vs-bird-one-on-one.md), [transcript](../transcripts/209-jordan-vs-bird-one-on-one.md) |
+| 210 | The Adventures of Dino Riki | [notes](210-the-adventures-of-dino-riki.md), [transcript](../transcripts/210-the-adventures-of-dino-riki.md) |
+| 211 | Air Fortress | [notes](211-air-fortress.md), [transcript](../transcripts/211-air-fortress.md) |
 | 212 | Back to the Future | [notes](212-back-to-the-future.md), [transcript](../transcripts/212-back-to-the-future.md) |
 | 213 | Bad Street Brawler | [notes](213-bad-street-brawler.md), [transcript](../transcripts/213-bad-street-brawler.md) |
 | 214 | The Black Bass | [notes](214-the-black-bass.md) |
