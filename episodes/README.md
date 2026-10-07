@@ -91,8 +91,8 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 083 | Kid Niki: Radical Ninja | [notes](083-kid-niki-radical-ninja.md), [transcript](../transcripts/083-kid-niki-radical-ninja.md) |
 | 084 | Star Force | [notes](084-star-force.md), [transcript](../transcripts/084-star-force.md) |
 | 085 | Super Pitfall | [notes](085-super-pitfall.md), [transcript](../transcripts/085-super-pitfall.md) |
-| 086 | Top Gun | [notes](086-top-gun.md) |
-| 087 | Side Pocket | [notes](087-side-pocket.md) |
+| 086 | Top Gun | [notes](086-top-gun.md), [transcript](../transcripts/086-top-gun.md) |
+| 087 | Side Pocket | [notes](087-side-pocket.md), [transcript](../transcripts/087-side-pocket.md) |
 | 088 | Mega Man | [notes](088-mega-man.md), [transcript](../transcripts/088-mega-man.md) |
 | 089 | Wizards & Warriors | [notes](089-wizards-warriors.md), [transcript](../transcripts/089-wizards-warriors.md) |
 | 090 | Karnov | [notes](090-karnov.md), [transcript](../transcripts/090-karnov.md) |
