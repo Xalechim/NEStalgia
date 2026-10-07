@@ -6,7 +6,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 
 | # | Game | Notes |
 | --- | --- | --- |
-| 001 | 10-Yard Fight (Remastered) | [notes](001-10-yard-fight-remastered.md) |
+| 001 | 10-Yard Fight (Remastered) | [notes](001-10-yard-fight-remastered.md), [transcript](../transcripts/001-10-yard-fight-remastered.md) |
 | 002 | BASEBALL | [transcript](../transcripts/002-baseball.md) |
 | 003 | CLU CLU LAND | [transcript](../transcripts/003-clu-clu-land.md) |
 | 004 | DUCK HUNT | [transcript](../transcripts/004-duck-hunt.md) |
