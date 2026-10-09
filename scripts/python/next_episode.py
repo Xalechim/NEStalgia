@@ -2,7 +2,8 @@
 """Work out which episode comes next and save what the homepage's "Up next" box shows.
 
 The next episode is read from the public episode spreadsheet: the first numbered episode after the newest one in the
-podcast feed. Its game's cover art and opening paragraph come from Wikipedia (left blank if there is no article).
+podcast feed. Its cover art comes from the episode's folder in iCloud Audition Projects (else Wikipedia); the opening paragraph
+comes from Wikipedia (left blank if there is no article).
 Saved to data/next-episode.json and data/next-episode.jpg.
 
 Only does anything when it has to: if the saved "next" episode is still ahead of the newest published episode,
@@ -27,6 +28,8 @@ SHEET_ID = "1r5WpTbM0EYLbr1ylXthvf57HWgjo1iScI_c5HKgfSKc"
 SHEET_CSV = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv"
 OUT_JSON = REPO / "data/next-episode.json"
 OUT_ART = REPO / "data/next-episode.jpg"
+# Each episode's working folder in iCloud ("NES 450 - MetalMachine") holds its cover art, under any file name.
+AUDITION = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/10_NEStalgia/Audition Projects"
 
 
 def latest_published():
@@ -118,11 +121,41 @@ def save_art(url):
     return True
 
 
+def local_art(number):
+    """Cover art for this episode from its iCloud working folder (the biggest picture in it), or None."""
+    try:
+        folders = sorted(AUDITION.glob(f"NES {number} - *"))
+    except OSError:
+        return None
+    pics = [f for d in folders if d.is_dir() for f in d.iterdir()
+            if f.suffix.lower() in (".jpg", ".jpeg", ".png") and not f.name.startswith(".")]
+    return max(pics, key=lambda f: f.stat().st_size, default=None)
+
+
+def save_local_art(number):
+    from PIL import Image
+    src = local_art(number)
+    if not src:
+        return False
+    try:
+        im = Image.open(src).convert("RGB")
+    except Exception:
+        return False
+    im.thumbnail((600, 600))
+    im.save(OUT_ART, "JPEG", quality=82, optimize=True)
+    return True
+
+
 def refresh(force=False, log=print):
     """Update the saved 'next episode' if it is missing or has already been published. Returns True if it changed."""
     latest = latest_published()
     have = json.loads(OUT_JSON.read_text()) if OUT_JSON.exists() else None
     if have and not force and have.get("number", 0) > latest:
+        if not have.get("has_art") and save_local_art(have["number"]):
+            have["has_art"] = True
+            OUT_JSON.write_text(json.dumps(have, indent=2, ensure_ascii=False) + "\n")
+            log(f"Added cover art for the next episode ({have['number']}) from your iCloud folder.")
+            return True
         log(f"Next episode ({have['number']}) is still ahead of the newest published ({latest}); nothing to do.")
         return False
     try:
@@ -139,7 +172,7 @@ def refresh(force=False, log=print):
     info["wikipedia_url"] = ((wiki or {}).get("content_urls") or {}).get("desktop", {}).get("page", "")
     info["extract"] = (wiki or {}).get("extract", "")
     img = ((wiki or {}).get("originalimage") or (wiki or {}).get("thumbnail") or {}).get("source", "")
-    info["has_art"] = bool(img and save_art(img))
+    info["has_art"] = save_local_art(nxt["number"]) or bool(img and save_art(img))
     if not info["has_art"] and OUT_ART.exists():
         OUT_ART.unlink()  # don't leave the previous game's cover behind
     OUT_JSON.write_text(json.dumps(info, indent=2, ensure_ascii=False) + "\n")
