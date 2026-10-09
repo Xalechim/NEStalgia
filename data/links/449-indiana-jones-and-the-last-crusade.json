@@ -1,0 +1,705 @@
+{
+  "episode": 449,
+  "title": "449 - Indiana Jones and the Last Crusade",
+  "generated": "2026-10-09",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "4a9ce3464ae6",
+  "items": [
+    {
+      "name": "Indiana Jones and the Last Crusade",
+      "kind": "game",
+      "description": "The episode's game: Taito's 1991 NES adaptation, with a pick-your-order level select and a sliding-puzzle Grail clue.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade_(1991_video_game)",
+          "label": "Wikipedia: Indiana Jones and the Last Crusade (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://takeontheneslibrary.com/tag/indiana/",
+          "label": "Take on the NES Library: Indiana Jones",
+          "source": "other"
+        },
+        {
+          "url": "https://videofileblog.com/indiana-jones-last-crusade-1991-nes-videogame-review/",
+          "label": "Videofile Blog: Last Crusade NES review",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Indiana Jones and the Last Crusade (film)",
+      "kind": "film_tv_music",
+      "description": "The 1989 film that ends the original trilogy, the source for the game's set pieces.",
+      "timestamp": "00:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade",
+          "label": "Wikipedia: Indiana Jones and the Last Crusade",
+          "source": "wikipedia",
+          "note": "1989 film by Steven Spielberg"
+        }
+      ]
+    },
+    {
+      "name": "Indiana Jones",
+      "kind": "other",
+      "description": "The adventurer franchise whose original trilogy and many tie-in games come up throughout the episode.",
+      "timestamp": "00:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indiana_Jones",
+          "label": "Wikipedia: Indiana Jones",
+          "source": "wikipedia",
+          "note": "American film franchise"
+        }
+      ]
+    },
+    {
+      "name": "Back to the Future",
+      "kind": "film_tv_music",
+      "description": "Another trilogy compared to this one, with the joke that nobody would go back to the well.",
+      "timestamp": "00:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+          "label": "Wikipedia: Back to the Future",
+          "source": "wikipedia",
+          "note": "1985 film by Robert Zemeckis"
+        }
+      ],
+      "episode_key": "212-back-to-the-future",
+      "episode_title": "Back to the Future"
+    },
+    {
+      "name": "Raiders of the Lost Ark",
+      "kind": "film_tv_music",
+      "description": "The first Indiana Jones film, considered the high point of the series.",
+      "timestamp": "00:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+          "label": "Wikipedia: Raiders of the Lost Ark",
+          "source": "wikipedia",
+          "note": "1981 adventure film by Steven Spielberg"
+        }
+      ]
+    },
+    {
+      "name": "Sean Connery",
+      "kind": "person",
+      "description": "Actor who plays Indy's father in the film and whose catchphrase the hosts try to recall.",
+      "timestamp": "02:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sean_Connery",
+          "label": "Wikipedia: Sean Connery",
+          "source": "wikipedia",
+          "note": "Scottish actor and producer (1930–2020)"
+        }
+      ]
+    },
+    {
+      "name": "Steven Spielberg",
+      "kind": "person",
+      "description": "Director said to have suggested adding a father figure for Indy late in the script.",
+      "timestamp": "02:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Steven_Spielberg",
+          "label": "Wikipedia: Steven Spielberg",
+          "source": "wikipedia",
+          "note": "American filmmaker (born 1946)"
+        }
+      ]
+    },
+    {
+      "name": "Harrison Ford",
+      "kind": "person",
+      "description": "Actor who plays Indiana Jones.",
+      "timestamp": "02:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Harrison_Ford",
+          "label": "Wikipedia: Harrison Ford",
+          "source": "wikipedia",
+          "note": "American actor (born 1942)"
+        }
+      ]
+    },
+    {
+      "name": "The Untouchables",
+      "kind": "game",
+      "description": "Ocean's NES movie tie-in, which also picks a few film set pieces to turn into levels.",
+      "timestamp": "04:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Untouchables_(video_game)",
+          "label": "Wikipedia: The Untouchables (video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        },
+        {
+          "url": "https://tcrf.net/The_Untouchables_(NES)",
+          "label": "The Cutting Room Floor: The Untouchables (NES)",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "429-the-untouchables",
+      "episode_title": "The Untouchables"
+    },
+    {
+      "name": "Taito",
+      "kind": "company",
+      "description": "Publisher of this version of the game.",
+      "timestamp": "09:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Taito",
+          "label": "Wikipedia: Taito",
+          "source": "wikipedia",
+          "note": "Japanese video game company and arcade operator"
+        }
+      ]
+    },
+    {
+      "name": "Software Creations",
+      "kind": "company",
+      "description": "British developer of this game, as well as Solstice, Silver Surfer and Pictionary.",
+      "timestamp": "09:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Software_Creations",
+          "label": "Wikipedia: Software Creations",
+          "source": "wikipedia",
+          "note": "British video game developer"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Companies/Acclaim_Studios_Manchester",
+          "label": "Giant Bomb: Acclaim Studios Manchester (Software Creations)",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Solstice",
+      "kind": "game",
+      "description": "Software Creations' 1990 NES isometric puzzle game with a Tim Follin score.",
+      "timestamp": "09:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Solstice_(1990_video_game)",
+          "label": "Wikipedia: Solstice (1990 video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://www.gamedeveloper.com/production/retro-game-of-the-day-solstice",
+          "label": "Retro Game of the Day: Solstice",
+          "source": "other"
+        }
+      ],
+      "episode_key": "332-solstice",
+      "episode_title": "Solstice"
+    },
+    {
+      "name": "Silver Surfer",
+      "kind": "game",
+      "description": "Software Creations' very difficult 1990 NES shooter, known for its music.",
+      "timestamp": "09:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silver_Surfer_(video_game)",
+          "label": "Wikipedia: Silver Surfer (video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Silver_Surfer",
+          "label": "StrategyWiki: Silver Surfer",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Pictionary",
+      "kind": "game",
+      "description": "Software Creations' 1990 NES version of the drawing board game, known for its menu music.",
+      "timestamp": "09:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pictionary_(video_game)",
+          "label": "Wikipedia: Pictionary (video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "344-pictionary",
+      "episode_title": "Pictionary"
+    },
+    {
+      "name": "Indiana Jones and the Last Crusade (Ubi Soft NES version)",
+      "kind": "game",
+      "description": "The other NES game of the same name, a different game developed for Ubi Soft.",
+      "timestamp": "10:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade%3A_The_Action_Game",
+          "label": "Wikipedia: Indiana Jones and the Last Crusade: The Action Game",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        },
+        {
+          "url": "https://www.giantbomb.com/wd/3030-5045",
+          "label": "Giant Bomb: Last Crusade, The Action Game",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Ubisoft",
+      "kind": "company",
+      "description": "Publisher of the other NES Last Crusade game, branded Ubi Soft back then.",
+      "timestamp": "10:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ubisoft",
+          "label": "Wikipedia: Ubisoft",
+          "source": "wikipedia",
+          "note": "French video game company"
+        }
+      ]
+    },
+    {
+      "name": "LucasArts",
+      "kind": "company",
+      "description": "Publisher of the 1989 point-and-click Last Crusade game.",
+      "timestamp": "11:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lucasfilm_Games",
+          "label": "Wikipedia: Lucasfilm Games",
+          "source": "wikipedia",
+          "note": "American video game company"
+        }
+      ]
+    },
+    {
+      "name": "Indiana Jones and the Last Crusade: The Graphic Adventure",
+      "kind": "game",
+      "description": "LucasArts' 1989 point-and-click adventure, released before both NES games.",
+      "timestamp": "11:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade%3A_The_Graphic_Adventure",
+          "label": "Wikipedia: Indiana Jones and the Last Crusade: The Graphic Adventure",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/indiana-jones-and-the-last-crusade/",
+          "label": "Hardcore Gaming 101: Indiana Jones and the Last Crusade",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.giantbomb.com/wd/3030-14748",
+          "label": "Giant Bomb: Last Crusade, The Graphic Adventure",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Fortnite",
+      "kind": "game",
+      "description": "Joked about as the modern equivalent of tie-in crossovers.",
+      "timestamp": "12:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fortnite",
+          "label": "Wikipedia: Fortnite",
+          "source": "wikipedia",
+          "note": "2017 video game"
+        }
+      ]
+    },
+    {
+      "name": "Sliding puzzle",
+      "kind": "event_or_term",
+      "description": "The puzzle for assembling the Holy Grail picture, which the game treats as a timed challenge.",
+      "timestamp": "12:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sliding_puzzle",
+          "label": "Wikipedia: Sliding puzzle",
+          "source": "wikipedia",
+          "note": "Puzzle game involving sliding pieces"
+        }
+      ]
+    },
+    {
+      "name": "Tetris",
+      "kind": "game",
+      "description": "Used as an example of a puzzle game some people find easy.",
+      "timestamp": "14:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tetris",
+          "label": "Wikipedia: Tetris",
+          "source": "wikipedia",
+          "note": "Puzzle video game"
+        }
+      ],
+      "episode_key": "235-tetris",
+      "episode_title": "Tetris"
+    },
+    {
+      "name": "Ninja Gaiden",
+      "kind": "game",
+      "description": "Praised for original cinematic cutscenes, unlike this game's movie stills.",
+      "timestamp": "23:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(NES_video_game)",
+          "label": "Wikipedia: Ninja Gaiden (NES video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "170-ninja-gaiden",
+      "episode_title": "Ninja Gaiden"
+    },
+    {
+      "name": "Prince of Persia",
+      "kind": "game",
+      "description": "The cinematic platformer style the hosts expected from the game.",
+      "timestamp": "18:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game)",
+          "label": "Wikipedia: Prince of Persia (1989 video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Smash Bros.",
+      "kind": "game",
+      "description": "Final Destination, its flat stage, is used to describe the tank fight arena.",
+      "timestamp": "17:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros.",
+          "label": "Wikipedia: Super Smash Bros.",
+          "source": "wikipedia",
+          "note": "Series of crossover fighting games"
+        }
+      ]
+    },
+    {
+      "name": "Red Dead Redemption",
+      "kind": "game",
+      "description": "Joked that the final Indy image could pass as an 8-bit demake of this game.",
+      "timestamp": "24:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Dead_Redemption",
+          "label": "Wikipedia: Red Dead Redemption",
+          "source": "wikipedia",
+          "note": "2010 video game"
+        }
+      ]
+    },
+    {
+      "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "kind": "film_tv_music",
+      "description": "The fourth Indiana Jones film, with no console game but a mobile tie-in.",
+      "timestamp": "24:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull",
+          "label": "Wikipedia: Indiana Jones and the Kingdom of the Crystal Skull",
+          "source": "wikipedia",
+          "note": "2008 film directed by Steven Spielberg"
+        }
+      ]
+    },
+    {
+      "name": "Indiana Jones and the Fate of Atlantis",
+      "kind": "game",
+      "description": "LucasArts' 1992 point-and-click adventure sequel, plus a separate action game version.",
+      "timestamp": "24:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Fate_of_Atlantis",
+          "label": "Wikipedia: Indiana Jones and the Fate of Atlantis",
+          "source": "wikipedia",
+          "note": "1992 point-and-click adventure game"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Indiana_Jones_and_the_Fate_of_Atlantis",
+          "label": "Giant Bomb: Fate of Atlantis",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "The Young Indiana Jones Chronicles",
+      "kind": "film_tv_music",
+      "description": "Live-action ABC series about Indy's youth, created by George Lucas.",
+      "timestamp": "25:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Young_Indiana_Jones_Chronicles",
+          "label": "Wikipedia: The Young Indiana Jones Chronicles",
+          "source": "wikipedia",
+          "note": "American television series (1992–1996)"
+        },
+        {
+          "url": "https://amblin.com/tv/the-young-indiana-jones-chronicles/",
+          "label": "Amblin: The Young Indiana Jones Chronicles",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "James Bond Jr.",
+      "kind": "film_tv_music",
+      "description": "Animated series about Bond's nephew, compared to the young Indy idea.",
+      "timestamp": "25:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Bond_Jr.",
+          "label": "Wikipedia: James Bond Jr.",
+          "source": "wikipedia",
+          "note": "American animated television series"
+        }
+      ]
+    },
+    {
+      "name": "Sean Patrick Flanery",
+      "kind": "person",
+      "description": "Actor who played the older young Indy on the TV series.",
+      "timestamp": "26:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sean_Patrick_Flanery",
+          "label": "Wikipedia: Sean Patrick Flanery",
+          "source": "wikipedia",
+          "note": "American actor (born 1965)"
+        }
+      ]
+    },
+    {
+      "name": "The Boondock Saints",
+      "kind": "film_tv_music",
+      "description": "1999 film starring Sean Patrick Flanery.",
+      "timestamp": "26:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Boondock_Saints",
+          "label": "Wikipedia: The Boondock Saints",
+          "source": "wikipedia",
+          "note": "1999 film by Troy Duffy"
+        }
+      ]
+    },
+    {
+      "name": "River Phoenix",
+      "kind": "person",
+      "description": "Actor who played young Indy in the opening of Last Crusade.",
+      "timestamp": "26:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/River_Phoenix",
+          "label": "Wikipedia: River Phoenix",
+          "source": "wikipedia",
+          "note": "American actor (1970–1993)"
+        }
+      ]
+    },
+    {
+      "name": "Indiana Jones and the Great Circle",
+      "kind": "game",
+      "description": "MachineGames' 2024 first-person Indiana Jones adventure.",
+      "timestamp": "26:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Great_Circle",
+          "label": "Wikipedia: Indiana Jones and the Great Circle",
+          "source": "wikipedia",
+          "note": "2024 video game"
+        },
+        {
+          "url": "https://www.lucasfilm.com/news/indiana-jones-great-circle-december-9/",
+          "label": "Lucasfilm: Great Circle release date",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "LEGO Indiana Jones: The Original Adventures",
+      "kind": "game",
+      "description": "Traveller's Tales' 2008 Lego game covering the first three films.",
+      "timestamp": "27:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lego_Indiana_Jones%3A_The_Original_Adventures",
+          "label": "Wikipedia: Lego Indiana Jones: The Original Adventures",
+          "source": "wikipedia",
+          "note": "2008 video game"
+        },
+        {
+          "url": "https://legogames.fandom.com/wiki/LEGO_Indiana_Jones:_The_Original_Adventures",
+          "label": "LEGO Games Wiki: LEGO Indiana Jones",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Lego Star Wars",
+      "kind": "game",
+      "description": "Cited for its humor, such as Luke's hand popping off when cut.",
+      "timestamp": "28:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lego_Star_Wars%3A_The_Video_Game",
+          "label": "Wikipedia: Lego Star Wars: The Video Game",
+          "source": "wikipedia",
+          "note": "2005 video game"
+        }
+      ]
+    },
+    {
+      "name": "Indiana Jones and the Temple of Doom",
+      "kind": "game",
+      "description": "The earlier NES Indiana Jones game covered on the show.",
+      "timestamp": "28:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom_(1988_video_game)",
+          "label": "Wikipedia: Indiana Jones and the Temple of Doom (1988 video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Indiana_Jones_and_the_Temple_of_Doom_(NES)",
+          "label": "StrategyWiki: Temple of Doom (NES)",
+          "source": "reference"
+        },
+        {
+          "url": "https://tcrf.net/Indiana_Jones_and_the_Temple_of_Doom_(NES)",
+          "label": "The Cutting Room Floor: Temple of Doom (NES)",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "145-indiana-jones-and-the-temple-of-doom",
+      "episode_title": "Indiana Jones and the Temple of Doom"
+    },
+    {
+      "name": "Tengen",
+      "kind": "company",
+      "description": "Developer of the NES Temple of Doom game (pronounced Tenjin by the hosts).",
+      "timestamp": "29:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tengen_(company)",
+          "label": "Wikipedia: Tengen (company)",
+          "source": "wikipedia",
+          "note": "American video game publisher and developer"
+        }
+      ]
+    },
+    {
+      "name": "Tim Follin",
+      "kind": "person",
+      "description": "Composer of this game's music, also of Solstice, Silver Surfer and Pictionary.",
+      "timestamp": "30:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tim_Follin",
+          "label": "Wikipedia: Tim Follin",
+          "source": "wikipedia",
+          "note": "English video game music composer"
+        }
+      ]
+    },
+    {
+      "name": "John Williams",
+      "kind": "person",
+      "description": "Composer of the Indiana Jones theme that the NES score riffs on.",
+      "timestamp": "30:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Williams",
+          "label": "Wikipedia: John Williams",
+          "source": "wikipedia",
+          "note": "American composer and conductor (born 1932)"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of games that earn a vote as essential.",
+      "timestamp": "31:01",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Batman: Arkham Asylum",
+      "kind": "game",
+      "description": "Cited as the game people say makes you feel like Batman.",
+      "timestamp": "34:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Batman%3A_Arkham_Asylum",
+          "label": "Wikipedia: Batman: Arkham Asylum",
+          "source": "wikipedia",
+          "note": "2009 video game"
+        }
+      ]
+    },
+    {
+      "name": "Indiana Jones and the Dial of Destiny",
+      "kind": "film_tv_music",
+      "description": "The 2023 fifth film, with a reported $419 million budget.",
+      "timestamp": "35:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Dial_of_Destiny",
+          "label": "Wikipedia: Indiana Jones and the Dial of Destiny",
+          "source": "wikipedia",
+          "note": "2023 film directed by James Mangold"
+        },
+        {
+          "url": "https://www.darkhorizons.com/?p=187074",
+          "label": "Dark Horizons: Dial of Destiny budget",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "The Walt Disney Company",
+      "kind": "company",
+      "description": "Owner of Lucasfilm, joked about for the big budget of the fifth film.",
+      "timestamp": "35:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
+          "label": "Wikipedia: The Walt Disney Company",
+          "source": "wikipedia",
+          "note": "American media and entertainment conglomerate"
+        }
+      ]
+    }
+  ]
+}
