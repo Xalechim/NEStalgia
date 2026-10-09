@@ -89,10 +89,13 @@ def summary(title):
 def find_wikipedia(name):
     """Best article for this game, or None. Careful: a wrong article is worse than a blank one."""
     want = re.sub(r"[^a-z0-9]", "", name.lower())
-    for t in (f"{name} (NES video game)", f"{name} (video game)", name):
-        d = summary(t)
-        if d:
-            return d
+    # Wikipedia often drops the subtitle: "Metal Mech: Man & Machine" is the article "Metal Mech".
+    names = [name] + [p.strip() for p in re.split(r"\s*(?::|\s-\s)\s*", name, maxsplit=1)[:1] if p.strip() and p.strip() != name]
+    for n in names:
+        for t in (f"{n} (NES video game)", f"{n} (video game)", n):
+            d = summary(t)
+            if d:
+                return d
     q = urllib.parse.urlencode({"action": "query", "list": "search", "srsearch": f"{name} NES video game", "srlimit": 8, "format": "json"})
     try:
         hits = json.loads(W.http("https://en.wikipedia.org/w/api.php?" + q).read())["query"]["search"]
@@ -151,6 +154,13 @@ def refresh(force=False, log=print):
     latest = latest_published()
     have = json.loads(OUT_JSON.read_text()) if OUT_JSON.exists() else None
     if have and not force and have.get("number", 0) > latest:
+        if not have.get("extract"):  # an earlier lookup found no Wikipedia article; try again
+            wiki = find_wikipedia(have["title"])
+            if wiki:
+                have["wikipedia_url"] = (wiki.get("content_urls") or {}).get("desktop", {}).get("page", "")
+                have["extract"] = wiki.get("extract", "")
+                OUT_JSON.write_text(json.dumps(have, indent=2, ensure_ascii=False) + "\n")
+                log(f"Found the Wikipedia intro for the next episode ({have['number']}).")
         if not have.get("has_art") and save_local_art(have["number"]):
             have["has_art"] = True
             OUT_JSON.write_text(json.dumps(have, indent=2, ensure_ascii=False) + "\n")
