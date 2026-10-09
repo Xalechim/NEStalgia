@@ -128,7 +128,9 @@ footer.site { background: var(--dark); color: #ddd; padding: 22px 20px; font-siz
 footer.site a { color: #ff8a80; }
 
 /* Pagefind search box */
-:root { --pagefind-ui-primary: #d62d20; --pagefind-ui-text: var(--ink); --pagefind-ui-background: var(--paper); --pagefind-ui-border: var(--line); --pagefind-ui-border-width: 3px; --pagefind-ui-border-radius: 0px; --pagefind-ui-font: inherit; }
+/* Pagefind's own stylesheet sets these on a plain :root and loads after ours, so ours need more weight to win. */
+html:root { --pagefind-ui-primary: #d62d20; --pagefind-ui-text: var(--ink); --pagefind-ui-background: var(--paper); --pagefind-ui-border: var(--line); --pagefind-ui-border-width: 3px; --pagefind-ui-border-radius: 0px; --pagefind-ui-font: inherit; }
+.pagefind-ui__search-input { color: var(--ink); }
 
 @media (max-width: 760px) {
   .ep { grid-template-columns: 1fr; }
