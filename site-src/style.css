@@ -492,3 +492,16 @@ header.site :focus-visible { outline-color: #fff; }
 .more-art { display: block; padding: 12px 16px; border: 3px solid var(--line); background: var(--card); box-shadow: 4px 4px 0 var(--shadow); color: var(--ink); text-decoration: none; font-weight: 700; }
 .more-art span { display: block; font: 12px var(--mono); text-transform: uppercase; letter-spacing: .08em; color: var(--link); margin-bottom: 4px; }
 .more-art:hover { background: var(--paper); }
+
+/* A card with its pictures beside the text; the pictures drop below it on a narrow screen */
+.rank-main.side { grid-template-columns: minmax(0, 1fr) minmax(0, 330px); }
+.rank-main.side .rank-media .shot { margin: 0 0 16px; max-width: none; }
+.rank-main.side .rank-media .carousel { margin: 0; }
+.rank-main.side .rank-media .car-track > .shot { padding: 0 0 4px; }
+@media (max-width: 760px) { .rank-main.side { grid-template-columns: 1fr; } }
+/* The at-a-glance comparison */
+table.vs { display: table; width: 100%; border-collapse: collapse; margin: 0 0 10px; font-size: .95rem; }
+table.vs th, table.vs td { border: 2px solid var(--line); padding: 7px 10px; text-align: left; vertical-align: top; background: transparent; }
+table.vs thead th { background: var(--dark); color: #fff; }
+table.vs thead th a { color: #fff; }
+table.vs tbody th { font: 700 12px var(--mono); text-transform: uppercase; letter-spacing: .06em; width: 8.5em; }

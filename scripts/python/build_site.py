@@ -560,7 +560,7 @@ def cards_html(a, cfg, data, ep_map):
         imgs = re.findall(r"<img [^>]*>", content)
         content = re.sub(r'<div class="gallery">.*?</div>|<figure>.*?</figure>|<img [^>]*>', "", content, flags=re.S)
         logo = ""  # (a small leading picture, like a company logo, sits beside the text)
-        if imgs and re.search(r'width="(\d+)"', imgs[0]) and int(re.search(r'width="(\d+)"', imgs[0]).group(1)) <= 300 and len(imgs) > 1:
+        if imgs and not cfg.get("media_side") and re.search(r'width="(\d+)"', imgs[0]) and int(re.search(r'width="(\d+)"', imgs[0]).group(1)) <= 300 and len(imgs) > 1:
             logo = '<div class="rank-cover rank-logo">%s</div>' % prose(imgs.pop(0), ep_map)
         chips = ""
         if award:
@@ -573,8 +573,10 @@ def cards_html(a, cfg, data, ep_map):
         media = prose(media_html(imgs), ep_map) if imgs else ""
         if len(imgs) > 1:
             media = media.replace('aria-label="Screenshots"', 'aria-label="%s screenshots"' % E(name))
-        out.append('<section class="rank" id="%s"><div class="rank-head">%s<h2>%s</h2></div><div class="rank-main%s">%s<div class="rank-text">%s%s</div></div>%s</section>'
-                   % (slug(name), num, E(name), "" if logo else " solo", logo, ('<div class="gchips">%s</div>' % chips) if chips else "", text, media))
+        side = cfg.get("media_side") and media and not logo  # pictures beside the text instead of below it
+        out.append('<section class="rank" id="%s"><div class="rank-head">%s<h2>%s</h2></div><div class="rank-main%s">%s<div class="rank-text">%s%s</div>%s</div>%s</section>'
+                   % (slug(name), num, E(name), " side" if side else ("" if logo else " solo"), logo, ('<div class="gchips">%s</div>' % chips) if chips else "", text,
+                      '<div class="rank-media">%s</div>' % media if side else "", "" if side else media))
     html_out = "".join(out)
     if 'class="carousel"' in html_out:
         html_out += '<script src="%s" defer></script>' % asset("carousel.js")

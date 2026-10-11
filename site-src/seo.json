@@ -863,7 +863,10 @@
       "summary": "How the NES launch games, from Baseball to Super Mario Bros., built the skills Shigeru Miyamoto needed."
     },
     "/articles/legendoflegend": {
-      "summary": "The Legend of Zelda and Zelda II are two classic NES games with very different ideas about what a Zelda game is."
+      "summary": "The Legend of Zelda and Zelda II are two classic NES games with very different ideas about what a Zelda game is.",
+      "layout": "cards",
+      "card_level": "h2",
+      "media_side": true
     }
   },
   "episode_guides": [
