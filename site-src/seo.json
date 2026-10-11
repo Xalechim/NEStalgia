@@ -22,7 +22,8 @@
         "3": 35,
         "4": 71,
         "5": 111
-      }
+      },
+      "tip_cards": true
     },
     "/articles/tetris": {
       "title": "Tetris Evolution: NES Tetris vs. Modern Versions · NEStalgia",

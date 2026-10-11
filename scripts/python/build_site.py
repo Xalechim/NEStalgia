@@ -286,6 +286,39 @@ def year_stats(year, by_num):
     return "".join(out)
 
 
+def figure_shots(h):
+    """A lone screenshot (a one-image gallery, with an optional italic caption line after it) becomes a framed figure with a caption.
+    With no caption line, the picture's description is used."""
+    def f(m):
+        img, cap = m.group(1), m.group(2) or ""
+        if not cap:
+            alt = re.search(r'alt="([^"]*)"', img)
+            cap = alt.group(1) if alt else ""
+        return '<figure class="shot">%s%s</figure>' % (img, "<figcaption>%s</figcaption>" % cap if cap else "")
+    return re.sub(r'<div class="gallery">(<img [^>]*>)</div>\s*(?:<p><em>(.*?)</em></p>)?', f, h, flags=re.S)
+
+
+def tip_cards_html(after, cfg, ep_map):
+    """An opening text, then each numbered tip (an h3 like '1. Title') as a card in the same style as the game cards:
+    a dark header, the text, and the screenshot below in a captioned frame."""
+    parts = re.split(r"(<h3>.*?</h3>)", after, flags=re.S)
+    out = []
+    if re.sub(r"<[^>]+>|\s", "", parts[0]):
+        out.append('<div class="prose">%s</div>' % figure_shots(prose(parts[0], ep_map)))
+    out.append("<h2>%s</h2>" % E(cfg.get("intro_label", "Tips")))
+    for i in range(1, len(parts), 2):
+        title = re.sub(r"<[^>]+>", "", parts[i]).strip()
+        m = re.match(r"(\d+)\.\s*(.*)", title)
+        num, name = (m.group(1), m.group(2)) if m else ("", title)
+        body = figure_shots(prose(parts[i + 1], ep_map))
+        figs = "".join(re.findall(r'<figure class="shot">.*?</figure>', body, re.S))
+        text = re.sub(r'<figure class="shot">.*?</figure>', "", body, flags=re.S)
+        badge = '<span class="rank-n">%s</span>' % num if num else ""
+        out.append('<section class="rank tip" id="tip-%s"><div class="rank-head">%s<h2>%s</h2></div>'
+                   '<div class="rank-main solo"><div class="rank-text">%s</div></div>%s</section>' % (num or i, badge, name, text, figs))
+    return "".join(out)
+
+
 def countdown_html(a, cfg, data, ep_map):
     """Rebuild a 'Top 5' article in the site's own style: a link to the matching special episode, the stats and 'year in review' text
     if the article has them, then one card per game with the episode's cover, verdict and a link to the episode, with the original
@@ -333,7 +366,9 @@ def countdown_html(a, cfg, data, ep_map):
             if cfg["stats"].get("intro"):
                 out.append(f'<div class="prose"><p>{E(cfg["stats"]["intro"])}</p></div>')
             out.append(f'<h2>The year in numbers</h2><div class="estats">{st}</div>')
-    if has_text(after):
+    if cfg.get("tip_cards") and has_text(after):
+        out.append(tip_cards_html(after, cfg, ep_map))
+    elif has_text(after):
         out.append(f'<div class="manual"><div class="mtab">{E(cfg.get("intro_label", "What the year tells us"))}</div>{prose(after, ep_map)}</div>')
     if has_text(before) or quote or has_text(after) or cfg.get("stats"):
         out.append("<h2>%s</h2>" % E(cfg.get("heading", "Our top five")))
@@ -376,6 +411,9 @@ def countdown_html(a, cfg, data, ep_map):
             px = ' class="px"'
             shots = '<div class="gallery">' + "".join(
                 '<img%s src="{BASE}/media/%s" alt="%s" loading="lazy">' % (px if o.get("px") else "", E(o["file"]), E(o.get("alt", ""))) for o in own) + "</div>"
+            if cfg.get("tip_cards"):  # same framed, captioned figure as the tips
+                shots = "".join('<figure class="shot"><img%s src="{BASE}/media/%s" alt="%s" loading="lazy"><figcaption>%s</figcaption></figure>'
+                                % (px if o.get("px") else "", E(o["file"]), E(o.get("alt", "")), E(o.get("caption") or o.get("alt", ""))) for o in own)
         elif gallery:
             # The original lists every screenshot twice (a smooth and a crisp copy). Keep one of each, preferring the crisp copy.
             seen = {}
@@ -384,6 +422,8 @@ def countdown_html(a, cfg, data, ep_map):
                 if src not in seen or ('class="px"' in i2 and 'class="px"' not in seen[src]):
                     seen[src] = i2
             shots = '<div class="gallery">' + "".join(seen.values()) + "</div>"
+            if cfg.get("tip_cards"):
+                shots = figure_shots(shots)
         cover = (f'<a class="rank-cover" href="{link}"><img src="{BASE}/art/{r["key"]}.jpg" alt="{E(cover_alt(r))}" width="300" height="300" loading="lazy"></a>' if r else "")
         title = f'<a href="{link}">{E(name)}</a>' if link else E(name)
         rank_n = "" if cfg.get("numbered") is False else "<span class=\"rank-n\">#%s</span>" % rank

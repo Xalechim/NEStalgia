@@ -448,3 +448,13 @@ header.site :focus-visible { outline-color: #fff; }
 .tile.wide { flex: 1 1 100%; max-width: 100%; }
 .tile.wide .gchips { margin: 6px 0 0; }
 .estats .tile b { font-size: 1.5rem; overflow-wrap: anywhere; }
+
+/* Screenshots in articles: one framed, captioned figure, the same everywhere */
+.shot { margin: 18px auto 22px; max-width: 480px; text-align: center; }
+.shot img { display: block; width: 100%; height: auto; margin: 0 auto; border: 3px solid var(--line); box-shadow: 4px 4px 0 var(--shadow); }
+.shot img.px { image-rendering: pixelated; }
+.shot figcaption { font: 12px/1.45 var(--mono); color: var(--gray); margin-top: 10px; text-align: center; }
+.rank > .shot { margin: 4px auto 22px; padding: 0 20px; }
+.rank-main.solo { grid-template-columns: 1fr; }
+.prose .shot { margin: 22px auto; }
+.prose .shot img { margin: 0 auto; }
