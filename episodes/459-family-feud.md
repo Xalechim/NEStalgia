@@ -37,12 +37,18 @@
   - One-player means you play a computer family. Two-player means two humans trade off. (Wikipedia, Just Games Retro)
 - Rounds and rules (sources disagree on numbers)
   - Five family members each get a question and the board of top answers.
-  - Three wrong answers is three strikes, and the other family gets a chance to steal. (Just Games Retro)
+  - Three wrong answers is three strikes, and the other family gets a chance to steal.
   - 200 points over three rounds.
+- Name the body part that women worry about the most
+  - I said face and it gave me credit for the number 1 answer which was mouth. I said Eyes and it said already answered so must have counted towards mouth. I wrote butt and it gave me credit for behind. I wrote Chest, it gave me an X, it needed to be breasts. I also said legs and it gave me an x but thighs was acceptable. And HAIR was an answer, thats a body part?
+- Name an unusual pet
+  - I surprisingly got the #1 answer with Snake, made the opponent play and to my disbelief they got points for Lion and Bear. Now its my turn and let me tell you what are not considered unusual pets to this game, keep in mind theres still 7 answers waiting to be revealed: Rabbits, Hamsters, Bearded Dragons, Lizards, mice, rats, hedgehogs, and tigers. I couldn't believe it
 - Fast Money
   - The winning family plays Fast Money. Wikipedia lists a $5,000 top prize for 200 or more points, which matches the TV show's CBS daytime Fast Money top prize. (Wikipedia: Family Feud)
   - Five questions in 20 seconds, then the same five asked again for 25 seconds with no repeated answers.
   - The Fast Money winnings carry into a running total. Reaching 20,000 dollars triggers an ending, as a title screen congratulating you.
+  - The computer opponent doesn't play fast money for "tax reasons"
+  - The question was name something you mostly use in summer. Sunscreen and Sunglasses each received zero points costing me the game.
 
 ## IV. Unique Gameplay Elements
 
