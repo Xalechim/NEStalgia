@@ -23,7 +23,221 @@
         "4": 71,
         "5": 111
       },
-      "tip_cards": true
+      "tip_cards": true,
+      "screenshots": {
+        "1": [
+          {
+            "file": "41aa7804-139455-megaforce-nes-screenshot-enemy-at.png",
+            "alt": "Star Force: a ship flies over a gray metal space station with blue turrets and orange target markers",
+            "px": true
+          },
+          {
+            "file": "star-force-nes-screenshot-gameplay.png",
+            "alt": "Star Force: a lone ship in open space faces a small formation of bronze enemies, with the score at the top",
+            "px": true
+          },
+          {
+            "file": "star-force-nes-screenshot-title.png",
+            "alt": "Star Force: the title screen",
+            "px": true
+          }
+        ],
+        "2": [
+          {
+            "file": "38834af9-45842-1943-the-battle-of-midway-nes-scre.gif",
+            "alt": "1943: The Battle of Midway: a green bomber banks over clouds and a patch of blue sea, with enemy fighters around it",
+            "px": true
+          },
+          {
+            "file": "acb4add9-45846-1943-the-battle-of-midway-nes-scre.gif",
+            "alt": "1943: The Battle of Midway: a fighter plane flies over the ocean past a battleship and two green enemy planes",
+            "px": true
+          },
+          {
+            "file": "84773344-45839-1943-the-battle-of-midway-nes-scre.gif",
+            "alt": "1943: The Battle of Midway: the loadout screen where you spend points on offensive power, defensive power, energy level, special weapon and weapon time limit",
+            "px": true
+          },
+          {
+            "file": "1943-nes-screenshot-gameplay.png",
+            "alt": "1943: The Battle of Midway: green and orange enemy planes swarm over open water",
+            "px": true
+          },
+          {
+            "file": "1943-nes-screenshot-title.png",
+            "alt": "1943: The Battle of Midway: the title screen",
+            "px": true
+          }
+        ],
+        "3": [
+          {
+            "file": "bf858a72-31509-gradius-nes-screenshot-starting-a.jpg",
+            "alt": "Gradius: the Vic Viper ship flies through space past spinning enemies, with the power-up meter and score at the bottom",
+            "px": true
+          },
+          {
+            "file": "6563adbd-31510-gradius-nes-screenshot-the-orange.jpg",
+            "alt": "Gradius: the Vic Viper flies along a rocky orange cavern, with enemies dropping from the ceiling",
+            "px": true
+          },
+          {
+            "file": "aba19348-31513-gradius-nes-screenshot-watch-out-f.jpg",
+            "alt": "Gradius: the Vic Viper with an option trailing behind flies past floating rock islands and green rings, with the power-up meter below",
+            "px": true
+          },
+          {
+            "file": "04f6e30b-31511-gradius-nes-screenshot-an-end-of-l.jpg",
+            "alt": "Gradius: the Vic Viper faces an armored end-of-level boss in the middle of the screen",
+            "px": true
+          },
+          {
+            "file": "gradius-nes-screenshot-gameplay.png",
+            "alt": "Gradius: the Vic Viper fires through a red cavern while enemy ships swarm in",
+            "px": true
+          },
+          {
+            "file": "gradius-nes-screenshot-title.png",
+            "alt": "Gradius: the title screen",
+            "px": true
+          }
+        ],
+        "4": [
+          {
+            "file": "b06767eb-447200-stinger-nes-screenshot-firing-at.png",
+            "alt": "Stinger: a small ship flies over a green field with a church and trees while pink strawberry-like enemies drift across a blue sky",
+            "px": true
+          },
+          {
+            "file": "stinger-nes-screenshot-gameplay.png",
+            "alt": "Stinger: a blue bee-like ship fires at pink strawberry enemies above a village with a church",
+            "px": true
+          },
+          {
+            "file": "stinger-nes-screenshot-title.png",
+            "alt": "Stinger: the title screen",
+            "px": true
+          }
+        ],
+        "5": [
+          {
+            "file": "ec62570b-31380-life-force-nes-screenshot-watch-ou.jpg",
+            "alt": "Life Force: a ship and its option fly through a glowing orange organic tunnel, with the score and speed meter at the bottom",
+            "px": true
+          },
+          {
+            "file": "58b92eae-99447-life-force-nes-screenshot-dragon-b.gif",
+            "alt": "Life Force: a small ship fires at a huge red dragon boss while a fireball flies toward it",
+            "px": true
+          },
+          {
+            "file": "life-force-nes-screenshot-gameplay.png",
+            "alt": "Life Force: a ship flies through a cave of blue cells between two mounds of red tissue",
+            "px": true
+          },
+          {
+            "file": "life-force-nes-screenshot-title.png",
+            "alt": "Life Force: the title screen",
+            "px": true
+          }
+        ]
+      },
+      "tip_screenshots": {
+        "1": {
+          "label": "1943: The Battle of Midway screenshots",
+          "images": [
+            {
+              "file": "acb4add9-45846-1943-the-battle-of-midway-nes-scre.gif",
+              "alt": "1943: The Battle of Midway: a fighter plane flies over the ocean past a battleship and two green enemy planes",
+              "px": true
+            },
+            {
+              "file": "38834af9-45842-1943-the-battle-of-midway-nes-scre.gif",
+              "alt": "1943: The Battle of Midway: a green bomber banks over clouds and a patch of blue sea, with enemy fighters around it",
+              "px": true
+            },
+            {
+              "file": "1943-nes-screenshot-gameplay.png",
+              "alt": "1943: The Battle of Midway: green and orange enemy planes swarm over open water",
+              "px": true
+            },
+            {
+              "file": "1943-nes-screenshot-title.png",
+              "alt": "1943: The Battle of Midway: the title screen",
+              "px": true
+            }
+          ]
+        },
+        "2": {
+          "label": "Star Force screenshots",
+          "images": [
+            {
+              "file": "41aa7804-139455-megaforce-nes-screenshot-enemy-at.png",
+              "alt": "Star Force: a ship flies over a gray metal space station with blue turrets and orange target markers",
+              "px": true
+            },
+            {
+              "file": "star-force-nes-screenshot-gameplay.png",
+              "alt": "Star Force: a lone ship in open space faces a small formation of bronze enemies, with the score at the top",
+              "px": true
+            },
+            {
+              "file": "star-force-nes-screenshot-title.png",
+              "alt": "Star Force: the title screen",
+              "px": true
+            }
+          ]
+        },
+        "3": {
+          "label": "Life Force screenshots",
+          "images": [
+            {
+              "file": "58b92eae-99447-life-force-nes-screenshot-dragon-b.gif",
+              "alt": "Life Force: a small ship fires at a huge red dragon boss while a fireball flies toward it",
+              "px": true
+            },
+            {
+              "file": "ec62570b-31380-life-force-nes-screenshot-watch-ou.jpg",
+              "alt": "Life Force: a ship and its option fly through a glowing orange organic tunnel, with the score and speed meter at the bottom",
+              "px": true
+            },
+            {
+              "file": "life-force-nes-screenshot-gameplay.png",
+              "alt": "Life Force: a ship flies through a cave of blue cells between two mounds of red tissue",
+              "px": true
+            },
+            {
+              "file": "life-force-nes-screenshot-title.png",
+              "alt": "Life Force: the title screen",
+              "px": true
+            }
+          ]
+        },
+        "4": {
+          "label": "Gradius screenshots",
+          "images": [
+            {
+              "file": "04f6e30b-31511-gradius-nes-screenshot-an-end-of-l.jpg",
+              "alt": "Gradius: the Vic Viper faces an armored end-of-level boss in the middle of the screen",
+              "px": true
+            },
+            {
+              "file": "6563adbd-31510-gradius-nes-screenshot-the-orange.jpg",
+              "alt": "Gradius: the Vic Viper flies along a rocky orange cavern, with enemies dropping from the ceiling",
+              "px": true
+            },
+            {
+              "file": "aba19348-31513-gradius-nes-screenshot-watch-out-f.jpg",
+              "alt": "Gradius: the Vic Viper with an option trailing behind flies past floating rock islands and green rings, with the power-up meter below",
+              "px": true
+            },
+            {
+              "file": "gradius-nes-screenshot-gameplay.png",
+              "alt": "Gradius: the Vic Viper fires through a red cavern while enemy ships swarm in",
+              "px": true
+            }
+          ]
+        }
+      }
     },
     "/articles/tetris": {
       "title": "Tetris Evolution: NES Tetris vs. Modern Versions · NEStalgia",

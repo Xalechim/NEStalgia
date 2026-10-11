@@ -298,6 +298,14 @@ def figure_shots(h):
     return re.sub(r'<div class="gallery">(<img [^>]*>)</div>\s*(?:<p><em>(.*?)</em></p>)?', f, h, flags=re.S)
 
 
+def carousel_html(items, label):
+    """A row of framed, captioned screenshots to swipe or step through (carousel.js adds the arrows and dots)."""
+    slides = "".join('<figure class="shot"><img%s src="{BASE}/media/%s" alt="%s" loading="lazy"><figcaption>%s</figcaption></figure>'
+                     % (' class="px"' if o.get("px") else "", E(o["file"]), E(o.get("alt", "")), E(o.get("caption") or o.get("alt", ""))) for o in items)
+    return ('<div class="carousel" role="group" aria-roledescription="carousel" aria-label="%s">'
+            '<div class="car-track" tabindex="0">%s</div></div>' % (E(label), slides))
+
+
 def tip_cards_html(after, cfg, ep_map):
     """An opening text, then each numbered tip (an h3 like '1. Title') as a card in the same style as the game cards:
     a dark header, the text, and the screenshot below in a captioned frame."""
@@ -312,6 +320,9 @@ def tip_cards_html(after, cfg, ep_map):
         num, name = (m.group(1), m.group(2)) if m else ("", title)
         body = figure_shots(prose(parts[i + 1], ep_map))
         figs = "".join(re.findall(r'<figure class="shot">.*?</figure>', body, re.S))
+        own_tip = (cfg.get("tip_screenshots") or {}).get(num)
+        if own_tip:  # a carousel of pictures chosen for this tip in seo.json replaces the single one
+            figs = prose(carousel_html(own_tip["images"], own_tip.get("label", name)), ep_map)
         text = re.sub(r'<figure class="shot">.*?</figure>', "", body, flags=re.S)
         badge = '<span class="rank-n">%s</span>' % num if num else ""
         out.append('<section class="rank tip" id="tip-%s"><div class="rank-head">%s<h2>%s</h2></div>'
@@ -411,7 +422,9 @@ def countdown_html(a, cfg, data, ep_map):
             px = ' class="px"'
             shots = '<div class="gallery">' + "".join(
                 '<img%s src="{BASE}/media/%s" alt="%s" loading="lazy">' % (px if o.get("px") else "", E(o["file"]), E(o.get("alt", ""))) for o in own) + "</div>"
-            if cfg.get("tip_cards"):  # same framed, captioned figure as the tips
+            if cfg.get("tip_cards") and len(own) > 1:  # several pictures: a carousel
+                shots = carousel_html(own, name + " screenshots")
+            elif cfg.get("tip_cards"):  # one picture: the same framed, captioned figure as the tips
                 shots = "".join('<figure class="shot"><img%s src="{BASE}/media/%s" alt="%s" loading="lazy"><figcaption>%s</figcaption></figure>'
                                 % (px if o.get("px") else "", E(o["file"]), E(o.get("alt", "")), E(o.get("caption") or o.get("alt", ""))) for o in own)
         elif gallery:
@@ -430,7 +443,10 @@ def countdown_html(a, cfg, data, ep_map):
         listen = (f'<p class="rank-listen"><a class="btn" href="{link}">{E(cfg.get("listen_label", "Hear our episode"))}: {E(nice_case(r["title"]))}</a></p>' if r else "")
         out.append(f'<section class="rank" id="rank-{rank}"><div class="rank-head">{rank_n}<h2>{title}</h2></div>'
                    f'<div class="rank-main">{cover}<div class="rank-text"><div class="gchips">{chips}</div>{prose(text, ep_map)}{listen}</div></div>{prose(shots, ep_map) if shots else ""}</section>')
-    return "".join(out)
+    html_out = "".join(out)
+    if 'class="carousel"' in html_out:
+        html_out += '<script src="%s" defer></script>' % asset("carousel.js")
+    return html_out
 
 
 def related_block(cfg, data, card_html):
@@ -545,7 +561,7 @@ def last_modified():
     return mod
 
 
-ASSET_FILES = ("style.css", "app.js", "tabs.js", "player.js", "nav.js")
+ASSET_FILES = ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "carousel.js")
 
 
 def asset(name):
@@ -968,7 +984,7 @@ def main():
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()
-    for f in ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "logo.png", "icon.png"):
+    for f in ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "carousel.js", "logo.png", "icon.png"):
         shutil.copy(SRC / f, OUT / f)
     (OUT / ".nojekyll").write_text("")
 

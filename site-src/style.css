@@ -458,3 +458,19 @@ header.site :focus-visible { outline-color: #fff; }
 .rank-main.solo { grid-template-columns: 1fr; }
 .prose .shot { margin: 22px auto; }
 .prose .shot img { margin: 0 auto; }
+
+/* Carousel: swipe or scroll on its own; carousel.js adds the arrows, dots and counter */
+.carousel { margin: 6px 0 22px; }
+.rank > .carousel { margin: 4px 20px 22px; }
+.car-track { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; outline-offset: 4px; }
+.car-track::-webkit-scrollbar { display: none; }
+.car-track > .shot { flex: 0 0 100%; max-width: none; margin: 0; padding: 0 4px 4px; scroll-snap-align: center; box-sizing: border-box; }
+.car-track > .shot img { max-width: 480px; }
+.rank > .carousel .shot { padding: 0 4px 4px; }
+.car-bar { display: flex; align-items: center; justify-content: center; gap: 14px; margin-top: 6px; }
+.car-btn { font: 700 20px/1 var(--mono); width: 36px; height: 32px; cursor: pointer; background: var(--card); color: var(--ink); border: 3px solid var(--line); box-shadow: 2px 2px 0 var(--shadow); }
+.car-btn:disabled { opacity: .35; cursor: default; }
+.car-dots { display: flex; gap: 8px; }
+.car-dot { width: 12px; height: 12px; padding: 0; cursor: pointer; background: var(--card); border: 2px solid var(--line); }
+.car-dot[aria-current] { background: var(--red); border-color: var(--red); }
+.car-count { font: 12px var(--mono); color: var(--gray); min-width: 3.2em; text-align: center; }
