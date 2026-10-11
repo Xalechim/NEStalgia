@@ -6,6 +6,7 @@ How the repo and the website fit together, and what to do when something happens
 - Making one transcript by hand: [`scripts/HOW-TO-MAKE-A-TRANSCRIPT.md`](../scripts/HOW-TO-MAKE-A-TRANSCRIPT.md)
 - The data files: [`data/README.md`](../data/README.md)
 - Writing reviews: [`reviews/README.md`](../reviews/README.md)
+- Article look and rules: [`docs/ARTICLE-STYLE.md`](ARTICLE-STYLE.md)
 - Reporting problems: [`CONTRIBUTING.md`](../CONTRIBUTING.md) and [`SECURITY.md`](../SECURITY.md)
 
 ## The big picture
@@ -61,6 +62,8 @@ Other launcher commands, when you need just one step, are in `scripts/sub-comman
 3. Set its search title and description in `site-src/seo.json` under `articles`.
 4. For a ranking article (Top 5, Top 10, a themed list), use the `countdown` layout in `seo.json`: `ranks` maps each rank to an episode number, `screenshots` lists images per rank, and options like `heading`, `numbered`, `intro_label` and `listen_label` change the labels. `stats` and `special` add the year-in-numbers tiles and the link to the special episode.
 5. Add entries to `episode_guides` in `seo.json` to put a link back to the article on each episode page.
+
+The hero block, picture frames, carousels, cards and the shared ending are built for you. See [`docs/ARTICLE-STYLE.md`](ARTICLE-STYLE.md) for the rules and the options.
 
 Screenshots come from the libretro thumbnail library (`Named_Titles` and `Named_Snaps` in its NES repository), the same place the box art comes from. MobyGames blocks automated downloads.
 

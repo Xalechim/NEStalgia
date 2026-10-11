@@ -438,6 +438,7 @@ def countdown_html(a, cfg, data, ep_map):
             if cfg.get("tip_cards"):
                 shots = figure_shots(shots)
         cover = (f'<a class="rank-cover" href="{link}"><img src="{BASE}/art/{r["key"]}.jpg" alt="{E(cover_alt(r))}" width="300" height="300" loading="lazy"></a>' if r else "")
+        name = html.unescape(name)  # captions are HTML already; escape once, below
         title = f'<a href="{link}">{E(name)}</a>' if link else E(name)
         rank_n = "" if cfg.get("numbered") is False else "<span class=\"rank-n\">#%s</span>" % rank
         listen = (f'<p class="rank-listen"><a class="btn" href="{link}">{E(cfg.get("listen_label", "Hear our episode"))}: {E(nice_case(r["title"]))}</a></p>' if r else "")
@@ -447,6 +448,197 @@ def countdown_html(a, cfg, data, ep_map):
     if 'class="carousel"' in html_out:
         html_out += '<script src="%s" defer></script>' % asset("carousel.js")
     return html_out
+
+
+# ---------------------------------------------------------------------------------------------------------------------
+# The article system: every article shares one set of building blocks (see docs/ARTICLE-STYLE.md).
+#   hero block (cover, summary, reading time, jump-to list) > body > related episodes > more articles > listen row
+#   body = prose, or cards (a countdown, a guide, a roundup, an analysis); every image is a framed, captioned figure, and
+#   two or more pictures in one place are a carousel; game names in running text link to their episode.
+# ---------------------------------------------------------------------------------------------------------------------
+def media_html(imgs):
+    """Pictures for one place in an article: one framed figure, or a carousel for two or more. `imgs` are <img ...> tags."""
+    def cap(i):
+        a = re.search(r'alt="([^"]*)"', i)
+        return a.group(1) if a else ""
+    figs = ['<figure class="shot">%s%s</figure>' % (i, "<figcaption>%s</figcaption>" % cap(i) if cap(i) else "") for i in imgs]
+    if len(figs) == 1:
+        return figs[0]
+    return ('<div class="carousel" role="group" aria-roledescription="carousel" aria-label="Screenshots"><div class="car-track" tabindex="0">%s</div></div>'
+            % "".join(figs))
+
+
+def normalize_media(h):
+    """Plain figures and galleries (with no caption of their own) become the standard frame or carousel."""
+    h = re.sub(r'<div class="gallery">(.*?)</div>', lambda m: media_html(re.findall(r"<img [^>]*>", m.group(1))), h, flags=re.S)
+    return re.sub(r'(?:<figure>(<img [^>]*>)</figure>\s*)+',
+                  lambda m: media_html(re.findall(r"<img [^>]*>", m.group(0))) + "\n", h)
+
+
+_GAME_NAMES = None
+
+
+def game_name_table(data):
+    """{title: episode page key} for episodes whose name is distinctive enough to link in running text."""
+    global _GAME_NAMES
+    if _GAME_NAMES is None:
+        names = {}
+        for r in data:
+            if r["type"] != "episode" or r["number"] is None:
+                continue
+            t = r["title"].strip()
+            if len(t) >= 7 and t[0].isupper() and "/" not in t:
+                names.setdefault(t, r["key"])
+        _GAME_NAMES = names
+    return _GAME_NAMES
+
+
+def autolink_games(h, data):
+    """Link the first mention of each episode's game in running text (paragraphs and list items) to its episode page."""
+    names = game_name_table(data)
+    if not names:
+        return h
+    pat = re.compile(r"(?<![\w/-])(" + "|".join(re.escape(n) for n in sorted(names, key=len, reverse=True)) + r")(?![\w-])")
+    done = set()
+
+    def link_text(txt):
+        def rep(m):
+            n = m.group(1)
+            if n in done:
+                return n
+            done.add(n)
+            return '<a href="%s/episodes/%s/">%s</a>' % (BASE, names[n], n)
+        return pat.sub(rep, txt)
+
+    def para(m):
+        toks = re.split(r"(<a\b.*?</a>|<[^>]+>)", m.group(2), flags=re.S)
+        return m.group(1) + "".join(t if t.startswith("<") else link_text(t) for t in toks) + m.group(3)
+
+    return re.sub(r"(<(?:p|li)(?: [^>]*)?>)(.*?)(</(?:p|li)>)", para, h, flags=re.S)
+
+
+def add_heading_ids(h):
+    """Give every section label an address so the jump-to list (and links from elsewhere) can point at it."""
+    seen = set()
+
+    def f(m):
+        base = slug(html.unescape(re.sub(r"<[^>]+>", "", m.group(2)))) or "section"
+        i, n = base, 2
+        while i in seen:
+            i, n = "%s-%d" % (base, n), n + 1
+        seen.add(i)
+        return '<h2 id="%s"%s>%s</h2>' % (i, m.group(1), m.group(2))
+    return re.sub(r"<h2(?![^>]*\bid=)([^>]*)>(.*?)</h2>", f, h, flags=re.S)
+
+
+def cards_html(a, cfg, data, ep_map):
+    """Turn an article's headings into cards. `card_level` ("h2" or "h3") picks which heading starts a card; the other
+    headings stay section labels. Text goes in the card, pictures below it (one frame, or a carousel), and a heading
+    like 'Most Games: Konami' becomes the title 'Konami' with an award chip. Small leading pictures (logos) sit beside the text."""
+    level = cfg.get("card_level", "h2")
+    body = a["body"]
+    parts = re.split(r"(<h[1-6][^>]*>.*?</h[1-6]>)", body, flags=re.S)
+    out = ['<div class="prose">%s</div>' % prose(normalize_media(autolink_games(parts[0], data)), ep_map)] if re.sub(r"<[^>]+>|\s", "", parts[0]) else []
+    n = 0
+    for i in range(1, len(parts), 2):
+        m = re.match(r"<(h[1-6])[^>]*>(.*?)</h[1-6]>", parts[i], flags=re.S)
+        tag, title = m.group(1), re.sub(r"<[^>]+>", "", m.group(2)).strip()
+        content = parts[i + 1]
+        if tag != level:
+            out.append('<h2>%s</h2>' % E(title))
+            if re.sub(r"<[^>]+>|\s", "", content):
+                out.append('<div class="prose">%s</div>' % prose(normalize_media(autolink_games(content, data)), ep_map))
+            continue
+        n += 1
+        award, name = "", title
+        if ":" in title and (cfg.get("award_titles") or cfg.get("prefix_titles")):
+            award, name = [x.strip() for x in title.split(":", 1)]
+        def with_caption(m):  # a figure's caption becomes its picture's description, which is what the frame shows
+            cap = re.sub(r"<[^>]+>|\s+", " ", m.group(2)).strip()
+            return m.group(1).replace(' alt=""', ' alt="%s"' % E(cap)) if cap else m.group(1)
+        content = re.sub(r"<figure>(<img [^>]*>)<figcaption>(.*?)</figcaption></figure>", with_caption, content, flags=re.S)
+        imgs = re.findall(r"<img [^>]*>", content)
+        content = re.sub(r'<div class="gallery">.*?</div>|<figure>.*?</figure>|<img [^>]*>', "", content, flags=re.S)
+        logo = ""  # (a small leading picture, like a company logo, sits beside the text)
+        if imgs and re.search(r'width="(\d+)"', imgs[0]) and int(re.search(r'width="(\d+)"', imgs[0]).group(1)) <= 300 and len(imgs) > 1:
+            logo = '<div class="rank-cover rank-logo">%s</div>' % prose(imgs.pop(0), ep_map)
+        chips = ""
+        if award:
+            chips += '<span class="gtag%s">%s</span>' % (" award" if cfg.get("award_titles") else "", E(award))
+        dev_q = cfg.get("developer_links") and urllib.parse.urlencode({"dev": name.lower()})
+        if dev_q:
+            chips += '<a class="gtag" href="%s/episodes/?%s">Every %s episode</a>' % (BASE, dev_q, E(name))
+        text = prose(autolink_games(content, data), ep_map)
+        num = '<span class="rank-n">%d</span>' % n if cfg.get("numbered_cards") else ""
+        media = prose(media_html(imgs), ep_map) if imgs else ""
+        if len(imgs) > 1:
+            media = media.replace('aria-label="Screenshots"', 'aria-label="%s screenshots"' % E(name))
+        out.append('<section class="rank" id="%s"><div class="rank-head">%s<h2>%s</h2></div><div class="rank-main%s">%s<div class="rank-text">%s%s</div></div>%s</section>'
+                   % (slug(name), num, E(name), "" if logo else " solo", logo, ('<div class="gchips">%s</div>' % chips) if chips else "", text, media))
+    html_out = "".join(out)
+    if 'class="carousel"' in html_out:
+        html_out += '<script src="%s" defer></script>' % asset("carousel.js")
+    return html_out
+
+
+def reading_minutes(h):
+    words = len(re.sub(r"<[^>]+>", " ", h).split())
+    return max(1, round(words / 220))
+
+
+def hero_html(a, cfg, inner):
+    """The same opening for every article: cover, one-line summary, reading time, and a jump-to list of its parts."""
+    summary = cfg.get("summary") or a.get("excerpt") or ""
+    heads = re.findall(r'<section class="rank[^"]*" id="([^"]+)">.*?<h2[^>]*>(.*?)</h2>', inner, flags=re.S)
+    if len(heads) < 3:
+        heads = re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', inner, flags=re.S)
+    jump = ""
+    if len(heads) >= 3:
+        jump = '<nav class="jump" aria-label="In this article"><b>Jump to</b>%s</nav>' % "".join(
+            '<a href="#%s">%s</a>' % (i, re.sub(r"<[^>]+>", "", t)) for i, t in heads)
+    cover = ""
+    img = a.get("image") or ""
+    if isinstance(cfg.get("hero_image"), str):  # a picture chosen for this article in seo.json
+        cover = '<img class="art-cover px" src="%s/media/%s" alt="" width="220" loading="eager">' % (BASE, E(cfg["hero_image"]))
+    elif img.startswith("{BASE}/media/") and cfg.get("hero_image") is not False:
+        try:
+            from PIL import Image
+            with Image.open(MIG / "media" / img.split("/media/")[1]) as im:
+                wide = im.width >= 400
+        except Exception:
+            wide = False
+        if wide:
+            cover = '<img class="art-cover" src="%s" alt="" width="220" loading="eager">' % E(img.replace("{BASE}", BASE))
+    return ('<header class="art-hero">%s<div><p class="art-sum">%s</p><p class="art-meta">%d min read</p>%s</div></header>'
+            % (cover, E(summary), reading_minutes(inner), jump))
+
+
+def article_footer(a, cfg, data, card_html, articles):
+    """Related episodes, the neighbouring articles, and the listen row: the same ending on every article."""
+    out = []
+    nums = []
+    here = a["path"].rstrip("/")
+    for g in SEO.get("episode_guides", []):
+        if g["href"].split("#")[0].rstrip("/") == here and g.get("number") and g["number"] not in nums:
+            nums.append(g["number"])
+    for k in (cfg.get("ranks") or {}).values():
+        if k not in nums:
+            nums.append(k)
+    by_num = {r["number"]: r for r in data if r["type"] == "episode" and r["number"] is not None}
+    rows = [by_num[n] for n in nums if n in by_num][:6]
+    if rows and not cfg.get("related"):
+        out.append('<section class="related" data-pagefind-ignore><h2>Episodes in this article</h2><div class="grid">%s</div></section>' % "".join(card_html(r) for r in rows))
+    others = [x for x in articles if x["path"] != a["path"]]
+    others.sort(key=lambda x: x["date"], reverse=True)
+    older = [x for x in others if x["date"] < a["date"]][:1]
+    newer = [x for x in sorted(others, key=lambda x: x["date"]) if x["date"] > a["date"]][:1]
+    more = "".join('<a class="more-art" href="%s/%s/"><span>%s</span>%s</a>' % (BASE, x["path"].strip("/"), lab, E(x["title"]))
+                   for lab, x in [("Newer article", y) for y in newer] + [("Older article", y) for y in older])
+    if more:
+        out.append('<section class="more-articles" data-pagefind-ignore><h2>More articles</h2><div class="more-grid">%s</div></section>' % more)
+    out.append('<section class="listen-row" data-pagefind-ignore><h2>Listen to NEStalgia</h2><div class="btns" style="justify-content:flex-start">%s</div></section>'
+               % "".join('<a class="btn%s" href="%s" rel="noopener">%s</a>' % ("" if i < 2 else " alt", u, E(n)) for i, (n, u) in enumerate(LINKS[:3])))
+    return "".join(out)
 
 
 def related_block(cfg, data, card_html):
@@ -857,10 +1049,19 @@ def build_migrated(data, write, card_html):
         tags = "".join(f'<span class="atag">{E(t)}</span>' for t in a["tags"])
         ov = (SEO.get("articles") or {}).get(a["path"].rstrip("/"), {})
         extra = related_block(ov["related"], data, card_html) if ov.get("related") else ""
+        if ov.get("layout") == "countdown":
+            inner = countdown_html(a, ov, data, ep_map)
+        elif ov.get("layout") == "cards":
+            inner = cards_html(a, ov, data, ep_map)
+        else:
+            inner = '<div class="prose">' + prose(normalize_media(a["body"]), ep_map) + "</div>"
+            if 'class="carousel"' in inner:
+                inner += '<script src="%s" defer></script>' % asset("carousel.js")
+        inner = add_heading_ids(autolink_games(inner, data))
         body = f"""<p class="crumbs"><a href="{BASE}/articles/">← All articles</a></p>
 <article data-pagefind-body><h1 data-pagefind-meta="title">{E(a["title"])}</h1>
 <div class="meta">{fmt_date(a["date"])} · {E(a["author"])}</div>{('<div class="tags">'+tags+'</div>') if tags else ""}
-{countdown_html(a, ov, data, ep_map) if ov.get("layout") == "countdown" else '<div class="prose">' + prose(a["body"], ep_map) + "</div>"}</article>{extra}"""
+{hero_html(a, ov, inner)}{inner}</article>{extra}{article_footer(a, ov, data, card_html, articles)}"""
         img = a["image"].replace("{BASE}", "") if a.get("image") else None
         write(a["path"].strip("/") + "/index.html",
               page(ov.get("title") or f'{a["title"]} · NEStalgia', body, "/" + a["path"].strip("/") + "/", desc=ov.get("description") or a["excerpt"], image=img, current="articles",

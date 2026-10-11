@@ -249,7 +249,10 @@
           "genre": "puzzle"
         },
         "see_all_label": "See every puzzle game with our verdicts"
-      }
+      },
+      "layout": "cards",
+      "card_level": "h2",
+      "summary": "Why plenty of players still prefer the original NES Tetris, and how Tetris on the Super Famicom, Genesis, DS, Effect and 99 compare."
     },
     "/articles/best-of-1986": {
       "title": "The Top 5 NES Games of 1986 (Our 19-Game Recap) · NEStalgia",
@@ -346,15 +349,25 @@
     },
     "/articles/nestalgia/blog/1985romhack": {
       "title": "Weird Romhacks of the 1985 NES Launch Games · NEStalgia",
-      "description": "Odd, clunky and downright unfortunate romhacks of the NES launch games, from Duck Hunt: Moon Walk to Mario's Alley to Golf starring KISS."
+      "description": "Odd, clunky and downright unfortunate romhacks of the NES launch games, from Duck Hunt: Moon Walk to Mario's Alley to Golf starring KISS.",
+      "layout": "cards",
+      "card_level": "h3",
+      "prefix_titles": true,
+      "summary": "Six launch-game romhacks that turn Duck Hunt's dog into a moonwalker, Soccer's players into rabbits and Golf into a KISS concert, with our verdicts."
     },
     "/articles/savestates": {
       "title": "Are Save States Cheating? Why They're Not · NEStalgia",
-      "description": "Is it cheating to use save states, a Game Genie or the Konami code? Our take on saving progress, practicing and rewinding in classic games."
+      "description": "Is it cheating to use save states, a Game Genie or the Konami code? Our take on saving progress, practicing and rewinding in classic games.",
+      "layout": "cards",
+      "card_level": "h2",
+      "summary": "Is using save states cheating? We make the case that the way you play is yours to choose, with six ways to use them."
     },
     "/articles/nestalgia/blog/is-nes-baseball-haunted": {
       "title": "Is NES Baseball Haunted? Four Spooky Clues · NEStalgia",
-      "description": "Balls that pass right through you, creepy team names, fielders you can't control: our tongue-in-cheek case that the NES launch game Baseball is haunted."
+      "description": "Balls that pass right through you, creepy team names, fielders you can't control: our tongue-in-cheek case that the NES launch game Baseball is haunted.",
+      "layout": "cards",
+      "card_level": "h2",
+      "summary": "The evidence that NES Baseball is haunted, from fielders you cannot control to a pitch that passes through you."
     },
     "/articles/best-of-1987": {
       "title": "The Top 10 NES Games of 1987 (Our Year-End Ranking) · NEStalgia",
@@ -835,6 +848,22 @@
     "/articles/how-the-show-works": {
       "title": "How the NES Essential Games List Works: Verdicts and Voting Rules · NEStalgia",
       "description": "What Essential, Play it and Skip it mean on NEStalgia, how the Essential Games List vote works, and how the voting rules have changed since 2018."
+    },
+    "/articles/nestalgia/blog/bestdev": {
+      "layout": "cards",
+      "card_level": "h2",
+      "award_titles": true,
+      "developer_links": true,
+      "summary": "Outside of Nintendo, who made the best games for the NES? We look at the numbers for Konami, Capcom and Rare, and why nobody can really say.",
+      "hero_image": "6563adbd-31510-gradius-nes-screenshot-the-orange.jpg"
+    },
+    "/articles/miyamotolaunchgames": {
+      "layout": "cards",
+      "card_level": "h3",
+      "summary": "How the NES launch games, from Baseball to Super Mario Bros., built the skills Shigeru Miyamoto needed."
+    },
+    "/articles/legendoflegend": {
+      "summary": "The Legend of Zelda and Zelda II are two classic NES games with very different ideas about what a Zelda game is."
     }
   },
   "episode_guides": [
