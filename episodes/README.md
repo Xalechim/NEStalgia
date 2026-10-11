@@ -463,6 +463,8 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 455 | Nobunaga's Ambition II *(unreleased)* | [notes](455-nobunagas-ambition-ii.md) |
 | 456 | RoboCop 2 *(unreleased)* | [notes](456-robocop-2.md) |
 | 457 | World Champ *(unreleased)* | [notes](457-world-champ.md) |
+| 458 | Beetlejuice *(unreleased)* | [notes](458-beetlejuice.md) |
+| 459 | Family Feud *(unreleased)* | [notes](459-family-feud.md) |
 
 ## Specials
 
