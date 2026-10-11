@@ -112,7 +112,22 @@
     },
     "/articles/nestalgia/blog/m6pdirlpwivfnwsefaez851zzyq0u8": {
       "title": "NES Essential Games List Community Vote (2024) · NEStalgia",
-      "description": "Our Patreon community ranked the NEStalgia Essential Games List: top-10 votes scored 10 points for first down to 1 for tenth. Here's the final top 10."
+      "description": "Our Patreon community ranked the NEStalgia Essential Games List: top-10 votes scored 10 points for first down to 1 for tenth. Here's the final top 10.",
+      "layout": "countdown",
+      "heading": "The top 10",
+      "ranks": {
+        "10": 133,
+        "9": 92,
+        "8": 216,
+        "7": 76,
+        "6": 14,
+        "5": 44,
+        "4": 341,
+        "3": 190,
+        "2": 275,
+        "1": 58
+      },
+      "intro_label": "How the vote worked"
     },
     "/articles/nestalgia/blog/1985romhack": {
       "title": "Weird Romhacks of the 1985 NES Launch Games · NEStalgia",

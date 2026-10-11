@@ -153,6 +153,10 @@ html:root { --pagefind-ui-primary: #d62d20; --pagefind-ui-text: var(--ink); --pa
 .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 18px 0; }
 .gallery img { width: 100%; aspect-ratio: 1; object-fit: cover; border: 3px solid var(--line); box-shadow: 3px 3px 0 var(--shadow); }
 .gallery > img:only-child { aspect-ratio: auto; height: auto; object-fit: contain; max-width: 480px; justify-self: center; }  /* a lone screenshot keeps its shape and a sensible size */
+.prose .gallery img { aspect-ratio: auto; height: auto; object-fit: contain; align-self: start; }  /* screenshots in an article keep their own shape */
+.manual.hack img { float: left; width: 260px; max-width: 45%; margin: 4px 22px 10px 0; border: 3px solid var(--line); box-shadow: 3px 3px 0 var(--shadow); }
+.manual.hack::after { content: ""; display: block; clear: both; }
+.manual.hack h3 { margin: 0 0 6px; }
 .tags { margin: 6px 0 14px; } .atag { font-family: var(--mono); font-size: 12px; background: var(--dark); color: #fff; padding: 2px 8px; margin: 0 6px 6px 0; display: inline-block; }
 .grid.articles { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
 .card.wide .t { font-size: 15px; }
