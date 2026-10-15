@@ -1,18 +1,19 @@
 # 460 - Flight of the Intruder
 
-- "Experience top-flight realism with Flight of the Intruder!" The box promises your choice of an A-6 Intruder bomber or an F-4 Phantom fighter, twelve missions and more than 50 combat rounds. (NES box text, VGCollect listing)
+- "Experience top-flight realism"
 
 ## I. Setup & Premise
 
 - What it is based on
   - Stephen Coonts' 1986 novel Flight of the Intruder, a story about A-6 Intruder crews flying off a carrier in Vietnam. The NES game is a port of a 1990 PC flight simulator built on that book, and it arrived about four months after the film opened on January 18, 1991.
-  - The NES story is more general than the book or the movie. The manual keeps the setting, 1972 over North Vietnam, and drops the plot. (Take on the NES Library)
+  - The NES story is more general than the book or the movie. The manual keeps the setting, 1972 over North Vietnam, and drops the plot.
 - The setting
   - Operation Linebacker ran from May 9 to October 23, 1972. It was the first continuous bombing of North Vietnam since Rolling Thunder ended in November 1968. (Wikipedia)
   - The box puts you over the Gulf of Tonkin. The Intruder is a two-seat, all-weather carrier bomber with no internal gun. The Phantom is the fighter.
 - Who made it
   - Imagineering converted it and Mindscape published it in North America in May 1991. Imagineering was the in-house studio of Absolute Entertainment, in Glen Rock, New Jersey. (Wikipedia)
   - Imagineering's earlier NES flight sim, Stealth ATF, came out in 1989 through Activision.
+    - Sean's pitch for the curious is a good one: if you like primitive flight sims, blowing things up and crashing while trying to land, give it a shot. We would not send anyone looking for it in 2022. It is a unique idea that does not fully deliver.  
   - The PC original came from Rowan Software and Spectrum HoloByte.
 - The pitch
   - A console flight sim with real carrier work. You take off, fight or bomb your way through waypoints, and then land on the deck yourself.
@@ -20,7 +21,7 @@
 ## II. What Makes It Stand Out
 
 - Two games in one cartridge
-  - Missions alternate between a first-person cockpit view for dogfights and a behind-the-plane view for bombing and strafing runs. (Take on the NES Library)
+  - Missions alternate between a first-person cockpit view for dogfights and a behind-the-plane view for bombing and strafing runs.=
 - You land the plane yourself
   - Lower the gear, drop the hook, and keep your descent under control. Catch the third cable for bonus points. Miss too many hooks and you lose a life.
 - A DEFCON meter
@@ -38,7 +39,7 @@
 - The core loop
   - A map screen splits each mission into waypoints. Select skips ahead, and Start or A begins one.
   - Take off by holding Left for full thrust. Then fly each leg as a dogfight or a bombing run, hit the required targets and bring the plane home.
-  - Twelve missions. Later ones get longer, with more waypoints and targets, but the enemies barely get tougher. A full run takes about two and a half hours. (Take on the NES Library)
+  - Twelve missions. Later ones get longer, with more waypoints and targets, but the enemies barely get tougher. A full run takes about two and a half hours.
 - Cockpit view controls
   - The display shows airspeed, altitude, thrust, an artificial horizon, a message line and a radar split between enemies ahead and behind.
   - D-pad up and down pitch the nose, and left and right bank. A fires the machine gun, which has unlimited ammo but overheats. Select switches to radar-guided missiles. B plus up or down sets thrust.
@@ -57,7 +58,7 @@
 - The sideways trick
   - A popular workaround is flying sideways, which helps you dodge homing missiles while still hitting what is ahead.
 - Missile famine
-  - Missiles run short late in the game. Game Genie codes give infinite missiles and let you start at missions 3, 6, 9 or 12. (Almar's Guides)
+  - Missiles run short late in the game.
 - Takeoff readouts that matter later
   - Some numbers on screen at takeoff only matter when you come back to land.
 - Skippable sub-missions
@@ -73,7 +74,7 @@
   - Computer Gaming World praised the wingman control and flight models in 1990. COMPUTE! in March 1991 praised the authentic multi-mission operations and warned you should read the manual twice before flying. (Wikipedia, COMPUTE!)
 - The NES port
   - Absolute was founded in 1986 by Garry Kitchen, who left Activision with Dan Kitchen, Alex DeMeo and John Van Ryzin. Imagineering was its in-house studio. (Wikipedia)
-  - Imagineering's 1991 NES slate included Flight of the Intruder, Bart vs. the Space Mutants, Attack of the Killer Tomatoes, Barbie and Space Shuttle Project. Its NES games are generally not well regarded. (Take on the NES Library)
+  - Imagineering's 1991 NES slate included Flight of the Intruder, Bart vs. the Space Mutants, Attack of the Killer Tomatoes, Barbie and Space Shuttle Project. Its NES games are generally not well regarded.
 - Mindscape
   - Roger Buoy founded it in October 1983 in Northbrook, Illinois. The Software Toolworks bought it in a deal that closed March 13, 1990, for $21.2 million, mainly for its Nintendo license, and Mindscape became Toolworks' Nintendo-only label. (Wikipedia)
 - A prototype survives
@@ -87,7 +88,6 @@
 - Music
   - Wikipedia lists Mark Van Hecke, the audio director at Absolute and Imagineering from 1989 to 1995. He also scored the NES Simpsons games. Before that he composed for Wisconsin theater troupes and helped produce the first Violent Femmes albums. (Giant Bomb)
   - The cockpit has no music, only the beep of homing missiles. The bombing runs have the songs.
-  - One reviewer called the tunes forgettable filler that wear thin over a long run.
 
 ## VII. Pop Culture
 
@@ -100,7 +100,6 @@
   - Filming began in November 1989 in Hawaii. USS Independence hosted about two weeks with A-6Es from VA-165, the Boomers. The Navy held script approval and was reimbursed about $1.2 million.
   - It was set for July 13, 1990, then moved to January for a new ending and to stay clear of Memphis Belle and Air America. Ed O'Neill's cameo was cut after preview audiences laughed.
   - It opened fourth with $5.7 million, finished near $14.6 million on a $30 million budget, and holds 23 percent on Rotten Tomatoes. Roger Ebert called it a mess. (Wikipedia, AFI)
-  - Basil Poledouris scored it, and the official album did not come until Intrada's in January 2013. (Filmtracks)
 - The Gulf War
   - Iraq invaded Kuwait August 2, 1990. The air war began January 17, 1991, a day before the film opened. Empire called it a casualty of the Gulf War.
   - It was nicknamed the Video Game War because of daily footage from cameras on military aircraft. The ground war began February 24 and the ceasefire came February 28. (Wikipedia)
@@ -109,30 +108,22 @@
 - Vietnam on screen and cartridge
   - Platoon (1986), Full Metal Jacket, Good Morning, Vietnam and Hamburger Hill (all 1987), Born on the Fourth of July (1989) and Air America (August 10, 1990).
   - On the NES: Rambo (Acclaim, May 1988, 600,000 sold), Platoon (Sunsoft, 1988) and Jackal (Konami, October 1988).
-- Naval aviation at the box office
-  - Top Gun opened May 16, 1986, and was the year's top grosser. Konami's NES version in November 1987 sold two million copies, and landing on the carrier was its hardest part. (Wikipedia)
-  - Top Gun: The Second Mission followed in North America in January 1990, with an easier carrier landing.
-  - Red October opened March 2, 1990. Hot Shots!, the Top Gun parody, opened July 31, 1991. Top Gun: Maverick came 36 years after the original.
 
 ## VIII. Sequels, Spinoffs and Comparison Games
 
 - There was no numbered sequel. These are the versions and relatives.
 - Flight of the Intruder (MS-DOS, 1990)
-  - The original, by Rowan Software and Spectrum HoloByte. It added 13 campaign missions, 34 targets, up to eight friendly aircraft and an Air Group Commander mode for designing your own missions.
+  - The original, by Rowan Software and Spectrum HoloByte. It has an additional 13 campaign missions, 34 targets, up to eight friendly aircraft and an Air Group Commander mode for designing your own missions.
   - Landings can be left to the AI. A serial-cable mode even lets one player fly a MiG against you. (GOG, Giant Bomb)
 - Amiga and Atari ST (Mirrorsoft)
   - The same sim moved to the 16-bit machines. Rowan had also done the Amiga and ST Falcon conversions. (Wikipedia, Amiga Power)
-- NES (Imagineering, Mindscape, 1991)
-  - Brought it to a controller with a waypoint map, two arcade-style views and twelve missions. The PC game's keyboard-heavy cockpit is gone.
 - Phantom Air Mission (Europe)
-  - The European NES title, with a reported release in Spain only. That rarity makes it expensive. (Take on the NES Library)
+  - The European NES title, with a reported release in Spain only. That rarity makes it expensive.
 - Turn and Burn: The F-14 Dogfight Simulator (Game Boy, 1992)
   - Imagineering's follow-up flight sim, published by Absolute in North America and Activision in Europe, where it also carried the Phantom Air Mission name.
   - Swaps the Phantom and Intruder for an F-14 with cannons, AIM-54 missiles and ECM. A Super NES sequel, Turn and Burn: No-Fly Zone, followed. (Wikipedia, RegVault)
 - Windows re-release (GOG)
   - The DOS game on modern Windows through DOSBox, with a 196-page manual and map. Re-releases generally used the movie art. (GOG, Giant Bomb)
-- The film tie-in
-  - The movie never got its own game. The NES cart, four months later, is the closest thing.
 - Modern comparison games
   - Wings Over Vietnam (Third Wire, November 8, 2004, Windows)
     - A "Lite" flight sim built on the Strike Fighters engine.
@@ -143,11 +134,6 @@
     - Console arcade air combat with 28 launch aircraft and wingmen.
     - It shares the takeoff and landing ritual, but there it is an optional minigame, and the war is fictional.
     - The There and Back Again achievement requires every takeoff, refueling and landing. (Wikipedia, TrueAchievements)
-  - Project Wingman (Sector D2, December 1, 2020; PC, then Xbox and PS5)
-    - Ace Combat-style flying that began in November 2015 as one developer's portfolio piece. Its Kickstarter raised AU$114,544 against a AU$35,000 goal.
-    - Like the NES game, you work through a mission list and earn credits to buy planes.
-    - It is an alternate-Earth war with mercenaries, not 1972.
-    - You start in trainers inspired by the F-4 Phantom II and the MiG-21. (Wikipedia)
   - DCS World (Eagle Dynamics, 2008; Windows)
     - A free-to-play, modular sim with detailed interactive cockpits.
     - Heatblur's F-4E Phantom II module hit early access in May 2024, with an AI backseater and a Pave Spike laser pod. The NES game folds all that into a D-pad and two buttons.
