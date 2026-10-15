@@ -1,6 +1,8 @@
 # 460 - Flight of the Intruder
 
 - "Experience top-flight realism"
+- Computer Manual (192 pages) - http://lucasabandonware.free.fr/manuels/Flight%20of%20the%20Intruder.pdf
+- NES Manual (32 pages) - https://online.fliphtml5.com/nvci/ypkl/#p=31
 
 ## I. Setup & Premise
 
