@@ -19,5 +19,5 @@ Open with one line of back-of-box copy (the hook the host opens the episode with
 5. **History and Development**: what is actually known about how it was made. Not a repeat of the setup.
 6. **Music and Presentation**: the graphics (what is clear or unclear, what it looks like) and the music.
 7. **Pop Culture**: the themes and motifs around the game and what else was going on in the period it came out. A baseball game gets the big baseball stories of the time; a movie game gets what else that franchise did; a space shooter gets the space and alien movies and news of the day.
-8. **Sequels, Spinoffs and Comparison Games**: every sequel and spinoff, each with a sub-bullet on what it added or improved; then at least four modern games it can be compared to, each for a stated reason.
+8. **Sequels, Spinoffs and Comparison Games**: every sequel and spinoff, each with a sub-bullet on what it added or improved; then at least four modern games it can be compared to. Give each comparison real detail, as three or four sub-bullets: what the game is (developer, year, platform), what it has in common with this game and why that makes it a fair comparison, how the two differ, and a specific moment or mechanic the host can point to.
 9. **Essential Games List**: a real case for and a real case against. Do not repeat lines from earlier sections.
