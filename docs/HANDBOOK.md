@@ -6,6 +6,7 @@ How the repo and the website fit together, and what to do when something happens
 - Making one transcript by hand: [`scripts/HOW-TO-MAKE-A-TRANSCRIPT.md`](../scripts/HOW-TO-MAKE-A-TRANSCRIPT.md)
 - The data files: [`data/README.md`](../data/README.md)
 - Writing reviews: [`reviews/README.md`](../reviews/README.md)
+- Show notes: [`docs/SHOW-NOTES-STYLE.md`](SHOW-NOTES-STYLE.md)
 - Article look and rules: [`docs/ARTICLE-STYLE.md`](ARTICLE-STYLE.md)
 - Reporting problems: [`CONTRIBUTING.md`](../CONTRIBUTING.md) and [`SECURITY.md`](../SECURITY.md)
 
