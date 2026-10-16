@@ -1,6 +1,23 @@
 [
   {
     "type": "episode",
+    "number": 450,
+    "title": "MetalMech: Man & Machine",
+    "feed_title": "450 - MetalMech: Man & Machine",
+    "published": "2026-10-16",
+    "duration_seconds": 2570,
+    "description": "Support NEStalgia directly by becoming a member of our Patreon at https://www.patreon.com/Nestalgia  Members at the $5 and above level get access to our brand new show NEStalgia Bytes. A look at the famicom games you can play without any Japanese knowledge! For More NEStalgia, visit www.NEStalgiacast.com",
+    "audio_url": "https://traffic.megaphone.fm/APO7553193578.mp3",
+    "episode_page": "https://podcasters.spotify.com/pod/show/nestalgia/episodes/450---MetalMech-Man--Machine-e3og56i",
+    "art": "assets/episode-art/450-metalmech-man-machine.jpg",
+    "notes": [
+      "episodes/450-metalmech-man-machine.md"
+    ],
+    "transcript": null,
+    "guid": "d30f0a91-3cfd-4301-ad5c-bb53fc48c243"
+  },
+  {
+    "type": "episode",
     "number": 449,
     "title": "Indiana Jones and the Last Crusade",
     "feed_title": "449 - Indiana Jones and the Last Crusade",
