@@ -1,0 +1,517 @@
+{
+  "episode": 450,
+  "title": "450 - MetalMech: Man & Machine",
+  "generated": "2026-10-16",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "340f24ce3114",
+  "items": [
+    {
+      "name": "Metal Mech: Man & Machine",
+      "kind": "game",
+      "description": "The episode's game: Sculptured Software's 1991 Jaleco NES mech-and-pilot action game.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://tcrf.net/Metal_Mech:_Man_%26_Machine",
+          "label": "The Cutting Room Floor: Metal Mech",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/MetalMech_Man_And_Machine/Images",
+          "label": "Giant Bomb: Metal Mech",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.classic-games.net/nes/metal-mech/",
+          "label": "Classic Games: Metal Mech",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Metal Flame Psybuster",
+      "kind": "game",
+      "description": "The Japanese title; the game came out on the Famicom first, in December 1990.",
+      "timestamp": "05:53",
+      "links": [
+        {
+          "url": "https://www.arcade-history.com/game/54371/",
+          "label": "Arcade History: Metal Flame Psy Buster",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Blaster Master",
+      "kind": "game",
+      "description": "The Sunsoft tank-and-pilot game this one keeps getting compared to; already on the Essential Games List.",
+      "timestamp": "04:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master",
+          "label": "Wikipedia: Blaster Master",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Blaster_Master",
+          "label": "StrategyWiki: Blaster Master",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "135-blaster-master",
+      "episode_title": "BLASTER MASTER"
+    },
+    {
+      "name": "Blaster Master Zero",
+      "kind": "game",
+      "description": "The modern Blaster Master series, for people who want more of that gameplay.",
+      "timestamp": "38:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blaster_Master_Zero",
+          "label": "Wikipedia: Blaster Master Zero",
+          "source": "wikipedia",
+          "note": "2017 action adventure video game"
+        },
+        {
+          "url": "https://www.nintendolife.com/eshop/blaster_master_zero",
+          "label": "Nintendo Life: Blaster Master Zero",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "RoboCop",
+      "kind": "game",
+      "description": "The NES RoboCop game, brought up since the mech looks like the ED-209 enemy.",
+      "timestamp": "01:40",
+      "links": [
+        {
+          "url": "https://www.hardcoregaming101.net/robocop/",
+          "label": "Hardcore Gaming 101: RoboCop",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/RoboCop_(NES)",
+          "label": "StrategyWiki: RoboCop (NES)",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "245-robocop",
+      "episode_title": "RoboCop"
+    },
+    {
+      "name": "RoboCop (film)",
+      "kind": "film_tv_music",
+      "description": "The film whose ED-209 robot the Metal Mech design resembles.",
+      "timestamp": "00:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/RoboCop",
+          "label": "Wikipedia: RoboCop",
+          "source": "wikipedia",
+          "note": "1987 film by Paul Verhoeven"
+        }
+      ]
+    },
+    {
+      "name": "AT-ST",
+      "kind": "other",
+      "description": "The Star Wars walker the mech also reminded one host of.",
+      "timestamp": "00:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Walker_(Star_Wars)",
+          "label": "Wikipedia: Walker (Star Wars)",
+          "source": "wikipedia",
+          "note": "Fictional weapons system in Star Wars"
+        }
+      ]
+    },
+    {
+      "name": "Sculptured Software",
+      "kind": "other",
+      "description": "The Salt Lake City developer behind Metal Mech, later bought by Acclaim.",
+      "timestamp": "05:23",
+      "links": [
+        {
+          "url": "https://giantbomb.com/acclaim-studios-salt-lake-city/3010-1301/",
+          "label": "Giant Bomb: Acclaim Studios Salt Lake City",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.mobygames.com/company/676/",
+          "label": "MobyGames: Acclaim Studios Salt Lake City",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Jaleco",
+      "kind": "other",
+      "description": "The publisher that released Metal Mech in North America and Japan.",
+      "timestamp": "06:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jaleco",
+          "label": "Wikipedia: Jaleco",
+          "source": "wikipedia",
+          "note": "Video game publisher"
+        }
+      ]
+    },
+    {
+      "name": "Super Star Wars",
+      "kind": "game",
+      "description": "The Super Nintendo Star Wars games Sculptured Software later made.",
+      "timestamp": "05:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Star_Wars",
+          "label": "Wikipedia: Super Star Wars",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        }
+      ]
+    },
+    {
+      "name": "Doom (SNES version)",
+      "kind": "game",
+      "description": "Sculptured Software's Super Nintendo port of Doom.",
+      "timestamp": "05:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Doom_(1993_video_game)",
+          "label": "Wikipedia: Doom (1993 video game)",
+          "source": "wikipedia",
+          "note": "First-person shooter game"
+        }
+      ]
+    },
+    {
+      "name": "Piko Interactive",
+      "kind": "company",
+      "description": "The company that held the rights and put Metal Mech on an Evercade cartridge.",
+      "timestamp": "33:41",
+      "links": [
+        {
+          "url": "https://evercade.co.uk/piko-interactive-is-back-on-evercade-with-a-third-collection/",
+          "label": "Evercade: Piko Interactive Collection 3",
+          "source": "other"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Piko_Interactive_Collection_3",
+          "label": "Giant Bomb: Piko Interactive Collection 3",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Evercade",
+      "kind": "hardware",
+      "description": "The retro handheld and cartridge system where Metal Mech can be played legitimately today.",
+      "timestamp": "33:41",
+      "links": [
+        {
+          "url": "https://siliconera.com/?p=835459",
+          "label": "Siliconera: Evercade overview",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Solar Jetman: Hunt for the Golden Warpship",
+      "kind": "game",
+      "description": "The NES game whose jetpack momentum the final level reminded the hosts of.",
+      "timestamp": "28:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Solar_Jetman",
+          "label": "Wikipedia: Solar Jetman",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://tcrf.net/Solar_Jetman:_Hunt_for_the_Golden_Warpship",
+          "label": "The Cutting Room Floor: Solar Jetman",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.giantbomb.com/games/3030-20269/",
+          "label": "Giant Bomb: Solar Jetman",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "374-solar-jetman-hunt-for-the-golden-warpship",
+      "episode_title": "Solar Jetman: Hunt for the Golden Warpship"
+    },
+    {
+      "name": "Titanfall",
+      "kind": "game",
+      "description": "Offered as a modern game where a pilot and mech are both part of the play.",
+      "timestamp": "39:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Titanfall_(video_game)",
+          "label": "Wikipedia: Titanfall (video game)",
+          "source": "wikipedia",
+          "note": "2014 multiplayer first-person shooter video game"
+        },
+        {
+          "url": "https://www.slashgear.com/titanfall-review-11320133/",
+          "label": "SlashGear: Titanfall review",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Titanfall 2",
+      "kind": "game",
+      "description": "The sequel, whose campaign splits time between pilot and Titan.",
+      "timestamp": "39:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Titanfall_2",
+          "label": "Wikipedia: Titanfall 2",
+          "source": "wikipedia",
+          "note": "2016 first-person shooter video game"
+        }
+      ]
+    },
+    {
+      "name": "MechAssault",
+      "kind": "game",
+      "description": "The early Xbox mech game the hosts recalled, where you never leave the mech.",
+      "timestamp": "39:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/MechAssault",
+          "label": "Wikipedia: MechAssault",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        },
+        {
+          "url": "https://news.microsoft.com/2002/03/22/mechassault-rumbles-onto-xbox",
+          "label": "Microsoft: MechAssault Rumbles Onto Xbox",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts III",
+      "kind": "game",
+      "description": "Its Toy Box world has a mech you pilot, which came up as an example.",
+      "timestamp": "39:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_III",
+          "label": "Wikipedia: Kingdom Hearts III",
+          "source": "wikipedia",
+          "note": "2019 video game"
+        },
+        {
+          "url": "https://www.khwiki.com/Gigas",
+          "label": "Kingdom Hearts Wiki: Gigas",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Jak and Daxter",
+      "kind": "game",
+      "description": "Guessed at as a platformer that might have a mech gimmick level.",
+      "timestamp": "39:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jak_and_Daxter%3A_The_Precursor_Legacy",
+          "label": "Wikipedia: Jak and Daxter: The Precursor Legacy",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "Daytona USA",
+      "kind": "game",
+      "description": "Used as a joke about getting out of the car in a racing game.",
+      "timestamp": "39:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Daytona_USA",
+          "label": "Wikipedia: Daytona USA",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Driver 2",
+      "kind": "game",
+      "description": "The game where you can actually get out of the car.",
+      "timestamp": "41:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Driver_2",
+          "label": "Wikipedia: Driver 2",
+          "source": "wikipedia",
+          "note": "2000 action driving video game"
+        }
+      ]
+    },
+    {
+      "name": "Driver (video game series)",
+      "kind": "game",
+      "description": "The series the hosts were curious about; Driver 3 was praised.",
+      "timestamp": "40:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Driver_(series)",
+          "label": "Wikipedia: Driver (series)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Grand Theft Auto",
+      "kind": "game",
+      "description": "Joked about as a game people claimed ran on graphing calculators.",
+      "timestamp": "08:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+          "label": "Wikipedia: Grand Theft Auto",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Todd Howard",
+      "kind": "person",
+      "description": "The Bethesda director jokingly credited with making Skyrim alone.",
+      "timestamp": "31:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Todd_Howard",
+          "label": "Wikipedia: Todd Howard",
+          "source": "wikipedia",
+          "note": "American video game designer (born 1970)"
+        }
+      ]
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "kind": "game",
+      "description": "The Bethesda game joked about for its endless ports.",
+      "timestamp": "31:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V%3A_Skyrim",
+          "label": "Wikipedia: The Elder Scrolls V: Skyrim",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "TI-89",
+      "kind": "other",
+      "description": "The graphing calculator the hosts remembered playing games on.",
+      "timestamp": "32:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/TI-89_series",
+          "label": "Wikipedia: TI-89 series",
+          "source": "wikipedia",
+          "note": "Series of graphing calculators"
+        }
+      ]
+    },
+    {
+      "name": "Gundam",
+      "kind": "other",
+      "description": "Cited as proof that bipedal mechs exist.",
+      "timestamp": "42:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gundam",
+          "label": "Wikipedia: Gundam",
+          "source": "wikipedia",
+          "note": "Japanese media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Steven Spielberg",
+      "kind": "person",
+      "description": "Joked about for supposed claims about lizard people.",
+      "timestamp": "23:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Steven_Spielberg",
+          "label": "Wikipedia: Steven Spielberg",
+          "source": "wikipedia",
+          "note": "American filmmaker (born 1946)"
+        }
+      ]
+    },
+    {
+      "name": "Disclosure Day",
+      "kind": "other",
+      "description": "The Spielberg film the hosts joked about when the aliens-as-Atlanteans plot came up.",
+      "timestamp": "23:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Disclosure_Day",
+          "label": "Wikipedia: Disclosure Day",
+          "source": "wikipedia",
+          "note": "2026 film by Steven Spielberg"
+        }
+      ]
+    },
+    {
+      "name": "Seal (musician)",
+      "kind": "person",
+      "description": "Joked about as one of the seal people.",
+      "timestamp": "24:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Seal_(musician)",
+          "label": "Wikipedia: Seal (musician)",
+          "source": "wikipedia",
+          "note": "English singer (born 1963)"
+        }
+      ]
+    },
+    {
+      "name": "Kiss from a Rose",
+      "kind": "film_tv_music",
+      "description": "The Seal song the hosts joked about.",
+      "timestamp": "24:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kiss_from_a_Rose",
+          "label": "Wikipedia: Kiss from a Rose",
+          "source": "wikipedia",
+          "note": "1994 single by Seal"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "website_or_article",
+      "description": "NEStalgia's list of must-play NES games; Blaster Master is already on it.",
+      "timestamp": "34:29",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}
