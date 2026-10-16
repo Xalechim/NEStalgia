@@ -2,11 +2,18 @@ name: Update from podcast feed
 
 # Refreshes everything that comes from outside the repo: the podcast feed (new episodes, cover art), your episode
 # spreadsheet (verdicts, genres, the "Up next" episode), Wikipedia intros and box art for covers that need one.
-# Runs every 4 hours, extra often on Fridays when episodes come out, and any time you press "Run workflow" on the Actions tab.
+# Runs every 4 hours, extra often on Fridays when episodes come out (starting at 5am Eastern), and any time you press
+# "Run workflow" on the Actions tab. GitHub's schedule is best effort: it can start a run late, or skip one when it is busy,
+# so Friday morning has several tries around 5am Eastern. The cron times are UTC; 09:xx is 5am during daylight saving time
+# and 10:xx is 5am in winter, so both are listed and the one that does not match is just an early or late extra check.
 # If anything changed it commits it and rebuilds the website.
 on:
   schedule:
     - cron: "17 */4 * * *"
+    - cron: "7 9 * * 5"
+    - cron: "37 9 * * 5"
+    - cron: "7 10 * * 5"
+    - cron: "37 10 * * 5"
     - cron: "30 11 * * 5"
     - cron: "30 15 * * 5"
     - cron: "30 15 * * 6"

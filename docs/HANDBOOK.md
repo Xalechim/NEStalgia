@@ -30,7 +30,7 @@ How the repo and the website fit together, and what to do when something happens
 
 | Workflow | When | What it does |
 | --- | --- | --- |
-| `update-from-feed.yml` | Every 4 hours, plus Fridays 11:30 and 15:30 UTC and Saturday 15:30 UTC, or on demand | Reads the feed and the spreadsheet, fetches new cover art and Wikipedia intros, swaps generic covers for NES box art, commits what changed, and starts a deploy only if it committed |
+| `update-from-feed.yml` | Every 4 hours, plus several tries on Friday around 5am Eastern (09:07 to 10:37 UTC), Fridays 11:30 and 15:30 UTC and Saturday 15:30 UTC, or on demand | Reads the feed and the spreadsheet, fetches new cover art and Wikipedia intros, swaps generic covers for NES box art, commits what changed, and starts a deploy only if it committed |
 | `deploy-site.yml` | Every push to `main`, or on demand | Builds the site, builds the search index, publishes to GitHub Pages |
 | `announce-episode.yml` | After each deploy | Posts any new episode to Discord, once. Needs the repository secret `DISCORD_WEBHOOK_URL`, and does nothing without it |
 
