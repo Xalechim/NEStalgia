@@ -101,9 +101,8 @@ def notify(title, message):
 
 def fetch_feed():
     """The feed's items, oldest first: dicts with guid, title, kind, number, name, key, published, audio_url."""
-    raw = urllib.request.urlopen(urllib.request.Request(B.FEED, headers={"User-Agent": "Mozilla/5.0"}), timeout=60).read()
     items = []
-    for it in ET.fromstring(raw).find("channel").findall("item"):
+    for it in B.fetch_feed().findall("item"):  # the freshest copy (see build_episode_data.FEED_ADDRESSES)
         title = (it.findtext("title") or "").strip()
         kind, num, name, key = B.classify(title)
         enc = it.find("enclosure")

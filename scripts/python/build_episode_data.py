@@ -15,6 +15,11 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 FEED = "https://anchor.fm/s/5808ab8/podcast/rss"
+# The feed's host caches the exact address above on its edge servers for days, and a server can keep handing out the previous
+# copy for hours after a new episode goes live (it did on 2026-10-16: our check at 9:17am Eastern got the old feed while the
+# real one had been updated at 3:26am). A trailing slash, or the capitalised "RSS", is a different cache entry, so it always comes
+# straight from the source. Ask for those first, then the normal address, and use whichever copy lists the most episodes.
+FEED_ADDRESSES = [FEED + "/", FEED[:-3] + "RSS", FEED]
 REPO = Path(__file__).resolve().parents[2]
 NS = {"i": "http://www.itunes.com/dtds/podcast-1.0.dtd"}
 
@@ -123,9 +128,26 @@ def keep_missing(rows, old_file):
     return rows
 
 
+def fetch_feed():
+    """The <channel> element of the freshest copy of the feed (see FEED_ADDRESSES)."""
+    best, best_n = None, -1
+    for url in FEED_ADDRESSES:
+        try:
+            raw = urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0", "Cache-Control": "no-cache"}), timeout=60).read()
+            channel = ET.fromstring(raw).find("channel")
+            n = len(channel.findall("item"))
+        except Exception as e:  # one address being down is fine as long as another works
+            print(f"   feed address {url} failed: {e}")
+            continue
+        if n > best_n:
+            best, best_n = channel, n
+    if best is None:
+        raise RuntimeError("could not read the podcast feed from any address")
+    return best
+
+
 def main(fetch_art=False):
-    raw = urllib.request.urlopen(urllib.request.Request(FEED, headers={"User-Agent": "Mozilla/5.0"}), timeout=60).read()
-    channel = ET.fromstring(raw).find("channel")
+    channel = fetch_feed()
     seen, rows = set(), []
     for it in channel.findall("item"):
         title = html.unescape(it.findtext("title") or "").strip()
