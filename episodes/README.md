@@ -455,7 +455,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 447 | Bill Elliot's NASCAR Challenge | [notes](447-bill-elliots-nascar-challenge.md), [transcript](../transcripts/447-bill-elliot-nascar-challenge.md) |
 | 448 | Harlem Globetrotters | [notes](448-harlem-globetrotters.md), [transcript](../transcripts/448-harlem-globetrotters.md) |
 | 449 | Indiana Jones and the Last Crusade | [notes](449-indiana-jones-and-the-last-crusade.md), [transcript](../transcripts/449-indiana-jones-and-the-last-crusade.md) |
-| 450 | MetalMech: Man & Machine | [notes](450-metalmech-man-machine.md) |
+| 450 | MetalMech: Man & Machine | [notes](450-metalmech-man-machine.md), [transcript](../transcripts/450-metalmech-man-machine.md) |
 | 451 | Power Blade *(unreleased)* | [notes](451-power-blade.md) |
 | 452 | Totally Rad *(unreleased)* | [notes](452-totally-rad.md) |
 | 453 | Whomp 'Em *(unreleased)* | [notes](453-whomp-em.md) |
