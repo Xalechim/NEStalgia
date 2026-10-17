@@ -867,6 +867,160 @@
       "layout": "cards",
       "card_level": "h2",
       "media_side": true
+    },
+    "/articles/best-of-1989": {
+      "title": "The Top 10 NES Games of 1989 (Our Year-End Ranking) · NEStalgia",
+      "description": "Our ranking of the top 10 NES games of 1989, from Gyruss and The Guardian Legend up to Mega Man 2, Faxanadu and Ninja Gaiden, with the year's stats.",
+      "layout": "countdown",
+      "special": "s006-best-of-1989",
+      "heading": "Our top ten",
+      "intro": "Our top ten NES games of 1989, counted down from number ten to number one. Every game links to the episode where we covered it.",
+      "stats": {
+        "year": 1989,
+        "intro": "1989 was the year the NES grew up. Here is the year at a glance."
+      },
+      "related": {
+        "heading": "Every NES game of 1989 we covered",
+        "year": 1989,
+        "see_all": {
+          "year": 1989
+        },
+        "see_all_label": "See all of 1989 with our verdicts"
+      },
+      "ranks": {
+        "10": 162,
+        "9": 176,
+        "8": 238,
+        "7": 164,
+        "6": 246,
+        "5": 250,
+        "4": 216,
+        "3": 190,
+        "2": 207,
+        "1": 170
+      },
+      "screenshots": {
+        "1": [
+          {
+            "file": "ninja-gaiden-nes-screenshot-title.png",
+            "alt": "Ninja Gaiden: the title screen",
+            "px": true
+          },
+          {
+            "file": "ninja-gaiden-nes-screenshot-gameplay.png",
+            "alt": "Ninja Gaiden: Ryu hangs from a pole on a brick city street while a thug approaches, with the stage, timer and health bars at the top",
+            "px": true
+          }
+        ],
+        "2": [
+          {
+            "file": "faxanadu-nes-screenshot-title.png",
+            "alt": "Faxanadu: the title screen",
+            "px": true
+          },
+          {
+            "file": "faxanadu-nes-screenshot-gameplay.png",
+            "alt": "Faxanadu: the hero walks toward a robed villager in front of a stone castle gate, with the magic, power, experience and gold meters at the top",
+            "px": true
+          }
+        ],
+        "3": [
+          {
+            "file": "mega-man-2-nes-screenshot-title.png",
+            "alt": "Mega Man 2: the title screen",
+            "px": true
+          },
+          {
+            "file": "mega-man-2-nes-screenshot-gameplay.png",
+            "alt": "Mega Man 2: Mega Man stands on an icy blue ledge facing two orange robots, with the health bar at the left",
+            "px": true
+          }
+        ],
+        "4": [
+          {
+            "file": "ducktales-nes-screenshot-title.png",
+            "alt": "DuckTales: the title screen",
+            "px": true
+          },
+          {
+            "file": "ducktales-nes-screenshot-gameplay.png",
+            "alt": "DuckTales: Scrooge McDuck stands in a jungle clearing under thick green trees with two treasure chests, with money, health and time at the top",
+            "px": true
+          }
+        ],
+        "5": [
+          {
+            "file": "willow-nes-screenshot-title.png",
+            "alt": "Willow: the title screen",
+            "px": true
+          },
+          {
+            "file": "willow-nes-screenshot-gameplay.png",
+            "alt": "Willow: Willow walks a grassy path through a forest, with the experience and magic readout at the upper left",
+            "px": true
+          }
+        ],
+        "6": [
+          {
+            "file": "shadowgate-nes-screenshot-title.png",
+            "alt": "Shadowgate: the title screen",
+            "px": true
+          },
+          {
+            "file": "shadowgate-nes-screenshot-gameplay.png",
+            "alt": "Shadowgate: a first-person view of a white stone hallway with a wooden door, beside the goods list and the verb menu with Look, Open, Use and Speak",
+            "px": true
+          }
+        ],
+        "7": [
+          {
+            "file": "tecmo-bowl-nes-screenshot-title.png",
+            "alt": "Tecmo Bowl: the title screen",
+            "px": true
+          },
+          {
+            "file": "tecmo-bowl-nes-screenshot-gameplay.png",
+            "alt": "Tecmo Bowl: an overhead view of a football play with a Marino versus Marshall score bar, the clock and sacks at the top",
+            "px": true
+          }
+        ],
+        "8": [
+          {
+            "file": "archon-nes-screenshot-title.png",
+            "alt": "Archon: the title screen",
+            "px": true
+          },
+          {
+            "file": "archon-nes-screenshot-gameplay.png",
+            "alt": "Archon: a wizard-like fighter circles among gravestones in a green arena while a large brown creature lumbers toward it, with energy bars at the bottom",
+            "px": true
+          }
+        ],
+        "9": [
+          {
+            "file": "the-guardian-legend-nes-screenshot-title.png",
+            "alt": "The Guardian Legend: the title screen",
+            "px": true
+          },
+          {
+            "file": "the-guardian-legend-nes-screenshot-gameplay.png",
+            "alt": "The Guardian Legend: the robot guardian in a green arena with gray walls faces red spider creatures, with the chip count and area readout below",
+            "px": true
+          }
+        ],
+        "10": [
+          {
+            "file": "gyruss-nes-screenshot-title.png",
+            "alt": "Gyruss: the title screen",
+            "px": true
+          },
+          {
+            "file": "gyruss-nes-screenshot-gameplay.png",
+            "alt": "Gyruss: a lone ship in open space faces a cluster of blue and white enemy ships, with the score and stage number at the top",
+            "px": true
+          }
+        ]
+      }
     }
   },
   "episode_guides": [
@@ -1054,6 +1208,61 @@
       "number": 133,
       "href": "/articles/best-of-1988/#rank-1",
       "label": "Ranked #1 in our Top 10 NES Games of 1988"
+    },
+    {
+      "key": "s006-best-of-1989",
+      "href": "/articles/best-of-1989/",
+      "label": "Read the written recap: The Top 10 NES Games of 1989"
+    },
+    {
+      "number": 162,
+      "href": "/articles/best-of-1989/#rank-10",
+      "label": "Ranked #10 in our Top 10 NES Games of 1989"
+    },
+    {
+      "number": 176,
+      "href": "/articles/best-of-1989/#rank-9",
+      "label": "Ranked #9 in our Top 10 NES Games of 1989"
+    },
+    {
+      "number": 238,
+      "href": "/articles/best-of-1989/#rank-8",
+      "label": "Ranked #8 in our Top 10 NES Games of 1989"
+    },
+    {
+      "number": 164,
+      "href": "/articles/best-of-1989/#rank-7",
+      "label": "Ranked #7 in our Top 10 NES Games of 1989"
+    },
+    {
+      "number": 246,
+      "href": "/articles/best-of-1989/#rank-6",
+      "label": "Ranked #6 in our Top 10 NES Games of 1989"
+    },
+    {
+      "number": 250,
+      "href": "/articles/best-of-1989/#rank-5",
+      "label": "Ranked #5 in our Top 10 NES Games of 1989"
+    },
+    {
+      "number": 216,
+      "href": "/articles/best-of-1989/#rank-4",
+      "label": "Ranked #4 in our Top 10 NES Games of 1989"
+    },
+    {
+      "number": 190,
+      "href": "/articles/best-of-1989/#rank-3",
+      "label": "Ranked #3 in our Top 10 NES Games of 1989"
+    },
+    {
+      "number": 207,
+      "href": "/articles/best-of-1989/#rank-2",
+      "label": "Ranked #2 in our Top 10 NES Games of 1989"
+    },
+    {
+      "number": 170,
+      "href": "/articles/best-of-1989/#rank-1",
+      "label": "Ranked #1 in our Top 10 NES Games of 1989"
     },
     {
       "number": 54,
