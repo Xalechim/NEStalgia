@@ -9,6 +9,10 @@ downloads every image, and writes:
   site-src/migrated/media/          every image used, hosted locally
 
 Needs: pip install beautifulsoup4 pillow. Safe to re-run; downloads are cached.
+
+NOTE: the articles now live as one file each in articles/ (see articles/README.md), and articles.json is no longer kept in the
+repo. This script is only the record of how the old site was brought over; if it is run again it writes articles.json, and an
+article file with the same slug in articles/ takes priority over the entry in it.
 """
 import hashlib
 import json

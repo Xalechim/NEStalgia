@@ -23,6 +23,7 @@ from PIL import Image
 sys.path.insert(0, str(Path(__file__).parent))
 from textutil import nice_case  # noqa: E402
 from build_episode_data import local_files  # noqa: E402
+from article_files import load_articles  # noqa: E402
 from wikipedia_intros import boilerplate_only  # noqa: E402
 import share_cards  # noqa: E402
 import bytes_info  # noqa: E402
@@ -295,7 +296,7 @@ def figure_shots(h):
             alt = re.search(r'alt="([^"]*)"', img)
             cap = alt.group(1) if alt else ""
         return '<figure class="shot">%s%s</figure>' % (img, "<figcaption>%s</figcaption>" % cap if cap else "")
-    return re.sub(r'<div class="gallery">(<img [^>]*>)</div>\s*(?:<p><em>(.*?)</em></p>)?', f, h, flags=re.S)
+    return re.sub(r'<div class="gallery">\s*(<img [^>]*>)\s*</div>\s*(?:<p><em>(.*?)</em></p>)?', f, h, flags=re.S)
 
 
 def carousel_html(items, label):
@@ -384,7 +385,7 @@ def countdown_html(a, cfg, data, ep_map):
     if has_text(before) or quote or has_text(after) or cfg.get("stats"):
         out.append("<h2>%s</h2>" % E(cfg.get("heading", "Our top five")))
 
-    pat = r'<figure><img src="([^"]*)"[^>]*><figcaption>(.*?)</figcaption></figure>(.*?)(?=<figure>|\Z)'
+    pat = r'<figure>(?:<img src="([^"]*)"[^>]*>)?<figcaption>(.*?)</figcaption></figure>(.*?)(?=<figure>|\Z)'
     for _cover, caption, rest in re.findall(pat, body, re.S):
         ps = [p.strip() for p in re.findall(r"<p>(.*?)</p>", caption, re.S)]
         if not ps:
@@ -987,7 +988,10 @@ def load_migrated():
     def j(name):
         f = MIG / name
         return json.loads(f.read_text()) if f.exists() else None
-    return j("articles.json") or [], j("pages.json") or {}, j("redirects.json") or {}
+    articles = {a["slug"]: a for a in (j("articles.json") or [])}  # the old single file, if it is still around
+    for a in load_articles():  # one plain-text file per article in articles/ (these win)
+        articles[a["slug"]] = a
+    return list(articles.values()), j("pages.json") or {}, j("redirects.json") or {}
 
 
 def episode_targets(data, redirects):
@@ -1039,6 +1043,7 @@ def build_migrated(data, write, card_html):
         shutil.copytree(MIG / "media", OUT / "media")
 
     # Articles keep their original addresses
+    articles.sort(key=lambda a: a["slug"])  # newest first; articles on the same day stay in a steady order
     articles.sort(key=lambda a: a["date"], reverse=True)
     for a in articles:  # Squarespace sometimes stores a tiny blank placeholder as the thumbnail
         f = MIG / "media" / Path((a.get("image") or "").replace("{BASE}/media/", "")).name

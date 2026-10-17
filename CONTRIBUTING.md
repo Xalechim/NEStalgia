@@ -28,6 +28,7 @@ Pull requests are welcome for small fixes: typos, transcript wording, links and 
 | `episodes/` | Show notes, one file per episode | Yes |
 | `transcripts/` | Auto-generated transcripts (`.md` and `.vtt`) | Yes, for corrections |
 | `reviews/` | The written Review shown on episode pages | Yes |
+| `articles/` | The website's articles, one plain-text file each | Yes |
 | `data/` | The episode list, verdicts and other generated data | No, it's refreshed automatically |
 | `site-src/` | The website's pages, styles, scripts and articles | Yes, with care |
 | `scripts/` | The tools that build and update the site | Yes, with care |

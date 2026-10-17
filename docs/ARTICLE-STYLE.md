@@ -46,7 +46,7 @@ Only two: **stat tiles** for numbers ("the year in numbers") and the **note box*
 
 ## Adding an article
 
-1. Add it to `site-src/migrated/articles.json` (`path`, `slug`, `title`, `date`, `body` as HTML).
+1. Add it as a file in `articles/` (details at the top, then Markdown; see `articles/README.md`).
 2. Pick its shape and options under `articles` in `site-src/seo.json`, with a `title`, a `description`, a `summary`, and `ranks` or `related` if it covers episodes.
 3. Add `episode_guides` entries to link back to it from the episode pages.
 4. Build and check the page: `python3 scripts/python/build_site.py`, then `python3 -m http.server --directory site`.

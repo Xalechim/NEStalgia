@@ -7,6 +7,7 @@ How the repo and the website fit together, and what to do when something happens
 - The data files: [`data/README.md`](../data/README.md)
 - Writing reviews: [`reviews/README.md`](../reviews/README.md)
 - Show notes: [`docs/SHOW-NOTES-STYLE.md`](SHOW-NOTES-STYLE.md)
+- Writing and editing articles: [`articles/README.md`](../articles/README.md)
 - Article look and rules: [`docs/ARTICLE-STYLE.md`](ARTICLE-STYLE.md)
 - Reporting problems: [`CONTRIBUTING.md`](../CONTRIBUTING.md) and [`SECURITY.md`](../SECURITY.md)
 
@@ -22,7 +23,7 @@ How the repo and the website fit together, and what to do when something happens
 ```
 
 - **Sources of truth.** The podcast feed (episodes, dates, audio links, cover art) and the show's Google Sheet (verdicts, genres, developers, years, the "Up next" box, Bytes rows) live outside the repo. Everything in `data/` is generated from them. Don't edit `data/game-info.json` by hand, because the next refresh overwrites it. Fix it in the sheet.
-- **Content we write.** `episodes/` (show notes), `transcripts/`, `reviews/` and `site-src/` are edited by hand.
+- **Content we write.** `episodes/` (show notes), `transcripts/`, `reviews/`, `articles/` and `site-src/` are edited by hand.
 - **The build.** `scripts/python/build_site.py` turns all of it into the static site in `site/` (not stored in git), and Pagefind builds the search index.
 - **Deploy.** GitHub Actions builds and publishes on every push to `main`.
 
@@ -58,7 +59,7 @@ Other launcher commands, when you need just one step, are in `scripts/sub-comman
 **Write or change a review.** `reviews/NNN-game-name.md`, shown as the first tab on the episode page. Read [`reviews/README.md`](../reviews/README.md) for the voice: write as "we", say a unanimous vote once without naming voters, never write "one of us".
 
 **Write an article.**
-1. Add the article to `site-src/migrated/articles.json` (`path`, `slug`, `title`, `date`, `body` as HTML; use `{BASE}` for internal links and media).
+1. Add a file `articles/your-article.md`: a few lines of details (title, address, date) and then the article in plain Markdown. [`articles/README.md`](../articles/README.md) explains the format. To change an existing article, open its file there and edit it.
 2. Put images in `site-src/migrated/media/`.
 3. Set its search title and description in `site-src/seo.json` under `articles`.
 4. For a ranking article (Top 5, Top 10, a themed list), use the `countdown` layout in `seo.json`: `ranks` maps each rank to an episode number, `screenshots` lists images per rank, and options like `heading`, `numbered`, `intro_label` and `listen_label` change the labels. `stats` and `special` add the year-in-numbers tiles and the link to the special episode.
