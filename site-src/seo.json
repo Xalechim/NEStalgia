@@ -872,12 +872,12 @@
       "title": "The Top 10 NES Games of 1989 (Our Year-End Ranking) · NEStalgia",
       "description": "Our ranking of the top 10 NES games of 1989, from Gyruss and The Guardian Legend up to Mega Man 2, Faxanadu and Ninja Gaiden, with the year's stats.",
       "layout": "countdown",
-      "special": "s006-best-of-1989",
+      "special": "s006-the-best-of-1989",
       "heading": "Our top ten",
       "intro": "Our top ten NES games of 1989, counted down from number ten to number one. Every game links to the episode where we covered it.",
       "stats": {
         "year": 1989,
-        "intro": "1989 was the year the NES grew up. Here is the year at a glance."
+        "intro": "1989 in numbers, counting every NES game we covered that year."
       },
       "related": {
         "heading": "Every NES game of 1989 we covered",
@@ -1020,7 +1020,8 @@
             "px": true
           }
         ]
-      }
+      },
+      "summary": "Our ranking of the ten best NES games of 1989, counted down from Gyruss to Ninja Gaiden, with the year's numbers and how each one did on the Essential Games List."
     }
   },
   "episode_guides": [
@@ -1210,7 +1211,7 @@
       "label": "Ranked #1 in our Top 10 NES Games of 1988"
     },
     {
-      "key": "s006-best-of-1989",
+      "key": "s006-the-best-of-1989",
       "href": "/articles/best-of-1989/",
       "label": "Read the written recap: The Top 10 NES Games of 1989"
     },
