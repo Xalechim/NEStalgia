@@ -457,14 +457,14 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 449 | Indiana Jones and the Last Crusade | [notes](449-indiana-jones-and-the-last-crusade.md), [transcript](../transcripts/449-indiana-jones-and-the-last-crusade.md) |
 | 450 | MetalMech: Man & Machine | [notes](450-metalmech-man-machine.md), [transcript](../transcripts/450-metalmech-man-machine.md) |
 | 451 | Power Blade | [notes](451-power-blade.md), [transcript](../transcripts/451-power-blade.md) |
-| 452 | Totally Rad *(unreleased)* | [notes](452-totally-rad.md) |
-| 453 | Whomp 'Em *(unreleased)* | [notes](453-whomp-em.md) |
-| 454 | Kiwi Kraze: A Bird-Brained Adventure *(unreleased)* | [notes](454-kiwi-kraze-a-bird-brained-adventure.md) |
-| 455 | Nobunaga's Ambition II *(unreleased)* | [notes](455-nobunagas-ambition-ii.md) |
-| 456 | RoboCop 2 *(unreleased)* | [notes](456-robocop-2.md) |
-| 457 | World Champ *(unreleased)* | [notes](457-world-champ.md) |
-| 458 | Beetlejuice *(unreleased)* | [notes](458-beetlejuice.md) |
-| 459 | Family Feud *(unreleased)* | [notes](459-family-feud.md) |
+| 452 | Totally Rad *(unreleased)* | [notes](452-totally-rad.md), [transcript](../transcripts/452-totally-rad.md) |
+| 453 | Whomp 'Em *(unreleased)* | [notes](453-whomp-em.md), [transcript](../transcripts/453-whomp-em.md) |
+| 454 | Kiwi Kraze: A Bird-Brained Adventure *(unreleased)* | [notes](454-kiwi-kraze-a-bird-brained-adventure.md), [transcript](../transcripts/454-kiwi-kraze-a-bird-brained-adventure.md) |
+| 455 | Nobunaga's Ambition II *(unreleased)* | [notes](455-nobunagas-ambition-ii.md), [transcript](../transcripts/455-nobunagas-ambition-ii.md) |
+| 456 | RoboCop 2 *(unreleased)* | [notes](456-robocop-2.md), [transcript](../transcripts/456-robocop-2.md) |
+| 457 | World Champ *(unreleased)* | [notes](457-world-champ.md), [transcript](../transcripts/457-world-champ.md) |
+| 458 | Beetlejuice *(unreleased)* | [notes](458-beetlejuice.md), [transcript](../transcripts/458-beetlejuice.md) |
+| 459 | Family Feud *(unreleased)* | [notes](459-family-feud.md), [transcript](../transcripts/459-family-feud.md) |
 | 460 | Flight of the Intruder *(unreleased)* | [notes](460-flight-of-the-intruder.md) |
 
 ## Specials
