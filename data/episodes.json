@@ -1,6 +1,23 @@
 [
   {
     "type": "episode",
+    "number": 451,
+    "title": "Power Blade",
+    "feed_title": "451 - Power Blade",
+    "published": "2026-10-23",
+    "duration_seconds": 2927,
+    "description": "Support NEStalgia directly by becoming a member of our Patreon at https://www.patreon.com/Nestalgia  Members at the $5 and above level get access to our brand new show NEStalgia Bytes. A look at the famicom games you can play without any Japanese knowledge! For More NEStalgia, visit www.NEStalgiacast.com",
+    "audio_url": "https://traffic.megaphone.fm/APO6733142549.mp3",
+    "episode_page": "https://podcasters.spotify.com/pod/show/nestalgia/episodes/451---Power-Blade-e3ojp7p",
+    "art": "assets/episode-art/451-power-blade.jpg",
+    "notes": [
+      "episodes/451-power-blade.md"
+    ],
+    "transcript": "t",
+    "guid": "21f9556a-9b45-483f-b526-76d6237758af"
+  },
+  {
+    "type": "episode",
     "number": 450,
     "title": "MetalMech: Man & Machine",
     "feed_title": "450 - MetalMech: Man & Machine",
