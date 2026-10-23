@@ -1,0 +1,595 @@
+{
+  "episode": 451,
+  "title": "451 - Power Blade",
+  "generated": "2026-10-23",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "af52d620ae27",
+  "items": [
+    {
+      "name": "Power Blade",
+      "kind": "game",
+      "description": "The episode's game: Natsume's 1991 Taito NES action platformer starring Nova and his boomerang.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://www.hardcoregaming101.net/power-blade/",
+          "label": "Hardcore Gaming 101: Power Blade / Power Blazer",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Power_Blade",
+          "label": "Giant Bomb: Power Blade",
+          "source": "reference"
+        },
+        {
+          "url": "https://mobygames.com/game/12333/power-blade/trivia",
+          "label": "MobyGames: Power Blade trivia",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Power Blazer",
+      "kind": "game",
+      "description": "The 1990 Famicom original, a harder Mega Man style game that Power Blade completely redesigned.",
+      "timestamp": "09:53",
+      "links": [
+        {
+          "url": "https://www.honestgamers.com/9916/nes/power-blazer/review.html",
+          "label": "HonestGamers: Power Blazer review",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Taito",
+      "kind": "company",
+      "description": "Published Power Blade in North America.",
+      "timestamp": "09:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Taito",
+          "label": "Wikipedia: Taito",
+          "source": "wikipedia",
+          "note": "Japanese video game company and arcade operator"
+        }
+      ]
+    },
+    {
+      "name": "Harvest Moon",
+      "kind": "game",
+      "description": "The farming series Natsume went on to create.",
+      "timestamp": "09:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Story_of_Seasons",
+          "label": "Wikipedia: Story of Seasons",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Shadow of the Ninja",
+      "kind": "game",
+      "description": "Natsume's earlier NES ninja game, which we already played and liked.",
+      "timestamp": "09:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shadow_of_the_Ninja",
+          "label": "Wikipedia: Shadow of the Ninja",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/shadow-of-the-ninja/",
+          "label": "Hardcore Gaming 101: Shadow of the Ninja",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "414-shadow-of-the-ninja",
+      "episode_title": "Shadow of the Ninja"
+    },
+    {
+      "name": "Duke Nukem",
+      "kind": "game",
+      "description": "Joked about as who Nova resembles in the cutscenes.",
+      "timestamp": "02:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Duke_Nukem",
+          "label": "Wikipedia: Duke Nukem",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "kind": "person",
+      "description": "The actor Nova's title screen and box art resemble.",
+      "timestamp": "02:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+          "label": "Wikipedia: Arnold Schwarzenegger",
+          "source": "wikipedia",
+          "note": "Austrian and American bodybuilder, actor and politician (born 1947)"
+        }
+      ]
+    },
+    {
+      "name": "The Terminator",
+      "kind": "film_tv_music",
+      "description": "Nova's box art looks like Arnold in the first film.",
+      "timestamp": "04:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Terminator",
+          "label": "Wikipedia: The Terminator",
+          "source": "wikipedia",
+          "note": "1984 film by James Cameron"
+        }
+      ]
+    },
+    {
+      "name": "Terminator 2: Judgment Day",
+      "kind": "film_tv_music",
+      "description": "The film where Arnold plays the good guy, which fits Nova in game.",
+      "timestamp": "04:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Terminator_2%3A_Judgment_Day",
+          "label": "Wikipedia: Terminator 2: Judgment Day",
+          "source": "wikipedia",
+          "note": "1991 film by James Cameron"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars prequel trilogy",
+      "kind": "film_tv_music",
+      "description": "Joke about watching Star Wars out of order.",
+      "timestamp": "05:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Wars_prequel_trilogy",
+          "label": "Wikipedia: Star Wars prequel trilogy",
+          "source": "wikipedia",
+          "note": "Second film trilogy in the Star Wars franchise"
+        }
+      ]
+    },
+    {
+      "name": "Y2K",
+      "kind": "event_or_term",
+      "description": "Brought up when talking about computers taking over society.",
+      "timestamp": "08:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Year_2000_problem",
+          "label": "Wikipedia: Year 2000 problem",
+          "source": "wikipedia",
+          "note": "Computer bugs related to the year 2000"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man",
+      "kind": "game",
+      "description": "Power Blazer was a Mega Man style game, and Power Blade lets you pick stages in any order.",
+      "timestamp": "11:08",
+      "links": [
+        {
+          "url": "https://strategywiki.org/wiki/Mega_Man",
+          "label": "StrategyWiki: Mega Man",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Rygar",
+      "kind": "game",
+      "description": "An earlier game we played that was also quick to learn and pick up.",
+      "timestamp": "13:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rygar",
+          "label": "Wikipedia: Rygar",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Rygar_(NES)",
+          "label": "StrategyWiki: Rygar (NES)",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "050-rygar",
+      "episode_title": "RYGAR"
+    },
+    {
+      "name": "Metal Mech: Man & Machine",
+      "kind": "game",
+      "description": "Last week's game, which also hid its level goal behind an item hunt.",
+      "timestamp": "14:50",
+      "links": [
+        {
+          "url": "https://tcrf.net/Metal_Mech:_Man_%26_Machine",
+          "label": "The Cutting Room Floor: Metal Mech",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "450-metalmech-man-machine",
+      "episode_title": "MetalMech: Man & Machine"
+    },
+    {
+      "name": "Charizard",
+      "kind": "other",
+      "description": "The Pokemon the metal dragon boss reminded us of.",
+      "timestamp": "18:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charizard",
+          "label": "Wikipedia: Charizard",
+          "source": "wikipedia",
+          "note": "Pokémon species"
+        }
+      ]
+    },
+    {
+      "name": "Transformers",
+      "kind": "other",
+      "description": "Offered as an example of pure robot aliens.",
+      "timestamp": "19:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Transformers",
+          "label": "Wikipedia: Transformers",
+          "source": "wikipedia",
+          "note": "Japanese–American media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Reapers (Mass Effect)",
+      "kind": "other",
+      "description": "Machine aliens discussed while debating robot aliens.",
+      "timestamp": "19:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Reapers_(Mass_Effect)",
+          "label": "Wikipedia: Reapers (Mass Effect)",
+          "source": "wikipedia",
+          "note": "Antagonists in the Mass Effect trilogy"
+        }
+      ]
+    },
+    {
+      "name": "Mass Effect 3: Leviathan",
+      "kind": "game",
+      "description": "The DLC that revealed an origin for the Reapers.",
+      "timestamp": "20:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mass_Effect_3%3A_Leviathan",
+          "label": "Wikipedia: Mass Effect 3: Leviathan",
+          "source": "wikipedia",
+          "note": "2012 video game"
+        },
+        {
+          "url": "https://www.pcgamer.com/au/mass-effect-3-leviathan-dlc-to-reveal-more-about-the-reapers-origins",
+          "label": "PC Gamer: Leviathan DLC and Reaper origins",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VIII",
+      "kind": "game",
+      "description": "Nova's run cycle recalls Ward and Zell.",
+      "timestamp": "24:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VIII",
+          "label": "Wikipedia: Final Fantasy VIII",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 2",
+      "kind": "game",
+      "description": "An enemy that swallows you at the end of a stage echoes Birdo's exit bird.",
+      "timestamp": "25:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2",
+          "label": "Wikipedia: Super Mario Bros. 2",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "133-super-mario-bros-2",
+      "episode_title": "SUPER MARIO BROS. 2"
+    },
+    {
+      "name": "MODOK",
+      "kind": "other",
+      "description": "The final boss is compared to this Marvel character.",
+      "timestamp": "29:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/MODOK",
+          "label": "Wikipedia: MODOK",
+          "source": "wikipedia",
+          "note": "Marvel Comics fictional character"
+        }
+      ]
+    },
+    {
+      "name": "Sharkboy and Lavagirl",
+      "kind": "film_tv_music",
+      "description": "Movie with the George Lopez character compared to the final boss.",
+      "timestamp": "29:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Sharkboy_and_Lavagirl",
+          "label": "Wikipedia: The Adventures of Sharkboy and Lavagirl",
+          "source": "wikipedia",
+          "note": "2005 film by Robert Rodriguez"
+        }
+      ]
+    },
+    {
+      "name": "Spy Kids",
+      "kind": "film_tv_music",
+      "description": "Movie mixed up with Sharkboy and Lavagirl and its serious quotes.",
+      "timestamp": "29:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spy_Kids",
+          "label": "Wikipedia: Spy Kids",
+          "source": "wikipedia",
+          "note": "Media franchise"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Power issue 23",
+      "kind": "website_or_article",
+      "description": "The April 1991 issue with Power Blade on the cover.",
+      "timestamp": "35:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        },
+        {
+          "url": "https://nintendo.fandom.com/wiki/File:Np-vol23-nowplaying.png",
+          "label": "Nintendo Fandom: Nintendo Power Vol. 23",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Tron",
+      "kind": "film_tv_music",
+      "description": "The vector-space look of the Nintendo Power cover.",
+      "timestamp": "35:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tron",
+          "label": "Wikipedia: Tron",
+          "source": "wikipedia",
+          "note": "1982 film by Steven Lisberger"
+        }
+      ]
+    },
+    {
+      "name": "Kinuyo Yamashita",
+      "kind": "person",
+      "description": "Composer of Power Blade, who also wrote the first Castlevania.",
+      "timestamp": "36:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kinuyo_Yamashita",
+          "label": "Wikipedia: Kinuyo Yamashita",
+          "source": "wikipedia",
+          "note": "Japanese composer and musician"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/People/Kinuyo_Yamashita",
+          "label": "Giant Bomb: Kinuyo Yamashita",
+          "source": "reference"
+        },
+        {
+          "url": "https://kinuyoyamashita.com/biography.html",
+          "label": "Kinuyo Yamashita: biography",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "The original NES game scored by Yamashita.",
+      "timestamp": "37:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Mega Man X3",
+      "kind": "game",
+      "description": "A later game she scored.",
+      "timestamp": "37:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_X3",
+          "label": "Wikipedia: Mega Man X3",
+          "source": "wikipedia",
+          "note": "1995 video game"
+        }
+      ],
+      "episode_key": "394-mega-man-3",
+      "episode_title": "Mega Man 3"
+    },
+    {
+      "name": "Dragon Power",
+      "kind": "game",
+      "description": "The Dragon Ball game renamed for America, like Power Blade's changes.",
+      "timestamp": "38:39",
+      "links": [
+        {
+          "url": "https://strategywiki.org/wiki/Dragon_Power",
+          "label": "StrategyWiki: Dragon Power",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "095-dragon-power",
+      "episode_title": "DRAGON POWER"
+    },
+    {
+      "name": "Ninja Kid",
+      "kind": "game",
+      "description": "Another NES game that swapped out its source license.",
+      "timestamp": "39:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninja_Kid",
+          "label": "Wikipedia: Ninja Kid",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Ninja_Kid",
+          "label": "Giant Bomb: Ninja Kid",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "031-ninja-kid",
+      "episode_title": "NINJA KID"
+    },
+    {
+      "name": "Power Blade 2",
+      "kind": "game",
+      "description": "The 1992 sequel, coming up in a later episode.",
+      "timestamp": "39:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Power_Blade_2",
+          "label": "Wikipedia: Power Blade 2",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/power-blade-2/",
+          "label": "Hardcore Gaming 101: Power Blade 2",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "PlayChoice-10",
+      "kind": "hardware",
+      "description": "Arcade cabinets of NES games that included Power Blade.",
+      "timestamp": "40:34",
+      "links": [
+        {
+          "url": "https://giantbomb.com/wiki/Concepts/PlayChoice_10",
+          "label": "Giant Bomb: PlayChoice-10",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "IGN Top 100 NES Games",
+      "kind": "website_or_article",
+      "description": "The list that ranked Power Blade at number 82.",
+      "timestamp": "40:34",
+      "links": [
+        {
+          "url": "https://www.nintendolife.com/forums/retro/igns_top_100_nes_games_of_all_time",
+          "label": "Nintendo Life: IGN's Top 100 NES Games discussion",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "other",
+      "description": "Our running list of the games worth playing.",
+      "timestamp": "40:34",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "G.I. Joe: A Real American Hero",
+      "kind": "game",
+      "description": "The only game so far this year that made the Essential Games List.",
+      "timestamp": "45:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/G.I._Joe_(1991_video_game)",
+          "label": "Wikipedia: G.I. Joe (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ],
+      "episode_key": "423-g-i-joe-a-real-american-hero",
+      "episode_title": "G.I. Joe: A Real American Hero"
+    },
+    {
+      "name": "Steve Buscemi",
+      "kind": "person",
+      "description": "The actor delivering the line about God in Spy Kids 2.",
+      "timestamp": "43:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Buscemi",
+          "label": "Wikipedia: Steve Buscemi",
+          "source": "wikipedia",
+          "note": "American actor (born 1957)"
+        },
+        {
+          "url": "https://fandomwire.com/steve-buscemi-spy-kids-2-god-heaven-quote-still-raises-disturbing-philosophical-question/",
+          "label": "FandomWire: the Spy Kids 2 quote",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Spy Kids 2: The Island of Lost Dreams",
+      "kind": "film_tv_music",
+      "description": "Source of the God in heaven quote.",
+      "timestamp": "43:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spy_Kids_2%3A_The_Island_of_Lost_Dreams",
+          "label": "Wikipedia: Spy Kids 2: The Island of Lost Dreams",
+          "source": "wikipedia",
+          "note": "2002 film by Robert Rodriguez"
+        }
+      ]
+    }
+  ]
+}
