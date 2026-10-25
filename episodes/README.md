@@ -466,6 +466,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 458 | Beetlejuice *(unreleased)* | [notes](458-beetlejuice.md), [transcript](../transcripts/458-beetlejuice.md) |
 | 459 | Family Feud *(unreleased)* | [notes](459-family-feud.md), [transcript](../transcripts/459-family-feud.md) |
 | 460 | Flight of the Intruder *(unreleased)* | [notes](460-flight-of-the-intruder.md) |
+| 461 | Monopoly *(unreleased)* | [notes](461-monopoly.md) |
 
 ## Specials
 
