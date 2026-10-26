@@ -1,4 +1,4 @@
-# 461 \- Monopoly
+# 461 - Monopoly
 
 - All in all, its a real sweet deal
 

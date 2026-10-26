@@ -6,6 +6,7 @@ episodes are already in the public feed; the rest are marked (unreleased).
 """
 import glob
 import json
+import re
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
@@ -13,7 +14,19 @@ EP = REPO / "episodes"
 
 
 def header(path):
-    return Path(path).open().readline()[2:].strip()
+    """The note's title line without the '# '. Editors sometimes escape punctuation ('# 461 \\- Monopoly'); that is undone here."""
+    line = Path(path).open().readline()[2:].strip()
+    return re.sub(r"\\([-*_#\[\]()!.+])", r"\1", line)
+
+
+def number_and_title(f):
+    """('461', 'Monopoly') from the first line of the file, or from the file name if the line is not 'NNN - Title'."""
+    h = header(f)
+    if " - " in h:
+        return h.split(" - ", 1)
+    stem = Path(f).stem  # 461-monopoly
+    print(f"   {Path(f).name}: first line is {h!r}, expected '# NNN - Title'; using the file name instead")
+    return stem.split("-")[0], stem.split("-", 1)[1].replace("-", " ").title() if "-" in stem else h
 
 
 def main():
@@ -23,7 +36,7 @@ def main():
 
     rows = []
     for f in sorted(EP.glob("[0-9]*.md")):
-        num, title = header(f).split(" - ", 1)
+        num, title = number_and_title(f)
         kind = "outline" if f.name.endswith("-outline.md") else "early notes" if f.name.endswith("-early-notes.md") else "notes"
         rows.append((num, title, f.name, kind))
     sections = {k: [(header(f), f.relative_to(EP).as_posix()) for f in sorted(EP.glob(g))]
