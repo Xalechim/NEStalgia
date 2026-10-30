@@ -19,4 +19,4 @@ Taito's idea was a follow-up called Crazy Balloon Part 2. In the arcade version,
 
 ### The bottom line
 
-Skip it. Nobody voted it onto the Essential Games List, and our verdict was simply that it is not essential. What it asks you to do just was not interesting to us: no real puzzle, a vehicle that is not fun to control, and a brighter arcade version we would rather watch. The best thing to say is that it reminds us New Zealand exists in a pre Lord of the Rings world of video games.
+Skip it. Nobody voted it onto the Essential Games List, and we agreed it is simply not essential. What it asks you to do just was not interesting to us: no real puzzle, a vehicle that is not fun to control, and a brighter arcade version we would rather watch. The best thing to say is that it reminds us New Zealand exists in a pre Lord of the Rings world of video games.
