@@ -1,0 +1,40 @@
+name: Tests
+
+# Runs the offline tests (scripts/python/tests) and checks that every workflow file is valid YAML, whenever the scripts or workflows
+# change. The pipeline that puts a new episode on the site only gets exercised on Friday mornings, so this is what catches a broken
+# script the moment it is pushed instead of at 3am on release day.
+on:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/**", "data/audio-offsets.json", "kick/**"]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pillow numpy markdown imageio-ffmpeg pyyaml
+
+      - name: Workflow files are valid YAML
+        run: python -c "import glob, yaml; [yaml.safe_load(open(f)) for f in sorted(glob.glob('.github/workflows/*.yml'))]; print('ok')"
+
+      - name: Run every test
+        env:
+          PYTHONDONTWRITEBYTECODE: "1"
+        run: |
+          fail=0
+          for t in scripts/python/tests/test_*.py; do
+            echo "== $t"
+            python "$t" || fail=1
+          done
+          exit $fail
