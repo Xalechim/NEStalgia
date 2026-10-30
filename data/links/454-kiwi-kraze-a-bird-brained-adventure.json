@@ -1,0 +1,302 @@
+{
+  "episode": 454,
+  "title": "454 - Kiwi Kraze",
+  "generated": "2026-10-30",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "1727f19a6f66",
+  "items": [
+    {
+      "name": "Kiwi Kraze: A Bird-Brained Adventure",
+      "kind": "game",
+      "description": "The episode's game: the NES version of Taito's The NewZealand Story, starring Tiki the kiwi.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://www.hardcoregaming101.net/newzealand-story-the/",
+          "label": "The NewZealand Story at Hardcore Gaming 101",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.mobygames.com/game/9715/",
+          "label": "The New Zealand Story at MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/New_Zealand_Story",
+          "label": "New Zealand Story at StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Arcade Archives The NewZealand Story",
+      "kind": "game",
+      "description": "The $7.99 Switch release of the arcade original, out January 2023.",
+      "timestamp": "39:25",
+      "links": [
+        {
+          "url": "https://www.nintendolife.com/games/switch-eshop/arcade_archives_the_newzealand_story",
+          "label": "Arcade Archives The NewZealand Story at Nintendo Life",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "The NewZealand Story: Untold Adventure",
+      "kind": "game",
+      "description": "A 2026 Steam remake by bitobit with mixed to negative reviews.",
+      "timestamp": "37:45",
+      "links": [
+        {
+          "url": "https://gematsu.com/2026/03/the-newzealand-story-remake-the-newzealand-story-untold-adventure-now-available",
+          "label": "The NewZealand Story: Untold Adventure now available (Gematsu)",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "New Zealand Story Revolution",
+      "kind": "game",
+      "description": "The 2007 Nintendo DS version, which got middling reviews.",
+      "timestamp": "37:45",
+      "links": [
+        {
+          "url": "https://www.hardcoregaming101.net/new-zealand-story-revolution/",
+          "label": "New Zealand Story Revolution at Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Crazy Balloon",
+      "kind": "game",
+      "description": "Taito's 1980 arcade game that the game was originally planned as a sequel to.",
+      "timestamp": "27:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crazy_Balloon",
+          "label": "Wikipedia: Crazy Balloon",
+          "source": "wikipedia",
+          "note": "1980 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Crazy_Balloon",
+          "label": "Crazy Balloon at StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Software Creations",
+      "kind": "company",
+      "description": "The British studio that made the NES port.",
+      "timestamp": "13:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Software_Creations",
+          "label": "Wikipedia: Software Creations",
+          "source": "wikipedia",
+          "note": "British video game developer"
+        }
+      ]
+    },
+    {
+      "name": "Kiwi",
+      "kind": "other",
+      "description": "The flightless, nocturnal bird and national symbol of New Zealand.",
+      "timestamp": "34:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kiwi_(bird)",
+          "label": "Wikipedia: Kiwi (bird)",
+          "source": "wikipedia",
+          "note": "Order of birds"
+        }
+      ]
+    },
+    {
+      "name": "Bubble Symphony",
+      "kind": "game",
+      "description": "One of the Taito games where Tiki makes a cameo.",
+      "timestamp": "37:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bubble_Symphony",
+          "label": "Wikipedia: Bubble Symphony",
+          "source": "wikipedia",
+          "note": "1994 video game"
+        }
+      ]
+    },
+    {
+      "name": "Balloon Fight",
+      "kind": "game",
+      "description": "Compared to the tap-A balloon flying in this game.",
+      "timestamp": "22:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Balloon_Fight",
+          "label": "Wikipedia: Balloon Fight",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "024-balloon-fight",
+      "episode_title": "BALLOON FIGHT"
+    },
+    {
+      "name": "Tweety",
+      "kind": "other",
+      "description": "The yellow caged bird the kiwi friends reminded the hosts of.",
+      "timestamp": "09:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tweety",
+          "label": "Wikipedia: Tweety",
+          "source": "wikipedia",
+          "note": "Warner Bros. theatrical cartoon character"
+        }
+      ]
+    },
+    {
+      "name": "The Red Balloon",
+      "kind": "film_tv_music",
+      "description": "The French short film compared to the red balloon in Crazy Balloon.",
+      "timestamp": "30:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Red_Balloon",
+          "label": "Wikipedia: The Red Balloon",
+          "source": "wikipedia",
+          "note": "1956 film by Albert Lamorisse"
+        }
+      ]
+    },
+    {
+      "name": "IGN",
+      "kind": "website_or_article",
+      "description": "Gave the DS version a 5.9.",
+      "timestamp": "37:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/IGN",
+          "label": "Wikipedia: IGN",
+          "source": "wikipedia",
+          "note": "American entertainment website"
+        }
+      ]
+    },
+    {
+      "name": "Eurogamer",
+      "kind": "website_or_article",
+      "description": "Gave the DS version a 6.",
+      "timestamp": "37:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eurogamer",
+          "label": "Wikipedia: Eurogamer",
+          "source": "wikipedia",
+          "note": "Video games news and reviews website"
+        }
+      ]
+    },
+    {
+      "name": "Bank of New Zealand",
+      "kind": "company",
+      "description": "One of the three partners in the Kiwi Recovery Programme.",
+      "timestamp": "35:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bank_of_New_Zealand",
+          "label": "Wikipedia: Bank of New Zealand",
+          "source": "wikipedia",
+          "note": "Financial institution in New Zealand"
+        }
+      ]
+    },
+    {
+      "name": "The Lord of the Rings film series",
+      "kind": "film_tv_music",
+      "description": "The hosts wondered why a New Zealand game has no references to it.",
+      "timestamp": "35:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)",
+          "label": "Wikipedia: The Lord of the Rings (film series)",
+          "source": "wikipedia",
+          "note": "2001–2003 films by Peter Jackson"
+        }
+      ]
+    },
+    {
+      "name": "Flight of the Conchords",
+      "kind": "film_tv_music",
+      "description": "The New Zealand comedy duo suggested as a missing reference.",
+      "timestamp": "35:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Flight_of_the_Conchords",
+          "label": "Wikipedia: Flight of the Conchords",
+          "source": "wikipedia",
+          "note": "New Zealand musical comedy duo"
+        }
+      ]
+    },
+    {
+      "name": "Grand Theft Auto",
+      "kind": "game",
+      "description": "Joked about as inspired by stealing an enemy's vehicle.",
+      "timestamp": "18:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+          "label": "Wikipedia: Grand Theft Auto",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Harambe",
+      "kind": "event_or_term",
+      "description": "The zoo gorilla joked about when discussing not trusting zoos.",
+      "timestamp": "05:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Harambe",
+          "label": "Wikipedia: Harambe",
+          "source": "wikipedia",
+          "note": "Captive gorilla (1999–2016)"
+        }
+      ]
+    },
+    {
+      "name": "Arcade Archives",
+      "kind": "other",
+      "description": "Hamster's Switch series of arcade releases, discussed again from last episode.",
+      "timestamp": "39:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arcade_Archives",
+          "label": "Wikipedia: Arcade Archives",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Patreon",
+      "kind": "website_or_article",
+      "description": "The show's Patreon, joked about as paying for a New Zealand trip.",
+      "timestamp": "26:59",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

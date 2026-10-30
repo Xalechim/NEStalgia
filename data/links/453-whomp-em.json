@@ -1,0 +1,374 @@
+{
+  "episode": 453,
+  "title": "453 - Whomp Em",
+  "generated": "2026-10-30",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "6650cab8b80c",
+  "items": [
+    {
+      "name": "Whomp 'Em",
+      "kind": "game",
+      "description": "The episode's game: a Jaleco spear-wielding Mega Man-style platformer starring Soaring Eagle.",
+      "timestamp": "00:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Whomp_'Em",
+          "label": "Wikipedia: Whomp 'Em",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/whomp-em/",
+          "label": "Whomp 'Em at Hardcore Gaming 101",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.mobygames.com/game/30442",
+          "label": "Whomp 'Em at MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Whomp_Em",
+          "label": "Whomp Em at Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Saiyuki World 2",
+      "kind": "game",
+      "description": "The Japanese Famicom game that Whomp 'Em was reskinned from, starring a Chinese hero.",
+      "timestamp": "03:01",
+      "links": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/jalecolle-famicom-ver-saiyuuki-world-ii-the-demon-god-of-heaven-and-whompem-switch",
+          "label": "JALECOlle Saiyuuki World II & Whomp'Em (Nintendo Switch)",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Mega Man",
+      "kind": "game",
+      "description": "The platformer series Whomp 'Em is compared to, with its stage select and boss powers.",
+      "timestamp": "07:27",
+      "links": [],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Wonder Boy in Monster Land",
+      "kind": "game",
+      "description": "The Sega game that the first Saiyuki World was altered from.",
+      "timestamp": "05:39",
+      "links": [
+        {
+          "url": "https://strategywiki.org/wiki/Saiyuuki_World",
+          "label": "Saiyuuki World at StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Power Blade",
+      "kind": "game",
+      "description": "Last episode's game, another NES game with a heavy North American localization.",
+      "timestamp": "04:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Power_Blade",
+          "label": "Wikipedia: Power Blade",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "451-power-blade",
+      "episode_title": "Power Blade"
+    },
+    {
+      "name": "Kid Icarus",
+      "kind": "game",
+      "description": "Mentioned while comparing localizations, along with its hero Pit.",
+      "timestamp": "04:37",
+      "links": [],
+      "episode_key": "048-kid-icarus",
+      "episode_title": "KID ICARUS"
+    },
+    {
+      "name": "Journey to the West",
+      "kind": "other",
+      "description": "The classic Chinese novel behind the Monkey King that the Japanese game was based on.",
+      "timestamp": "05:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Journey_to_the_West",
+          "label": "Wikipedia: Journey to the West",
+          "source": "wikipedia",
+          "note": "16th-century novel by Wu Cheng'en"
+        }
+      ]
+    },
+    {
+      "name": "Tsukasa Tawada",
+      "kind": "person",
+      "description": "The game's composer, who is credited as Adios Amigo and later scored Pokemon spinoffs.",
+      "timestamp": "35:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tsukasa_Tawada",
+          "label": "Wikipedia: Tsukasa Tawada",
+          "source": "wikipedia",
+          "note": "Musical artist"
+        },
+        {
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Tsukasa_Tawada",
+          "label": "Tsukasa Tawada at Bulbapedia",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Pokemon Battle Revolution",
+      "kind": "game",
+      "description": "A Pokemon spinoff Tawada composed for.",
+      "timestamp": "37:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Battle_Revolution",
+          "label": "Wikipedia: Pokémon Battle Revolution",
+          "source": "wikipedia",
+          "note": "2006 video game"
+        }
+      ]
+    },
+    {
+      "name": "Pokemon Colosseum",
+      "kind": "game",
+      "description": "A Pokemon spinoff Tawada composed for.",
+      "timestamp": "37:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Colosseum",
+          "label": "Wikipedia: Pokémon Colosseum",
+          "source": "wikipedia",
+          "note": "2003 video game"
+        }
+      ]
+    },
+    {
+      "name": "Moon Crystal",
+      "kind": "game",
+      "description": "Famicom game Tawada composed for, covered in a bonus episode without Sean.",
+      "timestamp": "37:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Moon_Crystal",
+          "label": "Wikipedia: Moon Crystal",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/moon-crystal/",
+          "label": "Moon Crystal at Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Jaleco",
+      "kind": "company",
+      "description": "The developer and publisher of Whomp 'Em and the Switch collection.",
+      "timestamp": "28:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jaleco",
+          "label": "Wikipedia: Jaleco",
+          "source": "wikipedia",
+          "note": "Video game publisher"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "The magazine that gave the game a 3.1 out of five.",
+      "timestamp": "26:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        }
+      ]
+    },
+    {
+      "name": "Famitsu",
+      "kind": "website_or_article",
+      "description": "The Japanese magazine that gave the Japanese version 23 out of 40.",
+      "timestamp": "26:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Famitsu",
+          "label": "Wikipedia: Famitsu",
+          "source": "wikipedia",
+          "note": "Line of Japanese video game magazines"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "Mentioned for its pun-filled credits and for giving you the best whip right away.",
+      "timestamp": "36:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "Arcade Archives",
+      "kind": "other",
+      "description": "Hamster's series of arcade game releases on Switch, discussed as a pricing comparison.",
+      "timestamp": "31:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arcade_Archives",
+          "label": "Wikipedia: Arcade Archives",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Xevious 3D/G",
+      "kind": "game",
+      "description": "A 1996 arcade game coming to Arcade Archives the day after recording.",
+      "timestamp": "33:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xevious_3D%2FG",
+          "label": "Wikipedia: Xevious 3D/G",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Rock Band",
+      "kind": "game",
+      "description": "Compared for its weekly song drops and points currency.",
+      "timestamp": "31:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rock_Band_(video_game)",
+          "label": "Wikipedia: Rock Band (video game)",
+          "source": "wikipedia",
+          "note": "2007 music video game"
+        }
+      ]
+    },
+    {
+      "name": "Rocksmith",
+      "kind": "game",
+      "description": "The game where your real guitar is the controller.",
+      "timestamp": "32:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rocksmith",
+          "label": "Wikipedia: Rocksmith",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dances with Wolves",
+      "kind": "film_tv_music",
+      "description": "The film that won seven Academy Awards in March 1991, the month the game released.",
+      "timestamp": "38:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dances_With_Wolves",
+          "label": "Wikipedia: Dances With Wolves",
+          "source": "wikipedia",
+          "note": "1990 film by Kevin Costner"
+        }
+      ]
+    },
+    {
+      "name": "The Last of the Mohicans",
+      "kind": "film_tv_music",
+      "description": "The Daniel Day-Lewis film mixed up with Dances with Wolves.",
+      "timestamp": "40:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Last_of_the_Mohicans_(1992_film)",
+          "label": "Wikipedia: The Last of the Mohicans (1992 film)",
+          "source": "wikipedia",
+          "note": "1992 film by Michael Mann"
+        }
+      ]
+    },
+    {
+      "name": "Totally Rad",
+      "kind": "game",
+      "description": "Last episode's game, brought up when asking what carried over.",
+      "timestamp": "41:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Totally_Rad",
+          "label": "Wikipedia: Totally Rad",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ],
+      "episode_key": "452-totally-rad",
+      "episode_title": "Totally Rad"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "One of the early essential platformers cited as fun right away.",
+      "timestamp": "43:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Contra",
+      "kind": "game",
+      "description": "An essential game that is fun from the first moment, though you start without a gun.",
+      "timestamp": "47:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+          "label": "Wikipedia: Contra (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "092-contra",
+      "episode_title": "CONTRA"
+    }
+  ]
+}
