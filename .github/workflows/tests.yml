@@ -6,7 +6,7 @@ name: Tests
 on:
   push:
     branches: [main]
-    paths: ["scripts/**", ".github/workflows/**", "data/audio-offsets.json", "kick/**"]
+    paths: ["scripts/**", ".github/workflows/**"]
   pull_request:
   workflow_dispatch:
 
