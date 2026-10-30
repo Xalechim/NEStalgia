@@ -78,6 +78,17 @@ def measure_offset(n: int) -> None:
     print("   " + (lines[-1].strip() if lines else "Couldn't measure the audio shift now (offline, or not in the public feed yet)."))
 
 
+def save_mix_fingerprint(n: int, audio: Path) -> None:
+    """Save a small fingerprint of the final mix (data/mix-fingerprints/NNN.json, about 37 KB). With it, GitHub measures the
+    click-to-play timing by itself the moment the episode appears in the feed, so nothing is left to do on this Mac afterwards."""
+    try:
+        import audio_offsets
+        audio_offsets.save_fingerprint(n, audio)
+        print(f"   saved the mix fingerprint for episode {n} (click-to-play timing is then measured automatically when it comes out)")
+    except Exception as e:
+        print(f"   couldn't save the mix fingerprint ({type(e).__name__}: {e}); run  python3 scripts/python/audio_offsets.py --fingerprint {n}  later")
+
+
 def maybe_links(n: int) -> None:
     """If an Anthropic key is set up, offer to find the web links for this episode now."""
     key_file = Path.home() / ".config/nestalgia/anthropic_key"
@@ -120,6 +131,7 @@ def transcribe_one(n: int, dry_run: bool) -> bool:
         elif link not in text:
             print("Note: this episode isn't in the episode index yet, so I didn't add a link.")
     print(f"Episode {n}: done -> transcripts/{out.name}.md")
+    save_mix_fingerprint(n, audio)
     measure_offset(n)
     maybe_links(n)
     return True

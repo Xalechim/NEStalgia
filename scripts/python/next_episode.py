@@ -6,6 +6,10 @@ podcast feed. Its cover art comes from the episode's folder in iCloud Audition P
 comes from Wikipedia (left blank if there is no article).
 Saved to data/next-episode.json and data/next-episode.jpg.
 
+The cover art comes from iCloud, which only this Mac can read. So when this runs on the Mac it also saves a copy of each upcoming
+episode's cover into data/up-next-art/NNN.jpg (stage_upcoming_art). GitHub, which publishes the new episode by itself on Friday
+morning and moves the Up next box to the following one, uses that saved copy instead of settling for a Wikipedia picture.
+
 Only does anything when it has to: if the saved "next" episode is still ahead of the newest published episode,
 nothing is fetched. Once the feed catches up to it (it just came out), the next one is looked up.
   python3 scripts/python/next_episode.py          # update if needed
@@ -28,6 +32,7 @@ SHEET_ID = "1r5WpTbM0EYLbr1ylXthvf57HWgjo1iScI_c5HKgfSKc"
 SHEET_CSV = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv"
 OUT_JSON = REPO / "data/next-episode.json"
 OUT_ART = REPO / "data/next-episode.jpg"
+STAGED = REPO / "data/up-next-art"  # copies of upcoming episodes' covers, made on the Mac so GitHub can use them
 # Each episode's working folder in iCloud ("NES 450 - MetalMachine") holds its cover art, under any file name.
 AUDITION = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/10_NEStalgia/Audition Projects"
 
@@ -135,9 +140,15 @@ def local_art(number):
     return max(pics, key=lambda f: f.stat().st_size, default=None)
 
 
+def staged_art(number):
+    f = STAGED / f"{number:03d}.jpg"
+    return f if f.exists() else None
+
+
 def save_local_art(number):
+    """The episode's own cover (iCloud on the Mac, else the copy saved in the repo) as the Up next picture. True if one was used."""
     from PIL import Image
-    src = local_art(number)
+    src = local_art(number) or staged_art(number)
     if not src:
         return False
     try:
@@ -147,6 +158,42 @@ def save_local_art(number):
     im.thumbnail((600, 600))
     im.save(OUT_ART, "JPEG", quality=82, optimize=True)
     return True
+
+
+def upcoming_numbers():
+    """Episodes that are being prepared but not published: anything with show notes, a transcript or a mix fingerprint past the newest published."""
+    latest = latest_published()
+    found = set()
+    for pattern in ("episodes/[0-9]*.md", "transcripts/[0-9]*.md", "data/mix-fingerprints/[0-9]*.json"):
+        for f in REPO.glob(pattern):
+            m = re.match(r"(\d+)", f.name)
+            if m and int(m.group(1)) > latest:
+                found.add(int(m.group(1)))
+    if OUT_JSON.exists():
+        found.add(json.loads(OUT_JSON.read_text()).get("number", 0))
+    return sorted(n for n in found if n > latest)
+
+
+def stage_upcoming_art(log=print):
+    """On the Mac: copy each upcoming episode's iCloud cover into data/up-next-art/ (a 600 px JPEG, a few tens of KB), so GitHub can use
+    it when the episode comes out. Does nothing where iCloud isn't available. Returns the numbers staged."""
+    from PIL import Image
+    staged = []
+    for n in upcoming_numbers():
+        src = local_art(n)
+        dest = STAGED / f"{n:03d}.jpg"
+        if not src or (dest.exists() and dest.stat().st_mtime >= src.stat().st_mtime):
+            continue
+        try:
+            im = Image.open(src).convert("RGB")
+        except Exception:
+            continue
+        STAGED.mkdir(parents=True, exist_ok=True)
+        im.thumbnail((600, 600))
+        im.save(dest, "JPEG", quality=82, optimize=True)
+        staged.append(n)
+        log(f"Saved the cover for upcoming episode {n} from your iCloud folder.")
+    return staged
 
 
 def refresh(force=False, log=print):
@@ -161,10 +208,10 @@ def refresh(force=False, log=print):
                 have["extract"] = wiki.get("extract", "")
                 OUT_JSON.write_text(json.dumps(have, indent=2, ensure_ascii=False) + "\n")
                 log(f"Found the Wikipedia intro for the next episode ({have['number']}).")
-        if not have.get("has_art") and save_local_art(have["number"]):
-            have["has_art"] = True
+        if have.get("art_source") != "episode" and save_local_art(have["number"]):  # the episode's own cover beats a Wikipedia picture
+            have["has_art"], have["art_source"] = True, "episode"
             OUT_JSON.write_text(json.dumps(have, indent=2, ensure_ascii=False) + "\n")
-            log(f"Added cover art for the next episode ({have['number']}) from your iCloud folder.")
+            log(f"Added the episode's own cover art for the next episode ({have['number']}).")
             return True
         log(f"Next episode ({have['number']}) is still ahead of the newest published ({latest}); nothing to do.")
         return False
@@ -182,7 +229,10 @@ def refresh(force=False, log=print):
     info["wikipedia_url"] = ((wiki or {}).get("content_urls") or {}).get("desktop", {}).get("page", "")
     info["extract"] = (wiki or {}).get("extract", "")
     img = ((wiki or {}).get("originalimage") or (wiki or {}).get("thumbnail") or {}).get("source", "")
-    info["has_art"] = save_local_art(nxt["number"]) or bool(img and save_art(img))
+    own = save_local_art(nxt["number"])
+    info["has_art"] = own or bool(img and save_art(img))
+    if own:
+        info["art_source"] = "episode"
     if not info["has_art"] and OUT_ART.exists():
         OUT_ART.unlink()  # don't leave the previous game's cover behind
     OUT_JSON.write_text(json.dumps(info, indent=2, ensure_ascii=False) + "\n")

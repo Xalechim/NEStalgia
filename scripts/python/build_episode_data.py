@@ -11,6 +11,7 @@ import json
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
@@ -146,10 +147,24 @@ def fetch_feed():
     return best
 
 
+def is_scheduled_for_later(item, now=None):
+    """True for a feed item whose publish date is still in the future: a scheduled episode must not reach the website early."""
+    pub = item.findtext("pubDate")
+    if not pub:
+        return False
+    when = parsedate_to_datetime(pub)
+    if when.tzinfo is None:
+        when = when.replace(tzinfo=timezone.utc)
+    return when > (now or datetime.now(timezone.utc)) + timedelta(minutes=1)
+
+
 def main(fetch_art=False):
     channel = fetch_feed()
     seen, rows = set(), []
     for it in channel.findall("item"):
+        if is_scheduled_for_later(it):
+            print(f"   not publishing yet: '{(it.findtext('title') or '').strip()}' is scheduled for {it.findtext('pubDate')}")
+            continue
         title = html.unescape(it.findtext("title") or "").strip()
         kind, num, name, key = classify(title)
         k, n = key, 2

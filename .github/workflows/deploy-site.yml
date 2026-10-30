@@ -1,24 +1,26 @@
 name: Deploy website
 
-# Rebuild the site whenever the repo changes. The auto-update workflow starts this itself (with "Run workflow")
-# after it commits, because commits made by that workflow don't trigger a normal push event.
+# Rebuild the site and publish it, then announce any new episode on Discord. Runs whenever the repo changes on main (a push by you or
+# by the Claude routine), when called by the update workflow (commits made with GitHub's built-in token don't start a normal push run,
+# so update-site.yml calls this directly), and on demand ("Run workflow" on the Actions tab).
 on:
   push:
     branches: [main]
+    paths-ignore: ["kick/**"]
   workflow_dispatch:
+  workflow_call:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
-concurrency:
-  group: pages
-  cancel-in-progress: true
-
+# A newer deploy replaces an older one that is still building or publishing (the older one then shows as "cancelled"). This is set on
+# the two jobs, not the whole workflow, so a newer push can never cancel an announcement that is halfway through posting to Discord.
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: true
     steps:
       - uses: actions/checkout@v4
         with:
@@ -50,9 +52,22 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    concurrency:
+      group: pages-deploy
+      cancel-in-progress: true
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  announce:
+    needs: deploy
+    permissions:
+      contents: write
+    uses: ./.github/workflows/announce-episode.yml
+    secrets: inherit

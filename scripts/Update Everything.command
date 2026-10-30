@@ -1,5 +1,7 @@
 #!/bin/bash
-# THE one command to run after anything happens (a new episode, a verdict added in the spreadsheet, a fresh batch of mixes).
+# THE one command to run after anything happens (a new transcript to make, a verdict added in the spreadsheet, a fresh batch of mixes).
+# You no longer need it on a Friday: GitHub puts a new episode on the site by itself the minute it is in the feed (see docs/HANDBOOK.md).
+# What only this Mac can do is make transcripts (and the mix fingerprints and upcoming covers that go with them); run this ahead of time.
 # Double-click it. It does, in order:
 #   1. Refresh the feed and your spreadsheet   new episodes and covers, verdicts and genres, the Up next box, Wikipedia intros
 #   2. Check for new episodes                  transcript + audio shift for anything new (needs the final mix in iCloud Mixes)

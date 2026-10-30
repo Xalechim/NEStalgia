@@ -29,7 +29,7 @@ scripts/
 **Update Everything** runs, in order: Refresh Feed and Spreadsheet, Check for New Episodes, Measure Audio Offsets, Make Links, then publishes
 everything once (it shows what changed and asks first; only `data`, cover art, the episode index and `transcripts` are ever committed).
 When a main command runs a sub-command it sets `NES_LAUNCHER=1`, which makes the sub-command skip its own pauses and publishing.
-The same refresh as step 1 also runs by itself on GitHub every 4 hours, so a verdict added to the spreadsheet shows up on the site within a few hours.
+The same refresh as step 1 also runs by itself on GitHub every 4 hours (and Friday mornings, see below), so a verdict added to the spreadsheet shows up on the site within a few hours.
 Not part of the launcher because they need a person at the keyboard: making a Links tab without an API key (ask Claude Code: `/make-links 449`),
 getting KHInsider music and Audition project folders (`python/make_project_folders.py`, `python/download_game_music.py`).
 
@@ -56,23 +56,33 @@ getting KHInsider music and Audition project folders (`python/make_project_folde
   (data, art, index), `transcribe.py`, `audio_offsets.py`, optionally `make_links.py`, commit only its own paths, `git pull --rebase -X theirs`,
   push, then watch the `Deploy website` run for that commit (via `gh`) and check the new pages return 200. First run baselines the back catalog
   except recent untranscribed episodes. `--dry-run`, `--no-publish`, `--episodes N`, `--redo`, `--links`, `--use-hosted-audio`,
-  `--install-schedule` (a launchd agent, opt-in). Logs to `~/Library/Logs/nestalgia-new-episodes.log`. The Friday GitHub Action
-  (`update-from-feed.yml`) still refreshes data/art on its own; the two don't conflict (generated files from this script win a rebase).
+  `--install-schedule` (a launchd agent, opt-in). Logs to `~/Library/Logs/nestalgia-new-episodes.log`. The Friday GitHub workflow
+  (`update-site.yml`) publishes new episodes on its own; the two don't conflict (generated files from this script win a rebase).
 - Tests: `python3 scripts/python/tests/test_new_episodes.py`, `python3 scripts/python/tests/test_paragraphs.py`, `python3 scripts/python/tests/test_make_links.py`.
 
 ## Auto-update from the feed
 
-`.github/workflows/update-from-feed.yml` runs on GitHub (not on your Mac) every 4 hours, plus extra runs on Fridays at 11:30 and 15:30 UTC and Saturday at 15:30 UTC, and on demand
-(repo page, Actions tab, "Update from podcast feed", Run workflow). It runs `scripts/python/update_from_feed.py`, which:
+`.github/workflows/update-site.yml` runs on GitHub (not on your Mac) and does the whole job of putting a new episode on the site; see
+[`docs/HANDBOOK.md`](../docs/HANDBOOK.md) for the picture. It runs `scripts/python/watch_feed.py`, which on a Friday before 9am Eastern does one
+update and then checks the feed every ~90 seconds until a new numbered episode appears (episodes come out anywhere from about 2am to 6:30am
+Eastern), and on any other run does a single update. An update is `scripts/python/update_from_feed.py`, which:
 
 1. downloads cover art for new episodes (resized to 1000 px JPEG),
-2. rebuilds `data/episodes.json` and `episodes.csv`,
+2. rebuilds `data/episodes.json` and `episodes.csv` (an episode dated in the future is never published early),
 3. rebuilds `episodes/README.md`,
-4. refreshes the spreadsheet data (`data/game-info.json`), the Up next box, Wikipedia intros, and swaps generic covers for NES box art,
+4. measures the click-to-play timing of a newly published episode from its mix fingerprint (`data/mix-fingerprints/NNN.json`, saved when the
+   transcript was made; see `audio_offsets.py --from-fingerprints`),
+5. moves the Up next box on to the following episode once the feed has caught up, using the cover saved in `data/up-next-art/NNN.jpg`
+   (copied from iCloud by this Mac; see `next_episode.stage_upcoming_art`),
+6. refreshes the spreadsheet data (`data/game-info.json`), Wikipedia intros, and swaps generic covers for NES box art,
 
-and commits the result as "Auto-update (feed spreadsheet ...)", naming what changed. If nothing is new, it does nothing.
-It does not make show notes or transcripts; those stay manual (the double-click tool for transcripts).
-Run the same thing by hand with `python3 scripts/python/update_from_feed.py` (needs `pip install pillow`).
+and commits the result as "Auto-update (feed spreadsheet ...)", naming what changed, then calls `deploy-site.yml` (which ends by announcing the
+episode on Discord). If nothing is new, it does nothing. It does not make show notes or transcripts; the transcript stays manual (the double-click
+tool), and the review and links are written by the Claude routine ahead of time.
+Run the same update by hand with `python3 scripts/python/update_from_feed.py` (needs `pip install pillow numpy markdown`, and ffmpeg for the timing step), or press
+**Run workflow** on the Actions tab. Where each episode stands: `python3 scripts/python/pipeline_status.py --board`.
+Because GitHub's scheduler skips runs, a second clock (the Claude "Friday clock" routine) pushes a change in `kick/` early on Friday mornings,
+which also starts this workflow.
 
 ## Links tab (make_links.py)
 

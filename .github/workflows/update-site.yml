@@ -1,0 +1,124 @@
+name: Update site
+
+# Everything that has to reach the website from outside the repo, in one place: the podcast feed (new episodes and covers), the
+# spreadsheet (verdicts, genres, the Up next box), Wikipedia intros, and the click-to-play timing of a new episode. If anything changed
+# it is committed and the site is rebuilt and deployed (deploy-site.yml, which also announces a new episode on Discord).
+#
+# New episodes go live on Friday mornings, anywhere between about 2am and 6:30am Eastern. GitHub's scheduler is best effort: it skips
+# and delays runs (on the last two Fridays every Friday-morning run before 6am Eastern was dropped), so nothing here depends on
+# a particular run happening on time:
+#   * On a Friday before 9am Eastern, whichever run starts first becomes a watcher. It does one normal update, then asks the feed every
+#     minute or two (the addresses that skip the host's cache) and updates the instant a new numbered episode shows up (watch_feed.py).
+#     If one job's six-hour limit runs out before 9am Eastern it starts another watcher. A watcher runs alone; later starts wait their turn.
+#   * Many schedule times below try to start that watcher early. They are UTC; Friday 9am Eastern is 13:00 UTC in daylight time
+#     and 14:00 UTC in winter, and the watcher works out the real Eastern time itself, so the same list is right all year.
+#   * The Claude "kick" routine (Fridays, early morning) is a second, independent clock: if the episode isn't on the site it pushes a
+#     change in kick/, and a push is the one trigger GitHub never drops.
+#   * Any other time (every 4 hours, "Run workflow" on the Actions tab) it does one update and stops.
+on:
+  schedule:
+    - cron: "17 */4 * * *"
+    - cron: "20 4 * * 5"
+    - cron: "55 4 * * 5"
+    - cron: "35 5 * * 5"
+    - cron: "15 6 * * 5"
+    - cron: "5 7 * * 5"
+    - cron: "45 7 * * 5"
+    - cron: "30 8 * * 5"
+    - cron: "15 9 * * 5"
+    - cron: "5 10 * * 5"
+    - cron: "30 15 * * 5"
+    - cron: "30 15 * * 6"
+  push:
+    branches: [main]
+    paths: ["kick/**"]
+  workflow_dispatch:
+    inputs:
+      watch:
+        description: "Also wait for a new episode if it is Friday before 9am Eastern (leave off for a single update now)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+# A run started by "Run workflow" gets its own lane so it never waits behind a watcher; everything else shares one lane (one watcher at a time).
+concurrency:
+  group: ${{ github.event_name == 'workflow_dispatch' && format('update-site-manual-{0}', github.run_id) || 'update-site' }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pillow numpy markdown imageio-ffmpeg
+
+      - name: Update from the feed and spreadsheet (and wait for a new episode on Friday mornings)
+        id: run
+        env:
+          PYTHONDONTWRITEBYTECODE: "1"
+          WATCH_INPUT: ${{ inputs.watch }}
+        run: |
+          FLAG=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "$WATCH_INPUT" != "true" ]; then FLAG="--once"; fi
+          python scripts/python/watch_feed.py $FLAG
+
+      - name: Commit and push what changed
+        id: commit
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing changed."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          WHAT=""
+          git status --porcelain | grep -q "data/episodes.json" && WHAT="$WHAT feed"
+          git status --porcelain | grep -q "data/game-info.json" && WHAT="$WHAT spreadsheet"
+          git status --porcelain | grep -q "data/next-episode" && WHAT="$WHAT up-next"
+          git status --porcelain | grep -q "data/wikipedia-intros.json" && WHAT="$WHAT wikipedia"
+          git status --porcelain | grep -q "data/audio-offsets" && WHAT="$WHAT click-to-play"
+          git status --porcelain | grep -q "assets/episode-art" && WHAT="$WHAT art"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Auto-update (${WHAT# })"
+          for try in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push && break
+            echo "push didn't go through (try $try); pulling again"
+            sleep 5
+          done
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Show where every recent and upcoming episode stands
+        if: always()
+        run: |
+          {
+            echo "### Episodes"
+            python scripts/python/pipeline_status.py --board
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Start another watcher if the time limit ran out before 9am Eastern
+        if: steps.run.outputs.result == 'continue'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run update-site.yml --ref main -f watch=true
+
+  deploy:
+    needs: update
+    if: needs.update.outputs.changed == 'true'
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy-site.yml
+    secrets: inherit

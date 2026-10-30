@@ -1,12 +1,10 @@
 name: Announce new episode
 
-# After the website is rebuilt, post any episode that hasn't been announced yet to Discord.
+# After the website is deployed (deploy-site.yml calls this as its last step), post any episode that hasn't been announced yet to Discord.
 # Needs a repository secret named DISCORD_WEBHOOK_URL (Discord: channel settings > Integrations > Webhooks).
 # Without it, this does nothing.
 on:
-  workflow_run:
-    workflows: ["Deploy website"]
-    types: [completed]
+  workflow_call:
   workflow_dispatch:
     inputs:
       episode:
@@ -23,7 +21,6 @@ concurrency:
 
 jobs:
   announce:
-    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -38,7 +35,7 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           PYTHONDONTWRITEBYTECODE: "1"
-          TEST_EPISODE: ${{ github.event.inputs.episode }}
+          TEST_EPISODE: ${{ inputs.episode }}
         run: |
           if [ -n "$TEST_EPISODE" ]; then
             python scripts/python/discord_post.py --only "$TEST_EPISODE" --force
