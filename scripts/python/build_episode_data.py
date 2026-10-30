@@ -8,6 +8,7 @@ import csv
 import glob
 import html
 import json
+import random
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -16,11 +17,13 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 FEED = "https://anchor.fm/s/5808ab8/podcast/rss"
-# The feed's host caches the exact address above on its edge servers for days, and a server can keep handing out the previous
-# copy for hours after a new episode goes live (it did on 2026-10-16: our check at 9:17am Eastern got the old feed while the
-# real one had been updated at 3:26am). A trailing slash, or the capitalised "RSS", is a different cache entry, so it always comes
-# straight from the source. Ask for those first, then the normal address, and use whichever copy lists the most episodes.
-FEED_ADDRESSES = [FEED + "/", FEED[:-3] + "RSS", FEED]
+FEED_ID = "5808ab8"
+# The feed's host caches every address it is asked for, for up to 7 days (s-maxage=605396), and only clears the cache for the one
+# plain address above when an episode is published. Any other address stays frozen at whatever it showed the first time someone
+# asked: on 2026-10-30 a GitHub run at 6:54am Eastern was still handed a feed without the episode that went out at 3:00am, from the
+# addresses we used to rely on (a trailing slash, a capital "RSS": they worked once, then our own regular updates froze them).
+# The host's origin ignores letter case in the id, in "podcast" and in "rss", but its cache does not, so a random mix of capitals
+# is an address nobody has asked for before (about 8,000 of them), and always comes straight from the source.
 REPO = Path(__file__).resolve().parents[2]
 NS = {"i": "http://www.itunes.com/dtds/podcast-1.0.dtd"}
 
@@ -129,10 +132,22 @@ def keep_missing(rows, old_file):
     return rows
 
 
-def fetch_feed():
-    """The <channel> element of the freshest copy of the feed (see FEED_ADDRESSES)."""
+def fresh_feed_address(rng=random):
+    """A feed address no cache has seen before: the same feed, with random capitals in the id, "podcast" and "rss" and maybe a slash."""
+    def mixed(word):
+        return "".join(c.upper() if rng.random() < 0.5 else c for c in word)
+    return f"https://anchor.fm/s/{mixed(FEED_ID)}/{mixed('podcast')}/{mixed('rss')}" + ("/" if rng.random() < 0.5 else "")
+
+
+def feed_addresses(fresh=2):
+    """Addresses to read the feed from: `fresh` never-used ones, then the plain one (which the host clears on publishing)."""
+    return [fresh_feed_address() for _ in range(fresh)] + [FEED]
+
+
+def fetch_feed(addresses=None):
+    """The <channel> element of the freshest copy of the feed (the one that lists the most episodes; see the note at the top)."""
     best, best_n = None, -1
-    for url in FEED_ADDRESSES:
+    for url in addresses or feed_addresses():
         try:
             raw = urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0", "Cache-Control": "no-cache"}), timeout=60).read()
             channel = ET.fromstring(raw).find("channel")

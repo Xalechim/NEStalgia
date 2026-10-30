@@ -3,8 +3,8 @@
 
 New episodes go live on Friday mornings, but not at a fixed time (the last eight came out between 1:55 and 6:26am Eastern), and
 GitHub's own scheduler is too unreliable to hit a time window. So on Friday mornings this program is started early (by a schedule,
-by the Claude "kick" routine pushing to kick/, or by hand), does one normal update, then keeps asking the feed every minute or two
-(using the addresses that skip the host's cache) until a new numbered episode shows up. Then it runs the full update straight away:
+by the Claude "kick" routine pushing to kick/, or by hand), does one normal update, then keeps asking the feed every two minutes
+(always through a feed address no cache has seen before) until a new numbered episode shows up. Then it runs the full update straight away:
 the episode joins the Episodes list, the Up next box moves on to the following episode, click-to-play timing is measured, and the
 workflow around it commits, rebuilds the site and announces the episode.
 
@@ -83,7 +83,7 @@ def watch_deadline(now):
     return end.astimezone(timezone.utc) if et < end else None
 
 
-def watch(fetch, known, update, now, sleep, stop_at, every=90, say=log):
+def watch(fetch, known, update, now, sleep, stop_at, every=120, say=log):
     """Ask the feed every `every` seconds until a new numbered episode shows up (then run update() and return 'published')
     or `stop_at` passes (return 'waiting'). A feed that can't be read this time is simply tried again."""
     polls = 0
@@ -128,7 +128,7 @@ def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--once", action="store_true", help="one update, no waiting")
     ap.add_argument("--watch", action="store_true", help="wait for a new episode on any day")
-    ap.add_argument("--every", type=int, default=90, help="seconds between checks of the feed (default 90)")
+    ap.add_argument("--every", type=int, default=120, help="seconds between checks of the feed (default 120)")
     ap.add_argument("--max-minutes", type=int, default=335, help="longest one run may wait (a GitHub job is limited to 6 hours)")
     a = ap.parse_args(argv)
 
@@ -152,7 +152,8 @@ def main(argv=None):
         log("the new episode was already in the feed; published")
         report("published")
         return 0
-    result = watch(B.fetch_feed, known_state, update_pass, lambda: datetime.now(timezone.utc), time.sleep, stop_at, a.every)
+    # one never-used feed address plus the plain one on each check (the host's cache freezes any address it has seen; see build_episode_data.py)
+    result = watch(lambda: B.fetch_feed(B.feed_addresses(fresh=1)), known_state, update_pass, lambda: datetime.now(timezone.utc), time.sleep, stop_at, a.every)
     if result == "published":
         report("published")
     else:

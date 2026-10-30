@@ -36,6 +36,14 @@ def main():
     assert B.is_scheduled_for_later(future.find("item"), now) is True
     assert B.is_scheduled_for_later(future.find("item"), datetime(2026, 11, 6, 7, 5, tzinfo=UTC)) is False
 
+    # --- feed addresses: always the same feed, differing only in letter case (so the host's cache has never seen them), plus the plain one
+    import random
+    addrs = {B.fresh_feed_address(random.Random(i)) for i in range(200)}
+    assert len(addrs) > 100, "random capitals should give many different addresses"
+    for u in addrs:
+        assert u.rstrip("/").lower() == B.FEED, u
+    assert B.feed_addresses(fresh=2)[-1] == B.FEED and len(B.feed_addresses(fresh=2)) == 3
+
     # --- the Friday watch window (Eastern time, so it follows daylight saving)
     assert W.watch_deadline(datetime(2026, 10, 30, 5, 30, tzinfo=UTC)) == datetime(2026, 10, 30, 13, 0, tzinfo=UTC)   # EDT: 9am = 13:00 UTC
     assert W.watch_deadline(datetime(2026, 10, 30, 13, 30, tzinfo=UTC)) is None                                       # after 9am
