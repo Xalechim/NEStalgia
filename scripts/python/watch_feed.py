@@ -48,9 +48,11 @@ def main_episodes(rows):
     return [r for r in rows if r.get("type") == "episode" and r.get("number")]
 
 
-def known_state():
-    """(episode numbers the site has, date the newest numbered episode was published) from origin/main plus this checkout."""
-    texts = [(REPO / "data/episodes.json").read_text()]
+def known_state(origin_only=False):
+    """(episode numbers the site has, date the newest numbered episode was published). That is origin/main plus, unless origin_only,
+    this checkout. While waiting, only origin/main counts: it is what the website is built from, and a half-finished update in this
+    checkout must not make the episode look handled."""
+    texts = [] if origin_only else [(REPO / "data/episodes.json").read_text()]
     try:
         if git("fetch", "-q", "origin", "main").returncode == 0:
             shown = git("show", "origin/main:data/episodes.json")
@@ -58,6 +60,8 @@ def known_state():
                 texts.append(shown.stdout)
     except Exception:
         pass
+    if not texts:
+        texts.append((REPO / "data/episodes.json").read_text())
     rows = [r for t in texts for r in main_episodes(json.loads(t))]
     return {r["number"] for r in rows}, max((r.get("published") or "" for r in rows), default="")
 
@@ -89,7 +93,7 @@ def watch(fetch, known, update, now, sleep, stop_at, every=120, say=log, max_fai
     that fails (the episode is still new, so the next check runs it again); after `max_failures` failed updates the error is raised."""
     polls = failures = 0
     while True:
-        numbers, _ = known()
+        numbers, newest = known()
         new = []
         try:
             new = new_main_episodes(fetch(), numbers, now())
@@ -108,6 +112,9 @@ def watch(fetch, known, update, now, sleep, stop_at, every=120, say=log, max_fai
                     raise
                 sleep(30)
                 continue
+        if newest == now().astimezone(EASTERN).date().isoformat():  # someone else (your Mac, a manual run) got there first
+            say("today's episode is already on the site; nothing left to wait for")
+            return "published"
         if now() >= stop_at:
             say(f"no new episode after {polls} checks")
             return "waiting"
@@ -168,7 +175,7 @@ def main(argv=None):
         report("published")
         return 0
     # one never-used feed address plus the plain one on each check (the host's cache freezes any address it has seen; see build_episode_data.py)
-    result = watch(lambda: B.fetch_feed(B.feed_addresses(fresh=1)), known_state, update_pass, lambda: datetime.now(timezone.utc), time.sleep, stop_at, a.every)
+    result = watch(lambda: B.fetch_feed(B.feed_addresses(fresh=1)), lambda: known_state(origin_only=True), update_pass, lambda: datetime.now(timezone.utc), time.sleep, stop_at, a.every)
     if result == "published":
         report("published")
     else:

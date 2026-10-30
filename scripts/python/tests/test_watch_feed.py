@@ -97,6 +97,13 @@ def main():
     except ZeroDivisionError:
         pass
 
+    # --- someone else publishes the episode while we wait: stop, and do not run an update of our own
+    clock["t"] = datetime(2026, 10, 30, 8, 0, tzinfo=UTC)
+    updates.clear()
+    res = W.watch(lambda: channel(("451 - Power Blade", "Fri, 23 Oct 2026 05:55:00 GMT")), lambda: ({451, 452}, "2026-10-30"), lambda: updates.append(1),
+                  lambda: clock["t"], sleep, datetime(2026, 10, 30, 13, 0, tzinfo=UTC), every=120, say=lambda m: None)
+    assert res == "published" and not updates
+
     # --- watching: nothing comes before the deadline
     clock["t"] = datetime(2026, 10, 30, 12, 55, tzinfo=UTC)
     updates.clear()
