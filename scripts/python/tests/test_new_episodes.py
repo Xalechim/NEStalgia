@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Offline tests for new_episodes.py (no network, no git). Run:  python3 scripts/python/tests/test_new_episodes.py"""
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -37,12 +38,16 @@ def main():
     assert N.commit_message([item(1, kind="special")]) == "Update from the podcast feed"
     assert N.commit_message([], [item(100)]) == "Add data for episode 100 (waiting for the final mix)"
     assert N.parse_numbers(["450-452", "455,457"]) == [450, 451, 452, 455, 457]
-    # the schedule file is valid
+    # the schedule file is valid (plutil only exists on a Mac; elsewhere just check it parses as XML)
     with tempfile.TemporaryDirectory() as d:
         p = Path(d) / "x.plist"
         p.write_text(N.plist_xml("/usr/bin/python3", "/tmp/new_episodes.py"))
-        r = subprocess.run(["plutil", "-lint", str(p)], capture_output=True, text=True)
-        assert r.returncode == 0, r.stdout + r.stderr
+        if shutil.which("plutil"):
+            r = subprocess.run(["plutil", "-lint", str(p)], capture_output=True, text=True)
+            assert r.returncode == 0, r.stdout + r.stderr
+        else:
+            import xml.etree.ElementTree as ET
+            ET.parse(p)
     print("all tests passed")
 
 
