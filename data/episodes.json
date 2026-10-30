@@ -1,6 +1,23 @@
 [
   {
     "type": "episode",
+    "number": 452,
+    "title": "Totally Rad",
+    "feed_title": "452 - Totally Rad",
+    "published": "2026-10-30",
+    "duration_seconds": 3053,
+    "description": "Support NEStalgia directly by becoming a member of our Patreon at https://www.patreon.com/Nestalgia  Members at the $5 and above level get access to our brand new show NEStalgia Bytes. A look at the famicom games you can play without any Japanese knowledge! For More NEStalgia, visit www.NEStalgiacast.com",
+    "audio_url": "https://traffic.megaphone.fm/APO4367499059.mp3",
+    "episode_page": "https://podcasters.spotify.com/pod/show/nestalgia/episodes/452---Totally-Rad-e3ov1k0",
+    "art": "assets/episode-art/452-totally-rad.jpg",
+    "notes": [
+      "episodes/452-totally-rad.md"
+    ],
+    "transcript": "t",
+    "guid": "35209131-e0b1-46be-b277-1454155c8a75"
+  },
+  {
+    "type": "episode",
     "number": 451,
     "title": "Power Blade",
     "feed_title": "451 - Power Blade",

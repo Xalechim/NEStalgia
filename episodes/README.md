@@ -457,7 +457,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 449 | Indiana Jones and the Last Crusade | [notes](449-indiana-jones-and-the-last-crusade.md), [transcript](../transcripts/449-indiana-jones-and-the-last-crusade.md) |
 | 450 | MetalMech: Man & Machine | [notes](450-metalmech-man-machine.md), [transcript](../transcripts/450-metalmech-man-machine.md) |
 | 451 | Power Blade | [notes](451-power-blade.md), [transcript](../transcripts/451-power-blade.md) |
-| 452 | Totally Rad *(unreleased)* | [notes](452-totally-rad.md), [transcript](../transcripts/452-totally-rad.md) |
+| 452 | Totally Rad | [notes](452-totally-rad.md), [transcript](../transcripts/452-totally-rad.md) |
 | 453 | Whomp 'Em *(unreleased)* | [notes](453-whomp-em.md), [transcript](../transcripts/453-whomp-em.md) |
 | 454 | Kiwi Kraze: A Bird-Brained Adventure *(unreleased)* | [notes](454-kiwi-kraze-a-bird-brained-adventure.md), [transcript](../transcripts/454-kiwi-kraze-a-bird-brained-adventure.md) |
 | 455 | Nobunaga's Ambition II *(unreleased)* | [notes](455-nobunagas-ambition-ii.md), [transcript](../transcripts/455-nobunagas-ambition-ii.md) |
