@@ -140,16 +140,18 @@ def prep_queue():
 
 
 def feed_newest():
-    """(number, title) of the newest numbered episode in the podcast feed (read from the addresses that skip the host's cache)."""
+    """(number, title, published datetime in UTC) of the newest numbered episode in the podcast feed, read through never-used addresses."""
     sys.path.insert(0, str(Path(__file__).parent))
     import build_episode_data as B
+    from email.utils import parsedate_to_datetime
     best = None
     for it in B.fetch_feed().findall("item"):
         if B.is_scheduled_for_later(it):
             continue
         kind, num, name, _ = B.classify(it.findtext("title") or "")
         if kind == "episode" and num and (best is None or num > best[0]):
-            best = (num, name)
+            when = parsedate_to_datetime(it.findtext("pubDate")) if it.findtext("pubDate") else None
+            best = (num, name, when)
     return best
 
 
@@ -164,17 +166,35 @@ def origin_published():
         return published_numbers()
 
 
-def publish_check():
-    newest = feed_newest()
+def publish_state(newest=None, on_site=None, now=None):
+    """('PENDING' | 'ON_SITE' | 'WAITING', number, title, minutes since it came out) for the newest numbered episode in the feed.
+    PENDING: in the feed but not yet on the website's data. ON_SITE: the site has it. WAITING: the feed lists no numbered episode."""
+    from datetime import datetime, timezone
+    newest = newest or feed_newest()
     if not newest:
+        return "WAITING", None, "", None
+    n, name, when = newest
+    minutes = None
+    if when is not None:
+        minutes = (((now or datetime.now(timezone.utc)) - when).total_seconds()) / 60
+    return ("ON_SITE" if n in (on_site if on_site is not None else origin_published()) else "PENDING"), n, name, minutes
+
+
+def publish_check():
+    """Prints one line: PENDING n title (N min ago) | ON_SITE n title (published today|earlier) | WAITING. Exit code 10 means PENDING."""
+    from datetime import datetime, timezone
+    from zoneinfo import ZoneInfo
+    state, n, name, minutes = publish_state()
+    if state == "WAITING":
         print("WAITING (the feed lists no numbered episode)")
         return 0
-    n, name = newest
-    if n in origin_published():
-        print(f"ON_SITE {n} {name}")
-        return 0
-    print(f"PENDING {n} {name}")
-    return 10
+    if state == "PENDING":
+        print(f"PENDING {n} {name} (out {minutes:.0f} min ago)" if minutes is not None else f"PENDING {n} {name}")
+        return 10
+    et = ZoneInfo("America/New_York")
+    today = minutes is not None and (datetime.now(timezone.utc) - __import__("datetime").timedelta(minutes=minutes)).astimezone(et).date() == datetime.now(et).date()
+    print(f"ON_SITE {n} {name} (published {'today' if today else 'earlier'})")
+    return 0
 
 
 def live_check(n):
