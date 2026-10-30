@@ -78,6 +78,25 @@ def main():
                   lambda: clock["t"], sleep, datetime(2026, 10, 30, 13, 0, tzinfo=UTC), every=300, say=lambda m: None)
     assert res == "published" and updates and updates[0] >= datetime(2026, 10, 30, 6, 59, tzinfo=UTC), updates
 
+    # --- an update that fails is tried again on the next check, and given up on after three failures
+    clock["t"] = datetime(2026, 10, 30, 7, 1, tzinfo=UTC)
+    attempts = []
+
+    def flaky():
+        attempts.append(1)
+        if len(attempts) < 3:
+            raise RuntimeError("temporary trouble")
+
+    res = W.watch(lambda: channel(("452 - Totally Rad", out)), lambda: ({451}, ""), flaky, lambda: clock["t"], sleep,
+                  datetime(2026, 10, 30, 13, 0, tzinfo=UTC), every=120, say=lambda m: None)
+    assert res == "published" and len(attempts) == 3
+    try:
+        W.watch(lambda: channel(("452 - Totally Rad", out)), lambda: ({451}, ""), lambda: 1 / 0, lambda: clock["t"], sleep,
+                datetime(2026, 10, 30, 13, 0, tzinfo=UTC), every=120, say=lambda m: None)
+        raise AssertionError("should have raised after three failures")
+    except ZeroDivisionError:
+        pass
+
     # --- watching: nothing comes before the deadline
     clock["t"] = datetime(2026, 10, 30, 12, 55, tzinfo=UTC)
     updates.clear()

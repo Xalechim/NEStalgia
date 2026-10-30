@@ -64,6 +64,9 @@ def kick(reason, now):
     f.parent.mkdir(exist_ok=True)
     f.write_text(f"{now:%Y-%m-%dT%H:%M:%SZ} {reason}\n")
     run = lambda *a: subprocess.run(["git", "-C", str(REPO), *a], capture_output=True, text=True)
+    if not run("config", "user.name").stdout.strip():  # a fresh sandbox may have no git identity
+        run("config", "user.name", "NEStalgia clock")
+        run("config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com")
     run("add", "kick/last-kick.txt")
     run("commit", "-m", f"Kick the site update: {reason}")
     for _ in range(3):

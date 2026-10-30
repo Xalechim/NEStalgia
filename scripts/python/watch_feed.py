@@ -83,10 +83,11 @@ def watch_deadline(now):
     return end.astimezone(timezone.utc) if et < end else None
 
 
-def watch(fetch, known, update, now, sleep, stop_at, every=120, say=log):
+def watch(fetch, known, update, now, sleep, stop_at, every=120, say=log, max_failures=3):
     """Ask the feed every `every` seconds until a new numbered episode shows up (then run update() and return 'published')
-    or `stop_at` passes (return 'waiting'). A feed that can't be read this time is simply tried again."""
-    polls = 0
+    or `stop_at` passes (return 'waiting'). A feed that can't be read this time is simply tried again, and so is an update
+    that fails (the episode is still new, so the next check runs it again); after `max_failures` failed updates the error is raised."""
+    polls = failures = 0
     while True:
         numbers, _ = known()
         new = []
@@ -97,8 +98,16 @@ def watch(fetch, known, update, now, sleep, stop_at, every=120, say=log):
         polls += 1
         if new:
             say("new episode in the feed: " + ", ".join(f"{n} {name}" for n, name in new) + f" (after {polls} check{'s' if polls != 1 else ''})")
-            update()
-            return "published"
+            try:
+                update()
+                return "published"
+            except Exception as e:
+                failures += 1
+                say(f"the update failed ({type(e).__name__}: {e}); attempt {failures} of {max_failures}")
+                if failures >= max_failures:
+                    raise
+                sleep(30)
+                continue
         if now() >= stop_at:
             say(f"no new episode after {polls} checks")
             return "waiting"
@@ -106,8 +115,14 @@ def watch(fetch, known, update, now, sleep, stop_at, every=120, say=log):
 
 
 def update_pass():
-    """The normal full update (feed, art, offsets, Up next, spreadsheet ...), starting from the latest main."""
-    git("pull", "--rebase", "--autostash", "-q", "origin", "main")
+    """The normal full update (feed, art, offsets, Up next, spreadsheet ...), starting from the latest main. On GitHub nothing in the
+    checkout is precious (every file this changes is regenerated), so it starts from a clean copy of main; on a Mac it only pulls,
+    so work in progress is never thrown away."""
+    if os.environ.get("GITHUB_ACTIONS"):
+        if git("fetch", "-q", "origin", "main").returncode == 0:
+            git("reset", "--hard", "-q", "origin/main")
+    else:
+        git("pull", "--rebase", "--autostash", "-q", "origin", "main")
     import update_from_feed
     update_from_feed.main()
 

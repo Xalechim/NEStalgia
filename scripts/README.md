@@ -81,8 +81,8 @@ episode on Discord). If nothing is new, it does nothing. It does not make show n
 tool), and the review and links are written by the Claude routine ahead of time.
 Run the same update by hand with `python3 scripts/python/update_from_feed.py` (needs `pip install pillow numpy markdown`, and ffmpeg for the timing step), or press
 **Run workflow** on the Actions tab. Where each episode stands: `python3 scripts/python/pipeline_status.py --board`.
-Because GitHub's scheduler skips runs, a second clock (the Claude "Friday clock" routine) pushes a change in `kick/` early on Friday mornings,
-which also starts this workflow.
+Because GitHub's scheduler skips runs, a second clock (the Claude "Friday clock" routine, which runs `scripts/python/clock.py` every hour early on Friday mornings)
+pushes a change in `kick/` when the update isn't running, which also starts this workflow.
 
 ## Links tab (make_links.py)
 

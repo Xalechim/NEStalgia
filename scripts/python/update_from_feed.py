@@ -38,7 +38,12 @@ def pending_offsets():
 
 def main():
     build_episode_data.main(fetch_art=True)
-    build_index.main()
+    try:  # the table in episodes/README.md; a show-notes file it can't read must never stop a new episode from being published
+        build_index.main()
+    except BaseException as e:
+        if isinstance(e, KeyboardInterrupt):
+            raise
+        print(f"Couldn't rebuild the episode index (episodes/README.md): {type(e).__name__}: {e}")
 
     try:  # click-to-play timing for an episode that just came out, from the fingerprint saved when its transcript was made
         if pending_offsets():
