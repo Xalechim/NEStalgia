@@ -1,0 +1,273 @@
+{
+  "episode": 455,
+  "title": "455 - Nobunaga's Ambition II",
+  "generated": "2026-10-30",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "79a19386c71e",
+  "items": [
+    {
+      "name": "Nobunaga's Ambition II",
+      "kind": "game",
+      "description": "The episode's game: Koei's 1991 NES sequel with 400 historical samurai.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/game/nobunagas-ambition-ii",
+          "label": "Nobunaga's Ambition II at MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Nobunaga%27s_Ambition_2",
+          "label": "Nobunaga's Ambition 2 at StrategyWiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://wiki-origin.giantbomb.com/wiki/Games/Nobunagas_Ambition_II",
+          "label": "Nobunagas Ambition II at Giant Bomb",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "192-nobunagas-ambition",
+      "episode_title": "Nobunaga's Ambition"
+    },
+    {
+      "name": "Stellaris",
+      "kind": "game",
+      "description": "Paradox 4X space game one host found approachable.",
+      "timestamp": "00:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stellaris_(video_game)",
+          "label": "Wikipedia: Stellaris (video game)",
+          "source": "wikipedia",
+          "note": "2016 video game"
+        }
+      ]
+    },
+    {
+      "name": "Crusader Kings II",
+      "kind": "game",
+      "description": "Paradox grand strategy game used for comparison.",
+      "timestamp": "00:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Crusader_Kings_II",
+          "label": "Wikipedia: Crusader Kings II",
+          "source": "wikipedia",
+          "note": "2012 video game"
+        }
+      ]
+    },
+    {
+      "name": "Nobunaga's Ambition",
+      "kind": "game",
+      "description": "The first game in the series, whose engine this sequel updates.",
+      "timestamp": "02:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nobunaga's_Ambition_(video_game)",
+          "label": "Wikipedia: Nobunaga's Ambition (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Nobunaga%27s_Ambition",
+          "label": "Nobunaga's Ambition at StrategyWiki",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "192-nobunagas-ambition",
+      "episode_title": "Nobunaga's Ambition"
+    },
+    {
+      "name": "Romance of the Three Kingdoms",
+      "kind": "game",
+      "description": "Koei's earlier China-set strategy game with a similar engine.",
+      "timestamp": "03:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_(video_game_series)",
+          "label": "Wikipedia: Romance of the Three Kingdoms (video game series)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Romance_of_the_Three_Kingdoms",
+          "label": "Romance of the Three Kingdoms at StrategyWiki",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "229-romance-of-the-three-kingdoms",
+      "episode_title": "Romance of the Three Kingdoms"
+    },
+    {
+      "name": "Genghis Khan",
+      "kind": "game",
+      "description": "Koei's Mongol-themed strategy game covered earlier on the show.",
+      "timestamp": "03:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Genghis_Khan_(video_game)",
+          "label": "Wikipedia: Genghis Khan (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Bandit Kings of Ancient China",
+      "kind": "game",
+      "description": "Another Koei NES strategy game set in China.",
+      "timestamp": "03:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bandit_Kings_of_Ancient_China",
+          "label": "Wikipedia: Bandit Kings of Ancient China",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ],
+      "episode_key": "404-bandit-kings-of-ancient-china",
+      "episode_title": "Bandit Kings of Ancient China"
+    },
+    {
+      "name": "Dynasty Warriors",
+      "kind": "game",
+      "description": "Koei's action series that grew out of its strategy roster.",
+      "timestamp": "07:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dynasty_Warriors",
+          "label": "Wikipedia: Dynasty Warriors",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Europa Universalis",
+      "kind": "game",
+      "description": "Paradox series with optional scripted historical events.",
+      "timestamp": "12:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Europa_Universalis",
+          "label": "Wikipedia: Europa Universalis",
+          "source": "wikipedia",
+          "note": "2000 grand strategy video game"
+        }
+      ]
+    },
+    {
+      "name": "North & South",
+      "kind": "game",
+      "description": "Strategy game with map and battle minigames, cited as a model for accessibility.",
+      "timestamp": "16:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/North_%26_South_(video_game)",
+          "label": "Wikipedia: North & South (video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Gran Turismo 7",
+      "kind": "game",
+      "description": "Racing game with an AI mode called Sophy.",
+      "timestamp": "38:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gran_Turismo_7",
+          "label": "Wikipedia: Gran Turismo 7",
+          "source": "wikipedia",
+          "note": "2022 sim racing video game"
+        }
+      ]
+    },
+    {
+      "name": "Pokémon Conquest",
+      "kind": "game",
+      "description": "DS crossover released in Japan as Pokémon + Nobunaga's Ambition.",
+      "timestamp": "40:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Conquest",
+          "label": "Wikipedia: Pokémon Conquest",
+          "source": "wikipedia",
+          "note": "2012 video game"
+        },
+        {
+          "url": "https://bulbapedia.bulbagarden.net/wiki/P%2BNA",
+          "label": "Pokémon Conquest at Bulbapedia",
+          "source": "other"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Pok%C3%A9mon_%2B_Nobunaga%27s_Ambition",
+          "label": "Pokémon + Nobunaga's Ambition at StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Console Archives Nobunaga's Ambition II",
+      "kind": "game",
+      "description": "Hamster's $7.99 modern re-release with save states, rewind and remappable buttons.",
+      "timestamp": "43:02",
+      "links": [
+        {
+          "url": "https://www.gematsu.com/2026/09/console-archives-nobunagas-ambition-ii-launches-september-10",
+          "label": "Console Archives Nobunaga's Ambition II launches September 10 at Gematsu",
+          "source": "other"
+        },
+        {
+          "url": "https://www.nintendolife.com/games/nintendo-switch-2/console_archives_nobunagas_ambition_ii",
+          "label": "Console Archives Nobunaga's Ambition II at Nintendo Life",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "L'Empereur",
+      "kind": "game",
+      "description": "Koei's Napoleonic Wars strategy game coming to the NES.",
+      "timestamp": "45:03",
+      "links": [
+        {
+          "url": "https://www.strategywiki.org/wiki/L%27Empereur",
+          "label": "L'Empereur at StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Snatcher",
+      "kind": "game",
+      "description": "Kojima game that came to the Sega CD and later the PlayStation and Saturn in Japan.",
+      "timestamp": "48:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Snatcher_(video_game)",
+          "label": "Wikipedia: Snatcher (video game)",
+          "source": "wikipedia",
+          "note": "1988 adventure game directed by Hideo Kojima"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "other",
+      "description": "Our running list of must-play NES games.",
+      "timestamp": "50:17",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

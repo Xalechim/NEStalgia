@@ -1,0 +1,282 @@
+{
+  "episode": 456,
+  "title": "456 - RoboCop 2",
+  "generated": "2026-10-30",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "196272788c11",
+  "items": [
+    {
+      "name": "RoboCop 2",
+      "kind": "game",
+      "description": "The episode's game: Data East's 1991 NES platformer based on the movie.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/game/63466/robocop-2/",
+          "label": "RoboCop 2 at MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://archive.org/download/NESManuals/RoboCop%202%20%28USA%29_text.pdf",
+          "label": "RoboCop 2 NES manual (text) at Internet Archive",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "245-robocop",
+      "episode_title": "RoboCop"
+    },
+    {
+      "name": "RoboCop",
+      "kind": "game",
+      "description": "The first NES game, where RoboCop could not jump.",
+      "timestamp": "01:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/RoboCop_(1988_video_game)",
+          "label": "Wikipedia: RoboCop (1988 video game)",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/RoboCop_(NES)",
+          "label": "RoboCop (NES) at StrategyWiki",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "245-robocop",
+      "episode_title": "RoboCop"
+    },
+    {
+      "name": "RoboCop 2 (film)",
+      "kind": "film_tv_music",
+      "description": "The 1990 movie the game is based on, with the RoboCop 2 cyborg villain.",
+      "timestamp": "05:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/RoboCop_2",
+          "label": "Wikipedia: RoboCop 2",
+          "source": "wikipedia",
+          "note": "1990 film by Irvin Kershner"
+        }
+      ]
+    },
+    {
+      "name": "Frank Miller",
+      "kind": "person",
+      "description": "Comics writer who wrote the RoboCop 2 screenplay after the writers' strike.",
+      "timestamp": "08:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Miller",
+          "label": "Wikipedia: Frank Miller",
+          "source": "wikipedia",
+          "note": "American writer, artist, and director (born 1957)"
+        }
+      ]
+    },
+    {
+      "name": "RoboCop 2 (arcade)",
+      "kind": "game",
+      "description": "The arcade brawler version, praised for sprite work and sound.",
+      "timestamp": "29:26",
+      "links": [
+        {
+          "url": "https://www.hardcoregaming101.net/robocop-2/",
+          "label": "RoboCop 2 (Arcade) at Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Hogan's Alley",
+      "kind": "game",
+      "description": "The shooting gallery style that the bonus stage resembles.",
+      "timestamp": "13:45",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hogan's_Alley_(video_game)",
+          "label": "Wikipedia: Hogan's Alley (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ],
+      "episode_key": "008-hogans-alley",
+      "episode_title": "HOGAN'S ALLEY"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Used as the benchmark for good momentum and jumping.",
+      "timestamp": "03:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "The Untouchables",
+      "kind": "game",
+      "description": "Earlier movie game that tried to cover movie moments.",
+      "timestamp": "09:48",
+      "links": [],
+      "episode_key": "429-the-untouchables",
+      "episode_title": "The Untouchables"
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "Magazine whose April 1991 issue said RoboCop is initially difficult to control.",
+      "timestamp": "22:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        },
+        {
+          "url": "https://library.gamehistory.org/repositories/2/digital_objects/12211",
+          "label": "Nintendo Power Vol. 23, April 1991 at the Video Game History Foundation library",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Game Genie",
+      "kind": "hardware",
+      "description": "Cheat device the cartridge is said to be built to hang on.",
+      "timestamp": "31:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Genie",
+          "label": "Wikipedia: Game Genie",
+          "source": "wikipedia",
+          "note": "Line of video game cheat cartridges"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Accessories/Game_Genie",
+          "label": "Game Genie at Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Data East",
+      "kind": "company",
+      "description": "Publisher of the game, whose arcade titles fill the movie's arcade scene.",
+      "timestamp": "33:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_East",
+          "label": "Wikipedia: Data East",
+          "source": "wikipedia",
+          "note": "Japanese video game and electronics company"
+        }
+      ]
+    },
+    {
+      "name": "Bad Dudes",
+      "kind": "game",
+      "description": "Data East arcade game seen in the movie's arcade scene.",
+      "timestamp": "33:57",
+      "links": [],
+      "episode_key": "204-bad-dudes",
+      "episode_title": "Bad Dudes"
+    },
+    {
+      "name": "Heavy Barrel",
+      "kind": "game",
+      "description": "Data East arcade game in the movie's arcade scene.",
+      "timestamp": "33:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Heavy_Barrel",
+          "label": "Wikipedia: Heavy Barrel",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "286-heavy-barrel",
+      "episode_title": "Heavy Barrel"
+    },
+    {
+      "name": "Midnight Resistance",
+      "kind": "game",
+      "description": "Data East arcade game in the movie's arcade scene.",
+      "timestamp": "33:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Midnight_Resistance",
+          "label": "Wikipedia: Midnight Resistance",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kung Fu Master",
+      "kind": "game",
+      "description": "Arcade game in the movie's arcade scene.",
+      "timestamp": "33:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kung-Fu_Master_(video_game)",
+          "label": "Wikipedia: Kung-Fu Master (video game)",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ]
+    },
+    {
+      "name": "Magnavox Odyssey",
+      "kind": "hardware",
+      "description": "The first video game console, which came up as a joke.",
+      "timestamp": "35:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Magnavox_Odyssey",
+          "label": "Wikipedia: Magnavox Odyssey",
+          "source": "wikipedia",
+          "note": "First commercial home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Uncharted",
+      "kind": "game",
+      "description": "Naughty Dog series with a fan headcanon about repeated deaths.",
+      "timestamp": "26:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Uncharted",
+          "label": "Wikipedia: Uncharted",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ]
+    },
+    {
+      "name": "Tetris",
+      "kind": "game",
+      "description": "Compared to dreaming of puzzles after playing a lot.",
+      "timestamp": "18:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tetris",
+          "label": "Wikipedia: Tetris",
+          "source": "wikipedia",
+          "note": "Puzzle video game"
+        }
+      ],
+      "episode_key": "235-tetris",
+      "episode_title": "Tetris"
+    }
+  ]
+}
