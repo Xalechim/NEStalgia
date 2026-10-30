@@ -1,0 +1,405 @@
+{
+  "episode": 452,
+  "title": "452 - Totally Rad",
+  "generated": "2026-10-30",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "28de3da5c25b",
+  "items": [
+    {
+      "name": "Totally Rad",
+      "kind": "game",
+      "description": "The episode's game: Aicom's 1991 Jaleco NES action platformer with 12 starting powers and skateboard slang.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Totally_Rad",
+          "label": "Wikipedia: Totally Rad",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://tcrf.net/Totally_Rad",
+          "label": "The Cutting Room Floor: Totally Rad",
+          "source": "other"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Totally_Rad",
+          "label": "Giant Bomb: Totally Rad",
+          "source": "reference"
+        },
+        {
+          "url": "https://postgamecontent.com/post/142731767243/the-mega-man-factory-part-7-totally-rad",
+          "label": "The Mega Man Factory, Part 7: Totally Rad",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Magic John",
+      "kind": "game",
+      "description": "The Japanese Famicom original, with anime-style characters, that Totally Rad was reworked from.",
+      "timestamp": "28:01",
+      "links": [
+        {
+          "url": "https://seafoamgaming.com/2025/05/11/jalecolle-famicom-ver-magic-john-totally-rad-switch-eshop-review/",
+          "label": "Seafoam Gaming: Magic John & Totally RAD review",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Aicom",
+      "kind": "company",
+      "description": "The Japanese developer of Totally Rad, also behind The Mafat Conspiracy.",
+      "timestamp": "27:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Aicom",
+          "label": "Wikipedia: Aicom",
+          "source": "wikipedia",
+          "note": "Japanese video game developer (1988–2001)"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Aicom",
+          "label": "StrategyWiki: Aicom",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Jaleco",
+      "kind": "company",
+      "description": "The publisher that rewrote the script into 1980s skater slang for North America.",
+      "timestamp": "27:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jaleco",
+          "label": "Wikipedia: Jaleco",
+          "source": "wikipedia",
+          "note": "Video game publisher"
+        }
+      ]
+    },
+    {
+      "name": "The Mafat Conspiracy",
+      "kind": "game",
+      "description": "Earlier Aicom NES game, the Golgo 13 sequel, covered on the show before.",
+      "timestamp": "27:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Mafat_Conspiracy",
+          "label": "Wikipedia: The Mafat Conspiracy",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "323-the-mafat-conspiracy",
+      "episode_title": "The Mafat Conspiracy"
+    },
+    {
+      "name": "Mega Man",
+      "kind": "game",
+      "description": "The action series Totally Rad is compared to, which also gives you power-ups differently.",
+      "timestamp": "09:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man",
+          "label": "Wikipedia: Mega Man",
+          "source": "wikipedia",
+          "note": "Video game franchise"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Mega Man 4",
+      "kind": "game",
+      "description": "The coming game that introduces the charge shot on the NES.",
+      "timestamp": "15:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mega_Man_4",
+          "label": "Wikipedia: Mega Man 4",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Mega_Man_4",
+          "label": "Giant Bomb: Mega Man 4",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "088-mega-man",
+      "episode_title": "MEGA MAN"
+    },
+    {
+      "name": "Castlevania",
+      "kind": "game",
+      "description": "Its sub weapon button (up plus attack) is compared to how Totally Rad selects powers.",
+      "timestamp": "14:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
+          "label": "Wikipedia: Castlevania (1986 video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "044-castlevania",
+      "episode_title": "CASTLEVANIA"
+    },
+    {
+      "name": "The Ren & Stimpy Show",
+      "kind": "film_tv_music",
+      "description": "Cartoon the hosts say Zebediah's gross animation style belongs to.",
+      "timestamp": "05:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Ren_%26_Stimpy_Show",
+          "label": "Wikipedia: The Ren & Stimpy Show",
+          "source": "wikipedia",
+          "note": "American animated comedy television series"
+        }
+      ]
+    },
+    {
+      "name": "I Think You Should Leave with Tim Robinson",
+      "kind": "film_tv_music",
+      "description": "Sketch show the hosts compare the game's tone to, including a Scrooge sketch.",
+      "timestamp": "07:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/I_Think_You_Should_Leave_with_Tim_Robinson",
+          "label": "Wikipedia: I Think You Should Leave with Tim Robinson",
+          "source": "wikipedia",
+          "note": "American sketch comedy series"
+        }
+      ]
+    },
+    {
+      "name": "Final Fantasy VII",
+      "kind": "game",
+      "description": "Mentioned for its underground people, which Totally Rad had earlier.",
+      "timestamp": "05:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+          "label": "Wikipedia: Final Fantasy VII",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Monster Party",
+      "kind": "game",
+      "description": "Another weird-themed NES game with memorable cutscene lines, but one that commits to its theme.",
+      "timestamp": "44:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monster_Party",
+          "label": "Wikipedia: Monster Party",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Monster_Party",
+          "label": "StrategyWiki: Monster Party",
+          "source": "reference"
+        },
+        {
+          "url": "https://flyingomelette.com/reviews/nes/monsterparty.html",
+          "label": "Flying Omelette: Monster Party",
+          "source": "other"
+        }
+      ],
+      "episode_key": "191-monster-party",
+      "episode_title": "MONSTER PARTY"
+    },
+    {
+      "name": "Whomp 'Em",
+      "kind": "game",
+      "description": "Jaleco's next reworked game (called Wampum on the show), with a Native American hero.",
+      "timestamp": "29:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Whomp_'Em",
+          "label": "Wikipedia: Whomp 'Em",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/whomp-em/",
+          "label": "Hardcore Gaming 101: Whomp 'Em",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Rad Racer",
+      "kind": "game",
+      "description": "1987 NES racer, used for the timeline of how long the word 'rad' stayed fashionable.",
+      "timestamp": "33:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rad_Racer",
+          "label": "Wikipedia: Rad Racer",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/rad-racer/",
+          "label": "Hardcore Gaming 101: Rad Racer",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "077-rad-racer",
+      "episode_title": "RAD RACER"
+    },
+    {
+      "name": "Rad",
+      "kind": "film_tv_music",
+      "description": "1986 BMX movie cited as peak 'rad' in pop culture.",
+      "timestamp": "34:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rad_(film)",
+          "label": "Wikipedia: Rad (film)",
+          "source": "wikipedia",
+          "note": "1986 film by Hal Needham"
+        }
+      ]
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles",
+      "kind": "film_tv_music",
+      "description": "Discussed for whether the comics or the 1987 cartoon introduced 'rad' slang.",
+      "timestamp": "34:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles",
+          "label": "Wikipedia: Teenage Mutant Ninja Turtles",
+          "source": "wikipedia",
+          "note": "American media franchise"
+        }
+      ],
+      "episode_key": "195-teenage-mutant-ninja-turtles",
+      "episode_title": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "name": "Mister Mxyzptlk",
+      "kind": "other",
+      "description": "Superman villain with a hard-to-spell name, which Zebediah reminded a host of.",
+      "timestamp": "29:21",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mister_Mxyzptlk",
+          "label": "Wikipedia: Mister Mxyzptlk",
+          "source": "wikipedia",
+          "note": "Fictional character in DC comics"
+        }
+      ]
+    },
+    {
+      "name": "Nintendo Power",
+      "kind": "website_or_article",
+      "description": "The magazine that gave Totally Rad a 3.7 score in its issue.",
+      "timestamp": "30:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nintendo_Power",
+          "label": "Wikipedia: Nintendo Power",
+          "source": "wikipedia",
+          "note": "American video game magazine and podcast (1988–2012)"
+        }
+      ]
+    },
+    {
+      "name": "Super Nintendo Entertainment System",
+      "kind": "hardware",
+      "description": "The console beginning to dominate as 1991 goes on.",
+      "timestamp": "44:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+          "label": "Wikipedia: Super Nintendo Entertainment System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Winter Games",
+      "kind": "game",
+      "description": "Multi-event sports game the host expected Totally Rad to resemble, but for the 80s.",
+      "timestamp": "26:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Winter_Games",
+          "label": "Wikipedia: Winter Games",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "073-winter-games",
+      "episode_title": "WINTER GAMES"
+    },
+    {
+      "name": "Magic Johnson",
+      "kind": "person",
+      "description": "Basketball star the hosts guess the Japanese name Magic John may reference.",
+      "timestamp": "33:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Magic_Johnson",
+          "label": "Wikipedia: Magic Johnson",
+          "source": "wikipedia",
+          "note": "American basketball player and entrepreneur (born 1959)"
+        }
+      ]
+    },
+    {
+      "name": "Squirt",
+      "kind": "other",
+      "description": "Citrus soda one host finally tried after the last soda episode.",
+      "timestamp": "37:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Squirt_(drink)",
+          "label": "Wikipedia: Squirt (drink)",
+          "source": "wikipedia",
+          "note": "Grapefruit soft drink"
+        }
+      ]
+    },
+    {
+      "name": "Sierra Mist",
+      "kind": "other",
+      "description": "Pepsi lemon-lime soda mentioned in the soda talk, now renamed Starry.",
+      "timestamp": "37:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sierra_Mist",
+          "label": "Wikipedia: Sierra Mist",
+          "source": "wikipedia",
+          "note": "Discontinued lemon-lime flavored soda"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of games worth playing, which the hosts voted on at the end.",
+      "timestamp": "42:18",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}
