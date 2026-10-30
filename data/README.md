@@ -38,3 +38,19 @@ Episodes that aren't in the public feed yet aren't in this file.
 
 `bytes-info.json` lists the NEStalgia Bytes episodes (Patreon-only) shown on the website: `{number: {title, published, patreon_url}}`, read from
 the episode spreadsheet by `scripts/python/bytes_info.py`. `bytes-art-sources.json` records where each Bytes cover came from.
+
+## Getting an episode ready before it comes out
+
+Everything about an episode that isn't in the podcast feed yet is ignored by the website until it is, so these files can be prepared days ahead.
+Where each recent and upcoming episode stands: `python3 scripts/python/pipeline_status.py --board`.
+
+- `mix-fingerprints/NNN.json` (about 37 KB each): the loudness pattern of the episode's final mix, saved when its transcript is made
+  (`audio_offsets.py --fingerprint`). When the episode appears in the feed, GitHub lines it up against the host's audio to measure how far the host's
+  audio is shifted (ads are inserted at the start), which is what makes the clickable timestamps in the transcript start in the right place.
+  `mix-fingerprints/_tried.json` counts failed measurements so GitHub gives up after six instead of downloading the audio on every update.
+- `audio-offsets.json`: the measured shifts, `{"446": [[0, 60.2]]}` meaning "from mix time 0 s on, the host's audio is 60.2 s later".
+  `audio-offsets-todo.json` lists episodes where the shift changes mid-episode: only the start shift is known and the Mac should do a full alignment.
+- `up-next-art/NNN.jpg`: the cover for an upcoming episode, copied from the iCloud working folder by the Mac (`next_episode.stage_upcoming_art`) so
+  GitHub can use your own art for the Up next box when it moves on to that episode.
+- `next-episode.json` and `next-episode.jpg`: what the Up next box on the home page shows (the first numbered episode in the spreadsheet after the newest
+  published one, with its Wikipedia intro). It moves on by itself when the feed catches up.
