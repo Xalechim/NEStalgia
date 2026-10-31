@@ -1,0 +1,238 @@
+{
+  "episode": 457,
+  "title": "457 - World Champ",
+  "generated": "2026-10-31",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "a49de69a1a68",
+  "items": [
+    {
+      "name": "World Champ",
+      "kind": "game",
+      "description": "The episode's game: a 1991 NES boxing game with a stat-building career mode.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/game/10314",
+          "label": "World Champ at MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.giantbomb.com/wd/3030-17273",
+          "label": "World Champ at Giant Bomb",
+          "source": "reference"
+        },
+        {
+          "url": "https://tasvideos.org/4238G",
+          "label": "World Champ at TASVideos",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Mike Tyson's Punch-Out!!",
+      "kind": "game",
+      "description": "The NES boxing game World Champ is compared against; more like a rhythm game.",
+      "timestamp": "10:00",
+      "links": [],
+      "episode_key": "076-mike-tysons-punch-out",
+      "episode_title": "MIKE TYSON'S PUNCH-OUT"
+    },
+    {
+      "name": "Ring King",
+      "kind": "game",
+      "description": "Data East NES boxing game the hosts say World Champ got right where it did not.",
+      "timestamp": "47:54",
+      "links": [],
+      "episode_key": "064-ring-king",
+      "episode_title": "RING KING"
+    },
+    {
+      "name": "Heavyweight Championship Boxing",
+      "kind": "game",
+      "description": "1990 Game Boy boxing game that let players spread points across health, stamina and speed.",
+      "timestamp": "35:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Boxing_(1990_video_game)",
+          "label": "Wikipedia: Boxing (1990 video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://tcrf.net/Heavyweight_Championship_Boxing",
+          "label": "Heavyweight Championship Boxing at TCRF",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "James 'Buster' Douglas Knockout Boxing",
+      "kind": "game",
+      "description": "Sega Genesis boxing game that was a reskin of Taito's arcade Final Blow.",
+      "timestamp": "33:43",
+      "links": [
+        {
+          "url": "https://giantbomb.com/wiki/Games/James_Buster_Douglas_Knockout_Boxing",
+          "label": "James 'Buster' Douglas Knockout Boxing at Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Mike Tyson",
+      "kind": "person",
+      "description": "Boxer who is the final boss in Punch-Out and in the Japanese version of World Champ.",
+      "timestamp": "32:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Tyson",
+          "label": "Wikipedia: Mike Tyson",
+          "source": "wikipedia",
+          "note": "American boxer and media personality (born 1966)"
+        }
+      ]
+    },
+    {
+      "name": "Buster Douglas",
+      "kind": "person",
+      "description": "Knocked out Mike Tyson in 1990.",
+      "timestamp": "32:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Buster_Douglas",
+          "label": "Wikipedia: Buster Douglas",
+          "source": "wikipedia",
+          "note": "American boxer (born 1960)"
+        }
+      ]
+    },
+    {
+      "name": "Pokémon",
+      "kind": "game",
+      "description": "Used to argue about carrying a high-level character to a friend's house.",
+      "timestamp": "27:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)",
+          "label": "Wikipedia: Pokémon (video game series)",
+          "source": "wikipedia",
+          "note": "Japanese video game series"
+        }
+      ]
+    },
+    {
+      "name": "The Lord of the Rings: The Return of the King",
+      "kind": "game",
+      "description": "PS2 game where a leveled-up character carries over to multiplayer.",
+      "timestamp": "26:15",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings%3A_The_Return_of_the_King_(video_game)",
+          "label": "Wikipedia: The Lord of the Rings: The Return of the King (video game)",
+          "source": "wikipedia",
+          "note": "2003 video game"
+        }
+      ]
+    },
+    {
+      "name": "Bugs Bunny's Crazy Castle",
+      "kind": "game",
+      "description": "Another NES password game the hosts compare the password system to.",
+      "timestamp": "24:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Bugs_Bunny_Crazy_Castle",
+          "label": "Wikipedia: The Bugs Bunny Crazy Castle",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Winter Games",
+      "kind": "game",
+      "description": "Minigame-style sports game the hosts first thought World Champ would resemble.",
+      "timestamp": "22:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Winter_Games",
+          "label": "Wikipedia: Winter Games",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "073-winter-games",
+      "episode_title": "WINTER GAMES"
+    },
+    {
+      "name": "Al Unser Jr.",
+      "kind": "person",
+      "description": "Real driver who is the only real racer in a game the hosts discussed.",
+      "timestamp": "41:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Al_Unser_Jr.",
+          "label": "Wikipedia: Al Unser Jr.",
+          "source": "wikipedia",
+          "note": "American racing driver (born 1962)"
+        }
+      ]
+    },
+    {
+      "name": "Bill Elliott",
+      "kind": "person",
+      "description": "Real NASCAR driver who is the only named real driver in an NES racing game.",
+      "timestamp": "41:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bill_Elliott",
+          "label": "Wikipedia: Bill Elliott",
+          "source": "wikipedia",
+          "note": "American racing driver and team owner (born 1955)"
+        }
+      ]
+    },
+    {
+      "name": "John Elway",
+      "kind": "person",
+      "description": "NFL quarterback of the NES game John Elway's Quarterback.",
+      "timestamp": "42:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Elway",
+          "label": "Wikipedia: John Elway",
+          "source": "wikipedia",
+          "note": "American football player and executive (born 1960)"
+        }
+      ]
+    },
+    {
+      "name": "Village People",
+      "kind": "film_tv_music",
+      "description": "Group a host joked the referee resembles (the cop).",
+      "timestamp": "39:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Village_People",
+          "label": "Wikipedia: Village People",
+          "source": "wikipedia",
+          "note": "American disco group"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of must-play NES games.",
+      "timestamp": "45:15",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

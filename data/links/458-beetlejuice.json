@@ -1,0 +1,314 @@
+{
+  "episode": 458,
+  "title": "458 - Beetlejuice",
+  "generated": "2026-10-31",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "8ede5b19ce14",
+  "items": [
+    {
+      "name": "Beetlejuice",
+      "kind": "game",
+      "description": "The episode's game: Rare and LJN's 1991 NES platformer based on the film.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://tcrf.net/Beetlejuice_(NES)",
+          "label": "Beetlejuice (NES) at TCRF",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Beetlejuice",
+          "label": "Beetlejuice at Giant Bomb",
+          "source": "reference"
+        },
+        {
+          "url": "https://kb.speeddemosarchive.com/Beetlejuice_(NES)/Game_Mechanics_and_Techniques",
+          "label": "Beetlejuice (NES) Game Mechanics at Speed Demos Archive",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Beetlejuice",
+      "kind": "film_tv_music",
+      "description": "The 1988 Tim Burton film the game is loosely based on.",
+      "timestamp": "00:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Beetlejuice",
+          "label": "Wikipedia: Beetlejuice",
+          "source": "wikipedia",
+          "note": "1988 film by Tim Burton"
+        }
+      ]
+    },
+    {
+      "name": "Beetlejuice (animated series)",
+      "kind": "film_tv_music",
+      "description": "Animated TV series, 94 episodes, whose zaniness shows in the game.",
+      "timestamp": "03:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Beetlejuice_(TV_series)",
+          "label": "Wikipedia: Beetlejuice (TV series)",
+          "source": "wikipedia",
+          "note": "American animated TV series (1989–1991)"
+        }
+      ]
+    },
+    {
+      "name": "Beetlejuice Beetlejuice",
+      "kind": "film_tv_music",
+      "description": "The sequel film the hosts debate; it grossed $452 million.",
+      "timestamp": "04:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Beetlejuice_Beetlejuice",
+          "label": "Wikipedia: Beetlejuice Beetlejuice",
+          "source": "wikipedia",
+          "note": "2024 film by Tim Burton"
+        }
+      ]
+    },
+    {
+      "name": "Beetlejuice: Horrific Hijinks from the Neitherworld",
+      "kind": "game",
+      "description": "Rare's Game Boy Beetlejuice game based on the cartoon.",
+      "timestamp": "39:30",
+      "links": [
+        {
+          "url": "https://lutris.net/games/beetlejuice-horrific-hijinx-from-the-neitherworld/",
+          "label": "Horrific Hijinx from the Neitherworld at Lutris",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "The Adventures of Beetlejuice: Skeletons in the Closet",
+      "kind": "game",
+      "description": "MS-DOS Beetlejuice game from Hi Tech Expressions based on the cartoon.",
+      "timestamp": "41:02",
+      "links": [
+        {
+          "url": "https://www.myabandonware.com/game/adventures-of-beetlejuice-skeletons-in-the-closet-u1",
+          "label": "Adventures of Beetlejuice: Skeletons in the Closet at MyAbandonware",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Rare",
+      "kind": "company",
+      "description": "Developer of the NES Beetlejuice game.",
+      "timestamp": "33:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rare_(company)",
+          "label": "Wikipedia: Rare (company)",
+          "source": "wikipedia",
+          "note": "British video game developer"
+        }
+      ]
+    },
+    {
+      "name": "LJN",
+      "kind": "company",
+      "description": "Publisher of the NES Beetlejuice game.",
+      "timestamp": "33:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/LJN",
+          "label": "Wikipedia: LJN",
+          "source": "wikipedia",
+          "note": "American toy and video game publishing company"
+        }
+      ]
+    },
+    {
+      "name": "Tim Burton",
+      "kind": "person",
+      "description": "Director of the Beetlejuice film.",
+      "timestamp": "32:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tim_Burton",
+          "label": "Wikipedia: Tim Burton",
+          "source": "wikipedia",
+          "note": "American filmmaker (born 1958)"
+        }
+      ]
+    },
+    {
+      "name": "Danny Elfman",
+      "kind": "person",
+      "description": "Composer of the film's score, absent from the game.",
+      "timestamp": "33:02",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Danny_Elfman",
+          "label": "Wikipedia: Danny Elfman",
+          "source": "wikipedia",
+          "note": "American composer (born 1953)"
+        }
+      ]
+    },
+    {
+      "name": "Michael Keaton",
+      "kind": "person",
+      "description": "Played Beetlejuice in the film; no Keaton in the cartoon.",
+      "timestamp": "02:18",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Keaton",
+          "label": "Wikipedia: Michael Keaton",
+          "source": "wikipedia",
+          "note": "American actor (born 1951)"
+        }
+      ]
+    },
+    {
+      "name": "Alec Baldwin",
+      "kind": "person",
+      "description": "Played the dead husband in the film.",
+      "timestamp": "06:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alec_Baldwin",
+          "label": "Wikipedia: Alec Baldwin",
+          "source": "wikipedia",
+          "note": "American actor (born 1958)"
+        }
+      ]
+    },
+    {
+      "name": "Birdman",
+      "kind": "film_tv_music",
+      "description": "Michael Keaton film the hosts joked about when naming the Birdman scare.",
+      "timestamp": "18:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Birdman_(film)",
+          "label": "Wikipedia: Birdman (film)",
+          "source": "wikipedia",
+          "note": "2014 film by Alejandro G. Iñárritu"
+        }
+      ]
+    },
+    {
+      "name": "Ghostbusters",
+      "kind": "film_tv_music",
+      "description": "Another film with a TV series and games around the same time.",
+      "timestamp": "34:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghostbusters",
+          "label": "Wikipedia: Ghostbusters",
+          "source": "wikipedia",
+          "note": "1984 American film"
+        }
+      ],
+      "episode_key": "124-ghostbusters",
+      "episode_title": "GHOSTBUSTERS"
+    },
+    {
+      "name": "LEGO Dimensions",
+      "kind": "game",
+      "description": "Crossover game where Beetlejuice appears.",
+      "timestamp": "42:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lego_Dimensions",
+          "label": "Wikipedia: Lego Dimensions",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ]
+    },
+    {
+      "name": "MultiVersus",
+      "kind": "game",
+      "description": "Warner Bros. platform fighter featuring Beetlejuice, LeBron James and others.",
+      "timestamp": "42:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/MultiVersus",
+          "label": "Wikipedia: MultiVersus",
+          "source": "wikipedia",
+          "note": "2024 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario RPG",
+      "kind": "game",
+      "description": "SNES game Geno comes from.",
+      "timestamp": "44:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_RPG",
+          "label": "Wikipedia: Super Mario RPG",
+          "source": "wikipedia",
+          "note": "1996 video game"
+        }
+      ]
+    },
+    {
+      "name": "Rugrats: Search for Reptar",
+      "kind": "game",
+      "description": "PlayStation game set in the Rugrats house, compared to the game's house levels.",
+      "timestamp": "26:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rugrats%3A_Search_for_Reptar",
+          "label": "Wikipedia: Rugrats: Search for Reptar",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "Maniac Mansion",
+      "kind": "game",
+      "description": "Adventure game the hosts wished the house levels resembled.",
+      "timestamp": "27:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Maniac_Mansion",
+          "label": "Wikipedia: Maniac Mansion",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "367-maniac-mansion",
+      "episode_title": "Maniac Mansion"
+    },
+    {
+      "name": "Sgt. Pepper's Lonely Hearts Club Band",
+      "kind": "film_tv_music",
+      "description": "Beatles album joked about while stomping beetles.",
+      "timestamp": "22:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band",
+          "label": "Wikipedia: Sgt. Pepper's Lonely Hearts Club Band",
+          "source": "wikipedia",
+          "note": "1967 studio album by the Beatles"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of must-play NES games.",
+      "timestamp": "46:35",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}
