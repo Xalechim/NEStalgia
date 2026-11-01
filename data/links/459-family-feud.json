@@ -1,0 +1,403 @@
+{
+  "episode": 459,
+  "title": "459 - Family Feud",
+  "generated": "2026-11-01",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "86fca6a1d8e7",
+  "items": [
+    {
+      "name": "Family Feud (NES)",
+      "kind": "game",
+      "description": "The episode's game: GameTek's 1991 NES adaptation of the game show, developed by Beam Software.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Feud_(video_game_series)",
+          "label": "Wikipedia: Family Feud (video game series)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        },
+        {
+          "url": "https://tcrf.net/Family_Feud_(NES)",
+          "label": "Family Feud (NES) at TCRF",
+          "source": "reference"
+        },
+        {
+          "url": "https://giantbomb.com/wiki/Games/Family_Feud",
+          "label": "Family Feud at Giant Bomb",
+          "source": "reference"
+        },
+        {
+          "url": "https://archive.org/download/NESManuals/Family%20Feud%20%28USA%29_text.pdf",
+          "label": "Family Feud NES manual (archive.org)",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Family Feud",
+      "kind": "film_tv_music",
+      "description": "The long-running TV game show where families guess the top survey answers.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Feud",
+          "label": "Wikipedia: Family Feud",
+          "source": "wikipedia",
+          "note": "American television game show"
+        }
+      ]
+    },
+    {
+      "name": "Richard Dawson",
+      "kind": "person",
+      "description": "Original host of Family Feud, famous for kissing female contestants, and the host the NES game imitates.",
+      "timestamp": "01:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Richard_Dawson",
+          "label": "Wikipedia: Richard Dawson",
+          "source": "wikipedia",
+          "note": "British and American actor (1932–2012)"
+        },
+        {
+          "url": "https://www.looper.com/30773/untold-truth-family-feud/",
+          "label": "The Untold Truth Of Family Feud (Looper)",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Louie Anderson",
+      "kind": "person",
+      "description": "Comedian who hosted Family Feud in the late 1990s and appears as host in the PlayStation game.",
+      "timestamp": "00:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Louie_Anderson",
+          "label": "Wikipedia: Louie Anderson",
+          "source": "wikipedia",
+          "note": "American stand-up comedian (1953–2022)"
+        }
+      ]
+    },
+    {
+      "name": "Home Alone 2: Lost in New York",
+      "kind": "film_tv_music",
+      "description": "Movie quoted in a joke about kissing sounds.",
+      "timestamp": "00:53",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Home_Alone_2%3A_Lost_in_New_York",
+          "label": "Wikipedia: Home Alone 2: Lost in New York",
+          "source": "wikipedia",
+          "note": "1992 film by Chris Columbus"
+        }
+      ]
+    },
+    {
+      "name": "Steve Harvey",
+      "kind": "person",
+      "description": "Current Family Feud host, whose version the hosts dislike for its innuendo-driven questions.",
+      "timestamp": "02:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Steve_Harvey",
+          "label": "Wikipedia: Steve Harvey",
+          "source": "wikipedia",
+          "note": "American comedian and television host (born 1957)"
+        }
+      ]
+    },
+    {
+      "name": "Family Feud (PlayStation)",
+      "kind": "game",
+      "description": "2000 PlayStation game featuring Louie Anderson in full motion video as host.",
+      "timestamp": "03:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Feud_(video_game_series)",
+          "label": "Wikipedia: Family Feud (video game series)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        },
+        {
+          "url": "https://psxdatacenter.com/games/U/F/SLUS-01171.html",
+          "label": "Family Feud at PSX Data Center",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Jeopardy! (NES)",
+      "kind": "game",
+      "description": "Earlier NES game show game whose on-screen keyboard the hosts compare to this one.",
+      "timestamp": "06:37",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/game/11375/jeopardy/",
+          "label": "Jeopardy! at MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Wheel of Fortune (NES)",
+      "kind": "game",
+      "description": "Earlier NES game show game with a single-line letter keyboard, compared with this game's layout.",
+      "timestamp": "06:37",
+      "links": [
+        {
+          "url": "https://giantbomb.com/wiki/Games/Wheel_of_Fortune_1988",
+          "label": "Wheel of Fortune (1988) at Giant Bomb",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Ray Combs",
+      "kind": "person",
+      "description": "Host of the 1988 Family Feud revival on CBS.",
+      "timestamp": "25:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ray_Combs",
+          "label": "Wikipedia: Ray Combs",
+          "source": "wikipedia",
+          "note": "American game show host (1956–1996)"
+        }
+      ]
+    },
+    {
+      "name": "Different Strokes",
+      "kind": "film_tv_music",
+      "description": "1980s sitcom, mixed up with 'family strokes' in a joke about gibberish speech.",
+      "timestamp": "21:57",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Diff'rent_Strokes",
+          "label": "Wikipedia: Diff'rent Strokes",
+          "source": "wikipedia",
+          "note": "American television sitcom (1978–1986)"
+        }
+      ]
+    },
+    {
+      "name": "Family Ties",
+      "kind": "film_tv_music",
+      "description": "1980s sitcom named in the same joke.",
+      "timestamp": "22:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Ties",
+          "label": "Wikipedia: Family Ties",
+          "source": "wikipedia",
+          "note": "American television sitcom (1982–1989)"
+        }
+      ]
+    },
+    {
+      "name": "Who Wants to Be a Millionaire",
+      "kind": "film_tv_music",
+      "description": "Game show the hosts imagine losing early on.",
+      "timestamp": "27:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Who_Wants_to_Be_a_Millionaire_(American_game_show)",
+          "label": "Wikipedia: Who Wants to Be a Millionaire (American game show)",
+          "source": "wikipedia",
+          "note": "American television game show"
+        }
+      ]
+    },
+    {
+      "name": "Survivor",
+      "kind": "film_tv_music",
+      "description": "Reality show compared to Weakest Link; the hosts joke about a Survivor family on Family Feud.",
+      "timestamp": "28:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Survivor_(American_TV_series)",
+          "label": "Wikipedia: Survivor (American TV series)",
+          "source": "wikipedia",
+          "note": "American reality television series"
+        }
+      ]
+    },
+    {
+      "name": "The Price Is Right",
+      "kind": "film_tv_music",
+      "description": "Game show named as one the host loves more than Family Feud; also discussed for its mini games.",
+      "timestamp": "28:52",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Price_Is_Right",
+          "label": "Wikipedia: The Price Is Right",
+          "source": "wikipedia",
+          "note": "American television game show"
+        }
+      ]
+    },
+    {
+      "name": "Deal or No Deal",
+      "kind": "film_tv_music",
+      "description": "Game show named as a favorite.",
+      "timestamp": "29:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Deal_or_No_Deal",
+          "label": "Wikipedia: Deal or No Deal",
+          "source": "wikipedia",
+          "note": "International game show franchise"
+        }
+      ]
+    },
+    {
+      "name": "Press Your Luck",
+      "kind": "film_tv_music",
+      "description": "Game show with the 'Big bucks, no whammies' catchphrase, mispronounced as 'Pressure Luck' in a joke.",
+      "timestamp": "29:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Press_Your_Luck",
+          "label": "Wikipedia: Press Your Luck",
+          "source": "wikipedia",
+          "note": "American game show"
+        },
+        {
+          "url": "https://www.mentalfloss.com/article/76656/11-whammy-free-facts-about-press-your-luck",
+          "label": "11 Whammy-Free Facts About Press Your Luck",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "The Luckiest Man in America",
+      "kind": "film_tv_music",
+      "description": "Recent film about the contestant who memorized the Press Your Luck board.",
+      "timestamp": "29:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Luckiest_Man_in_America",
+          "label": "Wikipedia: The Luckiest Man in America",
+          "source": "wikipedia",
+          "note": "2024 film by Samir Oliveros"
+        },
+        {
+          "url": "https://variety.com/2024/film/reviews/the-luckiest-man-in-america-review-1236132963",
+          "label": "Variety review of The Luckiest Man in America",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Dane Cook",
+      "kind": "person",
+      "description": "Comedian the host knows 'big bucks, no whammies' from.",
+      "timestamp": "31:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dane_Cook",
+          "label": "Wikipedia: Dane Cook",
+          "source": "wikipedia",
+          "note": "American comedian and actor (born 1972)"
+        }
+      ]
+    },
+    {
+      "name": "Family Feud (SNES and Genesis)",
+      "kind": "game",
+      "description": "1993 16-bit versions that used Ray Combs as host and added the Bullseye round.",
+      "timestamp": "33:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Feud_(video_game_series)",
+          "label": "Wikipedia: Family Feud (video game series)",
+          "source": "wikipedia",
+          "note": "Video game series"
+        },
+        {
+          "url": "https://tcrf.net/Family_Feud_(Genesis)",
+          "label": "Family Feud (Genesis) at TCRF",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Family Feud Decades",
+      "kind": "game",
+      "description": "2010 Wii game from Ubisoft with sets and questions from four decades, but no host choice.",
+      "timestamp": "34:19",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/game/52971",
+          "label": "Family Feud: Decades at MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.nintendolife.com/reviews/2010/12/family_feud_decades_wii",
+          "label": "Family Feud Decades review (Nintendo Life)",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Match Game",
+      "kind": "film_tv_music",
+      "description": "Game show Richard Dawson also appeared on as a panelist.",
+      "timestamp": "35:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Match_Game",
+          "label": "Wikipedia: Match Game",
+          "source": "wikipedia",
+          "note": "American television game show"
+        }
+      ]
+    },
+    {
+      "name": "Wii",
+      "kind": "hardware",
+      "description": "Nintendo console that got several Family Feud games.",
+      "timestamp": "34:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wii",
+          "label": "Wikipedia: Wii",
+          "source": "wikipedia",
+          "note": "Home video game console by Nintendo"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "website_or_article",
+      "description": "The show's running list of essential NES games, which this game did not make.",
+      "timestamp": "38:31",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Donkey Kong",
+      "kind": "game",
+      "description": "Used as an example of points that only make sense in a video game.",
+      "timestamp": "42:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donkey_Kong_(1981_video_game)",
+          "label": "Wikipedia: Donkey Kong (1981 video game)",
+          "source": "wikipedia",
+          "note": "1981 video game"
+        }
+      ],
+      "episode_key": "018-donkey-kong",
+      "episode_title": "DONKEY KONG"
+    }
+  ]
+}
