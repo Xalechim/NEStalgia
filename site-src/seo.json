@@ -1022,6 +1022,160 @@
         ]
       },
       "summary": "Our ranking of the ten best NES games of 1989, counted down from Gyruss to Ninja Gaiden, with the year's numbers and how each one did on the Essential Games List."
+    },
+    "/articles/best-of-1990": {
+      "title": "The Top 10 NES Games of 1990 (Our Year-End Ranking) · NEStalgia",
+      "description": "Our ranking of the top 10 NES games of 1990, from Jackie Chan's Action Kung Fu and Maniac Mansion up to Crystalis, Castlevania III and Super Mario Bros. 3, with the year's stats.",
+      "layout": "countdown",
+      "heading": "Our top ten",
+      "intro": "Our top ten NES games of 1990, counted down from number ten to number one. Every game links to the episode where we covered it.",
+      "stats": {
+        "year": 1990,
+        "intro": "1990 in numbers, counting every NES game we covered that year."
+      },
+      "related": {
+        "heading": "Every NES game of 1990 we covered",
+        "year": 1990,
+        "see_all": {
+          "year": 1990
+        },
+        "see_all_label": "See all of 1990 with our verdicts"
+      },
+      "ranks": {
+        "10": 409,
+        "9": 367,
+        "8": 303,
+        "7": 264,
+        "6": 394,
+        "5": 415,
+        "4": 341,
+        "3": 338,
+        "2": 357,
+        "1": 275
+      },
+      "summary": "Our ranking of the ten best NES games of 1990, counted down from Jackie Chan's Action Kung Fu to Super Mario Bros. 3, with the year's numbers and how each one did on the Essential Games List.",
+      "screenshots": {
+        "10": [
+          {
+            "file": "jackie-chans-action-kung-fu-nes-screenshot-title.png",
+            "alt": "Jackie Chan's Action Kung Fu: the title screen",
+            "px": true
+          },
+          {
+            "file": "jackie-chans-action-kung-fu-nes-screenshot-gameplay.png",
+            "alt": "Jackie Chan's Action Kung Fu: gameplay",
+            "px": true
+          }
+        ],
+        "9": [
+          {
+            "file": "maniac-mansion-nes-screenshot-title.png",
+            "alt": "Maniac Mansion: the title screen",
+            "px": true
+          },
+          {
+            "file": "maniac-mansion-nes-screenshot-gameplay.png",
+            "alt": "Maniac Mansion: gameplay",
+            "px": true
+          }
+        ],
+        "8": [
+          {
+            "file": "super-c-nes-screenshot-title.png",
+            "alt": "Super C: the title screen",
+            "px": true
+          },
+          {
+            "file": "super-c-nes-screenshot-gameplay.png",
+            "alt": "Super C: gameplay",
+            "px": true
+          }
+        ],
+        "7": [
+          {
+            "file": "river-city-ransom-nes-screenshot-title.png",
+            "alt": "River City Ransom: the title screen",
+            "px": true
+          },
+          {
+            "file": "river-city-ransom-nes-screenshot-gameplay.png",
+            "alt": "River City Ransom: gameplay",
+            "px": true
+          }
+        ],
+        "6": [
+          {
+            "file": "mega-man-3-nes-screenshot-title.png",
+            "alt": "Mega Man 3: the title screen",
+            "px": true
+          },
+          {
+            "file": "mega-man-3-nes-screenshot-gameplay.png",
+            "alt": "Mega Man 3: gameplay",
+            "px": true
+          }
+        ],
+        "5": [
+          {
+            "file": "startropics-nes-screenshot-title.png",
+            "alt": "StarTropics: the title screen",
+            "px": true
+          },
+          {
+            "file": "startropics-nes-screenshot-gameplay.png",
+            "alt": "StarTropics: gameplay",
+            "px": true
+          }
+        ],
+        "4": [
+          {
+            "file": "final-fantasy-nes-screenshot-title.png",
+            "alt": "Final Fantasy: the title screen",
+            "px": true
+          },
+          {
+            "file": "final-fantasy-nes-screenshot-gameplay.png",
+            "alt": "Final Fantasy: gameplay",
+            "px": true
+          }
+        ],
+        "3": [
+          {
+            "file": "crystalis-nes-screenshot-title.png",
+            "alt": "Crystalis: the title screen",
+            "px": true
+          },
+          {
+            "file": "crystalis-nes-screenshot-gameplay.png",
+            "alt": "Crystalis: gameplay",
+            "px": true
+          }
+        ],
+        "2": [
+          {
+            "file": "castlevania-iii-draculas-curse-nes-screenshot-title.png",
+            "alt": "Castlevania III: the title screen",
+            "px": true
+          },
+          {
+            "file": "castlevania-iii-draculas-curse-nes-screenshot-gameplay.png",
+            "alt": "Castlevania III: gameplay",
+            "px": true
+          }
+        ],
+        "1": [
+          {
+            "file": "super-mario-bros-3-nes-screenshot-title.png",
+            "alt": "Super Mario Bros. 3: the title screen",
+            "px": true
+          },
+          {
+            "file": "super-mario-bros-3-nes-screenshot-gameplay.png",
+            "alt": "Super Mario Bros. 3: gameplay",
+            "px": true
+          }
+        ]
+      }
     }
   },
   "episode_guides": [
@@ -1324,6 +1478,56 @@
       "number": 421,
       "href": "/articles/nes-wall-of-shame/#rank-1",
       "label": "On THE NES WALL OF SHAME"
+    },
+    {
+      "number": 409,
+      "href": "/articles/best-of-1990/#rank-10",
+      "label": "Ranked #10 in our Top 10 NES Games of 1990"
+    },
+    {
+      "number": 367,
+      "href": "/articles/best-of-1990/#rank-9",
+      "label": "Ranked #9 in our Top 10 NES Games of 1990"
+    },
+    {
+      "number": 303,
+      "href": "/articles/best-of-1990/#rank-8",
+      "label": "Ranked #8 in our Top 10 NES Games of 1990"
+    },
+    {
+      "number": 264,
+      "href": "/articles/best-of-1990/#rank-7",
+      "label": "Ranked #7 in our Top 10 NES Games of 1990"
+    },
+    {
+      "number": 394,
+      "href": "/articles/best-of-1990/#rank-6",
+      "label": "Ranked #6 in our Top 10 NES Games of 1990"
+    },
+    {
+      "number": 415,
+      "href": "/articles/best-of-1990/#rank-5",
+      "label": "Ranked #5 in our Top 10 NES Games of 1990"
+    },
+    {
+      "number": 341,
+      "href": "/articles/best-of-1990/#rank-4",
+      "label": "Ranked #4 in our Top 10 NES Games of 1990"
+    },
+    {
+      "number": 338,
+      "href": "/articles/best-of-1990/#rank-3",
+      "label": "Ranked #3 in our Top 10 NES Games of 1990"
+    },
+    {
+      "number": 357,
+      "href": "/articles/best-of-1990/#rank-2",
+      "label": "Ranked #2 in our Top 10 NES Games of 1990"
+    },
+    {
+      "number": 275,
+      "href": "/articles/best-of-1990/#rank-1",
+      "label": "Ranked #1 in our Top 10 NES Games of 1990"
     }
   ],
   "redirects": {
