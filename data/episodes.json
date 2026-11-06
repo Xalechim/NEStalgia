@@ -1,6 +1,23 @@
 [
   {
     "type": "episode",
+    "number": 453,
+    "title": "Whomp 'Em",
+    "feed_title": "453 - Whomp 'Em",
+    "published": "2026-11-06",
+    "duration_seconds": 2936,
+    "description": "Support NEStalgia directly by becoming a member of our Patreon at https://www.patreon.com/Nestalgia  Members at the $5 and above level get access to our brand new show NEStalgia Bytes. A look at the famicom games you can play without any Japanese knowledge! For More NEStalgia, visit www.NEStalgiacast.com",
+    "audio_url": "https://traffic.megaphone.fm/APO5294331746.mp3",
+    "episode_page": "https://podcasters.spotify.com/pod/show/nestalgia/episodes/453---Whomp-Em-e3pbc7a",
+    "art": "assets/episode-art/453-whomp-em.jpg",
+    "notes": [
+      "episodes/453-whomp-em.md"
+    ],
+    "transcript": "t",
+    "guid": "c557ec98-666e-4e1b-8468-bee99fef6473"
+  },
+  {
+    "type": "episode",
     "number": 452,
     "title": "Totally Rad",
     "feed_title": "452 - Totally Rad",
