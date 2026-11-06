@@ -929,7 +929,7 @@ def page(title, body, path, desc="", image=None, search=False, current="", jsonl
 <main id="main">{body}</main>
 <footer class="site">NEStalgia is a podcast by Michael Esposito and friends. Text is
 <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>; game art belongs to its owners.
-<a href="{BASE}/about/">About</a> · <a href="https://github.com/Xalechim/NEStalgia">Source on GitHub</a>.</footer>
+<a href="{BASE}/about/">About</a> · <a href="{BASE}/years/">NES games by year</a> · <a href="https://github.com/Xalechim/NEStalgia">Source on GitHub</a>.</footer>
 <script src="{asset('nav.js')}"></script>
 <script>document.getElementById("theme").addEventListener("click",function(){{var t=document.documentElement.dataset.theme==="dark"?"light":"dark";document.documentElement.dataset.theme=t;try{{localStorage.setItem("theme",t)}}catch(e){{}}}});</script>{analytics_tag()}
 </body></html>"""
@@ -1029,11 +1029,65 @@ def prose(fragment, ep_map):
     return fragment.replace("{BASE}", BASE)
 
 
+def seo_description(r, info, fallback):
+    """The text search results show under an episode's title. A written review gives the best one (who made it and what it is, then our verdict);
+    otherwise the feed's own blurb, with a plain sentence added when that blurb is just a quote or a few words."""
+    num, game = r["number"], nice_case(r["title"])
+    rev = r.get("review")
+    if rev:
+        paras = [p.strip() for p in "\n".join(l for l in rev.read_text().split("\n") if not l.startswith("#")).split("\n\n") if p.strip()]
+        if paras:
+            para = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", paras[0]).replace("**", "").replace("`", "")
+            sents = re.split(r"(?<=[.!?])\s+", " ".join(para.split()))
+            out = sents[0]
+            if len(out) > 150:
+                out = out[:147].rsplit(" ", 1)[0].rstrip(",;:") + "..."
+            elif len(sents) > 1 and len(out) + 1 + len(sents[1]) <= 150:
+                out += " " + sents[1]
+            elif len(sents) > 1 and len(out) < 90:  # a very short opener: borrow the start of the next sentence
+                more = sents[1][:150 - len(out) - 1].rsplit(" ", 1)[0].rstrip(",;:.")
+                out += " " + more + "..."
+            verdict = (info or {}).get("verdict")
+            if verdict and len(out) + len(verdict) + 16 <= 175:
+                out += f" Our verdict: {verdict}."
+            return out
+    text = (fallback or "").strip()
+    if len(text) < 60 or text.isupper():
+        return f"Episode {num} of the NEStalgia podcast on {game} for the NES, with our take and Essential Games List vote."
+    return text
+
+
 def redirect_stub(target):
     url = f"{BASE}{target}"
-    return (f'<!doctype html><html lang="en"><meta charset="utf-8"><title>Moved</title>'
+    return (f'<!doctype html><html lang="en"><meta charset="utf-8"><title>NEStalgia: this page has moved</title>'
             f'<link rel="canonical" href="{SITE_URL}{target}"><meta http-equiv="refresh" content="0; url={url}">'
             f'<script>location.replace({json.dumps(url)})</script><p>This page moved to <a href="{url}">{url}</a>.</p></html>')
+
+
+def years_pages(data, write):
+    """A page for each release year ("NES games of 1986") listing every game we covered with its verdict, plus a hub page that links them."""
+    rows = [r for r in data if r["type"] == "episode" and r["number"] is not None and (GAME_INFO.get(str(r["number"])) or {}).get("year")]
+    years = sorted({GAME_INFO[str(r["number"])]["year"] for r in rows})
+    if not years:
+        return
+    last_year = years[-1]
+    best = {y: f"/articles/best-of-{y}/" for y in years if (MIG / "articles" / f"best-of-{y}.md").exists() or (REPO / "articles" / f"best-of-{y}.md").exists()}
+    for y in years:
+        ys = sorted((r for r in rows if GAME_INFO[str(r["number"])]["year"] == y), key=lambda r: r["number"])
+        nav = [(yy, f"/years/{yy}/") for yy in years]
+        body = site_extras.year_body(y, ys, GAME_INFO, E, BASE, best.get(y), nav, partial=(y == last_year))
+        counts = {v: sum(1 for r in ys if GAME_INFO[str(r["number"])]["verdict"] == v) for v in ("Essential", "Play it", "Skip it")}
+        title = f"NES Games of {y}: Complete List with Our Verdicts · NEStalgia" if y != last_year else f"NES Games of {y}: Every Game We Have Covered with Our Verdicts · NEStalgia"
+        desc = (f"All {len(ys)} NES games from {y} we covered on the NEStalgia podcast, each with a verdict: "
+                f"{counts['Essential']} Essential, {counts['Play it']} Play it and {counts['Skip it']} Skip it.")
+        items = [{"@type": "ListItem", "position": i, "url": f"{SITE_URL}/episodes/{r['key']}/", "name": r["title"]} for i, r in enumerate(ys, 1)]
+        write(f"years/{y}/index.html", page(title, body, f"/years/{y}/", desc=desc, current="eps",
+              jsonld=[{"@context": "https://schema.org", "@type": "ItemList", "name": f"NES games of {y}", "numberOfItems": len(ys), "itemListElement": items},
+                      breadcrumbs(("Home", "/"), ("NES games by year", "/years/"), (str(y), f"/years/{y}/"))]))
+    hub = site_extras.years_hub_body(years, rows, GAME_INFO, E, BASE, best)
+    write("years/index.html", page("NES Games by Year: 1985 to %d · NEStalgia" % last_year, hub, "/years/",
+          desc=f"Every NES game we covered on the NEStalgia podcast, grouped by release year from {years[0]} to {last_year}, with the verdict for each.", current="eps",
+          jsonld=[breadcrumbs(("Home", "/"), ("NES games by year", "/years/"))]))
 
 
 def build_migrated(data, write, card_html):
@@ -1310,6 +1364,8 @@ def main():
 <div class="pn">{pn}</div>{'<script src="' + asset("player.js") + '" defer></script>' if (r["transcript"] or links_html) else ""}"""
         url = f"/episodes/{r['key']}/"
         desc = intro["text"] if intro else r["description"].split("\n")[0]
+        if r["type"] == "episode" and r["number"] is not None:
+            desc = seo_description(r, GAME_INFO.get(str(r["number"])), desc)
         if r["type"] == "episode" and r["number"] is not None:  # the game's name first: that is what people search for
             game = nice_case(r["title"])
             seo_title = f"{game} (NES) · Episode {r['number']} · NEStalgia"
@@ -1344,9 +1400,10 @@ def main():
 <script>window.addEventListener("DOMContentLoaded",function(){{new PagefindUI({{element:"#search",showImages:false,showSubResults:false,resetStyles:false}});}});</script>
 <h2>Latest episodes</h2><div class="grid">{latest}</div>
 <p style="margin-top:20px"><a class="btn" href="{BASE}/episodes/">Browse all episodes</a>
+<a class="btn alt" href="{BASE}/years/">NES games by year</a>
 <a class="btn alt" href="{SHEET_URL}" rel="noopener">Spreadsheet</a></p>
 {patrons_html()}"""
-    write("index.html", page("NEStalgia: A chronological exploration of every NES game", body, "/", desc="A chronological exploration of every NES game.", search=True, current="home", jsonld=[website_jsonld(), series_jsonld()]))
+    write("index.html", page("NEStalgia Podcast: A chronological exploration of every NES game", body, "/", desc="The NEStalgia podcast plays every NES game released in North America in release order, one game per episode, with a verdict and an Essential Games List vote for each.", search=True, current="home", jsonld=[website_jsonld(), series_jsonld()]))
 
     # Search page
     body = f"""<h1>Search</h1><p class="lede">Search every episode's description, show notes and transcript.</p><div id="search"></div>
@@ -1369,6 +1426,7 @@ The site updates itself when new episodes come out. Transcript speaker names are
                                            desc="Every NES game the NEStalgia podcast voted Essential, in the order we covered them.", current="essential"))
         write("stats/index.html", page("The Stats · NEStalgia", site_extras.stats_body(show_stats.compute(GAME_INFO, data), E, BASE), "/stats/",
                                        desc="Which NES publishers, developers and genres score best on NEStalgia, plus streaks, droughts and how the hosts vote.", current="stats"))
+        years_pages(data, write)
     extra = build_migrated(data, write, card)
     mod = last_modified()
     lastmod = {}
@@ -1381,7 +1439,7 @@ The site updates itself when new episodes come out. Transcript speaker names are
             lastmod[f"/episodes/{r['key']}/"] = max(days)
     if lastmod:
         lastmod["/"] = lastmod["/episodes/"] = max(lastmod.values())
-    urls = ["/", "/episodes/", "/essential/", "/stats/", "/search/", "/about/"] + [u for u in extra if u.rstrip("/") != "/essential"] + [f"/episodes/{r['key']}/" for r in data]
+    urls = ["/", "/episodes/", "/essential/", "/stats/", "/search/", "/about/", "/years/"] + [f"/years/{y}/" for y in sorted({v["year"] for v in GAME_INFO.values() if v.get("year")})] + [u for u in extra if u.rstrip("/") != "/essential"] + [f"/episodes/{r['key']}/" for r in data]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
           + "".join(f"<url><loc>{SITE_URL}{u}</loc>" + (f"<lastmod>{lastmod[u]}</lastmod>" if u in lastmod else "") + "</url>" for u in urls) + "</urlset>")
     write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")

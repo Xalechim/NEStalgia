@@ -8,6 +8,8 @@ image: {BASE}/media/38834af9-45842-1943-the-battle-of-midway-nes-scre.gif
 excerpt: SHMUPs are not difficult to understand. You control an object, usually a spacecraft, that moves across an automatic scrolling screen and must shoot and dodge all enemies on screen to make progress. The actual tough part of the genre comes from that simple game play loop. Depending on the controls, amount of enemies, patterns of those enemies, power ups available to you, a SHMUP can be as easy or difficult as the designer wishes.
 ---
 
+**What is a shmup?** A shmup, short for shoot 'em up (you will also see it spelled schmup or shump), is a game where you pilot a ship or character across a scrolling screen, shooting enemies and dodging their fire. The NES has plenty of them, and this guide covers how to get into the genre and five games to start with.
+
 Just like music and movies, video games are not one size fits all. There are certain people who cannot get into JRPGs or sports games, just like there are people who cannot listen to country or metal. SHMUPs are not difficult to understand. You control an object, usually a spacecraft, that moves across an automatically scrolling screen and must shoot and dodge all the enemies on screen to make progress. The tough part of the genre comes from that simple gameplay loop. Depending on the controls, the number of enemies, the patterns of those enemies and the power-ups available to you, a SHMUP can be as easy or as difficult as the designer wishes.
 
 <div class="gallery">

@@ -2,8 +2,8 @@
   "_note": "Search-engine settings for specific pages. Edit the text here; the site picks it up on the next build.",
   "articles": {
     "/articles/shmups": {
-      "title": "How to Enjoy SHMUPs: 5 NES Shoot 'Em Ups to Try · NEStalgia",
-      "description": "New to SHMUPs? Learn what a shoot 'em up is, why they get easier to love, and five NES games to try first, from Star Force and Gradius to Life Force.",
+      "title": "What Is a Shmup? A Beginner's Guide to NES Shoot 'Em Ups · NEStalgia",
+      "description": "New to shmups (also spelled schmup or shump)? Learn what a shoot 'em up is, why they get easier to love, and five NES games to try first.",
       "related": {
         "heading": "Every SHMUP we've covered on the show",
         "genre": "SHMUP",
@@ -240,8 +240,8 @@
       }
     },
     "/articles/tetris": {
-      "title": "Tetris Evolution: NES Tetris vs. Modern Versions · NEStalgia",
-      "description": "Why many players still love the original NES Tetris, and how Tetris DS, Tetris Effect and Tetris 99 stack up against the classic.",
+      "title": "Every Version of Tetris Compared: NES Tetris vs. Modern Versions · NEStalgia",
+      "description": "Why many players still love the original NES Tetris, and how other versions of Tetris, including Tetris DS, Tetris Effect and Tetris 99, compare.",
       "related": {
         "heading": "Tetris and the other puzzle games we've covered",
         "genre": "Puzzle",

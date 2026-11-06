@@ -208,3 +208,50 @@ def stats_body(stats, E, BASE):
                    f'<div class="slist">{rows}</div><p class="note">Counts names written in the spreadsheet\'s vote comments for split votes. Unanimous votes are counted separately, and hosts who were not on an episode are not counted.</p>')
     out.append(f'<p class="note">All of this comes from our episode spreadsheet and updates itself. See any game\'s verdict on its <a href="{BASE}/episodes/">episode page</a>.</p>')
     return "".join(out)
+
+
+# ----------------------------------------------------------------------------- Year pages
+
+
+def _verdict_chip(verdict, E, BASE):
+    cls = verdict.lower().replace(" ", "")
+    return f'<a class="gtag v-{cls}" href="{BASE}/episodes/?{urllib.parse.urlencode({"verdict": verdict.lower()})}">{E(verdict)}</a>'
+
+
+def year_body(year, rows, info, E, BASE, best_href, years_nav, partial=False):
+    """One release year: a short summary, the Essential games, then every game we covered as a table with its verdict."""
+    counts = {v: sum(1 for r in rows if info[str(r["number"])]["verdict"] == v) for v in ("Essential", "Play it", "Skip it")}
+    first, last = rows[0], rows[-1]
+    sofar = " so far" if partial else ""
+    lede = (f"We covered {len(rows)} NES games from {year}{sofar}, from episode {first['number']} ({E(first['title'])}) to episode {last['number']} ({E(last['title'])}). "
+            f"{counts['Essential']} made the Essential Games List, {counts['Play it']} are a Play it and {counts['Skip it']} are a Skip it.")
+    ess = [r for r in rows if info[str(r["number"])]["verdict"] == "Essential"]
+    ess_html = ""
+    if ess:
+        chips = "".join(f'<a class="gtag" href="{BASE}/episodes/{r["key"]}/">{E(r["title"])}</a>' for r in ess)
+        ess_html = f'<h2>Essential NES games of {year}</h2><div class="gchips">{chips}</div>'
+    best_html = f'<p><a class="btn" href="{BASE}{best_href}">Read our Top {"5" if year in (1985, 1986) else "10"} of {year}</a></p>' if best_href else ""
+    trs = []
+    for r in rows:
+        g = info[str(r["number"])]
+        dev = ", ".join(g["developers"][:2])
+        trs.append(f'<tr><td>{r["number"]:03d}</td><td><a href="{BASE}/episodes/{r["key"]}/">{E(r["title"])}</a></td>'
+                   f'<td>{E(g["genre"] or "")}</td><td>{E(dev)}</td><td>{_verdict_chip(g["verdict"], E, BASE)}</td></tr>')
+    table = ('<div class="table-wrap"><table class="ytable"><thead><tr><th>#</th><th>Game</th><th>Genre</th><th>Developer</th><th>Verdict</th></tr></thead>'
+             f'<tbody>{"".join(trs)}</tbody></table></div>')
+    nav = " ".join(f'<a class="btn{"" if y == year else " alt"}" href="{BASE}{u}">{y}</a>' for y, u in years_nav)
+    return (f'<p class="crumbs"><a href="{BASE}/years/">&larr; NES games by year</a></p><h1>NES games of {year}</h1>'
+            f'<p class="lede">{lede}</p>{best_html}{ess_html}<h2>Every NES game of {year} we covered</h2>'
+            f'<p>Each game links to its episode, with our review, the full verdict and the Essential Games List vote.</p>{table}'
+            f'<h2>Other years</h2><div class="btns" style="justify-content:flex-start">{nav}</div>')
+
+
+def years_hub_body(years, rows, info, E, BASE, best):
+    cards = []
+    for y in years:
+        ys = [r for r in rows if info[str(r["number"])]["year"] == y]
+        ess = sum(1 for r in ys if info[str(r["number"])]["verdict"] == "Essential")
+        extra = f' <a href="{BASE}{best[y]}">Top games of {y}</a>' if y in best else ""
+        cards.append(f'<li><a href="{BASE}/years/{y}/"><b>NES games of {y}</b></a>: {len(ys)} games, {ess} Essential.{extra}</li>')
+    return (f'<h1>NES games by year</h1><p class="lede">Every NES game we have covered on the show, grouped by the year it came out, with the verdict for each.</p>'
+            f'<ul class="ylist">{"".join(cards)}</ul>')

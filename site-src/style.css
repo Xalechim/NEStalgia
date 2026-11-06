@@ -172,6 +172,12 @@ table.patrons td:first-child { border-left: 0; }
 table.patrons tbody tr:first-child td { border-top: 0; }
 table.patrons tbody tr:nth-child(even) td { background: rgba(0, 0, 0, .045); }
 .sr { position: absolute; left: -9999px; }
+table.ytable { width: 100%; border-collapse: separate; border-spacing: 0; background: var(--card); border: 3px solid var(--line); box-shadow: 5px 5px 0 var(--shadow); }
+table.ytable th { background: var(--dark); color: #fff; font-family: var(--mono); text-transform: uppercase; letter-spacing: .06em; font-size: 13px; padding: 9px 12px; text-align: left; border-bottom: 4px solid var(--red); white-space: nowrap; }
+table.ytable td { padding: 8px 12px; border-top: 1px solid #cfcdc5; font-size: 15px; vertical-align: middle; }
+table.ytable td:first-child { font-family: var(--mono); color: var(--muted, #777); }
+table.ytable tbody tr:nth-child(even) td { background: rgba(0, 0, 0, .045); }
+ul.ylist { list-style: none; padding: 0; } ul.ylist li { margin: 0 0 14px; font-size: 17px; } ul.ylist li a:last-child { margin-left: 8px; }
 @media (max-width: 560px) {
   table.patrons, table.patrons thead, table.patrons tbody, table.patrons th { display: block; }
   table.patrons tbody tr { display: grid; grid-template-columns: 1fr 1fr; }
