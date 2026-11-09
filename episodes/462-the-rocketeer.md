@@ -35,8 +35,7 @@
 - Passwords and one life
   - You get a nine digit password between chapters, and continues are unlimited. Cliff has a single life bar, and each death comes with a short sequence of stills.
 - High Score Board
-  - In the opening shot the Hollywood sign appears on screen, and the in-game text calls it just Hollywood. In 1938 the real sign read HOLLYWOODLAND. The LAND letters were taken down in September 1949, so for the year the game is set in, the sign is wrong.
-  - Fans guess it is a licensing issue. The Hollywood Chamber of Commerce does charge fees for commercial use of the sign, but nobody has said that is why. It is a strange mistake in a game that works hard on 1938 details.
+  - In 1938 the real sign read HOLLYWOODLAND. The LAND letters were taken down in September 1949, so for the year the game is set in, the sign is correct.
 
 ## III. Gameplay Structure
 
