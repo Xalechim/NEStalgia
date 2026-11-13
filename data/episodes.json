@@ -1,6 +1,23 @@
 [
   {
     "type": "episode",
+    "number": 454,
+    "title": "Kiwi Kraze: A Bird-Brained Adventure",
+    "feed_title": "454 - Kiwi Kraze: A Bird-Brained Adventure",
+    "published": "2026-11-13",
+    "duration_seconds": 2637,
+    "description": "Support NEStalgia directly by becoming a member of our Patreon at https://www.patreon.com/Nestalgia  Members at the $5 and above level get access to our brand new show NEStalgia Bytes. A look at the famicom games you can play without any Japanese knowledge! For More NEStalgia, visit www.NEStalgiacast.com",
+    "audio_url": "https://traffic.megaphone.fm/APO1827379085.mp3",
+    "episode_page": "https://podcasters.spotify.com/pod/show/nestalgia/episodes/454---Kiwi-Kraze-A-Bird-Brained-Adventure-e3pbc9e",
+    "art": "assets/episode-art/454-kiwi-kraze-a-bird-brained-adventure.jpg",
+    "notes": [
+      "episodes/454-kiwi-kraze-a-bird-brained-adventure.md"
+    ],
+    "transcript": "t",
+    "guid": "811b8046-c54a-4904-afe7-0fbe495839ad"
+  },
+  {
+    "type": "episode",
     "number": 453,
     "title": "Whomp 'Em",
     "feed_title": "453 - Whomp 'Em",
