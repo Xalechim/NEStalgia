@@ -511,3 +511,79 @@ table.vs th, table.vs td { border: 2px solid var(--line); padding: 7px 10px; tex
 table.vs thead th { background: var(--dark); color: #fff; }
 table.vs thead th a { color: #fff; }
 table.vs tbody th { font: 700 12px var(--mono); text-transform: uppercase; letter-spacing: .06em; width: 8.5em; }
+
+/* "Haunted" article look (set with "theme": "haunted" in seo.json): a dark green-glow page, exhibit cards, and small animated scenes.
+   The scenes are plain CSS, so they stay quiet for anyone who asks their device for reduced motion. */
+body:has(.theme-haunted) {
+  --bg: #0a0d0c; --card: #111715; --paper: #17201d; --ink: #dfeae4; --gray: #96aaa0; --line: #3d6b57; --shadow: #000;
+  --dark: #0f2a21; --rule: #243a31; --link: #8dffc2; --red: #35d68c; --hl: #1f3a2d; --ghost: #8dffc2;
+}
+body:has(.theme-haunted)::after { content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 3;
+  background: radial-gradient(ellipse at 50% 40%, transparent 55%, rgba(0, 0, 0, .55)); }
+.theme-haunted { counter-reset: exhibit; }
+.theme-haunted h1 { color: var(--ghost); text-shadow: 0 0 12px rgba(141, 255, 194, .45); }
+.theme-haunted .art-hero, .theme-haunted .rank { box-shadow: 5px 5px 0 #000, 0 0 22px rgba(53, 214, 140, .12); }
+.theme-haunted .art-cover { filter: saturate(.8) contrast(1.05); }
+.theme-haunted > h2 { background: #0f2a21; color: var(--ghost); letter-spacing: .14em; text-shadow: 0 0 8px rgba(141, 255, 194, .5); }
+.theme-haunted .rank-head { background: #0f2a21; }
+.theme-haunted .rank-head::before { counter-increment: exhibit; content: "EXHIBIT " counter(exhibit, upper-alpha);
+  font: 700 12px var(--mono); letter-spacing: .16em; color: #0a0d0c; background: var(--ghost); padding: 3px 8px; white-space: nowrap; }
+.theme-haunted .rank-head h2 { color: #f1fff7; }
+
+.spook { display: flex; align-items: center; gap: 5px; margin: 0 0 14px; }
+.spook b { font: 700 12px var(--mono); letter-spacing: .14em; text-transform: uppercase; color: var(--gray); margin-right: 6px; }
+.spook i { width: 14px; height: 14px; background: var(--ghost); box-shadow: 0 0 8px rgba(141, 255, 194, .7); }
+.spook i.off { background: #22322b; box-shadow: none; }
+
+.hx { position: relative; height: 104px; margin: 0 0 16px; overflow: hidden; border: 2px dashed var(--line); background: #060908; color: var(--ghost); }
+.fl { position: absolute; left: 0; top: 56px; width: 5px; height: 5px; background: none; color: inherit;
+  box-shadow: 10px 0px 0 currentColor,15px 0px 0 currentColor,20px 0px 0 currentColor,5px 5px 0 currentColor,10px 5px 0 currentColor,15px 5px 0 currentColor,20px 5px 0 currentColor,25px 5px 0 currentColor,10px 10px 0 currentColor,15px 10px 0 currentColor,20px 10px 0 currentColor,5px 15px 0 currentColor,10px 15px 0 currentColor,15px 15px 0 currentColor,20px 15px 0 currentColor,25px 15px 0 currentColor,0px 20px 0 currentColor,10px 20px 0 currentColor,15px 20px 0 currentColor,20px 20px 0 currentColor,30px 20px 0 currentColor,10px 25px 0 currentColor,15px 25px 0 currentColor,20px 25px 0 currentColor,10px 30px 0 currentColor,20px 30px 0 currentColor,5px 35px 0 currentColor,10px 35px 0 currentColor,20px 35px 0 currentColor,25px 35px 0 currentColor; }
+.hx .ball { position: absolute; width: 12px; height: 12px; background: #f3f3ea; border-radius: 50%; bottom: 44px; left: 6%; }
+
+/* Exhibit A: the pitch goes straight through the batter */
+.hx-pitch .batter { left: 62%; top: 52px; opacity: .55; }
+.hx-pitch .ball { animation: hx-pitch 4.5s linear infinite; }
+.hx-pitch .ruling { position: absolute; right: 8%; top: 12px; font: 700 18px var(--mono); letter-spacing: .12em; opacity: 0; animation: hx-ruling 4.5s linear infinite; }
+@keyframes hx-pitch { 0% { left: 6%; opacity: 1; } 78% { left: 92%; opacity: 1; } 90%, 100% { left: 96%; opacity: 0; } }
+@keyframes hx-ruling { 0%, 62% { opacity: 0; } 70%, 88% { opacity: 1; } 100% { opacity: 0; } }
+
+/* Exhibit B: the six team letters */
+.hx-letters { height: auto; padding: 14px; overflow: visible; }
+.hx-letters .tiles { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-bottom: 12px; }
+.hx-letters .tiles b { width: 46px; height: 46px; display: grid; place-items: center; font: 700 24px var(--mono); border: 3px solid var(--line); background: #0d1411; color: #5a7a6b; transition: transform .25s, color .25s, border-color .25s; }
+.hx-letters .tiles b.on { color: #0a0d0c; background: var(--ghost); border-color: var(--ghost); transform: translateY(-8px); box-shadow: 0 0 14px rgba(141, 255, 194, .6); }
+.hx-letters .words { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+.hx-letters .words button { font: 700 14px var(--mono); letter-spacing: .12em; padding: 6px 14px; cursor: pointer; background: #0f2a21; color: var(--ghost); border: 2px solid var(--line); box-shadow: 2px 2px 0 #000; }
+.hx-letters .words button[aria-pressed=true], .hx-letters .words button:hover { background: var(--ghost); color: #0a0d0c; }
+.hx-letters .read { margin: 12px 0 0; text-align: center; font: 14px var(--mono); color: var(--gray); min-height: 1.5em; }
+
+/* Exhibits C and D: fielders shuffle after the ball, and some of them blink out */
+.hx-field .fl:nth-of-type(1) { left: 8%; } .hx-field .fl:nth-of-type(2) { left: 24%; top: 12px; } .hx-field .fl:nth-of-type(3) { left: 38%; }
+.hx-field .fl:nth-of-type(4) { left: 52%; top: 12px; } .hx-field .fl:nth-of-type(5) { left: 66%; }
+.hx-field .fl { animation: hx-shamble 3s steps(6) infinite alternate; }
+.hx-field .fl:nth-of-type(even) { animation-duration: 3.7s; }
+.hx-field .ball { left: auto; right: 6%; bottom: 20px; background: #d98aa8; box-shadow: 0 0 8px #d98aa8; }
+@keyframes hx-shamble { from { transform: translateX(0); } to { transform: translateX(46px); } }
+.hx-field.vanish .fl:nth-of-type(2) { animation: hx-shamble 3s steps(6) infinite alternate, hx-vanish 5s steps(1) infinite; }
+.hx-field.vanish .fl:nth-of-type(3) { animation: hx-shamble 3s steps(6) infinite alternate, hx-vanish 7s steps(1) infinite 1.2s; }
+.hx-field.vanish .fl:nth-of-type(5) { animation: hx-shamble 3s steps(6) infinite alternate, hx-vanish 6s steps(1) infinite 2.5s; }
+@keyframes hx-vanish { 0%, 40% { opacity: 1; } 41%, 62% { opacity: 0; } 63%, 100% { opacity: 1; } }
+
+/* Exhibit E: a scoreboard with a hidden digit */
+.hx-board { display: flex; gap: 6px; align-items: center; justify-content: center; }
+.hx-board span { width: 34px; height: 46px; display: grid; place-items: center; font: 700 24px var(--mono); border: 3px solid var(--line); background: #0d1411; position: relative; }
+.hx-board .over u { position: absolute; left: -22px; top: 5px; text-decoration: none; opacity: 0; color: var(--ghost); text-shadow: 0 0 10px var(--ghost); animation: hx-ghost 4s ease-in-out infinite; }
+@keyframes hx-ghost { 0%, 35% { opacity: 0; } 55%, 70% { opacity: .85; } 100% { opacity: 0; } }
+
+.hx-sticky { max-width: 34rem; margin: 6px 0 30px; padding: 18px 22px; background: #f2c230; color: #1a1a1a; transform: rotate(-1.2deg);
+  border: 3px solid #1a1a1a; box-shadow: 6px 6px 0 #000; font-size: 18px; line-height: 1.45; }
+.hx-sticky b { font-family: var(--mono); text-transform: uppercase; letter-spacing: .08em; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .theme-haunted h1 { animation: hx-flicker 7s steps(1) infinite; }
+  @keyframes hx-flicker { 0%, 92%, 96%, 100% { opacity: 1; } 93% { opacity: .35; } 94% { opacity: 1; } 95% { opacity: .55; } }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hx *, .hx .fl, .hx .ball, .hx .ruling, .hx u { animation: none !important; }
+  .hx-pitch .ruling { opacity: 1; } .hx-pitch .ball { left: 40%; } .hx-board .over u { opacity: .8; }
+}

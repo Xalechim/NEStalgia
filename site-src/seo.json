@@ -363,11 +363,12 @@
       "summary": "Is using save states cheating? We make the case that the way you play is yours to choose, with six ways to use them."
     },
     "/articles/nestalgia/blog/is-nes-baseball-haunted": {
-      "title": "Is NES Baseball Haunted? Four Spooky Clues · NEStalgia",
-      "description": "Balls that pass right through you, creepy team names, fielders you can't control: our tongue-in-cheek case that the NES launch game Baseball is haunted.",
+      "title": "Is NES Baseball Haunted? Six Spooky Clues · NEStalgia",
+      "description": "Pitches that pass right through you, fielders that vanish (the manual admits it), a scoreboard that hides runs: our tongue-in-cheek case that NES Baseball is haunted.",
       "layout": "cards",
-      "card_level": "h2",
-      "summary": "The evidence that NES Baseball is haunted, from fielders you cannot control to a pitch that passes through you."
+      "card_level": "h3",
+      "theme": "haunted",
+      "summary": "Six pieces of evidence that NES Baseball is haunted, including one the instruction booklet admits to."
     },
     "/articles/best-of-1987": {
       "title": "The Top 10 NES Games of 1987 (Our Year-End Ranking) · NEStalgia",

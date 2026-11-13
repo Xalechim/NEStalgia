@@ -756,7 +756,7 @@ def last_modified():
     return mod
 
 
-ASSET_FILES = ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "carousel.js")
+ASSET_FILES = ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "carousel.js", "haunted.js")
 
 
 def asset(name):
@@ -1119,8 +1119,11 @@ def build_migrated(data, write, card_html):
             if 'class="carousel"' in inner:
                 inner += '<script src="%s" defer></script>' % asset("carousel.js")
         inner = add_heading_ids(autolink_games(inner, data))
+        theme = ov.get("theme")  # a page-wide look for one article (see "haunted" in style.css)
+        if theme:
+            inner += '<script src="%s" defer></script>' % asset("%s.js" % theme)
         body = f"""<p class="crumbs"><a href="{BASE}/articles/">← All articles</a></p>
-<article data-pagefind-body><h1 data-pagefind-meta="title">{E(a["title"])}</h1>
+<article{' class="theme-%s"' % theme if theme else ""} data-pagefind-body><h1 data-pagefind-meta="title">{E(a["title"])}</h1>
 <div class="meta">{fmt_date(a["date"])} · {E(a["author"])}</div>{('<div class="tags">'+tags+'</div>') if tags else ""}
 {hero_html(a, ov, inner)}{inner}</article>{extra}{article_footer(a, ov, data, card_html, articles)}"""
         img = a["image"].replace("{BASE}", "") if a.get("image") else None
@@ -1199,6 +1202,10 @@ if(location.search.indexOf("sent=1")!==-1){{document.getElementById("sent").hidd
         if not (OUT / old_c.strip("/") / "index.html").exists():
             write(old_c.strip("/") + "/index.html", redirect_stub(tgt))
             n += 1
+        if "+" in old_c and not (OUT / old_c.replace("+", " ").strip("/") / "index.html").exists():
+            # Google crawls these tag and category addresses with a space (%20) instead of the old "+"
+            write(old_c.replace("+", " ").strip("/") + "/index.html", redirect_stub(tgt))
+            n += 1
     for old, tgt in (SEO.get("redirects") or {}).items():  # old addresses that still get visitors or search impressions
         if not (OUT / old.strip("/") / "index.html").exists():
             write(old.strip("/") + "/index.html", redirect_stub(tgt))
@@ -1246,7 +1253,7 @@ def main():
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()
-    for f in ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "carousel.js", "logo.png", "icon.png"):
+    for f in ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "carousel.js", "haunted.js", "logo.png", "icon.png"):
         shutil.copy(SRC / f, OUT / f)
     (OUT / ".nojekyll").write_text("")
 

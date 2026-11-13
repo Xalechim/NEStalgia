@@ -21,6 +21,10 @@ Every article on the site is built from the same few parts, so a new article loo
 
 `cards` options: `card_level` (`h2` or `h3`: which heading starts a card; the other headings become section labels), `award_titles` (a heading like "Most Games: Konami" becomes the title "Konami" with a gold award chip), `prefix_titles` (the same, with a plain chip, for "Duck Hunt: Moon Walk"), `developer_links` (adds an "Every X episode" chip), `numbered_cards`.
 
+## Themed articles (the one exception)
+
+An article can carry its own look with `"theme": "..."` in seo.json. Only one exists: `haunted` (used by "Is NES Baseball Haunted?"), a dark green-glow page with exhibit-lettered cards, spook meters and small CSS scenes. Its styles are under the "Haunted" comment at the bottom of `site-src/style.css` and its one script is `site-src/haunted.js`. The rest of the article system (hero, related, listen row) still applies. Add a theme only when the topic is the joke.
+
 ## Headings
 
 - **Section label**: the dark label bar (an `h2`), such as "The top 10".
