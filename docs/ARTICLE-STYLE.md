@@ -23,7 +23,12 @@ Every article on the site is built from the same few parts, so a new article loo
 
 ## Themed articles (the one exception)
 
-An article can carry its own look with `"theme": "..."` in seo.json. Only one exists: `haunted` (used by "Is NES Baseball Haunted?"), a dark green-glow page with exhibit-lettered cards, spook meters and small CSS scenes. Its styles are under the "Haunted" comment at the bottom of `site-src/style.css` and its one script is `site-src/haunted.js`. The rest of the article system (hero, related, listen row) still applies. Add a theme only when the topic is the joke.
+An article can carry its own look with `"theme": "..."` in seo.json. Two exist:
+
+- `haunted` ("Is NES Baseball Haunted?"): a dark green-glow page with exhibit-lettered cards, spook meters and small CSS scenes. Script: `site-src/haunted.js`.
+- `romhack` ("Weird Romhacks of the 1985 Launch Games"): an indigo, magenta and cyan patch-tool page with scanlines, patch-numbered cards, Weird / Worth-a-play meters and a drag-to-compare slider between each original and hacked screenshot. Script: `site-src/romhack.js`. The slider is a `<div class="cmp" style="--o:url(original);--h:url(hacked)">` in the article text.
+
+Each theme's styles are under its own comment at the bottom of `site-src/style.css`. The rest of the article system (hero, related, listen row) still applies. Add a theme only when the topic is the joke.
 
 ## Headings
 

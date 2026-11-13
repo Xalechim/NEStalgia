@@ -587,3 +587,67 @@ body:has(.theme-haunted)::after { content: ""; position: fixed; inset: 0; pointe
   .hx *, .hx .fl, .hx .ball, .hx .ruling, .hx u { animation: none !important; }
   .hx-pitch .ruling { opacity: 1; } .hx-pitch .ball { left: 40%; } .hx-board .over u { opacity: .8; }
 }
+
+/* "Romhack" article look (theme "romhack"): an indigo, magenta and cyan patch-tool page with scanlines, patch-numbered cards and a before/after slider. */
+body:has(.theme-romhack) {
+  --bg: #0b0920; --card: #131030; --paper: #1a1640; --ink: #ece9ff; --gray: #a9a3d6; --line: #5b4fd6; --shadow: #000;
+  --dark: #1c1650; --rule: #2b2562; --link: #6ff6ff; --red: #ff4fd8; --hl: #2a2260;
+}
+body:has(.theme-romhack)::after { content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 3;
+  background: repeating-linear-gradient(to bottom, rgba(0, 0, 0, .16) 0 1px, transparent 1px 3px); }
+.theme-romhack { counter-reset: patch; }
+.theme-romhack h1 { color: #fff; text-shadow: 3px 0 #ff4fd8, -3px 0 #6ff6ff; letter-spacing: .02em; }
+.theme-romhack .art-hero, .theme-romhack .rank { box-shadow: 5px 5px 0 #000, 0 0 24px rgba(111, 246, 255, .10); }
+.theme-romhack > h2 { background: #1c1650; color: #6ff6ff; letter-spacing: .14em; }
+.theme-romhack .rank-head { background: #1c1650; }
+.theme-romhack .rank-head::before { counter-increment: patch; content: "PATCH " counter(patch, decimal-leading-zero);
+  font: 700 12px var(--mono); letter-spacing: .14em; color: #0b0920; background: #ff4fd8; padding: 3px 8px; white-space: nowrap; }
+.theme-romhack .rank-head h2 { color: #fff; }
+.theme-romhack .gtag { background: #1a1640; color: #6ff6ff !important; border-color: #6ff6ff; box-shadow: 2px 2px 0 #000; }
+.theme-romhack .gtag::before { content: "BASE ROM: "; color: #ff9bea; }
+.theme-romhack .rank-text > p:last-child a { display: inline-block; font: 700 13px var(--mono); letter-spacing: .06em; text-decoration: none; color: #0b0920;
+  background: #6ff6ff; padding: 6px 12px; border: 2px solid #000; box-shadow: 3px 3px 0 #000; }
+.theme-romhack .rank-text > p:last-child a:hover { background: #ff4fd8; color: #0b0920; }
+
+.hexband { overflow: hidden; white-space: nowrap; margin: 0 0 18px; border-block: 2px solid var(--line); background: #070618; color: #5b4fd6;
+  font: 13px/1.9 var(--mono); letter-spacing: .08em; }
+.hexband span { display: inline-block; animation: rh-hex 40s linear infinite; }
+@keyframes rh-hex { to { transform: translateX(-50%); } }
+
+.rh-log { max-width: 46rem; margin: 22px 0 8px; padding: 14px 18px; background: #070618; border: 3px solid var(--line); box-shadow: 5px 5px 0 #000; font: 14px/1.7 var(--mono); }
+.rh-log p { display: flex; gap: 10px; align-items: baseline; margin: 0; }
+.rh-log b { color: #ff4fd8; }
+.rh-log span { color: #ff9bea; white-space: nowrap; }
+.rh-log em { font-style: normal; color: var(--ink); }
+.rh-log i { flex: 1; min-width: 12px; border-bottom: 2px dotted #3a3290; transform: translateY(-4px); }
+.rh-log u { text-decoration: none; color: #6ff6ff; font-weight: 700; }
+
+.meters { display: flex; flex-wrap: wrap; gap: 8px 26px; margin: 0 0 14px; }
+.mtr { display: flex; align-items: center; gap: 5px; }
+.mtr b { font: 700 12px var(--mono); letter-spacing: .14em; text-transform: uppercase; color: var(--gray); margin-right: 6px; }
+.mtr i { width: 14px; height: 14px; background: #ff4fd8; box-shadow: 0 0 8px rgba(255, 79, 216, .7); }
+.mtr.p i { background: #6ff6ff; box-shadow: 0 0 8px rgba(111, 246, 255, .7); }
+.mtr i.off { background: #2a2560; box-shadow: none; }
+
+.cmp { --p: 100%; position: relative; width: 100%; max-width: 512px; aspect-ratio: 256 / 240; margin: 0 0 16px; border: 3px solid var(--line); box-shadow: 4px 4px 0 #000;
+  background: #000 var(--h) center / contain no-repeat; image-rendering: pixelated; overflow: hidden; touch-action: pan-y; }
+.cmp-top { position: absolute; inset: 0; background: #000 var(--o) center / contain no-repeat; image-rendering: pixelated; clip-path: inset(0 calc(100% - var(--p)) 0 0); }
+.cmp-line { position: absolute; top: 0; bottom: 0; left: var(--p); width: 3px; margin-left: -1px; background: #ff4fd8; box-shadow: 0 0 10px #ff4fd8; pointer-events: none; }
+.cmp-line::after { content: "\2194"; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 30px; height: 30px; display: grid; place-items: center;
+  background: #ff4fd8; color: #0b0920; font: 700 16px var(--mono); border: 2px solid #000; }
+.cmp-tag { position: absolute; top: 8px; font: 700 11px var(--mono); letter-spacing: .12em; text-transform: uppercase; padding: 2px 7px; color: #0b0920; pointer-events: none; }
+.cmp-tag.l { left: 8px; background: #6ff6ff; } .cmp-tag.r { right: 8px; background: #ff4fd8; }
+.cmp-range { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: ew-resize; }
+.cmp:has(.cmp-range:focus-visible) { outline: 3px solid #f2c230; outline-offset: 2px; }
+
+.rh-final { max-width: 46rem; margin: 6px 0 30px; padding: 16px 20px; background: #070618; border: 3px solid #6ff6ff; box-shadow: 5px 5px 0 #000; font-size: 16px; }
+.rh-final p { margin: 0 0 10px; } .rh-final p:last-child { margin: 0; }
+.rh-final b { font-family: var(--mono); color: #6ff6ff; letter-spacing: .04em; }
+.rh-final span { display: inline-block; min-width: 10.5em; margin-right: 8px; font: 700 12px var(--mono); letter-spacing: .1em; text-transform: uppercase; color: #ff9bea; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .theme-romhack h1 { animation: rh-glitch 6s steps(1) infinite; }
+  @keyframes rh-glitch { 0%, 90%, 94%, 100% { transform: none; text-shadow: 3px 0 #ff4fd8, -3px 0 #6ff6ff; } 91% { transform: translateX(-3px); text-shadow: 6px 0 #ff4fd8, -6px 0 #6ff6ff; }
+    92% { transform: translateX(3px); text-shadow: -5px 0 #ff4fd8, 5px 0 #6ff6ff; } 93% { transform: translateX(-1px); } }
+}
+@media (prefers-reduced-motion: reduce) { .hexband span { animation: none; } }

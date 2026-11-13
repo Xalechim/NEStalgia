@@ -349,11 +349,12 @@
     },
     "/articles/nestalgia/blog/1985romhack": {
       "title": "Weird Romhacks of the 1985 NES Launch Games · NEStalgia",
-      "description": "Odd, clunky and downright unfortunate romhacks of the NES launch games, from Duck Hunt: Moon Walk to Mario's Alley to Golf starring KISS.",
+      "description": "Odd, clunky and downright unfortunate romhacks of the NES launch games, from Duck Hunt: Moon Walk to Mario's Alley to Golf starring KISS. Slide to compare each one with the original.",
       "layout": "cards",
       "card_level": "h3",
       "prefix_titles": true,
-      "summary": "Six launch-game romhacks that turn Duck Hunt's dog into a moonwalker, Soccer's players into rabbits and Golf into a KISS concert, with our verdicts."
+      "theme": "romhack",
+      "summary": "Six launch-game romhacks that turn Duck Hunt's dog into a moonwalker, Soccer's players into rabbits and Golf into a KISS concert. Drag the slider on each to compare it with the original."
     },
     "/articles/savestates": {
       "title": "Are Save States Cheating? Why They're Not · NEStalgia",

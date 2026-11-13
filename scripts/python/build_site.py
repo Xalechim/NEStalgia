@@ -756,7 +756,7 @@ def last_modified():
     return mod
 
 
-ASSET_FILES = ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "carousel.js", "haunted.js")
+ASSET_FILES = ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "carousel.js", "haunted.js", "romhack.js")
 
 
 def asset(name):
@@ -1253,7 +1253,7 @@ def main():
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()
-    for f in ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "carousel.js", "haunted.js", "logo.png", "icon.png"):
+    for f in ("style.css", "app.js", "tabs.js", "player.js", "nav.js", "carousel.js", "haunted.js", "romhack.js", "logo.png", "icon.png"):
         shutil.copy(SRC / f, OUT / f)
     (OUT / ".nojekyll").write_text("")
 
