@@ -469,6 +469,8 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 461 | Monopoly *(unreleased)* | [notes](461-monopoly.md) |
 | 462 | The Rocketeer *(unreleased)* | [notes](462-the-rocketeer.md) |
 | 463 | Times of Lore *(unreleased)* | [notes](463-times-of-lore.md) |
+| 464 | Battletoads *(unreleased)* | [notes](464-battletoads.md) |
+| 465 | Castelian *(unreleased)* | [notes](465-castelian.md) |
 
 ## Specials
 
