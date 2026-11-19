@@ -486,3 +486,4 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 
 - [SNES 001 - Super Mario World](snes/001-super-mario-world.md)
 - [SNES 002 - Pilotwings](snes/002-pilotwings.md)
+- [SNES 003 - F-Zero](snes/003-f-zero.md)
