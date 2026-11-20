@@ -460,7 +460,7 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 452 | Totally Rad | [notes](452-totally-rad.md), [transcript](../transcripts/452-totally-rad.md) |
 | 453 | Whomp 'Em | [notes](453-whomp-em.md), [transcript](../transcripts/453-whomp-em.md) |
 | 454 | Kiwi Kraze: A Bird-Brained Adventure | [notes](454-kiwi-kraze-a-bird-brained-adventure.md), [transcript](../transcripts/454-kiwi-kraze-a-bird-brained-adventure.md) |
-| 455 | Nobunaga's Ambition II *(unreleased)* | [notes](455-nobunagas-ambition-ii.md), [transcript](../transcripts/455-nobunagas-ambition-ii.md) |
+| 455 | Nobunaga's Ambition II | [notes](455-nobunagas-ambition-ii.md), [transcript](../transcripts/455-nobunagas-ambition-ii.md) |
 | 456 | RoboCop 2 *(unreleased)* | [notes](456-robocop-2.md), [transcript](../transcripts/456-robocop-2.md) |
 | 457 | World Champ *(unreleased)* | [notes](457-world-champ.md), [transcript](../transcripts/457-world-champ.md) |
 | 458 | Beetlejuice *(unreleased)* | [notes](458-beetlejuice.md), [transcript](../transcripts/458-beetlejuice.md) |
