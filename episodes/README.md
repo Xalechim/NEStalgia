@@ -465,11 +465,11 @@ Show notes and outlines written for the podcast. Episode numbers come from the p
 | 457 | World Champ *(unreleased)* | [notes](457-world-champ.md), [transcript](../transcripts/457-world-champ.md) |
 | 458 | Beetlejuice *(unreleased)* | [notes](458-beetlejuice.md), [transcript](../transcripts/458-beetlejuice.md) |
 | 459 | Family Feud *(unreleased)* | [notes](459-family-feud.md), [transcript](../transcripts/459-family-feud.md) |
-| 460 | Flight of the Intruder *(unreleased)* | [notes](460-flight-of-the-intruder.md) |
-| 461 | Monopoly *(unreleased)* | [notes](461-monopoly.md) |
-| 462 | The Rocketeer *(unreleased)* | [notes](462-the-rocketeer.md) |
-| 463 | Times of Lore *(unreleased)* | [notes](463-times-of-lore.md) |
-| 464 | Battletoads *(unreleased)* | [notes](464-battletoads.md) |
+| 460 | Flight of the Intruder *(unreleased)* | [notes](460-flight-of-the-intruder.md), [transcript](../transcripts/460-flight-of-the-intruder.md) |
+| 461 | Monopoly *(unreleased)* | [notes](461-monopoly.md), [transcript](../transcripts/461-monopoly.md) |
+| 462 | The Rocketeer *(unreleased)* | [notes](462-the-rocketeer.md), [transcript](../transcripts/462-the-rocketeer.md) |
+| 463 | Times of Lore *(unreleased)* | [notes](463-times-of-lore.md), [transcript](../transcripts/463-times-of-lore.md) |
+| 464 | Battletoads *(unreleased)* | [notes](464-battletoads.md), [transcript](../transcripts/464-battletoads.md) |
 | 465 | Castelian *(unreleased)* | [notes](465-castelian.md) |
 
 ## Specials
