@@ -20,13 +20,14 @@ scripts/
     Check for New Episodes.command          transcript + audio shift for new episodes
     Measure Audio Offsets.command           click-to-play timing for any transcript without it
     Make Links.command                      links for the Links tab (lists what's missing; does them if an API key is set up)
+    Transcribe Patreon Episodes.command    transcripts for Bytes and SNEStalgia (Patreon-only), saved to iCloud and never to GitHub
     Add Wikipedia Intros.command            just the Wikipedia intros (also part of Refresh)
     Strip Speakers.command                  one-time converter for old speaker-labelled transcripts
     _common.sh                              shared setup used by all of them
   python/                        the Python scripts those commands run (plus tests/, and khinsider_lookup.js used by download_game_music.py)
 ```
 
-**Update Everything** runs, in order: Refresh Feed and Spreadsheet, Check for New Episodes, Measure Audio Offsets, Make Links, then publishes
+**Update Everything** runs, in order: Refresh Feed and Spreadsheet, Check for New Episodes, Measure Audio Offsets, Make Links, Transcribe Patreon Episodes, then publishes
 everything once (it shows what changed and asks first; only `data`, cover art, the episode index and `transcripts` are ever committed).
 When a main command runs a sub-command it sets `NES_LAUNCHER=1`, which makes the sub-command skip its own pauses and publishing.
 The same refresh as step 1 also runs by itself on GitHub every 4 hours (and Friday mornings, see below), so a verdict added to the spreadsheet shows up on the site within a few hours.
@@ -47,6 +48,12 @@ getting KHInsider music and Audition project folders (`python/make_project_folde
   (otherwise it points to the Patreon page). `bytes_art.py` makes each cover: the Famicom/NES box scan from the libretro library if the game is
   there, else a generated "BYTES" cover; put your own picture at `assets/episode-art/nb-NNN-name.jpg` to override. Bytes pages have no player,
   notes, transcript or links. Both run inside `update_from_feed.py`.
+- `patreon_transcripts.py` (double-click `Transcribe Patreon Episodes.command`, also a step of Update Everything) makes transcripts for the Patreon-only
+  shows. It looks in iCloud Mixes for `NB 022 - Sweet Home.mp3` (Bytes) and `SNES 003 - FZero.mp3` (SNEStalgia), skips a `_FREE` cut when the full mix exists,
+  skips episodes that already have a transcript, and writes `nb-022-sweet-home.md/.vtt` and `snes-003-f-zero.md/.vtt` into
+  iCloud `10_NEStalgia/Patreon Transcripts/Bytes` and `.../SNEStalgia`. They are never written into the repo (it is public) and never committed or put on
+  the website; attach them to the Patreon posts by hand. Titles come from `data/bytes-info.json` (Bytes) and `episodes/snes/` show notes (SNEStalgia),
+  else the mix's file name. `--bytes 22 40-45`, `--snes 3`, `--redo`, `--dry-run`. Test: `python3 scripts/python/tests/test_patreon_transcripts.py`.
 - `audio_offsets.py` measures the shift between your final mix (what transcript timestamps are measured on) and the audio the podcast host
   serves (Megaphone inserts pre-rolls: 56-60 s on most recent episodes, 0 on others). It aligns loudness envelopes using only the first
   and last few MB of the hosted file (a full alignment is the fallback if the shift changes mid-episode) and writes
