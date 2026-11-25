@@ -1,0 +1,403 @@
+{
+  "episode": 462,
+  "title": "462 - The Rocketeer",
+  "generated": "2026-11-25",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "33275f1f0f69",
+  "items": [
+    {
+      "name": "The Rocketeer (NES)",
+      "kind": "game",
+      "description": "The episode's game: Bandai's 1991 run and gun platformer based on the Disney movie.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Rocketeer_(NES_video_game)",
+          "label": "Wikipedia: The Rocketeer (NES video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/rocketeer_",
+          "label": "The Rocketeer at MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://nesguide.com/games/the-rocketeer",
+          "label": "The Rocketeer at NES Guide",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "The Rocketeer (film)",
+      "kind": "film_tv_music",
+      "description": "The 1991 Disney movie the game is based on; Sean watched it to prepare.",
+      "timestamp": "00:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Rocketeer_(film)",
+          "label": "Wikipedia: The Rocketeer (film)",
+          "source": "wikipedia",
+          "note": "1991 film by Joe Johnston"
+        }
+      ]
+    },
+    {
+      "name": "Realtime Associates",
+      "kind": "company",
+      "description": "The game's developer, also behind NES Maniac Mansion and Dick Tracy.",
+      "timestamp": "08:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Realtime_Associates",
+          "label": "Wikipedia: Realtime Associates",
+          "source": "wikipedia",
+          "note": "American video game developer and publisher"
+        }
+      ]
+    },
+    {
+      "name": "Bandai",
+      "kind": "company",
+      "description": "The game's publisher, a very Japanese company publishing a North American movie tie-in.",
+      "timestamp": "08:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bandai",
+          "label": "Wikipedia: Bandai",
+          "source": "wikipedia",
+          "note": "Japanese toy company"
+        }
+      ]
+    },
+    {
+      "name": "Spider-Man (2002 film)",
+      "kind": "film_tv_music",
+      "description": "The hosts recalled finishing the Spider-Man movie game before seeing the film.",
+      "timestamp": "01:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spider-Man_(2002_film)",
+          "label": "Wikipedia: Spider-Man (2002 film)",
+          "source": "wikipedia",
+          "note": "2002 film by Sam Raimi"
+        }
+      ]
+    },
+    {
+      "name": "Sky Captain and the World of Tomorrow",
+      "kind": "film_tv_music",
+      "description": "A retro-pulp movie the hosts thought was attempting something similar to The Rocketeer.",
+      "timestamp": "04:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sky_Captain_and_the_World_of_Tomorrow",
+          "label": "Wikipedia: Sky Captain and the World of Tomorrow",
+          "source": "wikipedia",
+          "note": "2004 science fiction action-adventure film by Kerry Conran"
+        }
+      ]
+    },
+    {
+      "name": "Spider-Man 2 (video game)",
+      "kind": "game",
+      "description": "Compared to Rocketeer: the first Spider-Man game with real web-slinging across open-world New York.",
+      "timestamp": "10:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spider-Man_2_(2004_video_game)",
+          "label": "Wikipedia: Spider-Man 2 (2004 video game)",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "kind": "game",
+      "description": "Raccoon Mario's flight was cited as handling flight in level design better than The Rocketeer.",
+      "timestamp": "16:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+          "label": "Wikipedia: Super Mario Bros. 3",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        }
+      ],
+      "episode_key": "275-super-mario-bros-3",
+      "episode_title": "Super Mario Bros. 3"
+    },
+    {
+      "name": "Game Genie",
+      "kind": "hardware",
+      "description": "Cheat device that existed by the time of this game, mentioned alongside built-in cheats.",
+      "timestamp": "26:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Genie",
+          "label": "Wikipedia: Game Genie",
+          "source": "wikipedia",
+          "note": "Line of video game cheat cartridges"
+        }
+      ]
+    },
+    {
+      "name": "Konami Code",
+      "kind": "event_or_term",
+      "description": "The famous cheat input cited as an example of a developer-intended cheat.",
+      "timestamp": "26:22",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Konami_Code",
+          "label": "Wikipedia: Konami Code",
+          "source": "wikipedia",
+          "note": "Cheat code, originally for Konami games"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Hearts",
+      "kind": "game",
+      "description": "One host paid $45 as a kid for the first game's soundtrack CD.",
+      "timestamp": "27:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)",
+          "label": "Wikipedia: Kingdom Hearts (video game)",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "Ratchet & Clank",
+      "kind": "game",
+      "description": "A host recorded its soundtrack off a CRT speaker with a voice recorder.",
+      "timestamp": "28:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank_(2002_video_game)",
+          "label": "Wikipedia: Ratchet & Clank (2002 video game)",
+          "source": "wikipedia",
+          "note": "Platform video game"
+        }
+      ]
+    },
+    {
+      "name": "Maniac Mansion (NES)",
+      "kind": "game",
+      "description": "Realtime Associates' other NES game, essentially a port.",
+      "timestamp": "30:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Maniac_Mansion",
+          "label": "Wikipedia: Maniac Mansion",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dick Tracy (NES)",
+      "kind": "game",
+      "description": "Realtime's other NES game, remembered as stylish but poor.",
+      "timestamp": "30:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dick_Tracy_(video_game)",
+          "label": "Wikipedia: Dick Tracy (video game)",
+          "source": "wikipedia",
+          "note": "Video game"
+        }
+      ]
+    },
+    {
+      "name": "George Sanger (The Fat Man)",
+      "kind": "person",
+      "description": "Composer of the game's music, credited as the Fat Man.",
+      "timestamp": "31:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Sanger_(musician)",
+          "label": "Wikipedia: George Sanger (musician)",
+          "source": "wikipedia",
+          "note": "American songwriter"
+        },
+        {
+          "url": "https://www.mobygames.com/developer/sheet/view/developerId%2C119/",
+          "label": "George Alistair Sanger at MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Robin Hood: Prince of Thieves",
+      "kind": "film_tv_music",
+      "description": "The number one movie the week The Rocketeer opened in fourth place.",
+      "timestamp": "33:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robin_Hood%3A_Prince_of_Thieves",
+          "label": "Wikipedia: Robin Hood: Prince of Thieves",
+          "source": "wikipedia",
+          "note": "1991 film by Kevin Reynolds"
+        }
+      ]
+    },
+    {
+      "name": "City Slickers",
+      "kind": "film_tv_music",
+      "description": "Another movie that beat The Rocketeer at the box office that week.",
+      "timestamp": "33:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/City_Slickers",
+          "label": "Wikipedia: City Slickers",
+          "source": "wikipedia",
+          "note": "1991 film directed by Ron Underwood"
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Connelly",
+      "kind": "person",
+      "description": "Actress in The Rocketeer film.",
+      "timestamp": "34:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jennifer_Connelly",
+          "label": "Wikipedia: Jennifer Connelly",
+          "source": "wikipedia",
+          "note": "American actress (born 1970)"
+        }
+      ]
+    },
+    {
+      "name": "Timothy Dalton",
+      "kind": "person",
+      "description": "Actor in The Rocketeer, noted as having played James Bond.",
+      "timestamp": "34:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Timothy_Dalton",
+          "label": "Wikipedia: Timothy Dalton",
+          "source": "wikipedia",
+          "note": "British actor (born 1946)"
+        }
+      ]
+    },
+    {
+      "name": "Pizza Hut Rocketeer kids pack",
+      "kind": "other",
+      "description": "The movie's Pizza Hut tie-in: personal pizza, helmet cup and a paper glider.",
+      "timestamp": "34:35",
+      "links": [
+        {
+          "url": "https://nostalgic-g.blogspot.com/2010/03/rocketeer-kids-pizza-pack.html?m=1",
+          "label": "The Rocketeer Kids Pizza Pack (blog post)",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Pizza Hut",
+      "kind": "company",
+      "description": "Restaurant chain behind the Rocketeer kids pack tie-in.",
+      "timestamp": "34:35",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pizza_Hut",
+          "label": "Wikipedia: Pizza Hut",
+          "source": "wikipedia",
+          "note": "American multinational restaurant chain"
+        }
+      ]
+    },
+    {
+      "name": "Rocketeer Adventures (Disney Junior series)",
+      "kind": "film_tv_music",
+      "description": "A Disney Junior cartoon starring the Rocketeer's great granddaughter.",
+      "timestamp": "37:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Rocketeer_(TV_series)",
+          "label": "Wikipedia: The Rocketeer (TV series)",
+          "source": "wikipedia",
+          "note": "American animated children's television series"
+        }
+      ]
+    },
+    {
+      "name": "Clayface (film)",
+      "kind": "film_tv_music",
+      "description": "A recent movie the hosts used to discuss whether big-budget revivals make money.",
+      "timestamp": "38:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Clayface_(film)",
+          "label": "Wikipedia: Clayface (film)",
+          "source": "wikipedia",
+          "note": "2026 DC Studios film"
+        }
+      ]
+    },
+    {
+      "name": "Jetpack Joyride",
+      "kind": "game",
+      "description": "Mobile endless runner suggested as a modern jet pack comparison.",
+      "timestamp": "39:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jetpack_Joyride",
+          "label": "Wikipedia: Jetpack Joyride",
+          "source": "wikipedia",
+          "note": "2011 endless runner video game"
+        }
+      ]
+    },
+    {
+      "name": "Grand Theft Auto: San Andreas",
+      "kind": "game",
+      "description": "Jokingly offered as a jet pack game that is a Rocketeer ripoff.",
+      "timestamp": "39:32",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto%3A_San_Andreas",
+          "label": "Wikipedia: Grand Theft Auto: San Andreas",
+          "source": "wikipedia",
+          "note": "2004 video game"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's running vote on which games are essential.",
+      "timestamp": "39:32",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    },
+    {
+      "name": "Populous",
+      "kind": "game",
+      "description": "Joked about as the kind of game covered on the hosts' Patreon podcast.",
+      "timestamp": "45:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Populous_(video_game)",
+          "label": "Wikipedia: Populous (video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    }
+  ]
+}

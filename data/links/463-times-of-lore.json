@@ -1,0 +1,422 @@
+{
+  "episode": 463,
+  "title": "463 - Times of Lore",
+  "generated": "2026-11-25",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "6b03b2f3364a",
+  "items": [
+    {
+      "name": "Times of Lore (NES)",
+      "kind": "game",
+      "description": "The episode's game: the NES port of Origin's 1988 action RPG set in the world of Albareth.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Times_of_Lore",
+          "label": "Wikipedia: Times of Lore",
+          "source": "wikipedia",
+          "note": "1988 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/762/times-of-lore/specs/",
+          "label": "Times of Lore at MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://archive.org/download/NESManuals/Times%20of%20Lore%20%28USA%29_text.pdf",
+          "label": "Times of Lore (USA) NES manual",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.gamebanshee.com/k89py",
+          "label": "The Development of Times of Lore and Bad Blood",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Chris Roberts",
+      "kind": "person",
+      "description": "Creator of Times of Lore at Origin Systems, later of Wing Commander and Star Citizen.",
+      "timestamp": "03:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Roberts_(video_game_developer)",
+          "label": "Wikipedia: Chris Roberts (video game developer)",
+          "source": "wikipedia",
+          "note": "American game designer and filmmaker (born 1968)"
+        }
+      ]
+    },
+    {
+      "name": "Origin Systems",
+      "kind": "company",
+      "description": "Developer and publisher of the original Times of Lore, Richard Garriott's company.",
+      "timestamp": "03:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Origin_Systems",
+          "label": "Wikipedia: Origin Systems",
+          "source": "wikipedia",
+          "note": "Video game developer based in Austin, Texas"
+        }
+      ]
+    },
+    {
+      "name": "Wing Commander",
+      "kind": "game",
+      "description": "Chris Roberts' space combat game, released a year before the NES port.",
+      "timestamp": "03:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wing_Commander_(video_game)",
+          "label": "Wikipedia: Wing Commander (video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Star Citizen",
+      "kind": "game",
+      "description": "Chris Roberts' still-unfinished, hugely expensive space game, joked about.",
+      "timestamp": "04:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Citizen",
+          "label": "Wikipedia: Star Citizen",
+          "source": "wikipedia",
+          "note": "In-development multiplayer space game"
+        }
+      ]
+    },
+    {
+      "name": "Ultima III",
+      "kind": "game",
+      "description": "Origin RPG the hosts had already covered, compared against Times of Lore.",
+      "timestamp": "05:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ultima_III%3A_Exodus",
+          "label": "Wikipedia: Ultima III: Exodus",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ]
+    },
+    {
+      "name": "Ultima IV",
+      "kind": "game",
+      "description": "Its morality system was seen as grander than what Times of Lore attempts.",
+      "timestamp": "05:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ultima_IV%3A_Quest_of_the_Avatar",
+          "label": "Wikipedia: Ultima IV: Quest of the Avatar",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ]
+    },
+    {
+      "name": "Castlevania II: Simon's Quest",
+      "kind": "game",
+      "description": "Brought up as an earlier NES game with a day and night cycle.",
+      "timestamp": "06:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castlevania_II%3A_Simon's_Quest",
+          "label": "Wikipedia: Castlevania II: Simon's Quest",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ],
+      "episode_key": "143-castlevania-ii-simons-quest",
+      "episode_title": "CASTLEVANIA II: SIMON'S QUEST"
+    },
+    {
+      "name": "Fallout",
+      "kind": "game",
+      "description": "Compared to killing a whole town in Times of Lore and to Bad Blood.",
+      "timestamp": "06:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fallout_(video_game)",
+          "label": "Wikipedia: Fallout (video game)",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Grand Theft Auto",
+      "kind": "game",
+      "description": "Accidentally killing an NPC compared to getting a wanted star.",
+      "timestamp": "10:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)",
+          "label": "Wikipedia: Grand Theft Auto (video game)",
+          "source": "wikipedia",
+          "note": "1997 action-adventure game"
+        }
+      ]
+    },
+    {
+      "name": "The Elder Scrolls III: Morrowind",
+      "kind": "game",
+      "description": "Its huge fold-out map and slow walking compared to Times of Lore.",
+      "timestamp": "12:33",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_III%3A_Morrowind",
+          "label": "Wikipedia: The Elder Scrolls III: Morrowind",
+          "source": "wikipedia",
+          "note": "2002 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dark Souls",
+      "kind": "game",
+      "description": "Used as a comparison for running past enemies instead of fighting.",
+      "timestamp": "14:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dark_Souls",
+          "label": "Wikipedia: Dark Souls",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Zelda",
+      "kind": "game",
+      "description": "Roberts has cited it as the inspiration for Times of Lore.",
+      "timestamp": "26:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+          "label": "Wikipedia: The Legend of Zelda (video game)",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ],
+      "episode_key": "058-the-legend-of-zelda",
+      "episode_title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "kind": "game",
+      "description": "Joked about when proposing a headcanon that enemies were really people.",
+      "timestamp": "33:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "label": "Wikipedia: Super Mario Bros.",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ],
+      "episode_key": "014-super-mario-bros",
+      "episode_title": "SUPER MARIO BROS."
+    },
+    {
+      "name": "Bad Blood",
+      "kind": "game",
+      "description": "Origin's 1990 post-apocalyptic action RPG running on the same code as Times of Lore.",
+      "timestamp": "41:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bad_Blood_(video_game)",
+          "label": "Wikipedia: Bad Blood (video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/bad-blood/",
+          "label": "Bad Blood at Hardcore Gaming 101",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.mobygames.com/game/bad-blood/credits",
+          "label": "Bad Blood credits at MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Richard Garriott",
+      "kind": "person",
+      "description": "Creator of Ultima and founder of Origin, known as Lord British.",
+      "timestamp": "43:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Richard_Garriott",
+          "label": "Wikipedia: Richard Garriott",
+          "source": "wikipedia",
+          "note": "American video game developer, entrepreneur and space tourist (born 1961)"
+        }
+      ]
+    },
+    {
+      "name": "Ultima",
+      "kind": "game",
+      "description": "Origin's flagship RPG series, tied to Times of Lore through the same company.",
+      "timestamp": "43:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ultima_(series)",
+          "label": "Wikipedia: Ultima (series)",
+          "source": "wikipedia",
+          "note": "Role-playing video game series"
+        }
+      ]
+    },
+    {
+      "name": "Robin Hood: Prince of Thieves",
+      "kind": "film_tv_music",
+      "description": "Number one movie at the box office, showing the appetite for fantasy in 1991.",
+      "timestamp": "44:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robin_Hood%3A_Prince_of_Thieves",
+          "label": "Wikipedia: Robin Hood: Prince of Thieves",
+          "source": "wikipedia",
+          "note": "1991 film by Kevin Reynolds"
+        }
+      ]
+    },
+    {
+      "name": "Neverwinter Nights (1991)",
+      "kind": "game",
+      "description": "The AOL online multiplayer Dungeons & Dragons game from March 1991.",
+      "timestamp": "44:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Neverwinter_Nights_(1991_video_game)",
+          "label": "Wikipedia: Neverwinter Nights (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 role-playing video game"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Neverwinter_Nights_(AOL)",
+          "label": "Neverwinter Nights (AOL) at StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Baldur's Gate",
+      "kind": "game",
+      "description": "Mentioned while sorting out Neverwinter Nights dates; released in 1998.",
+      "timestamp": "45:13",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Baldur's_Gate_(video_game)",
+          "label": "Wikipedia: Baldur's Gate (video game)",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "Beyond Software",
+      "kind": "company",
+      "description": "Developer of the 1991 Neverwinter Nights online game.",
+      "timestamp": "46:42",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stormfront_Studios",
+          "label": "Wikipedia: Stormfront Studios",
+          "source": "wikipedia",
+          "note": "Defunct American software company"
+        }
+      ]
+    },
+    {
+      "name": "Guild Wars",
+      "kind": "game",
+      "description": "MMO the hosts tried with friends; free until level 20.",
+      "timestamp": "48:05",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Guild_Wars",
+          "label": "Wikipedia: Guild Wars",
+          "source": "wikipedia",
+          "note": "Series of online 3D fantasy role-playing video games"
+        }
+      ]
+    },
+    {
+      "name": "Ultima VI",
+      "kind": "game",
+      "description": "Reportedly borrowed Times of Lore's icon interface.",
+      "timestamp": "50:51",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ultima_VI%3A_The_False_Prophet",
+          "label": "Wikipedia: Ultima VI: The False Prophet",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Come: Deliverance",
+      "kind": "game",
+      "description": "Named as a modern descendant of Times of Lore.",
+      "timestamp": "51:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kingdom_Come%3A_Deliverance",
+          "label": "Wikipedia: Kingdom Come: Deliverance",
+          "source": "wikipedia",
+          "note": "2018 video game"
+        }
+      ]
+    },
+    {
+      "name": "Shenmue",
+      "kind": "game",
+      "description": "Joked about when comparing NPC daily routines.",
+      "timestamp": "52:24",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shenmue",
+          "label": "Wikipedia: Shenmue",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Pokemon Emerald Rogue",
+      "kind": "game",
+      "description": "A roguelike Pokemon Emerald ROM hack one host recommended.",
+      "timestamp": "1:00:18",
+      "links": [
+        {
+          "url": "https://www.pokecommunity.com/threads/pokemon-emerald-rogue.479406/",
+          "label": "Pokemon Emerald Rogue thread at PokeCommunity",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "NEStalgia Essential Games List",
+      "kind": "other",
+      "description": "The show's running vote on which games are essential.",
+      "timestamp": "52:24",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}
