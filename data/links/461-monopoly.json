@@ -1,0 +1,351 @@
+{
+  "episode": 461,
+  "title": "461 - Monopoly",
+  "generated": "2026-11-25",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "19cbc965ab1a",
+  "items": [
+    {
+      "name": "Monopoly (NES)",
+      "kind": "game",
+      "description": "The episode's game: Sculptured Software's 1991 NES adaptation with computer banker, trading and a time limit.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monopoly_(1991_video_game)",
+          "label": "Wikipedia: Monopoly (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/68090/monopoly/releases/nes/",
+          "label": "Monopoly (NES) at MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://archive.org/download/NESManuals/Monopoly%20%28USA%29_text.pdf",
+          "label": "Monopoly NES manual (archive.org)",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Monopoly (board game)",
+      "kind": "other",
+      "description": "The board game itself, its rules, house rules and history.",
+      "timestamp": "00:19",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monopoly_(game)",
+          "label": "Wikipedia: Monopoly (game)",
+          "source": "wikipedia",
+          "note": "Property-trading board game"
+        }
+      ]
+    },
+    {
+      "name": "Parker Brothers",
+      "kind": "company",
+      "description": "Publisher of the board game and this NES version.",
+      "timestamp": "08:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Parker_Brothers",
+          "label": "Wikipedia: Parker Brothers",
+          "source": "wikipedia",
+          "note": "American toy and game manufacturer"
+        }
+      ]
+    },
+    {
+      "name": "Rich Uncle Pennybags",
+      "kind": "other",
+      "description": "The Monopoly guy, who appears hatless in the game.",
+      "timestamp": "00:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mr._Monopoly",
+          "label": "Wikipedia: Mr. Monopoly",
+          "source": "wikipedia",
+          "note": "Mascot for the board game Monopoly"
+        }
+      ]
+    },
+    {
+      "name": "The Landlord's Game",
+      "kind": "game",
+      "description": "1904 predecessor designed as a lesson against monopolies.",
+      "timestamp": "08:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Landlord's_Game",
+          "label": "Wikipedia: The Landlord's Game",
+          "source": "wikipedia",
+          "note": "1904 board game and precursor to Monopoly"
+        }
+      ]
+    },
+    {
+      "name": "McDonald's Monopoly",
+      "kind": "event_or_term",
+      "description": "The fast-food promotion, rigged by a theft of winning pieces from 1995 to 2000.",
+      "timestamp": "45:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/McDonald's_Monopoly",
+          "label": "Wikipedia: McDonald's Monopoly",
+          "source": "wikipedia",
+          "note": "Sales promotion"
+        },
+        {
+          "url": "https://www.justice.gov/archive/ag/speeches/2001/0821operationfinal.htm",
+          "label": "DOJ: Operation Final Answer",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Grossinger's Resort",
+      "kind": "other",
+      "description": "New York venue of the first championship.",
+      "timestamp": "47:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grossinger's_Resort",
+          "label": "Wikipedia: Grossinger's Resort",
+          "source": "wikipedia",
+          "note": "Hotel in Liberty, New York"
+        }
+      ]
+    },
+    {
+      "name": "Mikhail Gorbachev",
+      "kind": "person",
+      "description": "Visited Minnesota in 1990; Parker Brothers made a Russian-language Monopoly for him.",
+      "timestamp": "49:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev",
+          "label": "Wikipedia: Mikhail Gorbachev",
+          "source": "wikipedia",
+          "note": "Leader of the Soviet Union from 1985 to 1991"
+        }
+      ]
+    },
+    {
+      "name": "Tonka",
+      "kind": "company",
+      "description": "Minnesota toy company that owned Parker Brothers then.",
+      "timestamp": "49:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tonka",
+          "label": "Wikipedia: Tonka",
+          "source": "wikipedia",
+          "note": "American producer of toy trucks"
+        }
+      ]
+    },
+    {
+      "name": "Monopoly (1990 game show)",
+      "kind": "film_tv_music",
+      "description": "ABC game show that ran June to September 1990.",
+      "timestamp": "50:16",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monopoly_(game_show)",
+          "label": "Wikipedia: Monopoly (game show)",
+          "source": "wikipedia",
+          "note": "1990 American TV series or program"
+        }
+      ]
+    },
+    {
+      "name": "Monopoly (SNES, Genesis, Game Boy)",
+      "kind": "game",
+      "description": "The same game on other systems, with nicer graphics on Super NES.",
+      "timestamp": "55:20",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/game/68090/monopoly/releases/nes/",
+          "label": "Monopoly releases at MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Monopoly Tycoon",
+      "kind": "game",
+      "description": "2001 PC city management game by Deep Red Games.",
+      "timestamp": "58:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monopoly_Tycoon",
+          "label": "Wikipedia: Monopoly Tycoon",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        },
+        {
+          "url": "https://www.mobygames.com/game/5151/monopoly-tycoon/releases/",
+          "label": "Monopoly Tycoon at MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "RollerCoaster Tycoon",
+      "kind": "game",
+      "description": "Series the Monopoly Tycoon marketing pointed to.",
+      "timestamp": "58:56",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_(video_game)",
+          "label": "Wikipedia: RollerCoaster Tycoon (video game)",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "Monopoly Go",
+      "kind": "game",
+      "description": "2023 mobile game with microtransactions.",
+      "timestamp": "1:01:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monopoly_Go!",
+          "label": "Wikipedia: Monopoly Go!",
+          "source": "wikipedia",
+          "note": "2023 video game"
+        }
+      ]
+    },
+    {
+      "name": "Pokemon Go",
+      "kind": "game",
+      "description": "Joked about as having borrowed the word Go.",
+      "timestamp": "1:01:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go",
+          "label": "Wikipedia: Pokémon Go",
+          "source": "wikipedia",
+          "note": "2016 mobile game"
+        }
+      ]
+    },
+    {
+      "name": "Mario Party",
+      "kind": "game",
+      "description": "Hosts' comparison for turn limits and a 99-turn auto-play trick.",
+      "timestamp": "28:54",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mario_Party_(video_game)",
+          "label": "Wikipedia: Mario Party (video game)",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "Mario Party Superstars",
+      "kind": "game",
+      "description": "Recent Mario Party with remade N64 boards.",
+      "timestamp": "1:03:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mario_Party_Superstars",
+          "label": "Wikipedia: Mario Party Superstars",
+          "source": "wikipedia",
+          "note": "2021 video game"
+        }
+      ]
+    },
+    {
+      "name": "Monopoly Deal",
+      "kind": "game",
+      "description": "Fast card game spin-off.",
+      "timestamp": "1:03:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monopoly_Deal",
+          "label": "Wikipedia: Monopoly Deal",
+          "source": "wikipedia",
+          "note": "Card game based on the Monopoly board game"
+        }
+      ]
+    },
+    {
+      "name": "Risk",
+      "kind": "game",
+      "description": "Joked about in the Riskopoly mash-up.",
+      "timestamp": "40:55",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Risk_(game)",
+          "label": "Wikipedia: Risk (game)",
+          "source": "wikipedia",
+          "note": "1957 map-based war board game"
+        }
+      ]
+    },
+    {
+      "name": "Chess boxing",
+      "kind": "event_or_term",
+      "description": "Sport used to pitch Monopoly boxing.",
+      "timestamp": "1:12:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chess_boxing",
+          "label": "Wikipedia: Chess boxing",
+          "source": "wikipedia",
+          "note": "Hybrid game of chess and boxing"
+        }
+      ]
+    },
+    {
+      "name": "Atlantic City",
+      "kind": "other",
+      "description": "City the original board is based on; the hosts visited it.",
+      "timestamp": "09:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Atlantic_City%2C_New_Jersey",
+          "label": "Wikipedia: Atlantic City, New Jersey",
+          "source": "wikipedia",
+          "note": "City in Atlantic County, New Jersey, US"
+        }
+      ]
+    },
+    {
+      "name": "Uno",
+      "kind": "game",
+      "description": "Named as the other game with odd house rules.",
+      "timestamp": "07:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Uno_(card_game)",
+          "label": "Wikipedia: Uno (card game)",
+          "source": "wikipedia",
+          "note": "Card game produced by Mattel"
+        }
+      ]
+    },
+    {
+      "name": "The Game of Life",
+      "kind": "game",
+      "description": "Asked about as a possible NES game.",
+      "timestamp": "57:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Game_of_Life",
+          "label": "Wikipedia: The Game of Life",
+          "source": "wikipedia",
+          "note": "Board game created in 1960"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "episode": 460,
+  "title": "460 - Flight of the Intruder",
+  "generated": "2026-11-25",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "13f0db6ffb06",
+  "items": [
+    {
+      "name": "Flight of the Intruder (NES)",
+      "kind": "game",
+      "description": "The episode's game: Imagineering's 1991 NES flight sim with dogfight, bombing and carrier landing missions.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/game/2637",
+          "label": "Flight of the Intruder at MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://tcrf.net/Flight_of_the_Intruder_(NES)",
+          "label": "Flight of the Intruder (NES) at TCRF",
+          "source": "reference"
+        },
+        {
+          "url": "https://archive.org/download/NESManuals/Flight%20of%20the%20Intruder%20%28USA%29_text.pdf",
+          "label": "Flight of the Intruder NES manual (archive.org)",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Flight of the Intruder (film)",
+      "kind": "film_tv_music",
+      "description": "The 1991 movie with Danny Glover that the game is not based on.",
+      "timestamp": "04:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Flight_of_the_Intruder",
+          "label": "Wikipedia: Flight of the Intruder",
+          "source": "wikipedia",
+          "note": "1991 American film directed by John Milius"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Coonts",
+      "kind": "person",
+      "description": "Author of the novel; a real pilot who wrote the PC manual's introduction.",
+      "timestamp": "04:44",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stephen_Coonts",
+          "label": "Wikipedia: Stephen Coonts",
+          "source": "wikipedia",
+          "note": "American novelist (born 1946)"
+        }
+      ]
+    },
+    {
+      "name": "Stealth ATF",
+      "kind": "game",
+      "description": "Earlier Imagineering NES flight sim the hosts compare this game to.",
+      "timestamp": "08:21",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/game/22107",
+          "label": "Stealth ATF at MobyGames",
+          "source": "reference"
+        }
+      ],
+      "episode_key": "230-stealth-atf",
+      "episode_title": "Stealth ATF"
+    },
+    {
+      "name": "Top Gun",
+      "kind": "game",
+      "description": "NES jet game the hosts compare for flying and carrier landing.",
+      "timestamp": "09:34",
+      "links": [],
+      "episode_key": "086-top-gun",
+      "episode_title": "TOP GUN"
+    },
+    {
+      "name": "Star Fox 64",
+      "kind": "game",
+      "description": "Compared for its all-range mode where you circle the boss.",
+      "timestamp": "16:17",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Fox_64",
+          "label": "Wikipedia: Star Fox 64",
+          "source": "wikipedia",
+          "note": "1997 video game"
+        }
+      ]
+    },
+    {
+      "name": "Zombie Nation",
+      "kind": "game",
+      "description": "Shmup where you destroy a city, brought up while bombing what looked like houses.",
+      "timestamp": "25:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zombie_Nation_(video_game)",
+          "label": "Wikipedia: Zombie Nation (video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ],
+      "episode_key": "431-zombie-nation",
+      "episode_title": "Zombie Nation"
+    },
+    {
+      "name": "Flappy Bird",
+      "kind": "game",
+      "description": "Hosts' running comparison for matching thrust to altitude while landing.",
+      "timestamp": "30:03",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Flappy_Bird",
+          "label": "Wikipedia: Flappy Bird",
+          "source": "wikipedia",
+          "note": "2013 mobile game"
+        }
+      ]
+    },
+    {
+      "name": "Rowan Software",
+      "kind": "company",
+      "description": "British studio that made the original PC flight sim.",
+      "timestamp": "38:41",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rowan_Software",
+          "label": "Wikipedia: Rowan Software",
+          "source": "wikipedia",
+          "note": "British software company"
+        }
+      ]
+    },
+    {
+      "name": "Flight of the Intruder (PC)",
+      "kind": "game",
+      "description": "The 1990 computer original with a 192-page manual; still sold on GOG.",
+      "timestamp": "03:19",
+      "links": [
+        {
+          "url": "https://gog.com/game/flight_of_the_intruder",
+          "label": "Flight of the Intruder on GOG",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Operation Linebacker",
+      "kind": "event_or_term",
+      "description": "The 1972 bombing campaign the missions are set in.",
+      "timestamp": "06:37",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Linebacker",
+          "label": "Wikipedia: Operation Linebacker",
+          "source": "wikipedia",
+          "note": "Part of the Vietnam War (1972)"
+        }
+      ]
+    },
+    {
+      "name": "Gulf War",
+      "kind": "event_or_term",
+      "description": "Going on around the game's 1991 release; nicknamed the video game war on the show.",
+      "timestamp": "46:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gulf_War",
+          "label": "Wikipedia: Gulf War",
+          "source": "wikipedia",
+          "note": "1990–1991 conflict in the Middle East"
+        }
+      ]
+    },
+    {
+      "name": "Topps Desert Storm cards",
+      "kind": "other",
+      "description": "Trading card set with 264 cards that the hosts say is collectible now.",
+      "timestamp": "48:50",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Desert_Storm_trading_cards",
+          "label": "Wikipedia: Desert Storm trading cards",
+          "source": "wikipedia",
+          "note": "Featuring people and equipment of the Gulf War"
+        },
+        {
+          "url": "https://www.tcdb.com/ViewSet.cfm/sid/72982/1991-Topps-Desert-Storm",
+          "label": "1991 Topps Desert Storm at TCDB",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Phantom Air Mission",
+      "kind": "game",
+      "description": "European title of this game.",
+      "timestamp": "51:15",
+      "links": [
+        {
+          "url": "https://mobygames.com/game/flight-of-the-intruder",
+          "label": "Flight of the Intruder (Phantom Air Mission) at MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Turn and Burn: The F-14 Dogfight Simulator",
+      "kind": "game",
+      "description": "Imagineering's Game Boy flight sim that followed a year later.",
+      "timestamp": "52:27",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Turn_and_Burn%3A_The_F-14_Dogfight_Simulator",
+          "label": "Wikipedia: Turn and Burn: The F-14 Dogfight Simulator",
+          "source": "wikipedia",
+          "note": "1992 video game"
+        },
+        {
+          "url": "https://mobygames.com/game/gameboy/turn-and-burn-the-f-14-dogfight-simulator",
+          "label": "Turn and Burn at MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "GOG.com",
+      "kind": "website_or_article",
+      "description": "Store where the PC original can still be bought.",
+      "timestamp": "53:14",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/GOG.com",
+          "label": "Wikipedia: GOG.com",
+          "source": "wikipedia",
+          "note": "Digital video game distribution platform"
+        }
+      ]
+    },
+    {
+      "name": "Ace Combat",
+      "kind": "game",
+      "description": "Modern arcade-style flight series named as a comparison.",
+      "timestamp": "53:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ace_Combat",
+          "label": "Wikipedia: Ace Combat",
+          "source": "wikipedia",
+          "note": "Flight action video game series"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Flight Simulator",
+      "kind": "game",
+      "description": "Realistic flight sim series used as a comparison.",
+      "timestamp": "32:49",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_(2020_video_game)",
+          "label": "Wikipedia: Microsoft Flight Simulator (2020 video game)",
+          "source": "wikipedia",
+          "note": "Flight simulation video game"
+        }
+      ]
+    },
+    {
+      "name": "DCS World",
+      "kind": "game",
+      "description": "Realistic modern flight sim the hosts name.",
+      "timestamp": "54:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Digital_Combat_Simulator",
+          "label": "Wikipedia: Digital Combat Simulator",
+          "source": "wikipedia",
+          "note": "2008 video game"
+        }
+      ]
+    },
+    {
+      "name": "Medal of Honor",
+      "kind": "game",
+      "description": "Compared to a game with one great D-Day level and a lackluster rest.",
+      "timestamp": "08:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Medal_of_Honor_(1999_video_game)",
+          "label": "Wikipedia: Medal of Honor (1999 video game)",
+          "source": "wikipedia",
+          "note": "1999 video game"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix Wright: Ace Attorney",
+      "kind": "game",
+      "description": "Joked about as the court martial level.",
+      "timestamp": "07:23",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Phoenix_Wright%3A_Ace_Attorney",
+          "label": "Wikipedia: Phoenix Wright: Ace Attorney",
+          "source": "wikipedia",
+          "note": "2001 video game"
+        }
+      ]
+    },
+    {
+      "name": "WarioWare",
+      "kind": "game",
+      "description": "Compared to the quick mission-by-mission structure.",
+      "timestamp": "54:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/WarioWare%2C_Inc.%3A_Mega_Microgames!",
+          "label": "Wikipedia: WarioWare, Inc.: Mega Microgames!",
+          "source": "wikipedia",
+          "note": "2003 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Santa Clause",
+      "kind": "film_tv_music",
+      "description": "Tim Allen Santa movie trilogy joked about early on.",
+      "timestamp": "02:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Santa_Clause",
+          "label": "Wikipedia: The Santa Clause",
+          "source": "wikipedia",
+          "note": "1994 film directed by John Pasquin"
+        }
+      ]
+    },
+    {
+      "name": "Highlander",
+      "kind": "film_tv_music",
+      "description": "Movie joked about for its immortal title-takers.",
+      "timestamp": "02:08",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Highlander_(film)",
+          "label": "Wikipedia: Highlander (film)",
+          "source": "wikipedia",
+          "note": "1986 fantasy film by Russell Mulcahy"
+        }
+      ]
+    },
+    {
+      "name": "Paramount Pictures",
+      "kind": "company",
+      "description": "Released the film; the hosts joke about its mergers.",
+      "timestamp": "45:40",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Paramount_Pictures",
+          "label": "Wikipedia: Paramount Pictures",
+          "source": "wikipedia",
+          "note": "American film and distribution company"
+        }
+      ]
+    },
+    {
+      "name": "Danny Glover",
+      "kind": "person",
+      "description": "Actor in the movie.",
+      "timestamp": "04:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Danny_Glover",
+          "label": "Wikipedia: Danny Glover",
+          "source": "wikipedia",
+          "note": "American actor (born 1946)"
+        }
+      ]
+    },
+    {
+      "name": "Free Bird",
+      "kind": "film_tv_music",
+      "description": "Lynyrd Skynyrd song joked about as the game's soundtrack.",
+      "timestamp": "44:30",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Free_Bird",
+          "label": "Wikipedia: Free Bird",
+          "source": "wikipedia",
+          "note": "1974 single by Lynyrd Skynyrd"
+        }
+      ]
+    }
+  ]
+}
