@@ -1,0 +1,397 @@
+{
+  "episode": 465,
+  "title": "465 - Castelian",
+  "generated": "2026-11-26",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "4ac969891fba",
+  "items": [
+    {
+      "name": "Castelian",
+      "kind": "game",
+      "description": "The episode's game: the NES version of the tower-climbing puzzle platformer Nebulus.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://www.mobygames.com/game/3874/tower-toppler/releases/",
+          "label": "Tower Toppler (Castelian) - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://tcrf.net/Castelian_(NES)",
+          "label": "Castelian (NES) - The Cutting Room Floor",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.honestgamers.com/3170/nes/castelian/game.html",
+          "label": "Castelian (NES) - HonestGamers",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Nebulus",
+      "kind": "game",
+      "description": "The 1987 home computer original, also sold as Tower Toppler in America.",
+      "timestamp": "03:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nebulus_(video_game)",
+          "label": "Wikipedia: Nebulus (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        },
+        {
+          "url": "https://www.c64-wiki.com/wiki/Nebulus",
+          "label": "Nebulus - C64-Wiki",
+          "source": "reference"
+        },
+        {
+          "url": "https://strategywiki.org/wiki/Tower_Toppler",
+          "label": "Tower Toppler - StrategyWiki",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Battletoads",
+      "kind": "game",
+      "description": "Last week's game, which had a rotating tower that this game's towers recall.",
+      "timestamp": "01:25",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battletoads_(1991_video_game)",
+          "label": "Wikipedia: Battletoads (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "ZX Spectrum",
+      "kind": "hardware",
+      "description": "British home computer that got the original Nebulus.",
+      "timestamp": "03:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/ZX_Spectrum",
+          "label": "Wikipedia: ZX Spectrum",
+          "source": "wikipedia",
+          "note": "1982 home computer"
+        }
+      ]
+    },
+    {
+      "name": "Commodore 64",
+      "kind": "hardware",
+      "description": "Another home computer with Nebulus, and a 2004 plug-and-play version.",
+      "timestamp": "03:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Commodore_64",
+          "label": "Wikipedia: Commodore 64",
+          "source": "wikipedia",
+          "note": "8-bit home computer introduced in 1982"
+        }
+      ]
+    },
+    {
+      "name": "Kyorochan",
+      "kind": "other",
+      "description": "Parrot mascot of Choco Ball candy who replaced Julius in the Japanese release, Kyoro-chan Land.",
+      "timestamp": "28:10",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kyorochan",
+          "label": "Wikipedia: Kyorochan",
+          "source": "wikipedia",
+          "note": "Mascot character"
+        },
+        {
+          "url": "https://morinaga.co.jp/kyorochan/en",
+          "label": "Kyorochan - Morinaga",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Zzap!64",
+      "kind": "other",
+      "description": "Magazine whose gold medal went to the Commodore 64 Nebulus.",
+      "timestamp": "30:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zzap!64",
+          "label": "Wikipedia: Zzap!64",
+          "source": "wikipedia",
+          "note": "British video game magazine"
+        }
+      ]
+    },
+    {
+      "name": "Golden Joystick Awards",
+      "kind": "event_or_term",
+      "description": "British awards where Nebulus won best original game for 1987.",
+      "timestamp": "30:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Golden_Joystick_Awards",
+          "label": "Wikipedia: Golden Joystick Awards",
+          "source": "wikipedia",
+          "note": "Annual video game award ceremony"
+        }
+      ]
+    },
+    {
+      "name": "Resident Evil Requiem",
+      "kind": "game",
+      "description": "Joked about as a Golden Joystick winner alongside Castelian's original.",
+      "timestamp": "30:48",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Resident_Evil_Requiem",
+          "label": "Wikipedia: Resident Evil Requiem",
+          "source": "wikipedia",
+          "note": "2026 video game"
+        }
+      ]
+    },
+    {
+      "name": "Jetpac",
+      "kind": "game",
+      "description": "First Golden Joystick game of the year winner, 1983.",
+      "timestamp": "32:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jetpac",
+          "label": "Wikipedia: Jetpac",
+          "source": "wikipedia",
+          "note": "1983 video game"
+        }
+      ]
+    },
+    {
+      "name": "Knight Lore",
+      "kind": "game",
+      "description": "1984 Golden Joystick game of the year.",
+      "timestamp": "32:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Knight_Lore",
+          "label": "Wikipedia: Knight Lore",
+          "source": "wikipedia",
+          "note": "1984 video game"
+        }
+      ]
+    },
+    {
+      "name": "The Way of the Exploding Fist",
+      "kind": "game",
+      "description": "1985 Golden Joystick game of the year, a year Super Mario Bros. came out.",
+      "timestamp": "32:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Way_of_the_Exploding_Fist",
+          "label": "Wikipedia: The Way of the Exploding Fist",
+          "source": "wikipedia",
+          "note": "1985 video game"
+        }
+      ]
+    },
+    {
+      "name": "Out Run",
+      "kind": "game",
+      "description": "Won game of the year at the 1987 Golden Joysticks.",
+      "timestamp": "32:38",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Out_Run",
+          "label": "Wikipedia: Out Run",
+          "source": "wikipedia",
+          "note": "1986 video game"
+        }
+      ]
+    },
+    {
+      "name": "Wizball",
+      "kind": "game",
+      "description": "One of the best original game runners-up to Nebulus.",
+      "timestamp": "33:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wizball",
+          "label": "Wikipedia: Wizball",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Driller",
+      "kind": "game",
+      "description": "The other runner-up for best original game.",
+      "timestamp": "33:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Driller_(video_game)",
+          "label": "Wikipedia: Driller (video game)",
+          "source": "wikipedia",
+          "note": "1987 video game"
+        }
+      ]
+    },
+    {
+      "name": "Populous",
+      "kind": "game",
+      "description": "1989 Golden Joystick winner, mentioned in a recent show joke.",
+      "timestamp": "33:12",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Populous_(video_game)",
+          "label": "Wikipedia: Populous (video game)",
+          "source": "wikipedia",
+          "note": "1989 video game"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario 64",
+      "kind": "game",
+      "description": "1996 Golden Joystick game of the year.",
+      "timestamp": "33:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_64",
+          "label": "Wikipedia: Super Mario 64",
+          "source": "wikipedia",
+          "note": "1996 video game"
+        }
+      ]
+    },
+    {
+      "name": "PaRappa the Rapper",
+      "kind": "game",
+      "description": "Won the 1996 Nestle most original game of the year award.",
+      "timestamp": "33:47",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/PaRappa_the_Rapper",
+          "label": "Wikipedia: PaRappa the Rapper",
+          "source": "wikipedia",
+          "note": "1996 rhythm video game"
+        }
+      ]
+    },
+    {
+      "name": "Skyrim",
+      "kind": "game",
+      "description": "Joked about as a recent Golden Joystick Ultimate Game of the Year.",
+      "timestamp": "34:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V%3A_Skyrim",
+          "label": "Wikipedia: The Elder Scrolls V: Skyrim",
+          "source": "wikipedia",
+          "note": "2011 video game"
+        }
+      ]
+    },
+    {
+      "name": "Clair Obscur: Expedition 33",
+      "kind": "game",
+      "description": "Recent game of the year winner used to judge the awards.",
+      "timestamp": "34:34",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Clair_Obscur%3A_Expedition_33",
+          "label": "Wikipedia: Clair Obscur: Expedition 33",
+          "source": "wikipedia",
+          "note": "2025 video game"
+        }
+      ]
+    },
+    {
+      "name": "Elden Ring",
+      "kind": "game",
+      "description": "Golden Joystick game of the year, 2022.",
+      "timestamp": "34:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Elden_Ring",
+          "label": "Wikipedia: Elden Ring",
+          "source": "wikipedia",
+          "note": "2022 video game"
+        }
+      ]
+    },
+    {
+      "name": "Game Boy",
+      "kind": "hardware",
+      "description": "Castelian also came out on Game Boy.",
+      "timestamp": "37:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_Boy",
+          "label": "Wikipedia: Game Boy",
+          "source": "wikipedia",
+          "note": "Handheld Nintendo game console"
+        }
+      ]
+    },
+    {
+      "name": "Virtual Console",
+      "kind": "other",
+      "description": "Wii service where Nebulus was released in Europe.",
+      "timestamp": "37:20",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Virtual_Console",
+          "label": "Wikipedia: Virtual Console",
+          "source": "wikipedia",
+          "note": "Line of downloadable video games for several Nintendo platforms"
+        }
+      ]
+    },
+    {
+      "name": "Fez",
+      "kind": "game",
+      "description": "Rotating 3D perspective puzzle platformer the hosts compare to Castelian.",
+      "timestamp": "37:59",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fez_(video_game)",
+          "label": "Wikipedia: Fez (video game)",
+          "source": "wikipedia",
+          "note": "2012 video game"
+        }
+      ]
+    },
+    {
+      "name": "Braid",
+      "kind": "game",
+      "description": "Indie puzzle platformer Joe played before Fez.",
+      "timestamp": "38:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Braid_(video_game)",
+          "label": "Wikipedia: Braid (video game)",
+          "source": "wikipedia",
+          "note": "2008 puzzle platform video game"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "other",
+      "description": "NEStalgia's list of the NES games the hosts vote essential.",
+      "timestamp": "39:06",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}

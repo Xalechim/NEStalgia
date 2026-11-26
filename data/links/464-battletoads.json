@@ -1,0 +1,456 @@
+{
+  "episode": 464,
+  "title": "464 - Battletoads",
+  "generated": "2026-11-26",
+  "model": null,
+  "method": "claude-code: written from the transcript, links verified by script",
+  "transcript_hash": "567d3e47e938",
+  "items": [
+    {
+      "name": "Battletoads",
+      "kind": "game",
+      "description": "The episode's game: Rare's 1991 brawler and platformer famous for brutal difficulty.",
+      "timestamp": "00:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battletoads_(1991_video_game)",
+          "label": "Wikipedia: Battletoads (1991 video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/battletoads/",
+          "label": "Battletoads - Hardcore Gaming 101",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.mobygames.com/game/battletoads",
+          "label": "Battletoads - MobyGames",
+          "source": "reference"
+        },
+        {
+          "url": "https://archive.org/download/NESManuals/Battletoads%20%28USA%29_text.pdf",
+          "label": "Battletoads (USA) NES manual - Internet Archive",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Rare",
+      "kind": "company",
+      "description": "Developer of Battletoads, also behind Snake Rattle 'n' Roll.",
+      "timestamp": "01:36",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rare_(company)",
+          "label": "Wikipedia: Rare (company)",
+          "source": "wikipedia",
+          "note": "British video game developer"
+        }
+      ]
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles",
+      "kind": "film_tv_music",
+      "description": "The craze Battletoads was a response to; the hosts joke the toads look like visual ripoffs.",
+      "timestamp": "02:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles",
+          "label": "Wikipedia: Teenage Mutant Ninja Turtles",
+          "source": "wikipedia",
+          "note": "American media franchise"
+        }
+      ],
+      "episode_key": "195-teenage-mutant-ninja-turtles",
+      "episode_title": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "name": "Snake Rattle 'n' Roll",
+      "kind": "game",
+      "description": "Another original Rare game covered earlier on the show.",
+      "timestamp": "01:36",
+      "links": [],
+      "episode_key": "345-snake-rattle-n-roll",
+      "episode_title": "Snake Rattle N Roll"
+    },
+    {
+      "name": "DIC Entertainment",
+      "kind": "company",
+      "description": "Animation studio that made a half hour Battletoads pilot in 1992.",
+      "timestamp": "04:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/DIC_Entertainment",
+          "label": "Wikipedia: DIC Entertainment",
+          "source": "wikipedia",
+          "note": "Former film and television production company"
+        }
+      ]
+    },
+    {
+      "name": "Battletoads/Double Dragon",
+      "kind": "game",
+      "description": "Crossover game the hosts played on Genesis as kids and will cover on the NES.",
+      "timestamp": "01:04",
+      "links": [
+        {
+          "url": "https://www.hardcoregaming101.net/battletoads-double-dragon/",
+          "label": "Battletoads & Double Dragon - Hardcore Gaming 101",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.mobygames.com/game/6154/battletoads-double-dragon/reviews/nes/",
+          "label": "Battletoads / Double Dragon - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Sega Genesis",
+      "kind": "hardware",
+      "description": "Console where one host played Double Dragon Battletoads with a stepbrother.",
+      "timestamp": "01:04",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sega_Genesis",
+          "label": "Wikipedia: Sega Genesis",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "Half-Life",
+      "kind": "game",
+      "description": "Compared to the tall walker enemies, along with War of the Worlds.",
+      "timestamp": "11:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Half-Life_(video_game)",
+          "label": "Wikipedia: Half-Life (video game)",
+          "source": "wikipedia",
+          "note": "1998 video game"
+        }
+      ]
+    },
+    {
+      "name": "The War of the Worlds",
+      "kind": "other",
+      "description": "The tall walker enemies reminded the hosts of its tripod machines.",
+      "timestamp": "11:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_War_of_the_Worlds",
+          "label": "Wikipedia: The War of the Worlds",
+          "source": "wikipedia",
+          "note": "1898 sci-fi novel by H. G. Wells"
+        }
+      ]
+    },
+    {
+      "name": "Street Fighter II",
+      "kind": "game",
+      "description": "Used as the example of complicated quarter-circle combo inputs Battletoads avoids.",
+      "timestamp": "09:06",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Street_Fighter_II",
+          "label": "Wikipedia: Street Fighter II",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dinosaur Game",
+      "kind": "game",
+      "description": "Chrome's offline dinosaur game, compared to dodging obstacles in the turbo tunnel.",
+      "timestamp": "19:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dinosaur_Game",
+          "label": "Wikipedia: Dinosaur Game",
+          "source": "wikipedia",
+          "note": "2014 video game"
+        }
+      ]
+    },
+    {
+      "name": "Dance Dance Revolution",
+      "kind": "game",
+      "description": "Compared to the expert-level obstacle patterns in later stages.",
+      "timestamp": "35:28",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dance_Dance_Revolution",
+          "label": "Wikipedia: Dance Dance Revolution",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ]
+    },
+    {
+      "name": "Ghosts 'n Goblins",
+      "kind": "game",
+      "description": "Another infamously hard game the show has covered, contrasted with Battletoads' difficulty.",
+      "timestamp": "28:46",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghosts_'n_Goblins",
+          "label": "Wikipedia: Ghosts 'n Goblins",
+          "source": "wikipedia",
+          "note": "Video game series"
+        }
+      ],
+      "episode_key": "034-ghosts-n-goblins",
+      "episode_title": "GHOSTS 'N GOBLINS"
+    },
+    {
+      "name": "Super Mario World",
+      "kind": "game",
+      "description": "The snake platform level felt like one of its moving-platform levels.",
+      "timestamp": "28:26",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_World",
+          "label": "Wikipedia: Super Mario World",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Battletoads (Game Boy)",
+      "kind": "game",
+      "description": "Different game with the same title and box art, with eight levels and a playable Zitz.",
+      "timestamp": "50:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battletoads_(Game_Boy_video_game)",
+          "label": "Wikipedia: Battletoads (Game Boy video game)",
+          "source": "wikipedia",
+          "note": "1991 video game"
+        }
+      ]
+    },
+    {
+      "name": "Battletoads in Battlemaniacs",
+      "kind": "game",
+      "description": "1993 Super Nintendo game remixing levels from the NES game.",
+      "timestamp": "53:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battletoads_in_Battlemaniacs",
+          "label": "Wikipedia: Battletoads in Battlemaniacs",
+          "source": "wikipedia",
+          "note": "1993 video game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/battletoads-in-battlemaniacs/",
+          "label": "Battletoads in Battlemaniacs - Hardcore Gaming 101",
+          "source": "reference"
+        },
+        {
+          "url": "https://www.mobygames.com/game/10128/battletoads-in-battlemaniacs/mobyrank",
+          "label": "Battletoads in Battlemaniacs - MobyGames",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Battletoads Arcade",
+      "kind": "game",
+      "description": "Separate arcade game with three-player co-op, also called Super Battletoads.",
+      "timestamp": "55:29",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battletoads_Arcade",
+          "label": "Wikipedia: Battletoads Arcade",
+          "source": "wikipedia",
+          "note": "1994 arcade game"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/battletoads-arcade/",
+          "label": "Battletoads (Arcade) - Hardcore Gaming 101",
+          "source": "reference"
+        }
+      ]
+    },
+    {
+      "name": "Rare Replay",
+      "kind": "game",
+      "description": "2015 Xbox compilation where you can play Battletoads and Super Battletoads.",
+      "timestamp": "56:01",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rare_Replay",
+          "label": "Wikipedia: Rare Replay",
+          "source": "wikipedia",
+          "note": "2015 video game compilation"
+        }
+      ]
+    },
+    {
+      "name": "Battletoads (2020)",
+      "kind": "game",
+      "description": "The 2020 hand-drawn Battletoads game that brings back the turbo tunnel.",
+      "timestamp": "56:31",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battletoads_(2020_video_game)",
+          "label": "Wikipedia: Battletoads (2020 video game)",
+          "source": "wikipedia",
+          "note": "2020 video game"
+        },
+        {
+          "url": "https://news.xbox.com/en-us/2020/07/31/battletoads-incoming-anarchic-amphibians-arrive-august-20-with-xbox-game-pass/",
+          "label": "Battletoads arrives August 20 - Xbox Wire",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Battletoads: The Strange History of a Nigh-Impossible Franchise",
+      "kind": "website_or_article",
+      "description": "Den of Geek piece cited as calling the two-player mode nearly unplayable.",
+      "timestamp": "46:40",
+      "links": [
+        {
+          "url": "https://www.denofgeek.com/games/battletoads-the-strange-history-of-a-nigh-impossible-franchise/",
+          "label": "Battletoads: The Strange History of a Nigh-Impossible Franchise",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Battletoads warp in the Turbo Tunnel",
+      "kind": "event_or_term",
+      "description": "The secret warp hit by crashing into a wall in the bike level, skipping ahead.",
+      "timestamp": "23:39",
+      "links": [
+        {
+          "url": "https://gamerant.com/battletoads-find-turbo-bike-warp-wall/",
+          "label": "Battletoads: find the turbo bike warp wall",
+          "source": "other"
+        },
+        {
+          "url": "https://tasvideos.org/GameResources/NES/Battletoads",
+          "label": "Battletoads NES game resources - TASVideos",
+          "source": "other"
+        }
+      ]
+    },
+    {
+      "name": "Fez",
+      "kind": "game",
+      "description": "Sean's earlier comparison to the rotating tower rendering.",
+      "timestamp": "43:58",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fez_(video_game)",
+          "label": "Wikipedia: Fez (video game)",
+          "source": "wikipedia",
+          "note": "2012 video game"
+        }
+      ]
+    },
+    {
+      "name": "Kaizo Mario",
+      "kind": "event_or_term",
+      "description": "Joe compared Battletoads' intricate difficulty to Kaizo Mario runs.",
+      "timestamp": "01:02:00",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kaizo_Mario_World",
+          "label": "Wikipedia: Kaizo Mario World",
+          "source": "wikipedia",
+          "note": "ROM hack series"
+        }
+      ]
+    },
+    {
+      "name": "Super Mario Maker",
+      "kind": "game",
+      "description": "Used as the standard for what developers should be allowed to publish.",
+      "timestamp": "58:07",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Super_Mario_Maker",
+          "label": "Wikipedia: Super Mario Maker",
+          "source": "wikipedia",
+          "note": "2015 video game"
+        }
+      ]
+    },
+    {
+      "name": "Silver Surfer",
+      "kind": "game",
+      "description": "Another punishingly difficult NES game, mentioned by Joe.",
+      "timestamp": "01:01:11",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silver_Surfer_(video_game)",
+          "label": "Wikipedia: Silver Surfer (video game)",
+          "source": "wikipedia",
+          "note": "1990 video game"
+        }
+      ]
+    },
+    {
+      "name": "Master System",
+      "kind": "hardware",
+      "description": "Port of the Super Nintendo Battletoads game released late in Brazil.",
+      "timestamp": "53:09",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Master_System",
+          "label": "Wikipedia: Master System",
+          "source": "wikipedia",
+          "note": "Home video game console"
+        }
+      ]
+    },
+    {
+      "name": "God of War Ragnarök",
+      "kind": "game",
+      "description": "Used in a joke about Battletoads in Ragnarok's World's title.",
+      "timestamp": "51:43",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/God_of_War_Ragnar%C3%B6k",
+          "label": "Wikipedia: God of War Ragnarök",
+          "source": "wikipedia",
+          "note": "2022 video game"
+        }
+      ]
+    },
+    {
+      "name": "Grand Theft Auto VI",
+      "kind": "game",
+      "description": "Joke about a game where dying wipes your progress.",
+      "timestamp": "01:10:39",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "label": "Wikipedia: Grand Theft Auto VI",
+          "source": "wikipedia",
+          "note": "2026 video game"
+        }
+      ]
+    },
+    {
+      "name": "Essential Games List",
+      "kind": "other",
+      "description": "NEStalgia's list of the NES games the hosts vote essential.",
+      "timestamp": "59:54",
+      "links": [
+        {
+          "url": "{BASE}/essential/",
+          "label": "NEStalgia Essential Games List",
+          "source": "site"
+        }
+      ]
+    }
+  ]
+}
