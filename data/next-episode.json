@@ -1,11 +1,11 @@
 {
-  "number": 456,
-  "title": "RoboCop 2",
-  "publish_date": "2026-11-27",
-  "developer": "Painting by Numbers",
-  "publisher": "Data EastJP/NA\nOcean SoftwarePAL",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/RoboCop_2_(video_game)",
-  "extract": "RoboCop 2 is a 1990 platform shooter video game based on the film of the same name. The game was released for several platforms, including Amiga, GX4000, Atari ST, Commodore 64, Game Boy, Nintendo Entertainment System, and ZX Spectrum. Ocean Software developed and published several versions, and Data East manufactured an arcade version.",
+  "number": 457,
+  "title": "World Champ",
+  "publish_date": "2026-12-04",
+  "developer": "Pixel",
+  "publisher": "ViscoJP\nRomstarNA\nTaitoPAL",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Visco_Corporation",
+  "extract": "Visco Corporation (株式会社ビスコ) is a Japanese video game developer. They originally developed video games for several platforms from the arcades and NES, to the Nintendo 64 and Neo Geo in the past. Alongside Toaplan and other developers, Visco was closely associated with Taito, who released their games without any credit; Visco eventually bought back the rights to every game they had developed.",
   "has_art": true,
   "art_source": "episode"
 }

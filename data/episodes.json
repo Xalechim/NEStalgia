@@ -1,6 +1,23 @@
 [
   {
     "type": "episode",
+    "number": 456,
+    "title": "RoboCop 2",
+    "feed_title": "456 - RoboCop 2",
+    "published": "2026-11-27",
+    "duration_seconds": 2576,
+    "description": "Support NEStalgia directly by becoming a member of our Patreon at https://www.patreon.com/Nestalgia  Members at the $5 and above level get access to our brand new show NEStalgia Bytes. A look at the famicom games you can play without any Japanese knowledge! For More NEStalgia, visit www.NEStalgiacast.com",
+    "audio_url": "https://anchor.fm/s/5808ab8/podcast/play/127306364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2Fc8a2133a-a216-d9e9-936d-71ab9eb617a9.mp3",
+    "episode_page": "https://podcasters.spotify.com/pod/show/nestalgia/episodes/456---RoboCop-2-e3qbj5s",
+    "art": "assets/episode-art/456-robocop-2.jpg",
+    "notes": [
+      "episodes/456-robocop-2.md"
+    ],
+    "transcript": "t",
+    "guid": "744b88e5-7187-424d-a879-b0d61b1af52c"
+  },
+  {
+    "type": "episode",
     "number": 455,
     "title": "Nobonuga's Ambition II",
     "feed_title": "455 - Nobonuga's Ambition II",
